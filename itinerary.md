@@ -41,6 +41,9 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | **Now** | Prebook **BANKSY** (ends Nov 3) · reserve Seoul walking tours a few days ahead | thehyundai.com · sto.or.kr |
 | **Now** | Book KTX patterns you're sure of (Seoul↔Daejeon Nov 6–8, Seoul↔Busan Nov 19–22) | letskorail.com |
 | **Late Aug–Sep** | V-League fixture list drops → lock volleyball dates in all cities | kovo.co.kr |
+| **Aug–Sep** | 🌙 Changdeokgung **Moonlight Tour fall dates + lottery entry** announced (EN/CN/JP sessions sell via Creatrip) | kh.or.kr · creatrip.com |
+| **Sep–Oct** | KBO postseason bracket forms → Korean Series likely lands late Oct/early Nov (could overlap arrival) | koreabaseball.com |
+| **Sep–Oct** | 🇰🇷 Korea national team **November friendlies** announced (opponents/venue) | kfa.or.kr |
 | **Sep–Oct** | 🎆 Busan Fireworks paid seats on sale (YES24/Busan Bank) — free viewing needs no ticket | busanfireworks.com |
 | **Sep–Oct** | KBL & WKBL 2026–27 schedules published | kbl.or.kr · wkbl.or.kr |
 | **Sep–Oct** | **Seoul Kimjang Festival** dates announced (expect first weekend of Nov) | seoul.go.kr / visitseoul.net |
@@ -53,6 +56,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 ---
 
 ## ⚠️ Known clashes on this skeleton
+- **Days 1–2 (Oct 31–Nov 1):** if the **KBO Korean Series** goes the distance, Games 6–7 could land exactly here (late-Oct/early-Nov per 2026's early season end) — that would trump almost everything else; check in October.
 - **Sat Nov 7** is the trip's busiest day: Busan Fireworks vs KGMA (Seoul) vs Wine EXPO/Noodle (Daejeon) — pick one, this file marks it as the choice day.
 - **Nov 14–15**: Jason Mraz, MMA, and LoL Worlds finals all overlap — prioritize MMA if you're into K-pop (first-ever 2-day edition).
 - **Nov 19–22**: 5 Seconds of Summer (Seoul/Ilsan) competes directly with G-STAR (Busan) — same ticket budget, pick your lane.

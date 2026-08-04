@@ -113,8 +113,8 @@ All listed on the official Visit Seoul events calendar (links = official listing
 - **Price:** ~₩10,000–20,000 (~$7–14) per game — verify on [kbl.or.kr](https://www.kbl.or.kr)
 - **Beginner notes:** Intimate arenas, light shows, and English commentary on screens at many games.
 
-### 13) KBO Korean Series (Baseball Championship) — 👀 WATCH (late Oct, may brush your first days)
-- **What:** Best-of-7 KBO championship. 2026 has an **Asian Games break (Aichi–Nagoya, Sep 19 – Oct 4)** that pushes the regular-season end and postseason earlier — 2025's Korean Series began **Oct 24**; a 2026 late-Oct/early-Nov series is likely. Check standings in September.
+### 13) KBO Korean Series (Baseball Championship) — 👀 WATCH (may overlap your arrival days)
+- **What:** Best-of-7 KBO championship. Official KBO announcement: 2026 season opens **Mar 28**, with 135 of 144 games scheduled through **Sep 6** (remainder placed later) — so the regular season ends **late Sep / early Oct** and the postseason runs through October. 2025's Korean Series began **Oct 24** → a 2026 **late-Oct / early-Nov** series is likely and could land right on your first days. Check standings in early October.
 - **Where (if a Seoul team tops the standings):** Jamsil Baseball Stadium (LG Twins / Doosan Bears) or Gocheok Sky Dome (Kiwoom Heroes)
 - **Price:** General seats roughly ₩10,000–35,000 (~$7–25)
 - **Official source:** [koreabaseball.com](https://www.koreabaseball.com)
@@ -138,9 +138,9 @@ All listed on the official Visit Seoul events calendar (links = official listing
 - **Official source:** [kleague.com](https://www.kleague.com)
 
 ### 17) 🇰🇷 Korea national football team — November friendlies — 👀 WATCH
-- **What:** The FIFA international window (~**Nov 9–17, 2026**) usually brings home friendlies at Seoul World Cup Stadium or Suwon. Opponents/venues announced ~1 month ahead.
+- **What:** FIFA consolidated 2026's windows, so the **November window (~Nov 9–17, 9 days)** carries **two friendlies**. Korea is currently under an **interim coach** (post-World Cup); October's confirmed friendlies (Venezuela Oct 2, Uzbekistan Oct 6) fall *before* your trip — November opponents & venue TBA, expect the KFA announcement ~Sep–Oct.
 - **Official source:** [kfa.or.kr](https://www.kfa.or.kr) (Korea Football Association) — check from September
-- **Beginner notes:** If a home match is announced for your window, it's the easiest national-team experience a visitor can have (K League tickets via Ticketlink).
+- **Beginner notes:** If a home match is announced for your window, it's the easiest national-team experience a visitor can have (national-team tickets sell via Ticketlink — move fast, they're popular).
 
 ---
 
@@ -214,7 +214,7 @@ Korean musical theatre is huge and production values are world-class — note th
 ## ⏭️ Just outside your window (so you know why you missed them)
 - **Seoul International Fireworks Festival** — Sep 5, 2026 (Yeouido) — *before*
 - **Han River Drone Light Show (fall edition)** — Sep–Oct 2026 — *just before* ([culture.seoul.go.kr](https://culture.seoul.go.kr))
-- **Changdeokgung Moonlight Tour (fall)** — 2025 edition ran Sep 4 – Oct 26 — *likely just before; watch* [royal.khs.go.kr](https://royal.khs.go.kr) in case 2026 extends
+- **Changdeokgung Moonlight Tour (fall)** 👀 — the Korea Heritage Service's flagship palace night tour (Thu–Sun, ₩30,000, 100 min, lottery via Ticketlink; **English/Chinese/Japanese sessions** bookable via [Creatrip](https://www.creatrip.com)). 2026 spring ran Apr 16–May 31; **fall 2026 dates TBA** (2025 ran Sep 4 – Oct 26) — if it extends into early Nov like last year, it lands in your first days. Watch [royal.khs.go.kr](https://royal.khs.go.kr) from August; hotline 1522-2295
 - **BTS ARIRANG world tour** — Korea dates were Goyang (Apr) & **Busan Asiad (Jun 12–13)** — *no Korea dates in Nov* (they play Kaohsiung Nov 19–22)
 - **Khalid (Dec 5) · FKJ (Dec 6)** — KINTEX — *after*
 - **AGF 2026 (anime×game fest)** — **Dec 4–6, KINTEX** — *just after* ([agfkorea.com](https://www.agfkorea.com))
