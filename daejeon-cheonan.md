@@ -29,7 +29,13 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **Official sources:** [noodle-dj.com](https://noodle-dj.com) · [daejeon.go.kr](https://www.daejeon.go.kr)
 - **Beginner notes:** Korea's only noodle festival — dozens of noodle stalls (kalguksu, udon, ramyeon, pasta…), chef cooking shows, and a noodle-master competition. A foodie's perfect Daejeon flex day.
 
-## 4) 🍷 Daejeon International Wine EXPO 2026 — ✅ CONFIRMED — Fri Nov 6 – Sun Nov 8, 2026
+## 4) 🏀 WKBL Women's Basketball — Asan Woori Bank (Cheonan's next-door arena) — ⏳ TBA season (expected mid-November)
+- **Season:** 2026–27 schedule not yet published as of Aug 4, 2026 (expected ~Sep); last season opened **Nov 16**
+- **Team:** **Asan Woori Bank Woori WON** (women's pro basketball, perennial contender) — home arena in **Asan**, only ~15–20 min from Cheonan-Asan KTX station
+- **Price:** Cheap — WKBL tickets typically ~₩5,000–15,000 (~$4–11); verify on [wkbl.or.kr](https://www.wkbl.or.kr)
+- **Beginner notes:** An underrated flex-city evening — small arena, close to the action, easy tickets, and it slots right into a Cheonan stay.
+
+## 5) 🍷 Daejeon International Wine EXPO 2026 — ✅ CONFIRMED — Fri Nov 6 – Sun Nov 8, 2026
 - **Dates:** Main expo **Fri Nov 6 – Sun Nov 8, 2026**; companion programs (Asia Wine Trophy, sommelier competitions, wine conferences) run **Nov 1–8** — official site ([djwinefair.com](https://djwinefair.com))
 - **Venue:** Daejeon Convention Center (DCC) + **Hanbit Tower Plaza / Expo Bridge area** (Expo Science Park, Yuseong) — the same plaza as the Noodle Festival, so the two can combine into one great Daejeon weekend
 - **What:** Korea's biggest wine exhibition — hundreds of international & Korean traditional-alcohol producers, tastings, masterclasses, street food and bakery pop-ups around Hanbit Tower; also includes the national sommelier championship
@@ -37,37 +43,37 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **Price:** Expo entry details on the official site (recent years: low-cost entry, tastings/pay-per-sip inside)
 - **Beginner notes:** If your flex-city weekend is Nov 6–8, this is the anchor event — wine tasting at Hanbit Tower by day, Yuseong hot springs by night. Pair it with a V-League match (see #1).
 
-## 5) ⚽ Daejeon Hana Citizen — K League 1 — 👀 WATCH
+## 6) ⚽ Daejeon Hana Citizen — K League 1 — 👀 WATCH
 - **What:** Final-round fixtures (Rounds 34–38) are drawn in mid-October; Daejeon home matches at **Daejeon World Cup Stadium** in early-mid November (likely in the lower "Final B" group)
 - **Price:** Typical K League 1 singles ~₩13,000–25,000 (~$9–18)
 - **Official sources:** [kleague.com](https://www.kleague.com) · [dhcfc.kr](https://www.dhcfc.kr)
 - **Beginner notes:** Check the fixture list on kleague.com in October; if it fits, it's a modern World Cup stadium with easy access from Daejeon station.
 
-## 6) ⚾ Hanwha Eagles — KBO postseason — 👀 WATCH
+## 7) ⚾ Hanwha Eagles — KBO postseason — 👀 WATCH
 - **What:** Hanwha (Daejeon's beloved baseball team) made the 2025 playoffs; if they qualify again in 2026, home games at **Daejeon Hanwha Life Ballpark** run late Oct – early Nov
 - **Price:** General seats roughly ₩10,000–35,000 (~$7–25)
 - **Official sources:** [hanwhaeagles.co.kr](https://www.hanwhaeagles.co.kr) · [koreabaseball.com](https://www.koreabaseball.com)
 - **Beginner notes:** Daejeon's Eagles crowd is legendary. Check standings in early October — this is the highest-energy ticket in the flex cities if it happens.
 
-## 7) 🏛️ Independence Hall of Korea (Cheonan) — 🔁 always on
+## 8) 🏛️ Independence Hall of Korea (Cheonan) — 🔁 always on
 - **Hours:** Free admission · Mar–Oct 09:30–18:00 · **Nov–Feb 09:30–17:00** (enter 1 hr before close) · **Closed Mondays** (opens if Monday is a holiday)
 - **Venue:** Cheonan (목천읍) — ~20 min by bus from Cheonan-Asan KTX station
 - **Official source:** [ihol.or.kr](https://www.ihol.or.kr)
 - **Beginner notes:** Korea's national independence museum — massive outdoor grounds with fall foliage, six exhibition halls, and English signage. Great half-day culture stop. (2025 also had a special November night opening with lights/food — watch the official site for a 2026 edition.)
 
-## 8) 🎮 Gaming / esports note for the flex cities
+## 9) 🎮 Gaming / esports note for the flex cities
 - **Daejeon Esports Stadium** (대전 e스포츠 경기장, Yuseong) — Korea's purpose-built esports arena; hosted the 2026 LoL KeSPA Cup finals in July–August. Watch the [esports association site](https://www.e-sports.or.kr) for any November events (unlikely, but cheap to check).
 - **G-STAR 2026** is in Busan (Nov 19–22) — if your flex happens mid-November, consider routing Daejeon/Cheonan → Busan for that weekend (details in `busan.md`).
 - **PC Bangs** are everywhere in both cities (see `travel-basics.md`).
 
-## 9) 🌼 Daejeon O-World Chrysanthemum Festival — ⏳ TBA (annual, late Oct – Nov)
+## 10) 🌼 Daejeon O-World Chrysanthemum Festival — ⏳ TBA (annual, late Oct – Nov)
 - **Dates:** 2026 TBA — the city's official blog confirms the festival shows **200,000 chrysanthemums** plus a nationwide master-chrysanthemum exhibition, running through **end of November** in recent years — a perfect flex-day outing
 - **Venue:** Daejeon O-World (zoo + theme park + botanical garden), Jung-gu, Daejeon
 - **Price:** Park admission ~₩25,000–35,000 adult (zoo+attractions bundle) — check current rates
 - **Official sources:** [daejeon.go.kr](https://www.daejeon.go.kr) (official festival feature) · [o-whd.co.kr](https://www.o-whd.co.kr) (O-World)
 - **Beginner notes:** Chrysanthemum sculptures, autumn flowers (pink muhly, cosmos), and a zoo — family-friendly and very photogenic. Great half-day before/after a volleyball match.
 
-## 10) 🔬 National Science Museum (국립중앙과학관, Daejeon) — 🔁 always on
+## 11) 🔬 National Science Museum (국립중앙과학관, Daejeon) — 🔁 always on
 - **What:** Korea's national science museum — huge hands-on exhibits, planetarium, and special exhibitions; Daejeon's science-city icon (built around Expo 1993)
 - **Hours:** ~09:30–17:30 (closed Mondays; seasonal hours — confirm on official site)
 - **Price:** Main exhibits free/low-cost; planetarium and special shows paid

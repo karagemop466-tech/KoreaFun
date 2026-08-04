@@ -61,6 +61,9 @@ All listed on the official Visit Seoul events calendar (links = official listing
 | SeMA Public Space Project | Dec 31, 2026 | [Visit Seoul](https://english.visitseoul.net/exhibition/Dance-of-Eternal-Polarities/ENP68z1mg) |
 | You, As You Are — SimLee Da Eun | Apr 2027 | [Visit Seoul](https://english.visitseoul.net/exhibition/You-As-You-Are/ENPlhr9s8) |
 | **Inside Other Spaces: Environments by Women Artists 1956–1976** — Leeum Museum of Art (immersive postwar installations) | **Nov 29, 2026** | [Leeum](https://leeum.org) |
+| **MMCA × LG OLED Series 2026: Christine Sun Kim** — giant sound/animation/OLED installation in "Seoul Box" | **Nov 29, 2026** | [MMCA](https://www.mmca.go.kr) |
+
+> **MMCA Night — Nov edition 👀:** the National Museum of Modern & Contemporary Art (Samcheong-dong, right by Gyeongbokgung) runs **MMCA Night "밤의 주파수" (Night Frequencies)** in **June, September & November** — a sold-out electronic-music night inside the museum. November date announced later; 500 spots, preregister on [mmca.go.kr](https://www.mmca.go.kr) as soon as it opens.
 
 > 💡 Also free & easy: **Leeum Museum of Art** (Hannam/Itaewon) keeps a world-class permanent collection; from September it adds a **KOO JEONG A** solo across the M2 building. The **National Museum of Korea** (Ichon) is free and colossal — plan a half day ([museum.go.kr](https://www.museum.go.kr)).
 

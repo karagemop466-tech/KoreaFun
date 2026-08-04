@@ -28,6 +28,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | Daejeon Hana Citizen | K League 1 club (Daejeon World Cup Stadium) | https://www.dhcfc.kr |
 | Hanwha Eagles | KBO club, Daejeon (Daejeon Hanwha Life Ballpark) | https://www.hanwhaeagles.co.kr |
 | Lotte Giants | KBO club, Busan (Sajik Baseball Stadium) | https://www.giantsclub.com |
+| WKBL | Women's Korean Basketball League — BNK Sum (Busan), Asan Woori Bank | https://www.wkbl.or.kr |
 | BIFF | Busan International Film Festival | https://www.biff.kr |
 
 ## Festivals & events
@@ -56,6 +57,9 @@ Every entry in this repo links to an **official, verified source** (government b
 | CJ ENM | MAMA Awards 2026 organizer (Nov 20–21, Osaka) | https://cjenm.com |
 | MAMA Awards | MAMA Awards 2026 official site (stream via Mnet Plus) | https://mama.mnet.com |
 | Leeum Museum of Art | Leeum exhibitions (Inside Other Spaces — through Nov 29) | https://leeum.org |
+| MMCA (National Museum of Modern & Contemporary Art) | Seoul exhibitions incl. OLED Series & MMCA Night | https://www.mmca.go.kr |
+| Busan Biennale Organizing Committee | Busan Biennale 2026 (Aug 29 – Nov 1) | https://busanbiennale.org |
+| KGMA Organizing Committee (Ilgan Sports) | Korea Grand Music Awards (Nov 7–8, Gocheok) | https://x.com/KGMA_en |
 | National Museum of Korea | Free national museum (Ichon) | https://www.museum.go.kr |
 
 ## Gaming / esports / anime

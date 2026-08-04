@@ -49,7 +49,21 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Official sources:** [giantsclub.com](https://www.giantsclub.com) · [koreabaseball.com](https://www.koreabaseball.com)
 - **Beginner notes:** Check standings in early October. Even without the postseason, a walk around Sajik's "chicken & beer" alley is a local classic.
 
-## 7) 🎬 BIFF — Busan International Film Festival — missed (Oct 6–15, 2026)
+## 7) 🎨 Busan Biennale 2026 "Dissident Chorus" — ✅ CONFIRMED — ends Sun Nov 1 (your first weekend!)
+- **Dates:** **Aug 29 – Nov 1, 2026** (65 days, official organizing committee) — your trip catches the **final two days (Sat Oct 31 – Sun Nov 1)**
+- **Venues:** three sites — **Busan Museum of Contemporary Art** (near Amnam Park/Yeongdo bridge side), **Space Wonji (Yeongdo)**, and the **former Busan Nam High School** building
+- **What:** Korea's leading contemporary-art biennale (sound/performance-themed 2026 edition; 46 artists & collectives from 22 countries)
+- **Price:** Paid ticket (multi-venue pass; recent editions ~₩15,000) — confirm on the official site
+- **Official source:** [busanbiennale.org](https://busanbiennale.org)
+- **Beginner notes:** If you're in Busan Oct 31–Nov 1, this is the one "last chance" art event — the Yeongdo venues pair beautifully with the island's cafe street. Same energy as catching BANKSY before it closes in Seoul.
+
+## 8) 🏀 WKBL Women's Basketball — Busan BNK Sum — ⏳ TBA season (expected mid-November tip-off)
+- **Season:** 2026–27 schedule not yet published as of Aug 4, 2026 (expected ~Sep); last season opened **Nov 16** — plan around a mid-November start
+- **Venue:** Sajik Indoor Gymnasium (same building as KCC Egis men's basketball — Subway Line 3, Sajik station)
+- **Price:** Cheap — WKBL tickets typically ~₩5,000–15,000 (~$4–11); verify on [wkbl.or.kr](https://www.wkbl.or.kr)
+- **Beginner notes:** Women's pro basketball is intimate, family-friendly and loud; BNK Sum has one of the better fan cultures in the league. A great low-cost Busan evening.
+
+## 9) 🎬 BIFF — Busan International Film Festival — missed (Oct 6–15, 2026)
 - The 31st BIFF runs **Oct 6–15, 2026** — it ends two weeks before you arrive.
 - **Tip:** The **Busan Cinema Center** in Centum City (BIFF's home) and Haeundae's **BIFF Square** (film street, street-food stalls) are worth visiting anyway.
 - **Official source:** [biff.kr](https://www.biff.kr)

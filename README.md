@@ -38,11 +38,12 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 | Date | Event | City | Status |
 |---|---|---|---|
 | Sat Oct 31 | V-League 2026–27 season opens · K League 1 Final rounds begin | All cities / Seoul | ✅ |
-| Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) | Seoul | ✅ |
+| Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) · **Busan Biennale closes Nov 1** | Seoul / Busan | ✅ |
 | **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
 | **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (tastings at Hanbit Tower) | Daejeon | ✅ |
 | Sat Nov 7 | **Busan Fireworks Festival** · Seoul E-Land vs Jeonnam · MCR / Jujutsu Kaisen concerts | Busan / Seoul / Incheon | ✅ |
+| **Sat–Sun Nov 7–8** | **KGMA 2026** (Korea Grand Music Awards, first year at Gocheok) | Seoul (Gocheok Sky Dome) | ✅ |
 | Sun Nov 8 | Cheonan City FC vs Busan IPark (K-League 2) | Cheonan | ✅ |
 | ~Nov 9–17 | Korea national team friendlies (if announced) | Seoul / Suwon | 👀 |
 | ~Nov 9–15 | KBO **Korean Series** (baseball finals, may end before you land) | TBD (watch Seoul/Daejeon/Busan) | 👀 |
@@ -56,7 +57,7 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 | Sun Nov 22 | Seoul E-Land final home match · Kimjang Grand Festival window | Seoul | ✅ |
 | **Thu–Sun Nov 19–22** | **G-STAR 2026 gaming expo** | Busan (BEXCO) | ✅ |
 
-*Plus, all month: V-League volleyball (fixtures ~late Sep/Oct) & KBL basketball (schedule TBA) in all four cities, free Seoul events (Gyeongbokgung guard ceremony, walking tours, DDP light show, Seoul Plaza concerts), and 10+ official Seoul exhibitions.*
+*Plus, all month: V-League volleyball (fixtures ~late Sep/Oct), KBL basketball (schedule TBA) & WKBL women's basketball (mid-Nov tip-off — Busan & Asan) in all four cities, free Seoul events (Gyeongbokgung guard ceremony, walking tours, DDP light show, Seoul Plaza concerts), and 10+ official Seoul exhibitions.*
 
 ---
 
