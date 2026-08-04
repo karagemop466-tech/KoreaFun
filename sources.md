@@ -45,6 +45,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | The Hyundai Seoul | Venue — BANKSY: Still Here exhibition | https://www.thehyundai.com |
 | DDP (Seoul Design Foundation) | DDP exhibitions & Dream in Light nightly show | https://ddp.or.kr |
 | Royal Palaces & Tombs Center | Gyeongbokgung guard ceremony, palace programs | https://royal.khs.go.kr |
+| Korea Heritage Service | Palace night programs incl. Changgyeonggung Mulbit Yeonhwa | https://www.kh.or.kr |
 | Seoul Tourism Organization | Seoul Walking Tours (free guided tours) | https://www.sto.or.kr |
 | Seoul Culture Portal | Seoul city performances & events | https://culture.seoul.go.kr |
 | Daejeon O-World | Daejeon zoo/theme park (chrysanthemum festival) | https://www.oworld.kr |

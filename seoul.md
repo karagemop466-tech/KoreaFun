@@ -202,6 +202,13 @@ Korean musical theatre is huge and production values are world-class — note th
 - **When:** Peak foliage late Oct – early Nov (official forecast ~late Sept: [weather.go.kr](https://www.weather.go.kr) / Visit Korea)
 - **Where:** Namsan + N Seoul Tower, Deoksugung, Seoul Forest, Gyeongbokgung, Bukhansan — parks free; palaces ~₩3,000; tower ~₩21,000
 
+### 23) 🏮 Changgyeonggung "Mulbit Yeonhwa" — palace night media art — ✅ CONFIRMED season (through Nov 8)
+- **When:** Fall 2026 run **Sep 8 – Sun Nov 8, 2026** (annual Korea Heritage Service program; fall = full-media season ~19:00–21:00, closed Mondays) — **your first 9 days are inside the window**
+- **What:** Media-art light scenes across 8 spots of Changgyeonggung, centered on the Chunjangji pond reflections — one of Seoul's most romantic night walks
+- **Price:** Just the palace admission **₩1,000** (~$1) — **no reservation**; free entry if you wear hanbok
+- **Official sources:** [Korea Heritage Service (kh.or.kr)](https://www.kh.or.kr) · [Seoul city media hub guide](https://mediahub.seoul.go.kr/archives/2014130) · program hotline 1522-2295
+- **Beginner notes:** Enter by ~19:30 to catch the main pond show; combine with a hanbok rental for free entry + photos. Verify exact 2026 fall times on kh.or.kr in October.
+
 ---
 
 ## ⏭️ Just outside your window (so you know why you missed them)

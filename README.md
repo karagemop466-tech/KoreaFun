@@ -15,6 +15,7 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 | [`busan.md`](busan.md) | Busan events, sorted by date |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | The **flex cities** — Daejeon & Cheonan (45–60 min from Seoul by KTX) |
 | [`travel-basics.md`](travel-basics.md) | Beginner logistics: T-money, KTX, tickets, apps, money, weather |
+| [`itinerary.md`](itinerary.md) | **Day-by-day skeleton plan (Oct 31 → Nov 22) + booking-deadline calendar** |
 | [`sources.md`](sources.md) | Master list of every official website used in this repo |
 | [`events.csv`](events.csv) | The same events in a machine-readable table |
 
@@ -39,6 +40,7 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 |---|---|---|---|
 | Sat Oct 31 | V-League 2026–27 season opens · K League 1 Final rounds begin | All cities / Seoul | ✅ |
 | Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) · **Busan Biennale closes Nov 1** | Seoul / Busan | ✅ |
+| Oct 31 – Nov 8 | **Changgyeonggung Mulbit Yeonhwa** (palace night media art — ₩1,000, no reservation) | Seoul | ✅ |
 | **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
 | **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (tastings at Hanbit Tower) | Daejeon | ✅ |
@@ -67,6 +69,8 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 - ⏳ **TBA** — 2026 edition not announced yet; date shown is the recent-year pattern (still the right week to plan around)
 - 👀 **WATCH** — depends on sports standings (playoffs), or announced only weeks ahead; check the linked source in October
 - 🔁 **Always on** — no dates needed; open daily
+
+> 📌 **Planning shortcut:** [`itinerary.md`](itinerary.md) turns this guide into a day-by-day skeleton with a **booking & re-check calendar** (when tickets/dates drop for every ⏳/👀 item above).
 
 ## 💱 Money note
 
