@@ -38,7 +38,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | BEXCO | Venue — Busan Exhibition & Convention Center | https://www.bexco.co.kr |
 | Busan Fireworks Festival | Official festival site (tickets, updates) | https://busanfireworks.com |
 | Noodle Daejeon Festival | Daejeon noodle festival | https://noodle-dj.com |
-| Korea Sale FESTA | Nationwide shopping festival (Ministry-run) | https://koreasalefesta.co.kr |
+| Korea Sale FESTA | Nationwide shopping festival (Ministry-run; [MOTIE/Korea.net confirmation](https://www.korea.net/NewsFocus/Business/view?articleId=260902)) | https://koreasalefesta.co.kr |
 | Korea Kimjang Grand Festival | National kimjang festival (aT) | https://kimjang-festa.com |
 | Everland | Everland theme park (Yongin, near Seoul) | https://www.everland.com |
 | Lotte World | Lotte World Adventure (Seoul, Jamsil) | https://www.lotteworld.com |
@@ -47,16 +47,15 @@ Every entry in this repo links to an **official, verified source** (government b
 | Royal Palaces & Tombs Center | Gyeongbokgung guard ceremony, palace programs | https://royal.khs.go.kr |
 | Seoul Tourism Organization | Seoul Walking Tours (free guided tours) | https://www.sto.or.kr |
 | Seoul Culture Portal | Seoul city performances & events | https://culture.seoul.go.kr |
-| Daejeon O-World | Daejeon zoo/theme park (chrysanthemum festival) | https://www.o-whd.co.kr |
+| Daejeon O-World | Daejeon zoo/theme park (chrysanthemum festival) | https://www.oworld.kr |
 | National Science Museum | Daejeon science museum | https://www.science.go.kr |
-| Independence Hall of Korea | Cheonan — national museum (hours/closure days) | https://www.ihol.or.kr |
+| Independence Hall of Korea | Cheonan — national museum (hours/closure days) | https://www.i815.or.kr |
 | NANTA | NANTA non-verbal show (Seoul) | https://www.nanta.co.kr |
 | JTBC Seoul Marathon | Official race site (Nov 1, 2026) | https://marathon.jtbc.com |
 | Daejeon International Wine EXPO | Official expo site (Nov 6–8, 2026, DCC) | https://djwinefair.com |
 | Melon (Kakao Entertainment) | Melon Music Awards MMA 2026 (Nov 14–15, Gocheok) | https://www.melon.com |
-| CJ ENM | MAMA Awards 2026 organizer (Nov 20–21, Osaka) | https://cjenm.com |
-| MAMA Awards | MAMA Awards 2026 official site (stream via Mnet Plus) | https://mama.mnet.com |
-| Leeum Museum of Art | Leeum exhibitions (Inside Other Spaces — through Nov 29) | https://leeum.org |
+| CJ ENM | MAMA Awards 2026 organizer — Nov 20–21, Osaka (official announcement page) | https://cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/ |
+| Leeum Museum of Art | Leeum exhibitions (Inside Other Spaces — through Nov 29) | https://www.leeumhoam.org |
 | MMCA (National Museum of Modern & Contemporary Art) | Seoul exhibitions incl. OLED Series & MMCA Night | https://www.mmca.go.kr |
 | Busan Biennale Organizing Committee | Busan Biennale 2026 (Aug 29 – Nov 1) | https://busanbiennale.org |
 | KGMA Organizing Committee (Ilgan Sports) | Korea Grand Music Awards (Nov 7–8, Gocheok) | https://x.com/KGMA_en |
@@ -68,7 +67,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | LoL Esports (Riot Games) | LoL Worlds 2026 dates/venues (Nov 14 final in Brooklyn) | https://lolesports.com |
 | Korea e-Sports Association | KeSPA events (Daejeon Esports Stadium) | https://www.e-sports.or.kr |
 | AGF Korea | Anime×Game Festival (Dec 4–6, KINTEX — after your trip) | https://www.agfkorea.com |
-| Comic World | Korea's doujin/anime convention organizer | https://www.comicw.co.kr |
+| Comic World | Korea's doujin/anime convention organizer | https://www.comicw.net |
 
 ## Sports — national teams
 | Source | Official for | URL |
@@ -83,7 +82,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | NOL Ticket | Korean musicals (ELISABETH, Hell's Kitchen…) | https://www.nol.world |
 | YES24 Ticket | G-STAR, concerts, exhibitions | https://ticket.yes24.com |
 | KORAIL (Lets Korail) | KTX/high-speed train tickets | https://www.letskorail.com |
-| Korail Travel | Foreigner-friendly KTX booking | https://www.korailtravel.com |
+| Korail Travel (KORAIL subsidiary) | KR Pass (foreigner rail pass) & train tour products | https://www.korailtravel.com |
 
 ## Utilities
 | Source | Use for | URL |

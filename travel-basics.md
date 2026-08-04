@@ -16,7 +16,7 @@ Everything below is practical setup for the events in this repo. Official links 
 - **Taxis:** Kakao T app (English mode) or hailing; base fare ~₩4,800 (Seoul). Pay by card in the app.
 
 ## 3. Between cities (KTX high-speed rail)
-- Book on the **official KORAIL sites**: [letskorail.com](https://www.letskorail.com) (English-friendly) or [korailtravel.com](https://www.korailtravel.com) (foreigner booking service).
+- Book on the **official KORAIL sites**: [letskorail.com](https://www.letskorail.com) (English-friendly KTX booking) or [korailtravel.com](https://www.korailtravel.com) (KORAIL subsidiary — sells the **KR Pass** for foreigners & train tour packages).
 - **Seoul → Busan:** KTX ≈ **2.5 hrs** (~₩59,000 economy, ~$42). Seoul → Daejeon ≈ 50 min (~₩23,000). Seoul → Cheonan ≈ 35–45 min (~₩15,000–18,000). Daejeon ↔ Cheonan ≈ 30–40 min.
 - Trains run frequently; **book 1–2 weeks ahead for Friday–Sunday departures**.
 - Alternative Seoul→Busan: domestic flights Gimpo→Gimhae (~1 hr, ~₩40,000–70,000; budget carriers like Jin Air, T'way, Jeju Air).

@@ -60,10 +60,12 @@ All listed on the official Visit Seoul events calendar (links = official listing
 | A City's Boarding Log — Seoul Archives | 2028 | [Visit Seoul](https://english.visitseoul.net/exhibition/ACitysBoardingLog/ENPr2k2ja) |
 | SeMA Public Space Project | Dec 31, 2026 | [Visit Seoul](https://english.visitseoul.net/exhibition/Dance-of-Eternal-Polarities/ENP68z1mg) |
 | You, As You Are — SimLee Da Eun | Apr 2027 | [Visit Seoul](https://english.visitseoul.net/exhibition/You-As-You-Are/ENPlhr9s8) |
-| **Inside Other Spaces: Environments by Women Artists 1956–1976** — Leeum Museum of Art (immersive postwar installations) | **Nov 29, 2026** | [Leeum](https://leeum.org) |
+| **Inside Other Spaces: Environments by Women Artists 1956–1976** — Leeum Museum of Art (immersive postwar installations) | **Nov 29, 2026** | [Leeum](https://www.leeumhoam.org) |
 | **MMCA × LG OLED Series 2026: Christine Sun Kim** — giant sound/animation/OLED installation in "Seoul Box" | **Nov 29, 2026** | [MMCA](https://www.mmca.go.kr) |
 
 > **MMCA Night — Nov edition 👀:** the National Museum of Modern & Contemporary Art (Samcheong-dong, right by Gyeongbokgung) runs **MMCA Night "밤의 주파수" (Night Frequencies)** in **June, September & November** — a sold-out electronic-music night inside the museum. November date announced later; 500 spots, preregister on [mmca.go.kr](https://www.mmca.go.kr) as soon as it opens.
+>
+> **Also in-window at MMCA Seoul (verified on mmca.go.kr):** "올해의 작가상 2026" (Korea's Artist-of-the-Year award show, 4 artists) runs **Jul 24 – Dec 6, 2026** — same building as the OLED installation. Seoul wing hours: 10:00–18:00 (Wed & Sat until 21:00), closed Mondays.
 
 > 💡 Also free & easy: **Leeum Museum of Art** (Hannam/Itaewon) keeps a world-class permanent collection; from September it adds a **KOO JEONG A** solo across the M2 building. The **National Museum of Korea** (Ichon) is free and colossal — plan a half day ([museum.go.kr](https://www.museum.go.kr)).
 
@@ -157,7 +159,7 @@ All listed on the official Visit Seoul events calendar (links = official listing
 | Wed Nov 18 | Kings of Convenience | Sejong Center Grand Theater | |
 | Thu Nov 19 | 5 Seconds of Summer | KINTEX Hall 1, Ilsan | same weekend as G-STAR (Busan) — pick one! |
 
-> **K-pop award-show note:** MMA 2026 (Nov 14–15) is **in Seoul** — lineup announced ~Oct, tickets via [Melon Ticket](https://www.melon.com) (very competitive — fan-club presales). The **2026 MAMA Awards** are **Fri–Sat Nov 20–21 at Kyocera Dome Osaka** (official CJ ENM announcement) — *not* in Korea this year, but your trip overlaps the exact weekend: watch the live stream for free on **Mnet Plus** from your hotel or a screen-friendly pub ([cjenm.com](https://cjenm.com) / [mama.mnet.com](https://mama.mnet.com)).
+> **K-pop award-show note:** MMA 2026 (Nov 14–15) is **in Seoul** — lineup announced ~Oct, tickets via [Melon Ticket](https://www.melon.com) (very competitive — fan-club presales). The **2026 MAMA Awards** are **Fri–Sat Nov 20–21 at Kyocera Dome Osaka** (official CJ ENM announcement) — *not* in Korea this year, but your trip overlaps the exact weekend: watch the live stream for free on **Mnet Plus** from your hotel or a screen-friendly pub ([official CJ ENM announcement](https://cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/)).
 
 ### 🎭 Musicals running through your window (big Korean productions)
 Korean musical theatre is huge and production values are world-class — note these are sung **in Korean** (licensed translations). Tickets via [NOL Ticket](https://www.nol.world) (official; international-friendly).

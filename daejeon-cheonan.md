@@ -58,7 +58,7 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 ## 8) 🏛️ Independence Hall of Korea (Cheonan) — 🔁 always on
 - **Hours:** Free admission · Mar–Oct 09:30–18:00 · **Nov–Feb 09:30–17:00** (enter 1 hr before close) · **Closed Mondays** (opens if Monday is a holiday)
 - **Venue:** Cheonan (목천읍) — ~20 min by bus from Cheonan-Asan KTX station
-- **Official source:** [ihol.or.kr](https://www.ihol.or.kr)
+- **Official source:** [i815.or.kr](https://www.i815.or.kr)
 - **Beginner notes:** Korea's national independence museum — massive outdoor grounds with fall foliage, six exhibition halls, and English signage. Great half-day culture stop. (2025 also had a special November night opening with lights/food — watch the official site for a 2026 edition.)
 
 ## 9) 🎮 Gaming / esports note for the flex cities
@@ -70,7 +70,7 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **Dates:** 2026 TBA — the city's official blog confirms the festival shows **200,000 chrysanthemums** plus a nationwide master-chrysanthemum exhibition, running through **end of November** in recent years — a perfect flex-day outing
 - **Venue:** Daejeon O-World (zoo + theme park + botanical garden), Jung-gu, Daejeon
 - **Price:** Park admission ~₩25,000–35,000 adult (zoo+attractions bundle) — check current rates
-- **Official sources:** [daejeon.go.kr](https://www.daejeon.go.kr) (official festival feature) · [o-whd.co.kr](https://www.o-whd.co.kr) (O-World)
+- **Official sources:** [daejeon.go.kr](https://www.daejeon.go.kr) (official festival feature) · [oworld.kr](https://www.oworld.kr) (O-World)
 - **Beginner notes:** Chrysanthemum sculptures, autumn flowers (pink muhly, cosmos), and a zoo — family-friendly and very photogenic. Great half-day before/after a volleyball match.
 
 ## 11) 🔬 National Science Museum (국립중앙과학관, Daejeon) — 🔁 always on

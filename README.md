@@ -79,7 +79,7 @@ Prices are in ₩ (KRW) with approximate USD at **~₩1,400 = $1** (mid-2026 bal
 - **Seoul ↔ Daejeon** — KTX high-speed train ≈ **50 min**
 - **Seoul ↔ Cheonan** — KTX ≈ **35–45 min**
 - **Seoul ↔ Busan** — KTX ≈ **2.5 hrs** (about 1 hr by plane from Gimpo/Gimhae)
-- Book ahead at [letskorail.com](https://www.letskorail.com) (official KORAIL site) or [korailtravel.com](https://www.korailtravel.com) for foreigners. Details in [`travel-basics.md`](travel-basics.md).
+- Book ahead at [letskorail.com](https://www.letskorail.com) (official KORAIL site) or [korailtravel.com](https://www.korailtravel.com) (KR Pass for foreigners). Details in [`travel-basics.md`](travel-basics.md).
 
 ---
 
