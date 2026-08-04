@@ -229,6 +229,20 @@ Korean musical theatre is huge and production values are world-class — note th
 - **What:** The Joint Security Area at Panmunjom, ~1 hr north of Seoul. Note: general public tours have been **on/off suspended since 2023**; special/group tours resume intermittently. Official portal: [panmuntour.go.kr](https://www.panmuntour.go.kr) (Ministry of Unification)
 - **Beginner notes:** Foreigners typically book through UNC-approved tour agencies (many also run the safer Third Tunnel/Dora Observatory half-day DMZ tour, which runs regardless). Check availability ~1 month ahead; don't build the trip around it.
 
+### 28) 🍂 Changdeokgung Huwon (Secret Garden) — autumn peak, reservation game — 🔁 seasonal must-do
+- **What:** The UNESCO-listed rear garden of Changdeokgung — royal pavilions, lotus ponds and maple valleys; **early November is peak foliage** and the prettiest time to go
+- **Reservations (the catch):** online booking on [cdg.go.kr](https://www.cdg.go.kr) opens **6 days before your visit date at 10:00** — Oct–Nov slots sell out *fast*; a limited number of same-day tickets sell from 09:00 at the gate. Closed Mondays.
+- **Price:** Garden ₩5,000 + palace admission ₩3,000 (₩8,000 total, ~$6)
+- **Languages:** Korean-guided sessions hourly 10:00–16:00; **English sessions ~10:30, 11:30, 14:30, 15:30** (Sep–Nov pattern; free-entry with garden ticket)
+- **Beginner notes:** Set a calendar reminder 6 days ahead and click at 10:00 sharp. Pair with Bukchon/Insadong the same afternoon.
+
+### 29) 🥬 Museum Kimchikan — make your own kimchi — 🔁 Tue–Sun (Insadong)
+- **What:** Seoul's only kimchi museum (Pulmuone-run; est. 1986): kimchi history exhibits + a **40-min hands-on kimchi-making class** (you take your kimchi home). Programs run in **English/Chinese/Japanese**
+- **Hours:** Tue–Sun 10:00–18:00 (closed Mondays) · class slots 10:00 / 10:50 / 14:00 / 14:50 — **reservation required**
+- **Price:** Admission ₩5,000 adult; making class ~₩16,000 (check current rates)
+- **Official source:** [kimchikan.com](http://www.kimchikan.com) · Insadong-gil 35-4, 4–6F (5 min from Anguk station)
+- **Beginner notes:** The perfect complement to kimjang season — do it the day before the Kimjang Festival (if it lands) and you'll understand everything you're watching.
+
 ---
 
 ## ⏭️ Just outside your window (so you know why you missed them)

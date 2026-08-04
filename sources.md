@@ -97,6 +97,10 @@ Every entry in this repo links to an **official, verified source** (government b
 | Shinsegae Centum City | Spa Land jjimjilbang (Busan) | https://department.shinsegae.com |
 | Jarasum Jazz Festival | Gapyeong jazz festival (Oct 9–11, 2026) | https://www.jarasumjazz.com |
 | Panmunjom Tour Center | DMZ/JSA tours (Ministry of Unification) | https://www.panmuntour.go.kr |
+| Changdeokgung (official) | Secret Garden (Huwon) reservations | https://www.cdg.go.kr |
+| Museum Kimchikan | Seoul's kimchi museum + making classes | http://www.kimchikan.com |
+| Gwangalli M Drone Light Show | Suyeong-gu's weekly Saturday drone show | https://www.gwangallimdrone.co.kr |
+| Sungsimdang | Daejeon's legendary bakery (est. 1956) | http://www.sungsimdang.co.kr |
 | XE | Currency conversion | https://www.xe.com |
 
 ---

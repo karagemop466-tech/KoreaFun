@@ -11,10 +11,10 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | 1 | **Sat Oct 31** | Seoul | Land at ICN → settle in. Evening: DDP Dream in Light (free) or Seoul Plaza. 🏐 V-League season opens today — check [kovo.co.kr](https://www.kovo.co.kr) once fixtures drop (~late Sep) for an opening-weekend match |
 | 2 | **Sun Nov 1** | Seoul | 🏃 07:30 — watch the **JTBC Seoul Marathon** start (Sangam World Cup Stadium) · 📚 Seoul Outdoor Library's **final day** (Gwanghwamun) · 🎭 *Dear Evan Hansen* closing day. Evening: 🏮 **Changgyeonggung Mulbit Yeonhwa** (₩1,000, no reservation) |
 | 3 | Mon Nov 2 | Seoul | Gyeongbokgung + hanbok (free entry) + guard ceremony 10:00 · Bukchon walking tour (reserve on sto.or.kr) · Mulbit Yeonhwa if you missed it |
-| 4 | **Tue Nov 3** | Seoul | 🎨 **BANKSY: Still Here — LAST DAY** (The Hyundai Seoul, Yeouido — prebook!). Evening: Hongdae PC bang |
-| 5 | Wed Nov 4 | Seoul | Free Seoul Plaza concert ~18:30 (✅ recurring Wednesdays) |
+| 4 | **Tue Nov 3** | Seoul | Morning: 🍂 **Changdeokgung Huwon** at peak foliage (book the moment your slot opens — 6 days out!) · afternoon: 🎨 **BANKSY: Still Here — LAST DAY** (The Hyundai Seoul, Yeouido — prebook!). Evening: Hongdae PC bang |
+| 5 | Wed Nov 4 | Seoul | Free Seoul Plaza concert ~18:30 (✅ recurring Wednesdays) · daytime option: 🥬 **Museum Kimchikan** kimchi-making class (Insadong; reserve EN slot) |
 | 6 | Thu Nov 5 | Seoul | Flex day: NANTA or THE PAINTERS show · 🥟 **Gwangjang Market** dinner · Myeongdong shopping (Korea Sale FESTA ⏳ likely active) · Lotte World Halloween zones ⏳ |
-| 7 | **Fri Nov 6** | → Daejeon | Morning KTX (50 min). 🍷 **Wine EXPO Day 1** (DCC + Hanbit Tower) · evening Yuseong hot springs |
+| 7 | **Fri Nov 6** | → Daejeon | Morning KTX (50 min) — 🥖 **Sungsimdang** bakery stop near Daejeon Station first! 🍷 **Wine EXPO Day 1** (DCC + Hanbit Tower) · evening Yuseong hot springs |
 | 8 | **Sat Nov 7** | ⚡ CHOICE DAY | **A)** 🍜 Noodle Festival (⏳ Nov 7–9 pattern) + Wine EXPO Day 2, Daejeon · **B)** 🎆 **Busan Fireworks Festival** (KTX 2.5 hrs — leave early, back late) · **C)** 🏆 **KGMA Day 1** at Gocheok Sky Dome (Seoul; lineup/tickets ~Oct) |
 | 9 | **Sun Nov 8** | Cheonan → Seoul | ⚽ **Cheonan City FC vs Busan IPark, 14:00** (35 min KTX from Seoul) · 🍷 Wine EXPO final day if you stayed. Back to Seoul evening |
 | 10 | Mon Nov 9 | Seoul | Rest day — or a 🧘 **templestay** night (Hwagyesa/Bongeunsa, book weeks ahead on eng.templestay.com). 👀 FIFA window opens (~Nov 9–17) — if a Korea friendly is announced, grab tickets via Ticketlink |
@@ -29,7 +29,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | 19 | **Wed Nov 18** | Seoul | 🎶 **Kings of Convenience** (Sejong Center) · Seoul Plaza free concert #3 · pack for Busan |
 | 20 | **Thu Nov 19** | → Busan | Morning KTX (2.5 hrs). 🎮 **G-STAR 2026 Day 1** (BEXCO) — go Friday-light, crowds build on weekends. ⚠️ 5SOS plays KINTEX tonight if you skipped G-STAR |
 | 21 | **Fri Nov 20** | Busan | 🎮 G-STAR Day 2 (or a 🧖 Spa Land Centum morning — 1 stop from BEXCO) · evening: 📺 **MAMA Awards live stream** (Osaka, free via Mnet Plus) at the hotel or pub |
-| 22 | **Sat Nov 21** | Busan | ⚡ CHOICE: ⚽ **Busan IPark vs Chungnam Cheongju, 14:00** (Gudeok) + G-STAR Day 3 · or full G-STAR · night out at Gwangalli/Haeundae |
+| 22 | **Sat Nov 21** | Busan | ⚡ CHOICE: ⚽ **Busan IPark vs Chungnam Cheongju, 14:00** (Gudeok) + G-STAR Day 3 · or full G-STAR · evening: 🛩️ **drone show 19:00 & 21:00 at Gwangalli** (free, weekly) |
 | 23 | **Sun Nov 22** | Busan → home | 🎮 G-STAR Day 4 morning → KTX back if: ⚽ **Seoul E-Land season finale 16:30** (Mokdong) or 🥬 **Kimjang Grand Festival** lands today (2025 pattern) → ICN |
 
 ---
@@ -39,6 +39,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | When | What to do | Where |
 |---|---|---|
 | **Now** | Prebook **BANKSY** (ends Nov 3) · reserve Seoul walking tours a few days ahead · 🎤 register your **KBS SSO foreigner account** (passport check takes days — needed for Music Bank tickets) · 🧘 shortlist templestay temples | thehyundai.com · sto.or.kr · english.kbs.co.kr |
+| **6 days before** | 🍂 **Changdeokgung Huwon** online booking opens 10:00 sharp (Oct–Nov sells out fast) — set repeating reminders | cdg.go.kr |
 | **Now** | Book KTX patterns you're sure of (Seoul↔Daejeon Nov 6–8, Seoul↔Busan Nov 19–22) | letskorail.com |
 | **Late Aug–Sep** | V-League fixture list drops → lock volleyball dates in all cities | kovo.co.kr |
 | **Aug–Sep** | 🌙 Changdeokgung **Moonlight Tour fall dates + lottery entry** announced (EN/CN/JP sessions sell via Creatrip) | kh.or.kr · creatrip.com |

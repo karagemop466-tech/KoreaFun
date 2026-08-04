@@ -71,6 +71,7 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 ---
 
 ## 🔁 Always-on Busan fall favorites (official tourism)
+- **🛩️ Gwangalli M Drone Light Show — EVERY Saturday night, free!** — 1,000+ drones over Gwangalli Beach, run by Suyeong-gu; winter (Oct–Feb) shows at **19:00 & 21:00** → your Saturdays: **Nov 7** (fireworks night — show likely folds into the festival), **Nov 14, Nov 21**. Weather-dependent; live on "수영구 TV" YouTube if you miss it ([gwangallimdrone.co.kr](https://www.gwangallimdrone.co.kr) · [Visit Busan calendar](https://english.visitbusan.net))
 - **Gwangalli Beach** at night (Gwangan Bridge light shows) — [english.visitbusan.net](https://english.visitbusan.net)
 - **Jagalchi Fish Market** (Korea's biggest seafood market — pick seafood, they cook it upstairs) — open daily
 - **Gamcheon Culture Village** ("Santorini of the East" colorful hillside village) — open daily
