@@ -4,6 +4,12 @@ Everything below is practical setup for the events in this repo. Official links 
 
 ---
 
+## 🛂 Entry Requirements & Visa (US Citizens)
+- **K-ETA Exemption:** US passport holders visiting South Korea for tourism/short visits up to 90 days are **exempt from K-ETA (Korea Electronic Travel Authorization)** through December 31, 2026 under the government's Visit Korea Year promotion. You do NOT need to apply for or pay for a K-ETA before traveling ([k-eta.go.kr](https://www.k-eta.go.kr) — Ministry of Justice).
+- **Customs & Q-CODE:** Fill out the paper Arrival Card on the plane or submit health declaration online via **Q-CODE** ([qcode.kdca.go.kr](https://qcode.kdca.go.kr) — KDCA) for faster immigration processing at Incheon Airport.
+
+---
+
 ## 1. Money
 - **Currency:** South Korean Won (₩). **~₩1,400 ≈ $1** (mid-2026 ballpark — check [xe.com](https://www.xe.com) before flying).
 - **Cards:** Visa/Mastercard are widely accepted (even taxis and street stalls); bring some cash (₩50,000–100,000) for markets, PC Bangs, and small shops.
@@ -12,6 +18,8 @@ Everything below is practical setup for the events in this repo. Official links 
 
 ## 2. Getting around cities
 - **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24) for ~₩4,000 card fee; load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
+- **WOWPASS Card:** An all-in-one prepaid card for foreign tourists combining T-money transit + credit card payments ([wowpass.io](https://www.wowpass.io)). You can insert US dollars (cash) directly into WOWPASS kiosks at Incheon Airport and major subway stations to issue a card pre-loaded in KRW.
+- **Seoul Climate Card (기후동행카드):** Seoul Metropolitan Government's unlimited transit pass ([seoul.go.kr](https://www.seoul.go.kr)). Tourist short-term passes available: **1-day (₩5,000)**, **2-day (₩8,000)**, **3-day (₩10,000)**, **5-day (₩15,000)**, and **7-day (₩20,000)**. Covers all Seoul subways and city buses (note: excludes KTX and intercity buses to Busan/Daejeon).
 - **Subway:** Seoul & Busan both have clean, English-signed subway systems. **Transit apps:** Naver Map (English) and Kakao Map — both better than Google Maps in Korea. 
 - **Taxis:** Kakao T app (English mode) or hailing; base fare ~₩4,800 (Seoul). Pay by card in the app.
 

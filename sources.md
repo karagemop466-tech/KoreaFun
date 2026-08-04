@@ -9,7 +9,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | Seoul Festival Calendar | Seoul city government festivals | https://festival.seoul.go.kr |
 | Visit Busan | Busan tourism | https://english.visitbusan.net |
 | Busan Festival Organizing Committee | Busan city festivals (fireworks etc.) | https://festivalbusan.com |
-| Visit Korea (KTO) | National tourism, seasonal guides, 1330 helpline | https://english.visitkorea.or.kr |
+| Visit Korea (KTO) | National tourism, seasonal guides, 1330 helpline | https://english.visitkorea.or.kr ; https://korean.visitkorea.or.kr |
 | Daejeon City | Daejeon city government | https://www.daejeon.go.kr |
 | Daejeon Tourism | Daejeon official tourism site | https://daejeontour.co.kr |
 | Chungnam Tourism | South Chungcheong (Cheonan) tourism | https://tour.chungnam.go.kr |
@@ -106,6 +106,13 @@ Every entry in this repo links to an **official, verified source** (government b
 | Seoul City Tour Bus | Hop-on/hop-off city loop (Tiger Bus) | https://www.seoulcitybus.com |
 | Yellow Balloon City Bus | Hop-on/hop-off city loop (2nd operator) | https://www.seoulcitytourbus.co.kr |
 | Songdo Marine Cable Car | Busan sea cable car | http://busanaircruise.co.kr |
+| K-ETA Official Portal | Korea Electronic Travel Authorization (Ministry of Justice) | https://www.k-eta.go.kr |
+| Q-CODE Portal | Korea Disease Control & Prevention Agency health declaration | https://qcode.kdca.go.kr |
+| WOWPASS | Foreign tourist prepaid card + T-money | https://www.wowpass.io |
+| Seoul Hangang Headquarters | Han River park & ferry official portal | https://hangang.seoul.go.kr |
+| Seoul City Media Hub | Seoul government news & official features | https://mediahub.seoul.go.kr |
+| KAIST | Korea Advanced Institute of Science and Technology | https://www.kaist.ac.kr |
+| Fever | Candlelight Concerts ticketing platform | https://feverup.com |
 | Seoul Sky | Lotte World Tower Observatory (Seoul) | https://seoulsky.lotteworld.com |
 | Namsan Cable Car | Cable car to N Seoul Tower | https://www.cablecar.co.kr |
 | N Seoul Tower | Namsan tower observatory & plaza | https://www.seoultower.co.kr |
