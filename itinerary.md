@@ -8,11 +8,11 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 
 | Day | Date | Base | Plan (with alternatives) |
 |---|---|---|---|
-| 1 | **Sat Oct 31** | Seoul | Land at ICN → settle in. Evening: DDP Dream in Light (free) or Seoul Plaza. 🏐 V-League season opens today — check [kovo.co.kr](https://www.kovo.co.kr) once fixtures drop (~late Sep) for an opening-weekend match |
+| 1 | **Sat Oct 31** | Seoul | Land at ICN → settle in. If you landed early, a 🚌 city tour bus loop orients you fast; otherwise evening: DDP Dream in Light (free) or Seoul Plaza. 🏐 V-League season opens today — check [kovo.co.kr](https://www.kovo.co.kr) once fixtures drop (~late Sep) for an opening-weekend match |
 | 2 | **Sun Nov 1** | Seoul | 🏃 07:30 — watch the **JTBC Seoul Marathon** start (Sangam World Cup Stadium) · 📚 Seoul Outdoor Library's **final day** (Gwanghwamun) · 🎭 *Dear Evan Hansen* closing day. Evening: 🏮 **Changgyeonggung Mulbit Yeonhwa** (₩1,000, no reservation) |
 | 3 | Mon Nov 2 | Seoul | Gyeongbokgung + hanbok (free entry) + guard ceremony 10:00 · Bukchon walking tour (reserve on sto.or.kr) · Mulbit Yeonhwa if you missed it |
 | 4 | **Tue Nov 3** | Seoul | Morning: 🍂 **Changdeokgung Huwon** at peak foliage (book the moment your slot opens — 6 days out!) · afternoon: 🎨 **BANKSY: Still Here — LAST DAY** (The Hyundai Seoul, Yeouido — prebook!). Evening: Hongdae PC bang |
-| 5 | Wed Nov 4 | Seoul | Free Seoul Plaza concert ~18:30 (✅ recurring Wednesdays) · daytime option: 🥬 **Museum Kimchikan** kimchi-making class (Insadong; reserve EN slot) |
+| 5 | Wed Nov 4 | Seoul | Free Seoul Plaza concert ~18:30 (✅ recurring Wednesdays) · daytime option: 🥬 **Museum Kimchikan** kimchi-making class (Insadong; reserve EN slot) · evening alt: 🚢 **Han River sunset cruise** from Yeouido |
 | 6 | Thu Nov 5 | Seoul | Flex day: NANTA or THE PAINTERS show · 🥟 **Gwangjang Market** dinner · Myeongdong shopping (Korea Sale FESTA ⏳ likely active) · Lotte World Halloween zones ⏳ |
 | 7 | **Fri Nov 6** | → Daejeon | Morning KTX (50 min) — 🥖 **Sungsimdang** bakery stop near Daejeon Station first! 🍷 **Wine EXPO Day 1** (DCC + Hanbit Tower) · evening Yuseong hot springs |
 | 8 | **Sat Nov 7** | ⚡ CHOICE DAY | **A)** 🍜 Noodle Festival (⏳ Nov 7–9 pattern) + Wine EXPO Day 2, Daejeon · **B)** 🎆 **Busan Fireworks Festival** (KTX 2.5 hrs — leave early, back late) · **C)** 🏆 **KGMA Day 1** at Gocheok Sky Dome (Seoul; lineup/tickets ~Oct) |

@@ -101,6 +101,12 @@ Every entry in this repo links to an **official, verified source** (government b
 | Museum Kimchikan | Seoul's kimchi museum + making classes | http://www.kimchikan.com |
 | Gwangalli M Drone Light Show | Suyeong-gu's weekly Saturday drone show | https://www.gwangallimdrone.co.kr |
 | Sungsimdang | Daejeon's legendary bakery (est. 1956) | http://www.sungsimdang.co.kr |
+| Eland Cruise | Han River sightseeing/sunset/dinner cruises | https://www.elandcruise.com |
+| Han River Bus | Seoul's river ferry transit | https://www.hgbus.co.kr |
+| Seoul City Tour Bus | Hop-on/hop-off city loop (Tiger Bus) | https://www.seoulcitybus.com |
+| Yellow Balloon City Bus | Hop-on/hop-off city loop (2nd operator) | https://www.seoulcitytourbus.co.kr |
+| Songdo Marine Cable Car | Busan sea cable car | http://busanaircruise.co.kr |
+| Hakwha Hodugwaja | Cheonan's original walnut pastry (est. 1934) | https://www.hodo1934.com |
 | XE | Currency conversion | https://www.xe.com |
 
 ---

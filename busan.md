@@ -77,6 +77,8 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Gamcheon Culture Village** ("Santorini of the East" colorful hillside village) — open daily
 - **Haeundae Beach** + **Dongbaek Island** coastal walk (fall foliage + ocean) — open daily
 - **Spa Land Centum City** — premium jjimjilbang (Korean spa) inside Shinsegae Centum City: natural hot-spring water, a dozen themed saunas, nap rooms — **one subway stop from BEXCO** on Line 2 (Centum City), so it's the perfect G-STAR rest-day ([Shinsegae Centum City](https://department.shinsegae.com))
+- **Haedong Yonggungsa Temple** — the famous seaside temple on the Gijang coast (~45–60 min from central Busan): free entry, open ~04:30–19:00, 108 seaside steps; go early for light + no crowds ([Visit Korea listing](https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=2c619c22-a4a4-4389-9258-4f15c426f8a4))
+- **Songdo Marine Cable Car** — sea-crossing cabins on Busan's first beach; Nov hours ~09:00–21:00; air-cruise round trip ₩17,000 / crystal (glass floor) ₩22,000 ([busanaircruise.co.kr](http://busanaircruise.co.kr))
 - **KTX tip:** Seoul → Busan ≈ 2.5 hrs; book on [letskorail.com](https://www.letskorail.com)
 
 ---

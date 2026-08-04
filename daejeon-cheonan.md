@@ -85,7 +85,7 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 
 ## 🧭 If you have one extra day — official picks
 - **Daejeon:** 🥖 **Sungsimdang bread pilgrimage** (성심당, est. 1956 — one of Korea's legendary "Big 5" bakeries; get the *twisted soboro* 튀김소보로 warm, main branch 5 min from Daejeon Station, [sungsimdang.co.kr](http://www.sungsimdang.co.kr)) · Yuseong hot springs district (온천) · Hanbat Arboretum · Daejeon Skyroad, Expo Bridge walk — [Visit Daejeon](https://www.daejeon.go.kr) · [daejeontour.co.kr](https://daejeontour.co.kr)
-- **Cheonan:** Cheonan's fall foliage parks, Gakwonsa Temple (mountain temple + giant Buddha), and food street near the old city center — [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Cheonan:** 🥮 **Hakwha Hodugwaja — the ORIGINAL walnut pastry, since 1934** (born at Cheonan station; get them warm from the terminal-crossroads or fire-station branches, [hodo1934.com](https://www.hodo1934.com)) · Cheonan's fall foliage parks, Gakwonsa Temple (mountain temple + giant Buddha), and food street near the old city center — [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
 
 ---
 

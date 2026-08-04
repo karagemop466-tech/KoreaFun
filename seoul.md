@@ -243,11 +243,22 @@ Korean musical theatre is huge and production values are world-class — note th
 - **Official source:** [kimchikan.com](http://www.kimchikan.com) · Insadong-gil 35-4, 4–6F (5 min from Anguk station)
 - **Beginner notes:** The perfect complement to kimjang season — do it the day before the Kimjang Festival (if it lands) and you'll understand everything you're watching.
 
+### 30) 🚢 Han River cruises & river life — 🔁 daily departures
+- **What:** Sunset/night cruises on the Han from **Yeouido pier** (Yeouinaru stn, Line 5): basic sightseeing, **sunset/music cruises with live performance**, and dinner cruises. Operator: Eland Cruise — book on [elandcruise.com](https://www.elandcruise.com); the Seoul Hangang HQ lists all official operators ([hangang.seoul.go.kr](https://hangang.seoul.go.kr))
+- **Price:** Roughly ₩20,000–60,000 depending on cruise type (book a day+ ahead; weekend/fireworks-season slots sell out)
+- **Local-life bonus:** the new **Han River Bus** river ferries ([hgbus.co.kr](https://www.hgbus.co.kr)) run as real commuter transit — a cheap, fun way to slide between Yeouido, Banpo and Jamsil like a Seoulite
+- **Beginner notes:** Best pick for you: a late-afternoon departure so you hit sunset + city lights in one loop.
+
+### 31) 🚌 Seoul City Tour Bus — hop-on/hop-off — 🔁 daily
+- **What:** Two operators loop the big sights from Gwanghwamun (palaces → N Seoul Tower → Itaewon → National Museum → DDP → Bukchon): **Seoul City Tour Bus** ([seoulcitybus.com](https://www.seoulcitybus.com)) and **Yellow Balloon City Bus** ([seoulcitytourbus.co.kr](https://www.seoulcitytourbus.co.kr)). Daytime hop-on/hop-off passes ~₩24,000–40,000 adult; separate **night-view courses** (~1 run, ₩22,000–27,000)
+- **Beginner notes:** Genuinely efficient for Day 1–2 orientation, and the ticket gets museum discounts the same day.
+
 ---
 
 ## ⏭️ Just outside your window (so you know why you missed them)
 - **Seoul International Fireworks Festival** — Sep 5, 2026 (Yeouido) — *before*
 - **Han River Drone Light Show (fall edition)** — Sep–Oct 2026 — *just before* ([culture.seoul.go.kr](https://culture.seoul.go.kr))
+- **Banpo Rainbow Fountain** — the world's longest bridge fountain runs **April–October only** (off Nov–Mar) — it switches off right before you land, so don't plan an evening around it; a Han River night cruise (see #30) fills the gap
 - **Changdeokgung Moonlight Tour (fall)** 👀 — the Korea Heritage Service's flagship palace night tour (Thu–Sun, ₩30,000, 100 min, lottery via Ticketlink; **English/Chinese/Japanese sessions** bookable via [Creatrip](https://www.creatrip.com)). 2026 spring ran Apr 16–May 31; **fall 2026 dates TBA** (2025 ran Sep 4 – Oct 26) — if it extends into early Nov like last year, it lands in your first days. Watch [royal.khs.go.kr](https://royal.khs.go.kr) from August; hotline 1522-2295
 - **BTS ARIRANG world tour** — Korea dates were Goyang (Apr) & **Busan Asiad (Jun 12–13)** — *no Korea dates in Nov* (they play Kaohsiung Nov 19–22)
 - **Khalid (Dec 5) · FKJ (Dec 6)** — KINTEX — *after*
