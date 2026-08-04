@@ -91,6 +91,12 @@ Every entry in this repo links to an **official, verified source** (government b
 |---|---|---|
 | Korea Meteorological Administration | Weather & autumn foliage forecasts | https://www.weather.go.kr |
 | Visit Korea Autumn | Official foliage/seasonal guide | https://english.visitkorea.or.kr |
+| Templestay (Cultural Corps of Korean Buddhism) | Official English templestay bookings | https://eng.templestay.com |
+| KBS Global | Music Bank audience tickets for foreigners (FAQ) | https://english.kbs.co.kr |
+| Gwangjang Market | Seoul's oldest market (official site) | http://www.kwangjangmarket.co.kr |
+| Shinsegae Centum City | Spa Land jjimjilbang (Busan) | https://department.shinsegae.com |
+| Jarasum Jazz Festival | Gapyeong jazz festival (Oct 9–11, 2026) | https://www.jarasumjazz.com |
+| Panmunjom Tour Center | DMZ/JSA tours (Ministry of Unification) | https://www.panmuntour.go.kr |
 | XE | Currency conversion | https://www.xe.com |
 
 ---

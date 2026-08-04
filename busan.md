@@ -75,6 +75,7 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Jagalchi Fish Market** (Korea's biggest seafood market — pick seafood, they cook it upstairs) — open daily
 - **Gamcheon Culture Village** ("Santorini of the East" colorful hillside village) — open daily
 - **Haeundae Beach** + **Dongbaek Island** coastal walk (fall foliage + ocean) — open daily
+- **Spa Land Centum City** — premium jjimjilbang (Korean spa) inside Shinsegae Centum City: natural hot-spring water, a dozen themed saunas, nap rooms — **one subway stop from BEXCO** on Line 2 (Centum City), so it's the perfect G-STAR rest-day ([Shinsegae Centum City](https://department.shinsegae.com))
 - **KTX tip:** Seoul → Busan ≈ 2.5 hrs; book on [letskorail.com](https://www.letskorail.com)
 
 ---

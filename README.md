@@ -59,7 +59,7 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 | Sun Nov 22 | Seoul E-Land final home match · Kimjang Grand Festival window | Seoul | ✅ |
 | **Thu–Sun Nov 19–22** | **G-STAR 2026 gaming expo** | Busan (BEXCO) | ✅ |
 
-*Plus, all month: V-League volleyball (fixtures ~late Sep/Oct), KBL basketball (schedule TBA) & WKBL women's basketball (mid-Nov tip-off — Busan & Asan) in all four cities, free Seoul events (Gyeongbokgung guard ceremony, walking tours, DDP light show, Seoul Plaza concerts), and 10+ official Seoul exhibitions.*
+*Plus, all month: V-League volleyball (fixtures ~late Sep/Oct), KBL basketball (schedule TBA) & WKBL women's basketball (mid-Nov tip-off — Busan & Asan) in all four cities, free Seoul events (Gyeongbokgung guard ceremony, walking tours, DDP light show, Seoul Plaza concerts), 10+ official Seoul exhibitions, and local experiences you can book any day — **K-pop TV show tapings (free), templestays (English programs), Gwangjang Market, and Busan's Spa Land**.*
 
 ---
 

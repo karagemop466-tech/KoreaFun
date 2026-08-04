@@ -209,6 +209,26 @@ Korean musical theatre is huge and production values are world-class — note th
 - **Official sources:** [Korea Heritage Service (kh.or.kr)](https://www.kh.or.kr) · [Seoul city media hub guide](https://mediahub.seoul.go.kr/archives/2014130) · program hotline 1522-2295
 - **Beginner notes:** Enter by ~19:30 to catch the main pond show; combine with a hanbok rental for free entry + photos. Verify exact 2026 fall times on kh.or.kr in October.
 
+### 24) 🎤 K-pop TV music show tapings — 🔁 every week, mostly FREE (locals + tourists)
+- **What:** Watch K-pop groups film the weekly TV shows live. **KBS Music Bank** (Fridays ~18:05 live, pre-rec ~11:00) at KBS Open Hall, Yeouido is the foreigner-friendly one: **free audience tickets via KBS's official lottery** — register a KBS SSO account as **"Foreigner Living Abroad"** (passport copy; approval takes days, so **register before you fly**), then apply Thu–Sat for the following Friday. In-window Fridays: **Nov 6** (you're in Daejeon), **Nov 13**, **Nov 20** (Busan)
+- **Official source:** [KBS Global FAQ](https://english.kbs.co.kr/about/faq.html) · application at [kbs.co.kr Music Bank audience page](https://www.kbs.co.kr)
+- **Beginner notes:** Other shows (M Countdown Thu, Inkigayo Sun, The Show Tue) rely on fan-club raffles or on-site lists — possible but far less structured; expect long waits and no filming allowed inside.
+
+### 25) 🧘 Templestay — sleep a night at a Buddhist temple — 🔁 bookable all year (English programs!)
+- **What:** Korea's official templestay program (run by the Jogye Order's Cultural Corps) — robes, pre-dawn chanting, 108 prostrations, monastic meals, meditation. **7 Seoul temples run English programs:** Bongeunsa (Gangnam/COEX), Jogyesa (Jogye Order HQ, Insadong), Myogaksa, Hwagyesa (Bukhansan foothills — foliage!), Geumsunsa, Jinkwansa, International Seon Center
+- **Price:** Roughly ₩60,000–100,000 (~$43–71) overnight incl. everything; one-day experiences cheaper — subsidized foreigner promos appear periodically
+- **Book:** [eng.templestay.com](https://eng.templestay.com) (official) or the Templestay Information Center in Insadong — reserve **2–4 weeks ahead** for weekends
+- **Beginner notes:** Autumn = peak season (mountain temples in foliage). A Hwagyesa or Bongeunsa night slots perfectly into a rest day; participation is optional — you can sleep in.
+
+### 26) 🥟 Gwangjang Market — Korea's first permanent market — 🔁 daily
+- **What:** 120-year-old food market: bindaetteok (mung-bean pancakes), mayak gimbap, yukhoe (beef tartare), kalguksu + makgeolli at communal tables
+- **Where:** Jongno-gu (Line 1 Jongno-5ga or Line 2/4/5 Dongdaemun History & Culture Park) · [kwangjangmarket.co.kr](http://www.kwangjangmarket.co.kr)
+- **Beginner notes:** Go hungry around lunch or dinner; stalls are cash/T-money friendly; combine with Cheonggyecheon stream walk right outside.
+
+### 27) 👀 DMZ / JSA (Panmunjom) day trip — WATCH (status fluid)
+- **What:** The Joint Security Area at Panmunjom, ~1 hr north of Seoul. Note: general public tours have been **on/off suspended since 2023**; special/group tours resume intermittently. Official portal: [panmuntour.go.kr](https://www.panmuntour.go.kr) (Ministry of Unification)
+- **Beginner notes:** Foreigners typically book through UNC-approved tour agencies (many also run the safer Third Tunnel/Dora Observatory half-day DMZ tour, which runs regardless). Check availability ~1 month ahead; don't build the trip around it.
+
 ---
 
 ## ⏭️ Just outside your window (so you know why you missed them)
@@ -220,4 +240,5 @@ Korean musical theatre is huge and production values are world-class — note th
 - **AGF 2026 (anime×game fest)** — **Dec 4–6, KINTEX** — *just after* ([agfkorea.com](https://www.agfkorea.com))
 - **Seoul Light DDP Winter** — Dec 17–31, 2026 — *after* (but see #19 for the nightly version)
 - **Seoul Lantern Festival** — Dec 11, 2026 – Jan 3, 2027 — *after*
+- **Jarasum International Jazz Festival (Gapyeong, 1 hr from Seoul)** — **Oct 9–11, 2026** (France focus, 140th anniversary of diplomatic ties) — *just before* ([jarasumjazz.com](https://www.jarasumjazz.com))
 - **K-Pop award shows & December concerts (MMA, MAMA…)** — announced Oct–Nov — 👀 check [Interpark Global](https://global.interpark.com) in October
