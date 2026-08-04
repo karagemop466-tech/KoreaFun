@@ -24,8 +24,8 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Official source:** [kimjang-festa.com](https://kimjang-festa.com) (hosted by aT, Korea's government-run agri-food trade corporation, with Seoul city)
 - **Beginner notes:** Kimchi-making for everyone, master-kimchi exhibitions, a market to buy kimchi/jang materials, and traditional performances. Perfect last-weekend-of-trip activity if it lands Nov 20–22.
 
-### 3) Korea Sale FESTA (nationwide shopping festival) — ⏳ TBA (recent years: November)
-- **Dates:** 2026 dates TBA; 2024 ran in **November** (gov't press release Nov 1, 2024); expect late Oct – mid/late Nov — likely covering your whole trip
+### 3) Korea Sale FESTA (nationwide shopping festival) — ⏳ TBA (recent pattern: Nov 9–30)
+- **Dates:** 2026 dates TBA — both recent editions ran **Nov 9–30** (2024 & 2025, per Ministry of Trade via [Korea.net](https://www.korea.net)); expect the 2026 run to cover most of your trip
 - **What:** Korea's "Black Friday" — national discounts across retail, duty-free, hotels, transport, attractions, and food, run by the Ministry of Culture & Ministry of Trade
 - **Official source:** [koreasalefesta.co.kr](https://koreasalefesta.co.kr)
 - **Beginner notes:** Even tourists benefit (duty-free/shopping promos, attraction & transit deals). Foreigner-friendly: keep an eye on the site's "tourist" section — good for picking up souvenirs and cosmetics cheap.
@@ -60,6 +60,9 @@ All listed on the official Visit Seoul events calendar (links = official listing
 | A City's Boarding Log — Seoul Archives | 2028 | [Visit Seoul](https://english.visitseoul.net/exhibition/ACitysBoardingLog/ENPr2k2ja) |
 | SeMA Public Space Project | Dec 31, 2026 | [Visit Seoul](https://english.visitseoul.net/exhibition/Dance-of-Eternal-Polarities/ENP68z1mg) |
 | You, As You Are — SimLee Da Eun | Apr 2027 | [Visit Seoul](https://english.visitseoul.net/exhibition/You-As-You-Are/ENPlhr9s8) |
+| **Inside Other Spaces: Environments by Women Artists 1956–1976** — Leeum Museum of Art (immersive postwar installations) | **Nov 29, 2026** | [Leeum](https://leeum.org) |
+
+> 💡 Also free & easy: **Leeum Museum of Art** (Hannam/Itaewon) keeps a world-class permanent collection; from September it adds a **KOO JEONG A** solo across the M2 building. The **National Museum of Korea** (Ichon) is free and colossal — plan a half day ([museum.go.kr](https://www.museum.go.kr)).
 
 ### 7) Seoul Outdoor Library — ✅ ends Nov 1 (catch it on day one!)
 - **When:** Apr 23 – **Nov 1, 2026** — Gwanghwamun Book Plaza + Seoul Plaza book lawns
@@ -111,18 +114,25 @@ All listed on the official Visit Seoul events calendar (links = official listing
 - **Price:** General seats roughly ₩10,000–35,000 (~$7–25)
 - **Official source:** [koreabaseball.com](https://www.koreabaseball.com)
 
-### 14) K League 1 Final Rounds — FC Seoul — 👀 WATCH
+### 14) 🏃 JTBC Seoul Marathon — ✅ CONFIRMED — Sun Nov 1, 2026
+- **When:** **Sunday, Nov 1, 2026 — 07:30 start** (your second morning!) · Full 42.195 km + 10 km races
+- **Course:** Starts at **Sangam World Cup Stadium**, runs through central Seoul (Yanghwa Bridge → Yeouido → city-center landmarks) — Korea's "Big 3" marathon, famous for its young-runner crowd and festival-style finish area (confirm exact finish on the official site)
+- **Price:** Free to spectate; race entry ~₩100,000 (~$71) but registration is lottery-based and usually sells out months ahead (foreign entries via the official international channel)
+- **Official source:** [marathon.jtbc.com](https://marathon.jtbc.com) (official race site)
+- **Beginner notes:** Even if you don't run, the start/finish atmosphere on Nov 1 morning is a free show — and the mid-morning road closures make downtown unusually quiet for sightseeing.
+
+### 15) K League 1 Final Rounds — FC Seoul — 👀 WATCH
 - **What:** League splits into Final A/B on **Oct 31** (official 2026 format: regular season ends Oct 25, final rounds **Oct 31 – Dec 6**). FC Seoul home matches at Seoul World Cup Stadium (Subway Line 6, World Cup Stadium) in Nov — 2–3 likely.
 - **Price:** K League 1 singles ~₩13,000–25,000 (~$9–18)
 - **Official sources:** [kleague.com](https://www.kleague.com) · [fcseoul.com](https://www.fcseoul.com)
 
-### 15) Seoul E-Land FC — K League 2 — ✅ CONFIRMED home fixtures
+### 16) Seoul E-Land FC — K League 2 — ✅ CONFIRMED home fixtures
 - **Sat Nov 7, 2026 — 16:30** vs Jeonnam Dragons — **Mokdong Stadium** (Subway Line 5)
 - **Sun Nov 22, 2026 — 16:30** vs Chungnam Asan — **Mokdong Stadium** (final home match of the regular season!)
 - **Price:** K League 2 singles ~₩10,000–20,000 (~$7–14)
 - **Official source:** [kleague.com](https://www.kleague.com)
 
-### 16) 🇰🇷 Korea national football team — November friendlies — 👀 WATCH
+### 17) 🇰🇷 Korea national football team — November friendlies — 👀 WATCH
 - **What:** The FIFA international window (~**Nov 9–17, 2026**) usually brings home friendlies at Seoul World Cup Stadium or Suwon. Opponents/venues announced ~1 month ahead.
 - **Official source:** [kfa.or.kr](https://www.kfa.or.kr) (Korea Football Association) — check from September
 - **Beginner notes:** If a home match is announced for your window, it's the easiest national-team experience a visitor can have (K League tickets via Ticketlink).
@@ -140,8 +150,21 @@ All listed on the official Visit Seoul events calendar (links = official listing
 | Thu–Fri Nov 12–13 | Sir Simon Rattle & Bavarian Radio Symphony | Seoul Arts Center Concert Hall | world-class classical |
 | Fri Nov 13 | Candlelight: Joe Hisaishi (Ghibli music) | Jeongdong 1928 Art Center | from ~₩47,000; Nov 13 & 27 |
 | Sat Nov 14 | Jason Mraz — Asia Tour 2026 | KINTEX Hall 1, Ilsan | ~20 min from Seoul via GTX-A |
+| **Sat–Sun Nov 14–15** | **🏆 Melon Music Awards (MMA 2026)** | **Gocheok Sky Dome, Guro** | **K-pop's biggest award show — first-ever 2-day edition (Nov 14–15 confirmed by Kakao Entertainment); lineup & tickets TBA, watch Melon** |
 | Wed Nov 18 | Kings of Convenience | Sejong Center Grand Theater | |
 | Thu Nov 19 | 5 Seconds of Summer | KINTEX Hall 1, Ilsan | same weekend as G-STAR (Busan) — pick one! |
+
+> **K-pop award-show note:** MMA 2026 (Nov 14–15) is **in Seoul** — lineup announced ~Oct, tickets via [Melon Ticket](https://www.melon.com) (very competitive — fan-club presales). The **2026 MAMA Awards** are **Fri–Sat Nov 20–21 at Kyocera Dome Osaka** (official CJ ENM announcement) — *not* in Korea this year, but your trip overlaps the exact weekend: watch the live stream for free on **Mnet Plus** from your hotel or a screen-friendly pub ([cjenm.com](https://cjenm.com) / [mama.mnet.com](https://mama.mnet.com)).
+
+### 🎭 Musicals running through your window (big Korean productions)
+Korean musical theatre is huge and production values are world-class — note these are sung **in Korean** (licensed translations). Tickets via [NOL Ticket](https://www.nol.world) (official; international-friendly).
+
+| Show | Runs | Venue |
+|---|---|---|
+| **ELISABETH** (Vienna musical, 10th-anniversary season) | Aug 16 – **Nov 15, 2026** | Blue Square Woori Bank Hall (Itaewon) |
+| **Hell's Kitchen** (Alicia Keys musical, Korean premiere run) | Jul 24 – **Nov 8, 2026** | GS Arts Center (Yeoksam) |
+| **Gwanghwamun Love Song** (K-pop jukebox musical) | Sep 6 – **Nov 15, 2026** | D-CUBE LINK Arts Center (Sindorim) |
+| **Dear Evan Hansen** | Aug 1 – **Nov 1, 2026** (closing day = your day 1!) | Chungmu Arts Center Grand Theater |
 
 - **Official booking:** [Interpark Global](https://global.interpark.com) · [Ticketlink](https://www.ticketlink.co.kr) · [YES24](https://ticket.yes24.com)
 - **Always-on shows (no dates needed):** **NANTA** (kitchen-percussion comedy, [nanta.co.kr](https://www.nanta.co.kr)) · **THE PAINTERS** (live-painting performance, [Visit Seoul listing](https://english.visitseoul.net/exhibition/thepainters/ENPcyxke6)) — both English-friendly, tourist classics.
@@ -150,27 +173,27 @@ All listed on the official Visit Seoul events calendar (links = official listing
 
 ## 🆓 Free & always-on culture
 
-### 17) Gyeongbokgung Royal Guard Changing Ceremony — 🔁 free, daily (except Tue)
+### 18) Gyeongbokgung Royal Guard Changing Ceremony — 🔁 free, daily (except Tue)
 - **Times:** Guard-change ceremony 10:00 & 14:00 (20 min) · Gwanghwamun guard duty 11:00 & 13:00 · training 09:35 & 13:35 — **free, no reservation**
 - **Palace:** Gyeongbokgung closed Tuesdays; admission ₩3,000 adult (~$2), **free if you wear a hanbok** (rentals nearby)
 - **Official source:** [royal.khs.go.kr](https://royal.khs.go.kr) (Royal Palaces & Tombs Center)
 
-### 18) Seoul Walking Tours (서울도보해설관광) — 🔁 free with reservation
+### 19) Seoul Walking Tours (서울도보해설관광) — 🔁 free with reservation
 - **What:** Free guided walking tours of 30+ courses (Gyeongbokgung, Bukchon, Namsan, Cheonggyecheon…) in **English, Japanese, Chinese, and more**; ~2 hrs each
 - **Reserve:** online via [Visit Seoul](https://english.visitseoul.net) / [sto.or.kr](https://www.sto.or.kr) (book days ahead)
 - **Beginner notes:** The best 0-won way to actually understand what you're looking at — ideal for first-timers.
 
-### 19) DDP Dream in Light — 🔁 free nightly light show
+### 20) DDP Dream in Light — 🔁 free nightly light show
 - **When:** Daily **18:00–22:00**, every hour on the hour (~25 min) — running through 2026
 - **Where:** DDP (Dongdaemun Design Plaza, Subway 2/4/5 Dongdaemun History & Culture Park) — the world's largest non-standard architecture media facade
 - **Official source:** [ddp.or.kr](https://ddp.or.kr) · [Seoul Festival Calendar](https://festival.seoul.go.kr)
 - **Beginner notes:** Free, walk-up, spectacular; combine with the Dongdaemun night market/street food nearby.
 
-### 20) PC Bang (Korean gaming cafe) — 🔁 always on
+### 21) PC Bang (Korean gaming cafe) — 🔁 always on
 - **Where:** Any "PC방" — Hongdae, Gangnam, Myeongdong; ~₩1,500–2,500/hour
 - **Esports heads-up:** LCK is in off-season in November and **LoL Worlds 2026 finals are Nov 14 in Brooklyn, NY** — a PC Bang is the best place to watch live with locals ([lolesports.com](https://lolesports.com)).
 
-### 21) Autumn foliage — 🔁 seasonal
+### 22) Autumn foliage — 🔁 seasonal
 - **When:** Peak foliage late Oct – early Nov (official forecast ~late Sept: [weather.go.kr](https://www.weather.go.kr) / Visit Korea)
 - **Where:** Namsan + N Seoul Tower, Deoksugung, Seoul Forest, Gyeongbokgung, Bukhansan — parks free; palaces ~₩3,000; tower ~₩21,000
 

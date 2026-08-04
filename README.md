@@ -29,6 +29,7 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 5. **⚽ Seoul E-Land FC home games — Sat Nov 7 & Sun Nov 22, 2026 (CONFIRMED fixtures)** — cheap, easy K-League 2 soccer in Seoul's Mokdong Stadium. *(seoul)*
 6. **🥬 Seoul Kimjang (Kimchi-Making) Culture Festival — early November, TBA** — UNESCO-listed kimchi culture; traditionally the first weekend of Nov at Seoul Plaza. *(seoul)*
 7. **🎨 BANKSY: Still Here — ends Tue Nov 3, 2026 (CONFIRMED)** — world-famous street-art exhibition at The Hyundai Seoul. Catch it in your first days. *(seoul)*
+8. **🏆 Melon Music Awards (MMA 2026) — Sat–Sun Nov 14–15, 2026 (CONFIRMED)** — K-pop's biggest award show, first-ever two-day edition, at Gocheok Sky Dome. Lineup & tickets drop ~Oct — watch Melon. *(seoul)*
 
 ---
 
@@ -38,15 +39,19 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 |---|---|---|---|
 | Sat Oct 31 | V-League 2026–27 season opens · K League 1 Final rounds begin | All cities / Seoul | ✅ |
 | Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) | Seoul | ✅ |
-| Nov (all month) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
+| **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
+| Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
+| **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (tastings at Hanbit Tower) | Daejeon | ✅ |
 | Sat Nov 7 | **Busan Fireworks Festival** · Seoul E-Land vs Jeonnam · MCR / Jujutsu Kaisen concerts | Busan / Seoul / Incheon | ✅ |
 | Sun Nov 8 | Cheonan City FC vs Busan IPark (K-League 2) | Cheonan | ✅ |
 | ~Nov 9–17 | Korea national team friendlies (if announced) | Seoul / Suwon | 👀 |
 | ~Nov 9–15 | KBO **Korean Series** (baseball finals, may end before you land) | TBD (watch Seoul/Daejeon/Busan) | 👀 |
 | Thu Nov 12–13 | Bavarian Radio Symphony w/ Sir Simon Rattle (Seoul Arts Center) | Seoul | ✅ |
 | Sat Nov 14 | Jason Mraz · LoL Worlds 2026 Grand Final (watch at a PC Bang) | Seoul (KINTEX) | ✅ |
+| **Sat–Sun Nov 14–15** | **🏆 Melon Music Awards MMA 2026 (first-ever 2-day edition)** | Seoul (Gocheok Sky Dome) | ✅ |
 | Early–mid Nov (TBA) | Seoul Kimjang Festival · Kimjang Grand Festival (aT) · Noodle Daejeon Festival | Seoul / Daejeon | ⏳ |
 | Thu Nov 19 | 5 Seconds of Summer (KINTEX) — same night as G-STAR weekend | Seoul (Ilsan) | ✅ |
+| **Fri–Sat Nov 20–21** | MAMA Awards 2026 (in Osaka — stream free via Mnet Plus) | watch from Korea | ✅ |
 | Sat Nov 21 | Busan IPark vs Chungnam Cheongju (K-League 2) | Busan (Gudeok) | ✅ |
 | Sun Nov 22 | Seoul E-Land final home match · Kimjang Grand Festival window | Seoul | ✅ |
 | **Thu–Sun Nov 19–22** | **G-STAR 2026 gaming expo** | Busan (BEXCO) | ✅ |

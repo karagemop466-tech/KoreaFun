@@ -50,6 +50,13 @@ Every entry in this repo links to an **official, verified source** (government b
 | National Science Museum | Daejeon science museum | https://www.science.go.kr |
 | Independence Hall of Korea | Cheonan — national museum (hours/closure days) | https://www.ihol.or.kr |
 | NANTA | NANTA non-verbal show (Seoul) | https://www.nanta.co.kr |
+| JTBC Seoul Marathon | Official race site (Nov 1, 2026) | https://marathon.jtbc.com |
+| Daejeon International Wine EXPO | Official expo site (Nov 6–8, 2026, DCC) | https://djwinefair.com |
+| Melon (Kakao Entertainment) | Melon Music Awards MMA 2026 (Nov 14–15, Gocheok) | https://www.melon.com |
+| CJ ENM | MAMA Awards 2026 organizer (Nov 20–21, Osaka) | https://cjenm.com |
+| MAMA Awards | MAMA Awards 2026 official site (stream via Mnet Plus) | https://mama.mnet.com |
+| Leeum Museum of Art | Leeum exhibitions (Inside Other Spaces — through Nov 29) | https://leeum.org |
+| National Museum of Korea | Free national museum (Ichon) | https://www.museum.go.kr |
 
 ## Gaming / esports / anime
 | Source | Official for | URL |
@@ -69,6 +76,7 @@ Every entry in this repo links to an **official, verified source** (government b
 |---|---|---|
 | Interpark Global | Concerts, festivals, some sports | https://global.interpark.com |
 | Ticketlink | K League, KBO, esports | https://www.ticketlink.co.kr |
+| NOL Ticket | Korean musicals (ELISABETH, Hell's Kitchen…) | https://www.nol.world |
 | YES24 Ticket | G-STAR, concerts, exhibitions | https://ticket.yes24.com |
 | KORAIL (Lets Korail) | KTX/high-speed train tickets | https://www.letskorail.com |
 | Korail Travel | Foreigner-friendly KTX booking | https://www.korailtravel.com |
