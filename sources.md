@@ -35,17 +35,34 @@ Every entry in this repo links to an **official, verified source** (government b
 |---|---|---|
 | G-STAR Organizing Committee | G-STAR 2026 (Nov 19–22, BEXCO Busan) | https://www.gstar.or.kr |
 | BEXCO | Venue — Busan Exhibition & Convention Center | https://www.bexco.co.kr |
+| Busan Fireworks Festival | Official festival site (tickets, updates) | https://busanfireworks.com |
 | Noodle Daejeon Festival | Daejeon noodle festival | https://noodle-dj.com |
+| Korea Sale FESTA | Nationwide shopping festival (Ministry-run) | https://koreasalefesta.co.kr |
+| Korea Kimjang Grand Festival | National kimjang festival (aT) | https://kimjang-festa.com |
 | Everland | Everland theme park (Yongin, near Seoul) | https://www.everland.com |
 | Lotte World | Lotte World Adventure (Seoul, Jamsil) | https://www.lotteworld.com |
 | The Hyundai Seoul | Venue — BANKSY: Still Here exhibition | https://www.thehyundai.com |
+| DDP (Seoul Design Foundation) | DDP exhibitions & Dream in Light nightly show | https://ddp.or.kr |
+| Royal Palaces & Tombs Center | Gyeongbokgung guard ceremony, palace programs | https://royal.khs.go.kr |
+| Seoul Tourism Organization | Seoul Walking Tours (free guided tours) | https://www.sto.or.kr |
+| Seoul Culture Portal | Seoul city performances & events | https://culture.seoul.go.kr |
+| Daejeon O-World | Daejeon zoo/theme park (chrysanthemum festival) | https://www.o-whd.co.kr |
+| National Science Museum | Daejeon science museum | https://www.science.go.kr |
 | Independence Hall of Korea | Cheonan — national museum (hours/closure days) | https://www.ihol.or.kr |
+| NANTA | NANTA non-verbal show (Seoul) | https://www.nanta.co.kr |
 
-## Gaming / esports
+## Gaming / esports / anime
 | Source | Official for | URL |
 |---|---|---|
 | LoL Esports (Riot Games) | LoL Worlds 2026 dates/venues (Nov 14 final in Brooklyn) | https://lolesports.com |
 | Korea e-Sports Association | KeSPA events (Daejeon Esports Stadium) | https://www.e-sports.or.kr |
+| AGF Korea | Anime×Game Festival (Dec 4–6, KINTEX — after your trip) | https://www.agfkorea.com |
+| Comic World | Korea's doujin/anime convention organizer | https://www.comicw.co.kr |
+
+## Sports — national teams
+| Source | Official for | URL |
+|---|---|---|
+| KFA | Korea Football Association — national team fixtures | https://www.kfa.or.kr |
 
 ## Ticketing platforms (official sales channels)
 | Source | Use for | URL |

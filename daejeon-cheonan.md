@@ -52,6 +52,21 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **G-STAR 2026** is in Busan (Nov 19–22) — if your flex happens mid-November, consider routing Daejeon/Cheonan → Busan for that weekend (details in `busan.md`).
 - **PC Bangs** are everywhere in both cities (see `travel-basics.md`).
 
+## 8) 🌼 Daejeon O-World Chrysanthemum Festival — ⏳ TBA (annual, late Oct – Nov)
+- **Dates:** 2026 TBA — the city's official blog confirms the festival shows **200,000 chrysanthemums** plus a nationwide master-chrysanthemum exhibition, running through **end of November** in recent years — a perfect flex-day outing
+- **Venue:** Daejeon O-World (zoo + theme park + botanical garden), Jung-gu, Daejeon
+- **Price:** Park admission ~₩25,000–35,000 adult (zoo+attractions bundle) — check current rates
+- **Official sources:** [daejeon.go.kr](https://www.daejeon.go.kr) (official festival feature) · [o-whd.co.kr](https://www.o-whd.co.kr) (O-World)
+- **Beginner notes:** Chrysanthemum sculptures, autumn flowers (pink muhly, cosmos), and a zoo — family-friendly and very photogenic. Great half-day before/after a volleyball match.
+
+## 9) 🔬 National Science Museum (국립중앙과학관, Daejeon) — 🔁 always on
+- **What:** Korea's national science museum — huge hands-on exhibits, planetarium, and special exhibitions; Daejeon's science-city icon (built around Expo 1993)
+- **Hours:** ~09:30–17:30 (closed Mondays; seasonal hours — confirm on official site)
+- **Price:** Main exhibits free/low-cost; planetarium and special shows paid
+- **Official source:** [science.go.kr](https://www.science.go.kr)
+- **Beginner notes:** Right next to Hanbit Tower Plaza (the noodle festival site) and Expo Park — easy to bundle. English signage is decent.
+- **Yuseong Hot Springs district** (온천) — Korea's classic hot-spring town, 20 min from downtown Daejeon; a soak + a Volleyball/Sale-FESTA day is the classic local combo ([daejeontour.co.kr](https://daejeontour.co.kr)).
+
 ---
 
 ## 🧭 If you have one extra day — official picks
@@ -63,4 +78,6 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 ## ⏭️ Just outside your window
 - **Daejeon 0 o'clock Festival** (city street festival) — August — *before your trip*
 - **LoL KeSPA Cup** (esports finals at Daejeon Esports Stadium) — Jul–Aug 2026 — *before your trip*
+- **Yuseong Hot Springs Culture Festival** — usually early October — *just before your trip*
 - **Cheonan World Dance Festival** — early October — *just before your trip*
+- **Daejeon Science Festival (spring edition)** — April–May 2026 — *before your trip*

@@ -10,10 +10,11 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 
 ## 1) 🎆 Busan Fireworks Festival — ✅ CONFIRMED — Sat, Nov 7, 2026
 - **Dates:** **Saturday, November 7, 2026** (official; postpones a day only for strong wind/heavy rain)
-- **When/Where:** Daytime side events from afternoon; main fireworks show in the evening (~19:00–20:00 start in past years) over **Gwangalli Beach, Haeundae, and Igidae** (Gwangan Bridge backdrop)
-- **Price:** **Free** public viewing areas; paid reserved seats (limited) go on sale ~October via the official festival site
-- **Official sources:** [festivalbusan.com](https://festivalbusan.com) (Busan Festival Organizing Committee) · [Visit Busan](https://english.visitbusan.net)
-- **Beginner notes:** ~1.3 million people attend — arrive 2–3 hours early with a picnic blanket; get off at Subway Line 2 **Gwangan station** and walk toward the beach. Pack layers: November evenings on the coast are cold (~10°C/50°F).
+- **When/Where:** Daytime side events from afternoon; main fireworks show in the evening over **Gwangalli Beach, Haeundae, and Igidae** (Gwangan Bridge backdrop)
+- **Price:** **Free** public viewing areas. Paid premium seats on the beach: 2025 official rates were **R-seat (table+chairs) ₩100,000 / S-seat (chair) ₩70,000**; 2026 rates TBA — on sale ~Sep–Oct via **YES24** and Busan Bank, from the official site
+- **Official sources:** [festivalbusan.com](https://festivalbusan.com) · [busanfireworks.com](https://busanfireworks.com) (tickets: [ticket.yes24.com](https://ticket.yes24.com))
+- **Beginner notes:** ~1.3 million people attend — arrive 2–3 hours early with a picnic blanket; Subway Line 2 **Gwangan station** → walk to the beach. Free is genuinely great from Gwangan Beach or Igidae headland. Pack layers: cold November evenings (~10°C/50°F).
+- **Korea Sale FESTA:** the nationwide November shopping-festival discount window ([koreasalefesta.co.kr](https://koreasalefesta.co.kr)) is active this month — handy for duty-free and shopping between events.
 
 ## 2) 🎮 G-STAR 2026 — ✅ CONFIRMED — Thu Nov 19 – Sun Nov 22, 2026
 - **Dates:** **November 19–22, 2026** (4 days) — announced by organizers March 2026
@@ -66,5 +67,8 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 
 ## ⏭️ Just outside your window
 - **Busan One Asia Festival (BOF, K-pop)** — was June 27–28, 2026 — *before your trip*
-- **Busan Christmas Tree Festival** (Gwangbok-ro) — early December — *after your trip*
-- **BIFF (film festival)** — Oct 6–15, 2026 — *just before your trip* (see above)
+- **BTS "ARIRANG" world tour in Busan** — Busan Asiad Main Stadium, **Jun 12–13, 2026** — *before your trip* (no Korea dates in Nov)
+- **Busan International Rock Festival** — Oct 2–4, 2026, Samnak Eco Park — *just before your trip*
+- **BIFF (film festival)** — Oct 6–15, 2026 — *just before your trip* (Busan Cinema Center is worth visiting anyway)
+- **Haeundae Light Festival** — 2025 edition ran **Nov 29, 2025 – Jan 18, 2026**; the 2026 edition likely starts ~late Nov — you'll probably just miss the lighting ceremony, but check [english.visitbusan.net](https://english.visitbusan.net) in October
+- **Gwangbok-ro Christmas Tree Festival** — early December — *after your trip*

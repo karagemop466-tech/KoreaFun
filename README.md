@@ -36,18 +36,22 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 
 | Date | Event | City | Status |
 |---|---|---|---|
-| Sat Oct 31 | V-League 2026–27 season opens | Seoul / Busan / Daejeon / Cheonan | ✅ |
-| Oct 31 – Nov 3 | BANKSY exhibition (last days) | Seoul (Yeouido) | ✅ |
-| Sat Nov 7 | **Busan Fireworks Festival** | Busan (Gwangalli) | ✅ |
-| Sat Nov 7 | Seoul E-Land vs Jeonnam (K-League 2) | Seoul (Mokdong) | ✅ |
+| Sat Oct 31 | V-League 2026–27 season opens · K League 1 Final rounds begin | All cities / Seoul | ✅ |
+| Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) | Seoul | ✅ |
+| Nov (all month) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
+| Sat Nov 7 | **Busan Fireworks Festival** · Seoul E-Land vs Jeonnam · MCR / Jujutsu Kaisen concerts | Busan / Seoul / Incheon | ✅ |
 | Sun Nov 8 | Cheonan City FC vs Busan IPark (K-League 2) | Cheonan | ✅ |
-| ~Nov 7–15 | KBO **Korean Series** (baseball finals) | TBD (watch Seoul/Daejeon/Busan) | 👀 |
-| Early Nov (TBA) | Seoul Kimjang Festival; Noodle Daejeon Festival | Seoul / Daejeon | ⏳ |
+| ~Nov 9–17 | Korea national team friendlies (if announced) | Seoul / Suwon | 👀 |
+| ~Nov 9–15 | KBO **Korean Series** (baseball finals, may end before you land) | TBD (watch Seoul/Daejeon/Busan) | 👀 |
+| Thu Nov 12–13 | Bavarian Radio Symphony w/ Sir Simon Rattle (Seoul Arts Center) | Seoul | ✅ |
+| Sat Nov 14 | Jason Mraz · LoL Worlds 2026 Grand Final (watch at a PC Bang) | Seoul (KINTEX) | ✅ |
+| Early–mid Nov (TBA) | Seoul Kimjang Festival · Kimjang Grand Festival (aT) · Noodle Daejeon Festival | Seoul / Daejeon | ⏳ |
+| Thu Nov 19 | 5 Seconds of Summer (KINTEX) — same night as G-STAR weekend | Seoul (Ilsan) | ✅ |
 | Sat Nov 21 | Busan IPark vs Chungnam Cheongju (K-League 2) | Busan (Gudeok) | ✅ |
-| Sun Nov 22 | Seoul E-Land final home match | Seoul (Mokdong) | ✅ |
+| Sun Nov 22 | Seoul E-Land final home match · Kimjang Grand Festival window | Seoul | ✅ |
 | **Thu–Sun Nov 19–22** | **G-STAR 2026 gaming expo** | Busan (BEXCO) | ✅ |
 
-*Plus: V-League volleyball & KBL basketball run throughout the whole window in all cities (fixtures released Aug–Sep).*
+*Plus, all month: V-League volleyball (fixtures ~late Sep/Oct) & KBL basketball (schedule TBA) in all four cities, free Seoul events (Gyeongbokgung guard ceremony, walking tours, DDP light show, Seoul Plaza concerts), and 10+ official Seoul exhibitions.*
 
 ---
 

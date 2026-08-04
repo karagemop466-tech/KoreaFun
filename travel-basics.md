@@ -31,6 +31,10 @@ Everything below is practical setup for the events in this repo. Official links 
 | **KOVO / KBL** | Volleyball & basketball single matches | [kovo.co.kr](https://www.kovo.co.kr) · [kbl.or.kr](https://www.kbl.or.kr) |
 
 > Most platforms need a login and sometimes a Korean phone number. **Workaround:** buy through the venue/club English page, Ticketlink's guest flow, or at the stadium box office 1–2 hrs before games (cheap sports — soccer, volleyball, basketball — almost never sell out except playoffs).
+>
+> **Concerts/shows:** use **Interpark Global** (foreign cards OK) — most November shows (5 Seconds of Summer, Jason Mraz, Jujutsu Kaisen orchestra, etc.) are listed there or on Ticketlink. Book as soon as a show is announced; big K-pop shows sell out in minutes.
+>
+> **Shopping:** November is **Korea Sale FESTA** season (gov't-run nationwide discounts, [koreasalefesta.co.kr](https://koreasalefesta.co.kr)) — check its "tourist" section for duty-free/shopping/attraction deals before you buy souvenirs.
 
 ## 5. Apps worth installing before you land
 - **Naver Map / Kakao Map** — navigation (English support)
@@ -61,6 +65,8 @@ Your confirmed, date-locked anchors:
 - **Sun Nov 22** — Seoul E-Land final home match (if you're back in Seoul by then)
 
 A workable order: **Seoul (Oct 31 – Nov 6)** → **Busan Nov 7** for fireworks (KTX, 2.5 hrs) → **Cheonan or Daejeon (Nov 8–9)** → **Busan again (Nov 10–22)** for G-STAR + volleyball/basketball. Or flip it: Seoul → flex → Busan, and treat Nov 7 as a Busan-first move. The per-city files sort everything by date so you can slide blocks around.
+
+**November wildcards to keep tabs on** (set a mid-October reminder): Korea national team friendlies (~Nov 9–17, [kfa.or.kr](https://www.kfa.or.kr)), FC Seoul/Daejeon final-round fixtures (announced ~Oct 25, [kleague.com](https://www.kleague.com)), and any K-pop award shows announced for late Nov ([global.interpark.com](https://global.interpark.com)).
 
 ## 10. Safety & accessibility
 - Korea is very safe, day and night. Emergency numbers: **112** (police), **119** (fire/ambulance) — English available via 1330 Korea Travel Helpline ([english.visitkorea.or.kr](https://english.visitkorea.or.kr)).
