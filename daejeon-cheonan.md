@@ -2,6 +2,8 @@
 
 Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seoul–Busan rail line — a perfect 1–2 night detour. This file works whether you pick **Daejeon**, **Cheonan**, or a day trip to each.
 
+> 🗺️ **Looking for self-guided day routes?** Check [`walking-maps.md`](walking-maps.md) for 1-day walking & food courses covering Sojaedong hanok cafes, Sungsimdang bakery, Expo Science Park, and Cheonan Independence Hall.
+
 - Seoul → Daejeon: KTX ≈ **50 min**
 - Seoul → Cheonan: KTX ≈ **35–45 min**
 - Daejeon → Cheonan: ≈ 30–40 min by KTX/ITX or bus

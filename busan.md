@@ -2,6 +2,8 @@
 
 Sorted by date. Everything links to an official source. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.
 
+> 🗺️ **Looking for self-guided day routes?** Check [`walking-maps.md`](walking-maps.md) for 1-day walking & food courses covering Haeundae/Centum/Gwangalli and Old Town/Gamcheon/Songdo/Busan Tower.
+
 **Official Busan sources to re-check as your trip nears:**
 - Visit Busan (official tourism): [english.visitbusan.net](https://english.visitbusan.net)
 - Busan Festival Organizing Committee: [festivalbusan.com](https://festivalbusan.com)

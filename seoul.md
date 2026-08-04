@@ -2,6 +2,8 @@
 
 Sorted by date. Everything links to an official source. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.
 
+> 🗺️ **Looking for self-guided day routes?** Check [`walking-maps.md`](walking-maps.md) for 1-day walking & food courses covering historic Jongno/Bukchon, Yeouido/Seongsu/Jamsil, and Namsan/Itaewon.
+
 **Official city-wide event calendars to check as your trip nears:**
 - Visit Seoul (official tourism site): [english.visitseoul.net/events](https://english.visitseoul.net/events)
 - Seoul Festival Calendar (Seoul city government): [festival.seoul.go.kr](https://festival.seoul.go.kr)

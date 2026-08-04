@@ -14,6 +14,7 @@ A beginner-friendly guide to **live events, sports, festivals, and gaming** duri
 | [`seoul.md`](seoul.md) | Seoul events, sorted by date (Oct 31 – Nov 22) |
 | [`busan.md`](busan.md) | Busan events, sorted by date |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | The **flex cities** — Daejeon & Cheonan (45–60 min from Seoul by KTX) |
+| [`walking-maps.md`](walking-maps.md) | **Self-guided 1-day walking & food maps** for Seoul, Busan, Daejeon & Cheonan |
 | [`travel-basics.md`](travel-basics.md) | Beginner logistics: T-money, KTX, tickets, apps, money, weather |
 | [`itinerary.md`](itinerary.md) | **Day-by-day skeleton plan (Oct 31 → Nov 22) + booking-deadline calendar** |
 | [`sources.md`](sources.md) | Master list of every official website used in this repo |

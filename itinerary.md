@@ -2,6 +2,8 @@
 
 A starting framework built from every ✅ confirmed event in this repo. Swap days freely — Seoul ↔ Daejeon is 50 min by KTX, Seoul ↔ Busan 2.5 hrs. Status: ✅ confirmed · ⏳ TBA · 👀 watch.
 
+> 🗺️ **Self-guided day walks:** For time-stamped neighborhood walking routes combining food, markets, and sights, see [`walking-maps.md`](walking-maps.md).
+
 **Default routing:** Seoul (Days 1–6) → Daejeon/Cheonan flex (Days 7–9) → Seoul (Days 10–19) → Busan finale for G-STAR (Days 20–23).
 
 ---
