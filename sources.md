@@ -106,6 +106,13 @@ Every entry in this repo links to an **official, verified source** (government b
 | Seoul City Tour Bus | Hop-on/hop-off city loop (Tiger Bus) | https://www.seoulcitybus.com |
 | Yellow Balloon City Bus | Hop-on/hop-off city loop (2nd operator) | https://www.seoulcitytourbus.co.kr |
 | Songdo Marine Cable Car | Busan sea cable car | http://busanaircruise.co.kr |
+| Seoul Sky | Lotte World Tower Observatory (Seoul) | https://seoulsky.lotteworld.com |
+| Namsan Cable Car | Cable car to N Seoul Tower | https://www.cablecar.co.kr |
+| N Seoul Tower | Namsan tower observatory & plaza | https://www.seoultower.co.kr |
+| Busan Infrastructure Corporation (BISCO) | Busan Tower (Diamond Tower) operator | https://www.bisco.or.kr |
+| Daejeon Astronomical Observatory | Public stargazing observatory (Daejeon) | https://djstar.kr |
+| Daejeon Tourism Organization | Hanbit Tower & Expo Park tourism | https://www.djto.kr |
+| Shinsegae Art & Science | The Art Space 193 observatory (Daejeon) | https://www.shinsegae.com |
 | Hakwha Hodugwaja | Cheonan's original walnut pastry (est. 1934) | https://www.hodo1934.com |
 | XE | Currency conversion | https://www.xe.com |
 

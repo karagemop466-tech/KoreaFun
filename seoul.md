@@ -253,6 +253,19 @@ Korean musical theatre is huge and production values are world-class — note th
 - **What:** Two operators loop the big sights from Gwanghwamun (palaces → N Seoul Tower → Itaewon → National Museum → DDP → Bukchon): **Seoul City Tour Bus** ([seoulcitybus.com](https://www.seoulcitybus.com)) and **Yellow Balloon City Bus** ([seoulcitytourbus.co.kr](https://www.seoulcitytourbus.co.kr)). Daytime hop-on/hop-off passes ~₩24,000–40,000 adult; separate **night-view courses** (~1 run, ₩22,000–27,000)
 - **Beginner notes:** Genuinely efficient for Day 1–2 orientation, and the ticket gets museum discounts the same day.
 
+### 32) 🗼 Seoul Sky (Lotte World Tower Observatory) — 🔁 always on
+- **What:** Korea's highest observatory occupying floors 117–123 of the 555-meter Lotte World Tower (5th tallest building in the world). Features the **Sky Shuttle** (double-deck elevator reaching 600m/min in 60 sec), **Sky Deck** (Guinness-record glass floor at 478m), **Sky Terrace** (120F open-air deck), and 123 Lounge
+- **Hours:** Sun–Thu 10:30–22:00 · Fri–Sat & public holidays 10:30–23:00 (Last ticketing 1 hr before close)
+- **Price:** General Adult (13+) **₩31,000** (~$22) / Child (3–12) **₩27,000**; Fast Pass ₩62,000 (on-site). Discounted online tickets available via official app, Creatrip, Klook, Trazy
+- **Official source:** [seoulsky.lotteworld.com](https://seoulsky.lotteworld.com) · Jamsil Station (Lines 2 & 9, Exits 1/2)
+- **Beginner notes:** Sensational 360-degree views over the Han River and Seoul skyline. Combine with Lotte World theme park (#9) or a walk around Seokchon Lake's autumn foliage. In Nov, the outdoor **Sky Bridge Tour** (high-altitude roof walk) operates weather permitting.
+
+### 33) 🚠 Namsan Cable Car & N Seoul Tower Observatory — 🔁 always on
+- **What:** Seoul's defining skyline landmark atop Mt. Namsan. Ride the historic suspended cable car up the mountain, then visit the 239m tower observatory for 360-degree panoramas of the capital
+- **Cable Car Hours & Fees:** Daily **10:00–23:00** (last round-trip 22:30 / one-way 22:45). Round-trip Adult **₩15,000** (~$11) / Child **₩11,500**; One-way Adult ₩12,000 / Child ₩9,000. Official site: [cablecar.co.kr](https://www.cablecar.co.kr). Access lower station via "Namsan Orumi" inclined elevator from Namsan Tunnel 3 entrance (free)
+- **N Seoul Tower Observatory:** Mon–Fri 10:30–22:30 · Sat–Sun 10:00–23:00. Adult **₩21,000** (~$15) / Child & Senior **₩16,000**. Official site: [seoultower.co.kr](https://www.seoultower.co.kr)
+- **Beginner notes:** Night lighting on the tower displays air quality status (Blue = Good, Green = Fair, Yellow = Poor, Red = Bad). The base plaza features the famous "Love Locks" fence and outdoor terraces (free access). Alternative ascent: Namsan Sunhwan Bus 01 from Myeongdong/Chungmuro or scenic autumn foliage hiking trails up Namsan Park.
+
 ---
 
 ## ⏭️ Just outside your window (so you know why you missed them)

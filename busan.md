@@ -68,6 +68,13 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Tip:** The **Busan Cinema Center** in Centum City (BIFF's home) and Haeundae's **BIFF Square** (film street, street-food stalls) are worth visiting anyway.
 - **Official source:** [biff.kr](https://www.biff.kr)
 
+## 10) 🗼 Busan Tower (Diamond Tower) & Yongdusan Park — 🔁 always on
+- **What:** 120-meter observation tower standing atop Yongdusan Park (49m above sea level) in historic downtown Busan (Nampo-dong). Fully renovated in 2021 as **Diamond Tower**, featuring 360-degree views of Busan Port, Jagalchi, Yeongdo Island, and Busan Harbor Bridge
+- **Hours:** Tower Observatory **10:00–22:00** daily (last entry 21:30); Yongdusan Park open 24 hours
+- **Price:** Yongdusan Park free entry; Tower Observatory Adult (13+) **₩12,000** (~$9) / Children (3–12) & Seniors ₩9,000. **Included free in Visit Busan Pass**
+- **Official sources:** [bisco.or.kr](https://www.bisco.or.kr) (Busan Infrastructure Corp) · [english.visitbusan.net](https://english.visitbusan.net) (Visit Busan)
+- **Beginner notes:** Accessible via covered outdoor escalators directly from Gwangbok-ro shopping street (Nampo Station Line 1 Exit 1 or 7). Night highlights: media art & fireworks projection mapping show on the observatory glass, interactive submarine-themed photobooths, Admiral Yi Sun-sin statue, Citizens' Bell, and floral clock in the surrounding park. Perfect sunset-to-night viewpoint paired with Jagalchi Market dinner.
+
 ---
 
 ## 🔁 Always-on Busan fall favorites (official tourism)

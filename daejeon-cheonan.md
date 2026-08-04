@@ -81,6 +81,30 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **Beginner notes:** Right next to Hanbit Tower Plaza (the noodle festival site) and Expo Park — easy to bundle. English signage is decent.
 - **Yuseong Hot Springs district** (온천) — Korea's classic hot-spring town, 20 min from downtown Daejeon; a soak + a Volleyball/Sale-FESTA day is the classic local combo ([daejeontour.co.kr](https://daejeontour.co.kr)).
 
+## 12) 🗼 Hanbit Tower & Expo Science Park (한빛탑, Daejeon) — 🔁 always on
+- **What:** The 93-meter "Tower of Great Light" built for the 1993 Daejeon World Expo. Houses a circular 2nd-floor 360-degree observatory overlooking Expo Science Park, Gapcheon river, and the Daedeok Innopolis research cluster
+- **Hours:** Observatory **09:30–17:40** (exhibitions/stores open until ~21:30); **Closed Mondays**
+- **Price:** Park grounds free; Hanbit Tower Observatory **₩2,500 adult** (~$1.80) / ₩2,000 youth / ₩1,500 child
+- **Official sources:** [djto.kr](https://www.djto.kr) (Daejeon Tourism Org) · [daejeon.go.kr](https://www.daejeon.go.kr) · 480 Daedeok-daero, Yuseong-gu
+- **Beginner notes:** Hanbit Tower Plaza is the anchor site for both the **Wine EXPO (#5)** and **Noodle Festival (#3)**! In the evening, the plaza hosts a free **Media Facade light show** projected on the tower and a **Musical Fountain** show.
+
+## 13) 🎨 The Art Space 193 (Shinsegae Daejeon Expo Tower Observatory) — 🔁 always on
+- **What:** 193-meter observatory located on floors 38–39 of the Daejeon Shinsegae Art & Science Complex tower (Expo Tower). Integrates panoramic city views of Daejeon with high-altitude contemporary art installations, featuring Icelandic-Danish artist Ólafur Elíasson's *"The Living Observatory"* media art project
+- **Hours:** Mon–Thu **10:30–20:00** · Fri–Sun & holidays **10:30–20:30**
+- **Price:** Adults (13+) **₩15,000** (~$11) / Children (3–12) ₩12,000
+- **Official source:** [shinsegae.com](https://www.shinsegae.com) · 1 Expo-ro, Yuseong-gu (connected to Shinsegae Dept Store & Lotte City Hotel)
+- **Beginner notes:** The highest vantage point in Daejeon. The surrounding Shinsegae complex also houses the Shinsegae Nexperium robotics science museum and Daejeon Expo Aquarium (media art aquarium).
+
+## 14) 🌌 Daejeon Astronomical Observatory & KAIST Campus — 🔁 always on (FREE)
+- **Daejeon Astronomical Observatory (대전시민천문대):** Korea's first public astronomical observatory (213-48 Gwahak-ro, Yuseong-gu). Features a 10-inch refracting telescope for night stargazing, planetarium dome, and constellation lectures. Hours: **14:00–22:00** (last entry 21:50; closed Mondays and days after public holidays). **Admission: FREE** · Official site: [djstar.kr](https://djstar.kr)
+- **KAIST Campus Tour (카이스트):** Korea Advanced Institute of Science and Technology, Korea's top science university campus in Yuseong. Walk freely through the campus grounds, visit Ounji Pond (famous for its campus ducks and autumn maple trees), and see the Academic Cultural Complex. Free entry.
+- **Beginner notes:** Stargazing is weather-permitting; call or check djstar.kr before going. Pair a sunset KAIST campus stroll with evening telescope viewing at the observatory.
+
+## 15) ☕ Sojaedong Cafe Street & Sungsimdang Culture Space — 🔁 daily (Daejeon cafe culture)
+- **Sojaedong Cafe Street (소제동 카페거리):** Located directly behind Daejeon Station (East Exit / Daedongcheon stream, Dong-gu). Historic 1920s Japanese railway worker housing district transformed into Daejeon's premier hanok cafe district — features bamboo garden teahouses (*Pungryu* 풍류), retro dessert houses, and art galleries. Operating hours: typically **11:30–22:00 daily**.
+- **Sungsimdang Cake Boutique & Culture Space (성심당 케익부띠끄 / 성심당 문화원):** Located on Eunhang-dong main street, 5 minutes from Daejeon Station West Exit. While the main bakery handles the iconic fried soboro, *Cake Boutique* specializes in European-style pastries and rolls, while *Sungsimdang Culture Space* next door offers a multi-story cafe lounge, vintage bakery artifact museum, and local merchandise.
+- **Beginner notes:** Sojaedong is just 3 minutes walk from Daejeon KTX East Exit — ideal for an immediate coffee/tea stop upon landing in Daejeon before taking the subway to Yuseong hot springs or Expo Park.
+
 ---
 
 ## 🧭 If you have one extra day — official picks
