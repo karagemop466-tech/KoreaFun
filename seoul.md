@@ -268,6 +268,90 @@ Korean musical theatre is huge and production values are world-class — note th
 - **N Seoul Tower Observatory:** Mon–Fri 10:30–22:30 · Sat–Sun 10:00–23:00. Adult **₩21,000** (~$15) / Child & Senior **₩16,000**. Official site: [seoultower.co.kr](https://www.seoultower.co.kr)
 - **Beginner notes:** Night lighting on the tower displays air quality status (Blue = Good, Green = Fair, Yellow = Poor, Red = Bad). The base plaza features the famous "Love Locks" fence and outdoor terraces (free access). Alternative ascent: Namsan Sunhwan Bus 01 from Myeongdong/Chungmuro or scenic autumn foliage hiking trails up Namsan Park.
 
+### 34) 🏛️ National Museum of Korea (국립중앙박물관) — 🔁 always on (FREE)
+- **What:** Korea's flagship national museum housing over 4 million artifacts spanning prehistoric times to the modern era. Features the iconic Ten-story Pagoda of Gyeongcheonsa Temple, Gold Crowns of Silla, and a vast outdoor sculpture garden with reflection pond
+- **Hours:** Mon, Tue, Thu, Fri, Sun **09:30–17:30** · Wed & Sat (night openings) **09:30–21:00**
+- **Price:** Permanent exhibition **FREE** (special exhibitions ticketed separately)
+- **Official source:** [museum.go.kr](https://www.museum.go.kr) · Subway Line 4 / 경의중앙선 Ichon Station (Exit 2 connected via underpass)
+- **Beginner notes:** One of the world's largest museums by floor area. English audio guides and daily guided tours available. Combine with Yongsan Family Park autumn walks right outside.
+
+### 35) ⚔️ The War Memorial of Korea (전쟁기념관) — 🔁 always on (FREE)
+- **What:** World's largest military museum complex exhibiting Korea's 5,000-year defense history and the Korean War (1950–1953). Houses 10,000+ indoor artifacts and a massive outdoor plaza filled with real fighters, tanks, missiles, naval vessels, and a full-size replica Joseon Turtle Ship
+- **Hours:** Tue–Sun **09:30–18:00** (last entry 17:00); **Closed Mondays**
+- **Price:** Permanent exhibitions **FREE**
+- **Official source:** [warmemo.or.kr](https://www.warmemo.or.kr) · Subway Line 4/6 Samgakji Station (Exit 1 or 12)
+- **Beginner notes:** Deeply moving and beginner-friendly with comprehensive English signage throughout. English guided tours offered daily at 10:00 & 14:00. Located right next to Itaewon.
+
+### 36) 🏰 Deoksugung Palace & Stonewall Walkway (덕수궁 & 돌담길) — 🔁 always on
+- **What:** Joseon Dynasty palace located at Seoul City Hall square. Unique for blending traditional Korean royal wooden halls with Western-style neoclassical architecture (*Seokjojeon*). Famed for its romantic tree-lined Stonewall Walkway (*Deoksugung Doldam-gil*) — Seoul's premier autumn foliage street
+- **Hours:** Tue–Sun **09:00–21:00** (last entry 20:00); **Closed Mondays**
+- **Price:** Adult **₩1,000** (~$0.70); free entry if wearing hanbok
+- **Official source:** [royal.khs.go.kr](https://royal.khs.go.kr) · Subway Line 1/2 City Hall Station (Exit 2 or 12)
+- **Beginner notes:** Open late until 21:00 every night with atmospheric lantern lighting. Pair with a stroll along the stonewall path to Jeongdong Theater and Seoul Museum of Art.
+
+### 37) 🌳 Seoul Forest Park (서울숲) — 🔁 always on (FREE)
+- **What:** Seoul's 300-acre central eco-park comprising five themed zones: Culture & Art Park, Eco Forest, Nature Experiencing Study Field, Wetlands Park, and Hangang Waterside Park. Features a sika deer sanctuary, butterfly conservatory, and golden Ginkgo tree forest
+- **Hours:** Park grounds **open 24/7**; Deer enclosure & indoor facilities 09:00–18:00
+- **Price:** **FREE**
+- **Official source:** [parks.seoul.go.kr](https://parks.seoul.go.kr) · Suin-Bundang Line Seoul Forest Station (Exit 3) or Line 2 Ttukseom Station
+- **Beginner notes:** Peak golden ginkgo foliage occurs in early November. Buy deer feed from vending machines (~₩1,000) and pair with Seongsu-dong cafe hopping right next door.
+
+### 38) 🌾 Haneul Park Silver Grass Fields (하늘공원 억새밭) — 🔁 seasonal peak (FREE)
+- **What:** Hilltop ecological park transformed from a former landfill inside World Cup Park. Renowned across Korea for its vast silver grass (*eulalia*) fields, pink muhly, cosmos flower fields, and sweeping sunset views over the Han River and Seoul skyline
+- **Hours:** Daily **05:00–20:00** (hours adjust seasonally)
+- **Price:** Park entry **FREE**; round-trip electric *Maengkkongi* shuttle tram **₩3,000**
+- **Official source:** [parks.seoul.go.kr](https://parks.seoul.go.kr) · Subway Line 6 World Cup Stadium Station (Exit 1)
+- **Beginner notes:** Early November is the peak season for silver grass swaying in the autumn wind. Ride the eco-tram up and walk down the 291 "Zigzag Sky Stairs" for golden hour photos.
+
+### 39) 🕊️ Olympic Park & World Peace Gate (올림픽공원) — 🔁 always on (FREE)
+- **What:** Massive 1.4 million m² park built for the 1988 Seoul Olympics. Features the iconic World Peace Gate, world's top 5 open-air sculpture parks (200+ installations), Mongchontoseong ancient earthen wall, and the famous isolated "Lone Tree" (*Naeholo Namu*) on rolling grass hills
+- **Hours:** Daily **05:00–22:00** (pedestrian access)
+- **Price:** **FREE**
+- **Official source:** [olympicpark.kspo.or.kr](https://olympicpark.kspo.or.kr) · Subway Line 5/9 Olympic Park Station or Line 8 Mongchontoseong Station
+- **Beginner notes:** Rent a multi-person quadricycle or take the *Riba* train. Golden ginkgo tree avenues peak in early November near the East Gate.
+
+### 40) 📚 Starfield COEX Mall & Starfield Library (별마당 도서관) — 🔁 always on (FREE)
+- **What:** World-famous two-story, 13-meter tall open-air library inside Asia's largest underground shopping mall (COEX). Houses over 50,000 books and magazines across glowing floor-to-ceiling wooden bookshelves and art light installations
+- **Hours:** Daily **10:00–22:00**
+- **Price:** **FREE**
+- **Official source:** [starfield.co.kr/coexmall](https://www.starfield.co.kr/coexmall) · Subway Line 2 Samseong Station (Exit 5/6) or Line 9 Bongeunsa Station
+- **Beginner notes:** A viral landmark and free lounge with cozy reading tables, coffee outlets, and cultural lectures. Pair with COEX Aquarium (~₩32,000) or Bongeunsa Temple right across the street.
+
+### 41) 🎤 HiKR Ground — K-Style Hub K-Pop Experience (하이커 그라운드) — 🔁 always on (FREE)
+- **What:** Four-story interactive K-pop and Korean culture landmark run by the Korea Tourism Organization (KTO). Features XR (extended reality) media art stages where you can customize lighting/effects to film your own K-pop music videos, smart photo zones, and a rooftop Han River view cafe
+- **Hours:** Tue–Sun **10:00–19:00** (Rooftop open until 20:00); **Closed Mondays**
+- **Price:** **FREE**
+- **Official source:** [hikr.visitkorea.or.kr](https://hikr.visitkorea.or.kr) · Subway Line 1 Jonggak Station (Exit 5) or Line 2 Euljiro 1-ga Station
+- **Beginner notes:** Located right on Cheonggyecheon stream. 100% free, interactive, and foreign-friendly — great indoor stop on a chilly afternoon.
+
+### 42) ☕ Ikseon-dong Hanok Village (익선동 한옥마을) — 🔁 always on
+- **What:** Seoul's oldest residential hanok district (est. 1920s) transformed into a labyrinth of trendy boutique cafes, soufflé pancake houses, craft breweries, perfume workshops, and retro photo booths tucked beneath traditional tiled roofs
+- **Hours:** Most shops/cafes open daily **11:00–22:00**
+- **Price:** Free walk-in; food & coffee pay-per-item
+- **Official source:** [english.visitseoul.net](https://english.visitseoul.net) · Subway Lines 1/3/5 Jongno 3-ga Station (Exit 4 or 6)
+- **Beginner notes:** Photogenic and ultra-popular with locals and visitors. Best visited on a weekday afternoon to avoid peak weekend lines at famous spots like *Cheongsudang* or *Oncheonjip*.
+
+### 43) 🍱 Tongin Market & Dosirak Lunchbox Cafe (통인시장 도시락카페) — 🔁 Tue–Sun
+- **What:** Historic 80-year-old traditional market west of Gyeongbokgung (Seochon). Famous for its *Dosirak Cafe* — exchange ₩5,000 or ₩10,000 for a string of traditional brass coins (*yeoppeon*) and a black plastic lunchbox tray, then wander market stalls filling your tray with oil tteokbokki (*gireum tteokbokki*), jeon, gimbap, and dumplings
+- **Hours:** Market stalls daily 07:00–21:00; Dosirak Cafe **Tue–Sun 11:00–16:00** (coins sold until 15:00; **Closed Mondays** and 3rd Sun of month)
+- **Price:** ₩5,000–10,000 per lunchbox tray
+- **Official source:** [tonginmarket.co.kr](https://tonginmarket.co.kr) · Subway Line 3 3-ga / 3-ga Station / 3-ga (Exit 2)
+- **Beginner notes:** One of Seoul's most fun, budget-friendly lunch experiences. Take your coin-filled tray upstairs to the Customer Center cafe to eat with free rice and soup (~₩1,000).
+
+### 44) 🏮 Namsangol Hanok Village (남산골한옥마을) — 🔁 always on (FREE)
+- **What:** Traditional Korean village at the northern foot of Mt. Namsan featuring five restored Joseon-era hanok residences relocated from across Seoul, a traditional pavilion garden with lotus pond, tea house, and the Seoul Millennium Time Capsule plaza
+- **Hours:** Tue–Sun **09:00–20:00** (Grounds open until 21:00); **Closed Mondays**
+- **Price:** **FREE**
+- **Official source:** [hanokmaeul.or.kr](https://www.hanokmaeul.or.kr) · Subway Line 3/4 Chungmuro Station (Exit 3 or 4)
+- **Beginner notes:** Less crowded alternative to Bukchon. Enjoy traditional folk games (*tuho*, *neolttwigi*), hanbok photo shoots, and traditional tea. Great precursor before heading up Namsan Cable Car (#33).
+
+### 45) 🎨 Seoul Museum of Craft Art - SeMoCA (서울공예박물관) — 🔁 always on (FREE)
+- **What:** Korea's first public craft museum, opened in 2021 on the historic site of Poungwon Palace in Anguk. Exhibits over 20,000 craft works spanning Joseon royal embroidery, ceramics, lacquerware, metalwork, and contemporary textile installation art
+- **Hours:** Tue–Sun **10:00–18:00** (last entry 17:30); **Closed Mondays**
+- **Price:** Permanent exhibitions **FREE**
+- **Official source:** [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr) · Subway Line 3 Anguk Station (Exit 1)
+- **Beginner notes:** Beautifully restored campus with outdoor courtyard and gift shop selling artisan Korean craft souvenirs. Located right between Insadong and Bukchon.
+
 ---
 
 ## ⏭️ Just outside your window (so you know why you missed them)

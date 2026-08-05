@@ -77,6 +77,61 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Official sources:** [bisco.or.kr](https://www.bisco.or.kr) (Busan Infrastructure Corp) · [english.visitbusan.net](https://english.visitbusan.net) (Visit Busan)
 - **Beginner notes:** Accessible via covered outdoor escalators directly from Gwangbok-ro shopping street (Nampo Station Line 1 Exit 1 or 7). Night highlights: media art & fireworks projection mapping show on the observatory glass, interactive submarine-themed photobooths, Admiral Yi Sun-sin statue, Citizens' Bell, and floral clock in the surrounding park. Perfect sunset-to-night viewpoint paired with Jagalchi Market dinner.
 
+## 11) 🚊 Haeundae Blueline Park (Beach Train & Sky Capsule) — 🔁 always on
+- **What:** Scenic coastal railway built along the former Donghae Nambu rail line running 4.8 km from Mipo (Haeundae) through Cheongsapo to Songjeong. Operates the ground-level **Haeundae Beach Train** and elevated private 2–4 person retro **Haeundae Sky Capsule** over ocean cliffs
+- **Hours:** Nov–Feb **09:00–18:00** daily (extends to 18:30/19:30 spring/autumn)
+- **Price:** Beach Train: **₩7,000 single ride** / ₩12,000 2-ride pass / ₩16,000 all-day pass. Sky Capsule (Mipo ↔ Cheongsapo, 2 km): **₩35,000 for 2-person capsule** / ₩45,000 for 3-person / ₩50,000 for 4-person
+- **Official source:** [bluelinepark.com](https://www.bluelinepark.com) · Mipo Station (15 min walk from Haeundae Beach / Subway Line 2 Haeundae Stn Exit 3 or 5)
+- **Beginner notes:** Extremely popular on social media — **book Sky Capsule tickets online 2–3 weeks ahead** on bluelinepark.com. Pro-tip: ride Sky Capsule one-way from Mipo to Cheongsapo, then walk back along the parallel wooden Green Railway boardwalk.
+
+## 12) 🌊 Oryukdo Skywalk & Coastal Trail (오륙도 스카이워크) — 🔁 always on (FREE)
+- **What:** 15-meter glass-bottom horseshoe-shaped bridge built on a 35-meter coastal cliff edge where the East Sea meets the South Sea. Offers thrilling views down to crashing waves and the iconic Oryukdo Islets (five or six islands depending on the tide)
+- **Hours:** Daily **09:00–18:00** (last entry 17:50; closed during heavy wind/rain)
+- **Price:** **FREE** (cloth shoe covers provided at entrance)
+- **Official sources:** [namgu.busan.kr](https://www.namgu.busan.kr) · [english.visitbusan.net](https://english.visitbusan.net) · Bus 27 or 131 from Kyungsung Univ / Pukyong Nat'l Univ Stn
+- **Beginner notes:** The southern starting point of the famous Igidae Coastal Walkway. Free, breathtaking photo spot.
+
+## 13) 🌲 Taejongdae Resort Park & Danubi Train (태종대) — 🔁 always on
+- **What:** Iconic natural park occupying the southern tip of Yeongdo Island. Features 200m ocean cliffs, dense pine/camellia forests, Yeongdo Lighthouse observatory, Taejongsa Temple, and dramatic coastal sea views
+- **Hours:** Park grounds **05:00–24:00** daily; Danubi Tram Train **09:00–17:30**
+- **Price:** Park entry **FREE**; Danubi Tram Train **₩4,000 adult** (~$3) / ₩2,000 child
+- **Official source:** [bisco.or.kr](https://www.bisco.or.kr) · Bus 8, 30, or 88 from Busan KTX Station or Nampo Station
+- **Beginner notes:** Ride the colorful Danubi train up to the Yeongdo Lighthouse stop, walk down the cliffside boardwalk to the ocean rock platform, and sample fresh sea sea-cucumber and abalone served by local diver women (*haenyeo*).
+
+## 14) 🏭 F1963 Eco-Cultural Complex (F1963) — 🔁 always on (FREE entry)
+- **What:** Former Kiswire industrial wire factory (built 1963) renovated into a world-class eco-cultural complex. Features Korea's flagship YES24 bookstore, Sukbaek art galleries, Terarosa specialty coffee hall, Praha 993 craft brewery, and a tranquil bamboo garden forest
+- **Hours:** Complex open daily **09:00–21:00** (shop/cafe hours vary)
+- **Price:** Free entry to grounds, bookstore, and bamboo garden; exhibitions/cafe pay-per-item
+- **Official source:** [f1963.org](https://www.f1963.org) · Suyeong-gu (Subway Line 2/3 Mangmi Station Exit 2 + short bus/taxi)
+- **Beginner notes:** One of Busan's coolest repurposed urban spaces. The massive Terarosa Coffee house incorporates original factory wire reels and press machinery into its interior.
+
+## 15) 🍁 Beomeosa Temple (범어사) — 🔁 always on (FREE)
+- **What:** One of Korea's major Buddhist head temples (est. 678 AD by Monk Uisang) set on the eastern slopes of Mt. Geumjeongsan. Renowned as Busan's premier autumn foliage destination, featuring ancient stone pagodas, Iljumun Gate, and the Wisteria valley forest
+- **Hours:** Daily **08:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [beomeo.kr](https://www.beomeo.kr) · Subway Line 1 Beomeosa Station (Exit 5 or 7) → Bus 90 to temple entrance
+- **Beginner notes:** November is peak fall foliage season. Quiet morning visits offer crisp mountain air, monastic chanting, and beautiful photography along the stone wall paths.
+
+## 16) 🛍️ Shinsegae Centum City (World's Largest Dept Store) — 🔁 always on
+- **What:** Guinness World Record holder as the world's largest department store complex. Integrates luxury shopping, **Spa Land jjimjilbang (#Spa Land)**, an indoor ice skating rink, CGV Starium cinema, Zooraji dinosaur roof garden, and a massive international gourmet food hall
+- **Hours:** Mon–Thu **10:30–20:00** · Fri–Sun & holidays **10:30–20:30** (Restaurants open until 21:00)
+- **Official source:** [department.shinsegae.com](https://department.shinsegae.com) · Subway Line 2 Centum City Station (directly connected)
+- **Beginner notes:** Located 1 subway stop from BEXCO (G-STAR venue). The basement food hall is a foodie paradise with Korean street food, Japanese ramen, European bakeries, and regional specialties.
+
+## 17) ☕ Jeonpo Cafe Street & Seomyeon Youth Zone (전포카페거리) — 🔁 always on
+- **What:** Central Busan's former hardware and tool shop district transformed into a hip neighborhood of 200+ independent micro-roasteries, dessert labs, vintage clothing shops, and craft cocktail bars. Recognized by the New York Times as a top global travel spot
+- **Hours:** Most cafes & shops open daily **11:00–22:00**
+- **Price:** Free walk-in; coffee & desserts pay-per-item
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · Subway Line 1/2 Seomyeon Station or Line 2 Jeonpo Station (Exit 7)
+- **Beginner notes:** Perfect afternoon or evening stroll in downtown Busan. Wander the alleys around Jeon-ro and sample Busan's famous salt bread, soufflé cakes, or specialty espresso drinks.
+
+## 18) 🌉 Cheongsapo Daritdol Observatory (청사포 다릿돌전망대) — 🔁 always on (FREE)
+- **What:** 73-meter long ocean pier extending out 20 meters above the sea near Cheongsapo fishing village. Features transparent glass floor panels giving a thrilling view of the ocean currents beneath your feet, shaped like a blue dragon
+- **Hours:** Daily **09:00–18:00** (closed during severe weather)
+- **Price:** **FREE** (shoe covers provided)
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · Haeundae Blueline Park Cheongsapo Station
+- **Beginner notes:** Easily combined with the Haeundae Sky Capsule/Beach Train (#11). Stop at Cheongsapo's seaside restaurants for grilled clams (*jogae-gui*) or coffee overlooking the twin red & white lighthouses.
+
 ---
 
 ## 🔁 Always-on Busan fall favorites (official tourism)

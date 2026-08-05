@@ -106,6 +106,27 @@ Every entry in this repo links to an **official, verified source** (government b
 | Seoul City Tour Bus | Hop-on/hop-off city loop (Tiger Bus) | https://www.seoulcitybus.com |
 | Yellow Balloon City Bus | Hop-on/hop-off city loop (2nd operator) | https://www.seoulcitytourbus.co.kr |
 | Songdo Marine Cable Car | Busan sea cable car | http://busanaircruise.co.kr |
+| Haeundae Blueline Park | Sky Capsule & Beach Train (Busan) | https://www.bluelinepark.com |
+| Oryukdo Skywalk | Coastal glass skywalk (Busan Nam-gu) | https://www.namgu.busan.kr |
+| Taejongdae Resort Park | Coastal cliff park & Danubi train (Busan) | https://www.bisco.or.kr |
+| F1963 Cultural Complex | Renovated wire factory art complex (Busan) | https://www.f1963.org |
+| Beomeosa Temple | Ancient Silla temple & foliage (Busan) | https://www.beomeo.kr |
+| National Museum of Korea | National flagship museum (Seoul Yongsan) | https://www.museum.go.kr |
+| War Memorial of Korea | Military history museum (Seoul Yongsan) | https://www.warmemo.or.kr |
+| Seoul Parks Portal | Seoul Forest, Haneul Park, World Cup Park | https://parks.seoul.go.kr |
+| KSPO Olympic Park | Olympic Park & World Peace Gate (Seoul) | https://olympicpark.kspo.or.kr |
+| Starfield COEX Mall | Starfield Library & COEX (Seoul Gangnam) | https://www.starfield.co.kr/coexmall |
+| HiKR Ground (KTO) | K-pop interactive experience center (Seoul) | https://hikr.visitkorea.or.kr |
+| Tongin Market | Dosirak brass coin lunchbox market (Seoul) | https://tonginmarket.co.kr |
+| Namsangol Hanok Village | Traditional hanok village & garden (Seoul) | https://www.hanokmaeul.or.kr |
+| Seoul Museum of Craft Art | SeMoCA public craft museum (Seoul Anguk) | https://craftmuseum.seoul.go.kr |
+| Daejeon Hanbat Arboretum | Korea's largest urban arboretum (Daejeon) | https://www.daejeon.go.kr/huw |
+| Gyeryongsan National Park | Sacred mountain & Donghaksa Temple (Daejeon) | https://www.knps.or.kr |
+| Donghaksa Temple | Ancient Buddhist nunnery (Gyeryongsan) | http://www.donghaksa.or.kr |
+| Daejeon Skyroad | LED canopy street (Daejeon Eunhang-dong) | https://www.skyroad.or.kr |
+| Daejeon Museum of Art | Contemporary art gallery (Daejeon) | https://www.daejeon.go.kr/dma |
+| Gakwonsa Temple | Giant bronze Buddha & temple (Cheonan) | http://www.gakwonsa.or.kr |
+| Arario Gallery Cheonan | Contemporary gallery & sculpture park (Cheonan) | https://www.arariogallery.com |
 | K-ETA Official Portal | Korea Electronic Travel Authorization (Ministry of Justice) | https://www.k-eta.go.kr |
 | Q-CODE Portal | Korea Disease Control & Prevention Agency health declaration | https://qcode.kdca.go.kr |
 | WOWPASS | Foreign tourist prepaid card + T-money | https://www.wowpass.io |

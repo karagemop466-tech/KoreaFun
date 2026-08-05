@@ -107,6 +107,48 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **Sungsimdang Cake Boutique & Culture Space (성심당 케익부띠끄 / 성심당 문화원):** Located on Eunhang-dong main street, 5 minutes from Daejeon Station West Exit. While the main bakery handles the iconic fried soboro, *Cake Boutique* specializes in European-style pastries and rolls, while *Sungsimdang Culture Space* next door offers a multi-story cafe lounge, vintage bakery artifact museum, and local merchandise.
 - **Beginner notes:** Sojaedong is just 3 minutes walk from Daejeon KTX East Exit — ideal for an immediate coffee/tea stop upon landing in Daejeon before taking the subway to Yuseong hot springs or Expo Park.
 
+## 16) 🌳 Hanbat Arboretum (한밭수목원, Daejeon) — 🔁 always on (FREE)
+- **What:** Korea's largest urban artificial arboretum, connecting Daejeon Government Complex and Expo Science Park across 387,000 m². Features the West Garden (forest, oak trail), East Garden (rose garden, magnolia grove, lotus pond), and a glass Tropical Greenhouse
+- **Hours:** West Garden **06:00–21:00** (closed Tue); East Garden **06:00–21:00** (closed Mon); Tropical Greenhouse **09:00–18:00** (closed Mon)
+- **Price:** **FREE**
+- **Official source:** [daejeon.go.kr/huw](https://www.daejeon.go.kr/huw) · Dunsan-dong, Seo-gu (near Hanbit Tower & DCC)
+- **Beginner notes:** Autumn foliage peaks in late Oct – early Nov with vibrant red maples and golden ginkgos. Directly adjacent to Daejeon Expo Plaza and Hanbit Tower (#12).
+
+## 17) 🍁 Gyeryongsan National Park & Donghaksa Temple (동학사) — 🔁 always on
+- **What:** Sacred mountain national park on the outskirts of Daejeon, legendary across Korea for its autumnal maple tree valleys, mountain ridge hikes, and 1,300-year-old Donghaksa Temple (est. 713 AD, one of Korea's premier Buddhist nunneries)
+- **Hours:** Park grounds **open 24/7**; Temple grounds daytime
+- **Price:** Park & Temple entry **FREE**
+- **Official sources:** [knps.or.kr](https://www.knps.or.kr) · [donghaksa.or.kr](http://www.donghaksa.or.kr) · Bus 107 from Daejeon Subway Line 1 Yuseong Spa Station (~30 min)
+- **Beginner notes:** The gentle 2 km shaded valley stream walk from the bus terminal up to Donghaksa Temple is suitable for all fitness levels. Lined with traditional mountain restaurants serving wild vegetable bibimbap and pajeon.
+
+## 18) 🏙️ Daejeon Skyroad (대전 스카이로드) — 🔁 always on (FREE)
+- **What:** Urban canopy landmark in Eunhang-dong main shopping street (Daejeon Station West Exit). Features a 214-meter long, 13-meter high LED main street canopy ceiling that projects digital media art, laser animation, and visitor interactive videos overhead every night
+- **Hours:** Main street open 24/7; LED Canopy Shows **Tue–Sun 18:00–21:00** (hourly 30-min shows; closed Mon)
+- **Price:** **FREE**
+- **Official source:** [skyroad.or.kr](https://www.skyroad.or.kr) · [daejeon.go.kr](https://www.daejeon.go.kr) · Subway Line 1 Jungangno Station (Exit 1)
+- **Beginner notes:** Located right on Eunhang-dong youth street, 5 min walk from Sungsimdang Bakery. Great free night walk after dinner.
+
+## 19) 🎨 Daejeon Museum of Art & Lee Ungno Museum (대전시립미술관) — 🔁 always on
+- **What:** Daejeon's primary contemporary art museum complex set inside Hanbat Arboretum park. Houses international and Korean modern art exhibitions, an outdoor sculpture lawn, and the architecturally striking Lee Ungno Museum dedicated to master Korean painter Lee Ungno
+- **Hours:** Tue–Sun **10:00–18:00** (last entry 17:30); **Closed Mondays**
+- **Price:** Adult **₩1,000–₩2,000** (~$0.70–$1.40)
+- **Official source:** [daejeon.go.kr/dma](https://www.daejeon.go.kr/dma) · Seo-gu Dunsan-dong (Hanbat Arboretum complex)
+- **Beginner notes:** Quiet, world-class gallery experience for under $2. Combine with a walk through Hanbat Arboretum and Hanbit Tower.
+
+## 20) 🛕 Gakwonsa Temple & Giant Bronze Buddha (각원사, Cheonan) — 🔁 always on (FREE)
+- **What:** Major Buddhist temple set on the slopes of Mt. Taejosan in Cheonan (est. 1977 for Korean peninsula reunification). Houses one of Asia's largest outdoor seated bronze Buddha statues (*Amita-bul*, 15m tall, 60 tons) and Korea's largest wooden prayer hall (*Daeungbojeon*)
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [gakwonsa.or.kr](http://www.gakwonsa.or.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr) · Bus 24 from Cheonan Station
+- **Beginner notes:** Autumn foliage frames the giant bronze Buddha on the mountain slope. Tranquil, scenic, and deeply impressive scale.
+
+## 21) 🖼️ Arario Gallery Cheonan & Small City Sculpture Park (아라리오갤러리) — 🔁 always on
+- **What:** World-renowned private contemporary art gallery and public urban sculpture plaza at Cheonan Bus Terminal. Features original outdoor sculptures by international icons including Keith Haring (*Julia*), Damien Hirst (*Hymn*), Subodh Gupta, and Arman
+- **Hours:** Tue–Sun **11:00–19:00** (Gallery ticketed); Outdoor Sculpture Plaza open 24/7 free
+- **Price:** Gallery admission **₩3,000 adult** (~$2); Outdoor Plaza **FREE**
+- **Official source:** [arariogallery.com](https://www.arariogallery.com) · Shinbu-dong, Cheonan (Cheonan Express Bus Terminal)
+- **Beginner notes:** A surprising world-class art hub right outside Cheonan station. You can view Damien Hirst's 6-meter *Hymn* sculpture outdoors for free any time of day.
+
 ---
 
 ## 🧭 If you have one extra day — official picks
