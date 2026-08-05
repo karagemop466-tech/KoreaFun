@@ -352,6 +352,286 @@ Korean musical theatre is huge and production values are world-class — note th
 - **Official source:** [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr) · Subway Line 3 Anguk Station (Exit 1)
 - **Beginner notes:** Beautifully restored campus with outdoor courtyard and gift shop selling artisan Korean craft souvenirs. Located right between Insadong and Bukchon.
 
+### 46) 🥋 JUMP — Non-Verbal Martial Arts Comedy Show — 🔁 daily
+- **What:** World-famous non-verbal Korean performing arts show combining Tae Kwon Do, traditional martial arts acrobatics, gymnastics, and slapstick family comedy
+- **Hours:** Shows daily at **17:00 & 20:00** (check schedule)
+- **Price:** ~₩40,000–₩60,000 (~$28–$43)
+- **Official source:** [hijump.co.kr](http://www.hijump.co.kr) · Myungbo Art Hall (Line 2/3 Euljiro 3-ga Station)
+- **Beginner notes:** 100% language-free performance — ideal for international tourists.
+
+### 47) 🍳 CHEF (Bibap) — Non-Verbal Beatbox Musical Show — 🔁 daily
+- **What:** High-energy non-verbal performance show blending live b-boying, beatboxing, martial arts, and cooking comedy as two rival chefs compete to make the ultimate bowl of bibimbap
+- **Hours:** Shows Tue–Sun **17:00 & 20:00** (closed Mon)
+- **Price:** ~₩40,000–₩60,000
+- **Official source:** [bibap.co.kr](http://www.bibap.co.kr) · SH Art Hall (Hyehwa Station)
+- **Beginner notes:** Interactive audience participation; zero Korean language required.
+
+### 48) 💃 WILD WILD — Seoul K-Performance Dance Show — 🔁 Tue–Sun
+- **What:** Seoul's premier adult-themed K-performance musical and dance show featuring top male dancers, acrobatics, and K-pop choreography
+- **Hours:** Tue–Fri 20:00 · Sat 17:00 & 20:00 · Sun 15:00 & 18:00
+- **Price:** R-seat ~₩77,000 / VIP ~₩99,000 (Check Ticketlink)
+- **Official source:** [wildwild.co.kr](https://www.wildwild.co.kr) · Wild Wild Theater (Line 2/3 Euljiro 3-ga)
+- **Beginner notes:** Popular girls-night-out performance show in Seoul.
+
+### 49) 🎼 National Gugak Center Saturday Performance (토요명품공연) — 🔁 Saturdays at 15:00
+- **What:** Flagship traditional Korean court music, folk dance, and Gugak orchestra concert hosted every Saturday by the National Gugak Center
+- **Hours:** Every Saturday **15:00** (90 min performance)
+- **Price:** A-seat **₩20,000** (~$14) / B-seat ₩10,000
+- **Official source:** [gugak.go.kr](https://www.gugak.go.kr) · Seocho-gu (Line 3 Nambu Bus Terminal Stn / Seoul Arts Center complex)
+- **Beginner notes:** The best place to experience authentic Joseon court instruments (*gayageum*, *geomungo*) and traditional folk dance. Includes English program notes.
+
+### 50) 🎭 National Theater of Korea (국립극장) — 🔁 always on
+- **What:** Korea's national performing arts complex set in Mt. Namsan park, featuring the National Changgeuk Company (traditional Korean opera), National Dance Company, and National Orchestra
+- **Hours:** Performances daily (check seasonal calendar)
+- **Price:** Varies by show (~₩20,000–₩70,000)
+- **Official source:** [ntok.go.kr](https://www.ntok.go.kr) · Namsan Park, Jangchung-dong (Line 3 Dongguk Univ Stn Exit 6)
+- **Beginner notes:** Modern theater complex with stunning views over Mt. Namsan. Shows include English subtitles on side screens.
+
+### 51) 🌇 National Museum of Korean Contemporary History (대한민국역사박물관) — 🔁 always on (FREE)
+- **What:** Modern history museum documenting Korea's transformation from the late 19th-century Joseon era through independence, the Korean War, K-pop growth, and democratic development
+- **Hours:** Daily **10:00–18:00** (Wed & Sat night opening until 21:00)
+- **Price:** **FREE**
+- **Official source:** [much.go.kr](https://www.much.go.kr) · Gwanghwamun Gate (Line 5 Gwanghwamun Stn Exit 2)
+- **Beginner notes:** Famed for its 8th-floor **Rooftop Garden Observatory** offering the single best photo panorama over Gyeongbokgung Palace, Gwanghwamun Plaza, and Mt. Bugaksan.
+
+### 52) 👑 National Palace Museum of Korea (국립고궁박물관) — 🔁 always on (FREE)
+- **What:** Specialized museum displaying 45,000 royal artifacts, royal seals, astronomical clocks, royal palanquins, and treasures from the 500-year Joseon Dynasty
+- **Hours:** Daily **10:00–18:00** (Wed & Sat until 21:00)
+- **Price:** **FREE**
+- **Official source:** [gogung.go.kr](https://www.gogung.go.kr) · Inside Gyeongbokgung Palace complex (Subway Line 3 Gyeongbokgung Stn Exit 5)
+- **Beginner notes:** Located right at the subway entrance inside Gyeongbokgung. Fully climate-controlled with excellent English media guides.
+
+### 53) 🌾 National Folk Museum of Korea (국립민속박물관) — 🔁 always on (FREE)
+- **What:** Experiential museum showcasing the everyday life, traditional customs, seasonal festivals, agricultural tools, and hanok living spaces of ordinary Korean people through the centuries
+- **Hours:** Daily **09:00–17:00** (Nov–Feb winter hours)
+- **Price:** **FREE**
+- **Official source:** [nfm.go.kr](https://www.nfm.go.kr) · Inside Gyeongbokgung Palace grounds (East side)
+- **Beginner notes:** Features an outdoor replica street of 1960s–70s Seoul with retro shops, barbershops, and comic book cafes.
+
+### 54) 🏛️ Seoul Museum of History (서울역사박물관) — 🔁 always on (FREE)
+- **What:** City museum chronicling 600 years of Seoul's history from its foundation as Joseon capital Hanyang to a modern megacity. Highlights include a colossal 1:1,500 scale interactive architectural model of Seoul
+- **Hours:** Tue–Sun **09:00–18:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [museum.seoul.go.kr](https://museum.seoul.go.kr) · Line 5 Gwanghwamun / Seodaemun Stn
+- **Beginner notes:** Located near Gyeonghuigung Palace and Jeongdong-gil stonewall path.
+
+### 55) ⚓ Seoul Battleship Park (서울함공원) — 🔁 Tue–Sun
+- **What:** Waterfront military park at Mangwon Hangang Park featuring retired ROK Navy warships including the 1,900-ton frigate *Seoulham*, a submarine, and a high-speed patrol boat open for walk-through tours
+- **Hours:** Tue–Sun **10:00–17:00** (Nov–Feb winter hours; Closed Mondays)
+- **Price:** Adult **₩3,000** (~$2)
+- **Official source:** [seoulhampark.seoul.go.kr](https://seoulhampark.seoul.go.kr) · Mangwon Hangang Park (Line 6 Mangwon Stn Exit 2 + bus 09)
+- **Beginner notes:** Walk through captain's quarters, radar rooms, and gun decks on the river.
+
+### 56) 🎨 DDP Design Museum & Art Hall Exhibitions — 🔁 always on
+- **What:** Exhibition halls inside Zaha Hadid's silver alien-like Dongdaemun Design Plaza hosting international design, fashion, architecture, and immersive digital art exhibitions
+- **Hours:** Daily **10:00–20:00** (Exhibition hours vary)
+- **Price:** Complex grounds free; special exhibitions ~₩10,000–₩20,000
+- **Official source:** [ddp.or.kr](https://ddp.or.kr) · Subway Lines 2/4/5 Dongdaemun History & Culture Park Station
+- **Beginner notes:** Combine daytime design exhibits with the free nightly **DDP Dream in Light show (#20)**.
+
+### 57) 🖼️ Seoul Museum of Art - SeMA Main Building (서울시립미술관) — 🔁 always on (FREE)
+- **What:** Seoul's premier public contemporary art museum housed in the historic 1928 former Supreme Court building near Deoksugung Palace. Features permanent collection of master painter Chun Kyung-ja and major modern art shows
+- **Hours:** Tue–Fri **10:00–20:00** · Sat–Sun **10:00–18:00** (Closed Mondays)
+- **Price:** Permanent collection **FREE**
+- **Official source:** [sema.seoul.go.kr](https://sema.seoul.go.kr) · Line 1/2 City Hall Station (Exit 10 or 11)
+- **Beginner notes:** Set on a tree-lined hillside path right next to Deoksugung Stonewall Walkway.
+
+### 58) 📐 Arario Museum in SPACE (아라리오뮤지엄) — 🔁 Tue–Sun
+- **What:** Iconic brick building designed by legendary Korean architect Kim Swoo-geun near Changdeokgung. Features a maze-like interior exhibiting cutting-edge contemporary art by Nam June Paik, Tracey Emin, Cindy Sherman, and Marc Quinn
+- **Hours:** Tue–Sun **10:00–19:00** (Closed Mondays)
+- **Price:** Adult **₩15,000** (~$11)
+- **Official source:** [arariomuseum.org](http://www.arariomuseum.org) · Subway Line 3 Anguk Station (Exit 3)
+- **Beginner notes:** Architectural masterpiece with narrow staircases and glass dining pavilion overlooking Changdeokgung Palace.
+
+### 59) 🌀 Ground Seesaw Seongsu & Myeongdong Immersive Exhibitions — 🔁 always on
+- **What:** Leading digital immersive art media halls in Seongsu-dong and Myeongdong specializing in 360-degree projection mapping exhibitions of Monet, Van Gogh, Klimt, and contemporary illustration masters
+- **Hours:** Daily **10:00–19:00** (last entry 18:00)
+- **Price:** Adult **₩15,000–₩18,000** (~$11–$13)
+- **Official source:** [groundseesaw.co.kr](https://groundseesaw.co.kr) · Seongsu Line 2 / Myeongdong Line 4
+- **Beginner notes:** Highly photogenic 3D media art halls — book online or walk up.
+
+### 60) 🐠 COEX Aquarium (코엑스 아쿠아리움) — 🔁 daily
+- **What:** Korea's premier urban marine aquarium inside Starfield COEX Mall, housing 40,000 sea creatures across 183 display tanks divided into 14 themed zones including Amazonian world, shark kingdom, and penguin playground
+- **Hours:** Daily **10:00–20:00** (last entry 19:00)
+- **Price:** Adult **₩32,000** (~$23); discount vouchers via Klook/Trazy
+- **Official source:** [coexaqua.com](https://www.coexaqua.com) · Line 9 Bongeunsa Station (Exit 7) or Line 2 Samseong Station
+- **Beginner notes:** Located right next to Starfield Library (#40).
+
+### 61) 🍜 Namdaemun Market Kalguksu & Street Food Alley (남대문시장) — 🔁 daily
+- **What:** Korea's oldest and largest traditional market (est. 1414). Famous for its *Kalguksu Alley* (hand-cut noodle soup served with free spicy cold noodles), hotteok (vegetable & honey fried dough), galbi-jjim (stewed ribs), and endless souvenir shopping
+- **Hours:** Shops daily **09:00–23:00** (Food stalls open early morning till late night; closed Sun for wholesale)
+- **Price:** Street food dishes **₩2,000–₩8,000** (~$1.50–$6)
+- **Official source:** [namdaemunmarket.co.kr](https://www.namdaemunmarket.co.kr) · Line 4 Hoehyeon Station (Exit 5)
+- **Beginner notes:** Great cash/T-money breakfast or lunch stop. 5 min walk from Myeongdong or Namsan Orumi elevator.
+
+### 62) 🍢 Mangwon Traditional Market (망원시장) — 🔁 daily
+- **What:** Vibrant, authentic residential neighborhood market near Hongdae popular with young Seoulites for trendy budget street foods: marshmallow ice cream, garlic fried chicken (*dakgangjeong*), fried chili peppers (*gochu-jeon*), and hand-pulled noodles
+- **Hours:** Stalls open daily **09:00–21:00**
+- **Price:** Dishes **₩3,000–₩10,000**
+- **Official source:** [english.visitseoul.net](https://english.visitseoul.net) · Line 6 Mangwon Station (Exit 2)
+- **Beginner notes:** Much less touristy than Myeongdong. Walk 10 minutes from the market to Mangwon Hangang Park for sunset (#75).
+
+### 63) 🍺 Euljiro "Hipjiro" Nogari Beer Alley (을지로 노가리골목) — 🔁 daily
+- **What:** Retro industrial printing press district reborn as Seoul's trendiest evening drinking hub. Locals sit on plastic outdoor chairs sipping draft beer alongside grilled dried pollack (*nogari* ~₩2,000) and cider-glazed garlic fried chicken
+- **Hours:** Pubs & alleys open daily **16:00–24:00+**
+- **Price:** Beer & snacks ~₩5,000–₩15,000
+- **Official source:** [english.visitseoul.net](https://english.visitseoul.net) · Line 2/3 Euljiro 3-ga Station (Exit 13 or 14)
+- **Beginner notes:** Atmospheric local night out; vibrant retro neon aesthetic.
+
+### 64) ☕ Seochon Village & Cafe Alleys (서촌) — 🔁 always on
+- **What:** Historic residential neighborhood west of Gyeongbokgung (*Seochon* = West Village). Lined with low-rise hanok homes, independent bookstores, retro bakeries (*Hyoja Bakery*), art galleries, and quiet cafes
+- **Hours:** Shops & cafes daily **11:00–21:00**
+- **Price:** Free walk-in; coffee/bakery pay-per-item
+- **Official source:** [english.visitseoul.net](https://english.visitseoul.net) · Line 3 Gyeongbokgung Station (Exit 2 or 3)
+- **Beginner notes:** Less crowded and more laid-back than Bukchon. Combine with Tongin Market (#43).
+
+### 65) 🌳 Gyeongui Line Forest Park / Yeontral Park (경의선숲길) — 🔁 always on (FREE)
+- **What:** 6.3 km linear urban park built over the abandoned underground Gyeongui railway tracks running through Hongdae and Yeonnam-dong. Nicknamed "Yeontral Park" — lined with lawns, craft breweries, takeout food windows, and busking acoustic music
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [parks.seoul.go.kr](https://parks.seoul.go.kr) · Line 2 / AREX / 경의중앙 Hongik Univ Station (Exit 3)
+- **Beginner notes:** Grab a craft beer or coffee and picnic on the park lawns in autumn.
+
+### 66) 🎭 Daehangno Theater District (대학로 소극장거리) — 🔁 daily
+- **What:** Korea's Broadway — Hyehwa-dong theater district housing 150+ small theaters, indie playhouses, busking plazas, Marronnier Park, and vintage cafes
+- **Hours:** Shows & street performances afternoon & evening daily
+- **Price:** Theater tickets ~₩15,000–₩35,000
+- **Official source:** [english.visitseoul.net](https://english.visitseoul.net) · Line 4 Hyehwa Station (Exit 2)
+- **Beginner notes:** Bustling university atmosphere; Marronnier Park features free weekend outdoor acoustic busking.
+
+### 67) 🎸 Sinchon Youth Busking Street & Yonsei Promenade — 🔁 daily
+- **What:** University street district between Yonsei and Ewha universities. Car-free pedestrian street hosting nightly student street dance crews, indie rock buskers, and street food carts
+- **Hours:** Street busking daily **17:00–22:00** (weekends active from afternoon)
+- **Price:** **FREE**
+- **Official source:** [sdm.go.kr](https://www.sdm.go.kr) · Line 2 Sinchon Station (Exit 2 or 3)
+- **Beginner notes:** High-energy free outdoor music show every evening.
+
+### 68) 🌟 K-Star Road Gangnam & Cheongdam Fashion Street — 🔁 always on (FREE)
+- **What:** 1 km sidewalk promenade in Apgujeong/Cheongdam lined with 3-meter tall *GangnamDol* bear sculptures representing top K-pop groups (BTS, EXO, BLACKPINK, TVXQ, Super Junior). Runs past major agency headquarters and luxury fashion flagship boutiques
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [gangnam.go.kr](https://www.gangnam.go.kr) · Suin-Bundang Line Apgujeongrodeo Station (Exit 2)
+- **Beginner notes:** Must-visit photo trail for K-pop fans.
+
+### 69) 🍁 Bukhansan National Park Autumn Foliage Hiking — 🔁 always on (FREE)
+- **What:** Seoul's northern granite peak national park offering world-class mountain hikes over autumn maple valleys, historic Bukhansanseong fortress walls, and panoramic summits (*Baegundae Peak* 836m)
+- **Hours:** Park open daily **04:00–17:00** (winter hours)
+- **Price:** **FREE**
+- **Official source:** [knps.or.kr](https://www.knps.or.kr) · Line 3 Gupabal Station (Bus 704) or Line 1/2 Dobongsan Station
+- **Beginner notes:** Wear sturdy shoes. The Bukhansanseong Valley course is gentle and famous for peak November crimson maples.
+
+### 70) 🌅 Inwangsan Mountain Sunrise & City Wall Night Walk — 🔁 always on (FREE)
+- **What:** 338m rocky granite mountain along Seoul's historic western city wall (*Hanyangdoseong*). Offers one of Seoul's most accessible hikes with dramatic nighttime views over Gyeongbokgung, N Seoul Tower, and downtown skyline
+- **Hours:** Trail open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [seoul.go.kr](https://www.seoul.go.kr) · Line 3 Muakjae or Dongnypmun Station (or Sajik Park start)
+- **Beginner notes:** Wooden stair trail is illuminated at night; 45–60 min hike to summit.
+
+### 71) 🌲 Ansan Mountain Wooden Skywalk & Herbal Park — 🔁 always on (FREE)
+- **What:** Barrier-free 7 km gentle wooden boardwalk trail wrapping around Mt. Ansan in Seodaemun-gu. Features a Metasequoia forest grove, yellow ginkgo trails, waterfall plaza, and herbal gardens
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [sdm.go.kr](https://www.sdm.go.kr) · Line 3 Muakjae Station or Dongnypmun Station
+- **Beginner notes:** Completely flat wooden boardwalk — easy for all walking abilities.
+
+### 72) 🌌 Naksan Park & Ehwa Mural Village Night Skyline Trail — 🔁 always on (FREE)
+- **What:** Hilltop park preserving Seoul's eastern city wall above Hyehwa/Daehangno. Renowned for its illuminated stone fortress wall, Ehwa mural alleyways, and sunset-to-midnight vistas over the Seoul basin
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [parks.seoul.go.kr](https://parks.seoul.go.kr) · Line 4 Hyehwa Station (Exit 2 + 15 min uphill walk)
+- **Beginner notes:** Romantic evening walk; combine with Daehangno theater (#66) or dinner.
+
+### 73) 💎 Banpo Hangang Park Some Sevit Floating Islands — 🔁 always on (FREE)
+- **What:** Three glowing futuristic glass architectural floating islands (*Some Gavit*) anchored on the Han River at Banpo. Features waterfront LED light shows, rooftop lounges, cafes, and riverwalks
+- **Hours:** Islands open daily **10:00–22:00** (LED illuminations at night)
+- **Price:** Grounds **FREE**
+- **Official source:** [hangang.seoul.go.kr](https://hangang.seoul.go.kr) · Line 3/7/9 Express Bus Terminal Station (Exit 8-1)
+- **Beginner notes:** Even though the bridge rainbow fountain switches off in Nov, the illuminated glass floating islands offer great night photos and river views.
+
+### 74) 🍜 Yeouido Hangang Park Ramyeon Picnic & Bike Rental — 🔁 daily
+- **What:** Classic Seoulite riverfront experience — rent a bicycle, buy an instant ramyeon packet at a GS25/CU convenience store, cook it yourself on automated induction boiling machines, and picnic on the riverbank grass lawns
+- **Hours:** Park open 24/7; Convenience stores & bike rentals open daily
+- **Price:** Ramyeon ~₩3,500–₩5,000; Bike rental ~₩3,000/hr
+- **Official source:** [hangang.seoul.go.kr](https://hangang.seoul.go.kr) · Line 5 Yeouinaru Station (Exit 2 or 3)
+- **Beginner notes:** Must-do local experience right outside Yeouinaru station.
+
+### 75) 🌅 Mangwon Hangang Park Sunset Lawn — 🔁 always on (FREE)
+- **What:** Laid-back riverfront park near Mangwon Market offering unobstructed views of Seongsan Bridge, sunset views over the Han River, and peaceful grassy lawns
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [hangang.seoul.go.kr](https://hangang.seoul.go.kr) · Line 6 Mangwon Station + 15 min walk
+- **Beginner notes:** Less crowded than Yeouido or Banpo. Pick up takeout fried chicken from Mangwon Market (#62) and enjoy sunset on the river.
+
+### 76) 🌳 Dream Forest Park (북서울꿈의숲) — 🔁 always on (FREE)
+- **What:** Seoul's 4th largest park set in Gangbuk-gu, surrounded by autumn forests, Wolyeongji lotus pond, traditional Changchangdae mansion, and a 49-meter high **Dream Forest Observatory** offering views of Namsan and Bukhansan
+- **Hours:** Park open **24/7**; Observatory Tue–Sun **10:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [parks.seoul.go.kr](https://parks.seoul.go.kr) · Line 4 Miasagori Station (Bus 09 or 11)
+- **Beginner notes:** Scenic autumn foliage alternative away from tourist crowds.
+
+### 77) 🍁 Gwanaksan Mountain Autumn Maple Trail & Yeonjuam Hermitage — 🔁 always on (FREE)
+- **What:** Majestic mountain peak guarding southern Seoul (Gwanak-gu / Seoul National University). Famous for its autumn stream trails and **Yeonjuam Hermitage**, perched dramatically on a cliff edge summit overlooking the city
+- **Hours:** Park open daily **04:00–17:00**
+- **Price:** **FREE**
+- **Official source:** [gwanak.go.kr](https://www.gwanak.go.kr) · Sillim Line / Line 2 Seoul Nat'l Univ Station
+- **Beginner notes:** The valley trail starting from SNU entrance is gentle, shaded, and filled with brilliant maple trees in November.
+
+### 78) 🎻 Jeongdong Theater Traditional Performing Arts Season — 🔁 Tue–Sun
+- **What:** Korea's historic performing arts theater on Jeongdong-gil stonewall street, producing high-caliber traditional Korean dance, Gugak fusion, and folk musical performances
+- **Hours:** Shows Tue–Sun **15:00 & 19:30**
+- **Price:** ~₩30,000–₩50,000
+- **Official source:** [jeongdong.or.kr](https://www.jeongdong.or.kr) · Line 1/2 City Hall Station (Exit 1 or 12)
+- **Beginner notes:** Elegant theater setting along Deoksugung Stonewall Walkway (#36).
+
+### 79) 🎼 Seoul Arts Center Concert Hall & Opera House (예술의전당) — 🔁 daily
+- **What:** Korea's flagship multi-arts center in Seocho-gu comprising the Concert Hall, Opera House, Hangaram Art Museum, and Music Fountain plaza. Hosts top international philharmonic orchestras, classical recitals, and opera
+- **Hours:** Daily **10:00–22:00** (show times vary)
+- **Price:** Varies by show (~₩20,000–₩150,000+)
+- **Official source:** [sac.or.kr](https://www.sac.or.kr) · Line 3 Nambu Bus Terminal Station (Exit 5)
+- **Beginner notes:** World-class acoustics and architecture; check Interpark Global for tickets.
+
+### 80) 🎭 Sejong Center for the Performing Arts (세종문화회관) — 🔁 daily
+- **What:** Landmark performing arts complex on Gwanghwamun Plaza, home to the Seoul Philharmonic Orchestra, Sejong Grand Theater, and Sejong Museum of Art
+- **Hours:** Daily **10:00–22:00**
+- **Price:** Show ticket prices vary
+- **Official source:** [sejongpac.or.kr](https://www.sejongpac.or.kr) · Line 5 Gwanghwamun Station (Exit 1 or 8)
+- **Beginner notes:** Located right on Gwanghwamun Plaza across from the Statue of King Sejong.
+
+### 81) 🥁 KOTPA / Traditional Gugak Performing Arts — 🔁 weekly
+- **What:** Traditional Korean performing arts presentations showcasing UNESCO heritage court dances, *Pansori* epic singing, and *Samulnori* percussion ensembles
+- **Hours:** Show times vary by venue
+- **Price:** ~₩10,000–₩30,000
+- **Official source:** [gugak.go.kr](https://www.gugak.go.kr) · National Gugak Center / Seoul
+- **Beginner notes:** Authentic cultural deep-dive; English translation booklets provided.
+
+### 82) 🖼️ K-Auction & Seoul Auction Previews — 🔁 always on (FREE)
+- **What:** Premier Korean art auction houses in Gangnam and Pyeongchang-dong holding free public preview exhibitions of master Korean fine art, Joseon antiques, and modern blue-chip artwork before major auctions
+- **Hours:** Daily **10:00–18:30**
+- **Price:** **FREE** public previews
+- **Official source:** [k-auction.com](https://www.k-auction.com) · Apgujeong / Pyeongchang-dong
+- **Beginner notes:** Museum-quality art viewing for free in Gangnam.
+
+### 83) 🏰 Seoul City Wall Museum (서울한양도성박물관) — 🔁 Tue–Sun (FREE)
+- **What:** Specialized museum at Dongdaemun Seonggwak Park documenting the 600-year history, construction, and restoration of Seoul's 18.6 km Joseon City Wall (*Hanyangdoseong*)
+- **Hours:** Tue–Sun **09:00–18:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [museum.seoul.go.kr](https://museum.seoul.go.kr) · Line 1/4 Dongdaemun Station (Exit 1)
+- **Beginner notes:** Located at the start of the Naksan Park city wall trail (#72).
+
+### 84) 🌃 Eungbongsan Mountain Night Viewpoint — 🔁 always on (FREE)
+- **What:** 94m rocky peak at the junction of the Han and Jungnangcheon rivers in Seongdong-gu. Renowned as one of Seoul's top night photography viewpoints overlooking Seongsu Bridge, Gangnam, and Lotte World Tower
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [seongdong.go.kr](https://www.seongdong.go.kr) · Gyeongui-Jungang Line Eungbong Station (Exit 1 + 15 min wooden stairs walk)
+- **Beginner notes:** Short 15-minute wooden staircase climb to the hilltop octagonal pavilion (*Eungbongpalgakjeong*).
+
+### 85) ♨️ Dragon Hill / Aquafield Jjimjilbang Spas — 🔁 daily
+- **What:** Premium Korean jjimjilbang spa complexes (Aquafield Goyang/Hanam, Cimer at Paradise City Incheon) featuring natural thermal pools, outdoor infinity pools, charcoal/salt saunas, and media relaxation rooms
+- **Hours:** Daily **08:00–22:00**
+- **Price:** ~₩23,000–₩30,000 (6-hour pass)
+- **Official source:** [aquafield.co.kr](https://www.aquafield.co.kr) · Goyang / Hanam / Incheon Airport
+- **Beginner notes:** The ultimate post-flight or rainy day relaxation spot.
+
 ---
 
 ## ⏭️ Just outside your window (so you know why you missed them)

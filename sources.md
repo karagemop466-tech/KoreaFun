@@ -124,10 +124,60 @@ Every entry in this repo links to an **official, verified source** (government b
 | Gyeryongsan National Park | Sacred mountain & Donghaksa Temple (Daejeon) | https://www.knps.or.kr |
 | Donghaksa Temple | Ancient Buddhist nunnery (Gyeryongsan) | http://www.donghaksa.or.kr |
 | Daejeon Skyroad | LED canopy street (Daejeon Eunhang-dong) | https://www.skyroad.or.kr |
-| Daejeon Museum of Art | Contemporary art gallery (Daejeon) | https://www.daejeon.go.kr/dma |
+| Daejeon Museum of Art | Contemporary art gallery (Daejeon) | https://www.daejeon.go.kr/dma ; https://leeungnomuseum.daejeon.go.kr |
 | Gakwonsa Temple | Giant bronze Buddha & temple (Cheonan) | http://www.gakwonsa.or.kr |
 | Arario Gallery Cheonan | Contemporary gallery & sculpture park (Cheonan) | https://www.arariogallery.com |
 | K-ETA Official Portal | Korea Electronic Travel Authorization (Ministry of Justice) | https://www.k-eta.go.kr |
+| JUMP Show | Non-verbal martial arts comedy performance | http://www.hijump.co.kr |
+| CHEF Show (Bibap) | Non-verbal beatbox musical show | http://www.bibap.co.kr |
+| WILD WILD Show | K-performance dance show | https://www.wildwild.co.kr |
+| National Theater of Korea | Performing arts complex (Namsan) | https://www.ntok.go.kr |
+| National Museum of Korean Contemporary History | History museum & Gwanghwamun rooftop garden | https://www.much.go.kr |
+| National Palace Museum of Korea | Joseon royal artifacts museum (Gyeongbokgung) | https://www.gogung.go.kr |
+| National Folk Museum of Korea | Korean folk culture museum | https://www.nfm.go.kr |
+| Seoul Museum of History | Seoul history museum | https://museum.seoul.go.kr |
+| Seoul Battleship Park | Navy frigate & submarine park (Mangwon Hangang) | https://seoulhampark.seoul.go.kr |
+| Seoul Museum of Art (SeMA) | Municipal art museum (City Hall) | https://sema.seoul.go.kr |
+| Arario Museum in SPACE | Modern art museum (Anguk) | http://www.arariomuseum.org |
+| Ground Seesaw | Immersive media art halls (Seongsu/Myeongdong) | https://groundseesaw.co.kr |
+| COEX Aquarium | Urban marine aquarium (Gangnam COEX) | https://www.coexaqua.com |
+| Namdaemun Market | Korea's largest traditional market | https://www.namdaemunmarket.co.kr |
+| Seodaemun-gu Office | Ansan Mountain wooden skywalk & Sinchon street | https://www.sdm.go.kr |
+| Gangnam-gu Portal | K-Star Road Gangnam | https://www.gangnam.go.kr |
+| Gwanak-gu Portal | Gwanaksan Mountain maple trails | https://www.gwanak.go.kr |
+| Jeongdong Theater | Traditional performing arts theater | https://www.jeongdong.or.kr |
+| Seoul Arts Center | Opera House & Concert Hall | https://www.sac.or.kr |
+| Sejong Center | Sejong Center for Performing Arts | https://www.sejongpac.or.kr |
+| K-Auction | Art preview exhibitions (Gangnam) | https://www.k-auction.com |
+| Seongdong-gu Portal | Eungbongsan Mountain night viewpoint | https://www.seongdong.go.kr |
+| Aquafield | Premium jjimjilbang spa complex | https://www.aquafield.co.kr |
+| Busan Cultural Center | Performing arts halls (Busan Daeyeon) | https://www.bscc.or.kr |
+| Busan Cinema Center (Dureraum) | BIFF home & open-air cinema | https://www.dureraum.org |
+| Busan National Gugak Center | Traditional music & dance center | https://busan.gugak.go.kr |
+| Samkwangsa Temple | Mountain temple & lanterns (Busan) | http://www.samkwangsa.or.kr |
+| Geumjeong-gu Portal | Geumjeongsanseong fortress & cable car | https://www.geumjeong.go.kr |
+| Nakdong Estuary Eco Center | Eulsukdo bird sanctuary (Busan) | https://www.busan.go.kr/wetland |
+| Seo-gu Busan Portal | Amnam Park suspension bridge | https://www.bsseo.go.kr |
+| Gukje Market | Historic international market (Busan Nampo) | http://www.gukjemarket.co.kr |
+| Jagalchi Market | Fish market & rooftop observatory | http://www.jagalchimarket.org |
+| Lotte Dept Store | Lotte Dept Store Busan Main Branch | https://www.lotteshopping.com |
+| Gamcheon Culture Village | Hillside village & stamp tour | https://www.gamcheon.or.kr |
+| Yeongdo-gu Busan Portal | Huinnyeoul culture village & drawbridge | https://www.bsyeongdo.go.kr |
+| Museum 1 | Digital media art hall (Busan Centum) | https://www.museum1.co.kr |
+| Busan Museum of Art | Municipal art museum & Lee Ufan space | https://art.busan.go.kr |
+| Busan Museum of Contemporary Art | Busang MoCA (Eulsukdo) | https://www.busan.go.kr/moca |
+| Busan Citizens Park | Urban park & stream (Busanjin) | http://www.citizenpark.or.kr |
+| UN Memorial Cemetery | UN cemetery & Peace Park (Busan) | https://www.unmck.or.kr |
+| Daejeon Arts Center | Performing arts venue (Daejeon Dunsan) | https://www.djac.or.kr |
+| Daejeon Junggu Portal | Ppuri Park surname heritage park | https://www.junggu.daejeon.kr |
+| Daejeon Donggu Portal | Uam Historic Park | https://www.donggu.go.kr |
+| Jangtaesan Recreation Forest | Bald Cypress forest & skyway (Daejeon) | https://www.jangtaesan.or.kr |
+| Yuseong-gu Portal | Yuseong footbath thermal spring park | https://www.yuseong.go.kr |
+| Daejeon Facilities Corp | Daejeon World Cup Stadium | https://www.djsiseol.or.kr |
+| Cheonan Arts Center | Performing arts venue (Cheonan) | https://www.cnac.or.kr |
+| Cheonan City Hall | Town Hall sky lounge observatory & Taejosan | https://www.cheonan.go.kr |
+| Postal Museum of Korea | Postal history museum (Cheonan) | https://www.postmuseum.go.kr |
+| Q-CODE Portal | Health declaration | https://qcode.kdca.go.kr |
 | Q-CODE Portal | Korea Disease Control & Prevention Agency health declaration | https://qcode.kdca.go.kr |
 | WOWPASS | Foreign tourist prepaid card + T-money | https://www.wowpass.io |
 | Seoul Hangang Headquarters | Han River park & ferry official portal | https://hangang.seoul.go.kr |
