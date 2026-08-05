@@ -1,24 +1,24 @@
 # 🇰🇷 KoreaFun — Seoul · Busan · Daejeon/Cheonan
 
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
-A beginner-friendly guide to **live events, sports, festivals, and gaming** during your trip — written for two US travelers who have never been to Korea.
+A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> ✅ **Info verified: August 4, 2026.** All entries link to **official / government / league-sanctioned sources only**. Anything that isn't officially announced yet is clearly marked **TBA** or **Watch** so you never confuse a guess with a fact. As the trip gets closer (Aug → Oct), most TBA items get official dates — check the links listed under each entry.
+> ✅ **Info verified: August 2026.** All entries link to **official / government / league-sanctioned sources only** (260 verified official URLs). Anything that isn't officially announced yet is clearly marked **TBA** or **Watch** so you never confuse a guess with a fact.
 
 ---
 
-## 📂 What's in this repo
+## 📂 What's in this repo (443 Total Activity Sections)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | Seoul events, sorted by date (Oct 31 – Nov 22) |
-| [`busan.md`](busan.md) | Busan events, sorted by date |
-| [`daejeon-cheonan.md`](daejeon-cheonan.md) | The **flex cities** — Daejeon & Cheonan (45–60 min from Seoul by KTX) |
+| [`seoul.md`](seoul.md) | **260 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
+| [`busan.md`](busan.md) | **103 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
+| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **80 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX) |
 | [`walking-maps.md`](walking-maps.md) | **Self-guided 1-day walking & food maps** for Seoul, Busan, Daejeon & Cheonan |
-| [`travel-basics.md`](travel-basics.md) | Beginner logistics: T-money, KTX, tickets, apps, money, weather |
+| [`travel-basics.md`](travel-basics.md) | Beginner logistics: K-ETA exemption, WOWPASS, Climate Card, KTX, tickets, apps, weather |
 | [`itinerary.md`](itinerary.md) | **Day-by-day skeleton plan (Oct 31 → Nov 22) + booking-deadline calendar** |
-| [`sources.md`](sources.md) | Master list of every official website used in this repo |
-| [`events.csv`](events.csv) | The same events in a machine-readable table |
+| [`sources.md`](sources.md) | Master list of every official website used in this repo (260 verified URLs) |
+| [`events.csv`](events.csv) | Machine-readable database table with 110 structured event entries |
 
 ---
 
