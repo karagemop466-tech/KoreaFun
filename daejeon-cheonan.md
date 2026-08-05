@@ -359,6 +359,208 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **Official source:** [cheonan.go.kr](https://www.cheonan.go.kr) · Baekseok-dong, Cheonan
 - **Beginner notes:** Public sports and recreation park.
 
+## 52) 🤖 Daejeon Shinsegae Nexperium Science Museum — 🔁 daily
+- **What:** Interactive futuristic science museum inside Shinsegae Art & Science complex focused on robotics, biotechnology, AI, and space technology
+- **Hours:** Mon–Thu **10:30–20:00** · Fri–Sun **10:30–20:30**
+- **Price:** Adult **₩18,000** (~$13)
+- **Official source:** [shinsegae.com](https://www.shinsegae.com) · Yuseong-gu Expo Science Park
+- **Beginner notes:** Located right below Art Space 193 Observatory (#13).
+
+## 53) 🐠 Daejeon Expo Aquarium (대전 엑스포 아쿠아리움) — 🔁 daily
+- **What:** Media-art integrated aquarium inside Shinsegae Art & Science, featuring a 4,200-ton tank, 20,000 marine animals, underwater ballet shows, and digital media art
+- **Hours:** Daily **10:30–19:30**
+- **Price:** Adult **₩29,000** (~$21)
+- **Official source:** [daejeonaquarium.com](https://www.daejeonaquarium.com) · Shinsegae Complex
+- **Beginner notes:** High-tech digital aquarium experience.
+
+## 54) 🍁 Daejeon National Cemetery Autumn Memory Trail — 🔁 always on (FREE)
+- **What:** National cemetery in Yuseong-gu spanning 3.3 million m² surrounded by mountain forests. Renowned across Daejeon for its famous **Ginkgo Tree Avenue** and crimson maple walking paths
+- **Hours:** Daily **06:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [dnc.go.kr](https://www.dnc.go.kr) · Line 1 National Cemetery Station (Exit 3)
+- **Beginner notes:** Peaceful, breathtaking autumn foliage photo destination.
+
+## 55) 🐯 Daejeon O-World Zoo & Flower Land — 🔁 daily
+- **What:** Daejeon's primary theme park complex in Jung-gu, comprising Zoo Land, Joy Land rides, Flower Land gardens, and Night Universe media light park
+- **Hours:** Daily **09:30–18:00** (Night Universe open until 22:00)
+- **Price:** Adult day pass **₩30,000** (~$21)
+- **Official source:** [oworld.kr](https://www.oworld.kr) · Jung-gu Sajeong-dong
+- **Beginner notes:** Host site for the annual Chrysanthemum Festival (#10).
+
+## 56) 🎡 Bo-munsan Mountain Cable Car & Sky Tower — 🔁 always on (FREE)
+- **What:** Forested mountain park in southern Daejeon featuring Bo-munsan Sky Tower observatory offering 360° panoramas over Daejeon city basin
+- **Hours:** Park open 24/7; Sky Tower daily **09:00–21:00**
+- **Price:** **FREE**
+- **Official source:** [daejeon.go.kr](https://www.daejeon.go.kr) · Jung-gu Bosa-dong
+- **Beginner notes:** Popular sunset and night skyline spot.
+
+## 57) 💰 Daejeon Currency Museum (화폐박물관) — 🔁 Tue–Sun (FREE)
+- **What:** Korea's official money and mint museum run by KOMSCO (Korea Minting & Security Printing Corp) in Daedeok Innopolis. Exhibits historical Korean coins, paper currency, world banknotes, and anti-counterfeiting technology
+- **Hours:** Tue–Sun **10:00–17:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [komsco.com](https://www.komsco.com) · Yuseong-gu Gwahak-ro
+- **Beginner notes:** Educational museum located near Daejeon Observatory (#14).
+
+## 58) 🌲 Geumgang River Natural Recreation Forest — 🔁 Tue–Sun
+- **What:** Scenic riverside forest park along the Geumgang River featuring a botanical garden, tropical glasshouse, and autumn ginkgo walking trails
+- **Hours:** Tue–Sun **09:00–17:00** (Closed Mondays)
+- **Price:** Adult **₩1,500** (~$1)
+- **Official source:** [keumgang.go.kr](http://www.keumgang.go.kr) · Near Daejeon / Sejong
+- **Beginner notes:** Beautiful riverside foliage park.
+
+## 59) 🌃 Sikjangsan Mountain Sky Tower Night Observatory — 🔁 always on (FREE)
+- **What:** Daejeon's highest mountain peak (598m) on the eastern border of the city, featuring a Joseon-style wooden pavilion observatory offering Daejeon's absolute top night skyline view
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [donggu.go.kr](https://www.donggu.go.kr) · Dong-gu Se천-dong
+- **Beginner notes:** Accessible via mountain road or hiking trail; stunning night city lights.
+
+## 60) 🏛️ Daejeon Modern History Museum (옛 충남도청사) — 🔁 Tue–Sun (FREE)
+- **What:** Historic 1932 former South Chungcheong Provincial Government Building in central Daejeon, preserving modern colonial architecture, film sets, and city history exhibits
+- **Hours:** Tue–Sun **10:00–18:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [daejeon.go.kr](https://www.daejeon.go.kr) · Line 1 Jungangno Station (Exit 4)
+- **Beginner notes:** Historic architectural landmark near Sungsimdang Bakery.
+
+## 61) 🌉 Daejeon EXPO Arch Bridge Light Illuminations — 🔁 nightly (FREE)
+- **What:** Iconic twin red and blue arch suspension bridge spanning the Gapcheon River in front of Hanbit Tower, lit up in brilliant colors every evening
+- **Hours:** Nightly illuminations **18:30–23:00**
+- **Price:** **FREE**
+- **Official source:** [djto.kr](https://www.djto.kr) · Expo Science Park
+- **Beginner notes:** Beautiful evening riverwalk bridge connecting DCC and Expo Park.
+
+## 62) 🚴 Daejeon Gapcheon Riverfront Park & Bike Path — 🔁 always on (FREE)
+- **What:** Paved riverside park along Gapcheon River featuring cycling trails, reed beds, and sports grounds running past Expo Science Park and KAIST
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE** (Daejeon public Tashu bike rental ~₩1,000)
+- **Official source:** [daejeon.go.kr](https://www.daejeon.go.kr) · Yuseong-gu Gapcheon
+- **Beginner notes:** Rent a public Tashu bike and ride along the river in autumn.
+
+## 63) 🧺 Yuseong Traditional 5-Day Market (유성 5일장) — 🔁 every 4th & 9th day
+- **What:** Historic traditional 5-day market operating in Yuseong on dates ending in 4 and 9 (e.g. Nov 4, 9, 14, 19). Features 500+ traditional stalls selling hot street food, fresh produce, and local treats
+- **Hours:** Market days **07:00–19:00**
+- **Price:** Free walk-in
+- **Official source:** [yuseong.go.kr](https://www.yuseong.go.kr) · Line 1 Yuseong Spa Station / Guam Station
+- **Beginner notes:** Authentic Korean 5-day traditional market atmosphere.
+
+## 64) ☕ Sungsimdang Bakery Terrace & Culture Center — 🔁 daily
+- **What:** Multi-floor bakery lounge, vintage kitchen artifact museum, and local merchandise center next to Sungsimdang Main Branch
+- **Hours:** Daily **08:30–21:30**
+- **Price:** Free entry; bakery items pay-per-item
+- **Official source:** [sungsimdang.co.kr](http://www.sungsimdang.co.kr) · Eunhang-dong
+- **Beginner notes:** Great lounge to eat your warm fried soboro with coffee.
+
+## 65) ☕ Sojaedong Pungryu Hanok Bamboo Teahouse — 🔁 daily
+- **What:** Flagship hanok teahouse in Sojaedong Cafe Street featuring a tranquil indoor bamboo forest stream and premium Korean flower teas
+- **Hours:** Daily **11:30–21:30**
+- **Price:** Teas ~₩6,000–₩8,000
+- **Official source:** [daejeon.go.kr](https://www.daejeon.go.kr) · Daejeon Stn East Exit
+- **Beginner notes:** Beautiful, soothing hanok tea experience.
+
+## 66) 🎮 Daejeon Esports Stadium Arena — 🔁 daily
+- **What:** Purpose-built 500-seat esports stadium in Yuseong hosting gaming tournaments, broadcasting, and viewing parties
+- **Hours:** Event hours vary
+- **Official source:** [e-sports.or.kr](https://www.e-sports.or.kr) · Yuseong-gu Expo Science Park
+- **Beginner notes:** Premier esports venue in central Korea.
+
+## 67) 🍁 Cheonan Independence Hall 3km Maple Tree Avenue — 🔁 Tue–Sun (FREE)
+- **What:** 3.2 km scenic pedestrian avenue surrounding Independence Hall (#8) planted with 1,200 red maple trees that form a crimson tunnel in November
+- **Hours:** Tue–Sun **09:30–17:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [i815.or.kr](https://www.i815.or.kr) · Mokcheon-eup, Cheonan
+- **Beginner notes:** One of Chungcheong province's absolute top autumn foliage photo walks.
+
+## 68) 🏢 Cheonan Town Hall 47th Floor Sky Lounge Observatory — 🔁 Tue–Sun (FREE)
+- **What:** 47th-floor public sky observatory and city-run cafe offering 360° views over Cheonan
+- **Hours:** Tue–Sun **09:00–22:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [cheonan.go.kr](https://www.cheonan.go.kr) · Dongnam-gu Munhwa-dong
+- **Beginner notes:** Free high-altitude city view.
+
+## 69) ✉️ Cheonan Postal Museum of Korea — 🔁 Tue–Sun (FREE)
+- **What:** National postal history museum documenting 130+ years of Korean mail, royal stamps, and antique delivery vehicles
+- **Hours:** Tue–Sun **09:00–17:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [postmuseum.go.kr](https://www.postmuseum.go.kr) · Dongnam-gu Cheonan
+- **Beginner notes:** Interactive postal history museum.
+
+## 70) 🛕 Cheonan Gakwonsa Temple Giant Bronze Buddha — 🔁 always on (FREE)
+- **What:** 15m 60-ton seated bronze Buddha statue on Mt. Taejosan surrounded by autumn maples
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [gakwonsa.or.kr](http://www.gakwonsa.or.kr) · Mt. Taejosan
+- **Beginner notes:** Majestic mountain temple setting.
+
+## 71) 🖼️ Cheonan Arario Small City Sculpture Plaza — 🔁 always on (FREE)
+- **What:** Public outdoor art plaza displaying original Keith Haring and Damien Hirst sculptures
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [arariogallery.com](https://www.arariogallery.com) · Cheonan Terminal
+- **Beginner notes:** World-class outdoor art plaza.
+
+## 72) 🥮 Cheonan Hakwha Hodugwaja Bakery — 🔁 daily
+- **What:** Original 1934 bakery producing warm walnut-filled *hodu-gwaja*
+- **Hours:** Daily **07:00–21:00**
+- **Price:** Pastries ~₩5,000–₩20,000
+- **Official source:** [hodo1934.com](https://www.hodo1934.com) · Cheonan Station
+- **Beginner notes:** Cheonan's signature travel snack.
+
+## 73) 🍲 Cheonan Byeongcheon Sundae Culinary Street — 🔁 daily
+- **What:** 30+ restaurants serving authentic vegetable & pork blood sausage soup (*sundae-gukbap*)
+- **Hours:** Daily **08:00–21:00**
+- **Price:** Bowl ~₩8,000–₩10,000
+- **Official source:** [tour.chungnam.go.kr](https://tour.chungnam.go.kr) · Byeongcheon-myeon
+- **Beginner notes:** Famous regional culinary destination.
+
+## 74) 🌳 Cheonan Samgeori Park Historic Crossroads — 🔁 always on (FREE)
+- **What:** Historic highway crossroads park with traditional pavilions and willow trees
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [cheonan.go.kr](https://www.cheonan.go.kr) · Dongnam-gu Cheonan
+- **Beginner notes:** Historic junction park.
+
+## 75) 🥾 Cheonan Taejosan Country Park & Forest Trails — 🔁 always on (FREE)
+- **What:** Mountain park and nature trails leading up to Gakwonsa Temple
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [cheonan.go.kr](https://www.cheonan.go.kr) · Dongnam-gu Taejosan
+- **Beginner notes:** Scenic mountain park.
+
+## 76) 🎓 KAIST Campus Ounji Duck Pond Foliage Trail — 🔁 always on (FREE)
+- **What:** Top science university campus featuring duck pond framed by autumn maples
+- **Hours:** Open daily
+- **Price:** **FREE**
+- **Official source:** [kaist.ac.kr](https://www.kaist.ac.kr) · Yuseong-gu Daejeon
+- **Beginner notes:** Lovely autumn campus walk.
+
+## 77) 🌳 Daejeon Hanbat Arboretum West & East Gardens — 🔁 always on (FREE)
+- **What:** Korea's largest urban artificial arboretum
+- **Hours:** 06:00–21:00
+- **Price:** **FREE**
+- **Official source:** [daejeon.go.kr/huw](https://www.daejeon.go.kr/huw) · Dunsan-dong
+- **Beginner notes:** Located next to Hanbit Tower.
+
+## 78) 🍁 Gyeryongsan National Park Donghaksa Valley — 🔁 always on (FREE)
+- **What:** Sacred mountain national park and ancient Buddhist nunnery
+- **Hours:** Open 24/7
+- **Price:** **FREE**
+- **Official source:** [knps.or.kr](https://www.knps.or.kr) · Yuseong Bus 107
+- **Beginner notes:** Shaded 2 km stream trail.
+
+## 79) 🏙️ Daejeon Skyroad LED Street Canopy Show — 🔁 Tue–Sun (FREE)
+- **What:** 214m long 13m high LED street canopy
+- **Hours:** Tue–Sun 18:00–21:00
+- **Price:** **FREE**
+- **Official source:** [skyroad.or.kr](https://www.skyroad.or.kr) · Jungangno Station
+- **Beginner notes:** 5 min walk from Sungsimdang.
+
+## 80) ⛸️ Cheonan Sports Complex Ice Skating Rink — 🔁 daily
+- **What:** Municipal sports complex with indoor ice rink
+- **Hours:** Daily 06:00–21:00
+- **Price:** Entry ~₩3,000–₩5,000
+- **Official source:** [cheonan.go.kr](https://www.cheonan.go.kr) · Baekseok-dong
+- **Beginner notes:** Public winter sports rink.
+
 ---
 
 ## 🧭 If you have one extra day — official picks

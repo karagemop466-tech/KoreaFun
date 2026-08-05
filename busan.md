@@ -341,6 +341,181 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Official source:** [busanaircruise.co.kr](http://busanaircruise.co.kr) · Songdo Beach
 - **Beginner notes:** Combine with Amnam Park Suspension Bridge (#31) and Songdo Cloud Trails (#24).
 
+## 49) 🐟 Samjin & Goraesa Eomuk (Fishcake) Flagship Experience Centers — 🔁 daily
+- **What:** Busan's famous historic fishcake (*eomuk*) flagship centers (Samjin Eomuk in Yeongdo & Goraesa Eomuk in Haeundae). Offers warm, gourmet handmade fishcakes, cheese skewers, and DIY fishcake-making workshops
+- **Hours:** Daily **09:00–21:00**
+- **Price:** Free entry; fishcakes pay-per-item (~₩2,000–₩5,000)
+- **Official source:** [samjinfood.com](https://www.samjinfood.com) · Yeongdo / Haeundae
+- **Beginner notes:** Busan's most iconic street food experience.
+
+## 50) 🐠 Busan SEA LIFE Aquarium — 🔁 daily
+- **What:** Major underground marine aquarium located directly beneath Haeundae Beach sand, housing 10,000+ sea creatures across 8 themed zones, glass-bottom boat rides, and shark feeding shows
+- **Hours:** Mon–Fri **10:00–19:00** · Sat–Sun **09:00–20:00**
+- **Price:** Adult **₩31,000** (~$22); discount tickets via Klook/Trazy
+- **Official source:** [visitsealife.com/busan](https://www.visitsealife.com/busan) · Haeundae Beach
+- **Beginner notes:** Located right on Haeundae Beach promenade.
+
+## 51) 🎬 Busan Museum of Movies (부산영화체험박물관) — 🔁 Tue–Sun
+- **What:** Interactive film museum in Nampo-dong chronicling Korea's cinema history with green-screen dubbing booths, VR film production, and Trickeye 3D Museum
+- **Hours:** Tue–Sun **10:00–18:00** (Closed Mondays)
+- **Price:** Adult **₩10,000** (~$7)
+- **Official source:** [busanbom.com](http://www.busanbom.com) · Line 1 Nampo Station (Exit 1 or 7)
+- **Beginner notes:** Located right below Yongdusan Park and Busan Tower (#Busan Tower).
+
+## 52) 🎨 Cabinet de Poissons Digital Media Art Hall — 🔁 daily
+- **What:** Cutting-edge digital media art hall at Ananti Cove resort on the Gijang coast, exhibiting immersive projection mapping of deep sea, starlight, and nature
+- **Hours:** Daily **11:00–19:00**
+- **Price:** Adult **₩15,000** (~$11)
+- **Official source:** [ananticove.com](https://www.ananticove.com) · Gijang-eup (near Haedong Yonggungsa)
+- **Beginner notes:** Combine with Haedong Yonggungsa Temple (#Haedong Yonggungsa).
+
+## 53) 🎡 Lotte World Adventure Busan (Osiria) — 🔁 daily
+- **What:** Major theme park in Gijang Osiria Tourism Complex featuring roller coasters (*Giant Digger*), water flume rides, fairytale parades, and Lorpty's magic castle
+- **Hours:** Daily **10:00–20:00** (Fri–Sun until 21:00)
+- **Price:** Adult 1-day pass **₩47,000** (~$34)
+- **Official source:** [lotteworld.com/busan](https://www.lotteworld.com/busan) · Donghae Line Osiria Station (Exit 1)
+- **Beginner notes:** Located next to Lotte Premium Outlet and Haedong Yonggungsa.
+
+## 54) 🛍️ Lotte Premium Outlets Osiria & Sky Garden — 🔁 daily
+- **What:** Korea's largest coastal outlet shopping mall in Gijang, featuring 500+ global brands, Santorini-style white windmills, gourmet dining, and sea-view roof decks
+- **Hours:** Daily **10:30–21:00**
+- **Price:** Free walk-in
+- **Official source:** [lotteshopping.com](https://www.lotteshopping.com) · Donghae Line Osiria Station
+- **Beginner notes:** Directly adjacent to Lotte World Busan theme park.
+
+## 55) 🔬 Busan National Science Museum (국립부산과학관) — 🔁 Tue–Sun
+- **What:** Hands-on science and technology museum in Gijang focusing on automotive, aerospace, and marine engineering, featuring an astronomical observatory and planetarium
+- **Hours:** Tue–Sun **09:30–17:30** (Closed Mondays)
+- **Price:** Main hall **₩3,000 adult** (~$2)
+- **Official source:** [sciport.or.kr](https://www.sciport.or.kr) · Donghae Line Osiria Station + bus
+- **Beginner notes:** Great interactive science stop in East Busan.
+
+## 56) 🎋 Ahopsan Bamboo Forest (아홉산숲) — 🔁 Tue–Sun
+- **What:** 300-year-old privately preserved eco-forest in Gijang spanning dense bamboo groves, red pine forests, and ginkgo trees. Famous filming location for K-dramas (*The King: Eternal Monarch*, *Moon Lovers*)
+- **Hours:** Tue–Sun **09:00–18:00** (last entry 17:00; Closed Mondays)
+- **Price:** Adult **₩5,000** (~$3.50)
+- **Official source:** [ahopsan.com](http://www.ahopsan.com) · Gijang-gun Midang-ri
+- **Beginner notes:** Peaceful, towering bamboo forest walking trail away from city noise.
+
+## 57) 🏛️ Dongbaekseom APEC Nuri Maru House — 🔁 Tue–Sun (FREE)
+- **What:** Historic memorial hall on Dongbaek Island where world leaders gathered for the 2005 APEC Summit. Preserves the glass round conference hall surrounded by pine trees, lighthouse, and Gwangan Bridge view
+- **Hours:** Tue–Sun **09:00–17:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · Haeundae Dongbaek Island
+- **Beginner notes:** Located along the Haeundae coastal boardwalk loop (#Haeundae).
+
+## 58) 🌉 Songdo Coast Bolted Suspension Walkway — 🔁 Tue–Sun (FREE)
+- **What:** Thrilling ocean cliffside boardwalk bolted directly to the rock faces below Amnam Park, leading to Songdo Sky Park
+- **Hours:** Tue–Sun **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [bsseo.go.kr](https://www.bsseo.go.kr) · Songdo Beach / Amnam Park
+- **Beginner notes:** Walk along the ocean cliff rocks right above breaking waves.
+
+## 59) ⛲ Dadaepo Sunset Fountain of Dreams (다대포 꿈의 낙조분수) — 🔁 seasonal (FREE)
+- **What:** World's largest musical fountain (Guinness Record), shooting water jets 55 meters into the air synchronized with music, lights, and lasers on Dadaepo Beach
+- **Hours:** Shows Tue–Sun **19:00 & 20:00** (Nov weekend evening shows; closed Mon)
+- **Price:** **FREE**
+- **Official source:** [saha.go.kr](https://www.saha.go.kr) · Line 1 Dadaepo Beach Station (Exit 4)
+- **Beginner notes:** Pair with sunset walking along Dadaepo Beach reed boardwalk.
+
+## 60) 🌅 Dadaepo Beach & Goun Noeul Coastal Reed Trail — 🔁 always on (FREE)
+- **What:** Vast sandy beach at the mouth of Nakdong River in southwestern Busan, renowned as Busan's absolute top sunset spot with long wooden boardwalks through coastal reed fields
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [saha.go.kr](https://www.saha.go.kr) · Line 1 Dadaepo Beach Station
+- **Beginner notes:** Incredible golden hour photography over the tidal flats.
+
+## 61) 🛍️ Gwangbok-ro Underground Shopping Center — 🔁 daily
+- **What:** Air-conditioned underground retail arcade extending 1 km connecting Nampo Station, Jagalchi, and Lotte Dept Store, lined with 300+ shops
+- **Hours:** Daily **10:00–21:30** (Closed 2nd Tue of month)
+- **Price:** Free walk-in
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · Line 1 Nampo / Jagalchi Station
+- **Beginner notes:** Convenient rainy day or chilly evening shopping tunnel.
+
+## 62) 🛍️ Seomyeon Underground Shopping Mall & Food Alley — 🔁 daily
+- **What:** Central Busan's primary underground shopping arcade beneath Seomyeon rotary, packed with K-beauty stores, fashion boutiques, and local snack stalls
+- **Hours:** Daily **10:00–22:00**
+- **Price:** Free walk-in
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · Line 1/2 Seomyeon Station
+- **Beginner notes:** Bustling central transit hub shopping arcade.
+
+## 63) 🌿 Bujeon Market & Ginseng Alley — 🔁 daily
+- **What:** Massive traditional produce, seafood, and Korean medicinal ginseng market in central Busan near Seomyeon
+- **Hours:** Daily **06:00–20:00**
+- **Price:** Free walk-in
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · Line 1 Bujeon Station (Exit 1)
+- **Beginner notes:** Authentic working-class local market experience.
+
+## 64) 🏛️ Busan Museum & Cultural Heritage Hall — 🔁 Tue–Sun (FREE)
+- **What:** Primary municipal history museum documenting Busan's history from prehistoric times through the Joseon Dynasty and Korean War. Features a traditional tea ceremony cultural experience hall
+- **Hours:** Tue–Sun **09:00–18:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [museum.busan.go.kr](https://museum.busan.go.kr) · Line 2 Daeyeon Station (Exit 3)
+- **Beginner notes:** Free traditional hanbok wearing and tea ceremony experiences available (reserve at info desk).
+
+## 65) 🏛️ Busan Modern & Contemporary History Museum — 🔁 Tue–Sun (FREE)
+- **What:** Newly renovated state-of-the-art history museum in Nampo-dong housed inside a 1929 historic building, documenting Busan's opening as a port city and modern history
+- **Hours:** Tue–Sun **09:00–18:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [busan.go.kr/mch](https://www.busan.go.kr/mch) · Line 1 Nampo Station (Exit 1)
+- **Beginner notes:** Beautifully restored historic architecture near Yongdusan Park.
+
+## 66) 🏛️ Provisional Capital Memorial Hall (임시수도기념관) — 🔁 Tue–Sun (FREE)
+- **What:** Preserved official presidential residence of President Syngman Rhee during the Korean War (1950–1953) when Busan served as South Korea's wartime provisional capital
+- **Hours:** Tue–Sun **09:00–18:00** (Closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [busan.go.kr/mch](https://www.busan.go.kr/mch) · Line 1 Toseong Station (Exit 2)
+- **Beginner notes:** Historic red-brick residence tucked away on a peaceful hillside near Gudeok Stadium.
+
+## 67) 🪜 168 Stairs & Monorail (Choryang-dong) — 🔁 always on (FREE)
+- **What:** Steep 168-step historic hillside staircase in Choryang-dong behind Busan Station, featuring a free public inclined monorail cab offering harbor views
+- **Hours:** Monorail daily **07:00–21:00**
+- **Price:** **FREE**
+- **Official source:** [bsdonggu.go.kr](https://www.bsdonggu.go.kr) · Line 1 Busan Station (Exit 7 + 10 min walk)
+- **Beginner notes:** Ride the monorail up and walk through the hillside Sanbok-doro cafes.
+
+## 68) ☕ Ibagu Craft Workshop & Sanbok-doro Viewpoint — 🔁 always on (FREE)
+- **What:** Scenic mountain-ring road (*Sanbok-doro*) above Busan Station lined with retro observation decks, local craft studios, and ocean view tea houses
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [bsdonggu.go.kr](https://www.bsdonggu.go.kr) · Choryang-dong hillside
+- **Beginner notes:** Sweeping nighttime vistas over Busan Port and Busan Harbor Bridge.
+
+## 69) 🚢 Busan Port International Passenger Terminal Sky Garden — 🔁 always on (FREE)
+- **What:** Rooftop green park and panoramic harbor deck atop the international ferry terminal building, overlooking docked cruise ships and Busan Harbor Bridge
+- **Hours:** Daily **07:00–21:00**
+- **Price:** **FREE**
+- **Official source:** [busanpa.com](https://www.busanpa.com) · Line 1 Choryang or Busan Station
+- **Beginner notes:** Quiet rooftop harbor deck.
+
+## 70) 🎨 Yeongdo Pium Craft Culture Center & Harbor Cafe — 🔁 daily
+- **What:** Repurposed shipyard cultural center on Yeongdo Island featuring local artisan craft workshops, coffee lounges, and industrial harbor photo decks
+- **Hours:** Daily **10:00–20:00**
+- **Price:** Free walk-in
+- **Official source:** [bsyeongdo.go.kr](https://www.bsyeongdo.go.kr) · Yeongdo Island
+- **Beginner notes:** Authentic maritime culture spot.
+
+## 71) 🛕 Taejongsa Temple Pine Grove Trail — 🔁 always on (FREE)
+- **What:** Quiet mountain temple tucked inside Taejongdae Resort Park (#13) surrounded by pine trees, hydrangeas, and mountain walking paths
+- **Hours:** Daily **08:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [bisco.or.kr](https://www.bisco.or.kr) · Taejongdae Park
+- **Beginner notes:** Stop on the Danubi train loop inside Taejongdae.
+
+## 72) 🍤 Gijang Yeonhwa-ri Seafood & Abalone Porridge Village — 🔁 daily
+- **What:** Seaside fishing village in Gijang famed for its traditional waterfront orange-tent seafood stalls serving freshly caught sea-cucumber, abalone, and rich abalone porridge (*jeonbok-juk*)
+- **Hours:** Stalls daily **09:00–19:00**
+- **Price:** Abalone porridge ~₩12,000–₩15,000 per bowl
+- **Official source:** [gijang.go.kr](https://www.gijang.go.kr) · Gijang-eup Yeonhwa-ri
+- **Beginner notes:** Authentic local seaside culinary experience.
+
+## 73) 🌅 Gwangalli Millak Coastal Promenade & Night Walk — 🔁 always on (FREE)
+- **What:** Paved coastal pedestrian promenade extending from Gwangalli Beach past Millak Waterside Park toward Gwangan Bridge
+- **Hours:** Open **24/7** daily
+- **Price:** **FREE**
+- **Official source:** [suyeong.go.kr](https://www.suyeong.go.kr) · Line 2 Gwangan Station
+- **Beginner notes:** Great evening sea breeze walk under illuminated bridge lights.
+
 ---
 
 ## 🔁 Always-on Busan fall favorites (official tourism)

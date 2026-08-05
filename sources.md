@@ -127,6 +127,47 @@ Every entry in this repo links to an **official, verified source** (government b
 | Daejeon Museum of Art | Contemporary art gallery (Daejeon) | https://www.daejeon.go.kr/dma ; https://leeungnomuseum.daejeon.go.kr |
 | Gakwonsa Temple | Giant bronze Buddha & temple (Cheonan) | http://www.gakwonsa.or.kr |
 | Arario Gallery Cheonan | Contemporary gallery & sculpture park (Cheonan) | https://www.arariogallery.com |
+| Gbook Street | Gyeongui Line Book Street (Seoul) | http://www.gbookstreet.or.kr |
+| Anyoung Insadong | Insa Central Museum & Anyeong Insadong | http://www.anyounginsadong.com |
+| Sejong Story Museum | King Sejong Story & Yi Sun-sin Museum | https://www.sejongstory.or.kr |
+| COEX | COEX Exhibition Center conventions | https://www.coex.co.kr |
+| KINTEX | KINTEX Exhibition Center (Ilsan) | https://www.kintex.com |
+| Garak Market | Garak agricultural & seafood market | https://www.garak.co.kr |
+| Noryangjin Market | Noryangjin fisheries wholesale market | https://www.suhyup-yangyang.co.kr |
+| Platform 61 | 창동 Platform 61 container art hub | http://platform61.scf.or.kr |
+| Bongeunsa Temple | Bongeunsa temple stay & Maitreya Buddha | http://www.bongeunsa.org |
+| Jogyesa Temple | Jogyesa head temple & chrysanthemum displays | http://www.jogyesa.kr |
+| Myogaksa Temple | Myogaksa temple stay & bell toll | http://www.myogaksa.net |
+| Jinkwansa Temple | Jinkwansa monk temple cuisine | http://www.jinkwansa.org |
+| Geumsunsa Temple | Geumsunsa mountain retreat | http://www.geumsunsa.org |
+| Hwagyesa Temple | Hwagyesa international Zen meditation | http://www.hwagyesa.org |
+| International Seon Center | Urban Seon meditation center | http://www.seoncenter.or.kr |
+| Ewha Womans University | ECC campus complex | https://www.ewha.ac.kr |
+| Hongdae Free Market | Playground Saturday art fair | http://www.freemarket.or.kr |
+| Seoul Upcycling Plaza | SUP eco upcycling design center | https://www.seoulup.or.kr |
+| Seodaemun Prison History Hall | Seodaemun prison history museum | https://www.ssmc.or.kr |
+| Samjin Food | Samjin Eomuk fishcake flagship center | https://www.samjinfood.com |
+| SEA LIFE Busan | Haeundae ocean aquarium | https://www.visitsealife.com/busan |
+| Busan Museum of Movies | Film museum & green screen booths | http://www.busanbom.com |
+| Ananti Cove | Cabinet de Poissons digital media art | https://www.ananticove.com |
+| Lotte World Busan | Lotte World Adventure Busan theme park | https://www.lotteworld.com/busan |
+| Busan National Science Museum | Sciport hands-on science museum | https://www.sciport.or.kr |
+| Ahopsan Forest | 300-year-old preserved bamboo forest | http://www.ahopsan.com |
+| Dadaepo Sunset Fountain | World's largest musical water fountain | https://www.saha.go.kr |
+| Busan Museum | Municipal history museum & tea hall | https://museum.busan.go.kr |
+| Busan Modern History Museum | Modern history museum (Nampo) | https://www.busan.go.kr/mch |
+| Daejeon Aquarium | Expo Aquarium (Shinsegae) | https://www.daejeonaquarium.com |
+| Daejeon National Cemetery | National cemetery ginkgo avenue | https://www.dnc.go.kr |
+| KOMSCO Currency Museum | Money & mint museum (Daejeon) | https://www.komsco.com |
+| Geumgang Recreation Forest | Riverside forest & arboretum | http://www.keumgang.go.kr |
+| Cheonan Town Hall | 47th Floor Sky Lounge Observatory | https://www.cheonan.go.kr |
+| Seoul Botanic Park | Urban botanical park (Seoul Magok) | https://botanicpark.seoul.go.kr |
+| Cheonggyecheon Stream | Restored urban stream portal | https://cheonggyecheon.seoul.go.kr |
+| Dong-gu Busan Portal | Choryang 168 Stairs & Ibagu road | https://www.bsdonggu.go.kr |
+| Busan Port Authority | International ferry terminal sky garden | https://www.busanpa.com |
+| Lotte Duty Free | K-Star Avenue Gangnam | https://www.dutyfree.lotte.com |
+| Gijang-gun Portal | Yeonhwa-ri seafood village & Ahopsan | https://www.gijang.go.kr |
+| Suyeong-gu Portal | Millak coastal promenade & drone show | https://www.suyeong.go.kr |
 | K-ETA Official Portal | Korea Electronic Travel Authorization (Ministry of Justice) | https://www.k-eta.go.kr |
 | JUMP Show | Non-verbal martial arts comedy performance | http://www.hijump.co.kr |
 | CHEF Show (Bibap) | Non-verbal beatbox musical show | http://www.bibap.co.kr |
