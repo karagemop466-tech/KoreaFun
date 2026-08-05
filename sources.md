@@ -168,6 +168,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | Lotte Duty Free | K-Star Avenue Gangnam | https://www.dutyfree.lotte.com |
 | Gijang-gun Portal | Yeonhwa-ri seafood village & Ahopsan | https://www.gijang.go.kr |
 | Suyeong-gu Portal | Millak coastal promenade & drone show | https://www.suyeong.go.kr |
+| Haeundae-gu District Portal | Haeundae folk square & traditional beach plaza | https://www.haeundae.go.kr |
 | K-ETA Official Portal | Korea Electronic Travel Authorization (Ministry of Justice) | https://www.k-eta.go.kr |
 | JUMP Show | Non-verbal martial arts comedy performance | http://www.hijump.co.kr |
 | CHEF Show (Bibap) | Non-verbal beatbox musical show | http://www.bibap.co.kr |
