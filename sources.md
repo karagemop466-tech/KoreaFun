@@ -169,6 +169,42 @@ Every entry in this repo links to an **official, verified source** (government b
 | Gijang-gun Portal | Yeonhwa-ri seafood village & Ahopsan | https://www.gijang.go.kr |
 | Suyeong-gu Portal | Millak coastal promenade & drone show | https://www.suyeong.go.kr |
 | Haeundae-gu District Portal | Haeundae folk square & traditional beach plaza | https://www.haeundae.go.kr |
+| Cheong Wa Dae Portal | Blue House former presidential residence & trail | https://www.cheongwadae.kr |
+| Korea Literature Museum | National Museum of Korean Literature | https://korealiterature.or.kr |
+| Eunpyeong-gu Portal | Eunpyeong Hanok Village & Hanok Museum | https://www.ep.go.kr |
+| Kumho Museum | Samcheong-dong contemporary art gallery | https://www.kumhomuseum.com |
+| Hakgojae Gallery | Samcheong-dong traditional & modern Korean art | https://www.hakgojae.com |
+| Gallery Hyundai | Pioneer Korean contemporary art gallery | https://www.galleryhyundai.com |
+| PKM Gallery | Contemporary fine art & garden (Samcheong) | https://www.pkmgallery.com |
+| Kukje Gallery | World-class contemporary art gallery (Samcheong) | https://www.kukjegallery.com |
+| Seoul Auction | Fine art auction preview gallery | https://www.seoulauction.com |
+| Gwangjin-gu Portal | Achasan Mountain & Achasanseong fortress | https://www.gwangjin.go.kr |
+| Jungnang-gu Portal | Yongmasan Mountain & waterfall park | https://www.jungnang.go.kr |
+| Seocho-gu Portal | Cheonggye-san & Umyeon-san mountain trails | https://www.seocho.go.kr |
+| Nowon-gu Portal | Suraksan Mountain ridge trails | https://www.nowon.go.kr |
+| D-Cube City | D-Cube City Mall & theater complex | http://www.d3city.co.kr |
+| IPark Mall | Yongsan I'Park Mall & Studio Ghibli store | https://www.iparkmall.co.kr |
+| Times Square | Yeongdeungpo Times Square Mall | http://www.timessquare.co.kr |
+| IFC Mall | Yeouido IFC Mall underground complex | http://www.ifcmallseoul.com |
+| Goto Mall | Express Bus Terminal underground shopping arcade | http://www.gotomall.kr |
+| Songpa-gu Portal | Jamsil underground shopping center | https://www.songpa.go.kr |
+| Mapo-gu Portal | Hongdae style street, Yeonnam-dong & Mangwon | https://www.mapo.go.kr |
+| KBS Portal | KBS open studio & radio walk | https://www.kbs.co.kr |
+| MBC Portal | MBC World & Sangam DMC star plaza | https://www.mbc.co.kr |
+| SBS Portal | SBS open studio & media promenade | https://www.sbs.co.kr |
+| SMTOWN | SMTOWN Kwangya flagship store (Seongsu) | https://www.smtown.com |
+| YG Family | YG Entertainment head office & fan cafe | https://www.ygfamily.com |
+| JYP Entertainment | JYP Entertainment head office & Soulcup cafe | https://www.jype.com |
+| HYBE | HYBE headquarters tower (Yongsan) | https://www.hybe.co.kr |
+| Paradise City | Paradise City Cimer spa & infinity pool | https://www.p-city.com |
+| Seoul Land | Seoul Land theme park (Gwacheon) | https://www.seoulland.co.kr |
+| Seoul Grand Park | Seoul Grand Park Zoo & Sky Lift | https://grandpark.seoul.go.kr |
+| KRA LetsRun Park | Seoul Racecourse Park (Gwacheon) | https://www.kra.co.kr |
+| Sorae / Goraesa Eomuk | Goraesa Eomuk handmade fishcake bakery | https://www.goraesa.com |
+| Ananti Cove Resort | Ananti Cove Cabinet de Poissons | https://www.ananticove.com |
+| Geumjeong-gu Portal | Geumjeongsanseong fortress & cable car | https://www.geumjeong.go.kr |
+| Saha-gu Portal | Dadaepo Beach sunset reed trail & fountain | https://www.saha.go.kr |
+| Busan Democracy Park | Democracy Park & Central Park sky tower | http://www.bsdemokrat.or.kr |
 | K-ETA Official Portal | Korea Electronic Travel Authorization (Ministry of Justice) | https://www.k-eta.go.kr |
 | JUMP Show | Non-verbal martial arts comedy performance | http://www.hijump.co.kr |
 | CHEF Show (Bibap) | Non-verbal beatbox musical show | http://www.bibap.co.kr |
