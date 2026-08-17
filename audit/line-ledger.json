@@ -4451,15 +4451,83 @@
   "text": "- **What:** Traditional neighborhood near Woljeonggyo centered on the historic Gyeongju Choi family house and craft/food businesses.",
   "verdict": "unchecked"
  },
+ "gyeongju.md#12:25908c6894": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "gyeongju.md",
+  "kind": "DATE",
+  "note": "Gyeongju National Museum takes a November 'gallery rest day' Monday when indoor galleries shut but gardens stay open. The museum's own pages CONTRADICT each other: sub01/0101.html says SECOND Monday (=Nov 9 2026), the PC leaflet ajax/0101_ajax_1.html says FIRST Monday (=Nov 2 2026). Cannot resolve from published sources; entry tells the reader to phone ahead if museum-bound on either Monday. RE-CHECK trigger: museum's 2026 November notice board, or phone 054-740-7500.",
+  "sources": [
+   "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+   "https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48"
+  ],
+  "text": "- **⚠️ One caveat: a November \"gallery rest day\" Monday.** The museum takes an 임시휴실일 in March and November, on which **the indoor galleries shut but the gardens and outdoor exhibits stay open**. Its own pages disagree on whether it is the **first or second** Monday — i.e. **Mon Nov 2 or Mon Nov 9, 2026**. **If you are museum-bound on either Monday, phone ahead.**",
+  "verdict": "unresolved"
+ },
  "gyeongju.md#12:333a45cd68": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 12,
   "file": "gyeongju.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Gyeongju National Museum: free, 10:00-18:00 last entry 17:30. OPEN MONDAYS (only Jan1/Seollal/Chuseok closed) - same trap as Jeonju. Saturday night opening to 21:00 runs Mar-Dec so it covers Nov 7/14/21. Free strollers/wheelchairs/lockers/parking.",
+  "sources": [
+   "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+   "https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48"
+  ],
   "text": "- **What:** Essential Silla collection including royal-tomb finds and the Divine Bell of King Seongdeok.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "gyeongju.md#12:6822ced0cc": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "gyeongju.md",
+  "kind": "TIME",
+  "note": "Gyeongju National Museum: free, 10:00-18:00 last entry 17:30. OPEN MONDAYS (only Jan1/Seollal/Chuseok closed) - same trap as Jeonju. Saturday night opening to 21:00 runs Mar-Dec so it covers Nov 7/14/21. Free strollers/wheelchairs/lockers/parking.",
+  "sources": [
+   "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+   "https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48"
+  ],
+  "text": "- **Hours/price:** **10:00–18:00, last entry 17:30. Free** (permanent galleries, children's museum and most special exhibitions; a few ticketed specials are the exception).",
+  "verdict": "verified"
+ },
+ "gyeongju.md#12:6a029f8d01": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "gyeongju.md",
+  "kind": "DATE",
+  "note": "Gyeongju National Museum: free, 10:00-18:00 last entry 17:30. OPEN MONDAYS (only Jan1/Seollal/Chuseok closed) - same trap as Jeonju. Saturday night opening to 21:00 runs Mar-Dec so it covers Nov 7/14/21. Free strollers/wheelchairs/lockers/parking.",
+  "sources": [
+   "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+   "https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48"
+  ],
+  "text": "- **✅ NOT closed on Mondays.** Like Jeonju's, this national museum opens all week — the only fixed closures are **Jan 1, Seollal and Chuseok**, none of which fall in your window.",
+  "verdict": "verified"
+ },
+ "gyeongju.md#12:77bf241c14": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "gyeongju.md",
+  "kind": "SOURCE",
+  "note": "Gyeongju National Museum: free, 10:00-18:00 last entry 17:30. OPEN MONDAYS (only Jan1/Seollal/Chuseok closed) - same trap as Jeonju. Saturday night opening to 21:00 runs Mar-Dec so it covers Nov 7/14/21. Free strollers/wheelchairs/lockers/parking.",
+  "sources": [
+   "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+   "https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Gyeongju National Museum — visitor info](https://gyeongju.museum.go.kr/kor/html/sub01/0101.html) · [Gyeongju City listing](https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48)",
+  "verdict": "sourced"
+ },
+ "gyeongju.md#12:856c1ecd49": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "gyeongju.md",
+  "kind": "TIME",
+  "note": "Gyeongju National Museum: free, 10:00-18:00 last entry 17:30. OPEN MONDAYS (only Jan1/Seollal/Chuseok closed) - same trap as Jeonju. Saturday night opening to 21:00 runs Mar-Dec so it covers Nov 7/14/21. Free strollers/wheelchairs/lockers/parking.",
+  "sources": [
+   "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+   "https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48"
+  ],
+  "text": "- **🌙 Saturday night opening applies during your trip:** open until **21:00 on Saturdays from March to December** — so **Sat Nov 7, 14 and 21**. The Divine Bell of King Seongdeok in the outdoor court is worth seeing lit.",
+  "verdict": "verified"
  },
  "gyeongju.md#12:8f57256b6f": {
   "checked_on": null,
@@ -4467,9 +4535,23 @@
   "file": "gyeongju.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** General admission is free; verify closure days and special-exhibition tickets.",
   "verdict": "unchecked"
+ },
+ "gyeongju.md#12:972f3990a2": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "gyeongju.md",
+  "kind": "ACCESS",
+  "note": "Gyeongju National Museum: free, 10:00-18:00 last entry 17:30. OPEN MONDAYS (only Jan1/Seollal/Chuseok closed) - same trap as Jeonju. Saturday night opening to 21:00 runs Mar-Dec so it covers Nov 7/14/21. Free strollers/wheelchairs/lockers/parking.",
+  "sources": [
+   "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+   "https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48"
+  ],
+  "text": "- **Free loan of strollers, wheelchairs and lockers.** Free on-site parking.",
+  "verdict": "verified"
  },
  "gyeongju.md#12:aa136c3fc7": {
   "checked_on": null,
@@ -4477,6 +4559,7 @@
   "file": "gyeongju.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Gyeongju National Museum](https://gyeongju.museum.go.kr/eng/)",
   "verdict": "unchecked"
@@ -5404,15 +5487,75 @@
   "text": "- **Official source (reviewed Aug 17):** [Gyeongju National Museum — special exhibitions](https://gyeongju.museum.go.kr/kor/html/sub02/0202.html)",
   "verdict": "sourced"
  },
- "gyeongju.md#4:7eeb1a0359": {
-  "checked_on": null,
+ "gyeongju.md#4:34485f1bef": {
+  "checked_on": "2026-08-17",
   "entry": 4,
   "file": "gyeongju.md",
   "kind": "ACCESS",
-  "note": "",
-  "sources": [],
+  "note": "Bulguksa: hedge 'verify seasonal hours' resolved -> 09:00-18:00 daily year-round, FREE. Confirmed the W6,000 figure still circulating (incl. a 2026 listing) is PRE-2023 and stale: 65 Jogye temples went free 2023-05-04. Added the two real costs the entry missed: parking W1,000 and the Bulguksa Museum inside at a separate W2,000. bulguksa.or.kr 500s.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/iloveknp/223116491854",
+   "https://biz.heraldcorp.com/article/3116125"
+  ],
+  "text": "- **💡 Pair it with Seokguram (#5)** — same mountain, same World Heritage listing, and the connecting shuttle makes a natural half-day.",
+  "verdict": "verified"
+ },
+ "gyeongju.md#4:42b75fb7ea": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "gyeongju.md",
+  "kind": "PRICE",
+  "note": "Bulguksa: hedge 'verify seasonal hours' resolved -> 09:00-18:00 daily year-round, FREE. Confirmed the W6,000 figure still circulating (incl. a 2026 listing) is PRE-2023 and stale: 65 Jogye temples went free 2023-05-04. Added the two real costs the entry missed: parking W1,000 and the Bulguksa Museum inside at a separate W2,000. bulguksa.or.kr 500s.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/iloveknp/223116491854",
+   "https://biz.heraldcorp.com/article/3116125"
+  ],
+  "text": "- **⚠️ Two things still cost money:** **parking ₩1,000** (small car; ₩2,000 large), and the **Bulguksa Museum inside the grounds is a separate ₩2,000.**",
+  "verdict": "verified"
+ },
+ "gyeongju.md#4:7eeb1a0359": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "gyeongju.md",
+  "kind": "ACCESS",
+  "note": "Bulguksa: hedge 'verify seasonal hours' resolved -> 09:00-18:00 daily year-round, FREE. Confirmed the W6,000 figure still circulating (incl. a 2026 listing) is PRE-2023 and stale: 65 Jogye temples went free 2023-05-04. Added the two real costs the entry missed: parking W1,000 and the Bulguksa Museum inside at a separate W2,000. bulguksa.or.kr 500s.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/iloveknp/223116491854",
+   "https://biz.heraldcorp.com/article/3116125"
+  ],
   "text": "- **What:** Major Silla Buddhist temple forming one World Heritage property with Seokguram.",
-  "verdict": "unchecked"
+  "verdict": "verified"
+ },
+ "gyeongju.md#4:b05f3aced2": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "gyeongju.md",
+  "kind": "SOURCE",
+  "note": "Bulguksa: hedge 'verify seasonal hours' resolved -> 09:00-18:00 daily year-round, FREE. Confirmed the W6,000 figure still circulating (incl. a 2026 listing) is PRE-2023 and stale: 65 Jogye temples went free 2023-05-04. Added the two real costs the entry missed: parking W1,000 and the Bulguksa Museum inside at a separate W2,000. bulguksa.or.kr 500s.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/iloveknp/223116491854",
+   "https://biz.heraldcorp.com/article/3116125"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [UNESCO — Bulguksa & Seokguram](https://whc.unesco.org/en/list/736/) · [Korea National Park Service — free-admission notice](https://m.blog.naver.com/iloveknp/223116491854) *(`bulguksa.or.kr` returned HTTP 500 on Aug 18 — retry later)*",
+  "verdict": "sourced"
+ },
+ "gyeongju.md#4:c95e9d2a1b": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "gyeongju.md",
+  "kind": "PRICE",
+  "note": "Bulguksa: hedge 'verify seasonal hours' resolved -> 09:00-18:00 daily year-round, FREE. Confirmed the W6,000 figure still circulating (incl. a 2026 listing) is PRE-2023 and stale: 65 Jogye temples went free 2023-05-04. Added the two real costs the entry missed: parking W1,000 and the Bulguksa Museum inside at a separate W2,000. bulguksa.or.kr 500s.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/iloveknp/223116491854",
+   "https://biz.heraldcorp.com/article/3116125"
+  ],
+  "text": "- **Hours/price:** **09:00–18:00 daily, year-round, and admission is FREE.** Bulguksa charged ₩6,000 until the heritage-temple law changed on **May 4, 2023** — ignore any source still quoting that, it is stale by three years.",
+  "verdict": "verified"
  },
  "gyeongju.md#4:de2096e408": {
   "checked_on": null,
@@ -5420,6 +5563,7 @@
   "file": "gyeongju.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official sources (reviewed Aug 17):** [UNESCO](https://whc.unesco.org/en/list/736/) · [Bulguksa](https://www.bulguksa.or.kr)",
   "verdict": "unchecked"
@@ -5430,9 +5574,24 @@
   "file": "gyeongju.md",
   "kind": "DATE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Temple entry is free following the 2023 heritage-temple admission change; parking and special facilities may charge. Verify seasonal hours.",
   "verdict": "unchecked"
+ },
+ "gyeongju.md#4:fd8015da4f": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "gyeongju.md",
+  "kind": "PROSE",
+  "note": "Bulguksa: hedge 'verify seasonal hours' resolved -> 09:00-18:00 daily year-round, FREE. Confirmed the W6,000 figure still circulating (incl. a 2026 listing) is PRE-2023 and stale: 65 Jogye temples went free 2023-05-04. Added the two real costs the entry missed: parking W1,000 and the Bulguksa Museum inside at a separate W2,000. bulguksa.or.kr 500s.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/iloveknp/223116491854",
+   "https://biz.heraldcorp.com/article/3116125"
+  ],
+  "text": "- **⚠️ Lots of steep stone steps** — the famous Cheongungyo/Baegungyo staircases are the whole point architecturally, but this is not a flat site. Allow 1.5–2 hrs at a relaxed pace.",
+  "verdict": "prose"
  },
  "gyeongju.md#5:0fe3e31985": {
   "checked_on": null,
@@ -5440,29 +5599,75 @@
   "file": "gyeongju.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** General heritage-temple entry is free; parking and shuttle transport are separate. Verify last entry.",
   "verdict": "unchecked"
  },
+ "gyeongju.md#5:58b44a30d4": {
+  "checked_on": "2026-08-17",
+  "entry": 5,
+  "file": "gyeongju.md",
+  "kind": "PRICE",
+  "note": "Seokguram: free since 2023-05-04, 09:00-18:00. Parking W2,000 charged ON EXIT (higher than Bulguksa). KEY ADDITION: you view the Buddha through GLASS from an antechamber - interior sealed for conservation, no walking around the statue, no photography. Access via bus 12 shuttle from Bulguksa.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/shlej6/223122748555"
+  ],
+  "text": "- **Hours/price:** **09:00–18:00 daily. Free** since May 4, 2023 (previously ₩6,000). **Parking ₩2,000** for a car — note this is charged **on the way out**, and it is higher than Bulguksa's.",
+  "verdict": "verified"
+ },
  "gyeongju.md#5:61904fbb79": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 5,
   "file": "gyeongju.md",
   "kind": "SOURCE",
-  "note": "",
-  "sources": [],
+  "note": "Seokguram: free since 2023-05-04, 09:00-18:00. Parking W2,000 charged ON EXIT (higher than Bulguksa). KEY ADDITION: you view the Buddha through GLASS from an antechamber - interior sealed for conservation, no walking around the statue, no photography. Access via bus 12 shuttle from Bulguksa.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/shlej6/223122748555"
+  ],
   "text": "- **Official sources (reviewed Aug 17):** [UNESCO](https://whc.unesco.org/en/list/736/) · [Gyeongju Tourism](https://www.gyeongju.go.kr/tour/)",
-  "verdict": "unchecked"
+  "verdict": "sourced"
+ },
+ "gyeongju.md#5:9cfdcd6896": {
+  "checked_on": "2026-08-17",
+  "entry": 5,
+  "file": "gyeongju.md",
+  "kind": "PROSE",
+  "note": "Seokguram: free since 2023-05-04, 09:00-18:00. Parking W2,000 charged ON EXIT (higher than Bulguksa). KEY ADDITION: you view the Buddha through GLASS from an antechamber - interior sealed for conservation, no walking around the statue, no photography. Access via bus 12 shuttle from Bulguksa.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/shlej6/223122748555"
+  ],
+  "text": "- **⚠️ You view the Buddha through glass, from an antechamber** — the grotto interior is sealed for conservation and you cannot walk around the statue. Knowing this in advance prevents real disappointment; people expect to enter and cannot.",
+  "verdict": "prose"
  },
  "gyeongju.md#5:e8bff0bcde": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 5,
   "file": "gyeongju.md",
   "kind": "ACCESS",
-  "note": "",
-  "sources": [],
+  "note": "Seokguram: free since 2023-05-04, 09:00-18:00. Parking W2,000 charged ON EXIT (higher than Bulguksa). KEY ADDITION: you view the Buddha through GLASS from an antechamber - interior sealed for conservation, no walking around the statue, no photography. Access via bus 12 shuttle from Bulguksa.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/shlej6/223122748555"
+  ],
   "text": "- **What:** Eighth-century Buddhist grotto on Tohamsan, managed with restricted interior viewing to protect the sculpture.",
-  "verdict": "unchecked"
+  "verdict": "verified"
+ },
+ "gyeongju.md#5:ebc2a3daa1": {
+  "checked_on": "2026-08-17",
+  "entry": 5,
+  "file": "gyeongju.md",
+  "kind": "PROSE",
+  "note": "Seokguram: free since 2023-05-04, 09:00-18:00. Parking W2,000 charged ON EXIT (higher than Bulguksa). KEY ADDITION: you view the Buddha through GLASS from an antechamber - interior sealed for conservation, no walking around the statue, no photography. Access via bus 12 shuttle from Bulguksa.",
+  "sources": [
+   "https://whc.unesco.org/en/list/736/",
+   "https://m.blog.naver.com/shlej6/223122748555"
+  ],
+  "text": "- **Getting there:** it is high on Tohamsan, well above Bulguksa. **Bus 12 shuttles up from Bulguksa** and is the usual way; the walk is a steep ~2.5 km mountain path. **No photography inside.**",
+  "verdict": "prose"
  },
  "gyeongju.md#6:816fbf19a8": {
   "checked_on": null,
@@ -5495,24 +5700,52 @@
   "verdict": "unchecked"
  },
  "gyeongju.md#7:49cb3e0e01": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 7,
   "file": "gyeongju.md",
   "kind": "ACCESS",
-  "note": "",
-  "sources": [],
+  "note": "Cheomseongdae: free, no gate, city lists 09:00-22:00 (21:00 winter), open daily. Added the floodlighting sunset-22:00 and the November sunset time (~17:20-17:30) so the reader knows the lit view is available early evening.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
   "text": "- **What:** Seventh-century stone astronomical structure in the Wolseong heritage district.",
-  "verdict": "unchecked"
+  "verdict": "verified"
+ },
+ "gyeongju.md#7:764d55b6e3": {
+  "checked_on": "2026-08-17",
+  "entry": 7,
+  "file": "gyeongju.md",
+  "kind": "TIME",
+  "note": "Cheomseongdae: free, no gate, city lists 09:00-22:00 (21:00 winter), open daily. Added the floodlighting sunset-22:00 and the November sunset time (~17:20-17:30) so the reader knows the lit view is available early evening.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
+  "text": "- **💡 Come after dark.** The **floodlighting runs from sunset to 22:00**, and in November sunset is around 17:20–17:30 — so the lit view is available early in the evening, and it is the better photograph. The surrounding field is a short walk from Daereungwon (#6), so the two chain naturally.",
+  "verdict": "verified"
  },
  "gyeongju.md#7:816fbf19a8": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 7,
   "file": "gyeongju.md",
   "kind": "SOURCE",
-  "note": "",
-  "sources": [],
+  "note": "Cheomseongdae: free, no gate, city lists 09:00-22:00 (21:00 winter), open daily. Added the floodlighting sunset-22:00 and the November sunset time (~17:20-17:30) so the reader knows the lit view is available early evening.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
   "text": "- **Official source (reviewed Aug 17):** [Gyeongju Tourism — heritage](https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2304)",
-  "verdict": "unchecked"
+  "verdict": "sourced"
+ },
+ "gyeongju.md#7:8a943aa833": {
+  "checked_on": "2026-08-17",
+  "entry": 7,
+  "file": "gyeongju.md",
+  "kind": "TIME",
+  "note": "Cheomseongdae: free, no gate, city lists 09:00-22:00 (21:00 winter), open daily. Added the floodlighting sunset-22:00 and the November sunset time (~17:20-17:30) so the reader knows the lit view is available early evening.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
+  "text": "- **Hours/price:** **Free, and there is no gate** — you view it from the surrounding lawn at any hour. The city lists 09:00–22:00 (**to 21:00 in winter**), open every day of the year.",
+  "verdict": "verified"
  },
  "gyeongju.md#7:e4c76edadd": {
   "checked_on": null,
@@ -5520,19 +5753,58 @@
   "file": "gyeongju.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Exterior viewing is free; surrounding paths are public.",
   "verdict": "unchecked"
  },
+ "gyeongju.md#8:3f38aa3668": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "gyeongju.md",
+  "kind": "PRICE",
+  "note": "Donggung/Wolji: 'ticketed, verify' resolved -> W3,000/W2,000/W1,000, 09:00-22:00 with ticket office to 21:30, free parking, card OK. Added Nov sunset ~17:20-17:30 and the magic-hour timing, plus left luggage at the ticket office.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
+  "text": "- **Hours/price:** **₩3,000 adult · ₩2,000 youth/military · ₩1,000 child.** **09:00–22:00, ticket office closes 21:30.** Open year-round. **Parking next door is free.** Card accepted at the unmanned ticket machines.",
+  "verdict": "verified"
+ },
+ "gyeongju.md#8:425d6fda03": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "gyeongju.md",
+  "kind": "TIME",
+  "note": "Donggung/Wolji: 'ticketed, verify' resolved -> W3,000/W2,000/W1,000, 09:00-22:00 with ticket office to 21:30, free parking, card OK. Added Nov sunset ~17:20-17:30 and the magic-hour timing, plus left luggage at the ticket office.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
+  "text": "- **✅ This is Gyeongju's best night view, and the late hours make it trip-proof** — you can do a full day elsewhere and still arrive after dark. **In November, sunset is ~17:20–17:30**, so aim for **around 17:30–18:00** to catch the \"magic hour\": the reflection of the lit pavilions in the pond with some blue still in the sky. The best 20–30 minutes are just after sunset.",
+  "verdict": "verified"
+ },
  "gyeongju.md#8:57cd075596": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 8,
   "file": "gyeongju.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Donggung/Wolji: 'ticketed, verify' resolved -> W3,000/W2,000/W1,000, 09:00-22:00 with ticket office to 21:30, free parking, card OK. Added Nov sunset ~17:20-17:30 and the magic-hour timing, plus left luggage at the ticket office.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
   "text": "- **What:** Excavated Silla palace garden and pond, especially popular after architectural lighting begins.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "gyeongju.md#8:66cd50a529": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "gyeongju.md",
+  "kind": "ACCESS",
+  "note": "Donggung/Wolji: 'ticketed, verify' resolved -> W3,000/W2,000/W1,000, 09:00-22:00 with ticket office to 21:30, free parking, card OK. Added Nov sunset ~17:20-17:30 and the magic-hour timing, plus left luggage at the ticket office.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
+  "text": "- **💡 Left luggage** is available at the ticket-office building — useful if you are day-tripping from Busan with bags.",
+  "verdict": "verified"
  },
  "gyeongju.md#8:a5ea59a5a0": {
   "checked_on": null,
@@ -5540,6 +5812,7 @@
   "file": "gyeongju.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Gyeongju Tourism](https://www.gyeongju.go.kr/tour/)",
   "verdict": "unchecked"
@@ -5550,9 +5823,22 @@
   "file": "gyeongju.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Ticketed; verify seasonal closing and last entry on the city facilities page.",
   "verdict": "unchecked"
+ },
+ "gyeongju.md#8:d8819277eb": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "gyeongju.md",
+  "kind": "SOURCE",
+  "note": "Donggung/Wolji: 'ticketed, verify' resolved -> W3,000/W2,000/W1,000, 09:00-22:00 with ticket office to 21:30, free parking, card OK. Added Nov sunset ~17:20-17:30 and the magic-hour timing, plus left luggage at the ticket office.",
+  "sources": [
+   "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Gyeongju City — Night View 10 Picks (hours, fares, lighting times)](https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556)",
+  "verdict": "sourced"
  },
  "gyeongju.md#9:1382c45409": {
   "checked_on": null,

@@ -41,12 +41,17 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 
 ### 4) 🛕 **Bulguksa Temple** — 🔎 VERIFIED UNESCO SITE
 - **What:** Major Silla Buddhist temple forming one World Heritage property with Seokguram.
-- **Hours/price:** Temple entry is free following the 2023 heritage-temple admission change; parking and special facilities may charge. Verify seasonal hours.
-- **Official sources (reviewed Aug 17):** [UNESCO](https://whc.unesco.org/en/list/736/) · [Bulguksa](https://www.bulguksa.or.kr)
+- **Hours/price:** **09:00–18:00 daily, year-round, and admission is FREE.** Bulguksa charged ₩6,000 until the heritage-temple law changed on **May 4, 2023** — ignore any source still quoting that, it is stale by three years.
+- **⚠️ Two things still cost money:** **parking ₩1,000** (small car; ₩2,000 large), and the **Bulguksa Museum inside the grounds is a separate ₩2,000.**
+- **⚠️ Lots of steep stone steps** — the famous Cheongungyo/Baegungyo staircases are the whole point architecturally, but this is not a flat site. Allow 1.5–2 hrs at a relaxed pace.
+- **💡 Pair it with Seokguram (#5)** — same mountain, same World Heritage listing, and the connecting shuttle makes a natural half-day.
+- **Official sources (reviewed Aug 18):** [UNESCO — Bulguksa & Seokguram](https://whc.unesco.org/en/list/736/) · [Korea National Park Service — free-admission notice](https://m.blog.naver.com/iloveknp/223116491854) *(`bulguksa.or.kr` returned HTTP 500 on Aug 18 — retry later)*
 
 ### 5) 🗿 **Seokguram Grotto** — 🔎 VERIFIED UNESCO SITE
 - **What:** Eighth-century Buddhist grotto on Tohamsan, managed with restricted interior viewing to protect the sculpture.
-- **Hours/price:** General heritage-temple entry is free; parking and shuttle transport are separate. Verify last entry.
+- **Hours/price:** **09:00–18:00 daily. Free** since May 4, 2023 (previously ₩6,000). **Parking ₩2,000** for a car — note this is charged **on the way out**, and it is higher than Bulguksa's.
+- **⚠️ You view the Buddha through glass, from an antechamber** — the grotto interior is sealed for conservation and you cannot walk around the statue. Knowing this in advance prevents real disappointment; people expect to enter and cannot.
+- **Getting there:** it is high on Tohamsan, well above Bulguksa. **Bus 12 shuttles up from Bulguksa** and is the usual way; the walk is a steep ~2.5 km mountain path. **No photography inside.**
 - **Official sources (reviewed Aug 17):** [UNESCO](https://whc.unesco.org/en/list/736/) · [Gyeongju Tourism](https://www.gyeongju.go.kr/tour/)
 
 ### 6) ⚰️ **Daereungwon Tomb Complex and Cheonmachong** — 🔎 VERIFIED HERITAGE PLACE
@@ -56,13 +61,16 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 
 ### 7) 🔭 **Cheomseongdae** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Seventh-century stone astronomical structure in the Wolseong heritage district.
-- **Hours/price:** Exterior viewing is free; surrounding paths are public.
+- **Hours/price:** **Free, and there is no gate** — you view it from the surrounding lawn at any hour. The city lists 09:00–22:00 (**to 21:00 in winter**), open every day of the year.
+- **💡 Come after dark.** The **floodlighting runs from sunset to 22:00**, and in November sunset is around 17:20–17:30 — so the lit view is available early in the evening, and it is the better photograph. The surrounding field is a short walk from Daereungwon (#6), so the two chain naturally.
 - **Official source (reviewed Aug 17):** [Gyeongju Tourism — heritage](https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2304)
 
 ### 8) 🌙 **Donggung Palace and Wolji Pond** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Excavated Silla palace garden and pond, especially popular after architectural lighting begins.
-- **Hours/price:** Ticketed; verify seasonal closing and last entry on the city facilities page.
-- **Official source (reviewed Aug 17):** [Gyeongju Tourism](https://www.gyeongju.go.kr/tour/)
+- **Hours/price:** **₩3,000 adult · ₩2,000 youth/military · ₩1,000 child.** **09:00–22:00, ticket office closes 21:30.** Open year-round. **Parking next door is free.** Card accepted at the unmanned ticket machines.
+- **✅ This is Gyeongju's best night view, and the late hours make it trip-proof** — you can do a full day elsewhere and still arrive after dark. **In November, sunset is ~17:20–17:30**, so aim for **around 17:30–18:00** to catch the "magic hour": the reflection of the lit pavilions in the pond with some blue still in the sky. The best 20–30 minutes are just after sunset.
+- **💡 Left luggage** is available at the ticket-office building — useful if you are day-tripping from Busan with bags.
+- **Official source (reviewed Aug 18):** [Gyeongju City — Night View 10 Picks (hours, fares, lighting times)](https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2556)
 
 ### 9) 🌉 **Woljeonggyo Bridge** — 🔎 VERIFIED HERITAGE RECONSTRUCTION
 - **What:** Reconstructed covered bridge across Namcheon, based on archaeological and documentary evidence.
@@ -81,8 +89,12 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 
 ### 12) 🏺 **Gyeongju National Museum** — 🔎 VERIFIED NATIONAL MUSEUM
 - **What:** Essential Silla collection including royal-tomb finds and the Divine Bell of King Seongdeok.
-- **Hours/price:** General admission is free; verify closure days and special-exhibition tickets.
-- **Official source (reviewed Aug 17):** [Gyeongju National Museum](https://gyeongju.museum.go.kr/eng/)
+- **Hours/price:** **10:00–18:00, last entry 17:30. Free** (permanent galleries, children's museum and most special exhibitions; a few ticketed specials are the exception).
+- **✅ NOT closed on Mondays.** Like Jeonju's, this national museum opens all week — the only fixed closures are **Jan 1, Seollal and Chuseok**, none of which fall in your window.
+- **⚠️ One caveat: a November "gallery rest day" Monday.** The museum takes an 임시휴실일 in March and November, on which **the indoor galleries shut but the gardens and outdoor exhibits stay open**. Its own pages disagree on whether it is the **first or second** Monday — i.e. **Mon Nov 2 or Mon Nov 9, 2026**. **If you are museum-bound on either Monday, phone ahead.**
+- **🌙 Saturday night opening applies during your trip:** open until **21:00 on Saturdays from March to December** — so **Sat Nov 7, 14 and 21**. The Divine Bell of King Seongdeok in the outdoor court is worth seeing lit.
+- **Free loan of strollers, wheelchairs and lockers.** Free on-site parking.
+- **Official sources (reviewed Aug 18):** [Gyeongju National Museum — visitor info](https://gyeongju.museum.go.kr/kor/html/sub01/0101.html) · [Gyeongju City listing](https://www.gyeongju.go.kr/tour/page.do?cmd=2&mnu_uid=2292&area_uid=48)
 
 ### 13) 🏛️ **Bunhwangsa and Hwangnyongsa site** — 🔎 VERIFIED HERITAGE WALK
 - **What:** Bunhwangsa’s stone pagoda and the excavated Hwangnyongsa temple complex/history hall.
