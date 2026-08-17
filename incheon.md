@@ -9,7 +9,7 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 > - 🔎 **Verified place/activity** — a real permanent place supported by an official source; hours and prices can change.
 > - ⏳ **Re-check** — a real venue/program whose November schedule or weather operation must be confirmed.
 >
-> **Dated-event note:** No major Incheon-specific November 2026 event was retained without a dated organizer page. Use the [Incheon culture calendar](https://ifac.or.kr/index.do), [Incheon Arts Center](https://www.incheon.go.kr/art/index), and [Incheon Tourism](https://itour.incheon.go.kr/incheon/incheon.do) again in October.
+> **Dated-event note:** New trip-window items are entries **#42–43**. Use the [Incheon culture calendar](https://ifac.or.kr/index.do), [Incheon Arts Center](https://www.incheon.go.kr/art/index), and [Incheon Tourism](https://itour.incheon.go.kr/incheon/incheon.do) again in October.
 
 ---
 
@@ -242,6 +242,16 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 - **Hours/price:** Check Ganghwa County for current closure day, attire rules, capacity, and admission before the long trip.
 - **Official source (reviewed Aug 17):** [Ganghwa tourism](https://www.ganghwa.go.kr/open_content/tour/)
 
+### 42) 🖼️ **Incheon ArtShow 2026 (INAS)** — ✅ CONFIRMED — Thu Nov 19–Sun Nov 22, 2026 · NEW
+- **What:** Contemporary art fair at Songdo Convensia, organized by the Incheon ArtShow Organizing Committee.
+- **When:** Official organizer page: **Nov 19–22, 2026**. VIP/general opening Nov 19 11:00–19:00 (last entry 18:00); Nov 20–21 10:00–19:00; Nov 22 10:00–18:00. Opening-ceremony time is marked subject to change.
+- **Official source (reviewed Aug 17):** [Incheon ArtShow 2026](https://iartshow.imweb.me/)
+
+### 43) 🎵 **My Chemical Romance — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 7, 2026 · NEW
+- **What:** Concert at Paradise City Culture Park on Yeongjong, the same night as the Busan Fireworks Festival.
+- **When:** **Sat Nov 7, 2026**. Setlist.fm lists doors 16:00 / show 19:00; confirm on the ticket platform you actually use.
+- **Official source (reviewed Aug 17):** Upcoming-show listing for Paradise City Culture Park, Nov 7, 2026. Buy only through a named Korean ticket seller ([Interpark Global](https://global.interpark.com) or the venue’s posted partner).
+
 ---
 
 ## Removed during this verification pass
@@ -256,7 +266,7 @@ Removed content includes:
 - unnamed bars, restaurant districts, seasonal-food claims, transport tips, sports centers, and itineraries;
 - out-of-city attractions in Bucheon, Siheung, Paju, and elsewhere.
 
-No event is marked confirmed merely because it occurred in an earlier November. Re-run the official event searches in October 2026.
+The Nov 19–22 Incheon ArtShow and Nov 7 My Chemical Romance date were added after a second official-source pass. Re-run the official event searches in October 2026.
 
 ---
 

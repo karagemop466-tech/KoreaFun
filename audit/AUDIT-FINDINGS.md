@@ -207,6 +207,22 @@ days after they fly home**. Both now say so explicitly.
 
 The repo now passes at **0 wrong weekdays, 0 stray dates**.
 
+---
+
+# ✅ Phase 3 — Core-file evidence rebuild (2026-08-17)
+
+The three files previously described as “core” were rebuilt under the same protocol as the nearby cities:
+
+| File | Before | After |
+|---|---|---|
+| `seoul.md` | 363 | **86** |
+| `busan.md` | 190 | **49** |
+| `daejeon-cheonan.md` | 210 | **44** |
+
+Unsupported 2026 locks removed from Seoul include the 2025 Seoul Forest 20th-anniversary festa, Beauty Travel Week dated Oct 29–Nov 4 (the 2026 Beauty Week that ran was August), a fabricated MMCA Artist-of-the-Year hang, and Mulbit Yeonhwa fall dates presented as confirmed without a current Heritage Service page. Busan fireworks Nov 7 was re-confirmed on the official countdown page. Daejeon Wine EXPO Nov 6–8 was re-confirmed on the official English homepage.
+
+Nearby-city expansion (no padding): Pohang Fire & Light Festival dates on VisitKorea; Incheon ArtShow + My Chemical Romance; Daegu Art Festival Part 2.
+
 ## Verification gates (all currently passing)
 
 ```

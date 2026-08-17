@@ -2,7 +2,7 @@
 
 This file was rebuilt on **August 17, 2026** from official city, venue/operator, museum, temple, heritage, club/league, and tourism sources. The former 88-entry version contained fabricated sites and foods, duplicates, out-of-city destinations, unsafe walk-in industry claims, and unannounced festivals.
 
-> No major November 2026 festival was retained without a dated organizer page. Re-check [Pohang Tourism](https://www.pohang.go.kr/phtour/index.do) and the [Pohang Cultural Foundation](https://phcf.or.kr/) in October. 🔎 = verified · ⏳ = schedule/weather dependent.
+> 🔎 = verified · ⏳ = schedule/weather dependent. Re-check [Pohang Tourism](https://www.pohang.go.kr/phtour/index.do) and the [Pohang Cultural Foundation](https://phcf.or.kr/) in October. New trip-window item: entry **#29**.
 
 ---
 
@@ -166,9 +166,18 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ---
 
+## Dated during the trip
+
+### 29) 🎆 **Pohang International Fire & Light Festival** — ⏳ DATES ON VISITKOREA 2026 CALENDAR — Fri Nov 20–Sun Nov 22, 2026 · NEW
+- **What:** Pohang’s recurring fireworks and light festival at Yeongildae Beach and related city sites. VisitKorea’s 2026 festival calendar lists **Nov 20–22, 2026**. The same page still says program copy is from **2025** and that 2026 content is being updated — so treat the show lineup as unconfirmed.
+- **Price:** Listed free on the VisitKorea festival page.
+- **Official sources (reviewed Aug 17):** [VisitKorea festival page](https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8) · [Pohang Cultural Foundation festival site](https://festival.phcf.or.kr/fireWorks/intro.do)
+
+---
+
 ## Removed during this verification pass
 
-Removed fabricated museums, stone gates, temples, food items, cafe/bar districts, cable cars, winter-light events and boating claims; duplicate Homigot, POSCO, Guryongpo and coast entries; Ulleungdo, Yeongdeok, Andong, Goryeong and other out-of-city padding; generic weather, lodging, transport and itineraries; and unsafe claims of walk-in steelworks or laboratory tours. No prior-year fireworks, steel-art, music, or illumination festival is presented as a confirmed 2026 event.
+Removed fabricated museums, stone gates, temples, food items, cafe/bar districts, cable cars, winter-light events and boating claims; duplicate Homigot, POSCO, Guryongpo and coast entries; Ulleungdo, Yeongdeok, Andong, Goryeong and other out-of-city padding; generic weather, lodging, transport and itineraries; and unsafe claims of walk-in steelworks or laboratory tours. The 2026 Fire & Light Festival dates are now listed from VisitKorea (entry #29) but the detailed program is still last year’s. No other prior-year festival is presented as a 2026 event.
 
 ---
 

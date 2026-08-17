@@ -3,9 +3,9 @@
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
 A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> 🚧 **Evidence audit in progress (started Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. A parser can catch formatting, dates, and obvious duplicates, but it cannot prove that a place or event is real. The new [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 10 nearby-city files plus Myeong-dong are complete; the three core files remain a research queue and must not yet be treated as fully verified.**
+> 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 1,135 numbered sections. This is not a target or a quality claim. Counts will fall when padding and duplicates are removed, then rise only for newly researched, official-source entries. Run `python3 tools/verification_status.py` for current manual-review coverage.
+> **Current inventory:** 555 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan) plus a few newly sourced nearby-city November 2026 items. Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,36 +13,36 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**1,135 numbered sections** across 14 city files; manual verification ongoing)
+## 📂 What's in this repo (**555 numbered sections** across 14 city files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | **363 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
-| [`busan.md`](busan.md) | **190 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
-| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **210 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX), incl. the wider Chungcheong region |
+| [`seoul.md`](seoul.md) | **86 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources |
+| [`busan.md`](busan.md) | **49 numbered activity sections** for Busan — rebuilt Aug 17, 2026 against official sources |
+| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **44 numbered activity sections** for Daejeon & Cheonan (plus labeled Asan / Gongju / Buyeo day trips) |
 
 ### 🛍️ Neighborhood deep-dives (focused on Seoul districts)
 
 | File | What's inside |
 |---|---|
-| [`myeongdong.md`](myeongdong.md) | **36 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
+| [`myeongdong.md`](myeongdong.md) | **36 numbered activity sections** for **Myeong-dong** district — shopping, street food, cathedral, and nearby Jeong-dong / Namdaemun (Jung-gu) |
 
-### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities, **336 activity sections**)
+### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities)
 
 | File | Sections | Transit from Seoul | Best for |
 |---|---|---|---|
 | [`suwon.md`](suwon.md) | 37 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
 | [`yongin.md`](yongin.md) | 36 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
-| [`incheon.md`](incheon.md) | 41 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
+| [`incheon.md`](incheon.md) | 43 | AREX 60 min west | **Incheon Chinatown**, Songdo, ICN area, **Incheon ArtShow Nov 19–22** |
 | [`jeonju.md`](jeonju.md) | 35 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
-| [`daegu.md`](daegu.md) | 34 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
+| [`daegu.md`](daegu.md) | 35 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
 | [`gyeongju.md`](gyeongju.md) | 35 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
 | [`ulsan.md`](ulsan.md) | 29 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
-| [`pohang.md`](pohang.md) | 28 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
-| [`changwon-jinhae.md`](changwon-jinhae.md) | 29 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
-| [`yeosu.md`](yeosu.md) | 32 | KTX ~3h 20m direct (Yongsan→Yeosu-Expo) | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
+| [`pohang.md`](pohang.md) | 29 | KTX 2h 25 min southeast | **Space Walk**, Homigot, **Fire & Light Festival Nov 20–22** |
+| [`changwon-jinhae.md`](changwon-jinhae.md) | 29 | KTX 2h 50 min south | Jinhae harbor, Masan waterfront, Junam birds (cherry sites are off-season) |
+| [`yeosu.md`](yeosu.md) | 32 | KTX ~3h 20m **direct** Yongsan→Yeosu-Expo | **2026 World Island Exhibition** (closes Nov 4), Maritime Cable Car, Odongdo |
 
 ### 🧰 Guides, maps & data
 
@@ -75,7 +75,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 |---|---|---|---|
 | Sat Oct 31 | V-League 2026–27 season opens · K League 1 Final rounds begin | All cities / Seoul | ✅ |
 | Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) · **Busan Biennale closes Nov 1** | Seoul / Busan | ✅ |
-| Oct 31 – Nov 8 | **Changgyeonggung Mulbit Yeonhwa** (palace night media art — ₩1,000, no reservation) | Seoul | ✅ |
+| Oct 31 – Nov 8 | **Changgyeonggung Mulbit Yeonhwa** fall run (spring 2026 is confirmed; **fall dates still need a Heritage Service page**) | Seoul | ⏳ |
 | **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
 | **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (tastings at Hanbit Tower) | Daejeon | ✅ |

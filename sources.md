@@ -488,6 +488,22 @@ Official sources for the day-trip entries reaching beyond Daejeon and Cheonan in
 | Korea Meteorological Admin. | Autumn foliage front, sunset times | https://www.weather.go.kr |
 | Daejeon Tourism | City tourism portal, local food | https://daejeontour.co.kr |
 
+### Newly verified official sources (core-file rebuild, Aug 17, 2026)
+
+| Source | Official for | URL |
+|---|---|---|
+| Cafe Show Seoul | 25th Seoul Int’l Cafe Show (Nov 11–14, 2026, COEX) | https://eng.cafeshow.com/eng/cafeshow/summary.asp |
+| Incheon ArtShow Organizing Committee | Incheon ArtShow 2026 (Nov 19–22, Songdo Convensia) | https://iartshow.imweb.me/ |
+| Pohang Cultural Foundation festival site | Pohang International Fire & Light Festival | https://festival.phcf.or.kr/fireWorks/intro.do |
+| VisitKorea festival calendar | National festival date listings (program copy may lag a year) | https://korean.visitkorea.or.kr/kfes/ |
+| The Hyundai Seoul ALT.1 | BANKSY: Still Here venue page | https://thehyundaiseoul.ehyundai.com/culture/alt1 |
+| JTBC Seoul Marathon (EN) | Official English race page | http://en.marathon.jtbc.com/ |
+| Jason Mraz official | Asia 2026 tour dates including KINTEX Nov 14 | https://jasonmraz.com/asia-2026-tour/ |
+| YES24 Ticket | Kings of Convenience, Sejong Center, Nov 18 | https://ticket.yes24.com/English/Perf/59136 |
+| NOL Ticket | Jujutsu Kaisen in Concert, Kyung Hee, Nov 7–8 | https://world.nol.com/en/ticket/places/17000488/products/26006618 |
+| Daejeon International Wine EXPO (EN) | Official 2026 dates Nov 6–8 (companion events Nov 1–8) | https://www.djwinefair.com/eng |
+| Daegu Foundation for Culture & Arts | Municipal performance/exhibition search | https://dgfca.or.kr/event/search/list |
+
 ### Newly verified official sources (Aug 2026 pass)
 | Source | Official for | URL |
 |---|---|---|

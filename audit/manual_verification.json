@@ -32,8 +32,8 @@
   "incheon.md": {
     "status": "reviewed",
     "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed.",
-    "reviewer_notes": "No major November 2026 event was retained without a dated organizer page. Administrative district changes effective July 2026 and closed/suspended transport claims were accounted for."
+    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed. Second pass added two dated November 2026 items.",
+    "reviewer_notes": "Incheon ArtShow Nov 19–22 is on the organizer site. My Chemical Romance Nov 7 is a named Paradise City date. Administrative district changes effective July 2026 and closed/suspended transport claims were accounted for."
   },
   "gyeongju.md": {
     "status": "reviewed",
@@ -44,25 +44,43 @@
   "daegu.md": {
     "status": "reviewed",
     "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against dated venue, operator, city, museum, national park, temple, league, or tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
-    "reviewer_notes": "Five dated 2026 arts programs were confirmed. Seasonal illumination and sports remain explicitly schedule-dependent."
+    "scope": "All retained entries checked against dated venue, operator, city, museum, national park, temple, league, or tourism sources; fabricated, duplicate, generic, and out-of-city entries removed. Second pass added Daegu Art Festival Part 2 (Nov 17–22) from the municipal arts calendar.",
+    "reviewer_notes": "Five dated 2026 arts programs plus one municipal festival block were confirmed. Seasonal illumination and sports remain explicitly schedule-dependent."
   },
   "ulsan.md": {
     "status": "reviewed",
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against city, operator, museum, national park, temple, UNESCO, heritage, or league sources; fabricated, proposed/unbuilt, duplicate, generic, and out-of-city entries removed.",
-    "reviewer_notes": "No major trip-window festival was confirmed. Bangucheon World Heritage status was updated; cruises, factory tours, and sports remain schedule-dependent."
+    "reviewer_notes": "No major trip-window festival was confirmed. Bangucheon World Heritage status was updated; cruises, factory tours, and sports remain schedule-dependent. Club URL corrected to uhdfc.com."
   },
   "pohang.md": {
     "status": "reviewed",
     "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against city, venue/operator, museum, temple, club/league, university/research, or tourism sources; fabricated, duplicate, generic, unsafe-access, and out-of-city entries removed.",
-    "reviewer_notes": "No major trip-window event was confirmed. Steelworks and accelerator access require explicit official reservations; coastal operations remain weather-dependent."
+    "scope": "All retained entries checked against city, venue/operator, museum, temple, club/league, university/research, or tourism sources; fabricated, duplicate, generic, unsafe-access, and out-of-city entries removed. Second pass added the Fire & Light Festival dates listed on VisitKorea’s 2026 calendar.",
+    "reviewer_notes": "VisitKorea lists Nov 20–22, 2026 but still says 2026 program copy is being updated. Steelworks and accelerator access require explicit official reservations; coastal operations remain weather-dependent."
   },
   "changwon-jinhae.md": {
     "status": "reviewed",
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against dated venue, city, operator, museum, park, temple, club/league, or tourism sources; fabricated, duplicate, access-restricted, generic, and out-of-city entries removed.",
     "reviewer_notes": "One dated November concert and one official monthly screening series were confirmed. Naval Academy/base access and sports remain schedule-dependent; cherry sites are explicitly off-season."
+  },
+  "seoul.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against organizer, venue/operator, Seoul City/festival calendar, heritage, museum, league, or national-tourism sources. Semantic duplicates, generic venue types, out-of-city padding, and unsupported 2026 date locks were removed.",
+    "reviewer_notes": "BANKSY, JTBC Marathon, Outdoor Library, Han River History Tour (to Nov 15), Cafe Show, MMA, KGMA, Leeum, MMCA OLED, several concerts, and Seoul Autumn Festa are sourced. Mulbit Yeonhwa fall dates, kimjang, Sale FESTA, and sports kickoffs remain re-check. Myeong-dong detail stays in myeongdong.md."
+  },
+  "busan.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against organizer, operator, Visit Busan, district, museum, temple, league, or national-tourism sources. Duplicate coast/market/park entries and out-of-city day trips were removed.",
+    "reviewer_notes": "Fireworks Nov 7 is on the official countdown page. G-STAR Nov 19–22 and Biennale through Nov 1 are organizer-dated. Light-festival switch-on and league kickoffs remain re-check."
+  },
+  "daejeon-cheonan.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against organizer, city/tourism, museum, temple, park, league, or heritage sources. Duplicate local entries and far Chungcheong padding were removed. Asan, Gongju, and Buyeo are labeled day trips.",
+    "reviewer_notes": "Wine EXPO Nov 6–8 is on the official English homepage. Noodle festival and O-World chrysanthemums stay TBA. Cheonan City FC Nov 8 is listed as check-the-match-center."
   }
 }
