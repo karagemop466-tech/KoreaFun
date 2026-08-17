@@ -616,3 +616,58 @@ Worked the top of that list:
 
 Pattern holding at 89 entries: still zero fabrications. The recurring defect
 is omission of the one detail that changes whether you get in.
+
+## Pass 17 — the "wrong season / wrong closure / silently paid" cluster
+
+Three defect types dominated this pass, all variants of the same thing:
+**an entry states a fact that is true at some other time of year, or for
+some other visitor.**
+
+### 1. Seasonal hours quoted from the wrong season
+- **jeonju #8 Hyanggyo** — entry said 09:00–18:00. That is the *summer*
+  (Mar–Oct) schedule. November runs **10:00–17:00**. A 09:15 arrival in
+  November would find a locked gate. Bonus: the 400-year-old ginkgos peak
+  early-to-mid November, i.e. precisely during this trip — the entry never
+  said why you'd go.
+- **suwon #14 archery** (Pass 16) — same shape: winter session list differs.
+
+Built a heuristic sweep for this: outdoor/heritage entries (fortress,
+palace, gate, hyanggyo, arboretum, village, trail…) that quote clock hours
+but contain no season marker. 36 such entries; the indoor museums among
+them are genuinely fixed-hours, so the residual risk is small but the
+query is worth re-running whenever entries are added.
+
+### 2. Closure rules that are wrong by omission
+- **incheon #13** — also closed **the day after any public holiday**.
+- **incheon #20** — Monday-holiday substitution rule.
+- **jeonju #21 Jeonju National Museum** — the opposite error: entry implied
+  a Monday closure, but it has **opened on Mondays since Jan 2017**. It is
+  one of the few Monday-proof sites in a city where the Hyanggyo, Fan
+  Culture Center and most else shut. Also: **Saturday night opening is
+  suspended**, though stale listings still advertise 21:00.
+- **suwon #19** — genuine source conflict: a museum-association page says
+  "first Monday of the month only", the city page and the museum say every
+  Monday. **Resolved in favour of the operator.**
+
+### 3. Hedged admission that reads as free
+- **suwon #19 / #20** — "confirm", "check current admission". Both are
+  **₩2,000**. A hedge is not neutral; a reader defaults to "probably free".
+- **suwon #27** — resolved to the same fare table as Ilwol, plus the useful
+  negative that **there is no combined ticket** and the two arboreta are on
+  opposite sides of the city.
+
+### 4. A season that ends before the trip begins
+**suwon #17** — the daily 11:00 Muye 24-gi demo runs year-round and is fine,
+but the *same page* shows the Sunday-only **Jangyongyeong guard ceremony
+ends Sun Oct 25 2026 — six days before arrival**. Reading the whole page
+rather than just the line that matched is what caught it.
+
+### Also this pass
+- **No public holidays fall in the trip window** (verified negative, now in
+  travel-basics). Every holiday-conditional closure rule in the repo is
+  therefore inert for this trip — worth stating once rather than
+  re-deriving per entry.
+- Deleted `tools/clash_check.py` (never got past a too-noisy draft).
+
+Running total: **96/570 verified, still zero fabrications.** The defect
+profile remains staleness and omission, not invention.
