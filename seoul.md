@@ -1511,6 +1511,7 @@ Korean musical theatre is huge and production values are world-class — note th
 - **Hours:** Daily **10:00–22:00**
 - **Price:** Free walk-in
 - **Official source:** [english.visitseoul.net](https://english.visitseoul.net) · Line 4 Myeongdong Station
+- **Beginner notes:** For 137 dedicated ways to experience this neighborhood (street food alleys, K-beauty flagships, Myeongdong Cathedral, NANTA Theater, hotels, etc.), see the dedicated [`myeongdong.md`](myeongdong.md) guide.
 - **Beginner notes:** Top spot for K-pop album shopping.
 
 ### 212) 🛍️ Ewha Fashion Street & Boutique Alleys — 🔁 daily

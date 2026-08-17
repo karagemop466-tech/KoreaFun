@@ -1,24 +1,52 @@
-# 🇰🇷 KoreaFun — Seoul · Busan · Daejeon/Cheonan
+# 🇰🇷 KoreaFun — Seoul · Busan · Daejeon/Cheonan + 10 nearby cities (13 cities)
 
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
 A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> ✅ **Info verified: August 2026.** All entries link to **official / government / league-sanctioned sources only** (260 verified official URLs). Anything that isn't officially announced yet is clearly marked **TBA** or **Watch** so you never confuse a guess with a fact.
+> ✅ **Info verified: August 2026.** Everything links to **official / government / league-sanctioned sources only**. Anything that isn't officially announced yet is clearly marked **TBA** or **Watch** so you never confuse a guess with a fact.
 
 ---
 
-## 📂 What's in this repo (443 Total Activity Sections)
+## 📂 What's in this repo (~1,500 Total Activity Sections)
+
+### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
 | [`seoul.md`](seoul.md) | **260 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
 | [`busan.md`](busan.md) | **103 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | **80 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX) |
+
+### 🛍️ Neighborhood deep-dives (focused on Seoul districts)
+
+| File | What's inside |
+|---|---|
+| [`myeongdong.md`](myeongdong.md) | **137 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
+
+### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 expanded cities, ~1,300 activity sections)
+
+| File | Sections | Transit from Seoul | Best for |
+|---|---|---|---|
+| [`suwon.md`](suwon.md) | 138 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
+| [`yongin.md`](yongin.md) | 130 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
+| [`incheon.md`](incheon.md) | 142 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
+| [`jeonju.md`](jeonju.md) | 136 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
+| [`daegu.md`](daegu.md) | 139 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
+| [`gyeongju.md`](gyeongju.md) | 142 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
+| [`ulsan.md`](ulsan.md) | 139 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
+| [`pohang.md`](pohang.md) | 135 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
+| [`changwon-jinhae.md`](changwon-jinhae.md) | 140 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
+| [`yeosu.md`](yeosu.md) | 136 | KTX 2h 50 min + Suncheon transfer | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
+
+### 🧰 Guides, maps & data
+
+| File | What's inside |
+|---|---|
 | [`walking-maps.md`](walking-maps.md) | **Self-guided 1-day walking & food maps** for Seoul, Busan, Daejeon & Cheonan |
 | [`travel-basics.md`](travel-basics.md) | Beginner logistics: K-ETA exemption, WOWPASS, Climate Card, KTX, tickets, apps, weather |
 | [`itinerary.md`](itinerary.md) | **Day-by-day skeleton plan (Oct 31 → Nov 22) + booking-deadline calendar** |
-| [`sources.md`](sources.md) | Master list of every official website used in this repo (260 verified URLs) |
-| [`events.csv`](events.csv) | Machine-readable database table with 110 structured event entries |
+| [`sources.md`](sources.md) | Master list of every official website used in this repo (verified URLs) |
+| [`events.csv`](events.csv) | Machine-readable database table with structured event entries |
 
 ---
 
@@ -81,10 +109,25 @@ Prices are in ₩ (KRW) with approximate USD at **~₩1,400 = $1** (mid-2026 bal
 
 ## 🗺️ Getting between cities (spoiler: it's easy)
 
+### Core route (your main itinerary)
 - **Seoul ↔ Daejeon** — KTX high-speed train ≈ **50 min**
 - **Seoul ↔ Cheonan** — KTX ≈ **35–45 min**
 - **Seoul ↔ Busan** — KTX ≈ **2.5 hrs** (about 1 hr by plane from Gimpo/Gimhae)
-- Book ahead at [letskorail.com](https://www.letskorail.com) (official KORAIL site) or [korailtravel.com](https://www.korailtravel.com) (KR Pass for foreigners). Details in [`travel-basics.md`](travel-basics.md).
+- **Daejeon ↔ Cheonan** — Subway/ITX ≈ 30–40 min
+
+### Day trips from each base (the 10 nearby cities)
+- **Seoul → Suwon** — KTX ≈ 30 min
+- **Seoul → Yongin** — Giheung Everline ≈ 60 min (single transfer)
+- **Seoul → Incheon** — AREX ≈ 60 min (or subway Line 1 direct)
+- **Seoul → Jeonju** — KTX via Iksan ≈ 2 hr
+- **Seoul → Daegu** — KTX ≈ 1 hr 50 min
+- **Seoul → Gyeongju** — KTX ≈ 2 hr 15 min
+- **Seoul → Ulsan** — KTX ≈ 2 hr 30 min
+- **Seoul → Pohang** — KTX ≈ 2 hr 25 min
+- **Seoul → Changwon** — KTX ≈ 2 hr 50 min (transfer at Busan if going direct)
+- **Seoul → Yeosu** — KTX + transfer via Suncheon ≈ 3 hr 40 min
+
+**Most efficient KTX booking:** [letskorail.com](https://www.letskorail.com) (official KORAIL site) or [korailtravel.com](https://www.korailtravel.com) (KR Pass for foreigners). Detailed routes in each city's `[city].md` file. General logistics in [`travel-basics.md`](travel-basics.md).
 
 ---
 
