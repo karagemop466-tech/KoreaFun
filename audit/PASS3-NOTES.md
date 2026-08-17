@@ -299,3 +299,59 @@ Counts: total 565 → 570. events.csv 168 → 174 rows.
 - `kh.or.kr/cont/view/fest/month/menu/210?searchDate=202611` — service-error page. The month calendar
   needs a valid `idx`; the durable source is the per-palace CMS page `cms/content/view/1526`.
 - `mfph.kr` 404 (from Pass 7) unchanged.
+
+---
+
+## Pass 10 — hallucination hunt inside already-✅ content (price/phone claims)
+
+Earlier passes all asked the same question: *"can I promote this ⏳ entry to ✅?"* That question never
+re-examines material already marked good. Pass 10 inverts it: **take the falsifiable claims the repo
+already asserts as fact and try to break them.** Two claim types are cheap to falsify — prices and
+phone numbers — so those were swept exhaustively (`grep '₩[0-9]'` → 50 hits; a phone-format grep → 10).
+
+The hit rate was alarming. **Seven of the ~12 hard claims checked were wrong**, and every one of them
+sat in a file no pass had ever audited, because `walking-maps.md` and `travel-basics.md` contain no
+`### N)` entries and so are invisible to the per-entry verification protocol.
+
+### Corrections made
+
+| Claim | Repo said | Actually | Source |
+|---|---|---|---|
+| N Seoul Tower observatory | ₩21,000 | **₩29,000** / ₩23,000 child-senior | `nseoultower.co.kr/visit/use2.asp` |
+| Seoul Sky (Lotte World Tower) | ₩31,000 | **₩33,000** / ₩29,000 youth-senior | `seoulsky.lotteworld.com/price/info/ticket` |
+| Songdo Marine Cable Car | ₩17,000 / ₩22,000 crystal | **₩19,000 / ₩24,000** | `busanaircruise.co.kr` price panel |
+| Hanbit Tower observatory | ₩2,500 | **free since June 2021** | Daejeon Marketing Corp. announcement |
+| The Art Space 193 | ₩15,000, presented as open | **현재 미운영 — not currently operating** | Shinsegae store page `storeCd=SC00060` |
+| BANKSY: Still Here | ₩18,000 adult | **₩23,000 adult**; ₩18,000 is the 3–18 rate | Interpark/NOL + YES24 ticket notices |
+| Museum Kimchikan class | "~₩16,000" stated flatly | unverifiable — now flagged, base fees added | kimchimuseum listings |
+
+Verified-correct and left alone (now carrying hours as well): Namsan Cable Car ₩15,000/₩12,000;
+Busan Tower ₩12,000/₩9,000 (rebranded *Busan Diamond Tower*); Gyeongbokgung/Changdeokgung ₩3,000
+(+₩5,000 Huwon); Gwangjang Market street-food ballparks; Cheonan City FC **Sun Nov 8, 14:00 vs Busan
+IPark** (K League 2 R32 — the fixture is real).
+
+**Palace-fee warning for future passes:** the National Heritage Agency announced on Aug 5 2026 that it
+will publish a new palace/tomb fee schedule **in November 2026**, effective **Jan 1 2027**. The ₩3,000
+prices are correct *for this trip* but will be stale immediately after it. Do not "helpfully" update
+them to a rumoured number — nothing is published yet.
+
+### A date claim the guides asserted but the city file forbade
+
+`walking-maps.md` billed Hanbit Plaza as the "anchor site for … Noodle Festival **Nov 7–9**", and
+`itinerary.md` built Day 8 around a "⏳ Nov 7–9 pattern". But `daejeon-cheonan.md` #4 explicitly says
+2025 ran Nov 7–9 and **"do not copy that weekend into 2026"**. `noodle-dj.com` re-fetched this pass is
+still titled *2025 누들대전축제* with 2025-dated programme blocks. The caveat had been written once, in
+the city file, and then quietly contradicted by the two files a traveller actually reads on the day.
+Both now state the dates are unannounced.
+
+### Method note carried forward
+
+An official page can itself be wrong (Pass 10's yongin #9: the city portal prints the malformed phone
+number `031-6193-4796`; the museum's real number is **031-324-4796**, corroborated across four
+independent sources). Where the repo faithfully copied an upstream error, the entry now documents the
+error rather than silently substituting the right value.
+
+**Structural lesson:** verification coverage was being measured in ✅ badges, but the badge system only
+covers `### N)` entries. The two guide files that carry the most day-of-operational detail
+(`walking-maps.md`, `travel-basics.md`) have no badges and had therefore never been checked once.
+`travel-basics.md` (8 remaining ₩ claims) is the next target.

@@ -69,7 +69,8 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 ### 9) ⚽ **Together, Kick Off: Our Football City Yongin** — ✅ CONFIRMED — through Dec 6, 2026 · NEW
 - **What:** Municipal exhibition at Yongin City Museum about the city’s football culture.
 - **When:** **Mar 20–Dec 6, 2026** — confirmed on the city's event portal, which lists this as the single current exhibition-type event in Yongin.
-- **Where/price:** **Yongin City Museum** (용인시박물관). Tel 031-6193-4796. Municipal museum, normally free or nominal.
+- **Where/price:** **Yongin City Museum** (용인시박물관), 경기도 용인시 기흥구 동백3로 79 (opposite Dongbaek Library). **Free admission.** Open **Tue–Sun 09:00–18:00; closed Mondays**, Jan 1, and Seollal/Chuseok holidays.
+- **⚠️ Phone-number note (Aug 17):** Yongin's event portal prints the contact as `031-6193-4796`, which is **not a valid Korean number** (the 031 area code does not take a 4-digit exchange in that form) — it appears to be a typo on the city's own listing. The museum's actual number, consistent across VisitKorea's accessibility database, Gyeonggi Cultural Foundation and the city's own tourism blog, is **031-324-4796**.
 - **Context:** Yongin is a genuine football town — it hosts Yongin FC and the Yongin Mireu Stadium — so this is a local-pride exhibition rather than a general sports-history show.
 - **Official source (reviewed Aug 17):** [Yongin City event detail](https://www.yongin.go.kr/user/web/eventyt/BD_selectClturEventPfmcyt.do?q_clCode=2&q_esn=473)
 

@@ -2,7 +2,7 @@
 
 Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan, and Daejeon/Cheonan**. Each map bundles top sights, street food, cafes, and transportation with time-stamped schedules.
 
-> ✅ **Info verified: August 4, 2026.** Prices in ₩ (~₩1,400 = $1 USD). All links point to official sources verified in [`sources.md`](sources.md).
+> ✅ **Info verified: August 4, 2026.** Admission prices re-checked against official operator pages on **August 18, 2026** (Seoul Sky, N Seoul Tower, Namsan Cable Car, Banksy/ALT.1 corrected — see `audit/PASS3-NOTES.md`, Pass 10). Prices in ₩ (~₩1,400 = $1 USD). All links point to official sources verified in [`sources.md`](sources.md).
 
 ---
 
@@ -28,7 +28,7 @@ Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan,
 - **09:30 AM — Gyeongbokgung Palace & Royal Guard Ceremony**
   - Enter Gyeongbokgung Palace ([royal.khs.go.kr](https://royal.khs.go.kr); ₩3,000 adult, **free if wearing hanbok**; closed Tuesdays). Catch the official **Royal Guard Changing Ceremony at 10:00 AM** at Gwanghwamun Gate.
 - **11:30 AM — Museum Kimchikan (Insadong)**
-  - Walk 10 min to Insadong-gil. Visit Museum Kimchikan ([kimchikan.com](http://www.kimchikan.com); ₩5,000 admission, 40-min hands-on kimchi class ~₩16,000, closed Mondays).
+  - Walk 10 min to Insadong-gil. Visit Museum Kimchikan ([kimchikan.com](https://www.kimchikan.com); ₩5,000 adult / ₩3,000 student / ₩2,000 preschool, closed Mondays; hands-on kimchi class is a separate paid add-on — **confirm its current fee with the museum, the ~₩16,000 figure here is unverified**).
 - **01:00 PM — Lunch & Bukchon Hanok Village Walk**
   - Walk up through Anguk to Bukchon Hanok Village and Samcheong-dong. Grab lunch (traditional kalguksu or samgyetang). Explore preserved Joseon-era hanok alleys and craft shops.
 - **03:00 PM — Changdeokgung Palace & Secret Garden (Huwon)**
@@ -48,7 +48,7 @@ Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan,
 
 ### 🚶 Step-by-Step Itinerary
 - **10:00 AM — Yeouido & The Hyundai Seoul ALT.1**
-  - Stroll Yeouido Park and explore The Hyundai Seoul ([thehyundai.com](https://www.thehyundai.com)). Visit the ALT.1 gallery for the *BANKSY: Still Here* exhibition (through Nov 3; ₩18,000 adult) or rooftop indoor garden *Sound Forest*.
+  - Stroll Yeouido Park and explore The Hyundai Seoul ([thehyundai.com](https://www.thehyundai.com)). Visit the ALT.1 gallery for the *BANKSY: Still Here* exhibition (Jul 22 – **Nov 3**, so it only overlaps Oct 31–Nov 3 of this trip; **₩23,000 adult / ₩18,000 age 3–18**; Mon–Thu 10:00–20:00, Fri–Sun & holidays to 20:30, closed on department-store closure days) or rooftop indoor garden *Sound Forest*.
 - **01:00 PM — Han River Cruise or River Bus**
   - Walk to Yeouido Dock for an Eland Han River Cruise ([elandcruise.com](https://www.elandcruise.com); ~₩20,000–30,000) or ride the commuter Han River Bus ([hgbus.co.kr](https://www.hgbus.co.kr)) along the riverbank.
 - **03:00 PM — Seongsu-dong Cafe Street & Pop-Up Shops**
@@ -56,7 +56,7 @@ Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan,
 - **06:00 PM — Jamsil Seokchon Lake Foliage Walk**
   - Take Line 2 to Jamsil Station. Stroll around Seokchon Lake Park surrounding Lotte World Magic Island for peak autumn maple reflections.
 - **07:30 PM — Seoul Sky (Lotte World Tower 117F–123F)**
-  - Ascend the 555m Lotte World Tower via the 600m/min Sky Shuttle elevator to Seoul Sky ([seoulsky.lotteworld.com](https://seoulsky.lotteworld.com); ₩31,000 adult). Stand on the 478m glass-floor Sky Deck and admire 360° night panoramas of Seoul.
+  - Ascend the 555m Lotte World Tower via the 600m/min Sky Shuttle elevator to Seoul Sky ([seoulsky.lotteworld.com](https://seoulsky.lotteworld.com/price/info/ticket); **₩33,000 adult / ₩29,000 youth-senior**, verified Aug 18 2026). Stand on the 478m glass-floor Sky Deck and admire 360° night panoramas of Seoul.
 
 ---
 
@@ -70,9 +70,9 @@ Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan,
 - **11:00 AM — Myeongdong Shopping & Kalguksu**
   - Explore Myeongdong shopping street. Enjoy lunch at Myeongdong Kyoja (famous Michelin-bib-gourmand chopped noodles & dumplings).
 - **01:00 PM — Namsan Orumi & Namsan Cable Car**
-  - Walk to Namsan Tunnel 3 entrance and ride the free inclined glass elevator (*Namsan Orumi*). Board the Namsan Cable Car ([cablecar.co.kr](https://www.cablecar.co.kr); ₩15,000 adult round-trip / ₩12,000 one-way) soaring over autumn foliage to the top of Mt. Namsan.
+  - Walk to Namsan Tunnel 3 entrance and ride the free inclined glass elevator (*Namsan Orumi*). Board the Namsan Cable Car ([cablecar.co.kr](https://www.cablecar.co.kr); ₩15,000 adult round-trip / ₩12,000 one-way; runs 10:00–23:00, last ticket 22:30) soaring over autumn foliage to the top of Mt. Namsan.
 - **02:30 PM — N Seoul Tower Observatory & Love Locks Plaza**
-  - Visit the Love Locks Plaza and ascend N Seoul Tower Observatory ([seoultower.co.kr](https://www.seoultower.co.kr); ₩21,000 adult). Check the air quality via the tower's evening LED illumination color scheme.
+  - Visit the Love Locks Plaza and ascend N Seoul Tower Observatory ([nseoultower.co.kr](https://www.nseoultower.co.kr/visit/use2.asp); **₩29,000 adult / ₩23,000 child-senior**, verified Aug 18 2026). Check the air quality via the tower's evening LED illumination color scheme.
 - **04:30 PM — Scenic Foliage Hike Down Namsan Park to Itaewon**
   - Hike down the wooden stair paths through Namsan Park's maple forest (or take Yellow Bus 01) toward Itaewon / Hannam-dong.
 - **06:00 PM — Leeum Museum of Art & Hannam Dining**
@@ -110,13 +110,13 @@ Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan,
 - **09:30 AM — Gamcheon Culture Village**
   - Take Line 1 to Toseong Stn, then local bus Saha 1-1 to Gamcheon Culture Village ([english.visitbusan.net](https://english.visitbusan.net)). Walk through colorful terraced hillside alleys, murals, and Little Prince photo spots.
 - **12:00 PM — Songdo Marine Cable Car**
-  - Take a short taxi/bus to Songdo Beach. Ride the Songdo Marine Cable Car ([busanaircruise.co.kr](http://busanaircruise.co.kr); ₩17,000 adult round-trip / ₩22,000 glass-floor Crystal Cabin) soaring over the ocean to Songdo Sky Park & Suspension Bridge.
+  - Take a short taxi/bus to Songdo Beach. Ride the Songdo Marine Cable Car ([busanaircruise.co.kr](https://busanaircruise.co.kr/info/price); **Air Cruise ₩19,000 adult round-trip / Crystal glass-floor ₩24,000**, one-way ₩15,000/₩19,000 — verified Aug 18 2026; runs 09:00–22:00, ticketing ends 30 min before close) soaring over the ocean to Songdo Sky Park & Suspension Bridge.
 - **02:30 PM — Jagalchi Fish Market & BIFF Square**
   - Take bus/subway to Jagalchi Station. Explore Jagalchi Market — Korea's largest seafood market. Pick fresh fish downstairs and have it cooked upstairs. Walk across to BIFF Square for famous *ssat씨앗 hotteok* (seed-stuffed sweet pancakes ~₩2,000).
 - **05:30 PM — Gwangbok-ro Escalators & Yongdusan Park**
   - Walk along Gwangbok-ro fashion street and ride the covered outdoor escalators up to Yongdusan Park. See the Statue of Admiral Yi Sun-sin and Citizens' Bell.
 - **07:00 PM — Busan Tower (Diamond Tower) Night View**
-  - Ascend Busan Tower Observatory ([bisco.or.kr](https://www.bisco.or.kr); ₩12,000 adult, **free with Visit Busan Pass**). Enjoy 360° views of Busan Harbor, Yeongdo Bridge, and the interactive fireworks window projection mapping show.
+  - Ascend Busan Tower Observatory ([bisco.or.kr](https://www.bisco.or.kr); ₩12,000 adult / ₩9,000 child-senior, **free with Visit Busan Pass**; daily 10:00–22:00, last ticket 21:30 — now branded *Busan Diamond Tower*). Enjoy 360° views of Busan Harbor, Yeongdo Bridge, and the interactive fireworks window projection mapping show.
 
 ---
 
@@ -134,9 +134,9 @@ Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan,
 - **01:30 PM — Yuseong Hot Springs Footbath Park**
   - Take Daejeon Subway Line 1 from Daejeon Stn to Yuseong Spa Stn. Enjoy a free outdoor natural thermal footbath at Yuseong Footbath Park ([daejeontour.co.kr](https://daejeontour.co.kr)).
 - **03:30 PM — Expo Science Park, National Science Museum & Shinsegae Art Space 193**
-  - Take bus/taxi 10 min to Expo Science Park. Visit the National Science Museum ([science.go.kr](https://www.science.go.kr); free main hall) and ascend Shinsegae Art Space 193 Observatory ([shinsegae.com](https://www.shinsegae.com); ₩15,000 adult) on floor 38-39 for Ólafur Elíasson's media art gallery over Gapcheon river.
+  - Take bus/taxi 10 min to Expo Science Park. Visit the National Science Museum ([science.go.kr](https://www.science.go.kr); free main hall) and **check before going:** The Art Space 193 observatory in the adjoining Expo Tower (Ólafur Elíasson media-art gallery, ~₩15,000 adult when open) is listed as **현재 미운영 / not currently operating** on Shinsegae's own [store page](https://www.shinsegae.com/store/main.do?storeCd=SC00060) as of Aug 18 2026 — do not build the evening around it without phoning 1588-1234 first.
 - **06:30 PM — Hanbit Tower Observatory & Night Media Facade / Musical Fountain**
-  - Visit Hanbit Tower Observatory ([djto.kr](https://www.djto.kr); ₩2,500 adult). Watch the free evening **Media Facade light show** projected on the 93m tower and **Musical Fountain** performance over Hanbit Plaza *(anchor site for Wine EXPO Nov 6–8 and Noodle Festival Nov 7–9)*.
+  - Visit Hanbit Tower Observatory ([djto.kr](https://www.djto.kr); **free** — the old ₩2,500 fee was scrapped in June 2021 when Daejeon Marketing Corp. opened the whole Expo Science Park complex free of charge). Watch the free evening **Media Facade light show** projected on the 93m tower and **Musical Fountain** performance over Hanbit Plaza *(anchor site for the Daejeon International Wine EXPO, **Nov 6–8 confirmed**; the Noodle Daejeon Festival also uses this plaza but its **2026 dates are unannounced** — `noodle-dj.com` still shows the 2025 edition, so do not assume the Nov 7–9 weekend repeats)*.
 
 ---
 
