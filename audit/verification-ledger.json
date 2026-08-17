@@ -550,14 +550,16 @@
  },
  "changwon-jinhae.md#1": {
   "badge": "✅",
-  "body_hash": "1f2b96cf48",
-  "checked_on": null,
+  "body_hash": "b60a94a1e4",
+  "checked_on": "2026-08-18",
   "file": "changwon-jinhae.md",
-  "note": "",
+  "note": "SAC on Screen: Nov title 늙은 부부이야기 CONFIRMED on foundation's published 2026 lineup; 15:00, B1 screening room, FREE, 055-714-7646. But the specific November Wednesday is genuinely NOT published in advance - softened with an explicit 'do not travel for this alone' warning rather than guessing a date.",
   "num": 1,
-  "sources": [],
+  "sources": [
+   "https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=8795"
+  ],
   "title": "🎬 SAC on Screen: An Old Couple’s Story",
-  "verdict": "unchecked"
+  "verdict": "softened"
  },
  "changwon-jinhae.md#10": {
   "badge": "🔎",
@@ -672,13 +674,15 @@
  "changwon-jinhae.md#2": {
   "badge": "✅",
   "body_hash": "d025239676",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "changwon-jinhae.md",
-  "note": "",
+  "note": "Maria Kim Jazz Collective Nov 17 11:00 Seongsan Art Hall Small Theater, W20,000, 60min, ages 7+, online sales close Nov 16 17:00. Entry already accurate.",
   "num": 2,
-  "sources": [],
+  "sources": [
+   "https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=9003"
+  ],
   "title": "🎷 Maria Kim: Jazz Collective Morning Concert",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "changwon-jinhae.md#20": {
   "badge": "🔎",
@@ -759,14 +763,16 @@
  },
  "changwon-jinhae.md#27": {
   "badge": "⏳",
-  "body_hash": "5caa604cac",
-  "checked_on": null,
+  "body_hash": "9e9706befe",
+  "checked_on": "2026-08-18",
   "file": "changwon-jinhae.md",
-  "note": "",
+  "note": "MATERIAL FIND: Gyeongnam FC have NO home game in the trip window. Oct 31 home vs Hwaseong = arrival day (unreachable), Nov 7 away at Suwon FC, Nov 21 away at Suwon Samsung, next home Nov 29 after departure. Was a vague 'check fixtures' entry. Redirected to Busan IPark Nov 21 and Seoul E-Land Nov 7.",
   "num": 27,
-  "sources": [],
-  "title": "⚽ Gyeongnam FC",
-  "verdict": "unchecked"
+  "sources": [
+   "https://www.gyeongnamfc.com/match/match.php"
+  ],
+  "title": "⚽ Gyeongnam FC (경남FC)",
+  "verdict": "corrected"
  },
  "changwon-jinhae.md#28": {
   "badge": "🔎",
@@ -869,14 +875,17 @@
  },
  "daegu.md#1": {
   "badge": "✅",
-  "body_hash": "3224ce5568",
-  "checked_on": null,
+  "body_hash": "89157cc77b",
+  "checked_on": "2026-08-18",
   "file": "daegu.md",
-  "note": "",
+  "note": "Young Artists Nov 3-Dec 27 2026 CONFIRMED on venue What's ON. Added full Korean title, Sambo Art Prize context, Space Hive 1-5, Mon closure, Warhol show also running.",
   "num": 1,
-  "sources": [],
+  "sources": [
+   "https://daeguartscenter.or.kr/",
+   "https://news.daegu.go.kr/newshome/mtnmain.php?aid=275488"
+  ],
   "title": "🎨 2026 Young Artists Exhibition",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "daegu.md#10": {
   "badge": "🔎",
@@ -990,14 +999,17 @@
  },
  "daegu.md#2": {
   "badge": "✅",
-  "body_hash": "4f7151fea2",
-  "checked_on": null,
+  "body_hash": "0041d0e1f7",
+  "checked_on": "2026-08-18",
   "file": "daegu.md",
-  "note": "",
+  "note": "Crossbones Trombones Nov 12 Biseul Hall CONFIRMED. Added: ensemble is from Ghent Belgium, UNESCO City of Music exchange series. Start time genuinely not published - flagged rather than invented.",
   "num": 2,
-  "sources": [],
+  "sources": [
+   "https://daeguartscenter.or.kr/",
+   "https://tickets.interpark.com/contents/search?keyword=%EB%8C%80%EA%B5%AC%EC%BD%98%EC%84%9C%ED%8A%B8%ED%99%80"
+  ],
   "title": "🎺 Crossbones Trombones Concert",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "daegu.md#20": {
   "badge": "🔎",
@@ -1111,14 +1123,16 @@
  },
  "daegu.md#3": {
   "badge": "✅",
-  "body_hash": "a013fec7e3",
-  "checked_on": null,
+  "body_hash": "4f46187bda",
+  "checked_on": "2026-08-18",
   "file": "daegu.md",
-  "note": "",
+  "note": "DAF Residency 16th cohort Oct 27-Nov 15 confirmed on venue annual calendar. Added cohort context + free/Mon-closed.",
   "num": 3,
-  "sources": [],
+  "sources": [
+   "https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026"
+  ],
   "title": "🖼️ DAF Residency 16th Cohort Results Exhibition",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "daegu.md#30": {
   "badge": "🔎",
@@ -1188,25 +1202,30 @@
  },
  "daegu.md#4": {
   "badge": "✅",
-  "body_hash": "2027127575",
-  "checked_on": null,
+  "body_hash": "c320ad945f",
+  "checked_on": "2026-08-18",
   "file": "daegu.md",
-  "note": "",
+  "note": "SAC on Screen Othello Nov 7: FILLED THE GAPS. 14:00 start, Suchang Hall 3F, FREE all seats, NO reservation, first-come, arrive 10min early. Final screening of the 16-film 2026 season. Entry previously said 'verify' for all of this.",
   "num": 4,
-  "sources": [],
+  "sources": [
+   "https://www.daeguartfactory.kr/front/exhibit/perform-view.php?no=352",
+   "https://www.yntoday.co.kr/news/articleView.html?idxno=54570"
+  ],
   "title": "🎭 SAC on Screen: Othello",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "daegu.md#5": {
   "badge": "Da",
-  "body_hash": "2035cd8ea7",
-  "checked_on": null,
+  "body_hash": "4161b4dde2",
+  "checked_on": "2026-08-18",
   "file": "daegu.md",
-  "note": "",
+  "note": "RE:ART Part 2 Sep 8-Nov 8 confirmed on annual calendar. Added Part 1 context, Suchang Youth Mansion is a separate nearby building, ends Nov 8 = first week only.",
   "num": 5,
-  "sources": [],
+  "sources": [
+   "https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026"
+  ],
   "title": "🧵 RE:ART Project Part 2",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "daegu.md#6": {
   "badge": "🔎",

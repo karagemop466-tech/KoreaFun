@@ -9,9 +9,9 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 ## Confirmed during the trip
 
 ### 1) 🎬 **SAC on Screen: An Old Couple’s Story** — ✅ CONFIRMED SERIES — November 2026 · NEW
-- **What:** Free high-definition screening of a stage play at Changwon History and Folk Museum.
-- **What:** Seoul Arts Center stage productions captured in high definition and screened on a big screen. November's title is the play **《늙은 부부이야기》 (An Old Couple's Story)**, a well-loved two-hander about love late in life. Korean-language.
-- **When:** The series runs **Apr 8–Dec 9, 2026**, one designated **Wednesday per month**, so the November screening falls on a Wednesday — **Nov 4, 11 or 18** all sit inside your window. The foundation posts the exact date and booking method on its notice board shortly before each screening.
+- **What:** Seoul Arts Center stage productions captured in high definition and screened on a big screen. **November's title is confirmed on the foundation's published 2026 lineup as the play 《늙은 부부이야기》 (An Old Couple's Story)** — a well-loved two-hander about love late in life. Korean-language, no subtitles.
+- **When:** The series runs **Apr 8–Dec 9, 2026**, **one designated Wednesday per month**. The foundation's page confirms the month and title but **does not publish the specific November Wednesday in advance** — it posts the exact date and the booking method (advance reservation vs walk-up) on its notice board shortly before each screening. The candidates inside your window are **Nov 4, 11 or 18**.
+- **⚠️ Don't travel to Changwon for this alone** — it's an unticketed free screening whose date isn't fixed until close to the day. Treat it as a bonus if you're already there.
 - **Where/time/price:** **Changwon History & Folk Museum, B1 screening room** · **15:00**, one showing only · **free**. Tel 055-714-7646.
 - **Official source (reviewed Aug 17):** [Changwon Cultural Foundation — 2026 SAC on Screen](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=8795)
 
@@ -154,10 +154,11 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 - **Status:** Use the official 2026–27 schedule for home games.
 - **Official source (reviewed Aug 17):** [KBL](https://www.kbl.or.kr/)
 
-### 27) ⚽ **Gyeongnam FC** — ⏳ CHECK K LEAGUE FIXTURES
-- **What:** Professional football club using Changwon Football Center.
-- **Status:** Confirm home fixtures and tickets through the league.
-- **Official sources (reviewed Aug 17):** [Gyeongnam FC](https://www.gyeongnamfc.com/) · [K League](https://www.kleague.com/)
+### 27) ⚽ **Gyeongnam FC (경남FC)** — ❌ NO HOME GAME DURING YOUR TRIP — K League 2 · UPDATED
+- **What:** Gyeongnam FC play K League 2 at **Changwon Football Center (창원축구센터)**.
+- **⚠️ Checked against the club's own fixture list — you cannot see them at home.** Their last home match before you arrive is **Sat Oct 31 vs Hwaseong (14:00)**, which is your **arrival day** (you land at Incheon, so it's not reachable). After that both remaining fixtures in your window are **away**: **Nov 7 at Suwon FC** and **Nov 21 at Suwon Samsung**. Their next home game, vs Seoul E-Land, is **Nov 29 — a week after you fly home.**
+- **If you want K League 2 football, use these instead:** **Busan IPark vs Chungbuk Cheongju, Sat Nov 21, 14:00** at Gudeok (see `busan.md` #5) — the same weekend, and you're scheduled to be in Busan. Or **Seoul E-Land at Mokdong on Nov 7** (see `seoul.md` #78).
+- **Official sources (reviewed Aug 18):** [Gyeongnam FC fixture list](https://www.gyeongnamfc.com/match/match.php) — lists every 2026 fixture with venue · [K League](https://www.kleague.com/)
 
 ### 28) 🤖 **Gyeongnam Masan Robot Land** — 🔎 VERIFIED OPERATOR
 - **What:** Theme park and robotics-themed facilities on the Masan coast.

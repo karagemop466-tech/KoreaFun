@@ -11,32 +11,36 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 ## Confirmed during the trip
 
 ### 1) 🎨 **2026 Young Artists Exhibition** — ✅ CONFIRMED — Nov 3–Dec 27, 2026 · NEW
-- **What:** Exhibition presenting five selected regional young artists, with the Sambo Art Award selected from the group.
-- **Where:** Daegu Arts Center Museum, Space Hive galleries 1–5.
-- **Hours/price:** Check the exhibition page; museum winter hours are normally 10:00–18:00 and Monday is closed.
+- **What:** Full title 《㈜삼보모터스 삼보문화재단과 함께하는 2026 올해의 청년작가》 — **five selected regional young artists**, from whom the **Sambo Art Prize (삼보미술상)** winner is chosen. It's the Daegu art scene's main annual showcase of emerging local talent, backed by Sambo Motors' cultural foundation.
+- **Where:** **Daegu Culture & Arts Center Museum, Space Hive galleries 1–5** (미술관 스페이스 하이브 1~5전시실).
+- **When:** **Nov 3–Dec 27, 2026** — confirmed on the venue's own What's ON listing. Opens midway through your trip and runs long after, so any date from Nov 3 works.
+- **Hours/price:** Museum galleries are normally 10:00–18:00, **closed Mondays**. Confirm admission on the venue page.
+- **Also on at the same venue:** 《앤디 워홀: 예술을 팔다》 (Andy Warhol) is running with special docent tours — worth checking dates if you're making the trip.
 - **Official source (reviewed Aug 17):** [Daegu Arts Center program](https://www.daeguartscenter.or.kr/content.html?md=0041&mode=list)
 
 ### 2) 🎺 **Crossbones Trombones Concert** — ✅ CONFIRMED — Nov 12, 2026 · NEW
-- **What:** UNESCO Creative City of Music exchange concert.
-- **Where/when:** Biseul Hall, **Thu Nov 12, 2026**.
-- **Price/time:** Confirm on the ticket page before booking.
+- **What:** **Crossbones Trombones (크로스본즈 트롬본즈)**, a trombone ensemble from **Ghent, Belgium**, playing Daegu's UNESCO Creative City of Music exchange series. Daegu has been a UNESCO City of Music since 2017 and the Arts Center runs these exchange concerts as its flagship international strand (the other 2026 guest was Hanover's jazz duo Duo Maliki in October).
+- **Where/when:** **Biseul Hall (비슬홀), Daegu Culture & Arts Center — Thu Nov 12, 2026.** Confirmed on the venue's What's ON listing and its published season lineup.
+- **Price/time:** Booking is open via the venue and NOL/Interpark — **confirm the start time on the ticket page**, which the venue listing did not state at review.
 - **Official source (reviewed Aug 17):** [Daegu Arts Center program](https://www.daeguartscenter.or.kr/content.html?md=0041&mode=list)
 
 ### 3) 🖼️ **DAF Residency 16th Cohort Results Exhibition** — ✅ CONFIRMED — through Nov 15, 2026 · NEW
-- **What:** Results exhibition by Daegu Art Factory resident artists.
-- **When:** **Oct 27–Nov 15, 2026**.
-- **Hours/price:** Check gallery visitor information; normally closed Monday.
+- **What:** End-of-residency show by the **16th cohort** of Daegu Art Factory resident artists (창작 레지던시 16기 입주작가 성과전). The same cohort ran public open-studio sessions and hands-on workshops earlier in 2026, so the work is locally rooted rather than a touring package.
+- **When:** **Oct 27–Nov 15, 2026** — confirmed on the venue's own 2026 annual calendar.
+- **Hours/price:** Daegu Art Factory galleries are normally **free**; closed Mondays. Confirm hours on the venue page before a special trip.
 - **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
 ### 4) 🎭 **SAC on Screen: Othello** — ✅ CONFIRMED — Sat Nov 7, 2026 · NEW
-- **What:** Screening no. 15 in the Seoul Arts Center's *SAC on Screen* series — a high-definition capture of the SAC's staged *Othello*, shown on a big screen. Korean-language staging; assume Korean-only subtitling.
-- **Where/when:** **Daegu Art Factory** (대구예술발전소), **Sat Nov 7, 2026**. The venue's own annual calendar lists the date; confirm start time and whether reservation is needed on the notice board closer to the day.
-- **Price:** SAC on Screen programs are normally free, but Daegu Art Factory had not posted the November booking notice at review — verify.
+- **What:** Screening no. 15 — and the **final one of the 2026 season** — in the Seoul Arts Center's *SAC on Screen* series: a high-definition capture of the SAC's staged *Othello*. Korean-language staging; assume Korean-only subtitling.
+- **Where/when:** **Sat Nov 7, 2026 at 14:00**, in **Suchang Hall, 3F, Daegu Art Factory** (대구예술발전소 3층 수창홀). The 2026 season ran twice monthly on the 2nd and 4th Saturdays at 14:00, April 11 through this Nov 7 date — 16 films in all.
+- **Price:** **Free, all seats, no reservation.** It is **first-come, first-served** — the operator's instruction is simply to be in Suchang Hall by **10 minutes before the start**. (Doors close around 13:50.)
+- **⚠️ Nov 7 is contested:** this is the same day as Busan Fireworks, KGMA Day 1, MCR and the E-Land match. It's free and unbooked, though, so it costs nothing to skip.
 - **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
 ### 5) 🧵 **RE:ART Project Part 2 — Daegu Intangible Heritage** — ✅ CONFIRMED — through Nov 8, 2026 · NEW
-- **What:** Exhibition/project at Suchang Youth Mansion focused on Daegu’s intangible heritage.
-- **When:** **Sep 8–Nov 8, 2026**.
+- **What:** Part 2 of the RE:ART project at **Suchang Youth Mansion (수창청춘맨숀)**, themed on **Daegu's intangible cultural heritage** — following Part 1 《시감지우》 (May 12–Jul 12, 2026). The RE:ART strand pairs heritage practice with contemporary art and has run linked talks.
+- **When:** **Sep 8–Nov 8, 2026** — confirmed on the venue's 2026 annual calendar. **Ends Nov 8**, so it only overlaps your first week.
+- **Note:** Suchang Youth Mansion is a separate building from Daegu Art Factory proper but run by the same organisation and close by — you can pair this with entry 3.
 - **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
 ---
