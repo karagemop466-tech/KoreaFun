@@ -200,3 +200,43 @@ File listed "Premium ₩70,000, VIP ₩60,000, S ₩50,000, **A ₩40,000**". Th
 - `kh.or.kr/kha/programs/list.do` → error page.
 - `seoulcraftmuseum.org` → fetch failure.
 - `grandpark.seoul.go.kr/main/ko.do` → 500. Use `festival.seoul.go.kr` instead.
+
+## Pass 7 — Pohang deep pass (Aug 17)
+
+Pohang was the weakest file in the repo: 29 entries and **zero ✅ CONFIRMED**. Root cause was a dead
+source, not a lack of real events — the old microsite `festival.phcf.or.kr` 404s, so earlier passes had
+nothing authoritative to cite and left everything at ⏳.
+
+**Breakthrough:** `phcf.or.kr` (Pohang Cultural Foundation) is fully server-side rendered and exposes
+per-festival detail pages keyed by a stable id:
+`phcf.or.kr/phcf/festival_detail/view.do?festivalId=<ID>` and
+`phcf.or.kr/phcf/festival/submain.do?festival_id=<ID>`, indexed from
+`phcf.or.kr/phcf/current_festivals/view.do`. This is now the canonical Pohang source.
+
+### Corrections
+| # | Change |
+|---|---|
+| pohang 29 | **Dates corrected Nov 20–22 → Nov 14–22, 2026**; ⏳→✅. Organizer's own 2026 page states `2026. 11. 14(토) ~ 11. 22(일)` with **국제불꽃쇼 on Sat Nov 21**. VisitKorea still shows only Nov 20–22 and openly labels its program copy as 2025 content. Renamed to the correct English title (Fireworks, not "Fire & Light"). Dead `festival.phcf.or.kr` link removed from the entry and from events.csv. |
+
+Documented the volatility explicitly: this festival has run in **June 2025, late May 2024, July 2018 and
+November 2021** — any date found outside the 2026 page is worthless. Also noted the 2025 edition had its
+last two days cancelled for weather.
+
+### Additions
+| # | Entry | Status |
+|---|---|---|
+| pohang 30 | **Pohang Steel Art Festival 2026**, Oct 24–Nov 15 | ✅ dates posted; venue/theme still 미정 |
+| pohang 31 | **Pohang International Music Festival** | 👀 WATCH — 2026 dates unposted |
+
+Music festival left at WATCH deliberately: it hits the trip window every year (2024 Nov 1–8, 2025 Nov 7–13)
+but the foundation page still renders the **2025** run and the festival's own domain `mfph.kr` **404s**.
+Recorded the useful planning fact that 2025 tickets were free and sold out in eight minutes.
+
+Counts: pohang 29 → 31, total 563 → 565. events.csv 166 → 168 rows.
+
+### Dead ends found this pass
+- `poma.pohang.go.kr` (Pohang Museum of Steel Art) — **WAF-blocked**, every path returns a firewall
+  interception page. Not link rot; do not retry.
+- `phcf.or.kr/performance/list.do` and `/phcf/culture_event/list.do` → "잘못된 접근" error page.
+  The working city-wide listing is **`pohang.go.kr/portal/prfrmexhbt/list.do?mid=0206050000`**.
+- `mfph.kr` — 404.

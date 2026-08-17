@@ -168,11 +168,26 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ## Dated during the trip
 
-### 29) 🎆 **Pohang International Fire & Light Festival** — ⏳ DATES ON VISITKOREA 2026 CALENDAR — Fri Nov 20–Sun Nov 22, 2026 · NEW
-- **What:** Pohang’s recurring fireworks and light festival at Yeongildae Beach and related city sites. VisitKorea’s 2026 festival calendar lists **Nov 20–22, 2026**. The same page still says program copy is from **2025** and that 2026 content is being updated — so treat the show lineup as unconfirmed.
-- **Where/price:** Yeongildae Beach (영일대해수욕장), **free**. Tel 054-289-7852.
-- **⚠️ Link note (Aug 17):** the organizer's old festival microsite (`festival.phcf.or.kr`) now 404s, so VisitKorea is currently the only live listing. Re-check the foundation site nearer the date for the 2026 lineup and rain plan.
-- **Official sources (reviewed Aug 17):** [VisitKorea festival page](https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8) · [Pohang Cultural Foundation](https://www.phcf.or.kr)
+### 29) 🎆 **Pohang International Fireworks Festival (포항국제불빛축제)** — ✅ CONFIRMED — Sat Nov 14–Sun Nov 22, 2026 · UPDATED
+- **What:** Pohang's flagship culture-tourism festival, themed on the "fire" of the steel furnaces and the "light" of the city. Running since 2004. Recent editions have combined an international fireworks competition with a drone light show, the "Light Art Way" installations, street parades and nightly small fireworks.
+- **When:** The organizer's own festival page gives the 2026 run as **2026. 11. 14 (Sat) ~ 11. 22 (Sun)** and lists the headline **국제불꽃쇼 (international fireworks show) for Sat Nov 21** — marked 예정 (planned). **This covers the trip's final week.**
+- **⚠️ Date discrepancy (checked Aug 17):** VisitKorea's festival calendar shows only **Nov 20–22**, while the organizing foundation shows **Nov 14–22**. Trust the foundation; VisitKorea's page still carries 2025 program copy and openly says the 2026 content is being updated. Either way **Nov 20–22 is inside both windows**, and Nov 21 is the fireworks night.
+- **Where/price:** 영일대해수욕장 일원 (Yeongildae Beach area), 경북 포항시 북구 해안로 173. **Free.** Tel 054-289-7852~5. Hosted by Pohang City / Pohang Cultural Foundation.
+- **Note:** This festival moves around the calendar a lot — it ran in June 2025, late May 2024 and July 2018 — so ignore any date you find that is not on the 2026 page. The 2025 edition also had its final two days cancelled for weather, so check the notice board before travelling.
+- **Official sources (reviewed Aug 17):** [2026 festival detail — Pohang Cultural Foundation](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_LIGHT_2026_001) · [festival sub-site + notices](https://phcf.or.kr/phcf/festival/submain.do?festival_id=FST_LIGHT_2026_001) · [VisitKorea festival page](https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8)
+
+### 30) 🖼️ **Pohang Steel Art Festival 2026 (포항스틸아트페스티벌)** — ✅ CONFIRMED — Sat Oct 24–Sun Nov 15, 2026 · NEW
+- **What:** Pohang's signature autumn art festival, built on the city's steel identity — large outdoor steel sculpture installed around the waterfront, indoor exhibitions, hands-on metal workshops (철철공작소), city art tours (철철투어) and a forum. Recent editions have centred on 동빈문화창고1969 and the 영일대해수욕장 seafront, with works left standing across the city.
+- **When:** The foundation's 2026 festival page gives **2026. 10. 24 ~ 11. 15** — that covers the **first two weeks of the trip**, and it overlaps the fireworks festival's opening on Nov 14–15.
+- **Status caveat:** The page is flagged **미정** (venue "to be decided") and the 2026 theme and programme are not published yet. The dates are posted; the line-up is not. The 2025 edition was also *extended* past its printed end date (to Nov 20), so the run may stretch.
+- **Where/price:** Venue TBD; the organizer's registered address is 경북 포항시 북구 삼호로 36 (문화예술팩토리). Past editions have been **free to walk around**, with workshops requiring advance sign-up.
+- **Official sources (reviewed Aug 17):** [2026 festival detail — Pohang Cultural Foundation](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_STEEL_2026_001) · [festival sub-site + notice board](https://phcf.or.kr/phcf/festival/submain.do?festival_id=FST_STEEL_2026_001)
+
+### 31) 🎻 **Pohang International Music Festival (포항국제음악제)** — 👀 WATCH — early-to-mid November, dates unposted · NEW
+- **What:** A chamber-music-centred international classical festival directed by 박유신, staged across Pohang venues each autumn. Past programmes have drawn names like the Hagen Quartett and pianist 손민수, plus newly commissioned Korean work.
+- **Why it is only a WATCH:** the festival lands squarely in the trip window every year — **2024: Nov 1–8**, **2025: Nov 7–13** — but the foundation's page for it still shows the **2025** run (11월 7일~13일) and the festival's own site `mfph.kr` currently **404s**. No 2026 dates are published, so do not plan around it yet.
+- **Worth knowing:** in 2025 the main hall was under renovation, so concerts moved to 대잠홀 / 효자아트홀 and **all tickets were free — and sold out in eight minutes.** If 2026 repeats that, book the instant dates appear.
+- **Official sources (reviewed Aug 17):** [Pohang Cultural Foundation festival page](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_ETC_2025_001) · [festival list (all Pohang festivals)](https://phcf.or.kr/phcf/current_festivals/view.do) · contact 054-289-7999, mfpohang@gmail.com
 
 ---
 
