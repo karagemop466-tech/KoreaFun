@@ -3360,14 +3360,18 @@
  },
  "myeongdong.md#33": {
   "badge": "🔎",
-  "body_hash": "c4bc8eb047",
-  "checked_on": null,
+  "body_hash": "ecd7654d18",
+  "checked_on": "2026-08-18",
   "file": "myeongdong.md",
-  "note": "",
+  "note": "Sungnyemun winter hours 09:00-17:30 (Nov-Jan) and Mon closure CONFIRMED - trip is in winter season. MATERIAL ADD: free daily Pasu guard ceremony was entirely missing - opening ritual 10:00-10:10, guard duty 10:00-15:30 with 12:00-13:00 break, guard change/patrol 11:40-11:46, closing 15:30-15:40, daily except Mon, weather-cancellable. Added transit exits.",
   "num": 33,
-  "sources": [],
+  "sources": [
+   "https://www.royalguard.kr/content/sungnyemun_gate",
+   "https://mediahub.seoul.go.kr/archives/1503520",
+   "https://seoulcitywall.seoul.go.kr/en/wallcourse/5.do"
+  ],
   "title": "🚪 Sungnyemun Gate",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "myeongdong.md#34": {
   "badge": "🔎",
@@ -6137,14 +6141,17 @@
  },
  "yongin.md#15": {
   "badge": "🔎",
-  "body_hash": "92e81beda3",
-  "checked_on": null,
+  "body_hash": "af4ffd25af",
+  "checked_on": "2026-08-18",
   "file": "yongin.md",
-  "note": "",
+  "note": "NJP Art Center Tue-Sun 10:00-18:00 free confirmed on museum's own visitor page; ADDED last entry 17:00, free walk-up docent tours (Tue-Fri 14/16, Sat-Sun 11/13/14/16), 40x30cm BAG SIZE LIMIT with lockers, parking W1,000/hr but free under 30min and after 19:00, tel 031-201-8571. Also surfaced 별,괘 Jul 16 2026-Feb 14 2027 running the whole trip.",
   "num": 15,
-  "sources": [],
+  "sources": [
+   "https://njp.ggcf.kr/pages/information",
+   "https://njp.ggcf.kr/"
+  ],
   "title": "📺 Nam June Paik Art Center",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "yongin.md#16": {
   "badge": "🔎",
@@ -6418,14 +6425,17 @@
  },
  "yongin.md#5": {
   "badge": "✅",
-  "body_hash": "4ecf286abc",
-  "checked_on": null,
+  "body_hash": "fbbec09dc2",
+  "checked_on": "2026-08-18",
   "file": "yongin.md",
-  "note": "",
+  "note": "NJP Lounge 2 장윤영 2026.07.23-11.11 confirmed verbatim on museum exhibition list. Hours firmed from 'generally' to exact 10:00-18:00 last entry 17:00, Mon closed, free; cross-referenced to #15.",
   "num": 5,
-  "sources": [],
+  "sources": [
+   "https://njp.ggcf.kr/exhibitions/245",
+   "https://njp.ggcf.kr/pages/information"
+  ],
   "title": "🖼️ NJP Lounge 2: Jang Yun-young",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "yongin.md#6": {
   "badge": "✅",

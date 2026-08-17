@@ -47,7 +47,7 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 ### 5) 🖼️ **NJP Lounge 2: Jang Yun-young** — ✅ CONFIRMED — through Nov 11, 2026 · NEW
 - **What:** Dated exhibition in the Nam June Paik Art Center lounge.
 - **When:** **Jul 23–Nov 11, 2026**.
-- **Hours/price:** Museum generally operates Tue–Sun 10:00–18:00 and is free; confirm holiday exceptions.
+- **Hours/price:** Tue–Sun **10:00–18:00, last entry 17:00. Free.** Closed Mondays. Full visitor detail in entry #15.
 - **Official source (reviewed Aug 17):** [Nam June Paik Art Center](https://njp.ggcf.kr/)
 
 ### 6) 🌌 **Stars, Trigrams (별, 괘卦)** — ✅ CONFIRMED — through Feb 14, 2027 · NEW
@@ -115,7 +115,11 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 
 ### 15) 📺 **Nam June Paik Art Center** — 🔎 VERIFIED MUSEUM
 - **What:** Gyeonggi Cultural Foundation museum devoted to Nam June Paik and contemporary media art, on the same campus as the Gyeonggi Province and Children’s museums.
-- **Hours/price:** Official foundation guide lists Tue–Sun 10:00–18:00, closed Monday and designated holidays, free admission.
+- **Hours/price:** Tue–Sun **10:00–18:00, last entry 17:00. Free** (special exhibitions may charge). Closed Mondays, Jan 1, Lunar New Year's Day and Chuseok. ☎ 031-201-8571.
+- **✅ Running during your trip:** 《별, 괘卦》 **Jul 16, 2026 – Feb 14, 2027**, part of the Nam June Paik Media Art Festival — on for every day you're in Korea. See also #5 (NJP Lounge 2, ends Nov 11).
+- **Free docent tours, no booking, walk-up:** Tue–Fri **14:00 and 16:00**; Sat–Sun **11:00, 13:00, 14:00, 16:00** (Korean).
+- **⚠️ Backpacks and bags larger than 40×30 cm are not allowed in the galleries** — use the lockers. No video recording; photos for personal use only, no flash/tripod/selfie stick.
+- **Parking ₩1,000 for the first hour** then ₩200/10 min (max ₩8,000/day), shared with the Gyeonggi Province and Children's museums — **free if you leave within 30 minutes**, and free after 19:00. Free stroller and wheelchair loans if you call ahead.
 - **Official sources (reviewed Aug 17):** [museum](https://njp.ggcf.kr/) · [Gyeonggi Cultural Foundation guide](https://ggc.ggcf.kr/p/5f313cd7e3d2f456a195fa83)
 
 ### 16) 🏺 **Gyeonggi Province Museum** — 🔎 VERIFIED MUSEUM

@@ -216,8 +216,11 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 33) 🚪 **Sungnyemun Gate** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Seoul’s historic south gate, beside Namdaemun Market and about 15 minutes from central Myeong-dong.
-- **Hours/price:** City Wall portal lists winter hours 09:00–17:30, closed Monday; grounds are free.
-- **Official source (reviewed Aug 17):** [Seoul City Wall — Sungnyemun trail](https://seoulcitywall.seoul.go.kr/en/wallcourse/5.do)
+- **Hours/price:** **Free.** Your trip falls in the **winter schedule: 09:00–17:30** (Nov–Jan). Closed Mondays.
+- **🎎 Don't just walk past it — there's a free ceremony all day.** The **Sungnyemun Pasu (guard) Ceremony** runs on the plaza **every day except Monday**: **gate-opening ritual 10:00–10:10**, guard duty 10:00–15:30 (**break 12:00–13:00**), **guard-changing and patrol ritual ~11:40–11:46**, and the **gate-closing ritual 15:30–15:40**. Smaller and far less crowded than the Gyeongbokgung changing of the guard, and it's two minutes from Namdaemun Market (#34).
+- **⚠️ Can be cancelled in bad weather.**
+- **Getting there:** Seoul Station Exit 4, or Hoehyeon Station (Line 4) Exit 5, ~5 min walk.
+- **Official sources (reviewed Aug 18):** [Seoul City Wall — Sungnyemun trail](https://seoulcitywall.seoul.go.kr/en/wallcourse/5.do) · [Royal Guard — Sungnyemun Pasu Ceremony schedule](https://www.royalguard.kr/content/sungnyemun_gate) · [Seoul MediaHub](https://mediahub.seoul.go.kr/archives/1503520)
 
 ### 34) 🛍️ **Namdaemun Market** — 🔎 VERIFIED MARKET
 - **What:** Large wholesale and retail traditional market immediately west of Myeong-dong.
