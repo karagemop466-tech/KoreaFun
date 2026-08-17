@@ -928,3 +928,59 @@ Sajik fails on both the missing venue and the stale one. **14 claims.**
 - **Install/de-install windows are closures.** A venue hosting a festival is shut before and often after it.
 - **"Until further notice" notices go stale in place.** Two were over a year old and still current.
 - **A league schedule has holes.** International windows suspend domestic play mid-season.
+
+## Pass 23 — Culture Day, and two process failures worth keeping
+
+Seven more Busan entries, but the headline finding is national and came
+from chasing a footnote.
+
+**THE BIG ONE — "Culture Day" is now EVERY Wednesday.** Every mention in
+this repo assumed the old rule: free entry on the **last** Wednesday of
+the month = **Nov 25**, two days after the flight home. `travel-basics.md`
+and `jeonju.md` both said so and told the reader it was useless.
+
+The Ministry of Culture amended the 문화기본법 시행령 and **from April 1,
+2026 every Wednesday is 문화가 있는 날**. **Nov 4, 11 and 18** are all
+usable — free admission at paid palaces (Changgyeonggung, Deoksugung),
+free entry and late openings at national museums, and reportedly 50% off
+KBO/K League/KBL/V-League. **Cinemas kept a twice-monthly rule** (2nd and
+last Wednesday, ₩10,000/₩8,000 for 17:00–21:00 starts, up from ₩7,000
+once monthly) → **Nov 11**.
+
+This retroactively explains **daegu #29's "free every Wednesday"**, found
+in an earlier pass and recorded as a local quirk. It was this national
+change surfacing in one venue's page. *A local anomaly can be a national
+rule seen through a keyhole.*
+
+**busan #8 illuminations — resolved as a NEGATIVE.** Gwangbok-ro Winter
+Light Tree Festival runs **early Dec – late Feb** (2025–26: Dec 5 – Feb
+22, 17:30–22:00). **Departure is Nov 22** — about two weeks early.
+Retitled from "RE-CHECK SWITCH-ON" and redirected to the drone show.
+
+**busan #19 Cinema Center** — free LED-roof plaza, ~₩7,000 screenings,
+but the **free outdoor Roof Theatre is summer only** (2026: May 12 – Sep 1).
+
+**busan #13 Oryukdo Skywalk** — a widely-copied blog claims a Monday
+closure; the **operator says 연중무휴**. Rejected the blog. Valuable
+because Mondays shut most Busan museums. Weather closes it, not the
+calendar → ☎ 051-607-6395.
+
+**busan #18 Spa Land** — ₩26,000/₩21,000, but the ticket buys **4 hours**,
+then ₩5,000/hr; ₩10,000 spent inside extends to 6. **Elementary age and
+up only.** Itinerary Day 21 updated.
+
+**busan #28 Taejongdae** — **Danubi train closed Mondays**; the daily-run
+exception is Sep 1 – Oct 31 and expires before arrival.
+
+### ⚠️ Two process failures — do not repeat
+1. **A chained heredoc failed silently and a commit message described
+   edits that were not in the tree.** The `python3 - <<PY` died on an
+   `AssertionError`, but it ran inside `edit && ledger && commit`, and the
+   later steps succeeded, so the commit went through. **Give every edit
+   heredoc its own assertion message and verify the text landed (`grep`)
+   before committing.** Fixed in the following commit.
+2. **A guard rule passed its own negative test for the wrong reason.**
+   The checker uses `re.I`, and the mutation left the phrase "every
+   Wednesday" elsewhere on the same line, so the rule matched anyway.
+   **Negative-test by simulating the REAL regression** (restore the old
+   sentence), not by mangling one keyword.
