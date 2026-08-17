@@ -424,6 +424,72 @@ All URLs below are government, municipal, national-institution, UNESCO, league o
 
 ---
 
+## Wider Chungcheong region sources (added with the Daejeon/Cheonan batch 3)
+
+Official sources for the day-trip entries reaching beyond Daejeon and Cheonan into Chungcheongnam-do and Chungcheongbuk-do.
+
+### Provincial & county governments
+| Source | Official for | URL |
+|---|---|---|
+| Chungcheongnam-do Tourism | Provincial portal for all Chungnam counties | https://tour.chungnam.go.kr |
+| Chungcheongbuk-do | Provincial portal for all Chungbuk counties | https://www.chungbuk.go.kr |
+| Gongju City | Magoksa, Gongsanseong, Songsan-ri tombs | https://www.gongju.go.kr |
+| Buyeo County | Gungnamji, Busosanseong, Neungsan-ri, Baengmagang | https://www.buyeo.go.kr |
+| Nonsan City | Donam Seowon, Ganggyeong jeotgal market & historic street | https://www.nonsan.go.kr |
+| Seosan City | Haemieupseong, Rock-carved Buddha Triad, Gaesimsa | https://www.seosan.go.kr |
+| Taean County | Taeanhaean NP, Chollipo, Mallipo/Kkotji, Anmyeondo | https://www.taean.go.kr |
+| Boryeong City | Daecheon Beach, Muchangpo, Coal Museum | https://www.brcn.go.kr |
+| Yesan County | Sudeoksa, Chusa House, Yedangho suspension bridge | https://www.yesan.go.kr |
+| Hongseong County | Hongjuseong Fortress | https://www.hongseong.go.kr |
+| Dangjin City | Solmoe Holy Ground, Waemok headland | https://www.dangjin.go.kr |
+| Seocheon County | Hansan mosi, Sinseong-ri reeds, Janghang Skywalk | https://www.seocheon.go.kr |
+| Cheongyang County | Cheonjangho bridge, Chilgapsan | https://www.cheongyang.go.kr |
+| Danyang County | Guinsa, Dodamsambong, Gosu Cave, Mancheonha, Ondal | https://www.danyang.go.kr |
+| Jecheon City | Cheongpungho cable car, Uirimji, Baeron | https://www.jecheon.go.kr |
+| Chungju City | Suanbo, Mireuk Daewon site, Tangeumdae, Jungangtap | https://www.chungju.go.kr |
+| Goesan County | Hwayanggugok Valley | https://www.goesan.go.kr |
+| Okcheon County | Jeong Ji-yong Literary House | https://www.okcheon.go.kr |
+| Jincheon County | Nongdari stone bridge | https://www.jincheon.go.kr |
+| Yeongdong County | Nangye Gugak Village | https://www.yd.go.kr |
+
+### UNESCO & national heritage
+| Source | Official for | URL |
+|---|---|---|
+| UNESCO WHC 1562 | Sansa, Buddhist Mountain Monasteries (Magoksa, Beopjusa) | https://whc.unesco.org/en/list/1562 |
+| UNESCO WHC 1498 | Seowon, Korean Neo-Confucian Academies (Donam Seowon) | https://whc.unesco.org/en/list/1498 |
+| UNESCO WHC 1477 | Baekje Historic Areas (Gongju, Buyeo incl. Neungsan-ri) | https://whc.unesco.org/en/list/1477 |
+| UNESCO ICH 00453 | Weaving of Mosi ramie in the Hansan region | https://ich.unesco.org/en/RL/00453 |
+| Korea Heritage Service | National Treasures, designated sites, hours | https://www.khs.go.kr |
+| Korea National Park Service | Taeanhaean, Woraksan, Songnisan, Gyeryongsan | https://www.knps.or.kr |
+
+### Temples, venues & operators
+| Source | Official for | URL |
+|---|---|---|
+| Magoksa | UNESCO Sansa temple, Gongju | http://www.magoksa.or.kr |
+| Templestay (CSTCF) | Official templestay booking incl. Magoksa | https://www.templestay.com |
+| Sudeoksa | Goryeo Daeungjeon (National Treasure 49), Yesan | http://www.sudeoksa.com |
+| Cheontae Order | Guinsa head temple, Danyang | http://www.cheontae.org |
+| Chollipo Arboretum | Magnolia & holly collection, Taean | http://www.chollipo.org |
+| Baekje Cultural Land | Sabigung reconstruction, Buyeo | https://www.bhm.or.kr |
+| Anmyeondo Jurassic Museum | Fossil museum, Taean | http://www.anmyeondojurassic.com |
+| Solmoe Holy Ground | St Andrew Kim Tae-gon birthplace, Dangjin | http://www.solmoe.or.kr |
+| Baeron Holy Ground | Catholic seminary site, Jecheon | http://www.baeron.or.kr |
+| Seosan Birdland | Cheonsuman migratory bird centre | https://birdland.seosan.go.kr |
+| Boryeong Mud Festival | Daecheon Beach official festival body | https://www.mudfestival.or.kr |
+| Forest Trip (KFS) | National recreation forest bookings incl. Anmyeondo | https://www.foresttrip.go.kr |
+
+### Practical & transport
+| Source | Official for | URL |
+|---|---|---|
+| Daejeon Metro (DJET) | Line 1 hours & fares, Line 2 tram project | https://www.djet.co.kr |
+| Bus Tago / txbus | Intercity bus booking from Daejeon Complex Terminal | https://txbus.t-money.co.kr |
+| Kobus | Express bus booking | https://www.kobus.co.kr |
+| KHOA | Tide tables for the Muchangpo sea-parting | https://www.khoa.go.kr |
+| Korea Meteorological Admin. | Autumn foliage front, sunset times | https://www.weather.go.kr |
+| Daejeon Tourism | City tourism portal, local food | https://daejeontour.co.kr |
+
+---
+
 ## How to verify an entry yourself (60 seconds)
 1. Open the listed official URL.
 2. For ⏳ TBA items: look for "Notice/공지" or "Events/축제" — organizers post 2026 dates roughly 1–3 months before the event.

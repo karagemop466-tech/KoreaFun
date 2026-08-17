@@ -15,7 +15,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 |---|---|
 | [`seoul.md`](seoul.md) | **366 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
 | [`busan.md`](busan.md) | **203 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
-| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **169 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX) |
+| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **225 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX), incl. the wider Chungcheong region |
 
 ### 🛍️ Neighborhood deep-dives (focused on Seoul districts)
 

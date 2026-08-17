@@ -1196,6 +1196,404 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 
 ---
 
+## 🗺️ Beyond the city — the wider Chungcheong region (expansion set)
+
+**Third expansion batch — the wider Chungcheong region.** UNESCO Magoksa and Donam Seowon, the Yellow Sea coast at Taean, Seosan and Boryeong, Danyang / Jecheon / Chungju in Chungbuk, plus more Daejeon depth. All reachable as day trips from Daejeon.
+
+## 170) 🛕 Magoksa Temple, Gongju — UNESCO Sansa (마곡사) — ✅ CONFIRMED — 🔁 daily
+- **What:** One of the **seven UNESCO-listed Sansa Buddhist Mountain Monasteries** (inscribed 2018), set in a river bend in the Taehwasan valley — famous for surviving both the Imjin War and the Korean War intact
+- **Hours:** Nov–Feb **09:00–17:00**; Mar–Oct 09:00–18:00
+- **Price:** **FREE** entry (parking charged separately)
+- **Official source:** [magoksa.or.kr](http://www.magoksa.or.kr) · [UNESCO 1562](https://whc.unesco.org/en/list/1562) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Bus 771 from Gongju Intercity Terminal to Magoksa stop, then a 20-min walk. The best UNESCO site reachable from Daejeon that most visitors miss.
+
+## 171) 🧘 Magoksa Templestay overnight programme (마곡사 템플스테이) — 👀 WATCH — book ahead
+- **What:** Overnight or day templestay at a UNESCO World Heritage mountain monastery — 108 prostrations, tea with a monk, and the dawn Buddhist service
+- **Hours:** Check-in typically **15:00**, ends after breakfast next morning
+- **Price:** Roughly **₩70,000–₩90,000** per person overnight; day programme cheaper
+- **Official source:** [templestay.com](https://www.templestay.com) · [magoksa.or.kr](http://www.magoksa.or.kr)
+- **Beginner notes:** Book on the official Templestay site — English programmes exist but are limited, so reserve early. November nights are cold; rooms are ondol-heated.
+
+## 172) ⛩️ Donam Seowon, Nonsan — UNESCO Seowon (돈암서원) — ✅ CONFIRMED — 🔁 Tue–Sun (FREE)
+- **What:** One of the **nine UNESCO-listed Korean Neo-Confucian Academies** (inscribed 2019) — the cradle of *yehak*, the Joseon study of propriety, honouring the scholar Kim Jang-saeng
+- **Hours:** Tue–Sun roughly **09:00–18:00** (winter to 17:00); closed Mondays
+- **Price:** **FREE**
+- **Official source:** [nonsan.go.kr](https://www.nonsan.go.kr) · [UNESCO 1498](https://whc.unesco.org/en/list/1498) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** About 50 min by bus from Daejeon via Nonsan. Quiet, free, and a genuine World Heritage site — the Eungdodang lecture hall is the highlight.
+
+## 173) 🏯 Sudeoksa Temple, Yesan — Korea's oldest dated wooden hall (수덕사) — ✅ CONFIRMED — 🔁 daily
+- **What:** The **Daeungjeon main hall, built in 1308** (National Treasure No. 49) is one of Korea's oldest wooden buildings with a precisely recorded construction date — a Goryeo masterpiece on Deoksungsan
+- **Hours:** Daily roughly **08:00–18:00** (shorter in winter)
+- **Price:** Small admission around **₩3,000**
+- **Official source:** [sudeoksa.com](http://www.sudeoksa.com) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Bus from Yesan or Hongseong. The side elevation of the Daeungjeon — exposed beams, no paint — is one of the most admired facades in Korean architecture.
+
+## 174) 🏰 Haemieupseong Fortress, Seosan (해미읍성) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A remarkably complete 1491 Joseon walled town — gates, thatched houses, a magistrate's office and a prison — and a major Korean Catholic martyrdom site visited by Pope Francis in 2014
+- **Hours:** Daily roughly **09:00–18:00** (winter to 17:00)
+- **Price:** **FREE**
+- **Official source:** [seosan.go.kr](https://www.seosan.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Bus from Seosan terminal. Unlike most restored fortresses this one encloses a real village layout you can walk through.
+
+## 175) 🗿 Seosan Rock-Carved Buddha Triad — 'the Baekje Smile' (서산 마애삼존불) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A 7th-century Baekje relief carved into a cliff face, **National Treasure No. 84** — its central Buddha wears the famous gentle smile that changes character with the angle of the sun
+- **Hours:** Daily, daylight hours
+- **Price:** **FREE**
+- **Official source:** [seosan.go.kr](https://www.seosan.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Short uphill walk from the road. Morning light is best for the smile. Combine with Gaesimsa Temple nearby.
+
+## 176) 🛕 Gaesimsa Temple and its crooked columns, Seosan (개심사) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A small hillside temple loved for its deliberately **unplaned, warped timber columns** — Joseon carpenters used the trees as they grew, giving the halls an organic, hand-made look
+- **Hours:** Daily, daylight hours
+- **Price:** **FREE**
+- **Official source:** [seosan.go.kr](https://www.seosan.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** A 15-min uphill walk from the car park. Architecture students make pilgrimages here for those columns.
+
+## 177) 🌊 Ganggyeong Salted Seafood Market, Nonsan (강경젓갈시장) — ✅ CONFIRMED — 🔁 daily
+- **What:** Korea's **largest salted-seafood (jeotgal) market**, in a Geumgang river port that was one of the three great markets of the Joseon era — hundreds of shops selling fermented shrimp, anchovy and roe
+- **Hours:** Most shops **09:00–18:00**
+- **Price:** **FREE** to browse; tastings usually offered
+- **Official source:** [nonsan.go.kr](https://www.nonsan.go.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Beginner notes:** The annual Ganggyeong Jeotgal Festival runs in **October**, before your window, but the market itself is open year-round. Vacuum packs travel fine.
+
+## 178) 🏛️ Ganggyeong Modern Historic Street (강경 근대역사거리) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A preserved streetscape of 1920s–30s Japanese colonial commercial buildings — former banks, warehouses and a customs house from Ganggyeong's river-port boom
+- **Hours:** Streets always open; interiors vary
+- **Price:** **FREE**
+- **Official source:** [nonsan.go.kr](https://www.nonsan.go.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Beginner notes:** Walkable from the jeotgal market. Far less visited than Gunsan's more famous colonial quarter, and quieter for it.
+
+## 179) ⛵ Baengmagang River Boat & Nakhwaam Cliff, Buyeo (백마강·낙화암) — 👀 WATCH — seasonal sailings
+- **What:** The short boat run beneath **Nakhwaam**, the cliff from which Baekje court women are said to have thrown themselves as Sabi fell in 660 — landing at Goransa temple below
+- **Hours:** Sailings roughly **09:30–17:00**, weather permitting
+- **Price:** Round trip around **₩7,000**
+- **Official source:** [buyeo.go.kr](https://www.buyeo.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Confirm sailings before travelling — low water and wind stop the boats. You can also reach Goransa on foot from Busosanseong.
+
+## 180) 🔥 Neungsan-ri Tombs & the Baekje Gilt-bronze Incense Burner (능산리 고분군) — ✅ CONFIRMED — 🔁 daily
+- **What:** The royal tomb cluster of Sabi-era Baekje, part of the **UNESCO Baekje Historic Areas** — and the temple site where the astonishing gilt-bronze incense burner (National Treasure No. 287) was unearthed in 1993
+- **Hours:** Daily roughly **09:00–18:00** (winter to 17:00)
+- **Price:** Small admission around **₩2,000**
+- **Official source:** [buyeo.go.kr](https://www.buyeo.go.kr) · [UNESCO 1477](https://whc.unesco.org/en/list/1477) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** The burner itself is displayed at the Buyeo National Museum — see the find spot first, then the object.
+
+## 181) 🌾 Gungnamji Pond, Buyeo (궁남지) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** Korea's **oldest recorded artificial garden pond**, built for Baekje King Mu in 634 — a willow-fringed island pavilion reached by a wooden bridge
+- **Hours:** Always open; illuminated in the evening
+- **Price:** **FREE**
+- **Official source:** [buyeo.go.kr](https://www.buyeo.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** 10 min walk from Buyeo terminal. Lotus season is July, but the bare November garden and lit pavilion photograph beautifully at dusk.
+
+## 182) 🏛️ Baekje Cultural Land, Buyeo (백제문화단지) — ✅ CONFIRMED — 🔁 Tue–Sun
+- **What:** A full-scale reconstruction of the Baekje royal palace Sabigung and the temple Neungsa, built from archaeological evidence — the best way to see how Baekje architecture actually looked
+- **Hours:** Tue–Sun **09:00–18:00** (Nov–Feb to 17:00); closed Mondays
+- **Price:** Adult around **₩6,000**
+- **Official source:** [bhm.or.kr](https://www.bhm.or.kr) · [buyeo.go.kr](https://www.buyeo.go.kr)
+- **Beginner notes:** Reconstruction rather than ruin — but it makes the UNESCO ruins at Busosanseong far easier to read afterwards.
+
+## 183) 🏞️ Taeanhaean National Park (태안해안국립공원) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** Korea's only **coastal-type national park** — about 130 islands, dunes, tidal flats and a long chain of west-coast beaches facing the Yellow Sea
+- **Hours:** Always open; visitor centres roughly 09:00–18:00
+- **Price:** **FREE** entry
+- **Official source:** [knps.or.kr](https://www.knps.or.kr) · [taean.go.kr](https://www.taean.go.kr)
+- **Beginner notes:** About 2 hrs from Daejeon by bus via Seosan. November means empty beaches, sharp light and superb sunsets — bring a windproof layer.
+
+## 184) 🌲 Chollipo Arboretum, Taean (천리포수목원) — ✅ CONFIRMED — 🔁 daily
+- **What:** A seaside arboretum founded by naturalised Korean **Carl Ferris Miller**, holding one of the world's great magnolia and holly collections — over 16,000 plant taxa on the shore of the Yellow Sea
+- **Hours:** Daily roughly **09:00–17:00** in winter, later in summer
+- **Price:** Adult around **₩10,000**; child around ₩5,000
+- **Official source:** [chollipo.org](http://www.chollipo.org) · [taean.go.kr](https://www.taean.go.kr)
+- **Beginner notes:** Bus from Taean terminal toward Mallipo. The only Korean arboretum accredited as an international magnolia collection — and it fronts a beach.
+
+## 185) 🌅 Mallipo & Kkotji Beach sunsets, Taean (만리포·꽃지해변) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** Two of the west coast's classic sunset beaches — Kkotji's twin **Halmi and Harabi rocks** silhouette against the sea as the sun drops straight into the Yellow Sea
+- **Hours:** Always open; November sunset roughly **17:20–17:40**
+- **Price:** **FREE**
+- **Official source:** [taean.go.kr](https://www.taean.go.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Beginner notes:** Korea's east coast gets sunrises; the west coast gets sunsets. Check the exact time on the KMA site before setting out.
+
+## 186) 🦕 Anmyeondo Jurassic Museum, Taean (안면도쥬라기박물관) — ✅ CONFIRMED — 🔁 daily
+- **What:** A large private natural-history museum on Anmyeondo with real fossil specimens, amber and animatronic dinosaurs — an easy indoor stop on a windy coast day
+- **Hours:** Daily roughly **09:30–18:00**
+- **Price:** Adult around **₩15,000**
+- **Official source:** [anmyeondojurassic.com](http://www.anmyeondojurassic.com) · [taean.go.kr](https://www.taean.go.kr)
+- **Beginner notes:** Best paired with Kkotji Beach, 15 min away. Good rain contingency for the Taean day trip.
+
+## 187) 🌲 Anmyeondo Recreation Forest & pine grove (안면도자연휴양림) — ✅ CONFIRMED — 🔁 daily
+- **What:** A protected stand of **Anmyeon red pine**, the timber once reserved for royal palaces and warships, with flat boardwalk trails and a small arboretum
+- **Hours:** Daily roughly **09:00–18:00**
+- **Price:** Adult around **₩2,000**
+- **Official source:** [huyang.go.kr](https://www.foresttrip.go.kr) · [taean.go.kr](https://www.taean.go.kr)
+- **Beginner notes:** Easy, level and quiet — one of the few genuinely accessible forest walks on the west coast.
+
+## 188) 🦆 Cheonsuman Bay migratory birds & Seosan Birdland (천수만·서산버드랜드) — ✅ CONFIRMED — 🔁 Tue–Sun (peak season)
+- **What:** Reclaimed rice flats that host **hundreds of thousands of wintering birds** — Baikal teal, geese and cranes — with a purpose-built observation centre and guided bus tours
+- **Hours:** Tue–Sun roughly **09:00–18:00**; closed Mondays
+- **Price:** Centre around **₩2,000**; eco-bus tour extra
+- **Official source:** [seosan.go.kr](https://www.seosan.go.kr) · [birdland.seosan.go.kr](https://birdland.seosan.go.kr)
+- **Beginner notes:** **November is peak arrival** — the Baikal teal murmurations at dusk are one of Korea's great wildlife spectacles. Book the eco-bus ahead.
+
+## 189) 🌊 Muchangpo Mystic Sea Road, Boryeong (무창포 신비의 바닷길) — 👀 WATCH — tide-dependent
+- **What:** A **1.5 km sea path to Seokdaedo island** that emerges from the water on the biggest tides, letting you walk the seabed and gather shellfish
+- **Hours:** Only on spring tides, a few days each lunar month — check the published tide calendar
+- **Price:** **FREE**
+- **Official source:** [brcn.go.kr](https://www.brcn.go.kr) · [khoa.go.kr](https://www.khoa.go.kr)
+- **Beginner notes:** **Check the tide tables first** on the Korea Hydrographic and Oceanographic Agency site — if the tide is wrong there is simply no road.
+
+## 190) 🏖️ Daecheon Beach, Boryeong (대천해수욕장) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** The west coast's best-known beach — 3.5 km of sand backed by pine, and the summer home of the Boryeong Mud Festival (July, outside your window)
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [brcn.go.kr](https://www.brcn.go.kr) · [mudfestival.or.kr](https://www.mudfestival.or.kr)
+- **Beginner notes:** In November it is deserted and bracing — good for a long walk and a seafood lunch rather than swimming.
+
+## 191) ⛏️ Boryeong Coal Museum (보령석탄박물관) — ✅ CONFIRMED — 🔁 Tue–Sun
+- **What:** Korea's first coal museum, with a simulated descent into a working mine shaft — Boryeong was a major coal region until the 1990s
+- **Hours:** Tue–Sun **09:00–18:00** (winter to 17:00); closed Mondays
+- **Price:** Adult around **₩2,000**
+- **Official source:** [brcn.go.kr](https://www.brcn.go.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Beginner notes:** The mine-shaft lift and the cooled tunnel are genuinely well done, and it is one of the cheapest museums in the province.
+
+## 192) 🖋️ Chusa Kim Jeong-hui's House, Yesan (추사고택) — ✅ CONFIRMED — 🔁 Tue–Sun (FREE)
+- **What:** The birthplace of **Kim Jeong-hui (Chusa)**, Joseon's greatest calligrapher and creator of the *Chusache* script, preserved with a memorial hall of his work
+- **Hours:** Tue–Sun **09:00–18:00** (winter to 17:00); closed Mondays
+- **Price:** **FREE**
+- **Official source:** [yesan.go.kr](https://www.yesan.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Near Sudeoksa — pair the two. Chusa's calligraphy is to Korea roughly what Wang Xizhi's is to China.
+
+## 193) 🌉 Yedangho Suspension Bridge, Yesan (예당호 출렁다리) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A **402 m pedestrian suspension bridge** over Yedang Reservoir — Korea's longest when it opened in 2019 — with the nation's widest musical fountain, jetting water 110 m into the air
+- **Hours:** Bridge Mar–Nov **09:00–22:00**, Dec–Feb to 20:00; closed the **first Monday** of each month
+- **Price:** **FREE**
+- **Official source:** [yesan.go.kr](https://www.yesan.go.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Beginner notes:** It genuinely sways. The evening lighting and fountain are the reason to come late rather than early.
+
+## 194) 🌉 Cheonjangho Suspension Bridge & Chilgapsan, Cheongyang (천장호 출렁다리) — ✅ CONFIRMED — 🔁 daily
+- **What:** A 207 m bridge slung across a reservoir gorge at the foot of Chilgapsan, the mountain Cheongyang calls the *chungnam alps*
+- **Hours:** Daily roughly **09:00–18:00**
+- **Price:** Small admission around **₩2,000**
+- **Official source:** [cheongyang.go.kr](https://www.cheongyang.go.kr) · [knps.or.kr](https://www.knps.or.kr)
+- **Beginner notes:** Cheongyang is Korea's chilli-pepper county — the local *gochu* dishes at the car-park restaurants are the point of the trip.
+
+## 195) 🏯 Hongjuseong Fortress, Hongseong (홍주성) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** The restored walls and Joyangmun gate of a fortress that saw the 1906 Hongju righteous-army uprising against Japanese rule
+- **Hours:** Always open; exhibition hall Tue–Sun 09:00–18:00
+- **Price:** **FREE**
+- **Official source:** [hongseong.go.kr](https://www.hongseong.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Hongseong is also the birthplace of independence fighter Kim Jwa-jin and the monk-poet Han Yong-un — both have memorial halls in the county.
+
+## 196) ⛪ Solmoe Holy Ground, Dangjin (솔뫼성지) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** The birthplace of **St Andrew Kim Tae-gon**, Korea's first Catholic priest, in a pine grove — a pilgrimage site addressed by Pope Francis in 2014
+- **Hours:** Grounds always open; memorial hall roughly 09:00–17:00
+- **Price:** **FREE**
+- **Official source:** [solmoe.or.kr](http://www.solmoe.or.kr) · [dangjin.go.kr](https://www.dangjin.go.kr)
+- **Beginner notes:** *Solmoe* means 'pine hill'. Combine with Haemieupseong for a full Chungnam Catholic-heritage day.
+
+## 197) 🌅 Waudo Port & Samgil Beach sunset, Dangjin (왜목마을) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** The Waemok headland is the rare Korean west-coast spot where you can watch **both sunrise and sunset over the sea**, thanks to the shape of the peninsula
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [dangjin.go.kr](https://www.dangjin.go.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Beginner notes:** The geographic quirk is real and locals are proud of it. Dangjin is about 1 hr 40 from Daejeon by bus.
+
+## 198) 🧵 Hansan Mosi ramie weaving, Seocheon (한산모시) — ✅ CONFIRMED — 🔁 Tue–Sun
+- **What:** The weaving of **Hansan ramie cloth**, inscribed on the UNESCO Representative List of Intangible Cultural Heritage in 2011 — demonstrated live at the Mosi Hall
+- **Hours:** Tue–Sun roughly **09:00–18:00**; closed Mondays
+- **Price:** Small admission around **₩2,000**
+- **Official source:** [seocheon.go.kr](https://www.seocheon.go.kr) · [UNESCO ICH](https://ich.unesco.org/en/RL/00453)
+- **Beginner notes:** The thread is split by hand using the weaver's teeth — watching it done is the whole experience. Cloth is sold on site.
+
+## 199) 🦢 Sinseong-ri Reed Field & winter swans, Seocheon (신성리 갈대밭) — 👀 WATCH — seasonal
+- **What:** A vast Geumgang riverside reed bed, famous as a film location, next to the estuary wintering grounds where **swans and Baikal teal** arrive from November
+- **Hours:** Always open; observatory daylight hours
+- **Price:** **FREE**
+- **Official source:** [seocheon.go.kr](https://www.seocheon.go.kr) · [nie.re.kr](https://www.nie.re.kr)
+- **Beginner notes:** Reachable on the Janghang line. The reeds are at their pale, rustling best in late autumn.
+
+## 200) 🌲 Janghang Skywalk & Songnim Forest, Seocheon (장항스카이워크) — ✅ CONFIRMED — 🔁 Tue–Sun
+- **What:** A 250 m walkway **15 m up in the crowns of a coastal pine forest**, ending with a view over the Geumgang estuary tidal flats
+- **Hours:** Tue–Sun roughly **09:00–18:00** (winter to 17:00)
+- **Price:** Around **₩2,000**, usually redeemable against local purchases
+- **Official source:** [seocheon.go.kr](https://www.seocheon.go.kr) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
+- **Beginner notes:** Walking at canopy height through pines is a very different sensation from a glass cliff skywalk — worth the detour.
+
+## 201) 🛕 Guinsa Temple, Danyang (구인사) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** The head temple of the **Cheontae order** — an extraordinary stack of multi-storey concrete-and-timber halls climbing a narrow valley, housing thousands of monks and nuns
+- **Hours:** Daily, daylight hours
+- **Price:** **FREE**
+- **Official source:** [cheontae.org](http://www.cheontae.org) · [danyang.go.kr](https://www.danyang.go.kr)
+- **Beginner notes:** Unlike any other Korean temple — vertical rather than horizontal, and still a working monastic city. Shuttle buses run up the valley.
+
+## 202) 🗻 Dodamsambong Peaks & Seokmun Arch, Danyang (도담삼봉·석문) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** Three rock pinnacles standing in the Namhangang river, painted for centuries and linked to the Joseon founder-strategist Jeong Do-jeon — with a natural stone arch a short walk upstream
+- **Hours:** Always open; illuminated at night
+- **Price:** **FREE**
+- **Official source:** [danyang.go.kr](https://www.danyang.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Right beside the road, 10 min from Danyang town. These are the first two of the classic *Danyang Palgyeong*, the eight scenic views.
+
+## 203) 🪨 Sainam Rock & the Danyang Palgyeong circuit (사인암) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A sheer stacked-slab cliff above a clear stream, inscribed with the calligraphy of Joseon literati — one of the eight canonical **Danyang Palgyeong** scenic views
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [danyang.go.kr](https://www.danyang.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** The rock formation is a geological oddity — near-horizontal jointing that looks stacked by hand. Free and rarely crowded.
+
+## 204) 🕳️ Gosu Cave, Danyang (고수동굴) — ✅ CONFIRMED — 🔁 daily
+- **What:** A 1.7 km limestone cave designated a **Natural Monument**, threaded with steel walkways past stalactites, columns and pools
+- **Hours:** Daily roughly **09:00–17:30**
+- **Price:** Adult around **₩11,000**
+- **Official source:** [danyang.go.kr](https://www.danyang.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Tight in places and genuinely steep — not for anyone with knee or claustrophobia problems. Constant ~15°C inside, so comfortable in November.
+
+## 205) 🏹 Ondal Tourist Park & Ondal Cave, Danyang (온달관광지) — ✅ CONFIRMED — 🔁 daily
+- **What:** A Goguryeo-themed park at the fortress of the legendary general **Ondal**, combining a large drama-set village with a 760 m limestone cave
+- **Hours:** Daily roughly **09:00–18:00** (winter to 17:00)
+- **Price:** Combined ticket around **₩7,000**
+- **Official source:** [danyang.go.kr](https://www.danyang.go.kr) · [chungbuk.go.kr](https://www.chungbuk.go.kr)
+- **Beginner notes:** The open-air set has been used for dozens of Korean historical dramas. Ondalsanseong fortress above is a steep 40-min climb.
+
+## 206) 🌉 Mancheonha Skywalk & zipline, Danyang (만천하 스카이워크) — ✅ CONFIRMED — 🔁 Tue–Sun
+- **What:** A glass-floored spiral walkway cantilevered **80 m above the Namhangang**, with a zipline and alpine slide on the same site
+- **Hours:** Roughly **09:00–18:00**; closed some Mondays
+- **Price:** Skywalk around **₩3,000**; zipline extra
+- **Official source:** [danyang.go.kr](https://www.danyang.go.kr) · [chungbuk.go.kr](https://www.chungbuk.go.kr)
+- **Beginner notes:** Shuttle from the car park up to the deck. The river bend view is the whole point — go on a clear day.
+
+## 207) 💡 Suyanggae Light Tunnel & Prehistory Museum, Danyang (수양개빛터널) — ✅ CONFIRMED — 🔁 daily
+- **What:** A disused rail tunnel turned into a year-round light installation, beside the **Suyanggae Paleolithic excavation site** and its museum
+- **Hours:** Daily roughly **10:00–21:00**
+- **Price:** Adult around **₩9,000**
+- **Official source:** [danyang.go.kr](https://www.danyang.go.kr) · [chungbuk.go.kr](https://www.chungbuk.go.kr)
+- **Beginner notes:** Best after dark, which in November means from about 17:30. The prehistory museum next door is a serious archaeological site, not a gimmick.
+
+## 208) 🚡 Cheongpungho Cable Car, Jecheon (청풍호 케이블카) — ✅ CONFIRMED — 🔁 daily
+- **What:** A cable car to the summit of Bibongsan over **Cheongpung Lake**, giving a 360° view of the flooded valleys of the Chungju Dam reservoir
+- **Hours:** Daily roughly **09:00–17:00** (last car earlier in winter)
+- **Price:** Round trip adult around **₩18,000**
+- **Official source:** [jecheon.go.kr](https://www.jecheon.go.kr) · [chungbuk.go.kr](https://www.chungbuk.go.kr)
+- **Beginner notes:** Combine with the Cheongpung Cultural Heritage Complex below — hanok relocated from the valleys before they were flooded.
+
+## 209) 🌾 Uirimji Reservoir, Jecheon (의림지) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** One of Korea's **three oldest irrigation reservoirs**, dating to the Samhan period around two thousand years ago, ringed by ancient willows and pavilions
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [jecheon.go.kr](https://www.jecheon.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** A 15-min bus from Jecheon station. The lakeside loop takes about 30 min and the old pines are the draw.
+
+## 210) ⛪ Baeron Holy Ground, Jecheon (배론성지) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A wooded valley where persecuted Catholics hid and ran Korea's first Western-style seminary — the site of the 1801 *Hwang Sa-yong silk letter*
+- **Hours:** Grounds always open; exhibition roughly 09:00–17:00
+- **Price:** **FREE**
+- **Official source:** [baeron.or.kr](http://www.baeron.or.kr) · [jecheon.go.kr](https://www.jecheon.go.kr)
+- **Beginner notes:** One of the most peaceful places in Chungbuk regardless of belief, and the autumn colour in the valley is excellent.
+
+## 211) 🚢 Chungjuho Lake ferry cruise (충주호 유람선) — 👀 WATCH — seasonal schedule
+- **What:** Korea's largest reservoir lake — ferries link Chungjunaru, Cheongpungnaru, Janghoenaru and Danyangnaru through steep gorge scenery
+- **Hours:** Schedule varies by season and water level; the Chungju Dam–Janghoe run takes about **1 hr 30 min**
+- **Price:** Fares roughly **₩15,000–₩25,000** depending on route
+- **Official source:** [chungju.go.kr](https://www.chungju.go.kr) · [danyang.go.kr](https://www.danyang.go.kr)
+- **Beginner notes:** **Confirm sailings the day before** — low water or wind cancels them. The Janghoe leg past Oksunbong is the scenic one.
+
+## 212) ♨️ Suanbo Hot Springs, Chungju (수안보온천) — ✅ CONFIRMED — 🔁 daily
+- **What:** A naturally alkaline hot spring used since the Goryeo era, now a small spa town at the foot of Woraksan
+- **Hours:** Bathhouses roughly **06:00–20:00**
+- **Price:** Public bath around **₩8,000–₩12,000**
+- **Official source:** [chungju.go.kr](https://www.chungju.go.kr) · [chungbuk.go.kr](https://www.chungbuk.go.kr)
+- **Beginner notes:** Quieter and cheaper than Yuseong. Pairs naturally with a Woraksan hike or the Mireuk temple site nearby.
+
+## 213) 🗿 Chungju Mireuk Daewon Temple Site (충주 미륵대원지) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A late-Goryeo temple ruin on the old Gyeripryeong pass with a **10.6 m stone Maitreya Buddha** facing north — unusually, toward the abandoned Goguryeo territories
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [chungju.go.kr](https://www.chungju.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** On the road toward Mungyeong Saejae. The north-facing Buddha is unique in Korea and nobody is quite sure why.
+
+## 214) 🪨 Tangeumdae & Jungangtap Park, Chungju (탄금대·중앙탑) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** The riverside cliff where the gayageum-maker Ureuk played, and — 6 km away — the **14.5 m Jungangtap** (National Treasure No. 6), the tallest surviving Unified Silla stone pagoda, marking what Silla took to be the centre of the peninsula
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [chungju.go.kr](https://www.chungju.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Tangeumdae was also the site of the disastrous 1592 battle of the Imjin War. Both parks are free and rarely busy.
+
+## 215) ⛰️ Woraksan National Park (월악산국립공원) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A steep granite national park above Chungju Lake — Yeongbong peak is a hard, chain-assisted climb with one of the best reservoir views in Korea
+- **Hours:** Always open; upper trails may close in ice
+- **Price:** **FREE**
+- **Official source:** [knps.or.kr](https://www.knps.or.kr) · [chungbuk.go.kr](https://www.chungbuk.go.kr)
+- **Beginner notes:** Check the KNPS site for closures — November frost shuts the upper chain sections without much notice.
+
+## 216) 🍁 Hwayanggugok Valley, Goesan (화양구곡) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** Nine named scenic bends of a clear granite stream inside Songnisan National Park, celebrated by the Joseon scholar Song Si-yeol and inscribed with his calligraphy
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [goesan.go.kr](https://www.goesan.go.kr) · [knps.or.kr](https://www.knps.or.kr)
+- **Beginner notes:** A flat 3 km streamside walk takes in most of the nine bends — one of the easiest classic scenic walks in Chungbuk.
+
+## 217) 📖 Jeong Ji-yong Literary House, Okcheon (정지용 생가) — ✅ CONFIRMED — 🔁 Tue–Sun (FREE)
+- **What:** The restored birthplace of the modernist poet **Jeong Ji-yong**, whose 1927 poem *Hyanghsu* ('Nostalgia') is one of the best-known texts in Korean literature
+- **Hours:** Tue–Sun **09:00–18:00** (winter to 17:00); closed Mondays
+- **Price:** **FREE**
+- **Official source:** [okcheon.go.kr](https://www.okcheon.go.kr) · [Ministry of Culture](https://www.mcst.go.kr)
+- **Beginner notes:** Okcheon is only 20 min from Daejeon by local train — the cheapest literary day trip in the region.
+
+## 218) 🎼 Yeongdong Nangye Gugak Village (영동 난계국악촌) — 👀 WATCH — check programme
+- **What:** The home region of **Park Yeon (Nangye)**, one of the three great masters of Korean court music, with an instrument museum and hands-on gugak workshops
+- **Hours:** Tue–Sun roughly **09:00–18:00**
+- **Price:** Museum around **₩2,000**; workshops extra
+- **Official source:** [yd.go.kr](https://www.yd.go.kr) · [gugak.go.kr](https://www.gugak.go.kr)
+- **Beginner notes:** Yeongdong is on the Gyeongbu line south of Daejeon. Check whether workshop sessions run on your date before travelling.
+
+## 219) 🎋 Jincheon Nongdari Stone Bridge (진천 농다리) — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A **Goryeo-era stone bridge of 28 piers** laid without mortar, still standing in the Miho river after roughly a thousand years
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [jincheon.go.kr](https://www.jincheon.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** You can walk across it. The stones shift slightly underfoot — that flexibility is why it has survived a millennium of floods.
+
+## 220) 🚋 Daejeon Metro Line 1 & the Line 2 tram project (대전도시철도) — ✅ CONFIRMED — 🔁 daily
+- **What:** Daejeon's single 22-station subway line runs Panam–Banseok through the city centre; Line 2 is being built as a **tram**, unusual in Korea
+- **Hours:** Roughly **05:30–24:00**
+- **Price:** Base fare **₩1,550** (transport card)
+- **Official source:** [djet.co.kr](https://www.djet.co.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)
+- **Beginner notes:** T-money and Cashbee both work. One line covers most of what a visitor needs; buses fill the gaps.
+
+## 221) 🏛️ Old Chungcheongnam-do Provincial Office & 1930s civic quarter — ✅ CONFIRMED — 🔁 daily (FREE)
+- **What:** A short walk through Daejeon's colonial-era administrative core — the former provincial office is a registered modern cultural property still standing downtown
+- **Hours:** Exterior always; interior exhibition Tue–Sun 09:00–18:00
+- **Price:** **FREE**
+- **Official source:** [daejeon.go.kr](https://www.daejeon.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Daejeon exists because the railway arrived in 1905 — this quarter is where that history is still legible on the street.
+
+## 222) 🍲 Daejeon dubu duruchigi — the city's own dish (두부두루치기) — ✅ CONFIRMED — 🔁 daily
+- **What:** Spicy stir-fried tofu in a chilli-and-pork sauce, invented in Daejeon's downtown alleys and still served mainly here
+- **Hours:** Most restaurants **11:00–22:00**
+- **Price:** Mains roughly **₩9,000–₩15,000**
+- **Official source:** [daejeon.go.kr](https://www.daejeon.go.kr) · [daejeontour.co.kr](https://daejeontour.co.kr)
+- **Beginner notes:** It comes with rice to fry in the leftover sauce — that second stage is the actual point of the dish.
+
+## 223) 🚌 Daejeon Complex Bus Terminal & the Chungcheong intercity network — ✅ CONFIRMED — 🔁 daily
+- **What:** The hub for reaching everything in this section — Gongju, Buyeo, Nonsan, Boryeong, Seosan, Cheongju, Danyang and Chungju all run from here
+- **Hours:** Roughly **05:30–22:00**
+- **Price:** Fares roughly **₩3,000–₩12,000**
+- **Official source:** [txbus.t-money.co.kr](https://txbus.t-money.co.kr) · [kobus.co.kr](https://www.kobus.co.kr)
+- **Beginner notes:** Buy on the app or at the machine. For the far coast (Taean, Boryeong) leave early — those are 2–3 hr runs each way.
+
+## 224) 🎫 Chungcheongnam-do official tourism portal & seasonal passes — ✅ CONFIRMED — 🔁 daily
+- **What:** The provincial portal lists every county's attractions, seasonal festivals and any current combined-ticket or free-shuttle promotions
+- **Hours:** Online, always
+- **Price:** **FREE** to use
+- **Official source:** [tour.chungnam.go.kr](https://tour.chungnam.go.kr) · [english.visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** Worth checking before you travel — Chungnam periodically runs combined-admission campaigns aimed at foreign visitors.
+
+## 225) 📞 1330 Korea Travel Hotline for the Chungcheong region — ✅ CONFIRMED — 🔁 24/7 (FREE)
+- **What:** The national tourist hotline gives live English, Japanese and Chinese help with schedules, closures and directions anywhere in the region
+- **Hours:** **24 hours**, every day
+- **Price:** **FREE** (mobile call charges only)
+- **Official source:** [Korea Tourism Organization](https://english.visitkorea.or.kr) · dial **1330**
+- **Beginner notes:** The single most useful number in Korea. Use it to confirm any ⏳ TBA or 👀 WATCH item in this file before you set out.
+
+---
+
 ## 🧭 If you have one extra day — official picks
 - **Daejeon:** 🥖 **Sungsimdang bread pilgrimage** (성심당, est. 1956 — one of Korea's legendary "Big 5" bakeries; get the *twisted soboro* 튀김소보로 warm, main branch 5 min from Daejeon Station, [sungsimdang.co.kr](http://www.sungsimdang.co.kr)) · Yuseong hot springs district (온천) · Hanbat Arboretum · Daejeon Skyroad, Expo Bridge walk — [Visit Daejeon](https://www.daejeon.go.kr) · [daejeontour.co.kr](https://daejeontour.co.kr)
 - **Cheonan:** 🥮 **Hakwha Hodugwaja — the ORIGINAL walnut pastry, since 1934** (born at Cheonan station; get them warm from the terminal-crossroads or fire-station branches, [hodo1934.com](https://www.hodo1934.com)) · Cheonan's fall foliage parks, Gakwonsa Temple (mountain temple + giant Buddha), and food street near the old city center — [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
