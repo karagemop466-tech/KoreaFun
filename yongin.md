@@ -21,7 +21,9 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **What:** Extended evening opening with illuminated village streets and night programming at Korean Folk Village.
 - **When:** The operator lists **Apr 11–Nov 15, 2026**, and — importantly — **evening opening runs only Fri, Sat, Sun and public holidays**, not every day. Your window has four usable weekends before it closes: Oct 31–Nov 1, Nov 6–8, Nov 13–15. **Nov 15 is the final night of the season.**
 - **Also on:** the ambient night program **"Adding Moonlight" (달빛을 더하다)** runs alongside the ticketed horror attractions.
-- **Price/hours:** Admission and closing time are date-specific; use the operator’s live ticket and operating-hours pages.
+- **Price (operator's fare page, Aug 18):** **₩37,000 adult/teen · ₩30,000 child** (36 months–elementary) **· ₩26,000 senior 65+/disabled**. One ticket covers the folk village, the traditional and world folk museums, the scheduled performances and **all the amusement-village rides** — there is no separate ride pass. Parking ₩3,000 large / ₩2,000 small.
+- **⚠️ Worth timing:** the operator runs **different discounts every month** (weekday on-site payment, night-entry promos, hanbok discount, culture-day rates), and online advance booking through Naver or the open markets is routinely **20–30% cheaper** than the gate. Do not pay the ₩37,000 walk-up rate without checking the monthly promotion page first.
+- **Hours:** seasonal and date-specific — roughly 10:00–19:00 Mon–Thu and 10:00–22:00 Fri–Sun in the night-opening season, with ticketing closing 30–60 min before. Confirm the exact date on the operator's hours page.
 - **Official source (reviewed Aug 17):** [Korean Folk Village](https://www.koreanfolk.co.kr/)
 
 ### 2) 👻 **Salgwiok (살귀옥 / A Haunted Prison)** — ✅ CONFIRMED — through Nov 15, 2026

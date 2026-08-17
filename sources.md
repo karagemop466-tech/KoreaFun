@@ -532,14 +532,14 @@ Every source below was re-fetched. These entries had a **dead, hijacked, repurpo
 | Gyeongju Solgeo Art Museum | — | https://www.gjsam.or.kr/ko/ | Entry retitled; covered by the Expo park pass |
 | Gyeongju World | gyeongjuworld.com | https://www.gjw.co.kr/ | Rebranded domain; fares corrected |
 | Silla Millennium Park | smpark.co.kr (squatted) | **⛔ PERMANENTLY CLOSED** | Venue shut; only the Ragung hanok hotel remains |
-| Wooyang Museum of Contemporary Art | — | https://wooyangmuseum.org | Hours and prices were wrong (₩8,000 → ₩15,000) |
+| Wooyang Museum of Contemporary Art | — | https://wooyangmuseum.org | Hours and prices were wrong (₩8,000 → **₩15,000 adult / ₩12,000 student / ₩10,000 child**) — direction confirmed Aug 18 2026 against VisitKorea's accessibility listing. |
 | Beomeosa Temple | beomeosa.co.kr (spam) | https://www.beomeo.kr | Domain hijacked; hours corrected |
 | Busan X the Sky | — | https://www.busanxthesky.com | **₩27,000 adult / ₩24,000 child-senior, 10:00–21:00 (last ticket 20:30)** — re-verified Aug 18 2026 against Visit Busan's official listing. An earlier pass logged this the wrong way round as "₩27,000 → ₩29,000"; ₩27,000 is correct and ₩29,000 was the error. |
 | Palgongsan Cable Car / National Park | palgongsan.or.kr (dead), palgongcablecar.com (hijacked) | https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=122400&menuNo=8000739 · [daegutour listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) | Both domains gone; Gatbawi is a separate trailhead, not a cable-car stop |
 | N Seoul Tower observatory | seoultower.co.kr (plaza operator only) | https://www.nseoultower.co.kr/index.asp | Wrong operator; weekday/weekend hours split |
 | Hwadam Forest | — | https://www.hwadamsup.com/pc/ko/index | Closed Mondays, 100% advance reservation, monorail fares corrected |
 | Yeosu Maritime Cable Car | — | http://www.yeosucablecar.com · [yeosu.go.kr](https://www.yeosu.go.kr/tour/travel/culture_scenic_spot?mode=view&idx=879) | Seasonal hours and crystal-cabin fares added |
-| Korean Folk Village | — | https://www.koreanfolk.co.kr · [tickets](https://www.koreanfolk.co.kr/ticket) · [monthly notices](https://www.koreanfolk.co.kr/operation/notice) | Not closed Mondays; ₩25,000 → ₩37,000, evening passes added |
+| Korean Folk Village | — | https://www.koreanfolk.co.kr · [fares](https://www.koreanfolk.co.kr/price/charge.asp) · [monthly notices](https://www.koreanfolk.co.kr/operation/notice) | Not closed Mondays; ₩25,000 → **₩37,000 adult/teen, ₩30,000 child, ₩26,000 senior/disabled** — re-verified Aug 18 2026 on the operator's own fare page. Ticket includes the amusement-village rides. |
 | Ulsan HD FC | uhfc.tv (squatted) | https://www.uhdfc.com | Club rebranded Ulsan Hyundai → Ulsan HD |
 | Ulsan Hyundai Mobis Phoebus | hyundai-mobisbasketball.com (dead) | https://phoebus.kbl.or.kr/ | Club page moved under KBL |
 | Templestay (English) | eng.templestay.com | https://www.templestay.com/en/main/view.do | Subdomain retired |

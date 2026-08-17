@@ -6028,16 +6028,17 @@
  },
  "yongin.md#1": {
   "badge": "✅",
-  "body_hash": "dd5f74a637",
+  "body_hash": "9cff49a73a",
   "checked_on": "2026-08-18",
   "file": "yongin.md",
-  "note": "Folk Village night season Apr 11-Nov 15 2026, Fri/Sat/Sun + holidays only. Entry already correct.",
+  "note": "Added real prices (entry previously deferred everything): W37,000 adult/teen, W30,000 child, W26,000 senior/disabled, ticket INCLUDES all rides, parking W3,000/2,000. Flagged that online advance booking is routinely 20-30% cheaper and monthly promos vary. Night season Apr 11-Nov 15 Fri/Sat/Sun+holidays already confirmed.",
   "num": 1,
   "sources": [
+   "https://www.koreanfolk.co.kr/price/charge.asp",
    "https://m.koreanfolk.co.kr/home/promotion/event/"
   ],
   "title": "🌙 Korean Folk Village Evening Festival",
-  "verdict": "confirmed"
+  "verdict": "corrected"
  },
  "yongin.md#10": {
   "badge": "🔎",
