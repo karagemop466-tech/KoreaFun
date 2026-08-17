@@ -123,16 +123,26 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [dureraum.org](https://www.dureraum.org)
 
 ### 20) 🎨 **Busan Museum of Art and Space Lee Ufan** — 🔎 VERIFIED MUSEUM
-- **What:** Municipal museum at Centum plus the dedicated Lee Ufan building. Permanent collection is free; closed Monday.
-- **Official source (reviewed Aug 17):** [art.busan.go.kr](https://art.busan.go.kr)
+- **What:** Busan's flagship municipal art museum at Centum, plus **Space Lee Ufan**, a separate building designed by the artist himself.
+- **⚠️ Read this before you go — the main building has been shut since Dec 18, 2023** for a ₩43bn renovation. It is **not** a museum you could have walked into for most of 2026.
+- **✅ The good news: it reopens just before your trip.** At review (Aug 18, 2026) the museum's own homepage was running an **"opening in D-30" countdown**, putting reopening around **mid-September 2026** — and it is recruiting staff for a **reopening special exhibition**. So by November you should be arriving at a freshly reopened museum. **Confirm on the homepage before you travel**; a project already two years long can slip again.
+- **Space Lee Ufan is open regardless** and has stayed open right through the works — **Tue–Sun 10:00–18:00, last entry 17:30, closed Mondays.**
+- **💡 Price: Space Lee Ufan normally costs ₩3,000 adult / ₩2,000 child, but is currently FREE** while the main building is closed. Expect the charge to return with the reopening. The main building's permanent collection is free; special exhibitions are ticketed separately.
+- **⚠️ No on-site parking and no docent tours** during the works — take the subway (Line 2 / Donghae Line, BEXCO station). ☎ 051-744-2602.
+- **Official sources (reviewed Aug 18):** [Busan Museum of Art — renovation notice and reopening countdown](https://art.busan.go.kr/index.nm) · [visitor information](https://art.busan.go.kr/index.nm?menuCd=1)
 
 ---
 
 ## Nampo, Yeongdo, and the old port
 
 ### 21) 🗼 **Yongdusan Park and Busan Tower** — 🔎 VERIFIED OPERATOR
-- **What:** Hill park above Nampo and the renovated observatory. Park is free; tower is ticketed.
-- **Official sources (reviewed Aug 17):** [bisco.or.kr](https://www.bisco.or.kr) · [Visit Busan](https://english.visitbusan.net)
+- **What:** Hill park above Nampo-dong with the city's classic landmark observatory (also branded **Busan Diamond Tower**), reached by a street escalator from the subway.
+- **Park:** **free, open 24 hours, year-round.**
+- **Tower:** **10:00–22:00, last tickets 21:30.** **₩12,000 adult / ₩9,000 child (36 months–12) and senior 65+**, under-3s free.
+- **💡 Free with the Visit Busan Pass**, if you're buying one for other attractions.
+- **Getting there:** Line 1 to **Jungang** exit 1 (6 min) or **Nampo** exit 7 (7 min). Use the **escalator** rather than the stairs — it's a genuine hill.
+- **💡 Pairs naturally with the Yeongdo Bridge lift (#27) and Jagalchi (#22)** — all three are within a 15-minute walk of each other in Nampo-dong.
+- **Official sources (reviewed Aug 18):** [BISCO — Yongdusan Park / Busan Tower (operator)](https://www.bisco.or.kr/yongdusanpark/) · [Visit Busan — hours, fares, access](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko)
 
 ### 22) 🐟 **Jagalchi Market** — 🔎 VERIFIED MARKET
 - **What:** Korea's largest seafood market — street-side stalls, a live-fish floor, upstairs restaurants that will cook what you buy downstairs, and a rooftop harbour deck.

@@ -403,15 +403,94 @@
   "text": "- **Official source (reviewed Aug 17):** [busanfireworks.com](https://busanfireworks.com) — homepage countdown reads **2026. 11. 07. (토)** at 광안리해수욕장, 이기대, 동백섬.",
   "verdict": "sourced"
  },
+ "busan.md#20:2f85fbac14": {
+  "checked_on": "2026-08-17",
+  "entry": 20,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Busan Museum of Art: MAJOR STATUS FINDING. Entry described a working museum ('permanent collection is free; closed Monday'). The MAIN BUILDING HAS BEEN CLOSED SINCE 2023-12-18 for a 43bn-won renovation - closed for the whole of 2025 and most of 2026. GOOD NEWS: the museum's own homepage at review (Aug 18 2026) showed an 'opening in D-30' countdown implying reopening ~mid-Sept 2026, plus a staff-recruitment notice for a REOPENING SPECIAL EXHIBITION, and the visitor page notes renovation suspensions run 'until 2026-09-16'. So the museum should be open by November, but the project already slipped from an original 2026-05-05 sign date - hedged with a confirm-before-travel. Space Lee Ufan stayed OPEN throughout: Tue-Sun 10:00-18:00, last entry 17:30, closed Mon. PRICE: Lee Ufan normally 3,000/2,000 (Busan residents -1,000) but TEMPORARILY FREE during the closure; expect the charge back on reopening. No parking, no docent tours during works. Tel 051-744-2602.",
+  "sources": [
+   "https://art.busan.go.kr/index.nm",
+   "https://art.busan.go.kr/index.nm?menuCd=1"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Busan Museum of Art — renovation notice and reopening countdown](https://art.busan.go.kr/index.nm) · [visitor information](https://art.busan.go.kr/index.nm?menuCd=1)",
+  "verdict": "sourced"
+ },
  "busan.md#20:37367a73c2": {
   "checked_on": null,
   "entry": 20,
   "file": "busan.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Municipal museum at Centum plus the dedicated Lee Ufan building. Permanent collection is free; closed Monday.",
   "verdict": "unchecked"
+ },
+ "busan.md#20:5eb6a222f7": {
+  "checked_on": "2026-08-17",
+  "entry": 20,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Busan Museum of Art: MAJOR STATUS FINDING. Entry described a working museum ('permanent collection is free; closed Monday'). The MAIN BUILDING HAS BEEN CLOSED SINCE 2023-12-18 for a 43bn-won renovation - closed for the whole of 2025 and most of 2026. GOOD NEWS: the museum's own homepage at review (Aug 18 2026) showed an 'opening in D-30' countdown implying reopening ~mid-Sept 2026, plus a staff-recruitment notice for a REOPENING SPECIAL EXHIBITION, and the visitor page notes renovation suspensions run 'until 2026-09-16'. So the museum should be open by November, but the project already slipped from an original 2026-05-05 sign date - hedged with a confirm-before-travel. Space Lee Ufan stayed OPEN throughout: Tue-Sun 10:00-18:00, last entry 17:30, closed Mon. PRICE: Lee Ufan normally 3,000/2,000 (Busan residents -1,000) but TEMPORARILY FREE during the closure; expect the charge back on reopening. No parking, no docent tours during works. Tel 051-744-2602.",
+  "sources": [
+   "https://art.busan.go.kr/index.nm",
+   "https://art.busan.go.kr/index.nm?menuCd=1"
+  ],
+  "text": "- **💡 Price: Space Lee Ufan normally costs ₩3,000 adult / ₩2,000 child, but is currently FREE** while the main building is closed. Expect the charge to return with the reopening. The main building's permanent collection is free; special exhibitions are ticketed separately.",
+  "verdict": "verified"
+ },
+ "busan.md#20:8ee0e81d59": {
+  "checked_on": "2026-08-17",
+  "entry": 20,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Busan Museum of Art: MAJOR STATUS FINDING. Entry described a working museum ('permanent collection is free; closed Monday'). The MAIN BUILDING HAS BEEN CLOSED SINCE 2023-12-18 for a 43bn-won renovation - closed for the whole of 2025 and most of 2026. GOOD NEWS: the museum's own homepage at review (Aug 18 2026) showed an 'opening in D-30' countdown implying reopening ~mid-Sept 2026, plus a staff-recruitment notice for a REOPENING SPECIAL EXHIBITION, and the visitor page notes renovation suspensions run 'until 2026-09-16'. So the museum should be open by November, but the project already slipped from an original 2026-05-05 sign date - hedged with a confirm-before-travel. Space Lee Ufan stayed OPEN throughout: Tue-Sun 10:00-18:00, last entry 17:30, closed Mon. PRICE: Lee Ufan normally 3,000/2,000 (Busan residents -1,000) but TEMPORARILY FREE during the closure; expect the charge back on reopening. No parking, no docent tours during works. Tel 051-744-2602.",
+  "sources": [
+   "https://art.busan.go.kr/index.nm",
+   "https://art.busan.go.kr/index.nm?menuCd=1"
+  ],
+  "text": "- **⚠️ No on-site parking and no docent tours** during the works — take the subway (Line 2 / Donghae Line, BEXCO station). ☎ 051-744-2602.",
+  "verdict": "prose"
+ },
+ "busan.md#20:90e8c457ac": {
+  "checked_on": "2026-08-17",
+  "entry": 20,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Busan Museum of Art: MAJOR STATUS FINDING. Entry described a working museum ('permanent collection is free; closed Monday'). The MAIN BUILDING HAS BEEN CLOSED SINCE 2023-12-18 for a 43bn-won renovation - closed for the whole of 2025 and most of 2026. GOOD NEWS: the museum's own homepage at review (Aug 18 2026) showed an 'opening in D-30' countdown implying reopening ~mid-Sept 2026, plus a staff-recruitment notice for a REOPENING SPECIAL EXHIBITION, and the visitor page notes renovation suspensions run 'until 2026-09-16'. So the museum should be open by November, but the project already slipped from an original 2026-05-05 sign date - hedged with a confirm-before-travel. Space Lee Ufan stayed OPEN throughout: Tue-Sun 10:00-18:00, last entry 17:30, closed Mon. PRICE: Lee Ufan normally 3,000/2,000 (Busan residents -1,000) but TEMPORARILY FREE during the closure; expect the charge back on reopening. No parking, no docent tours during works. Tel 051-744-2602.",
+  "sources": [
+   "https://art.busan.go.kr/index.nm",
+   "https://art.busan.go.kr/index.nm?menuCd=1"
+  ],
+  "text": "- **⚠️ Read this before you go — the main building has been shut since Dec 18, 2023** for a ₩43bn renovation. It is **not** a museum you could have walked into for most of 2026.",
+  "verdict": "verified"
+ },
+ "busan.md#20:b696e30966": {
+  "checked_on": "2026-08-17",
+  "entry": 20,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Busan Museum of Art: MAJOR STATUS FINDING. Entry described a working museum ('permanent collection is free; closed Monday'). The MAIN BUILDING HAS BEEN CLOSED SINCE 2023-12-18 for a 43bn-won renovation - closed for the whole of 2025 and most of 2026. GOOD NEWS: the museum's own homepage at review (Aug 18 2026) showed an 'opening in D-30' countdown implying reopening ~mid-Sept 2026, plus a staff-recruitment notice for a REOPENING SPECIAL EXHIBITION, and the visitor page notes renovation suspensions run 'until 2026-09-16'. So the museum should be open by November, but the project already slipped from an original 2026-05-05 sign date - hedged with a confirm-before-travel. Space Lee Ufan stayed OPEN throughout: Tue-Sun 10:00-18:00, last entry 17:30, closed Mon. PRICE: Lee Ufan normally 3,000/2,000 (Busan residents -1,000) but TEMPORARILY FREE during the closure; expect the charge back on reopening. No parking, no docent tours during works. Tel 051-744-2602.",
+  "sources": [
+   "https://art.busan.go.kr/index.nm",
+   "https://art.busan.go.kr/index.nm?menuCd=1"
+  ],
+  "text": "- **What:** Busan's flagship municipal art museum at Centum, plus **Space Lee Ufan**, a separate building designed by the artist himself.",
+  "verdict": "prose"
+ },
+ "busan.md#20:bba0347957": {
+  "checked_on": "2026-08-17",
+  "entry": 20,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Busan Museum of Art: MAJOR STATUS FINDING. Entry described a working museum ('permanent collection is free; closed Monday'). The MAIN BUILDING HAS BEEN CLOSED SINCE 2023-12-18 for a 43bn-won renovation - closed for the whole of 2025 and most of 2026. GOOD NEWS: the museum's own homepage at review (Aug 18 2026) showed an 'opening in D-30' countdown implying reopening ~mid-Sept 2026, plus a staff-recruitment notice for a REOPENING SPECIAL EXHIBITION, and the visitor page notes renovation suspensions run 'until 2026-09-16'. So the museum should be open by November, but the project already slipped from an original 2026-05-05 sign date - hedged with a confirm-before-travel. Space Lee Ufan stayed OPEN throughout: Tue-Sun 10:00-18:00, last entry 17:30, closed Mon. PRICE: Lee Ufan normally 3,000/2,000 (Busan residents -1,000) but TEMPORARILY FREE during the closure; expect the charge back on reopening. No parking, no docent tours during works. Tel 051-744-2602.",
+  "sources": [
+   "https://art.busan.go.kr/index.nm",
+   "https://art.busan.go.kr/index.nm?menuCd=1"
+  ],
+  "text": "- **Space Lee Ufan is open regardless** and has stayed open right through the works — **Tue–Sun 10:00–18:00, last entry 17:30, closed Mondays.**",
+  "verdict": "verified"
  },
  "busan.md#20:c18610d4bc": {
   "checked_on": null,
@@ -419,9 +498,62 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [art.busan.go.kr](https://art.busan.go.kr)",
   "verdict": "unchecked"
+ },
+ "busan.md#20:c791712418": {
+  "checked_on": "2026-08-17",
+  "entry": 20,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Busan Museum of Art: MAJOR STATUS FINDING. Entry described a working museum ('permanent collection is free; closed Monday'). The MAIN BUILDING HAS BEEN CLOSED SINCE 2023-12-18 for a 43bn-won renovation - closed for the whole of 2025 and most of 2026. GOOD NEWS: the museum's own homepage at review (Aug 18 2026) showed an 'opening in D-30' countdown implying reopening ~mid-Sept 2026, plus a staff-recruitment notice for a REOPENING SPECIAL EXHIBITION, and the visitor page notes renovation suspensions run 'until 2026-09-16'. So the museum should be open by November, but the project already slipped from an original 2026-05-05 sign date - hedged with a confirm-before-travel. Space Lee Ufan stayed OPEN throughout: Tue-Sun 10:00-18:00, last entry 17:30, closed Mon. PRICE: Lee Ufan normally 3,000/2,000 (Busan residents -1,000) but TEMPORARILY FREE during the closure; expect the charge back on reopening. No parking, no docent tours during works. Tel 051-744-2602.",
+  "sources": [
+   "https://art.busan.go.kr/index.nm",
+   "https://art.busan.go.kr/index.nm?menuCd=1"
+  ],
+  "text": "- **✅ The good news: it reopens just before your trip.** At review (Aug 18, 2026) the museum's own homepage was running an **\"opening in D-30\" countdown**, putting reopening around **mid-September 2026** — and it is recruiting staff for a **reopening special exhibition**. So by November you should be arriving at a freshly reopened museum. **Confirm on the homepage before you travel**; a project already two years long can slip again.",
+  "verdict": "verified"
+ },
+ "busan.md#21:28c8c33bcb": {
+  "checked_on": "2026-08-17",
+  "entry": 21,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Yongdusan Park / Busan Tower: price silence resolved. Park FREE and open 24h year-round. Tower 10:00-22:00, ticketing closes 21:30, 12,000 adult / 9,000 child (36mo-12) and senior 65+, under-3 free, FREE with Visit Busan Pass. Confirmed against Visit Busan official portal; operator is BISCO at bisco.or.kr/yongdusanpark (the bare bisco.or.kr previously cited is the parent corporation). Access Line 1 Jungang exit 1 (6 min) or Nampo exit 7 (7 min), street escalator available. Price is CONSISTENT with events.csv and walking-maps.md which both already said 12,000/9,000 - no drift. Clusters with Jagalchi #22 and the Yeongdo Bridge lift #27 within a 15-min walk.",
+  "sources": [
+   "https://www.bisco.or.kr/yongdusanpark/",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko"
+  ],
+  "text": "- **What:** Hill park above Nampo-dong with the city's classic landmark observatory (also branded **Busan Diamond Tower**), reached by a street escalator from the subway.",
+  "verdict": "prose"
+ },
+ "busan.md#21:38f1e179e3": {
+  "checked_on": "2026-08-17",
+  "entry": 21,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Yongdusan Park / Busan Tower: price silence resolved. Park FREE and open 24h year-round. Tower 10:00-22:00, ticketing closes 21:30, 12,000 adult / 9,000 child (36mo-12) and senior 65+, under-3 free, FREE with Visit Busan Pass. Confirmed against Visit Busan official portal; operator is BISCO at bisco.or.kr/yongdusanpark (the bare bisco.or.kr previously cited is the parent corporation). Access Line 1 Jungang exit 1 (6 min) or Nampo exit 7 (7 min), street escalator available. Price is CONSISTENT with events.csv and walking-maps.md which both already said 12,000/9,000 - no drift. Clusters with Jagalchi #22 and the Yeongdo Bridge lift #27 within a 15-min walk.",
+  "sources": [
+   "https://www.bisco.or.kr/yongdusanpark/",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko"
+  ],
+  "text": "- **💡 Pairs naturally with the Yeongdo Bridge lift (#27) and Jagalchi (#22)** — all three are within a 15-minute walk of each other in Nampo-dong.",
+  "verdict": "prose"
+ },
+ "busan.md#21:43f532ddd3": {
+  "checked_on": "2026-08-17",
+  "entry": 21,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Yongdusan Park / Busan Tower: price silence resolved. Park FREE and open 24h year-round. Tower 10:00-22:00, ticketing closes 21:30, 12,000 adult / 9,000 child (36mo-12) and senior 65+, under-3 free, FREE with Visit Busan Pass. Confirmed against Visit Busan official portal; operator is BISCO at bisco.or.kr/yongdusanpark (the bare bisco.or.kr previously cited is the parent corporation). Access Line 1 Jungang exit 1 (6 min) or Nampo exit 7 (7 min), street escalator available. Price is CONSISTENT with events.csv and walking-maps.md which both already said 12,000/9,000 - no drift. Clusters with Jagalchi #22 and the Yeongdo Bridge lift #27 within a 15-min walk.",
+  "sources": [
+   "https://www.bisco.or.kr/yongdusanpark/",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [BISCO — Yongdusan Park / Busan Tower (operator)](https://www.bisco.or.kr/yongdusanpark/) · [Visit Busan — hours, fares, access](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko)",
+  "verdict": "sourced"
  },
  "busan.md#21:760af517f1": {
   "checked_on": null,
@@ -429,6 +561,7 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official sources (reviewed Aug 17):** [bisco.or.kr](https://www.bisco.or.kr) · [Visit Busan](https://english.visitbusan.net)",
   "verdict": "unchecked"
@@ -439,9 +572,62 @@
   "file": "busan.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Hill park above Nampo and the renovated observatory. Park is free; tower is ticketed.",
   "verdict": "unchecked"
+ },
+ "busan.md#21:c42ab4e3ef": {
+  "checked_on": "2026-08-17",
+  "entry": 21,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Yongdusan Park / Busan Tower: price silence resolved. Park FREE and open 24h year-round. Tower 10:00-22:00, ticketing closes 21:30, 12,000 adult / 9,000 child (36mo-12) and senior 65+, under-3 free, FREE with Visit Busan Pass. Confirmed against Visit Busan official portal; operator is BISCO at bisco.or.kr/yongdusanpark (the bare bisco.or.kr previously cited is the parent corporation). Access Line 1 Jungang exit 1 (6 min) or Nampo exit 7 (7 min), street escalator available. Price is CONSISTENT with events.csv and walking-maps.md which both already said 12,000/9,000 - no drift. Clusters with Jagalchi #22 and the Yeongdo Bridge lift #27 within a 15-min walk.",
+  "sources": [
+   "https://www.bisco.or.kr/yongdusanpark/",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko"
+  ],
+  "text": "- **Tower:** **10:00–22:00, last tickets 21:30.** **₩12,000 adult / ₩9,000 child (36 months–12) and senior 65+**, under-3s free.",
+  "verdict": "verified"
+ },
+ "busan.md#21:dc202231fd": {
+  "checked_on": "2026-08-17",
+  "entry": 21,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Yongdusan Park / Busan Tower: price silence resolved. Park FREE and open 24h year-round. Tower 10:00-22:00, ticketing closes 21:30, 12,000 adult / 9,000 child (36mo-12) and senior 65+, under-3 free, FREE with Visit Busan Pass. Confirmed against Visit Busan official portal; operator is BISCO at bisco.or.kr/yongdusanpark (the bare bisco.or.kr previously cited is the parent corporation). Access Line 1 Jungang exit 1 (6 min) or Nampo exit 7 (7 min), street escalator available. Price is CONSISTENT with events.csv and walking-maps.md which both already said 12,000/9,000 - no drift. Clusters with Jagalchi #22 and the Yeongdo Bridge lift #27 within a 15-min walk.",
+  "sources": [
+   "https://www.bisco.or.kr/yongdusanpark/",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko"
+  ],
+  "text": "- **Park:** **free, open 24 hours, year-round.**",
+  "verdict": "verified"
+ },
+ "busan.md#21:e386de9470": {
+  "checked_on": "2026-08-17",
+  "entry": 21,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Yongdusan Park / Busan Tower: price silence resolved. Park FREE and open 24h year-round. Tower 10:00-22:00, ticketing closes 21:30, 12,000 adult / 9,000 child (36mo-12) and senior 65+, under-3 free, FREE with Visit Busan Pass. Confirmed against Visit Busan official portal; operator is BISCO at bisco.or.kr/yongdusanpark (the bare bisco.or.kr previously cited is the parent corporation). Access Line 1 Jungang exit 1 (6 min) or Nampo exit 7 (7 min), street escalator available. Price is CONSISTENT with events.csv and walking-maps.md which both already said 12,000/9,000 - no drift. Clusters with Jagalchi #22 and the Yeongdo Bridge lift #27 within a 15-min walk.",
+  "sources": [
+   "https://www.bisco.or.kr/yongdusanpark/",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko"
+  ],
+  "text": "- **Getting there:** Line 1 to **Jungang** exit 1 (6 min) or **Nampo** exit 7 (7 min). Use the **escalator** rather than the stairs — it's a genuine hill.",
+  "verdict": "prose"
+ },
+ "busan.md#21:fcc9ce5c98": {
+  "checked_on": "2026-08-17",
+  "entry": 21,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Yongdusan Park / Busan Tower: price silence resolved. Park FREE and open 24h year-round. Tower 10:00-22:00, ticketing closes 21:30, 12,000 adult / 9,000 child (36mo-12) and senior 65+, under-3 free, FREE with Visit Busan Pass. Confirmed against Visit Busan official portal; operator is BISCO at bisco.or.kr/yongdusanpark (the bare bisco.or.kr previously cited is the parent corporation). Access Line 1 Jungang exit 1 (6 min) or Nampo exit 7 (7 min), street escalator available. Price is CONSISTENT with events.csv and walking-maps.md which both already said 12,000/9,000 - no drift. Clusters with Jagalchi #22 and the Yeongdo Bridge lift #27 within a 15-min walk.",
+  "sources": [
+   "https://www.bisco.or.kr/yongdusanpark/",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko"
+  ],
+  "text": "- **💡 Free with the Visit Busan Pass**, if you're buying one for other attractions.",
+  "verdict": "verified"
  },
  "busan.md#22:0ee934de91": {
   "checked_on": null,
