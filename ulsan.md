@@ -162,7 +162,7 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 ### 28) ⚽ **Ulsan HD FC** — ⏳ CHECK OFFICIAL FIXTURES
 - **What:** Professional football club at Ulsan Munsu Football Stadium.
 - **Status:** Verify any trip-window home match through the K League match center.
-- **Official sources (reviewed Aug 17):** [Ulsan HD](https://www.uhfc.tv/) · [K League](https://www.kleague.com/)
+- **Official sources (reviewed Aug 17):** [Ulsan HD](https://www.uhdfc.com) · [K League](https://www.kleague.com/)
 
 ### 29) 🏀 **Ulsan Hyundai Mobis Phoebus** — ⏳ CHECK OFFICIAL FIXTURES
 - **What:** KBL basketball club based in Ulsan.

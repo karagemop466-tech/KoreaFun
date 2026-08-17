@@ -71,8 +71,11 @@ Do not add an entry solely to increase a count.
 | `ulsan.md` | **Reviewed 2026-08-17** | Rebuilt 115 → 29 entries; removed fabricated and proposed attractions, unsafe factory assumptions, duplicates, generic advice, and out-of-city padding; updated Bangucheon’s 2025 UNESCO inscription. |
 | `pohang.md` | **Reviewed 2026-08-17** | Rebuilt 88 → 28 entries; removed fabricated attractions/foods/events, duplicates, unsafe industrial-access claims, generic advice, and out-of-city padding. |
 | `changwon-jinhae.md` | **Reviewed 2026-08-17** | Rebuilt 106 → 29 entries; removed fabricated attractions/events, cherry-season duplication, restricted-access assumptions, generic advice, and out-of-city padding; added dated November cultural programming. |
-| Remaining 3 core files | **Not yet manually reviewed under this protocol** | `seoul.md`, `busan.md`, and `daejeon-cheonan.md` remain a research queue despite earlier “core” labels. |
+| `seoul.md` | **Reviewed 2026-08-17** | Rebuilt 363 → 86 entries. Removed semantic duplicates, generic venue types, out-of-city padding, and several “confirmed” 2026 dates that did not match live official pages (Seoul Forest 20th-anniversary festa was 2025; Beauty Travel Week Oct 29–Nov 4 was not the 2026 Beauty Week that ran in August; Mulbit Yeonhwa fall dates left as re-check). |
+| `busan.md` | **Reviewed 2026-08-17** | Rebuilt 190 → 49 entries. Removed duplicate fireworks/coast/market entries and day trips counted as Busan. Fireworks Nov 7 confirmed on busanfireworks.com; G-STAR Nov 19–22 kept from organizer announcement. |
+| `daejeon-cheonan.md` | **Reviewed 2026-08-17** | Rebuilt 210 → 44 entries. Removed Chungcheong-wide padding and duplicates. Wine EXPO Nov 6–8 confirmed on djwinefair.com; Asan / Gongju / Buyeo kept only as labeled day trips. |
+| Nearby-city expansion (same day) | **Additive pass** | `pohang.md` +1 (VisitKorea-dated Fire & Light Festival Nov 20–22); `incheon.md` +2 (Incheon ArtShow Nov 19–22; My Chemical Romance Nov 7); `daegu.md` +1 (Daegu Art Festival Part 2 Nov 17–22). |
 
 ## Next pass order
 
-Re-audit the three previously described as “core” in this order: `seoul.md`, `busan.md`, then `daejeon-cheonan.md`. The earlier label is not evidence that they are verified.
+Re-check October 2026 calendars for every ⏳ item. Do not add entries solely to raise a count. Prefer dated organizer pages over city planning PDFs.
