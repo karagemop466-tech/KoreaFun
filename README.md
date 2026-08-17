@@ -5,7 +5,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 > 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 565 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan) plus a few newly sourced nearby-city November 2026 items. Counts will change only when unsupported entries are removed or official-source entries are added.
+> **Current inventory:** 568 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan) plus a few newly sourced nearby-city November 2026 items. Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,7 +13,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**565 numbered sections** across 14 city files; protocol pass complete)
+## 📂 What's in this repo (**568 numbered sections** across 14 city files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -42,7 +42,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | [`ulsan.md`](ulsan.md) | 31 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, **Lee Jung-seop retrospective** |
 | [`pohang.md`](pohang.md) | 31 | KTX 2h 25 min southeast | **Space Walk**, Homigot, **Fireworks Festival Nov 14–22**, **Steel Art Festival to Nov 15** |
 | [`changwon-jinhae.md`](changwon-jinhae.md) | 29 | KTX 2h 50 min south | Jinhae harbor, Masan waterfront, Junam birds (cherry sites are off-season) |
-| [`yeosu.md`](yeosu.md) | 32 | KTX ~3h 20m **direct** Yongsan→Yeosu-Expo | **2026 World Island Exhibition** (closes Nov 4), Maritime Cable Car, Odongdo |
+| [`yeosu.md`](yeosu.md) | 35 | KTX ~3h 20m **direct** Yongsan→Yeosu-Expo | **2026 World Island Exhibition** (closes Nov 4), **Oct 31 fireworks**, Maritime Cable Car |
 
 ### 🧰 Guides, maps & data
 
@@ -75,6 +75,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 |---|---|---|---|
 | Sat Oct 31 | V-League 2026–27 season opens · K League 1 Final rounds begin | All cities / Seoul | ✅ |
 | Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) · **Busan Biennale closes Nov 1** | Seoul / Busan | ✅ |
+| **Sat Oct 31** | **Yeosu Night Sea Fireworks Festival** (arrival day — only if you start in Yeosu) · **Yeosu Island Food Festival** same day/site | Yeosu | ✅ |
 | Oct 31 – Nov 8 | **Changgyeonggung Mulbit Yeonhwa** fall run (spring 2026 is confirmed; **fall dates still need a Heritage Service page**) | Seoul | ⏳ |
 | **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |

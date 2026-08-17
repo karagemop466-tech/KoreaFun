@@ -17,8 +17,10 @@ Yeosu is the south-coast terminus of direct KTX trains from Yongsan. This file w
 ### 1) 🏝️ **2026 World Island Exhibition Yeosu Korea** — ✅ CONFIRMED — Sep 5–Nov 4, 2026
 - **What:** Government-approved international island exhibition centered on the Jinmo district of Dolsan, with additional island and Expo 2012-site programming.
 - **When:** **Sep 5–Nov 4, 2026**. The trip catches only Oct 31–Nov 4, so this is time-critical.
-- **Price/hours:** Use the organizer’s visitor-information pages rather than copied figures; operating details can change before opening.
-- **Official sources (reviewed Aug 17):** [organizing committee](https://yeosu2026.or.kr) · [visitor information](https://yeosu2026.or.kr/content/4_1) · [tickets](https://yeosu2026.or.kr/content/4_2) · [Yeosu City 2026 island-program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)
+- **Hours (official, Aug 17):** Main venue **10:00–21:00** daily; ticket office 09:30–20:00; **last entry 20:00**. Sub-venues (개도, 금오도, the 2012 Expo site) **10:00–18:00**. The one closed day was **Oct 6**, well before the trip.
+- **Price (official, Aug 17):** Standard **₩15,000 adult / ₩9,000 youth / ₩6,000 child**. Group ₩12,000 / ₩8,000 / ₩5,000. Concession ₩8,000 / ₩5,000 / ₩3,000. **Family ticket ₩32,000.**
+- **⚠️ Readiness warning:** Korean coverage through mid-2026 repeatedly flagged construction delays at the main Dolsan site and thin visitor facilities (toilets, shops) on the sub-venue islands. Treat on-site comfort as unproven and check recent visitor reports before committing a full day.
+- **Official sources (reviewed Aug 17):** [organizing committee](https://yeosu2026.or.kr) · [operating hours + full price table](https://yeosu2026.or.kr/content/4_1) · [tickets](https://yeosu2026.or.kr/content/4_2) · [day-by-day programme schedule](https://yeosu2026.or.kr/expo_schedule) · [Yeosu City 2026 island-program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)
 - **Planning note:** Visit Yeosu by Nov 4 or remove the Expo from the itinerary. Do not describe a specific performance as confirmed until it appears on the organizer’s dated schedule.
 
 ---
@@ -80,10 +82,14 @@ Yeosu is the south-coast terminus of direct KTX trains from Yongsan. This file w
 - **Hours/price:** City listing says the park itself is free and normally open 10:00–22:00; verify individual facilities.
 - **Official source (reviewed Aug 17):** [Yeosu Tourism — Expo site](https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=849)
 
-### 12) 💦 **Big-O Show** — ⏳ RE-CHECK NOVEMBER SCHEDULE
-- **What:** Ticketed multimedia and marine-fountain show at the Expo site. It is not a free nightly fountain and is not operated by the cable-car company.
-- **When:** The city’s official listing shows a limited operating calendar and one 20:00 performance on operating days in November; confirm the **2026** dates before planning.
-- **Official source (reviewed Aug 17):** [Yeosu Tourism — Big-O visitor listing](https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=94)
+### 12) 💦 **Big-O Sea Fountain Show (빅오 해상분수쇼)** — ✅ CONFIRMED — season ends **Sun Nov 8, 2026** · UPDATED
+- **What:** The marine fountain show on the water at the 2012 Expo site, built around the 47 m "The-O" ring and three 120 m rows of sea fountains — water, fire, light and sound. **~30 minutes.**
+- **⚠️ Important change — this is no longer the ticketed "Big-O Show":** Yeosu City's official listing now calls it the **빅오 해상분수쇼**, and states **"해상분수쇼는 남녀노소 누구나 자유롭게 관람이 가능합니다"** (open to all, viewed freely). Korean reporting attributes the change to the cost of staging the full show. **Ignore the ₩18,000–25,000 P-seat/S-seat prices still circulating on blogs and aggregator sites** — those describe the discontinued ticketed production.
+- **2026 season (official):** **Apr 18 – Nov 8, 2026.** **Wed–Sun only, once daily; closed every Monday and Tuesday** for maintenance. **November start time: 20:00.**
+- **⚠️ Trip impact:** the season **ends Nov 8**, and with the Wed–Sun rule your only chances are **Wed Nov 4, Thu Nov 5, Fri Nov 6, Sat Nov 7 and Sun Nov 8.** After Nov 8 it does not run at all during your trip.
+- **Practical:** Site access area open 19:00–21:00. Parking 1,300 car spaces, ₩300/10 min (₩10,000 daily cap); buses ₩10,000 flat. English and Japanese service available; wheelchair-accessible entry ramp and toilets (wheelchairs not loaned). No pets.
+- **Cancellation:** called off in rain or strong wind — check the day's notice before going.
+- **Official source (reviewed Aug 17):** [Yeosu Tourism — 빅오 해상분수쇼 listing](https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=94)
 
 ### 13) 🐠 **Aqua Planet Yeosu** — 🔎 VERIFIED OPERATOR
 - **What:** Aquarium on the Expo waterfront.
@@ -187,15 +193,41 @@ Yeosu is the south-coast terminus of direct KTX trains from Yongsan. This file w
 - **When/price:** Attend only if the 2026 schedule lists a trip-window performance; normally free outdoor viewing.
 - **Official source (reviewed Aug 17):** [official busking page](https://www.yeosu.go.kr/tour/culture_festa/busking) · [monthly calendar](https://www.yeosu.go.kr/tour/culture_festa/month_event)
 
-### 31) 🚌 **Yeosu city-tour and night-view buses** — ⏳ RE-CHECK
-- **What:** Official city-tour products include Dolsan/Hyangiram, bridge, Yi Sun-sin heritage, and night-view routes.
-- **Hours/price:** Route, operating day, and reservation-specific. Confirm on the official booking page.
-- **Official source (reviewed Aug 17):** [Hyangiram route](https://www.yeosu.go.kr/tour/leisure/city_tour/course_01) · [online reservation](https://www.yeosu.go.kr/tour/leisure/city_tour/reservation_go)
+### 31) 🚌 **Yeosu Romance Bus (여수 낭만버스) — night-view course** — ✅ CONFIRMED · UPDATED
+- **What:** The city's official tour-bus programme. Routes include Hyangiram, the bridges, Yi Sun-sin heritage, the Yeosu–Suncheon Incident dark-tour, a double-decker day and night route, and the **night-view course** below.
+- **Night course timetable (official, effective Sep 1 2026 — so this is the version you'd ride):** depart **Yeosu Expo Station 19:30** (winter departures 19:00) → Odongdo 19:40–20:10 → national industrial complex night view 20:10–20:30 → Namsan Park 20:55–21:25 → back to Expo Station by 21:30. **Total 2 hours.**
+- **Price:** **₩10,000 adult / ₩5,000 concession** (Yeosu residents, students, 65+, veterans, military, disabled visitors — ID required, no stacking). Preschoolers free. Fare excludes meals and any attraction entry.
+- **Booking:** Online reservation takes priority; if seats remain you can pay cash on the spot. Operator 보람고속관광여행사, **061-902-0212**.
+- **Seasonal caveat:** the Odongdo stop is **not operated in winter**, and its music fountain runs Mar–Oct only — in November expect the fountain to be off. When the Odongdo night fountain isn't running the stop is **substituted with the Hamel Lighthouse**.
+- **Official sources (reviewed Aug 17):** [night-view course timetable + fares](https://www.yeosu.go.kr/tour/leisure/city_tour/course_night) · [Hyangiram route](https://www.yeosu.go.kr/tour/leisure/city_tour/course_01) · [online reservation](https://www.yeosu.go.kr/tour/leisure/city_tour/reservation_go)
 
 ### 32) 🕯️ **Yeosu–Suncheon Incident history tour** — ⏳ RE-CHECK · NEW
 - **What:** Official guided “dark tourism” bus route covering the former 14th Regiment site, incident memorial/exhibition locations, Yi Sun-sin Square, and Son Yang-won-related sites.
 - **Hours/price:** The city describes a 4-hour-25-minute reservation route on selected Wednesdays and Sundays. Confirm that a **2026 trip-window departure** is actually bookable before planning around it.
 - **Official source (reviewed Aug 17):** [Yeosu Tourism — incident history route](https://www.yeosu.go.kr/tour/leisure/city_tour/dark_tour)
+
+### 33) 🎆 **Yeosu Night Sea Fireworks Festival (여수밤바다 불꽃축제)** — ✅ CONFIRMED — Sat Oct 31, 2026 · NEW
+- **What:** Yeosu's flagship fireworks festival, running since 2016 and drawing ~123,000 people in 2025. A multi-act choreographed sea fireworks show with music, laser and special lighting, usually preceded by an opening concert and followed by a late set.
+- **When:** The Expo organizing committee's official day-by-day schedule lists **여수밤바다 불꽃축제 on 26.10.31** — **the first day of your trip.** In November 2025 the mayor of Yeosu publicly confirmed the plan, saying next year's fireworks festival would be held *during the 2026 World Island Exhibition period*, which is exactly what the schedule shows.
+- **Where:** The Expo schedule files it under the **엑스포장 (2012 Expo site)** column. Past editions were staged at **이순신광장 and the water off 장군도**. Confirm the 2026 location on Yeosu City's notices before travelling — the festival has moved into the Exhibition, so the venue may have moved with it.
+- **Price:** Free in every past edition.
+- **Planning notes from prior years:** shows typically start ~20:00 after a 19:00 opening concert; the city runs free shuttle buses and imposes staged road closures around 이순신광장 from late afternoon; 남산공원 is the recommended elevated viewpoint. The 2025 drone show was **cancelled for rain** while the fireworks went ahead — have a wet-weather expectation.
+- **Official sources (reviewed Aug 17):** [Expo official programme schedule (see 10.31 row)](https://yeosu2026.or.kr/expo_schedule) · [Yeosu City](https://www.yeosu.go.kr) · [Yeosu tourism](https://www.yeosu.go.kr/tour)
+
+### 34) 🍲 **2026 Yeosu Island Food Festival (여수 섬 음식 축제)** — ✅ CONFIRMED — Sat Oct 31, 2026 · NEW
+- **What:** A one-day island-cuisine festival staged as part of the World Island Exhibition, showcasing food from Korea's islands. The Exhibition's wider food programming includes a 세계 섬식당 food court and a media-art "maritime gastronomy" restaurant using island specialities.
+- **When/where:** **Oct 31, 2026**, listed in the **엑스포장** column of the official schedule — the same day and site as the fireworks festival, so the two pair naturally into one evening.
+- **Note:** The organizer lists the title and date only; no programme, hours or pricing has been published. Do not assume it is free — Exhibition sub-venue programming may sit behind the Expo ticket.
+- **Official source (reviewed Aug 17):** [Expo official programme schedule (see 10.31 row)](https://yeosu2026.or.kr/expo_schedule)
+
+### 35) 📅 **What's actually on during your Oct 31–Nov 4 Expo overlap** — ✅ CONFIRMED — Sat Oct 31–Wed Nov 4, 2026 · NEW
+- **Why this entry exists:** The Exhibition closes **Nov 4**, so you only catch its final five days. These are the dated items the organizer's own schedule shows for exactly those days — useful for deciding *which* day to go.
+- **Sat Oct 31:** 전통공연예술진흥재단 (Traditional Performing Arts Foundation) programmes on both the open-air and special stages · **Island Friends Day — Hawaii** · night performance (performance + EDM party) · 별자리 토크 강연쇼 and 예술의밤 페스티벌 on Gaedo · 섬밥상이야기 on Geumodo · **plus the fireworks and island food festivals above.** Clearly the strongest day.
+- **Sun Nov 1:** 전통공연예술진흥재단 on both stages · **Island Friends Day — Hawaii** · 힐링&웰니스 wellness programmes on both Gaedo and Geumodo.
+- **Mon Nov 2 / Tue Nov 3:** Quiet days — the stages show no scheduled programme. Island-side art exhibitions, the Geumodo stamp tour and the 금오도·안도 history exhibition continue.
+- **Wed Nov 4:** **폐막식 (closing ceremony)** on the open-air stage. Final day of the Exhibition.
+- **Also running Oct 30–Nov 1:** 제4회 거북선배 전국요트대회 (national yacht regatta) at 소호요트마리나, listed under the city-wide column.
+- **Official source (reviewed Aug 17):** [Expo official programme schedule](https://yeosu2026.or.kr/expo_schedule)
 
 ---
 
