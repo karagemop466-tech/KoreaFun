@@ -3455,15 +3455,81 @@
   "text": "- **What:** 1993 Expo grounds, tower observatory, Expo Bridge, and the plaza used by the wine expo. Park grounds are free; tower hours and Monday closure should be checked.",
   "verdict": "unchecked"
  },
+ "daejeon-cheonan.md#12:4a11abfad1": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "daejeon-cheonan.md",
+  "kind": "TIME",
+  "note": "National Science Museum: 09:30-17:30, closed Mon + Jan1/Seollal/Chuseok. Confirmed 'planetarium is separate' and PRICED it: Changui-narae W2,000/1,000, Kkumatti W2,000/1,000 (under-6s only), Planetarium W2,000/1,000 in fixed 30-min slots 10:00-17:00, booking opens 30 days ahead. Listed the free halls explicitly so the free/paid split is unambiguous.",
+  "sources": [
+   "https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do",
+   "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B3%BC%ED%95%99%EA%B4%80"
+  ],
+  "text": "- **Hours/price:** **09:30–17:30. Closed Mondays**, Jan 1, Seollal and Chuseok. *(If it opens on a public holiday it closes the following day instead — no November 2026 holidays, so this is inert.)*",
+  "verdict": "verified"
+ },
  "daejeon-cheonan.md#12:6028d6e67b": {
   "checked_on": null,
   "entry": 12,
   "file": "daejeon-cheonan.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** National hands-on science museum next to the Expo grounds. Closed Monday; planetarium is separate.",
   "verdict": "unchecked"
+ },
+ "daejeon-cheonan.md#12:667da4e024": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "daejeon-cheonan.md",
+  "kind": "PROSE",
+  "note": "National Science Museum: 09:30-17:30, closed Mon + Jan1/Seollal/Chuseok. Confirmed 'planetarium is separate' and PRICED it: Changui-narae W2,000/1,000, Kkumatti W2,000/1,000 (under-6s only), Planetarium W2,000/1,000 in fixed 30-min slots 10:00-17:00, booking opens 30 days ahead. Listed the free halls explicitly so the free/paid split is unambiguous.",
+  "sources": [
+   "https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do",
+   "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B3%BC%ED%95%99%EA%B4%80"
+  ],
+  "text": "- **What:** Korea's national hands-on science museum, next to the Expo grounds.",
+  "verdict": "prose"
+ },
+ "daejeon-cheonan.md#12:77ac41a7c3": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "National Science Museum: 09:30-17:30, closed Mon + Jan1/Seollal/Chuseok. Confirmed 'planetarium is separate' and PRICED it: Changui-narae W2,000/1,000, Kkumatti W2,000/1,000 (under-6s only), Planetarium W2,000/1,000 in fixed 30-min slots 10:00-17:00, booking opens 30 days ahead. Listed the free halls explicitly so the free/paid split is unambiguous.",
+  "sources": [
+   "https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do",
+   "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B3%BC%ED%95%99%EA%B4%80"
+  ],
+  "text": "- **⚠️ Three halls are ticketed and need booking:** **Changui-narae Hall** (adult ₩2,000 / youth-child ₩1,000), **Kkumatti experience hall** (₩2,000/₩1,000, **under-6s only**), and the **Planetarium (천체관)** — ₩2,000/₩1,000, in fixed 30-min slots from 10:00 to 17:00. **Booking opens 30 days ahead**; popular slots go early. Free for over-65s, disabled visitors +1 carer, and national-merit holders.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#12:9e15a52a05": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "National Science Museum: 09:30-17:30, closed Mon + Jan1/Seollal/Chuseok. Confirmed 'planetarium is separate' and PRICED it: Changui-narae W2,000/1,000, Kkumatti W2,000/1,000 (under-6s only), Planetarium W2,000/1,000 in fixed 30-min slots 10:00-17:00, booking opens 30 days ahead. Listed the free halls explicitly so the free/paid split is unambiguous.",
+  "sources": [
+   "https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do",
+   "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B3%BC%ED%95%99%EA%B4%80"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [National Science Museum — ticketed halls, prices, slot times](https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do)",
+  "verdict": "sourced"
+ },
+ "daejeon-cheonan.md#12:a3ff0f3b58": {
+  "checked_on": "2026-08-17",
+  "entry": 12,
+  "file": "daejeon-cheonan.md",
+  "kind": "ACCESS",
+  "note": "National Science Museum: 09:30-17:30, closed Mon + Jan1/Seollal/Chuseok. Confirmed 'planetarium is separate' and PRICED it: Changui-narae W2,000/1,000, Kkumatti W2,000/1,000 (under-6s only), Planetarium W2,000/1,000 in fixed 30-min slots 10:00-17:00, booking opens 30 days ahead. Listed the free halls explicitly so the free/paid split is unambiguous.",
+  "sources": [
+   "https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do",
+   "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B3%BC%ED%95%99%EA%B4%80"
+  ],
+  "text": "- **✅ Most of it is genuinely free** — Science & Technology Hall, Natural History Hall, Human Hall, Children's Science Hall, Biology Hall, the astronomical observation post, Future Tech Hall and the whole outdoor exhibition area.",
+  "verdict": "verified"
  },
  "daejeon-cheonan.md#12:f8cd8d8afb": {
   "checked_on": null,
@@ -3471,6 +3537,7 @@
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [science.go.kr](https://www.science.go.kr)",
   "verdict": "unchecked"
@@ -3561,9 +3628,46 @@
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [djstar.kr](https://djstar.kr)",
   "verdict": "unchecked"
+ },
+ "daejeon-cheonan.md#17:59a13c6f75": {
+  "checked_on": "2026-08-17",
+  "entry": 17,
+  "file": "daejeon-cheonan.md",
+  "kind": "PROSE",
+  "note": "Daejeon Citizens' Observatory: hedge resolved. FREE, 14:00-22:00 last entry 21:50 - does NOT open mornings, it is an afternoon/evening venue. Closed Mondays AND THE DAY AFTER ANY PUBLIC HOLIDAY. No reservation for individuals; 30+ groups must book. Tue/Sat 20:00 star-music session, online bookers priority. Noted Nov early darkness is an advantage. djstar.kr front page 404s; old.djstar.kr board is live.",
+  "sources": [
+   "https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page="
+  ],
+  "text": "- **⚠️ November means early darkness — that is good here.** Real telescope observation needs dark sky, so a winter visit gets night viewing far earlier than in summer. **Clouds cancel telescope sessions**, but the dome show and exhibition floor run regardless.",
+  "verdict": "prose"
+ },
+ "daejeon-cheonan.md#17:acdeed21a6": {
+  "checked_on": "2026-08-17",
+  "entry": 17,
+  "file": "daejeon-cheonan.md",
+  "kind": "TIME",
+  "note": "Daejeon Citizens' Observatory: hedge resolved. FREE, 14:00-22:00 last entry 21:50 - does NOT open mornings, it is an afternoon/evening venue. Closed Mondays AND THE DAY AFTER ANY PUBLIC HOLIDAY. No reservation for individuals; 30+ groups must book. Tue/Sat 20:00 star-music session, online bookers priority. Noted Nov early darkness is an advantage. djstar.kr front page 404s; old.djstar.kr board is live.",
+  "sources": [
+   "https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page="
+  ],
+  "text": "- **Hours/price:** **FREE. 14:00–22:00, last entry 21:50** — note it does **not open in the morning**; this is an afternoon-and-evening venue, which suits it since the point is looking at the sky.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#17:d15a11e7be": {
+  "checked_on": "2026-08-17",
+  "entry": 17,
+  "file": "daejeon-cheonan.md",
+  "kind": "TIME",
+  "note": "Daejeon Citizens' Observatory: hedge resolved. FREE, 14:00-22:00 last entry 21:50 - does NOT open mornings, it is an afternoon/evening venue. Closed Mondays AND THE DAY AFTER ANY PUBLIC HOLIDAY. No reservation for individuals; 30+ groups must book. Tue/Sat 20:00 star-music session, online bookers priority. Noted Nov early darkness is an advantage. djstar.kr front page 404s; old.djstar.kr board is live.",
+  "sources": [
+   "https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page="
+  ],
+  "text": "- **💡 Tue and Sat 20:00** there is a 40-minute \"star music and poetry\" session in the projection dome — online bookers get priority, remaining seats go to walk-ins.",
+  "verdict": "verified"
  },
  "daejeon-cheonan.md#17:d2fa53d5c7": {
   "checked_on": null,
@@ -3571,9 +3675,46 @@
   "file": "daejeon-cheonan.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Public observatory in Yuseong. City listing has described free admission and evening telescope time; weather and Monday closures apply.",
   "verdict": "unchecked"
+ },
+ "daejeon-cheonan.md#17:e2263dc894": {
+  "checked_on": "2026-08-17",
+  "entry": 17,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "Daejeon Citizens' Observatory: hedge resolved. FREE, 14:00-22:00 last entry 21:50 - does NOT open mornings, it is an afternoon/evening venue. Closed Mondays AND THE DAY AFTER ANY PUBLIC HOLIDAY. No reservation for individuals; 30+ groups must book. Tue/Sat 20:00 star-music session, online bookers priority. Noted Nov early darkness is an advantage. djstar.kr front page 404s; old.djstar.kr board is live.",
+  "sources": [
+   "https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page="
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Daejeon Citizens' Observatory — hours, closures, free admission](https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page=) *(the main `djstar.kr` front page 404s; the operator's board is the live source — confirm the month's timetable there before going)*",
+  "verdict": "sourced"
+ },
+ "daejeon-cheonan.md#17:ef110eb101": {
+  "checked_on": "2026-08-17",
+  "entry": 17,
+  "file": "daejeon-cheonan.md",
+  "kind": "ACCESS",
+  "note": "Daejeon Citizens' Observatory: hedge resolved. FREE, 14:00-22:00 last entry 21:50 - does NOT open mornings, it is an afternoon/evening venue. Closed Mondays AND THE DAY AFTER ANY PUBLIC HOLIDAY. No reservation for individuals; 30+ groups must book. Tue/Sat 20:00 star-music session, online bookers priority. Noted Nov early darkness is an advantage. djstar.kr front page 404s; old.djstar.kr board is live.",
+  "sources": [
+   "https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page="
+  ],
+  "text": "- **⚠️ Closed Mondays AND the day after any public holiday**, plus Seollal/New Year holidays. **Individuals need no reservation**; groups of 30+ must book.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#17:f806aef4fa": {
+  "checked_on": "2026-08-17",
+  "entry": 17,
+  "file": "daejeon-cheonan.md",
+  "kind": "PROSE",
+  "note": "Daejeon Citizens' Observatory: hedge resolved. FREE, 14:00-22:00 last entry 21:50 - does NOT open mornings, it is an afternoon/evening venue. Closed Mondays AND THE DAY AFTER ANY PUBLIC HOLIDAY. No reservation for individuals; 30+ groups must book. Tue/Sat 20:00 star-music session, online bookers priority. Noted Nov early darkness is an advantage. djstar.kr front page 404s; old.djstar.kr board is live.",
+  "sources": [
+   "https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page="
+  ],
+  "text": "- **What:** Daejeon Citizens' Observatory in Yuseong — a public astronomical observatory with a projection dome (천체투영관), main and secondary telescope rooms, and an exhibition floor.",
+  "verdict": "prose"
  },
  "daejeon-cheonan.md#18:ac8e295ced": {
   "checked_on": null,
@@ -3945,15 +4086,100 @@
   "text": "- **When:** **Sun Nov 8, 14:00.** A daytime kickoff makes this an easy add-on to a Daejeon/Cheonan day.",
   "verdict": "verified"
  },
+ "daejeon-cheonan.md#30:00d27bb35b": {
+  "checked_on": "2026-08-17",
+  "entry": 30,
+  "file": "daejeon-cheonan.md",
+  "kind": "TIME",
+  "note": "Independence Hall: 'November hours are shorter' resolved -> WINTER Nov-Feb grounds 09:30-17:00 but LAST ENTRY 16:00 (summer 09:30-18:00, entry to 17:00). The 1-hour gap between last entry and closing is the trap; advised arriving by 15:00 for a 2-3hr site. Closed Mon but OPEN if Mon is a holiday (none in Nov 2026, so Nov 2/9/16 all closed); outdoor exhibits stay open on closed days. Parking W2,000, FREE Mondays. Free MR film theatre winter 10:00-16:00, 5 shows, no late entry.",
+  "sources": [
+   "https://i815.or.kr/2018/tour/info.do"
+  ],
+  "text": "- **⚠️ The one-hour gap between last entry and closing catches people out.** Arriving at 16:30 in November means you do not get in at all, even though the site is still \"open\". Aim to arrive by **15:00** — the site is genuinely large and seven halls need 2–3 hrs.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#30:013ac365b8": {
+  "checked_on": "2026-08-17",
+  "entry": 30,
+  "file": "daejeon-cheonan.md",
+  "kind": "TIME",
+  "note": "Independence Hall: 'November hours are shorter' resolved -> WINTER Nov-Feb grounds 09:30-17:00 but LAST ENTRY 16:00 (summer 09:30-18:00, entry to 17:00). The 1-hour gap between last entry and closing is the trap; advised arriving by 15:00 for a 2-3hr site. Closed Mon but OPEN if Mon is a holiday (none in Nov 2026, so Nov 2/9/16 all closed); outdoor exhibits stay open on closed days. Parking W2,000, FREE Mondays. Free MR film theatre winter 10:00-16:00, 5 shows, no late entry.",
+  "sources": [
+   "https://i815.or.kr/2018/tour/info.do"
+  ],
+  "text": "- **Hours/price:** **Free for everyone.** **Your trip is winter (Nov–Feb): grounds 09:30–17:00, but LAST ENTRY IS 16:00.** (Summer is 09:30–18:00 with entry to 17:00.)",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#30:02ae74989b": {
+  "checked_on": "2026-08-17",
+  "entry": 30,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "Independence Hall: 'November hours are shorter' resolved -> WINTER Nov-Feb grounds 09:30-17:00 but LAST ENTRY 16:00 (summer 09:30-18:00, entry to 17:00). The 1-hour gap between last entry and closing is the trap; advised arriving by 15:00 for a 2-3hr site. Closed Mon but OPEN if Mon is a holiday (none in Nov 2026, so Nov 2/9/16 all closed); outdoor exhibits stay open on closed days. Parking W2,000, FREE Mondays. Free MR film theatre winter 10:00-16:00, 5 shows, no late entry.",
+  "sources": [
+   "https://i815.or.kr/2018/tour/info.do"
+  ],
+  "text": "- **Parking ₩2,000** car / ₩3,000 large — **free on Mondays.**",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#30:8f9f292705": {
+  "checked_on": "2026-08-17",
+  "entry": 30,
+  "file": "daejeon-cheonan.md",
+  "kind": "ACCESS",
+  "note": "Independence Hall: 'November hours are shorter' resolved -> WINTER Nov-Feb grounds 09:30-17:00 but LAST ENTRY 16:00 (summer 09:30-18:00, entry to 17:00). The 1-hour gap between last entry and closing is the trap; advised arriving by 15:00 for a 2-3hr site. Closed Mon but OPEN if Mon is a holiday (none in Nov 2026, so Nov 2/9/16 all closed); outdoor exhibits stay open on closed days. Parking W2,000, FREE Mondays. Free MR film theatre winter 10:00-16:00, 5 shows, no late entry.",
+  "sources": [
+   "https://i815.or.kr/2018/tour/info.do"
+  ],
+  "text": "- **What:** Korea's national independence museum in Mokcheon, Cheonan — seven permanent halls behind the vast Grand Hall of the Nation. The maple avenue on the grounds is the foliage walk; it is **not** a separate festival unless the Hall announces one.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#30:9d42340b74": {
+  "checked_on": "2026-08-17",
+  "entry": 30,
+  "file": "daejeon-cheonan.md",
+  "kind": "TIME",
+  "note": "Independence Hall: 'November hours are shorter' resolved -> WINTER Nov-Feb grounds 09:30-17:00 but LAST ENTRY 16:00 (summer 09:30-18:00, entry to 17:00). The 1-hour gap between last entry and closing is the trap; advised arriving by 15:00 for a 2-3hr site. Closed Mon but OPEN if Mon is a holiday (none in Nov 2026, so Nov 2/9/16 all closed); outdoor exhibits stay open on closed days. Parking W2,000, FREE Mondays. Free MR film theatre winter 10:00-16:00, 5 shows, no late entry.",
+  "sources": [
+   "https://i815.or.kr/2018/tour/info.do"
+  ],
+  "text": "- **🎬 Free MR independence film theatre**, 20-min shows, **winter 10:00–16:00 (5 showings)**. No entry once a film starts — be there 15 min early. Height/health restrictions apply.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#30:b1036affee": {
+  "checked_on": "2026-08-17",
+  "entry": 30,
+  "file": "daejeon-cheonan.md",
+  "kind": "DATE",
+  "note": "Independence Hall: 'November hours are shorter' resolved -> WINTER Nov-Feb grounds 09:30-17:00 but LAST ENTRY 16:00 (summer 09:30-18:00, entry to 17:00). The 1-hour gap between last entry and closing is the trap; advised arriving by 15:00 for a 2-3hr site. Closed Mon but OPEN if Mon is a holiday (none in Nov 2026, so Nov 2/9/16 all closed); outdoor exhibits stay open on closed days. Parking W2,000, FREE Mondays. Free MR film theatre winter 10:00-16:00, 5 shows, no late entry.",
+  "sources": [
+   "https://i815.or.kr/2018/tour/info.do"
+  ],
+  "text": "- **⚠️ Closed Mondays — but OPEN if the Monday is a public holiday.** (No November 2026 holidays, so **Mon Nov 2, 9 and 16 are all closed.**) The **outdoor exhibits and rest areas stay open year-round** even on closed days.",
+  "verdict": "verified"
+ },
  "daejeon-cheonan.md#30:b25ba55dcc": {
   "checked_on": null,
   "entry": 30,
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [i815.or.kr](https://www.i815.or.kr)",
   "verdict": "unchecked"
+ },
+ "daejeon-cheonan.md#30:d390715a6d": {
+  "checked_on": "2026-08-17",
+  "entry": 30,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "Independence Hall: 'November hours are shorter' resolved -> WINTER Nov-Feb grounds 09:30-17:00 but LAST ENTRY 16:00 (summer 09:30-18:00, entry to 17:00). The 1-hour gap between last entry and closing is the trap; advised arriving by 15:00 for a 2-3hr site. Closed Mon but OPEN if Mon is a holiday (none in Nov 2026, so Nov 2/9/16 all closed); outdoor exhibits stay open on closed days. Parking W2,000, FREE Mondays. Free MR film theatre winter 10:00-16:00, 5 shows, no late entry.",
+  "sources": [
+   "https://i815.or.kr/2018/tour/info.do"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Independence Hall of Korea — visitor guide, seasonal hours, parking](https://i815.or.kr/2018/tour/info.do)",
+  "verdict": "sourced"
  },
  "daejeon-cheonan.md#30:df23a46a1b": {
   "checked_on": null,
@@ -3961,6 +4187,7 @@
   "file": "daejeon-cheonan.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** National independence museum in Mokcheon, Cheonan. Free. November hours are shorter; closed Monday. The maple avenue on the grounds is the foliage walk — not a separate festival unless the Hall announces one.",
   "verdict": "unchecked"

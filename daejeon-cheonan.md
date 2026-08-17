@@ -71,8 +71,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official sources (reviewed Aug 17):** [djto.kr](https://www.djto.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
 ### 12) 🔬 **National Science Museum** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** National hands-on science museum next to the Expo grounds. Closed Monday; planetarium is separate.
-- **Official source (reviewed Aug 17):** [science.go.kr](https://www.science.go.kr)
+- **What:** Korea's national hands-on science museum, next to the Expo grounds.
+- **Hours/price:** **09:30–17:30. Closed Mondays**, Jan 1, Seollal and Chuseok. *(If it opens on a public holiday it closes the following day instead — no November 2026 holidays, so this is inert.)*
+- **✅ Most of it is genuinely free** — Science & Technology Hall, Natural History Hall, Human Hall, Children's Science Hall, Biology Hall, the astronomical observation post, Future Tech Hall and the whole outdoor exhibition area.
+- **⚠️ Three halls are ticketed and need booking:** **Changui-narae Hall** (adult ₩2,000 / youth-child ₩1,000), **Kkumatti experience hall** (₩2,000/₩1,000, **under-6s only**), and the **Planetarium (천체관)** — ₩2,000/₩1,000, in fixed 30-min slots from 10:00 to 17:00. **Booking opens 30 days ahead**; popular slots go early. Free for over-65s, disabled visitors +1 carer, and national-merit holders.
+- **Official source (reviewed Aug 18):** [National Science Museum — ticketed halls, prices, slot times](https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do)
 
 ### 13) 🌳 **Hanbat Arboretum** — 🔎 VERIFIED PARK
 - **What:** Large urban arboretum beside the government complex. West and East gardens have different closed days.
@@ -91,8 +94,12 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official source (reviewed Aug 17):** [yuseong.go.kr](https://www.yuseong.go.kr)
 
 ### 17) 🌌 **Daejeon Astronomical Observatory** — 🔎 VERIFIED PLACE
-- **What:** Public observatory in Yuseong. City listing has described free admission and evening telescope time; weather and Monday closures apply.
-- **Official source (reviewed Aug 17):** [djstar.kr](https://djstar.kr)
+- **What:** Daejeon Citizens' Observatory in Yuseong — a public astronomical observatory with a projection dome (천체투영관), main and secondary telescope rooms, and an exhibition floor.
+- **Hours/price:** **FREE. 14:00–22:00, last entry 21:50** — note it does **not open in the morning**; this is an afternoon-and-evening venue, which suits it since the point is looking at the sky.
+- **⚠️ Closed Mondays AND the day after any public holiday**, plus Seollal/New Year holidays. **Individuals need no reservation**; groups of 30+ must book.
+- **⚠️ November means early darkness — that is good here.** Real telescope observation needs dark sky, so a winter visit gets night viewing far earlier than in summer. **Clouds cancel telescope sessions**, but the dome show and exhibition floor run regardless.
+- **💡 Tue and Sat 20:00** there is a 40-minute "star music and poetry" session in the projection dome — online bookers get priority, remaining seats go to walk-ins.
+- **Official source (reviewed Aug 18):** [Daejeon Citizens' Observatory — hours, closures, free admission](https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page=) *(the main `djstar.kr` front page 404s; the operator's board is the live source — confirm the month's timetable there before going)*
 
 ### 18) 🎓 **KAIST campus walk** — 🔎 VERIFIED PLACE
 - **What:** Open science-university campus (Ounji pond, autumn trees). Cafeterias and buildings have their own rules.
@@ -146,8 +153,13 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 ## Cheonan and Asan
 
 ### 30) 🏛️ **Independence Hall of Korea** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** National independence museum in Mokcheon, Cheonan. Free. November hours are shorter; closed Monday. The maple avenue on the grounds is the foliage walk — not a separate festival unless the Hall announces one.
-- **Official source (reviewed Aug 17):** [i815.or.kr](https://www.i815.or.kr)
+- **What:** Korea's national independence museum in Mokcheon, Cheonan — seven permanent halls behind the vast Grand Hall of the Nation. The maple avenue on the grounds is the foliage walk; it is **not** a separate festival unless the Hall announces one.
+- **Hours/price:** **Free for everyone.** **Your trip is winter (Nov–Feb): grounds 09:30–17:00, but LAST ENTRY IS 16:00.** (Summer is 09:30–18:00 with entry to 17:00.)
+- **⚠️ The one-hour gap between last entry and closing catches people out.** Arriving at 16:30 in November means you do not get in at all, even though the site is still "open". Aim to arrive by **15:00** — the site is genuinely large and seven halls need 2–3 hrs.
+- **⚠️ Closed Mondays — but OPEN if the Monday is a public holiday.** (No November 2026 holidays, so **Mon Nov 2, 9 and 16 are all closed.**) The **outdoor exhibits and rest areas stay open year-round** even on closed days.
+- **Parking ₩2,000** car / ₩3,000 large — **free on Mondays.**
+- **🎬 Free MR independence film theatre**, 20-min shows, **winter 10:00–16:00 (5 showings)**. No entry once a film starts — be there 15 min early. Height/health restrictions apply.
+- **Official source (reviewed Aug 18):** [Independence Hall of Korea — visitor guide, seasonal hours, parking](https://i815.or.kr/2018/tour/info.do)
 
 ### 31) 🥮 **Hakwha Hodugwaja** — 🔎 VERIFIED OPERATOR
 - **What:** Original Cheonan walnut pastry (est. 1934). Eat them warm from a named branch.
