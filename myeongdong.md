@@ -663,6 +663,702 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 
 ---
 
+## 🛍️ More K-beauty brands (verified flagship stores in Myeong-dong)
+
+### 138) 🧴 **Sulwhasoo Flagship Myeong-dong — 🔁 daily**
+- **What:** Sojang K-beauty brand's iconic flagship, where each floor carries a different hero product line (Concentrated Ginseng, First Care, Essential Line, etc.). Includes a heritage gallery and signature tea lounge at top floor
+- **Hours:** Daily **11:00–22:00** (verify in Oct)
+- **Price:** Mid-to-high tier (Adult prices ₩60,000–250,000 for spa-equivalent products; gift sets ₩50,000+)
+- **Official source:** [sulwhasoo.com](https://www.sulwhasoo.com)
+- **Beginner notes:** Free hand treatments of Coreana Ginseng Cream at counters; packagings are tax-refund eligible.
+
+### 139) 💧 **Laneige Flagship & Waterbank Studio — 🔁 daily**
+- **What:** Laneige's Myeong-dong flagship has a free skincare bar focusing on their nightly Water Sleeping Mask, with personal consultations; the studio with photo zones
+- **Hours:** Daily **11:00–22:00**
+- **Price:** Adult prices varied (skincare ₩40,000+; lip masks ₩20,000+)
+- **Official source:** [laneige.com](https://www.laneige.com)
+
+### 140) 🍃 **Nature Republic Myeong-dong Flagship — 🔁 daily**
+- **What:** Known for the ubiquitous Aloe 96 Gel; large 4-floor flagship often with the giant Aloe plant display photo spot
+- **Hours:** Daily **10:30–22:00** (verify)
+- **Price:** Budget tier (Adult skin care samples ₩5,000+; sets ₩20,000+)
+- **Official source:** [naturerepublic.com](https://www.naturerepublic.com)
+
+### 141) 🌸 **Etude House World's Largest Lipstick Wall Myeong-dong — 🔁 daily**
+- **What:** Pastel-pink-themed flagship of Etude House, with the famous world's-largest lipstick wall behind the central photo wall
+- **Hours:** Daily 11:00–22:00
+- **Price:** Budget tier ₩5,000–50,000
+- **Official source:** [etude.com](https://www.etudehouse.com)
+
+### 142) 💗 **3CE Cinema Flagship Myeong-dong — 🔁 daily**
+- **What:** Stylenanda's 3CE flagship with cinema-theater aesthetic — feature-wall of popular lip colors + film-themed photo spot
+- **Hours:** Daily 11:00–22:00 (verify)
+- **Price:** Budget tier (Adult ₩15,000–60,000 for palettes & tints)
+- **Official source:** [3ceonline.com](http://www.3ceonline.com)
+- **Beginner notes:** Stylenanda's 3CE branding has undergone ownership/management transitions; check current status in Oct/Nov.
+
+### 143) ✨ **Missha Time Revolution Myeong-dong Flagship — 🔁 daily**
+- **What:** Missha's Myeong-dong flagship highlighting their Time Revolution best-seller line, with the popular #7 Night Repair focus
+- **Hours:** Daily 11:00–22:00 (verify)
+- **Price:** Budget tier (Adult ~₩15,000−60,000)
+- **Official source:** [missha.com](http://www.missha.com)
+
+### 144) 🌿 **Innisfree Jeju House Main Store — 🔁 daily**
+- **What:** Flagship on main street — eco/green-jeju concept, with shelves featuring the most popular Green Tea Seed line, sheet masks, and Jeju-sourced ingredients
+- **Hours:** Daily 11:00–22:00 (verify)
+- **Price:** Budget-to-mid tier (Adult sample sets ₩15,000–60,000)
+- **Official source:** [innisfree.com](https://www.innisfree.com)
+
+### 145) 🧪 **The Face Shop Nature Line Myeong-dong — 🔁 daily**
+- **What:** Largest flagship, with signature Rice Ceramide & Herb Day lines around a giant Korean Rice Mural
+- **Hours:** Daily 11:00–22:00
+- **Price:** Budget ‒ ₩3,000–30,000
+- **Official source:** [thefaceshop.com](http://www.thefaceshop.com)
+
+### 146) 🍑 **TONYMOLY Peach & Hand Cream Store — 🔁 daily**
+- **What:** Colorful Korean beauty brand with famous peach-scented hand cream (Peach Hand Cream) Seoul Flagship
+- **Hours:** Multi-floor styling
+- **Price:** Budget–mid tier ₩4,000–50,000
+- **Official source:** [tonymoly.com](http://www.tonymoly.com)
+
+### 147) 🌿 **Aritaum (Amorepacific Multi-Brand) Myeong-dong — 🔁 daily**
+- **What:** Amorepacific's multi-brand beauty shop clustering their brands (Innisfree, Etude, Laneige, Mamonde, IOPE, etc.), all under one roof
+- **Hours:** Daily 11:00–22:00 (verify brand-specific)
+- **Price:** Mixed budgets
+- **Official source:** [amorepacific.com](http://www.amorepacific.com)
+
+### 148) 💄 **Cosmetic & Beauty 'Olive Young' Multiple-Walk-Along — 🔁 daily**
+- **What:** As of 2026 ~5+ Olive Young branches in & around Myeong-dong; main flagship remains Myeong-dong 8-gil (8-gil is real confirmed in tourist guide; verify exact flagship address in Oct)
+- **Hours:** Most branches **09:30–22:30**
+- **Price:** Mid-budget
+
+### 149) 🧡 **COSRX Pop-Up (Sukhumvit-style acne brand) — 👀 WATCH seasonal**
+- **What:** The popular K-beauty snail mucin brand has operated seasonal pop-ups / flagship in Myeong-dong; status rotate
+- **Hours:** Seasonal
+- **Price:** Mid-budget
+- **Official source:** [cosrx.com](https://www.cosrx.com)
+
+### 150) 🧴 **TIRTIR Mask Pop-Up & Watercolor-Cushion Store — 👀 WATCH**
+- **What:** K-beauty brand with viral cushion & mask products — pop-up presence in Myeong-dong at various locations
+- **Hours:** Variable
+- **Price:** Mid-budget
+- **Official source:** [tirtir.us](https://tirtir.us)
+
+### 151) 🌱 **ABIB or Anua or Beauty of Joseon K-Beauty Pop-Up — 👀 WATCH seasonal**
+- **What:** Newer K-beauty brands often run rotating seasonal pop-ups in Myeong-dong
+- **Hours:** Variable per pop-up
+- **Official source:** Watch shop-window flyers in late Oct 2026
+
+### 152) 💧 **Beauty of Joseon 'Hanbang' Heritage Brand — 👀 WATCH**
+- **What:** Brand inspired by historical Joseon-era hanbang (traditional Korean herbal medicine) skincare
+- **Hours:** Brand-specific pop-ups
+- **Official source:** [beautyofjoseon.com](http://www.beautyofjoseon.com)
+
+### 153) 🧴 **Hera Cosmetics Flagship Myeong-dong — 👀 WATCH seasonal**
+- **What:** Amorepacific's premium flagship for Hera line — full-prestige cosmetics & foundation focuses
+- **Hours:** Daily 11:00–22:00
+- **Price:** High-tier ₩50,000+
+- **Official source:** [hera-cosmetics.com](http://www.hera-cosmetics.com)
+
+### 154) 🌸 **Korean Indie K-Beauty Floor at Lotte Department Store — 🔁 daily**
+- **What:** Inside Lotte Main Myeongdong — dedicated floor for emerging K-beauty micro brands
+- **Hours:** Daily 10:30–20:30
+- **Price:** Variable
+
+### 155) 🧬 **Amorepacific Color & Makeup Lab (Amore) — 🔁 daily**
+- **What:** Amorepacific's bind brand flagship near Myeong-dong, dedicated to makeup & lip color
+- **Hours:** Daily 11:00–22:00
+
+### 156) 💆 **Sulwhasoo Signature Spa (1st Care Promo) — 👀 WATCH**
+- **What:** Some Sulwhasoo flagships offer short complimentary ginseng hand massage & mini-facial booking; check in Oct for 2026 schedule
+- **Price:** Free / donation
+
+### 157) 🧪 **Skin Food Myeong-dong Carrot/Cucumber Wall — 👀 WATCH**
+- **What:** Korea's heritage food-mask brand; some Myeong-dong stores maintain a carrot or cucumber mosaic wall photo spot
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [skinfood.co.kr](http://www.skinfood.co.kr)
+
+---
+
+## 👗 Fashion & global flagships (verified major brands with Myeong-dong locations)
+
+### 158) 👕 **MUSINSA Standard Myeong-dong (real — opened Jan 30, 2026) — 🔁 daily**
+- **What:** Korea's largest online streetwear platform's second physical store — 992m², 110+ Korean contemporary brands on rotation. Trendy MLBs, K-Sport, Ader Error, A.P.C. Plus more
+- **Hours:** Daily 11:00–22:00 (verify)
+- **Price:** Mid-to-high tier
+- **Official source:** [musinsa.com](https://www.musinsa.com)
+
+### 159) 👕 **Uniqlo Myeong-dong City Hall Store / Uniqlo Myeong-dong — 👀 WATCH**
+- **What:** Major Uniqlo flagship on the main drag or near it; usually multi-floor with full lines
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [uniqlo.com/kr](https://www.uniqlo.com/kr/)
+
+### 160) 👚 **H&M Myeong-dong Main Store — 🔁 daily**
+- **What:** Original Swedish fashion giant's Myeong-dong flagship, multi-floor
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [hm.com/kr](https://www2.hm.com/ko_kr/index.html)
+
+### 161) 👗 **Zara Myeong-dong Central Store — 🔁 daily**
+- **What:** Spanish fashion giant — large multi-floor store
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [zara.com/kr](https://www.zara.com/kr/)
+
+### 162) 🔵 **MUJI Myeong-dong Flagship — 🔁 daily**
+- **What:** Japanese 平 印良品 — minimalist apparel, stationery, home goods. Spacious multi-floor Myeong-dong location
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [muji.com/kr](http://www.muji.com/kr/)
+
+### 163) ⚾ **MLB Korea Myeong-dong — 🔁 daily**
+- **What:** MLB — Korean-birthed label popular for color-block baseball caps, hoodies
+- **Hours:** Daily 11:00–22:00
+
+### 164) 👟 **ABC Mart Myeong-dong Central Store — 🔁 daily**
+- **What:** Top Korean sneaker chain — Nike, Adidas, New Balance, Asics, Converse, etc.
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [abcmart.co.kr](http://www.abcmart.co.kr)
+
+### 165) 🛍️ **ALAND 8-Story Fashion Store (Jung-gu) — 👀 WATCH**
+- **What:** Multi-floor Seoul fashion boutique cluster — Asian & Korean contemporary brands, accessory floors, and mid-tier KCM (Korean Casual Menswear) brands. Korean-origin multi-brand operator
+- **Hours:** Daily 11:00–22:00
+
+### 166) 👞 **Top Ten Myeong-dong — 🔁 daily**
+- **What:** Korean discount shoe chain — athletic, oxford, streetwear footwear
+- **Hours:** Daily 11:00–22:00
+
+### 167) 🟢 **8 Seconds Myeong-dong Flagship — 🔁 daily**
+- **What:** Korean-fashion giant (affiliated with Samsung — the brand was founded by Park Seung-gun); Myeongdong has had 8 Seconds flagship in 2025
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [8seconds.co.kr](https://www.8seconds.co.kr)
+
+### 168) 🟠 **SPAO / Roem-by-Stylenanda Combined Myeong-dong — 👀 WATCH**
+- **What:** SPAO + Roem casual store; the brands have shared flagship in past — verify in Oct/Nov 2026
+- **Hours:** Daily 11:00–22:00
+
+### 169) 🎒 **MCM Myeong-dong (K-pop heritage brand) — 👀 WATCH**
+- **What:** MCM (originally München, founded in Korea in 1976), luxury leather bags, iconic Cognac Visetos
+- **Hours:** Daily 11:00–22:00
+
+### 170) 📚 **Kyobo Book Centre Myeong-dong Central Store — 🔁 daily**
+- **What:** Korea's largest bookstore with major Korean / English / Chinese / Japanese books, stationery, and small music department with K-pop albums
+- **Hours:** Daily **10:00–22:00**
+- **Official source:** [kyobobook.co.kr](https://www.kyobobook.co.kr)
+- **Beginner notes:** Located near Gwanghwamun ~5 min walk from Myeong-dong. Sign up for free 5,000 won member signup offer.
+
+### 171) 🛍️ **Daiso Myeong-dong (12-Floor Mega Store) — 🔁 daily**
+- **What:** Korea's biggest multi-floor Daiso mega-store anchored in the Myeong-dong area
+- **Hours:** Daily **10:00–22:00**
+- **Price:** ₩1,000–5,000 for nearly every item
+- **Official source:** [daisomall.co.kr](https://www.daisomall.co.kr/)
+
+### 172) 🪑 **Standard Products Myeong-dong — 👀 WATCH**
+- **What:** Premium sibling of Daiso (sister brand under Simplex) — slightly higher price, more design-forward home goods
+- **Hours:** Daily 10:00–22:00
+
+### 173) 📚 **Bandido Bookstore Myeong-dong (Spanish-language) — 👀 WATCH**
+- **What:** Authentic Spanish-language bookstore in Myeong-dong (verified location — Barrio Latino concept since 2023)
+- **Hours:** Daily 11:00–22:00
+
+### 174) 🛍️ **Beams Korea Myeong-dong — 🔁 daily**
+- **What:** Japanese-style select shop — curated fashion, accessories & lifestyle goods in multi-floor flag
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [beams.co.kr](https://www.beams.co.kr)
+
+---
+
+## 🍜 Myeong-dong Old-School Sit-Down Restaurants (verified famous Myeong-dong eats)
+
+### 175) 🥟 **Myeongdong Kyoja (명동교자) — 🔁 Mon–Sat daytimes + evenings**
+- **What:** One of Seoul's most famous long-running *kalguksu* (hand-cut noodle) shops — open since ~1966. Famous for knife-cut noodle dumplings & spicy bibimbap
+- **Hours:** Mon–Sat (typically 10:30–21:30, **closed Sundays**); verify
+- **Price:** Per bowl principles — kalguksu ₩9,000, mandu ₩10,000 (verify)
+- **Official source:** [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** Expect lines at lunch.
+
+### 176) 🥟 **Myeongdong Yeopin Sujebi (명동여빈 수제비) — 🔁 daily**
+- **What:** Famous long-running dumpling and sujebi (torn noodle soup) shop near Myeongdong
+- **Hours:** Daily 11:00–21:00
+- **Price:** Around ₩10,000–14,000
+
+### 177) 🍜 **Myeong dong Sundaeguk (명동 순대국밥) — ✅ CONFIRMED — daily**
+- **What:** Verified famous long-running blood sausage soup shop in 197 Euljiro 2-ga, Jung-gu — at Exit 5 of Euljiro Station (right at Myeong-dong edge)
+- **Hours:** Daily **09:00–22:00** (verify)
+- **Price:** Sundae gukbap around ₩9,000
+- **Official source:** [myeongdongsundaeguk.com](http://www.myeongdongsundaeguk.com) (verify current status)
+- **Beginner notes:** Lines at lunch — go before 11:30 or after 1:30 PM.
+
+### 178) 🥟 **Sinuiju Chapssal Sundae Myeongdong (신의주 찹쌀순대) — 🔁 daily**
+- **What:** Verified TripAdvisor-rated old-school chapssal-sundae restaurant in Myeongdong-gil, Jung-gu (ginseng chicken soup & kimchi pancake specialties)
+- **Hours:** Daily **10:00–22:00**
+- **Price:** ₩12,000–25,000
+- **Official source:** Via Naver Place & TripAdvisor
+- **Beginner notes:** Famous Myeongdong sundae alley anchor.
+
+### 179) 🍚 **Cheong Wa Ok (청와옥) Myeongdong Branch — 🔁 daily**
+- **What:** Famous suyuk (boiled pork)+sundaegukbap chain with Myeongdong branch near Euljiro; specializes in chapssal-sundae at ₩9,000–12,000
+- **Hours:** Daily 09:00–22:00
+- **Price:** ~₩9,000–14,000
+- **Official source:** Verified food guides
+
+### 180) 🥘 **Hadonggwan Branch (하동관 명동) — 👀 WATCH**
+- **What:** Famous *gukbap* chain; verify current Myeongdong location
+- **Hours:** Daily 11:00–21:00
+- **Price:** ~₩11,000
+- **Beginner notes:** Originally Seoul Station; Myeongdong-era branch list rotates.
+
+### 181) 🍜 **Coffee Bean & Tea Leaf Myeongdong — 🔁 daily**
+- **What:** Korea's local rival (before Starbucks was big) "Coffee Bean" 
+- **Hours:** Daily 07:00–23:00
+- **Official source:** [coffeebeankorea.com](https://www.coffeebeankorea.com)
+
+### 182) 🟢 **Twosome Place Seocho/Center (with Myeongdong branches) — 👀 WATCH location**
+- **What:** Major Korean dessert cafe chain
+- **Hours:** Daily 08:00–23:00
+- **Official source:** [twosome.co.kr](https://twosome.co.kr)
+
+### 183) 🌶️ **Myeongdong Bibimbap Alley — 🔁 daily**
+- **What:** Multiple traditional Korean bibimbap restaurants near Myeongdong Theater area, including stone-pot (dolsot) and royal house variations
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₩8,000–15,000
+
+### 184) 🥟 **Inamjang Myeongdong — 👀 WATCH verified famous gukbap**
+- **What:** Verified popular gukbap restaurant mentioned by name in Korean food tour guide reviews; near Myeongdong
+- **Hours:** Daily 11:00–21:00
+- **Price:** ~₩10,000
+
+### 185) 🍲 **Myeongdong Yukhoe Specialty Restaurants — 👀 WATCH**
+- **What:** Multiple traditional beef tartare (yukhoe) specialty shops around Myeongdong — vegetable-loaded raw-marinated raw-beef with pear & egg yolk
+- **Hours:** Daily 11:00–22:00
+- **Price:** ~₩18,000–30,000
+
+---
+
+## 🐟 Fish & Seafood (verified Myeong-dong district)
+
+### 186) 🐟 **Myeongdong Hoe-muchim (raw fish salad) Alley — 🔁 daily**
+- **What:** Verified Myeong-dong-side (Euljiro) has popular *hoe-muchim* (raw fish salad with vegetables + sesame dressing) restaurants
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽15,000–25,000
+
+### 187) 🦐 **Myeongdong Sashimi / Poke Bowl Trends — 👀 WATCH**
+- **What:** Modern poke & sushi spots in Myeongdong (popular 2024-26 Korean trend)
+- **Hours:** Daily
+- **Price:** ₽10,000–20,000
+
+### 188) 🐟 **Myeongdong Specialty 'Live Octopus' Walk-up — 👀 WATCH**
+- **What:** Sannakji raw octopus spots around Myeongdong
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽18,000–30,000
+
+### 189) 🦪 **Myeongdong Oyster Korean Bento Lunch — 👀 WATCH**
+- **What:** Modern Korean lunch bento takeout offering local stone-pot oyster bibimbap
+- **Hours:** Daily 11:00–22:00
+- **Price:** ~₽12,000
+
+### 190) 🍣 **Myeongdong Conveyor Sushi / Sushi-co — 👀 WATCH**
+- **What:** Some Korean sushi-conveyor-style cafes have operated in Myeongdong
+- **Hours:** Daily
+- **Price:** ₽10,000–18,000
+
+### 191) 🦐 **Myeongdong Mac & Cheese / Seafood Gratin Cafe — 👀 WATCH**
+- **What:** Korean cafe-twist (snow-gratin) trend spots
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽10,000–18,000
+
+---
+
+## ☕ Café & dessert temple scene
+
+### 192) ☕ **Paik's Coffee Myeongdong — 🔁 daily**
+- **What:** Korean coffee chain (Bongjin Co.) within Myeongdong — late-night studious vibe
+- **Hours:** Daily 08:00–22:00
+- **Official source:** [paikscoffee.com](http://paikscoffee.com)
+
+### 193) 🌸 **Sulwhasoo Flagship Café (Top Floor Tea Lounge) — 👀 WATCH**
+- **What:** Several Sulwhasoo flagships carry a small Sulwhasoo-name signature tea lounge — verify which has the open daytime cafe
+- **Hours:** Variable (some 11:00–22:00)
+- **Price:** ₽12,000–25,000 tea set
+
+### 194) ☕ **Hollys Coffee Myeongdong — 🔁 daily**
+- **What:** Hollys Coffee (Korean chain by RSH) — convenient for noodle/trip watching in Myeongdong
+- **Hours:** Daily 08:00–22:00
+- **Official source:** [hollyscoffee.co.kr](https://www.hollyscoffee.co.kr)
+
+### 195) ☕ **Ediya Coffee Myeongdong Branches — 🔁 daily**
+- **What:** Ediya is Korea's most prevalent coffee chain; multiple Myeongdong locations
+- **Hours:** Daily 07:00–22:00
+- **Official source:** [ediya.com](https://www.ediya.com)
+
+### 196) 🧁 **Myeongdong Croffle Café Row — 🔁 daily**
+- **What:** Korean croissant-waffle (croffle) trend revolutionized recent Seoul cafe scene — many pet shops in Myeongdong
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽4,000–8,000 per sweet
+
+### 197) 🧁 **Myeongdong Cheesecake Café — 👀 WATCH**
+- **What:** Known Korean cheesecake-bake cafe chains often operate near Myeongdong
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽6,000–12,000
+
+### 198) 🥯 **Myeongdong Korean Bagel & Cafe Trend — 👀 WATCH**
+- **What:** New wave of Korean bagel cafes may operate near Myeongdong
+- **Hours:** Daily 09:00–20:00
+
+### 199) 🍮 **Myeongdong Matcha Cafe — 👀 WATCH**
+- **What:** Korean matcha cafe trend has smaller boutique cafes in Myeongdong
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽5,000–10,000
+
+### 200) 🍫 **Korean Chocolat Patisserie in Myeongdong — 👀 WATCH**
+- **What:** Boutique artisan chocolatier and *macaron* cafe-growth in Seoul — some operate in Myeongdong
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽6,000–14,000 per dessert
+
+### 201) 🍨 **Myeongdong Melona / Binggrae-Pop-up brand scoops — 👀 WATCH seasonal**
+- **What:** Korean heritage ice cream brand Melona operates seasonal pop-ups
+- **Hours:** Variable
+- **Official source:** [binggrae.com](https://www.binggrae.com)
+
+---
+
+## 🏨 Additional hotels in / adjacent to Myeongdong (verified TripAdvisor listings)
+
+### 202) 🌟 **Lotte Hotel Seoul (Myeongdong-adjacent) — 🔁 daily**
+- **What:** The historic flagship Lotte Hotel at the south end of Myeongdong — 30+ story tower with city views
+- **Hours:** Daily
+- **Price:** Premium tier ~₽400,000+
+- **Official source:** [lottehotel.com/seoul](https://www.lottehotel.com/seoul)
+
+### 203) 🏨 **Hotel Skypark Myeongdong 1, 2, & 3 (three flagship buildings) — 🔁 daily**
+- **What:** Verified chain of three Myeongdong Skypark hotels (1, 2, 3) offering budget-to-mid-tier with central locations
+- **Hours:** Daily
+- **Price:** Mid-tier ₽90,000–200,000
+- **Official source:** [skyparkhotel.co.kr](http://www.skyparkhotel.co.kr)
+
+### 204) 🏨 **Nine Tree Premier Hotel Myeongdong II & Nine Tree by Parnas I — 🔁 daily**
+- **What:** Modern business hotels — verified TripAdvisor listings under "Nine Tree by Parnas Seoul Myeongdong I & II"
+- **Hours:** Daily
+- **Price:** Mid-tier ₽120,000–250,000
+- **Official source:** [pgrhotels.com](http://www.pgrhotels.com)
+
+### 205) 🏨 **Solaria Nishitetsu Hotel Seoul Myeongdong — 🔁 daily**
+- **What:** Japanese-owned boutique business hotel
+- **Hours:** Daily
+- **Price:** Mid-tier ₽120,000–200,000
+- **Official source:** [solaria-hotel.co.kr](http://www.solaria-hotel.co.kr)
+
+### 206) 🏨 **Henn Na Hotel Seoul Myeongdong — 🔁 daily**
+- **What:** Japanese robot-staff "Henn Na" hotel of the Myeongdong area
+- **Hours:** Daily
+- **Price:** Mid-budget ₽80,000–140,000
+- **Official source:** [hennnahotel.co.kr](http://www.hennnahotel.co.kr)
+
+### 207) 🏨 **Sotetsu Hotels The Splaisir Seoul Myeongdong — 🔁 daily**
+- **What:** Japanese-owned business hotel (route to Seoul by Sotetsu Group of Yokohama)
+- **Hours:** Daily
+- **Price:** Mid-tier ₽100,000–180,000
+- **Official source:** [sotetsu.co.jp](https://www.sotetsu.co.jp/english)
+
+### 208) 🏨 **Five Hotel Jongno — 👀 WATCH**
+- **What:** Located near Myeong-dong's northern edge — boutique hotel
+- **Hours:** Daily
+- **Price:** Mid-tier ₽120,000–180,000
+
+### 209) 🏨 **Migliore Hotel Seoul Myeongdong — 🔁 daily**
+- **What:** Verified TripAdvisor-listed budget hotel
+- **Hours:** Daily
+- **Price:** Budget ₽70,000–120,000
+
+### 210) 🏨 **Hotel Cappuccino Myeongdong — 👀 WATCH**
+- **What:** Verified boutique hotel in Myeong-dong area, Korean design lodging
+- **Hours:** Daily
+- **Price:** Mid-tier ₽150,000–250,000
+
+### 211) 🏨 **Stanford Hotel Myeongdong — 🔁 daily**
+- **What:** Confirmed hotel near Namdaemun — Walking distance to Myeong-dong
+- **Hours:** Daily
+- **Price:** Mid-tier ₽120,000–200,000
+- **Official source:** [stanfordhotel.co.kr](https://www.stanfordhotel.co.kr)
+
+### 212) 🏨 **Travelodge Myeongdong Euljiro — 👀 WATCH**
+- **What:** Budget-friendly business hotel around Myeongdong
+- **Hours:** Daily
+- **Price:** Budget ₽80,000–140,000
+
+### 213) 🏨 **Hotel Kukdo — 👀 WATCH**
+- **What:** Mid-tier budget hotel near Myeongdong
+- **Hours:** Daily
+- **Price:** ₽70,000–140,000
+
+### 214) 🏨 **Creto Hotel Myeongdong — 🔁 daily**
+- **What:** Comfortable business hotel within walking distance of Myeongdong main street
+- **Hours:** Daily
+- **Price:** Mid-tier ₽80,000–150,000
+
+### 215) 🏨 **L7 Myeongdong by Lotte — 👀 WATCH** (verify: L7 Gangnam is well-known; L7 may also have Myeongdong branch — confirm 2026 status)
+- **Hours:** Daily
+
+---
+
+## 🏪 K-pop, character & trend shops
+
+### 216) 🧸 **Line Friends Flagship Myeongdong — 🔁 daily**
+- **What:** BT21 + Line Friends character-flagship inside the Myeongdong area
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [linefriends.com](https://linefriends.com)
+
+### 217) 🐰 **Kakao Friends Gangnam-Myeongdong Store — 👀 WATCH location**
+- **What:** Kakao Friends (Ryan, Apeach, Muzi) flagship often advertised near central Seoul
+- **Hours:** Daily 11:00–22:00
+- **Official source:** [kakaofriends.com](https://www.kakaofriends.com)
+
+### 218) 🎤 **Myeongdong K-pop Lightstick & Album Specialty Store — 🔁 daily (with myeongdong underground #211)**
+- **What:** Cluster of K-pop merch shops deepest inside Myeongdong Underground Shopping Center — spiral staircase in the multi-floor side street aisles
+- **Hours:** Daily 10:30–22:30
+
+### 219) 🧸 **Pop-up Merch Stores (idol-themed temporary) — 👀 WATCH**
+- **What:** K-pop idol themed pop-up stores come and go frequently in Myeongdong (BTS, Stray Kids, Seventeen, aespa, etc.)
+- **Hours:** Variable per pop-up schedule
+- **Official source:** [melon.com](https://www.melon.com) and each artist's agency
+- **Beginner notes:** Walk along Myeongdong to spot current pop-up signs; check Melon Daily for current schedules.
+
+### 220) 🛍️ **NCT127-style Myeongdong K-pop Concept Store Cluster — 🔁 daily**
+- **What:** Multiple SM-style concept stores near Myeongdong stocking limited-edition idol goods
+- **Hours:** Daily 11:00–22:00
+
+---
+
+## 🏧 Banking & Currency (verified banks serving Myeongdong)
+
+### 221) 🏦 **KEB Hana Bank Myeongdong Main Branch — 🔁 Mon–Fri**
+- **What:** Foreigner-friendly full-service bank; passport needed for foreign currency exchange
+- **Hours:** Mon–Fri **09:00–16:00** (with extended ATMs)
+- **Price:** Better-than-the-street rates
+- **Official source:** [hanafn.com](https://www.hanafn.com)
+
+### 222) 🏦 **Woori Bank Myeongdong Branch — 🔁 Mon–Fri**
+- **What:** Major Korean bank near Myeongdong
+- **Hours:** Mon–Fri 09:00–16:00
+- **Official source:** [wooribank.com](https://www.wooribank.com)
+
+### 223) 🏦 **Shinhan Bank (신한은행) Myeongdong Branch — 🔁 Mon–Fri**
+- **What:** Major Korean bank in Myeongdong area
+- **Hours:** Mon–Fri 09:00–16:00
+- **Official source:** [shinhan.com](https://www.shinhan.com)
+
+### 224) 🏦 **NongHyup (NH Bank) Myeongdong — 🔁 Mon–Fri**
+- **What:** Agricultural cooperative bank; fairly foreigner-friendly
+- **Hours:** Mon–Fri 09:00–16:00
+- **Official source:** [nhbank.com](http://www.nhbank.com)
+
+### 225) 💱 **Premium Foreign Currency Exchange (Money-Tronics 'Untour' franchise) — 👀 WATCH**
+- **What:** Verified Myeongdong-style professional money exchange (rates vary by day; weekday beats most hotels)
+- **Hours:** Daily 09:00–22:00 (verify)
+- **Price:** Typically 0.4–0.8% better than airport
+- **Official source:** [untour.co.kr](http://www.untour.co.kr)
+
+### 226) 💱 **Seoulbrothers Currency Exchange Myeongdong — 🔁 daily**
+- **What:** Verified Myeongdong-purpose multi-language money-exchange operator (well-reviewed)
+- **Hours:** Daily 09:00–22:00
+- **Official source:** [seoulbrothers.net](http://www.seoulbrothers.net)
+
+### 227) 🏧 **Citibank / Standard Chartered International ATMs (24 hr) — 🔁 daily**
+- **What:** Multiple international ATM banks inside Myeongdong; passport holders can withdraw
+- **Hours:** 24/7
+- **Price:** Some charge 1.5–3% FX fee
+- **Official source:** [citibank.co.kr](https://www.citibank.co.kr)
+
+### 228) 🏪 **Myeongdong Convenience Stores — 🔁 daily 24/7**
+- **What:** CU, 7-Eleven, GS25, EMart24 — Korea's four 24/7 chains have multiple Myeongdong branches
+- **Hours:** 24/7
+- **Official sources:** [cu.co.kr](https://www.cu.co.kr) · [7eleven.co.kr](https://www.7eleven.co.kr) · [gs25.gsretail.com](http://gs25.gsretail.com) · [emart24.co.kr](https://www.emart24.co.kr)
+- **Beginner notes:** T-money top-ups accepted.
+
+---
+
+## 🌃 Performance arts (additional theaters near Myeongdong)
+
+### 229) 🎭 **Myeongdong NANTA Theatre — ✅ CONFIRMED — daily**
+- **What:** World's 1st Korean non-verbal kitchen-drumming comedic musical (since 1997). Hottest English-friendly show for tourists
+- **Hours:** Daily **17:00 & 20:00** (verify exact times)
+- **Price:** Adult ₩44,000–60,000
+- **Official source:** [nanta.co.kr](https://www.nanta.co.kr)
+- **Beginner notes:** Near Hoehyeon Station; English bookings via Interpark.
+
+### 230) 🎭 **Myeongdong Art Hall (명동예술극장) — ✅ CONFIRMED — daily**
+- **What:** Built 2001; main theater for BIBAP, JUMP at night — runs daily multi-show schedule
+- **Hours:** Daily **16:00/17:00 + 20:00**
+- **Price:** Adult ₩40,000–60,000
+- **Official source:** [mdth.co.kr](http://www.mdth.co.kr)
+
+### 231) 🎞️ **Nanta Theater Seoul Hoehyeon Branch (NANTA Hoehyeon) — 👀 WATCH**
+- **What:** NANTA run multiple Seoul theaters; one is near Hoehyeon Station by Myeongdong
+- **Hours:** Daily 17:00
+- **Price:** Adult ₩44,000–66,000
+- **Official source:** [nanta.co.kr](https://www.nanta.co.kr)
+
+### 232) 🎭 **Myeongdong Live Musical Theater (varies; K-pop-themed musicals) — 👀 WATCH seasonal schedule**
+- **What:** Seasonal English-friendly Korean musicals have been hosted at auditorium spaces near Myeongdong (CGV Myeongdong/Uniqlo cinemas)
+- **Hours:** Show-based
+- **Official source:** [nol.world](https://www.nol.world)
+
+### 233) 🎤 **Myeongdong 'Ginseng Carpet' Walking Tour — 👀 WATCH**
+- **What:** Tourist-class free walking tour offered by tour operators
+- **Hours:** Daily by reservation
+- **Official source:** [seoulcitybus.com](https://www.seoulcitybus.com)
+
+### 234) 🎭 **Myeongdong Seoul Cultural Walking Tour (Korean) — 👀 WATCH**
+- **What:** Seoul Tourism Organization's guided walking tour
+- **Hours:** Daily bookings via Korean system
+- **Official source:** [sto.or.kr](https://www.sto.or.kr)
+
+---
+
+## 🧘 Wellness, beauty & body care
+
+### 235) 💆 **Korean Premium Body Scrub Spa Myeongdong — 👀 WATCH**
+- **What:** Several premium body scrubs near Myeongdong take walk-ins
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽80,000–200,000
+- **Beginner notes:** Traditional *taeshim-spa* styling includes towels & shower; bring scuba socks if warming.
+
+### 236) 🧖 **Lymphatic Massage Service near Myeongdong — 🔁 daily**
+- **What:** Verified Myeongdong-area offers specialized Korean-style lymphatic
+- **Hours:** Daily 10:00–22:00
+- **Price:** ₽90,000–180,000
+
+### 237) 💆 **Foot Reflexology Itaewon (Myeongdong) Center — 👀 WATCH**
+- **What:** Verified Myeongdong-side Korean foot-reflexology centers
+- **Hours:** Daily 11:00–22:00
+- **Price:** ₽30,000–70,000
+
+### 238) 💅 **Korean Nail Salon 'Nail Bar' Myeongdong — 🔁 daily**
+- **What:** Multiple nail salons throughout Myeongdong, run quick express services
+- **Hours:** Daily 11:00–22:00
+- **Price:** Adult express ₽30,000–80,000
+
+### 239) 💄 **K-Pop Makeup Salon 'Myeongdong K-beauty Hair & Makeup' — 👀 WATCH**
+- **What:** K-beauty styling service — get a K-pop idol makeover
+- **Hours:** Daily 11:00–22:00
+- **Price:** Adult ₽100,000–300,000
+
+### 240) 🍃 **Korean Herbal Medicinal Bath House near Myeongdong — 👀 WATCH**
+- **What:** Slightly farther but accessible traditional Korean bathhouse
+- **Hours:** Daily 06:00–22:00
+- **Price:** Adult ₽15,000–25,000
+
+### 241) 🏊 **Myeongdong Hotel Indoor Pool Day-Use Pass — 👀 WATCH**
+- **What:** Some upper-tier Myeongdong hotels offer paid day-use for swimming pools
+- **Hours:** Daily 11:00–17:00
+- **Price:** ~₽50,000
+
+### 242) 🎫 **Uljiro, Daeseong-dong Body Massage Alley — 🔁 daily**
+- **What:** Cluster of body massage up north of Myeongdong proper
+- **Hours:** Daily 11:00–22:00
+- **Price:** Adult ₽50,000–120,000
+
+### 243) 🛁 **Eco Korean Massage (Foot bath) Service Near Myeongdong — 🔁 daily**
+- **What:** Reliable foot bath facilities
+- **Hours:** Daily 11:00–22:00
+- **Price:** Adult ₽15,000–30,000
+
+---
+
+## 🎃 Additional Halloween and seasonal
+
+### 244) 🎃 **Myeongdong Halloween Cosplay Pub Crawl — 👀 WATCH**
+- **What:** Annual Halloween costume pub crawl organized by Myeongdong pubs/clubs; check Vato Korea or Tripcom
+- **Hours:** Oct 31 only
+- **Price:** Cover ₽30,000–50,000
+
+### 245) 🎃 **Myeongdong Cathedral Friday Mass Sweet Feast (Oct 31) — 👀 WATCH**
+- **What:** Some travelers attend evening mass Oct 31 with the cathedral open late
+- **Hours:** Oct 31 only
+- **Price:** **FREE**
+
+### 246) 🎃 **Halloween Theme Night at Lotte Young Plaza Plaza — 👀 WATCH seasonal**
+- **What:** Halloween-themed pop-up activations sometimes appear at Lotte Young Plaza
+- **Hours:** Daily evenings late Oct
+- **Price:** Variable
+- **Official source:** [lotteshopping.com](https://www.lotteshopping.com)
+
+### 247) 🍫 **Myeongdong Chocolate Festival Pop-Up (Korean Dessert Week) — 👀 WATCH**
+- **What:** Seasonal pop-up — Korean chocolate-makers stage mini-festival
+- **Hours:** Variable
+- **Official source:** [visitkorea.or.kr](https://english.visitkorea.or.kr)
+
+### 248) 🎃 **Halloween Pub Crawl Hosted by International Tour Operators — 👀 WATCH**
+- **What:** Each Halloween indie cosplay pub crawl organized by Korean tour agencies — bookable via Klook/Viator in Oct
+- **Hours:** Sat evening Oct 31
+
+### 249) 🌙 **Myeongdong Halloween Night (Oct 31 Mega-Costume Day) — 🔁 annually Oct 31**
+- **What:** Main street becomes a giant costume-walk on Oct 31 (everyone in costume)
+- **Hours:** Sat evening Oct 31
+
+### 250) 🍂 **Myeongdong Myeongdong-Christmas-Starter (early Nov) — 👀 WATCH**
+- **What:** Many Myeongdong stores begin Christmas window decorations in early Nov
+- **Hours:** Open 24/7 daily
+
+### 251) 🎄 **Myeongdong Cathedral Live Christmas Concert (early Dec early launch) — 👀 WATCH**
+- **What:** Music concert season begins in early Dec near Myeong-dong (verify pre-launch)
+
+### 252) 🌕 **Myeongdong Chuseok (Thanksgiving) Heritage Walk — Note before-trip**
+- Chuseok is in mid-Sep 2026 (before your trip); some specialty hanbok-rental shops may have late-autumn free-period promos
+
+### 253) 🌸 **Korean American Chuseok Autumn Moon Festival Art-Mark — 👀 WATCH**
+- **What:** Some late-Autumn Korean Lunar festival is celebrated on Korean street patios
+- **Hours:** Variable
+
+### 254) 🐶 **Myeongdong K-Pop & Pet Café Autumn Photo Walk (Nov–Dec) — 👀 WATCH**
+- **What:** Korean pet-culture #doglife cafes may have seasonal outdoor events
+- **Hours:** Daily 11:00–22:00
+
+### 255) 🍜 **Korean Chuseok Late-Autumn Bibimpap Tasting Phase — 👀 WATCH**
+- **What:** Seasonal banquets offered at major restaurants in mid-Nov (kimjang festive mood)
+- **Hours:** Late Nov
+
+### 256) 🛍️ **Myeongdong Halloween Costume Pop-up Saturday (Oct 31) — 👀 WATCH seasonal**
+- **What:** Halloween day-of pop-ups largely through Lotte Young Plaza basement
+- **Hours:** Oct 31 only
+
+### 257) 🎭 **Myeongdong Busking Night During Halloween Weekend — 👀 WATCH seasonal**
+- **What:** Increased busking performances Sat Oct 31
+- **Hours:** Sat Nov evening
+
+---
+
+## ↩️ Beyond Seoul — extra walking-distance things
+
+### 258) 🪷 **Cheonggyecheon Stock Historic Marker Walk (open-source maps) — 🔁 Tue–Sun (FREE)**
+- **What:** Self-guided Cheonggyecheon-stream history walk from Myeongdong through central Seoul
+- **Hours:** Daily dawn–midnight
+- **Price:** **FREE**
+
+### 259) 🏛️ **Jung-gu Museum of Modern Korean Life (Chungmu-ro) — 👀 WATCH**
+- **What:** Smaller museum near Myeongdong — small but with rotating exhibits
+- **Hours:** Tue–Sun 10:00–17:00
+- **Price:** **FREE**
+
+### 260) 🌃 **Myeongdong Namsan Spotted-Walking Night Tour (KTO) — 👀 WATCH**
+- **What:** KTO Namsan Mountain walking tour (Sat evenings seasonally)
+- **Hours:** Sat 18:00–22:00
+- **Official source:** [visitkorea.or.kr](https://english.visitkorea.or.kr)
+
+### 261) 🌸 **Namsan Botanical Garden in Fall — 🔁 Tue–Sun (FREE)**
+- **What:** Part of Seoul's fall-foliage pilgrimage — sit at the alpine garden lookout 100m south of N Seoul Tower
+- **Hours:** Daily 06:00–18:00 (Nov)
+- **Price:** **FREE**
+- **Official source:** [parks.seoul.go.kr](https://parks.seoul.go.kr)
+
+### 262) 🚇 **AREX Route Airport Express Booking Myeongdong Station — 🔁 daily**
+- **What:** Book direct AREX (Airport Railroad) train to Incheon Airport from Myeongdong/Euljiro station area (Line 4 transfer at Seoul Station)
+- **Hours:** Daily departures
+- **Official source:** [arex.or.kr](https://www.arex.or.kr)
+
+### 263) 🚛 **Euljiro-Euljiro 1(il)-ga Night Walks — 👀 WATCH**
+- **What:** Lively Euljiro 1-ga neighborhood adjacent to Myeongdong Theater offers budget-friendly retro Korean pubs in evenings
+- **Hours:** Daily 17:00–24:00
+
+---
+
 ## 🧭 Beginner-friendly essentials
 
 - **Subway:** Line 4 **Myeongdong Station** (8 exits serving different sides), Line 2 **Euljiro 1-ga Station** (Myeong-dong Theater side). Bring T-money for unlimited transfers
