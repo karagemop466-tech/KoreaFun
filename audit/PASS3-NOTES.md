@@ -497,3 +497,39 @@ booking line's limited hours, and the 푸른티켓 ₩5,000 under-24 fare.
 
 **Running total: 62/570 individually verified.** Still no fabricated events found — the failure mode
 remains staleness, omission, and detail left unfinished.
+
+
+### Pass 14 — prices, fixtures, and a correction that ran backwards
+
+**The worst find so far is a "fix" that made things wrong.** `sources.md` carried the row
+*"Busan X the Sky — Prices corrected (₩27,000 → ₩29,000)"*. Visit Busan's official listing gives
+**₩27,000 adult / ₩24,000 child-senior**. So an earlier pass took the correct figure, replaced it
+with a wrong one, and logged that as a correction — the audit trail actively asserted the error.
+Both `busan.md` and `sources.md` are fixed, and the row now records which direction is right.
+
+That prompted auditing every other price correction logged in `sources.md`. The other two were
+genuine: Korean Folk Village ₩25,000 → **₩37,000** (operator fare page) and Wooyang ₩8,000 →
+**₩15,000** (VisitKorea). Both rows now carry the full breakdown and a verification date so the
+direction cannot be misread again. **A correction log is only useful if the corrections are audited
+too.**
+
+**New tool: `tools/verify_claims.py`.** Every serious bug here has had one shape — a fact fixed in
+the city file while `itinerary.md` / `README.md` / `events.csv` keep the old value. This pass an
+itinerary edit *silently failed its assertion* while the ledger recorded it as done, which is the
+same failure wearing a different hat. The tool encodes the multi-file facts as assertions and fails
+loudly on drift. Tested by re-injecting the original Chungnam/Chungbuk bug — it catches it and
+exits 1. Run it after any pass that changes a claim.
+
+**Entries that pointed at nothing, now resolved:**
+
+| Entry | Was | Now |
+|---|---|---|
+| suwon #35 | "check official fixtures" | **Two real home games**: Suwon Samsung (top of K League 2) host Yongin Nov 8 and Gyeongnam Nov 21, both 14:00. Both clash with existing plans; said so. |
+| busan #11 | "confirm on the operator site" | Full post-May-2026 fares: Beach Train ₩10,000–16,000, Sky Capsule ₩50,000–60,000/capsule, package ₩73,000–111,000, first departures moved earlier. |
+| yongin #1 | "use the operator's live pages" | ₩37,000/₩30,000/₩26,000, ride access included, and the fact that advance online booking is **20–30% cheaper than the gate**. |
+
+**incheon #42 resolved the departure-day problem.** INAS runs Nov 22 **10:00–18:00, last entry
+17:00**, at Songdo Convensia ~30–40 min from ICN. Of the four events competing for that date it is
+the only one compatible with a flight — G-STAR is in Busan and the E-Land finale is in Seoul.
+
+**69/570 verified. Still zero fabricated events.**
