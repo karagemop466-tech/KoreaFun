@@ -467,3 +467,33 @@ Oct 26–Nov 15 window — and states plainly that the museum's live page does n
 
 **Lesson: re-test dead sources.** A host that 502s during one pass may simply have been having a bad
 day. The "broken URL" list in this file is a snapshot, not a permanent verdict.
+
+
+### Pass 13 — sweeping the four untouched files
+
+Daegu, Myeongdong, Yeosu and Changwon-Jinhae had **zero** individually-verified entries. All four
+now have their dated/bookable entries checked against operator sources.
+
+**The pattern in Daegu: badged ✅ CONFIRMED while the body said "verify this."** daegu #4 (SAC on
+Screen *Othello*) asserted the date but left start time, price and booking method as "confirm on the
+notice board." The operator publishes all three: **14:00, Suchang Hall 3F, free, no reservation,
+first-come, arrive 10 minutes early** — and it is the final film of a 16-title season. A ✅ badge
+should mean the entry is actionable, not merely that a date exists.
+
+**The find in Changwon: an entry pointing at nothing.** #27 Gyeongnam FC said "confirm home fixtures
+through the league." The club's own fixture list shows **no home game a visitor can attend**: the
+Oct 31 home match is arrival day, Nov 7 and Nov 21 are both away, and the next home game is Nov 29 —
+a week after departure. Now stated outright and redirected to Busan IPark (Nov 21) and Seoul E-Land
+(Nov 7), both already verified.
+
+**Yeosu came out clean.** #33 fireworks and #34 island food festival both appear *verbatim* in the
+10.31 엑스포장 cell of the organizer's schedule, and #35's day-by-day breakdown matched the official
+table line for line including the Nov 4 폐막식 and the Oct 30–Nov 1 yacht regatta. Whoever built these
+entries worked from the primary source.
+
+**Myeongdong #1** gained what a ticketed run needs: Korean premiere of Schimmelpfennig's five-play
+cycle, director, the fact that it is **Korean-language with no surtitle information published**, the
+booking line's limited hours, and the 푸른티켓 ₩5,000 under-24 fare.
+
+**Running total: 62/570 individually verified.** Still no fabricated events found — the failure mode
+remains staleness, omission, and detail left unfinished.

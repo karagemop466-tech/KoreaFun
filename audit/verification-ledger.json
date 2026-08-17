@@ -3033,14 +3033,16 @@
  },
  "myeongdong.md#1": {
   "badge": "Na",
-  "body_hash": "f5d0e0ffbe",
-  "checked_on": null,
+  "body_hash": "40278de0a0",
+  "checked_on": "2026-08-18",
   "file": "myeongdong.md",
-  "note": "",
+  "note": "Anthropolis IV Iocaste Oct 28-Nov 21 CONFIRMED on the company's own page. Added: Korean premiere of Schimmelpfennig's 5-play cycle (Hamburg 2023), source plays, director Seo Ji-hye, Korean-language w/ no surtitle info published, booking line 1644-2003 weekdays 13-18, 푸른티켓 W5,000 for under-24s.",
   "num": 1,
-  "sources": [],
+  "sources": [
+   "https://www.ntck.or.kr/ko/performance/info/257325"
+  ],
   "title": "🎭 Anthropolis IV: Iocaste",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "myeongdong.md#10": {
   "badge": "My",
@@ -3089,13 +3091,15 @@
  "myeongdong.md#14": {
   "badge": "⏳",
   "body_hash": "b10491715d",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "myeongdong.md",
-  "note": "",
+  "note": "Seasonal facades correctly left as RE-CHECK. No 2026 start dates published by either department store; entry properly refuses to assume Oct 31 operation.",
   "num": 14,
-  "sources": [],
+  "sources": [
+   "https://english.visitseoul.net/editorspicks/ChristmasinSeoul/ENNx25b0s"
+  ],
   "title": "🎄 Shinsegae and Lotte seasonal façades",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "myeongdong.md#15": {
   "badge": "🔎",
@@ -3155,13 +3159,15 @@
  "myeongdong.md#2": {
   "badge": "✅",
   "body_hash": "ff5bb0da98",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "myeongdong.md",
-  "note": "",
+  "note": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》 2026/04/16~2026/11/22, 서소문본관 - EXACT match on SeMA listing. Closes on departure day.",
   "num": 2,
-  "sources": [],
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
   "title": "🖼️ GanaArt Collection: Beneath Technology—Scenes at the Threshold",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "myeongdong.md#20": {
   "badge": "🔎",
@@ -5608,13 +5614,16 @@
  "yeosu.md#1": {
   "badge": "✅",
   "body_hash": "ec6be0f734",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "yeosu.md",
-  "note": "",
+  "note": "World Island Exhibition Sep 5-Nov 4 2026 confirmed; closing ceremony 폐막식 appears on the official schedule at 11.4, corroborating the end date. Hours/prices/readiness warning all already accurate.",
   "num": 1,
-  "sources": [],
+  "sources": [
+   "https://yeosu2026.or.kr/content/4_1",
+   "https://yeosu2026.or.kr/expo_schedule"
+  ],
   "title": "🏝️ 2026 World Island Exhibition Yeosu Korea",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "yeosu.md#10": {
   "badge": "🔎",
@@ -5641,13 +5650,15 @@
  "yeosu.md#12": {
   "badge": "✅",
   "body_hash": "fbaf4a9305",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "yeosu.md",
-  "note": "",
+  "note": "Big-O sea fountain show: free (no longer ticketed), Apr 18-Nov 8, Wed-Sun only, Nov start 20:00. Entry correctly debunks the stale W18,000-25,000 blog prices.",
   "num": 12,
-  "sources": [],
+  "sources": [
+   "https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=94"
+  ],
   "title": "💦 Big-O Sea Fountain Show (빅오 해상분수쇼)",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "yeosu.md#13": {
   "badge": "🔎",
@@ -5894,35 +5905,41 @@
  "yeosu.md#33": {
   "badge": "✅",
   "body_hash": "d5e0b94e6e",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "yeosu.md",
-  "note": "",
+  "note": "여수밤바다 불꽃 축제 appears VERBATIM in the 10.31 엑스포장 cell of the official schedule. Date confirmed. Entry correctly hedges the venue as needing confirmation.",
   "num": 33,
-  "sources": [],
+  "sources": [
+   "https://yeosu2026.or.kr/expo_schedule"
+  ],
   "title": "🎆 Yeosu Night Sea Fireworks Festival (여수밤바다 불꽃축제)",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "yeosu.md#34": {
   "badge": "✅",
   "body_hash": "dd4ce7ed78",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "yeosu.md",
-  "note": "",
+  "note": "2026 여수 섬 음식 축제 appears VERBATIM in the 10.31 엑스포장 cell. Same day/site as fireworks. Entry correctly refuses to assume it is free.",
   "num": 34,
-  "sources": [],
+  "sources": [
+   "https://yeosu2026.or.kr/expo_schedule"
+  ],
   "title": "🍲 2026 Yeosu Island Food Festival (여수 섬 음식 축제)",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "yeosu.md#35": {
   "badge": "✅",
   "body_hash": "1cee026cab",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "yeosu.md",
-  "note": "",
+  "note": "Day-by-day Oct 31-Nov 4 breakdown checked line-by-line against the official table: Oct 31 전통공연예술진흥재단/Hawaii/EDM/별자리/예술의밤/섬밥상이야기, Nov 1 힐링&웰니스, Nov 2-3 quiet, Nov 4 폐막식, plus 거북선배 요트대회 Oct 30-Nov 1. All correct.",
   "num": 35,
-  "sources": [],
+  "sources": [
+   "https://yeosu2026.or.kr/expo_schedule"
+  ],
   "title": "📅 What's actually on during your Oct 31–Nov 4 Expo overlap",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "yeosu.md#4": {
   "badge": "🔎",
