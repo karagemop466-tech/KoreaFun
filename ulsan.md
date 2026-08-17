@@ -2,7 +2,7 @@
 
 This file was rebuilt on **August 17, 2026** from official city, venue/operator, museum, national park, temple, heritage, UNESCO, and league sources. The former 115-entry version contained fabricated museums, cable cars, ferries, festivals, foods, duplicate attractions, generic advice, and places outside Ulsan.
 
-> No major trip-window festival was confirmed on a dated organizer page. Re-check the [city culture calendar](https://www.ulsan.go.kr/ucac/art/main.do) in October. ✅ dated event · 🔎 verified place · ⏳ schedule-dependent.
+> Two dated trip-window items are now confirmed (entries **#30–#31**); Ulsan has no big November street festival, so those are the anchors. Re-check the [city culture calendar](https://www.ulsan.go.kr/ucac/art/main.do) in October for late additions. ✅ dated event · 🔎 verified place · ⏳ schedule-dependent.
 
 ---
 
@@ -168,6 +168,22 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 - **What:** KBL basketball club based in Ulsan.
 - **Status:** Use the 2026–27 league schedule for confirmed home games.
 - **Official source (reviewed Aug 17):** [KBL](https://www.kbl.or.kr/)
+
+---
+
+## Dated during the trip
+
+### 30) 🖼️ **Lee Jung-seop, the People's Painter (국민화가 이중섭)** — ✅ CONFIRMED — Oct 15, 2026 – Jan 17, 2027 · NEW
+- **What:** A major retrospective of **Lee Jung-seop (1916–1956)**, probably the most beloved painter in modern Korean history — the man who painted on cigarette foil (은지화 / *eunjihwa*) because he couldn't afford canvas, and whose family was separated by the Korean War. Co-organized by Ulsan Art Museum **with the MMCA (National Museum of Modern and Contemporary Art)**, which is why the loan list is strong: **around 100 works**, oils through to the silver-foil drawings.
+- **When:** **Thu Oct 15, 2026 – Sun Jan 17, 2027** — open your entire trip. Gallery 2.
+- **Price:** **₩1,000 adults** (₩500 Ulsan residents); free for children, teens, and seniors. One of the best-value major exhibitions in the country.
+- **Note:** The museum lists the title as provisional (가제), so the final English wording may differ slightly. Dates and venue are firm.
+- **Official source (reviewed Aug 17):** [Ulsan Art Museum exhibition page](https://www.ulsan.go.kr/s/uam/bbs/view.ulsan?mId=001003001000000000&bbsId=BBS_0000000000000174&dataId=56197)
+
+### 31) 🎻 **Ulsan Philharmonic 254th Subscription Concert — "Light of the Classical and the Romantic"** — ✅ CONFIRMED — Fri Nov 13, 2026 · NEW
+- **What:** The city orchestra's 254th regular subscription concert, programmed around classical and romantic repertoire. A cheap, low-friction evening if you're in Ulsan mid-trip — no Korean needed to enjoy it.
+- **Where/when:** **Fri Nov 13, 2026**, Ulsan Culture & Arts Center **Grand Theater (대공연장)**. Tickets went on sale May 28, 2026 — book ahead rather than at the door.
+- **Official source (reviewed Aug 17):** [Ulsan Culture & Arts Center calendar](https://www.ulsan.go.kr/ucac/art/main.do)
 
 ---
 
