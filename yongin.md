@@ -101,8 +101,11 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 
 ### 13) 🏘️ **Korean Folk Village** — 🔎 VERIFIED OPERATOR
 - **What:** Open-air traditional-culture theme park with relocated/recreated buildings, craft demonstrations, performances, food, and a small amusement area.
-- **Hours/price:** The operator publishes date-specific hours and tickets. Evening programs through Nov 15 are listed separately above.
-- **Official sources (reviewed Aug 17):** [Korean Folk Village](https://www.koreanfolk.co.kr/) · [VISITKOREA overview](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222783)
+- **Hours:** ⚠️ **The operator sets hours month by month, not by fixed season** — its own calendar page publishes a specific opening time for each date, and it changes (August 2026 ran 10:00–24:00, then 11:00–24:00). **Check `koreanfolk.co.kr/operation` in the week you go.** Expect roughly 10:00–18:30 on a November weekday, later Fri–Sun.
+- **Price — full gate is about ₩37,000 adult / ₩30,000 child / ₩26,000 senior, but almost nobody pays it.** The operator runs a **monthly discount page** and rotates the offers every month, typically to **₩17,000–25,000**.
+- **💡 The one that applies to you: the public-transport discount.** Arriving by bus or subway instead of by car took the ticket to **₩17,000 in August 2026** — well under half price. Wearing hanbok and the "Open Tourism Site" promotion were also discounted. **These are re-issued monthly, so check the discount page for November before you buy** — but the transport discount has run every month, and you'll be arriving by public transport anyway.
+- **⚠️ Do not prepay full price online** without checking the discount page first.
+- **Official sources (reviewed Aug 18):** [Korean Folk Village — date-by-date operating hours](https://www.koreanfolk.co.kr/operation) · [this month's discounts](https://www.koreanfolk.co.kr/discount) · [VISITKOREA overview](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222783)
 
 ### 14) 🥁 **Korean Folk Village daily performances and craft demonstrations** — 🔎 VERIFIED ACTIVITY
 - **What:** Traditional arts, village characters, and craft programs are part of the park, but the lineup changes daily and seasonally.
@@ -133,9 +136,14 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **Official source (reviewed Aug 17):** [Gyeonggi Children’s Museum](https://gcm.ggcf.kr/) · [visitor information](https://gcm.ggcf.kr/boards/visit/articles/120)
 
 ### 18) 🏛️ **Hoam Museum of Art and Hee Won garden** — 🔎 VERIFIED MUSEUM
-- **What:** Samsung Foundation art museum and traditional-style garden near Everland. The museum uses timed reservations for exhibitions.
-- **Hours/price:** Check the selected date and ticket on the official site; Everland admission is not included or required.
-- **Official sources (reviewed Aug 17):** [Hoam Museum](https://www.leeumhoam.org/hoam) · [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111430)
+- **What:** Samsung Foundation art museum with the celebrated **Hee Won** traditional garden, near Everland. Sister museum to Leeum in Seoul.
+- **⚠️ 100% ADVANCE BOOKING — you cannot walk up.** Unlike Leeum (which does allow same-day tickets), Hoam admits **only** pre-booked visitors. Booking opens **14 days ahead at 10:00**, maximum **4 people** per reservation, and you must arrive in your slot — **entry is from 20 minutes before your time**, and turning up outside it can mean refusal.
+- **Hours:** **Tue–Sun 10:00–18:00, ticket office closes 17:00** (an hour before the museum). **Closed Mondays.** The outdoor gardens keep the same hours.
+- **Price:** **₩20,000 adult** (25–64) · **₩10,000** youth 19–24, students, teens 7–18, and seniors 65+ · **free** under 7. **No group discount.** Ticket covers Hee Won garden, Muksiam and the Old Stone Garden together.
+- **✅ There *is* a show on during your trip** — **Art Spectrum 2026** (with Palais de Tokyo, 23 artists/teams from 10 countries) runs **Sep 1 – Dec 27, 2026**, so the museum is in full operation, not between exhibitions.
+- **⚠️ But the Everland↔Hoam shuttle is suspended in winter** (the operator suspends it for the winter period *and* for any gap between exhibitions). **Do not assume you can hop over from Everland by shuttle in November** — confirm on the day or plan a taxi. The **Leeum↔Hoam shuttle** runs twice daily from Seoul, but you must book the exhibition ticket first.
+- **💡 Parking is paid** (first 30 min free, then ₩1,500/30 min, ₩15,000 daily max) — another reason to take the shuttle or a taxi. ☎ 031-320-1801.
+- **Official sources (reviewed Aug 18):** [Hoam Museum — hours, fares, booking rules](https://www.leeumhoam.org/hoam/info/visit) · [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111430)
 
 ### 19) 🚗 **Samsung Fire & Marine Insurance Mobility Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Samsung Fire & Marine's classic-car and mobility museum near Everland — roughly 130 years of automotive history from an 1886 Benz Patent-Motorwagen through a 1925 Austin 7, Alfa 6C, MG MGA and a 1992 Acura NSX, plus indoor/outdoor activities (drone tower, RC raceway, 4D simulators, classic-car rides).
