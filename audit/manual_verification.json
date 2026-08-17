@@ -1,0 +1,68 @@
+{
+  "yeosu.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against linked official city, operator, heritage, or organizing-committee sources; unsupported and duplicate entries removed.",
+    "reviewer_notes": "Recurring programs remain explicitly marked for schedule re-check. Ordinary operator hours and fares are not treated as immutable facts."
+  },
+  "myeongdong.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against relevant organizer, venue/operator, Seoul City, Jung-gu, heritage, or national-tourism sources; unsupported, obsolete, duplicate, and out-of-neighborhood entries removed.",
+    "reviewer_notes": "2026 event claims require dated organizer pages. Seasonal displays and recurring programs remain explicitly marked for re-check."
+  },
+  "yongin.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated organizer, operator, museum, Yongin City, Gyeonggi Cultural Foundation, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Confirmed 2026 Folk Village and museum exhibitions use dated sources. Everland seasonal programming, Caribbean Bay, templestays, and venue calendars remain explicitly marked for re-check."
+  },
+  "suwon.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated organizer, operator, Suwon City, Suwon Cultural Foundation, museum, league, UNESCO, or national-tourism sources; unsupported, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Confirmed 2026 exhibitions and performances use dated sources. Sports fixtures and weather-dependent operations remain explicitly marked for re-check."
+  },
+  "jeonju.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated organizer, venue/operator, Jeonju City, museum, market, heritage, league, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Confirmed 2026 parade, Gyeonggijeon night, and Daesaseupcheong series use official city calendars. Individual recurring sessions and sports fixtures remain marked for re-check."
+  },
+  "incheon.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed.",
+    "reviewer_notes": "No major November 2026 event was retained without a dated organizer page. Administrative district changes effective July 2026 and closed/suspended transport claims were accounted for."
+  },
+  "gyeongju.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated venue, city tourism, operator, national park, museum, temple, UNESCO, or heritage sources; fabricated, closed, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Official November city calendar showed no major festival. Two 2026 Arts Center exhibition programs are dated; performance and operator schedules remain marked for re-check."
+  },
+  "daegu.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated venue, operator, city, museum, national park, temple, league, or tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Five dated 2026 arts programs were confirmed. Seasonal illumination and sports remain explicitly schedule-dependent."
+  },
+  "ulsan.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against city, operator, museum, national park, temple, UNESCO, heritage, or league sources; fabricated, proposed/unbuilt, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "No major trip-window festival was confirmed. Bangucheon World Heritage status was updated; cruises, factory tours, and sports remain schedule-dependent."
+  },
+  "pohang.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against city, venue/operator, museum, temple, club/league, university/research, or tourism sources; fabricated, duplicate, generic, unsafe-access, and out-of-city entries removed.",
+    "reviewer_notes": "No major trip-window event was confirmed. Steelworks and accelerator access require explicit official reservations; coastal operations remain weather-dependent."
+  },
+  "changwon-jinhae.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated venue, city, operator, museum, park, temple, club/league, or tourism sources; fabricated, duplicate, access-restricted, generic, and out-of-city entries removed.",
+    "reviewer_notes": "One dated November concert and one official monthly screening series were confirmed. Naval Academy/base access and sports remain schedule-dependent; cherry sites are explicitly off-season."
+  }
+}

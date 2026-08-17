@@ -1,0 +1,78 @@
+# Manual verification protocol
+
+**Started:** 2026-08-17  
+**Purpose:** Replace “looks plausible” and heuristic grading with evidence-based review, one city file at a time.
+
+## Important distinction
+
+The existing parser, date checker, and duplicate heuristics are useful quality gates. They **cannot verify reality**. A URL in an entry proves nothing unless the linked page identifies the exact place/event and supports the claim being made. Accordingly, no unreviewed file should be described as fully verified.
+
+Run:
+
+```bash
+python3 tools/parse_entries.py
+python3 tools/verification_status.py
+```
+
+`audit/manual_verification.json` is the review ledger. A file receives `reviewed` only after every retained numbered entry passes the checklist below. Partial research stays `in-progress`, never `reviewed`.
+
+## Source hierarchy
+
+Use the strongest available source:
+
+1. organizer, venue/operator, league, team, or attraction owner;
+2. national or local government and official tourism portal;
+3. statutory heritage, park, museum, or transport authority;
+4. established reporting only as corroboration for an organizer announcement.
+
+Ticket marketplaces, blogs, social reposts, map snippets, listicles, and generative summaries are discovery aids, not primary proof. Social media is acceptable only when it is the organizer’s official account and no durable announcement page exists; record that limitation.
+
+## Per-entry checklist
+
+- [ ] Exact named place/activity exists in the claimed city.
+- [ ] Source is official or otherwise clearly trustworthy.
+- [ ] Link is a relevant deep page, not merely an unrelated homepage.
+- [ ] Description does not exaggerate what the source says.
+- [ ] Event year, date, weekday, venue, and status match the source.
+- [ ] A prior-year pattern is labeled TBA and is **not** presented as a 2026 event.
+- [ ] Hours, prices, closure days, seasonality, and reservation rules are sourced or omitted.
+- [ ] Nearby-city/day-trip content is labeled and is not used to pad the city count.
+- [ ] No duplicate or differently worded version of the same activity remains.
+- [ ] Source review date is visible in the rebuilt file.
+
+## Expansion rule
+
+Expansion happens **after** cleanup for a city. New entries must be named, discrete, useful in or near the trip window, and supported by a deep official link. Each city pass should search these categories individually:
+
+- dated events in the trip window;
+- municipal culture/performance calendar;
+- sports league/team fixtures;
+- museums and rotating exhibitions;
+- heritage and architecture;
+- parks, trails, and seasonal nature;
+- markets and food experiences with a named venue or official directory;
+- operator-run activities and bookable tours;
+- rainy-day and evening options.
+
+Do not add an entry solely to increase a count.
+
+## Progress
+
+| City file | Status | Result |
+|---|---|---|
+| `yeosu.md` | **Reviewed 2026-08-17** | Rebuilt 100 → 32 entries; removed fabricated places, unsupported event claims, duplicates, generic advice, and out-of-city padding; added 8 official-source activities. |
+| `myeongdong.md` | **Reviewed 2026-08-17** | Rebuilt 296 → 36 entries; removed invented venues/events, stale brand branches, snack-by-snack padding, duplicates, generic advice, and attractions elsewhere in Seoul; added confirmed 2026 theater/art plus newly sourced museums and walks. |
+| `yongin.md` | **Reviewed 2026-08-17** | Rebuilt 167 → 36 entries; removed fabricated Samsung venues, sports, festivals, unnamed businesses, duplicates, generic advice, and out-of-city padding; added dated 2026 Folk Village and museum programming. |
+| `suwon.md` | **Reviewed 2026-08-17** | Rebuilt 211 → 37 entries; removed invented places/events, duplicated fortress components, generic advice, and out-of-city padding; added dated 2026 convention, exhibitions, performances, and final night-opening dates. |
+| `jeonju.md` | **Reviewed 2026-08-17** | Rebuilt 159 → 35 entries; removed invented venues/events, repeated Hanok Village content, generic advice, and extensive out-of-city padding; added dated 2026 parade and evening/traditional performance series. |
+| `incheon.md` | **Reviewed 2026-08-17** | Rebuilt 175 → 41 entries; removed fabricated events/venues, duplicate districts, obsolete airport and maglev claims, generic advice, and out-of-city padding; added current national museums and corrected post-July-2026 district sources. |
+| `gyeongju.md` | **Reviewed 2026-08-17** | Rebuilt 133 → 35 entries; removed fabricated and closed attractions, duplicate heritage components, generic advice, and out-of-city padding; added two dated 2026 Arts Center exhibition programs and corrected UNESCO scope. |
+| `daegu.md` | **Reviewed 2026-08-17** | Rebuilt 132 → 34 entries; removed fabricated venues/foods/events, duplicates, generic advice, and out-of-city padding; added five dated November 2026 arts programs. |
+| `ulsan.md` | **Reviewed 2026-08-17** | Rebuilt 115 → 29 entries; removed fabricated and proposed attractions, unsafe factory assumptions, duplicates, generic advice, and out-of-city padding; updated Bangucheon’s 2025 UNESCO inscription. |
+| `pohang.md` | **Reviewed 2026-08-17** | Rebuilt 88 → 28 entries; removed fabricated attractions/foods/events, duplicates, unsafe industrial-access claims, generic advice, and out-of-city padding. |
+| `changwon-jinhae.md` | **Reviewed 2026-08-17** | Rebuilt 106 → 29 entries; removed fabricated attractions/events, cherry-season duplication, restricted-access assumptions, generic advice, and out-of-city padding; added dated November cultural programming. |
+| Remaining 3 core files | **Not yet manually reviewed under this protocol** | `seoul.md`, `busan.md`, and `daejeon-cheonan.md` remain a research queue despite earlier “core” labels. |
+
+## Next pass order
+
+Re-audit the three previously described as “core” in this order: `seoul.md`, `busan.md`, then `daejeon-cheonan.md`. The earlier label is not evidence that they are verified.

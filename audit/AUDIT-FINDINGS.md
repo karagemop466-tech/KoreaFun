@@ -1,5 +1,7 @@
 # 🔍 KoreaFun Verification Audit — Findings (Phase 1)
 
+> **Superseded verification claim — Aug 17, 2026:** Phase 2's “verified” language relied heavily on heuristics and spot checks. It did not establish every claim against a relevant official deep link. The evidence-based city-by-city review is now tracked in [`VERIFICATION-PROTOCOL.md`](VERIFICATION-PROTOCOL.md) and `manual_verification.json`. Current completion status is maintained in `manual_verification.json` rather than this historical report. Historical counts below are retained as an audit trail, not as a current trust guarantee.
+
 **Audited:** 2026-08-17 · **Scope:** 3,312 numbered activity entries across 14 city files, 885 unique URLs.
 
 Tooling written for this audit (reusable, in [`tools/`](../tools/)):
