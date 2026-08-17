@@ -2727,14 +2727,16 @@
  },
  "jeonju.md#15": {
   "badge": "🔎",
-  "body_hash": "3879e26967",
-  "checked_on": null,
+  "body_hash": "7679daa94e",
+  "checked_on": "2026-08-18",
   "file": "jeonju.md",
-  "note": "",
+  "note": "Fan Culture Center 10:00-18:00, Mon closed, free - CONFIRMED on city facility page. Added paid fan-painting experience prices (flat W7,000-12,000 / folding W10,000-15,000), <1hr visit, tel 063-231-1774, and context (opened Oct 2011 on the Joseon royal fan workshop 선자청 site).",
   "num": 15,
-  "sources": [],
+  "sources": [
+   "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101010000000&paging=ok&startPage=1&dataSid=9794"
+  ],
   "title": "🪭 Jeonju Fan Culture Center",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "jeonju.md#16": {
   "badge": "🔎",
@@ -2806,14 +2808,16 @@
  },
  "jeonju.md#21": {
   "badge": "🔎",
-  "body_hash": "8ec8b07eac",
-  "checked_on": null,
+  "body_hash": "b5dae7b42b",
+  "checked_on": "2026-08-18",
   "file": "jeonju.md",
-  "note": "",
+  "note": "ERROR FIXED: entry said 'confirm holiday closures' implying Monday closure. Museum's own page states it has OPENED ON MONDAYS SINCE JANUARY 2017; closes only Jan1/Seollal/Chuseok - none in trip window. Makes it a rare Monday-proof Jeonju option. Also: Saturday night opening is SUSPENDED (old listings show 21:00). 10:00-18:00 last entry 17:30, free, free parking, 063-223-5651.",
   "num": 21,
-  "sources": [],
+  "sources": [
+   "https://jeonju.museum.go.kr/menu.es?mid=a10101000000"
+  ],
   "title": "🏺 Jeonju National Museum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "jeonju.md#22": {
   "badge": "🔎",
@@ -3042,14 +3046,18 @@
  },
  "jeonju.md#8": {
   "badge": "🔎",
-  "body_hash": "2de4c7e2fb",
-  "checked_on": null,
+  "body_hash": "b40b35e91a",
+  "checked_on": "2026-08-18",
   "file": "jeonju.md",
-  "note": "",
+  "note": "ERROR FIXED: entry gave 09:00-18:00, which is the SUMMER (Mar-Oct) schedule. Trip is Nov = WINTER schedule 10:00-17:00. Mon closed (Tue instead if Mon is a holiday). Free, tel 063-288-4544. Added the actual draw: 400-year-old ginkgos peak early-to-mid November, i.e. exactly during the trip; best light 10-11am/4pm; weekdays quieter.",
   "num": 8,
-  "sources": [],
+  "sources": [
+   "https://www.telltrip.com/domestic-travel/jeonju-hyanggyo-autumn-leaves/",
+   "https://www.balpumnews.com/travel/jeonju-hyanggyo",
+   "https://www.ardentnews.co.kr/news/articleView.html?idxno=8210"
+  ],
   "title": "🎓 Jeonju Hyanggyo",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "jeonju.md#9": {
   "badge": "🔎",
@@ -6087,13 +6095,16 @@
  "yongin.md#10": {
   "badge": "🔎",
   "body_hash": "5a1f4f7a1f",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "yongin.md",
-  "note": "",
+  "note": "Everland season-tier fares added: day pass A W62,000 / B W52,000 / C W46,000 / D W68,000 adult+teen, child/senior 10k less; afternoon pass W25,000-37,000. Telecom (KT 40% self +20% for 3) and card discounts to 50% but DO NOT STACK. Hours date-dependent, commonly 10:00-19:00, not 10:00-22:00.",
   "num": 10,
-  "sources": [],
+  "sources": [
+   "https://www.everland.com/everland/home/main",
+   "https://www.banksalad.com/articles/에버랜드-할인카드-추천"
+  ],
   "title": "🎢 Everland",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "yongin.md#11": {
   "badge": "⏳",

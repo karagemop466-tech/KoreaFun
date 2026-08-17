@@ -64,7 +64,9 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 
 ### 8) 🎓 **Jeonju Hyanggyo** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Confucian school complex known for historic buildings and mature ginkgo trees.
-- **Hours/price:** Official tourism material lists 09:00–18:00 and Monday closure; admission is free. Verify seasonal access.
+- **Hours/price (corrected Aug 18):** **Free.** Hours are seasonal and **your trip is in the winter season: Nov–Feb 10:00–17:00** — an hour later opening and an hour earlier close than the 09:00–18:00 summer (Mar–Oct) schedule the entry previously gave. **Closed Mondays**; if a Monday is a public holiday it opens and closes the Tuesday instead (no holidays fall in your window, so plain Monday closure applies). ☎ 063-288-4544.
+- **🍁 The reason to come in November:** the courtyard ginkgos are **over 400 years old** and turn gold in **early-to-mid November** — this is one of Jeonju's signature autumn sights and your trip lands squarely on it. Founded under King Gongmin (Goryeo), it was the leading hyanggyo in the Honam region.
+- **Tips:** free entry via a side gate 5–10 min walk from the main Hanok Village streets. **Best light ~10:00–11:00 or around 16:00.** Weekdays are far quieter — weekends fill with hanbok photo shoots. It's still an active heritage/educational site, so keep noise down.
 - **Official source (reviewed Aug 17):** [Visit Jeonju autumn guide](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000025&menuCd=DOM_000000209001000000&paging=ok&startPage=2&dataSid=12750)
 
 ### 9) 🌄 **Omokdae and Imokdae** — 🔎 VERIFIED HERITAGE WALK
@@ -103,8 +105,10 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 
 ### 15) 🪭 **Jeonju Fan Culture Center** — 🔎 VERIFIED PLACE
 - **What:** Exhibitions and hands-on programs about Jeonju’s bamboo-and-hanji fan tradition.
-- **Hours/price:** 10:00–18:00, closed Monday; admission free. Experiences may cost extra.
-- **Official source (reviewed Aug 17):** [Visit Jeonju — Fan Culture Center](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000016&menuCd=DOM_000000201009000000&paging=ok&startPage=1&searchType=DATA_TITLE&keyword=fan&dataSid=10053)
+- **Hours/price:** **10:00–18:00. Free.** Closed **Mondays**, Jan 1, Lunar New Year's Day and Chuseok. ☎ 063-231-1774. Allow under an hour.
+- **Fan-painting experience (paid):** flat fan **₩7,000–12,000**, folding fan **₩10,000–15,000** — a good rainy-hour activity in the middle of the Hanok Village.
+- **Context:** opened Oct 2011 on the site of the Joseon-era 선자청 (royal fan workshop); displays local *hapjukseon* master work alongside fans from around the world.
+- **Official sources (reviewed Aug 18):** [Visit Jeonju — Fan Culture Center facility page (hours, experience prices)](https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101010000000&paging=ok&startPage=1&dataSid=9794) · [Visit Jeonju EN](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000016&menuCd=DOM_000000201009000000&paging=ok&startPage=1&searchType=DATA_TITLE&keyword=fan&dataSid=10053)
 
 ### 16) 📚 **Wanpanbon Culture Center** — 🔎 VERIFIED PLACE
 - **What:** Center interpreting Jeonju’s historical woodblock-printing and publishing culture.
@@ -137,8 +141,11 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 
 ### 21) 🏺 **Jeonju National Museum** — 🔎 VERIFIED NATIONAL MUSEUM
 - **What:** Archaeology, history, calligraphy, ceramics, and crafts from Jeonbuk.
-- **Hours/price:** Official tourism listing says 10:00–18:00, last entry 17:30, general admission free; confirm holiday closures.
-- **Official source (reviewed Aug 17):** [Visit Jeonju — National Museum](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000016&menuCd=DOM_000000209001000000&paging=ok&startPage=1&dataSid=14654)
+- **Hours/price (corrected Aug 18):** **10:00–18:00, last entry 17:30. Free** (special exhibitions may charge). Parking free. ☎ 063-223-5651.
+- **✅ Open every Monday** — the museum has opened on Mondays **since January 2017**. It closes only on **Jan 1, Lunar New Year's Day and Chuseok**, none of which fall in your trip. That makes it a **rare Monday-proof option in Jeonju**, where the Hyanggyo (#8), Fan Culture Center (#15) and most other sites shut on Mondays.
+- **⚠️ Saturday night opening is currently suspended** — older listings advertising 21:00 Saturday hours are out of date. Assume 18:00 every day.
+- **Children's museum** closes 17:30.
+- **Official sources (reviewed Aug 18):** [Jeonju National Museum — visitor information](https://jeonju.museum.go.kr/menu.es?mid=a10101000000) · [Visit Jeonju](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000016&menuCd=DOM_000000209001000000&paging=ok&startPage=1&dataSid=14654)
 
 ### 22) 🏛️ **Jeonju History Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal history and cultural-arts displays covering Jeonju from prehistory through modern times.
