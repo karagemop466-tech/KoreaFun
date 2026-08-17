@@ -533,3 +533,36 @@ exits 1. Run it after any pass that changes a claim.
 the only one compatible with a flight — G-STAR is in Busan and the E-Land finale is in Seoul.
 
 **69/570 verified. Still zero fabricated events.**
+
+
+### Pass 15 — the four thinnest files, and a league-wide structural answer
+
+**Five entries in five cities all said "check official fixtures" for K League 1 clubs.** The league's
+own competition regulations explain why none of them could be answered: 2026 runs a **33-round
+regular phase to Oct 25**, then a **Final Round (34–38) from Oct 31 to Dec 6**, and those last five
+fixtures are only drawn *after* the regular season ends. So at review **no November date existed for
+any K League 1 club** — Pohang, Jeonbuk, Ulsan HD, FC Seoul, Daejeon Hana alike. Any site publishing
+one is guessing.
+
+What *is* knowable, and now stated in all five entries: the final-round window **covers the entire
+trip**, and each club is allocated **2–3 home games** within it, so each of these clubs will probably
+host while the travellers are in Korea — the date simply cannot be known until the league's
+single late-October announcement. **"We can't know yet, here's exactly why, here's when to look" is
+a better answer than "check the fixtures."**
+
+This also surfaced a conflation risk: `seoul.md` has **FC Seoul** (K League 1, no dates possible) and
+**Seoul E-Land** (K League 2, Mokdong, Nov 7 and Nov 22 *already confirmed*). Entry #79 now says so
+explicitly.
+
+**Gyeongju: "the museum is free" was half true.** Gyeongju Arts Center runs free and ticketed
+galleries simultaneously — Gallery Dal (B1) and Gallery Space I (4F) are free, but Gallery Hae (4F)
+headline shows charge (₩10,000 adult for the 2026 한수원 special). Entry #2 now tells you to check
+which gallery a show is in. The weekend shuttle bus also ran only Aug 13–Oct 18 — finished before
+the trip.
+
+**Clean confirmations:** gyeongju #1, jeonju #4 (the Seogosa arhat show matched the museum page
+exactly, 가제 marker included), ulsan #31 (Philharmonic Nov 13 — recovered via the city culture
+portal after the venue's own page proved to be an empty client-rendered shell; gained 19:30–21:15
+runtime, age rating, phone).
+
+**78/570 verified. Every city file now has multiple verified entries. Still zero fabrications.**
