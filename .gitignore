@@ -6,3 +6,5 @@
 audit/entries.json
 audit/link_status.json
 audit/link_check.log
+audit/classification.json
+audit/flags.json
