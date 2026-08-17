@@ -957,22 +957,22 @@
 - **What:** **Reigning multiple-time K League champions**, playing at Munsu Football Stadium; the season's final rounds fall in late November
 - **Hours:** Kick-off typically **14:00** or **19:00**
 - **Price:** Tickets from **₩12,000**
-- **Official source:** [uhfc.tv](https://www.uhfc.tv) · [kleague.com](https://www.kleague.com)
-- **Beginner notes:** **Ulsan is one of Korea's strongest clubs** — check the K League November 2026 fixture list. Munsu is a superb football-specific ground.
+- **Official source:** [uhdfc.com](https://www.uhdfc.com) · [fixtures & results](https://www.uhdfc.com/match/match_schedule.php) · [tickets](https://www.uhdfc.com/apply/ticket.php) · [kleague.com](https://www.kleague.com) · ☎ 052-209-7000
+- **Beginner notes:** **Ulsan is one of Korea's strongest clubs** — check the K League November 2026 fixture list. Munsu is a superb football-specific ground. ⚠️ The club rebranded from Ulsan Hyundai to **Ulsan HD** — the old `uhfc.tv` domain is no longer theirs; use **uhdfc.com**.
 
 ### 177) 🏟️ Munsu Football Stadium (문수축구경기장) — 🔁 daily (FREE outside matches)
 - **What:** A 44,000-seat 2002 World Cup venue, widely considered one of Korea's best-designed stadiums, set against a wooded hillside
 - **Hours:** Grounds always open
 - **Price:** **FREE** to view
-- **Official source:** [uhfc.tv](https://www.uhfc.tv) · [ulsan.go.kr](https://www.ulsan.go.kr)
-- **Beginner notes:** Bus from downtown. The surrounding sports park has free trails and courts.
+- **Official source:** [uhdfc.com](https://www.uhdfc.com) · [stadium tour booking](https://www.uhdfc.com/apply/stadium_tour.php) · [ulsan.go.kr](https://www.ulsan.go.kr)
+- **Beginner notes:** Bus from downtown. The surrounding sports park has free trails and courts. Ulsan HD also sells a **stadium tour** through its site — book online rather than turning up.
 
 ### 178) 🏀 Ulsan Hyundai Mobis Phoebus — KBL basketball — 👀 WATCH — season runs Oct–Apr
 - **What:** **One of the KBL's most successful franchises**, playing at Dongchun Gymnasium through the winter season
 - **Hours:** Tip-off typically **19:00**
 - **Price:** Tickets from **₩8,000**
-- **Official source:** [kbl.or.kr](https://www.kbl.or.kr) · [hyundai-mobisbasketball.com](https://www.hyundai-mobisbasketball.com)
-- **Beginner notes:** **The KBL season is fully underway in November** — a reliable indoor evening option.
+- **Official source:** [phoebus.kbl.or.kr — club page](https://phoebus.kbl.or.kr/) · [kbl.or.kr schedule & tickets](https://www.kbl.or.kr) · ☎ 052-296-9959
+- **Beginner notes:** **The KBL season is fully underway in November** — a reliable indoor evening option. Tickets open **3 days before tip-off at 14:00** and are sold through the KBL site/app (max 8 per person); walk-up sales start 90 min before. ⚠️ The club's old standalone domain is gone — its official page now lives under **kbl.or.kr**.
 
 ### 179) 🚄 Getting to Ulsan — KTX & Ulsan Airport — 🔁 daily
 - **What:** Ulsan Station (Ulsan-KTX) is on the Gyeongbu high-speed line, about 2 h 15 from Seoul; Ulsan Airport serves Gimpo and Jeju

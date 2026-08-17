@@ -91,7 +91,7 @@ Every entry in this repo links to an **official, verified source** (government b
 |---|---|---|
 | Korea Meteorological Administration | Weather & autumn foliage forecasts | https://www.weather.go.kr |
 | Visit Korea Autumn | Official foliage/seasonal guide | https://english.visitkorea.or.kr |
-| Templestay (Cultural Corps of Korean Buddhism) | Official English templestay bookings | https://eng.templestay.com |
+| Templestay (Cultural Corps of Korean Buddhism) | Official English templestay bookings | https://www.templestay.com/en/main/view.do |
 | KBS Global | Music Bank audience tickets for foreigners (FAQ) | https://english.kbs.co.kr |
 | Gwangjang Market | Seoul's oldest market (official site) | http://www.kwangjangmarket.co.kr |
 | Shinsegae Centum City | Spa Land jjimjilbang (Busan) | https://department.shinsegae.com |
@@ -364,7 +364,7 @@ All URLs below are government, municipal, national-institution, UNESCO, league o
 | Everland Resort | Everland, Speedway, seasonal events | https://www.everland.com |
 | Korean Folk Village | Yongin folk village & performances | https://www.koreanfolk.co.kr |
 | MBC Daejanggeum Park | Yongin historical drama set | https://djgpark.imbc.com |
-| Hwadam Forest | Gwangju/Yongin botanical garden | https://www.hwadamsup.com |
+| Hwadam Forest | Gwangju/Yongin botanical garden (100% advance reservation) | https://www.hwadamsup.com/pc/ko/index |
 | Ho-Am Art Museum | Samsung foundation traditional art museum | https://hoam.samsungfoundation.org |
 | Leeum Museum of Art | Hannam contemporary & classical art | https://www.leeum.org |
 | Yeosu Maritime Cable Car | Yeosu sea-crossing cable car | https://www.yeosucablecar.com |
@@ -375,7 +375,7 @@ All URLs below are government, municipal, national-institution, UNESCO, league o
 | Seoul Sky | Lotte World Tower observatory | https://seoulsky.lotteworld.com |
 | Starfield | COEX Mall & Starfield Library | https://www.starfield.co.kr |
 | Namdaemun Market | Official market association | https://www.namdaemunmarket.co.kr |
-| Gwangjang Market | Official market association | https://www.gwangjangmarket.co.kr |
+| Gwangjang Market | Official market association | http://www.kwangjangmarket.co.kr |
 | Dongdaemun Design Plaza | DDP exhibitions & history museum | https://www.ddp.or.kr |
 | Myeongdong Cathedral | Cathedral, Mass times, 1898 Plaza | https://www.mdsd.or.kr |
 | Jogyesa Temple | Jogye Order head temple, chrysanthemums | http://www.jogyesa.kr |
@@ -469,9 +469,9 @@ Official sources for the day-trip entries reaching beyond Daejeon and Cheonan in
 | Templestay (CSTCF) | Official templestay booking incl. Magoksa | https://www.templestay.com |
 | Sudeoksa | Goryeo Daeungjeon (National Treasure 49), Yesan | http://www.sudeoksa.com |
 | Cheontae Order | Guinsa head temple, Danyang | http://www.cheontae.org |
-| Chollipo Arboretum | Magnolia & holly collection, Taean | http://www.chollipo.org |
+| Chollipo Arboretum | Magnolia & holly collection, Taean | https://www.chollipo.org |
 | Baekje Cultural Land | Sabigung reconstruction, Buyeo | https://www.bhm.or.kr |
-| Anmyeondo Jurassic Museum | Fossil museum, Taean | http://www.anmyeondojurassic.com |
+| Anmyeondo Jurassic Museum | Fossil museum, Taean | https://www.anmyondojurassic.com |
 | Solmoe Holy Ground | St Andrew Kim Tae-gon birthplace, Dangjin | http://www.solmoe.or.kr |
 | Baeron Holy Ground | Catholic seminary site, Jecheon | http://www.baeron.or.kr |
 | Seosan Birdland | Cheonsuman migratory bird centre | https://birdland.seosan.go.kr |
@@ -487,6 +487,51 @@ Official sources for the day-trip entries reaching beyond Daejeon and Cheonan in
 | KHOA | Tide tables for the Muchangpo sea-parting | https://www.khoa.go.kr |
 | Korea Meteorological Admin. | Autumn foliage front, sunset times | https://www.weather.go.kr |
 | Daejeon Tourism | City tourism portal, local food | https://daejeontour.co.kr |
+
+### Newly verified official sources (Aug 2026 pass)
+| Source | Official for | URL |
+|---|---|---|
+| Gyeongju Expo Grand Park | Gyeongju Tower, Timeless media art, Luminight | https://www.cultureexpo.or.kr/open.content/ko/ |
+| Solgeo Art Museum | Park Dae-sung collection, inside Expo park | https://www.gjsam.or.kr/ko/ |
+| Gyeongju World | Theme park fares & operating calendar | https://www.gjw.co.kr |
+| Wooyang Museum of Contemporary Art | Bomun Lake art museum | https://wooyangmuseum.org |
+| Beomeosa Temple | Busan head temple, templestay | https://www.beomeo.kr |
+| Busan X the Sky | LCT 100F observatory | https://www.busanxthesky.com |
+| Yeosu Maritime Cable Car | Dolsan–Jasan cable car | http://www.yeosucablecar.com |
+| N Seoul Tower | Namsan observatory operator | https://www.nseoultower.co.kr/index.asp |
+| Daegu Tourism Organization | Palgongsan cable car, city attractions | https://www.daegutour.or.kr |
+| Korea National Park Service | Palgongsan National Park (23rd, 2023) | https://www.knps.or.kr |
+| Ulsan HD FC | K League 1 fixtures, tickets, stadium tour | https://www.uhdfc.com |
+| Ulsan Hyundai Mobis Phoebus | KBL club page & ticketing | https://phoebus.kbl.or.kr |
+
+---
+
+## Link-verification pass (Aug 17, 2026) — corrected & replaced sources
+
+Every source below was re-fetched. These entries had a **dead, hijacked, repurposed or simply wrong** official URL, and/or out-of-date prices and hours; all have been corrected in the city files.
+
+| Venue / event | Old URL (do not use) | Verified official URL | What was wrong |
+|---|---|---|---|
+| Gyeongju Expo Park & Gyeongju Tower | gyeongjuexpo.com (dead) | https://www.cultureexpo.or.kr/open.content/ko/ · [fares](https://www.cultureexpo.or.kr/open.content/ko/guide/information.use/) | Domain dead; hours and full fare table rewritten |
+| Gyeongju Solgeo Art Museum | — | https://www.gjsam.or.kr/ko/ | Entry retitled; covered by the Expo park pass |
+| Gyeongju World | gyeongjuworld.com | https://www.gjw.co.kr/ | Rebranded domain; fares corrected |
+| Silla Millennium Park | smpark.co.kr (squatted) | **⛔ PERMANENTLY CLOSED** | Venue shut; only the Ragung hanok hotel remains |
+| Wooyang Museum of Contemporary Art | — | https://wooyangmuseum.org | Hours and prices were wrong (₩8,000 → ₩15,000) |
+| Beomeosa Temple | beomeosa.co.kr (spam) | https://www.beomeo.kr | Domain hijacked; hours corrected |
+| Busan X the Sky | — | https://www.busanxthesky.com | Prices corrected (₩27,000 → ₩29,000) |
+| Palgongsan Cable Car / National Park | palgongsan.or.kr (dead), palgongcablecar.com (hijacked) | https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=122400&menuNo=8000739 · [daegutour listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) | Both domains gone; Gatbawi is a separate trailhead, not a cable-car stop |
+| N Seoul Tower observatory | seoultower.co.kr (plaza operator only) | https://www.nseoultower.co.kr/index.asp | Wrong operator; weekday/weekend hours split |
+| Hwadam Forest | — | https://www.hwadamsup.com/pc/ko/index | Closed Mondays, 100% advance reservation, monorail fares corrected |
+| Yeosu Maritime Cable Car | — | http://www.yeosucablecar.com · [yeosu.go.kr](https://www.yeosu.go.kr/tour/travel/culture_scenic_spot?mode=view&idx=879) | Seasonal hours and crystal-cabin fares added |
+| Korean Folk Village | — | https://www.koreanfolk.co.kr · [tickets](https://www.koreanfolk.co.kr/ticket) · [monthly notices](https://www.koreanfolk.co.kr/operation/notice) | Not closed Mondays; ₩25,000 → ₩37,000, evening passes added |
+| Ulsan HD FC | uhfc.tv (squatted) | https://www.uhdfc.com | Club rebranded Ulsan Hyundai → Ulsan HD |
+| Ulsan Hyundai Mobis Phoebus | hyundai-mobisbasketball.com (dead) | https://phoebus.kbl.or.kr/ | Club page moved under KBL |
+| Templestay (English) | eng.templestay.com | https://www.templestay.com/en/main/view.do | Subdomain retired |
+| Korail | letskorail.com | https://www.korail.com (301 from old domain) | Old link still redirects — left in place |
+
+**Checked and confirmed healthy (no change needed):** cultureexpo.or.kr, gjsam.or.kr, jogyesa.kr, txbus.t-money.co.kr, robot-land.co.kr, steelers.co.kr, hyundai-motorsfc.com, bluewings.kr, gyeongnamfc.com, koreanfolk.co.kr, nseoultower.co.kr, hwadamsup.com.
+
+**Live but bot-hostile** (they return 403/406/400 or an empty JS shell to automated fetchers — the links work fine in a normal browser): kobus.co.kr, busanipark.com, yeosucablecar.com, solmoe.or.kr, whalecity.kr, korail.com.
 
 ---
 

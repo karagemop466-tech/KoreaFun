@@ -18,11 +18,11 @@
 ## 🏯 Heritage & historic
 
 ### 1) 🏯 Palgongsan Mountain & Cable Car (팔공산 케이블카) — ✅ CONFIRMED — daily
-- **What:** 1,192 m granite sacred mountain north of downtown Daegu. **Palgongsan Cable Car** carries visitors up to **Bonghwangdae Observation** and **Gatbawi Buddha** (a Helen-of-Troy-shaped Buddha carved into natural rock). UNESCO-listed Buddhist National Heritage. Surrounded by 13 Buddhist temples including Pagyesa Temple.
-- **Hours:** Cable Car daily **10:00–17:00** (Nov winter, ends earlier; closed Mondays)
-- **Price:** Adult one-way cable car **₩9,000** (~$6.50); round-trip ₩12,000
-- **Official sources:** [palgongsan.or.kr](http://www.palgongsan.or.kr) · [tour.daegu.go.kr](https://tour.daegu.go.kr)
-- **Beginner notes:** The cable car does the hillside trail too. **Gatbawi Buddha** is Daegu's symbol.
+- **What:** Korea's **23rd national park** (designated 31 Dec 2023), a 1,192 m granite massif north of Daegu with Biro-bong, Dong-bong and Seo-bong on a folding-screen ridge. The **Palgongsan Cable Car** (1.2 km, 7–8 min) climbs from Donghwasa to the **Sinnimbong** ridge viewpoint at ~820 m. The park also holds Donghwasa and Pagyesa temples, and — on a *separate* ridge reached by its own stair climb, not by this cable car — the famous **Gatbawi** stone Buddha wearing a flat stone "hat"
+- **Hours:** Cable car from **09:30**; closing time shifts by season (spring/autumn ~17:10–17:30, summer to ~19:00, winter ~17:10). **Open year-round (연중무휴)** — no weekly closing day. Mountain trails open at all times
+- **Price:** Cable car round trip adult **≈₩13,000–14,000**, one way ≈₩10,000–11,000; child RT ≈₩7,000–8,000; senior RT ≈₩12,000. **Confirm at the ticket window** — fares changed recently. National park entry itself is **FREE**
+- **Official sources:** [knps.or.kr — Palgongsan National Park](https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=122400&menuNo=8000739) · [daegutour.or.kr cable-car listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) · ☎ cable car 053-982-8801 · park office 053-989-8300
+- **Beginner notes:** ⚠️ The domains `palgongsan.or.kr` and `palgongcablecar.com` no longer belong to the mountain or the cable car — ignore them even where tourism portals still list them. **Gatbawi is a different trailhead** (Gwanbong, ~1,365 steps from the Gatbawi car park, bus 401/팔공1) — you cannot reach it from the cable car.
 
 ### 2) 🕍 Pagyesa Temple — 🔁 always on (FREE)
 - **What:** Front-running temple at the foot of Palgongsan with 1,500-year-old *bi* statues. Famous for autumn foilage
@@ -807,7 +807,7 @@
 - **What:** Founded 493, the head temple of the Jogye Order's 9th district — with a **33 m stone Medicine Buddha** built in 1992 as a prayer for reunification
 - **Hours:** Daily **08:00–18:00** (Nov: to 17:30)
 - **Price:** Adult **₩2,500**
-- **Official source:** [donghwasa.net](https://www.donghwasa.net) · [templestay.com](https://www.templestay.com)
+- **Official source:** [donghwasa.net](http://www.donghwasa.net) · [templestay.com](https://www.templestay.com)
 - **Beginner notes:** Bus Express 1 from downtown (~50 min). **The Palgongsan approach road in early November foliage is one of the best drives in Korea.**
 
 ### 158) 🗿 Gatbawi Stone Buddha, Palgongsan (갓바위) — 🔁 daily
@@ -819,9 +819,10 @@
 
 ### 159) 🚡 Palgongsan Cable Car (팔공산 케이블카) — 🔁 daily
 - **What:** A 1.2 km cable car up Palgongsan to an observatory deck and a ridge cafe, with views over the whole massif
-- **Hours:** Daily **09:30–17:30** (Nov)
-- **Price:** Return adult **₩12,000**
-- **Official source:** [palgongsan.co.kr](https://www.palgongsan.co.kr)
+- **Hours:** From **09:30** daily, open year-round; closing time is month-dependent (about 17:10 in November, later in summer) and services stop early in bad weather — phone ahead
+- **Price:** Return adult **₩14,000**, one-way ₩11,000; child return ₩8,000; senior/disabled return ₩12,000 (verify at the ticket window — fares were last raised in 2025)
+- **Official source:** [Daegu Tourist Information Center listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) · [tour.daegu.go.kr](https://tour.daegu.go.kr) · ☎ 053-982-8801
+- **⚠️ Link warning:** the old operator domain `palgongcablecar.com` is still printed on some tourism sites but **no longer belongs to the cable car** (it now serves an unrelated radio-equipment shop). Use the city tourism listing or phone instead.
 - **Beginner notes:** Next to Donghwasa. **Foliage on Palgongsan peaks roughly late October to early November.**
 
 ### 160) 🏞️ Palgongsan National Park (팔공산국립공원) — 🔁 daily (FREE)

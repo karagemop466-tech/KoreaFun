@@ -601,9 +601,9 @@
 
 ### 137) 🚡 Yeosu Maritime Cable Car (여수해상케이블카) — 🔁 daily
 - **What:** **Korea's first cable car to cross the sea**, running 1.5 km between Dolsan Park and Jasan Park over Yeosu harbour, with glass-floor crystal cabins
-- **Hours:** Daily **09:30–21:30** (Nov: to 21:00)
-- **Price:** Round trip adult **₩17,000** standard / **₩24,000** crystal cabin
-- **Official source:** [yeosucablecar.com](https://www.yeosucablecar.com) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Hours:** **Mar 16–Nov 30: Sun–Fri 09:00–21:30, Sat 09:00–22:00** (ticket sales stop 30 min before close); Dec 1–Mar 15 from 10:00
+- **Price:** Round trip adult **₩17,000** / child ₩12,000 standard; **₩24,000** / ₩19,000 crystal (glass-floor) cabin. One-way adult ₩14,000 standard, ₩19,000 crystal
+- **Official source:** [yeosucablecar.com](http://www.yeosucablecar.com) · [yeosu.go.kr listing](https://www.yeosu.go.kr/tour/travel/culture_scenic_spot?mode=view&idx=879) · ☎ 061-664-7301
 - **Beginner notes:** **Ride it after dark** — the night view over the lit bridge and harbour is far better than the daytime one.
 
 ### 138) 🌉 Dolsan Bridge Night View (돌산대교) — 🔁 nightly (FREE)

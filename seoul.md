@@ -219,7 +219,7 @@ Korean musical theatre is huge and production values are world-class — note th
 ### 25) 🧘 Templestay — sleep a night at a Buddhist temple — 🔁 bookable all year (English programs!)
 - **What:** Korea's official templestay program (run by the Jogye Order's Cultural Corps) — robes, pre-dawn chanting, 108 prostrations, monastic meals, meditation. **7 Seoul temples run English programs:** Bongeunsa (Gangnam/COEX), Jogyesa (Jogye Order HQ, Insadong), Myogaksa, Hwagyesa (Bukhansan foothills — foliage!), Geumsunsa, Jinkwansa, International Seon Center
 - **Price:** Roughly ₩60,000–100,000 (~$43–71) overnight incl. everything; one-day experiences cheaper — subsidized foreigner promos appear periodically
-- **Book:** [eng.templestay.com](https://eng.templestay.com) (official) or the Templestay Information Center in Insadong — reserve **2–4 weeks ahead** for weekends
+- **Book:** [templestay.com (EN)](https://www.templestay.com/en/main/view.do) (official) or the Templestay Information Center in Insadong — reserve **2–4 weeks ahead** for weekends
 - **Beginner notes:** Autumn = peak season (mountain temples in foliage). A Hwagyesa or Bongeunsa night slots perfectly into a rest day; participation is optional — you can sleep in.
 
 ### 26) 🥟 Gwangjang Market — Korea's first permanent market — 🔁 daily
@@ -265,7 +265,7 @@ Korean musical theatre is huge and production values are world-class — note th
 ### 33) 🚠 Namsan Cable Car & N Seoul Tower Observatory — 🔁 always on
 - **What:** Seoul's defining skyline landmark atop Mt. Namsan. Ride the historic suspended cable car up the mountain, then visit the 239m tower observatory for 360-degree panoramas of the capital
 - **Cable Car Hours & Fees:** Daily **10:00–23:00** (last round-trip 22:30 / one-way 22:45). Round-trip Adult **₩15,000** (~$11) / Child **₩11,500**; One-way Adult ₩12,000 / Child ₩9,000. Official site: [cablecar.co.kr](https://www.cablecar.co.kr). Access lower station via "Namsan Orumi" inclined elevator from Namsan Tunnel 3 entrance (free)
-- **N Seoul Tower Observatory:** Mon–Fri 10:30–22:30 · Sat–Sun 10:00–23:00. Adult **₩21,000** (~$15) / Child & Senior **₩16,000**. Official site: [seoultower.co.kr](https://www.seoultower.co.kr)
+- **N Seoul Tower Observatory:** Mon–Fri 10:30–22:30 · Sat–Sun & holidays 10:00–23:00 (ticketing ends 30 min before close). Adult **₩21,000** (~$15) / Child & Senior **₩16,000**. Official site: [nseoultower.co.kr](https://www.nseoultower.co.kr) (observatory) · [seoultower.co.kr](https://www.seoultower.co.kr) (plaza)
 - **Beginner notes:** Night lighting on the tower displays air quality status (Blue = Good, Green = Fair, Yellow = Poor, Red = Bad). The base plaza features the famous "Love Locks" fence and outdoor terraces (free access). Alternative ascent: Namsan Sunhwan Bus 01 from Myeongdong/Chungmuro or scenic autumn foliage hiking trails up Namsan Park.
 
 ### 34) 🏛️ National Museum of Korea (국립중앙박물관) — 🔁 always on (FREE)
@@ -2490,7 +2490,7 @@ Korean musical theatre is huge and production values are world-class — note th
 - **What:** The Jogye Order's official temple-food centre in Gyeonjinsa/Insadong — learn to cook Buddhist monastic cuisine (no garlic, no onion) with a monk
 - **Hours:** Classes typically **10:00–13:00** or **14:00–17:00**, by advance booking
 - **Price:** Typically **₩50,000–₩90,000** per class
-- **Official source:** [Korean Temple Food (Jogye Order)](https://eng.templestay.com) · [koreatemplefood.com](https://www.koreatemplefood.com)
+- **Official source:** [Korean Temple Food (Jogye Order)](https://www.templestay.com/en/main/view.do) · [koreatemplefood.com](https://www.koreatemplefood.com)
 - **Beginner notes:** Line 3 Anguk Station. English sessions run regularly but book out — reserve a couple of weeks ahead.
 
 ### 351) 🥋 Taekwondowon & Kukkiwon World Taekwondo HQ (국기원) — 🔁 weekdays (FREE to watch)

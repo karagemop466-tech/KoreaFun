@@ -863,24 +863,24 @@
 - **Beginner notes:** Bus 10/100 from the centre. **The lakeside foliage peaks in early-to-mid November**; the loop is the best easy walk in Gyeongju.
 
 ### 169) 🗼 Gyeongju Tower & Expo Park (경주타워·경주엑스포대공원) — 🔁 daily
-- **What:** A 82 m tower whose facade is a **negative silhouette of the lost Hwangnyongsa nine-storey pagoda** — plus the Expo park's exhibition halls and media shows
-- **Hours:** Daily **09:00–22:00** (Nov)
-- **Price:** Park + tower **₩12,000**; night media show included
-- **Official source:** [gyeongjuexpo.com](https://www.gyeongjuexpo.com)
-- **Beginner notes:** At Bomun Lake. The evening projection-mapping show on the tower is the reason to come after dark.
+- **What:** A 82 m tower whose facade is a **negative silhouette of the lost Hwangnyongsa nine-storey pagoda** — plus the Expo park's exhibition halls and media shows (경주타워 천년대계, 천마의 궁전 *Timeless* media art, 상상동물원, VR studio)
+- **Hours:** Park **Mon–Thu 10:00–22:30, Fri–Sun 10:00–23:30**; exhibition halls **10:00–19:00**. Open year-round
+- **Price:** Park pass (covers tower + most exhibition halls) adult **₩12,000** / child 36 mths–18 yrs **₩10,000**; groups of 10+ ₩10,000/₩8,000; **65+ ₩4,000**; Gyeongju/Gyeongbuk residents ₩8,000/₩6,000 with ID; under 36 months free. **Luminight** night light-walk is a separate ₩6,000 (sunset–22:00, Mar–Dec)
+- **Official source:** [cultureexpo.or.kr](https://www.cultureexpo.or.kr/open.content/ko/) · [fares](https://www.cultureexpo.or.kr/open.content/ko/guide/information.use/) · ☎ 054-748-3011
+- **Beginner notes:** At Bomun Lake. ⚠️ The old `gyeongjuexpo.com` domain is dead — **cultureexpo.or.kr** is the operator's site. The evening lighting and the tower media show are the reason to come after dark; the park stays open late, but the indoor halls shut at 19:00.
 
-### 170) 🎠 Silla Millennium Park (신라밀레니엄파크) — 🔁 daily
-- **What:** A historical theme park recreating Silla-era streets, with costumed performances, craft workshops and the **Queen Seondeok** drama sets
-- **Hours:** Daily roughly **10:00–18:00** (Nov)
-- **Price:** Adult **₩22,000**
-- **Official source:** [silla.co.kr](https://www.silla.co.kr)
-- **Beginner notes:** At Bomun Lake. Commercial, but the martial-arts and court performances are well done and good with children.
+### 170) ⛔ Silla Millennium Park (신라밀레니엄파크) — ⛔ CLOSED — do not plan a visit
+- **What:** The Silla-era theme park with the **Queen Seondeok** drama sets **has been shut since 2016–17** and the Bomun site sits derelict pending a redevelopment/land-use decision. Older guidebooks, blogs and map apps still list it — **it is not operating.** Its former domain no longer belongs to the park
+- **Hours:** **Permanently closed**
+- **Price:** n/a
+- **Official source:** [Gyeongbuk Culture & Tourism Corp (gyeongbuk.go.kr)](https://www.gyeongbuk.go.kr) · [Yeongnam Ilbo report on the derelict site](https://www.yeongnam.com/web/view.php?key=20240925010003029)
+- **Beginner notes:** **Instead:** for costumed Silla performance and hands-on crafts go to **Gyeongju Expo Park (#169)**; for rides go to **Gyeongju World (#171)** — both are 5–10 min away in the same Bomun resort area.
 
 ### 171) 🎢 Gyeongju World & California Beach (경주월드) — 🔁 daily
 - **What:** The region's main amusement park at Bomun, with the **Draken** and **Phaethon** roller coasters, among Korea's most intense
-- **Hours:** Daily roughly **10:00–19:00** (Nov; shorter weekdays)
-- **Price:** Freepass adult **₩56,000**
-- **Official source:** [gyeongjuworld.com](https://www.gyeongjuworld.com)
+- **Hours:** Daily, typically **10:00–20:00** in high season and shorter in Nov — the official site prints the **operating calendar day by day** (운영/운휴), so check the date before you go
+- **Price:** Day pass adult **₩54,000**, youth ₩47,000, child ₩39,000; weekday-after-3pm / holiday-after-4pm pass adult ₩39,000. **Foreigners get 30% off on production of a passport**; over-60s ₩10,000
+- **Official source:** [gjw.co.kr](https://www.gjw.co.kr/Contents/contents.php) · [English site](https://www.gjw.co.kr/Contents/eng_contents.php) · [fares](https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0300)
 - **Beginner notes:** Bus 10 from the centre. Check the winter operating calendar — some rides close in November.
 
 ### 172) 🌳 Gyeongju National Park — Toham & Danseoksan sections — 🔁 daily (FREE)
@@ -911,18 +911,18 @@
 - **Official source:** [gyeongju.go.kr](https://www.gyeongju.go.kr)
 - **Beginner notes:** North of the centre, walkable. Useful if you want a run or a quiet hour away from the heritage sites.
 
-### 176) 🎨 Woljeong Gyo & Gyeongju Solgeo Art Museum — 🔁 Tue–Sun
-- **What:** The Expo park's art museum, named after the legendary Silla painter Solgeo — with a large collection of modern Korean ink painting
-- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
-- **Price:** Included in Expo park ticket
-- **Official source:** [gyeongjuexpo.com](https://www.gyeongjuexpo.com)
-- **Beginner notes:** At Bomun. A calm indoor option if the weather turns.
+### 176) 🎨 Gyeongju Solgeo Art Museum (경주솔거미술관) — 🔁 daily
+- **What:** The Expo park's public art museum, named after the legendary Silla painter Solgeo — best known for its large **Park Dae-sung (박대성)** ink-painting collection plus rotating special exhibitions
+- **Hours:** Inside the Expo park; museum roughly **10:00–18:00** (winter) / to 20:00 in summer, last entry 30 min before close. Exhibition halls follow the park's **10:00–19:00** window — check the current show before travelling
+- **Price:** **Included in the Expo park pass** (adult ₩12,000 / child ₩10,000; 65+ ₩4,000)
+- **Official source:** [gjsam.or.kr](https://www.gjsam.or.kr/ko/) · [cultureexpo.or.kr](https://www.cultureexpo.or.kr/open.content/ko/)
+- **Beginner notes:** At Bomun, up the hill past the "Secret Garden" photo spot. A calm indoor option if the weather turns — but note only part of the collection is hung during special exhibitions, so read the museum's notice board first.
 
 ### 177) 🖼️ Wooyang Museum of Contemporary Art (우양미술관) — 🔁 Tue–Sun
 - **What:** A serious contemporary art museum at Bomun in a Kim Swoo-geun building — Korean and international modern art, an unexpected find in a heritage city
-- **Hours:** Tue–Sun **10:30–18:00** (closed Mondays)
-- **Price:** Adult **₩8,000**
-- **Official source:** [wooyangmuseum.org](https://www.wooyangmuseum.org)
+- **Hours:** Tue–Sun **10:00–18:00** (last entry 17:30); closed **Mondays**, Jan 1, Seollal/Chuseok day and between exhibitions
+- **Price:** Varies by exhibition — up to adult **₩15,000** / student ₩12,000 / child ₩10,000; Gyeongju residents 20%, seniors & disabled 50% off. Some shows are free
+- **Official source:** [wooyangmuseum.org](https://wooyangmuseum.org) · [English](http://en.wooyangmuseum.org/info) · ☎ 054-745-7075
 - **Beginner notes:** At Bomun Lake, next to the Hilton. Kim Swoo-geun is Korea's most important modern architect — the building is part of the exhibit.
 
 ### 178) 🧸 Gyeongju Teddy Bear Museum & Bird Park — 🔁 daily
@@ -1041,7 +1041,7 @@
 - **What:** The municipal arts centre and the Expo park stage regular traditional-music and dance performances through the autumn
 - **Hours:** By event; typically **19:30** or weekend afternoons
 - **Price:** **FREE** to ₩30,000
-- **Official source:** [gyeongju.go.kr](https://www.gyeongju.go.kr) · [gyeongjuexpo.com](https://www.gyeongjuexpo.com)
+- **Official source:** [gyeongju.go.kr](https://www.gyeongju.go.kr) · [cultureexpo.or.kr event calendar](https://www.cultureexpo.or.kr/open.content/ko/program/month.event/)
 - **Beginner notes:** Check the November calendar in October. Several city-funded performances are free.
 
 ### 195) 🌃 Gyeongju Night Heritage Lighting Tour — 🔁 nightly (FREE)

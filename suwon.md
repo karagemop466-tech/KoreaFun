@@ -146,10 +146,10 @@
 
 ### 18) 🏛️ Korean Folk Village (한국민속촌) — 🔁 daily (see Yongin file for fuller version; this Suwon-adjacent marker covers the western Suwon access)
 - **What:** Massive living Joseon-era village with 250+ traditional houses, farmer's music, horse shows, and craft demos. Officially located in Yongin, but the western bus terminals connect via **Suwon's direct shuttle to/from Suin-Bundang Line**.
-- **Hours:** Tue–Sun **09:30–18:00** (Nov winter); closed Mondays
-- **Price:** Adult ~**₩25,000** (~$18); K-pop Music Drama tickets extra
-- **Official sources:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [yongin.go.kr](http://www.yongin.go.kr)
-- **Beginner notes:** Pair with a Suwon overnight.
+- **Hours:** **Open daily, no weekly closing day**; November has run **Mon–Thu 10:00–18:00**, **Fri–Sun & holidays 10:00–20:00** (to 22:00 during the early-November night opening). Ticket desk closes 1 hour before
+- **Price:** Full-day pass adult/teen **₩37,000**, child **₩30,000**, 65+/disabled **₩26,000**; after-4pm **₩19,000** / after-6pm **₩17,000** online evening passes
+- **Official sources:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [tickets](https://www.koreanfolk.co.kr/ticket) · [monthly hours notices](https://www.koreanfolk.co.kr/operation/notice) · [yongin.go.kr](http://www.yongin.go.kr)
+- **Beginner notes:** Pair with a Suwon overnight. See the Yongin file for the full entry — and book online rather than at the gate.
 
 ---
 

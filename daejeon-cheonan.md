@@ -1300,9 +1300,9 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 
 ## 184) 🌲 Chollipo Arboretum, Taean (천리포수목원) — ✅ CONFIRMED — 🔁 daily
 - **What:** A seaside arboretum founded by naturalised Korean **Carl Ferris Miller**, holding one of the world's great magnolia and holly collections — over 16,000 plant taxa on the shore of the Yellow Sea
-- **Hours:** Daily roughly **09:00–17:00** in winter, later in summer
-- **Price:** Adult around **₩10,000**; child around ₩5,000
-- **Official source:** [chollipo.org](http://www.chollipo.org) · [taean.go.kr](https://www.taean.go.kr)
+- **Hours:** Daily from **09:00**; closing is seasonal (roughly 17:00 in winter, 18:00 in spring/autumn, 19:00 mid-Jul to mid-Aug)
+- **Price:** Adult **₩13,000** (₩15,000 in the Apr–May peak); concession ₩10,000; child ₩6,000
+- **Official source:** [chollipo.org](https://www.chollipo.org) · [taean.go.kr](https://www.taean.go.kr)
 - **Beginner notes:** Bus from Taean terminal toward Mallipo. The only Korean arboretum accredited as an international magnolia collection — and it fronts a beach.
 
 ## 185) 🌅 Mallipo & Kkotji Beach sunsets, Taean (만리포·꽃지해변) — ✅ CONFIRMED — 🔁 daily (FREE)
@@ -1314,9 +1314,9 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 
 ## 186) 🦕 Anmyeondo Jurassic Museum, Taean (안면도쥬라기박물관) — ✅ CONFIRMED — 🔁 daily
 - **What:** A large private natural-history museum on Anmyeondo with real fossil specimens, amber and animatronic dinosaurs — an easy indoor stop on a windy coast day
-- **Hours:** Daily roughly **09:30–18:00**
-- **Price:** Adult around **₩15,000**
-- **Official source:** [anmyeondojurassic.com](http://www.anmyeondojurassic.com) · [taean.go.kr](https://www.taean.go.kr)
+- **Hours:** Daily **09:30–17:30** (last entry 16:30); summer peak to 18:00. Closed Mondays (next day if a holiday) and Seollal/Chuseok
+- **Price:** Adult **₩13,000**; youth ₩11,000; child ₩10,000 (museum-only ticket; combo with media/astronomy halls costs more)
+- **Official source:** [anmyondojurassic.com](https://www.anmyondojurassic.com) · [tour.chungnam.go.kr](https://tour.chungnam.go.kr)
 - **Beginner notes:** Best paired with Kkotji Beach, 15 min away. Good rain contingency for the Taean day trip.
 
 ## 187) 🌲 Anmyeondo Recreation Forest & pine grove (안면도자연휴양림) — ✅ CONFIRMED — 🔁 daily
@@ -1328,7 +1328,7 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 
 ## 188) 🦆 Cheonsuman Bay migratory birds & Seosan Birdland (천수만·서산버드랜드) — ✅ CONFIRMED — 🔁 Tue–Sun (peak season)
 - **What:** Reclaimed rice flats that host **hundreds of thousands of wintering birds** — Baikal teal, geese and cranes — with a purpose-built observation centre and guided bus tours
-- **Hours:** Tue–Sun roughly **09:00–18:00**; closed Mondays
+- **Hours:** Tue–Sun **10:00–17:00** (Nov–Feb; 10:00–18:00 Mar–Oct); closed Mondays
 - **Price:** Centre around **₩2,000**; eco-bus tour extra
 - **Official source:** [seosan.go.kr](https://www.seosan.go.kr) · [birdland.seosan.go.kr](https://birdland.seosan.go.kr)
 - **Beginner notes:** **November is peak arrival** — the Baikal teal murmurations at dusk are one of Korea's great wildlife spectacles. Book the eco-bus ahead.

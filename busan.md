@@ -888,9 +888,9 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 
 ## 126) 🧘 Beomeosa Temple (범어사) — 🔁 daily (FREE)
 - **What:** Founded 678, one of Korea's great Zen temples, on the wooded eastern slope of Geumjeongsan — famous for its one-pillar gate and autumn maples
-- **Hours:** Daily roughly **08:30–17:30**; templestay by booking
-- **Price:** **FREE**
-- **Official source:** [beomeosa.co.kr](http://www.beomeosa.co.kr) · [eng.templestay.com](https://eng.templestay.com)
+- **Hours:** Daily **08:00–17:00**, open year-round; templestay by advance booking
+- **Price:** **FREE** (temple grounds)
+- **Official source:** [beomeo.kr](https://www.beomeo.kr) · [templestay.com (Beomeosa)](https://www.templestay.com/en/MI000000000000000019/temple/list.do) · ☎ 051-508-3122
 - **Beginner notes:** Line 1 Beomeosa Station Exit 5/7 + bus 90. **Mid-November is peak foliage here** — one of Busan's best autumn days out.
 
 ## 127) ♨️ Heosimcheong Spa, Dongnae Hot Springs (허심청) — 🔁 daily
@@ -1049,9 +1049,9 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 
 ## 149) 🌁 Busan X the Sky Observatory (부산엑스더스카이) — 🔁 daily
 - **What:** Korea's second-tallest building at Haeundae — a 100th-floor observation deck 411 m over the beach, with a glass-floor ledge and the highest Starbucks in Korea
-- **Hours:** Daily **10:00–21:00** (last entry 20:30)
-- **Price:** Adult **₩27,000**
-- **Official source:** [busanxthesky.com](https://www.busanxthesky.com)
+- **Hours:** Daily **10:00–21:00**, weekdays and weekends alike (on-site ticket desk closes 20:30)
+- **Price:** Adult (13+) **₩29,000**; child 36 months–12 yrs and seniors 65+ **₩26,000**; under 36 months free. Two-visit day+night ticket ₩34,000/₩31,000
+- **Official source:** [busanxthesky.com](https://www.busanxthesky.com) · ☎ 051-731-0098
 - **Beginner notes:** Line 2 Jung-dong Station Exit 1 or Haeundae Exit 3. Go about an hour before sunset (~17:20 in November) to get daylight, sunset and night in one ticket.
 
 ## 150) 🎡 Haeundae Cheongsapo Daritdol Observatory (청사포 다릿돌전망대) — 🔁 daily (FREE)

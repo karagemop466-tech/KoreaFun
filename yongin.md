@@ -62,10 +62,10 @@
 
 ### 7) 🏘️ Korean Folk Village (한국민속촌) — ✅ CONFIRMED — daily
 - **What:** Massive living Joseon-era village (b. 1973) with 250+ relocated traditional houses, a Joseon Living History Theater, farmers' music shows, mask dances, traditional wedding reenactments, and craft demonstrations (pottery, weaving, blacksmithing). Operates year-round with seasonal themes.
-- **Hours:** Tue–Sun **09:30–18:00** (Nov winter 9:30–17:30); closed Mondays
-- **Price:** Adult **₩25,000** (~$18); K-pop Music Drama tickets extra (~₩30,000)
-- **Official sources:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [yongin.go.kr](http://www.yongin.go.kr)
-- **Beginner notes:** Pair Suwon + Folk Village day trip. Shaded hanok house courtyards; full visit takes 4–6 hours. Take snacks for kids; in-park food pricey.
+- **Hours:** **Open daily, no weekly closing day** — hours flex by month and are posted as a monthly notice. In November the village has run **Mon–Thu 10:00–18:00** and **Fri/Sat/Sun/holidays 10:00–20:00**, extended to **22:00** for the first ~9 days while the night opening is still running. **Ticket desk closes 1 hour before.** ⚠️ Check the month's notice before you travel
+- **Price:** Full-day pass (includes the 놀이마을 rides) adult/teen **₩37,000**, child 36 mths–elementary **₩30,000**, 65+/disabled **₩26,000**; under 36 months free with ID. **After-4pm ₩19,000 and after-6pm ₩17,000 evening passes** are sold online at ~50% off. Parking ₩3,000 large / ₩2,000 small
+- **Official sources:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [tickets & evening passes](https://www.koreanfolk.co.kr/ticket) · [monthly hours notices](https://www.koreanfolk.co.kr/operation/notice) · [yongin.go.kr](http://www.yongin.go.kr)
+- **Beginner notes:** Pair Suwon + Folk Village day trip. Full visit takes 4–6 hours. **Buy online, never at the gate** — the walk-up price is the full ₩37,000 while online/evening passes run ₩17,000–19,000. Take snacks for kids; in-park food pricey.
 
 ### 8) 🎭 Korean Folk Village K-Pop Music Drama (KPMD) — 👀 WATCH (Nov runs likely)
 - **What:** Live-action K-pop historical musical revue combining K-pop hits with traditional Joseon plot; performed on outdoor festival stage
@@ -886,16 +886,17 @@
 
 ### 143) 🌿 Hwadam Forest / Hwadam Botanic Garden (화담숲) — 👀 WATCH — season closes
 - **What:** A 165,000 m² mountain botanical garden with 4,000 plant species, famous nationally for its **maple season and monorail through the canopy**
-- **Hours:** Season typically **March–mid November**, **08:30–18:00**
-- **Price:** Adult **₩11,000**; monorail ₩8,000
-- **Official source:** [hwadamsup.com](https://www.hwadamsup.com)
+- **Hours:** Season runs roughly **late March–mid November**, Tue–Sun **09:00–18:00** (last entry 17:00); **closed Mondays**
+- **Price:** Adult **₩11,000**, youth/senior ₩9,000, child ₩7,000, under 24 months free; monorail sold separately ₩5,000 (1 stage) / ₩7,000 (2 stages) / ₩9,000 (full loop)
+- **Official source:** [hwadamsup.com](https://www.hwadamsup.com/pc/ko/index)
+- **⚠️ Booking:** Hwadam Forest is **100% advance-reservation** — no walk-up tickets. Book on the official site; the monorail is a separate booking and sells out first.
 - **Beginner notes:** **Reservation-only in peak autumn and the season closes in mid-November** — book online the moment you fix dates, and confirm the closing date.
 
 ### 144) 🍁 Hwadam Forest Autumn Maple Season — ✅ CONFIRMED — Oct–early Nov
 - **What:** Hwadam's maple season is one of Korea's most sought-after autumn tickets, with timed entry and a monorail running through the colour
-- **Hours:** Peak roughly **late October–early November**
-- **Price:** Adult **₩11,000** plus timed reservation
-- **Official source:** [hwadamsup.com](https://www.hwadamsup.com)
+- **Hours:** Peak roughly **late October–early November**; garden open Tue–Sun 09:00–18:00, last entry 17:00
+- **Price:** Adult **₩11,000** (youth/senior ₩9,000, child ₩7,000) on a timed, **100% advance** reservation; monorail ₩5,000–9,000 extra
+- **Official source:** [hwadamsup.com](https://www.hwadamsup.com/pc/ko/index)
 - **Beginner notes:** **The very start of your window is the tail of peak colour.** Tickets sell out weeks ahead.
 
 ### 145) 🖼️ Ho-Am Art Museum (호암미술관) — 🔁 Tue–Sun

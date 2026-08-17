@@ -1505,9 +1505,9 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 
 ### 284) 🗼 N Seoul Tower & Namsan Cable Car — 🔁 daily
 - **What:** The 1971 broadcast tower on Namsan, 236 m tall on a 243 m mountain, reached by cable car, bus or a 40-minute walk
-- **Hours:** Daily **10:00–23:00**; cable car **10:00–23:00**
-- **Price:** Observatory **₩21,000**; cable car return ₩15,000
-- **Official source:** [seoultower.co.kr](https://www.seoultower.co.kr) · Exit 3, Myeongdong Stn
+- **Hours:** Observatory Mon–Fri **10:30–22:30**, Sat/Sun & holidays **10:00–23:00** (ticketing stops 30 min before close); cable car ~10:00–23:00
+- **Price:** Observatory adult **₩21,000**, child/senior ₩16,000 (Fast Track +₩10,000); cable car return ₩15,000
+- **Official source:** [nseoultower.co.kr](https://www.nseoultower.co.kr) (observatory operator) · [seoultower.co.kr](https://www.seoultower.co.kr) (tower plaza) · Exit 3, Myeongdong Stn
 - **Beginner notes:** **The cable car base is a steep 10-minute walk from Myeongdong** — or take the free Namsan lift from Myeongdong Station.
 
 ### 285) 🚡 Namsan Orumi Free Elevator from Myeongdong — 🔁 daily (FREE)
@@ -1724,7 +1724,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 - **What:** Opened 1905, famous for its food alley: **mung bean pancakes, mayak gimbap and raw beef tartare**, plus a silk and hanbok section upstairs
 - **Hours:** Food alley **09:00–23:00**; closed some Sundays
 - **Price:** **₩5,000–₩20,000**
-- **Official source:** [gwangjangmarket.co.kr](https://www.gwangjangmarket.co.kr) · Exit 8, Jongno 5-ga Stn
+- **Official source:** [kwangjangmarket.co.kr](http://www.kwangjangmarket.co.kr) · Exit 8, Jongno 5-ga Stn
 - **Beginner notes:** **Three stops from Myeongdong.** Go before 18:00 or after 20:00 to get a seat at the bindaetteok counters.
 
 ### 316) 🛍️ Dongdaemun Design Plaza (DDP) — 🔁 daily
