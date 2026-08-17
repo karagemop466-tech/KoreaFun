@@ -41,7 +41,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | 14 | Fri Nov 13 | Seoul | 🕯️ **Candlelight: Joe Hisaishi 21:00** (Jeongdong 1928) — pair with a Deoksugung evening walk |
 | 15 | **Sat Nov 14** | Seoul | ⚡ CHOICE: 🎤 **Jason Mraz** (KINTEX, GTX-A) **or** 🏆 **MMA Day 1** (Gocheok) · evening: 🎮 **LoL Worlds Grand Final watch party** at a PC bang (final is in Brooklyn ~Nov 14) |
 | 16 | **Sun Nov 15** | Seoul | 🏆 **MMA Day 2** if you skipped Day 1 · 🎭 *ELISABETH* final day (Blue Square) · MMCA OLED series + Artist of the Year show |
-| 17 | Mon Nov 16 | Seoul | National Museum of Korea half-day (free) · 👀 WKBL season expected around now — check wkbl.or.kr |
+| 17 | Mon Nov 16 | Seoul | National Museum of Korea half-day (free) — ⚠️ Buddhist painting/sculpture + metal-craft galleries are **closed for renovation until Jan 2027**; the rest is open · 👀 WKBL season expected around now — check wkbl.or.kr |
 | 18 | Tue Nov 17 | Seoul | Deoksugung + Jeongdong-gil (Gyeongbokgung is the palace closed Tuesdays; Deoksugung/Changgyeonggung close Mondays) · N Seoul Tower foliage |
 | 19 | **Wed Nov 18** | Seoul | 🎶 **Kings of Convenience 20:00** (Sejong Center Grand Theater, Gwanghwamun) · Seoul Plaza free concert #3 · pack for Busan |
 | 20 | **Thu Nov 19** | → Busan | Morning KTX (2.5 hrs). 🎮 **G-STAR 2026 Day 1** (BEXCO) — go Friday-light, crowds build on weekends. ⚠️ 5SOS plays KINTEX tonight if you skipped G-STAR |

@@ -237,9 +237,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ## Museums and indoor culture
 
-### 39) 🏛️ **National Museum of Korea** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** Flagship national collection at Ichon. Permanent galleries are free.
-- **Official source (reviewed Aug 17):** [museum.go.kr](https://www.museum.go.kr)
+### 39) 🏛️ **National Museum of Korea (국립중앙박물관)** — 🔎 VERIFIED NATIONAL MUSEUM — free · UPDATED
+- **What:** Korea's flagship national collection at Ichon (Line 4 / Gyeongui-Jungang). **Permanent galleries are free.** Two themed shows inside them run during your trip — see entries **17** (Chusa calligraphy, to Nov 22) and **18** (newly donated works, to Nov 15).
+- **⚠️ Major gallery closures during your trip — plan around this.** The museum is renovating its Buddhist painting and sculpture halls, so on **level 2** the Calligraphy/Painting rooms 202-3·4, **Buddhist Painting room (203)** and **Wood & Lacquer Crafts room (204)**, and on **level 3** the **Buddhist Sculpture room (301)**, **Metal Crafts room (302)** and 공간_사이 are **closed from Jul 6, 2026 until Jan 28, 2027** — i.e. the entire trip. The rooms reopen **Jan 29, 2027**. If you came for the gilt-bronze Pensive Bodhisattvas, check the museum's notice before travelling.
+- **Still open and worth it:** the Prehistoric/Ancient and Medieval galleries, the celadon and 분청사기·백자 rooms (which have their own themed show 《사계절 푸른 대나무》 to Jan 31, 2027), and the Ten-Story Pagoda in the Great Hall.
+- **Hours:** open late to **21:00 on Wednesdays and Saturdays** — the easiest way to fit it around a busy day.
+- **Official sources (reviewed Aug 18):** [museum.go.kr](https://www.museum.go.kr) · [Current exhibitions list](https://www.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current) · closure announced on the museum's own channels Aug 6, 2026
 
 ### 40) 🔤 **National Hangeul Museum** — 🔎 VERIFIED NATIONAL MUSEUM
 - **What:** Museum of the Korean alphabet, next to the National Museum.

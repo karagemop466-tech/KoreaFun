@@ -3860,35 +3860,41 @@
  "seoul.md#17": {
   "badge": "\"C",
   "body_hash": "7ad258a551",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "추사 김정희와 그의 동반자, 2026-08-11~2026-11-22, 상설전시관 2층 서화실, 테마전 (free). Exact match to museum listing.",
   "num": 17,
-  "sources": [],
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current"
+  ],
   "title": "🖌️ National Museum of Korea",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#18": {
   "badge": "\"A",
   "body_hash": "a2f938f887",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "아름다움을 나누는 마음-새로 맞이한 기증유물전 2, 2026-07-27~2026-11-15, 기증4실 205호. Exact match incl. room number.",
   "num": 18,
-  "sources": [],
+  "sources": [
+   "https://www.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current"
+  ],
   "title": "🎁 National Museum of Korea",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#19": {
   "badge": "\"C",
   "body_hash": "c7e8305ea3",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Cho Sook-jin Passing Place, SeMA Nam-Seoul, Jul 29-Nov 15 2026, former Belgian Consulate bldg, free, closed Mon.",
   "num": 19,
-  "sources": [],
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
   "title": "🪵 SeMA Nam-Seoul",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#2": {
   "badge": "✅",
@@ -3907,13 +3913,15 @@
  "seoul.md#20": {
   "badge": "\"P",
   "body_hash": "8700669165",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Seoul Grand Park Autumn Festival 피노키오의 숲 Oct 31-Nov 8 2026, Gwacheon, Line 4. Tel 02-500-7335.",
   "num": 20,
-  "sources": [],
+  "sources": [
+   "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=465"
+  ],
   "title": "🦒 Seoul Grand Park Autumn Festival",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#21": {
   "badge": "⏳",
@@ -3945,13 +3953,15 @@
  "seoul.md#23": {
   "badge": "\"L",
   "body_hash": "fe2d57dd6f",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Lynn Hershman Leeson Oct 21 2026-Feb 21 2027 SeMA Seosomun. Entry already documents the planning-PDF vs museum-page date conflict correctly (museum wins).",
   "num": 23,
-  "sources": [],
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=PLAN_DAY"
+  ],
   "title": "🖼️ SeMA",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#24": {
   "badge": "⏳",
@@ -4143,14 +4153,17 @@
  },
  "seoul.md#39": {
   "badge": "🔎",
-  "body_hash": "7484a42d47",
-  "checked_on": null,
+  "body_hash": "b42c3f1d02",
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Added MAJOR closure the entry omitted: Buddhist painting(203)/wood-lacquer(204)/calligraphy 202-3,4 + Buddhist sculpture(301)/metal crafts(302)/공간_사이 CLOSED Jul 6 2026-Jan 28 2027, reopening Jan 29 2027 - spans the whole trip. Added still-open galleries + Wed/Sat 21:00. Warned in itinerary Day 17.",
   "num": 39,
-  "sources": [],
-  "title": "🏛️ National Museum of Korea",
-  "verdict": "unchecked"
+  "sources": [
+   "https://www.museum.go.kr",
+   "https://www.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current"
+  ],
+  "title": "🏛️ National Museum of Korea (국립중앙박물관)",
+  "verdict": "corrected"
  },
  "seoul.md#4": {
   "badge": "✅",
