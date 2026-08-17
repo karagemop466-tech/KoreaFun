@@ -24,7 +24,11 @@ You will visit palaces. Two facts are worth knowing before the first ticket boot
 - **Free for under-18s and over-65s** at all of them, and **the last Wednesday of each month ("Culture Day") is free** — that's **Wed Nov 25, 2026**, just after you leave.
 - **Closure days differ and this catches people out:** **Gyeongbokgung closes Tuesdays**; **Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close Mondays.** There is no day when everything is shut, but there is no day when everything is open either.
 - **Deoksugung runs late** — open to 21:00 (entry to 20:00), so it's the after-dinner option.
-- **Official source (reviewed Aug 18):** [Korea Heritage Service — palace admission](https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25)
+- **⏰ November hours are short.** Gyeongbokgung runs **09:00–17:00 in Nov–Dec with last entry at 16:00** (vs 18:00/17:00 in Sep–Oct). Don't plan a 16:30 palace arrival in November — you won't get in.
+- **🇬🇧 Gyeongbokgung has free English tours** at **11:00, 13:30 and 15:30** daily except Tuesday, ~60–90 min, from the information desk inside Heungnyemun. No booking needed under 10 people. They run in the rain.
+- **⚠️ Gyeonghoeru pavilion special tours are Apr–Oct only** — not available during your trip.
+- **👀 WATCH — fees are about to change.** Palace admission has been frozen since 2005, and the Korea Heritage Service announced in Aug 2026 that it will **publish a new fee structure in November 2026**, to take effect **Jan 1, 2027**. Your trip is *before* the increase, but the announcement itself lands mid-trip — the prices above should hold, just don't be surprised by headlines.
+- **Official sources (reviewed Aug 18):** [KHS — Gyeongbokgung hours, fares, tour timetable](https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesRoyalGuide.jsp&mn=NS_01_25) · [KHS — Deoksugung](https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25) · [fee-revision plan (Herald, Aug 5 2026)](https://biz.heraldcorp.com/article/10831990)
 
 ## 2. Getting around cities
 - **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24). The plain card is **~₩3,000–4,000** (character/designer editions run ₩6,000+); the card fee is **non-refundable**, though leftover balance can be refunded at convenience stores minus a fee. Load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
