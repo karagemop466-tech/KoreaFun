@@ -413,3 +413,31 @@ Incheon ArtShow noted as the one option actually near the airport.
 
 **Structural lesson:** correctness per entry is not correctness of the guide. Both of these were
 composition errors invisible to any per-entry check.
+
+### Pass 11b — the cross-file consistency problem, confirmed as systemic
+
+Three separate bugs this pass shared one shape: **a city file was right and the file the traveler
+actually reads on the day was wrong.**
+
+1. `busan.md` and README said Busan IPark host **Chungbuk** Cheongju on Nov 21. `itinerary.md` said
+   **Chungnam** — a different club entirely, and precisely the 충북/충남 conflation `AUDIT-FINDINGS.md`
+   already warns about.
+2. `daejeon-cheonan.md` #1 carried a note saying the Hanbit Tower venue error "has been corrected."
+   It had been corrected *in that entry only*. `itinerary.md` Day 7 and `walking-maps.md` line 139
+   still sent the reader to Hanbit Plaza for the Wine EXPO, which is at DCC Hall II.
+3. `itinerary.md` Day 2 still instructed the reader to "re-check whether Mulbit Yeonhwa is running"
+   three passes after Pass 8 confirmed it.
+
+A fix is not done when the entry is fixed. `tools/clash_check.py` and the grep discipline in the
+Errors section exist because of this, and both need running whenever a claim changes.
+
+**Also corrected:** the Wine EXPO buyers-only rule was overstated in the opposite direction — the
+entry told the reader Friday was closed to the public when only the *business zone* is restricted.
+Over-warning is a real cost too: it deletes a usable day from a 23-day trip.
+
+**Verified, no change needed:** ulsan #30 Lee Jung-seop, gyeongju shared-gallery run to Dec 13,
+jeonju #2 session times, suwon #1 dates, busan #5 and seoul #78 fixtures.
+
+**Queue still open:** busan #6 (V-League fixtures unreleased), daegu #3/#5, daejeon #3, gyeongju
+#1/#2, myeongdong #3, seoul #1/#2/#6/#8/#10/#11/#77, yongin #5/#6/#8; remaining travel-basics FX and
+transfer-cost claims.
