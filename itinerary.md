@@ -43,7 +43,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | 16 | **Sun Nov 15** | Seoul | 🏆 **MMA Day 2** if you skipped Day 1 · 🎭 *ELISABETH* final day (Blue Square) · MMCA OLED series + Artist of the Year show |
 | 17 | Mon Nov 16 | Seoul | National Museum of Korea half-day (free) · 👀 WKBL season expected around now — check wkbl.or.kr |
 | 18 | Tue Nov 17 | Seoul | Deoksugung + Jeongdong-gil (Gyeongbokgung is the palace closed Tuesdays; Deoksugung/Changgyeonggung close Mondays) · N Seoul Tower foliage |
-| 19 | **Wed Nov 18** | Seoul | 🎶 **Kings of Convenience** (Sejong Center) · Seoul Plaza free concert #3 · pack for Busan |
+| 19 | **Wed Nov 18** | Seoul | 🎶 **Kings of Convenience 20:00** (Sejong Center Grand Theater, Gwanghwamun) · Seoul Plaza free concert #3 · pack for Busan |
 | 20 | **Thu Nov 19** | → Busan | Morning KTX (2.5 hrs). 🎮 **G-STAR 2026 Day 1** (BEXCO) — go Friday-light, crowds build on weekends. ⚠️ 5SOS plays KINTEX tonight if you skipped G-STAR |
 | 21 | **Fri Nov 20** | Busan | 🎮 G-STAR Day 2 (or a 🧖 Spa Land Centum morning — 1 stop from BEXCO) · evening: 📺 **MAMA Awards live stream** (Osaka, free via Mnet Plus) at the hotel or pub |
 | 22 | **Sat Nov 21** | Busan | ⚡ CHOICE: ⚽ **Busan IPark vs Chungbuk Cheongju (충북청주), 14:00** (Gudeok) + G-STAR Day 3 · or full G-STAR · evening: 🛩️ **drone show 19:00 & 21:00 at Gwangalli** (free, weekly) |

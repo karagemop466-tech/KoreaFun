@@ -57,10 +57,11 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **⚠️ Plan around this:** **Nov 11–12 are trade-only business days and minors are barred; the public days are Nov 13–14.** As general visitors you want **Fri Nov 13 or Sat Nov 14** — and Nov 14 closes early at 16:00, so Friday is the relaxed choice.
 - **Official sources (reviewed Aug 17):** [Cafe Show official](https://eng.cafeshow.com/eng/cafeshow/summary.asp) · [COEX event page](https://www.coexcenter.com/events/the-25th-seoul-intl-cafe-show/)
 
-### 8) 🎻 **Kings of Convenience — SJF at the Theater** — ✅ CONFIRMED — Wed Nov 18, 2026
-- **What:** Live concert at Sejong Center.
-- **When:** **Nov 18, 2026**. YES24 lists an 80-minute show, age 7+.
-- **Official source (reviewed Aug 17):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136)
+### 8) 🎻 **Kings of Convenience — SJF at the Theater** — ✅ CONFIRMED — Wed Nov 18, 2026 · 20:00 · UPDATED
+- **What:** The Norwegian folk-pop duo (Eirik Glambek Bøe and Erlend Øye) — *Quiet Is the New Loud*, "Homesick", "Misread" — headlining the **first-ever show of "SJF at the Theater"**, a new indoor off-season spin-off of the Seoul Jazz Festival brand. Nicely full-circle: Sejong Center's Grand Theater hosted the first five editions of SJF from 2007–2011.
+- **When/where:** **Wed Nov 18, 2026, 20:00**, **Sejong Center Grand Theater (세종문화회관 대극장)** — Gwanghwamun, Line 5. Their first large-hall Seoul headline show in about **16 years** (last was Olympic Hall, 2010); promoter is Private Curve.
+- **Why it fits your trip:** a calm, seated, indoor evening in central Seoul on a Wednesday — the back half of the trip is thin on events, and this one is a 10-minute walk from Gwanghwamun and Deoksugung.
+- **Official sources (reviewed Aug 18):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136) *(intermittently 502s — retry or use the Korean site)* · [OhmyStar report on the promoter's announcement](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003247950) · [Maeil Business Newspaper](https://www.mk.co.kr/news/culture/12101426)
 
 ### 9) 🎵 **Jason Mraz — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 14, 2026 · Goyang (KINTEX)
 - **What:** The **finale** of Mraz's first Asia tour in 7 years (Manila Oct 27 → Bangkok/KL/Taipei/HK/Tokyo/Osaka → Seoul). Full band with Raining Jane, retrospective set spanning 20 years.
