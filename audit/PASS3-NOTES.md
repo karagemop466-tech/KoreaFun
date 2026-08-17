@@ -868,3 +868,63 @@ holidays, none of the holiday-exception rules can rescue any of them.
 - **A shuttle is seasonal infrastructure.** Verify transport to a venue, not just the venue.
 - **A gate price can be near-fictional** where the operator discounts monthly.
 - **"Closed Monday" may apply to only part of a site.**
+
+## Pass 22 — Busan: a wrong venue, a two-year closure, and a break in the fixture list
+
+Seven entries across busan.md. This pass produced the first **flatly wrong
+fact** found in a long time — not a stale price, an incorrect place.
+
+**busan #6 — V-League venue was WRONG.** The entry sent readers to Sajik
+Gymnasium. OK Savings Bank has never played there. The club moved from
+Ansan to Busan for 2025–26 and its home court is the **Gangseo Sports Park
+Indoor Gymnasium** in Gangseo-gu, the far west of the city — Metro Line 3
+to 체육공원, 50–70 min from BEXCO. Confirmed against the club's own
+home-ground page and Busan City's facility listing. Added a booking
+warning: Yonhap reported the club **sold out every weekend home game** in
+its first Busan season, the only V-League club in either division
+averaging 3,000+. Note the failure mode — Sajik is genuinely Busan's
+sports complex and is correct for the *basketball*, so the error was
+plausible enough to survive several passes.
+
+**busan #7 — KBL's November break.** The entry said a November home date
+was "very likely". KBL pauses for FIBA windows; the KBA calendar puts
+**qualifier Window 5 at Nov 23 – Dec 1, 2026**, and the equivalent
+2025–26 break began **Nov 21**. The Busan leg is Nov 19–22 — right on the
+boundary. Downgraded to verify-first.
+
+**busan #20 — the museum has been shut since Dec 2023.** Described as a
+working museum with a free permanent collection. The main building closed
+**Dec 18, 2023** for a ₩43bn renovation and has been closed ever since.
+It resolves well: the homepage runs an **"opening in D-30" countdown** and
+is recruiting for a reopening special exhibition, implying **~mid-Sept
+2026**, six weeks before arrival. Hedged rather than promised — on-site
+signage earlier this year said May 5. **Space Lee Ufan** stayed open
+throughout and is **temporarily free** (normally ₩3,000).
+
+**busan #39 — a de-installation risk.** MoCA closed **five and a half
+weeks (Jul 20 – Aug 28) purely to install** the Biennale, which ends Nov 1.
+The Busan leg is Nov 19–22. No notice posted yet, so flagged rather than
+claimed. The notice board also revealed **two standing closures** nobody
+had recorded: rooftop observatory closed since Jul 2025, shuttle suspended
+since Aug 2025 — both "until further notice".
+
+**busan #22 — Jagalchi resolves in our favour.** 1st/3rd Tuesday closure
+is real, but those are **Nov 3 and 17** and the Busan leg is Nov 19–22.
+Open throughout. Source repointed to BISCO, the actual operator.
+
+**busan #21 — Yongdusan confirms rather than corrects.** ₩12,000/₩9,000,
+last tickets 21:30, free with the Visit Busan Pass — matching what
+events.csv and walking-maps.md already said. Worth recording: silent
+agreement across files is easy to mistake for an unchecked gap.
+
+### Guard rules added (3, negative-tested)
+Gangseo-not-Sajik (both directions), Jagalchi 1st/3rd Tuesday + the Nov
+3/17 dates, and the KBL FIBA-window warning. Mutating Gangseo back to
+Sajik fails on both the missing venue and the stale one. **14 claims.**
+
+### New failure modes
+- **A wrong venue can be plausible.** Sajik is a real Busan complex and correct for another sport in the same file. Cross-check the *club*, not the city.
+- **A venue can be closed for years, not weeks.** Renovation closures outlive several verification passes; "closed Monday" phrasing implies a museum that is otherwise open.
+- **Install/de-install windows are closures.** A venue hosting a festival is shut before and often after it.
+- **"Until further notice" notices go stale in place.** Two were over a year old and still current.
+- **A league schedule has holes.** International windows suspend domestic play mid-season.
