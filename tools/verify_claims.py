@@ -35,6 +35,17 @@ CLAIMS = [
         ("itinerary.md", r"Kings of Convenience 20:00"),
         ("events.csv", r"Kings of Convenience.*20:00"),
     ]),
+    ("Incheon open-port 5-museum combined ticket is W3,400", [
+        ("incheon.md", r"3,400 adult"),
+        ("incheon.md", r"five open-port museums"),
+    ]),
+    ("Gyeongju Wolji fare W3,000 with 21:30 ticket cutoff", [
+        ("gyeongju.md", r"3,000 adult.{0,60}2,000"),
+        ("gyeongju.md", r"ticket office closes 21:30"),
+    ]),
+    ("Independence Hall winter last entry 16:00 (not 17:00)", [
+        ("daejeon-cheonan.md", r"LAST ENTRY IS 16:00"),
+    ]),
     ("INAS Nov 22 last entry 17:00 noted on departure day", [
         ("incheon.md", r"last entry 17:00"),
         ("itinerary.md", r"last entry 17:00"),

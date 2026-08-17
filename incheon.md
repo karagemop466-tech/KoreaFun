@@ -22,18 +22,22 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 
 ### 2) 🍜 **Jjajangmyeon Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum in the former Gonghwachun restaurant building about the Korean-Chinese noodle dish and Chinatown food history.
-- **Hours/price:** Check the district museum page; normally Tue–Sun and closed Monday.
-- **Official source (reviewed Aug 17):** [Incheon City — Jjajangmyeon Museum](https://www.incheon.go.kr/world/wd030800/view?contentid=2034160)
+- **Hours/price:** **₩1,000 adult / ₩700 youth / ₩500 military. Children 12 and under free; over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays** (next day if that Monday is a holiday), Jan 1, Seollal and Chuseok.
+- **💡 Buy the ₩3,400 combined ticket instead** — see #3 below. This museum alone is ₩1,000, so the pass pays off from the third site.
+- **Official source (reviewed Aug 18):** [Jemulpo Cultural Foundation — museum hours and fares](https://www.jcf.or.kr/main/space/leaflet.jsp)
 
 ### 3) 🏦 **Incheon Open Port Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum in a former bank building documenting the 1883 port opening and early modern exchange.
-- **Hours/price:** Normally Tue–Sun 09:00–18:00; verify holiday closures and combined tickets.
-- **Official source (reviewed Aug 17):** [Incheon City Open Port guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)
+- **Hours/price:** **₩500 adult / ₩300 youth and military. Children 12 and under free; over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays** (next day if a holiday), Jan 1, Seollal and Chuseok.
+- **✅ There IS a combined ticket, and it is the right buy: ₩3,400 adult / ₩2,300 youth / ₩2,100 military** covers **five open-port museums** — this one, the Modern Architecture Exhibition Hall (#4), the Jjajangmyeon Museum (#2), the Korean-Chinese Cultural Center / Overseas Chinese History Museum (#5), and the Daebul Hotel & Living History Exhibition Hall.
+- **⚠️ All five keep identical hours and all close Monday**, so they are a natural single walk — and a Monday kills the entire cluster at once. Buy the pass at whichever one you reach first.
+- **Official sources (reviewed Aug 18):** [Jemulpo Cultural Foundation — combined ticket and fare table](https://www.jcf.or.kr/main/space/leaflet.jsp) · [combined-ticket booking](http://ijcfmuseum.com/)
 
 ### 4) 🏛️ **Open Port Modern Architecture Exhibition Hall** — 🔎 VERIFIED MUSEUM
 - **What:** Exhibition in another former bank building interpreting surviving treaty-port architecture.
-- **Hours/price:** Normally Tue–Sun 09:00–18:00; check the district site.
-- **Official source (reviewed Aug 17):** [Incheon City Open Port guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)
+- **Hours/price:** **₩500 adult / ₩300 youth and military; children 12 and under free, over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays**, Jan 1, Seollal and Chuseok. Covered by the **₩3,400 five-museum pass** (#3).
+- **What's in the building:** it *is* the exhibit — the former **Japanese 18th Bank Incheon branch**, Incheon Tangible Cultural Heritage No. 50, with its original walls, roof structure and **bank vault** intact. Inside are scale models and film of the treaty-port concession area, including buildings that no longer exist.
+- **Official source (reviewed Aug 18):** [Jemulpo Cultural Foundation — Modern Architecture Exhibition Hall](https://www.jcf.or.kr/main/space/museum3.jsp)
 
 ### 5) 🇨🇳 **Korean-Chinese Cultural Center** — 🔎 VERIFIED PLACE
 - **What:** Exhibitions and programs about cultural exchange and Incheon’s Chinese-Korean community.

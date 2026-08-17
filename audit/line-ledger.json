@@ -7000,25 +7000,72 @@
   "text": "- **What:** Bridge-accessible island with shore walks, trails, and beach facilities.",
   "verdict": "unchecked"
  },
+ "incheon.md#2:5e1a1a2c58": {
+  "checked_on": "2026-08-17",
+  "entry": 2,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Jjajangmyeon Museum: NOT FREE - W1,000 adult / W700 youth / W500 military; under-12 and over-65 free. Tue-Sun 09:00-18:00, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok. Operator is Jemulpo Cultural Foundation (jcf.or.kr), not the city page previously cited.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **💡 Buy the ₩3,400 combined ticket instead** — see #3 below. This museum alone is ₩1,000, so the pass pays off from the third site.",
+  "verdict": "verified"
+ },
  "incheon.md#2:e3cd0d15c8": {
   "checked_on": null,
   "entry": 2,
   "file": "incheon.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Incheon City — Jjajangmyeon Museum](https://www.incheon.go.kr/world/wd030800/view?contentid=2034160)",
   "verdict": "unchecked"
  },
  "incheon.md#2:e62ab97768": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 2,
   "file": "incheon.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Jjajangmyeon Museum: NOT FREE - W1,000 adult / W700 youth / W500 military; under-12 and over-65 free. Tue-Sun 09:00-18:00, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok. Operator is Jemulpo Cultural Foundation (jcf.or.kr), not the city page previously cited.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
   "text": "- **What:** Museum in the former Gonghwachun restaurant building about the Korean-Chinese noodle dish and Chinatown food history.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "incheon.md#2:eba4b5ea00": {
+  "checked_on": "2026-08-17",
+  "entry": 2,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Jjajangmyeon Museum: NOT FREE - W1,000 adult / W700 youth / W500 military; under-12 and over-65 free. Tue-Sun 09:00-18:00, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok. Operator is Jemulpo Cultural Foundation (jcf.or.kr), not the city page previously cited.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **Hours/price:** **₩1,000 adult / ₩700 youth / ₩500 military. Children 12 and under free; over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays** (next day if that Monday is a holiday), Jan 1, Seollal and Chuseok.",
+  "verdict": "verified"
+ },
+ "incheon.md#2:f56d6209b1": {
+  "checked_on": "2026-08-17",
+  "entry": 2,
+  "file": "incheon.md",
+  "kind": "SOURCE",
+  "note": "Jjajangmyeon Museum: NOT FREE - W1,000 adult / W700 youth / W500 military; under-12 and over-65 free. Tue-Sun 09:00-18:00, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok. Operator is Jemulpo Cultural Foundation (jcf.or.kr), not the city page previously cited.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Jemulpo Cultural Foundation — museum hours and fares](https://www.jcf.or.kr/main/space/leaflet.jsp)",
+  "verdict": "sourced"
  },
  "incheon.md#2:ff482d26d6": {
   "checked_on": null,
@@ -7026,6 +7073,7 @@
   "file": "incheon.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Check the district museum page; normally Tue–Sun and closed Monday.",
   "verdict": "unchecked"
@@ -7330,15 +7378,61 @@
   "text": "- **Official source (reviewed Aug 17):** [Ganghwa tourism](https://www.ganghwa.go.kr/open_content/tour/)",
   "verdict": "unchecked"
  },
- "incheon.md#3:0b3294b0e8": {
-  "checked_on": null,
+ "incheon.md#3:0479c223db": {
+  "checked_on": "2026-08-17",
   "entry": 3,
   "file": "incheon.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Incheon Open Port Museum: W500 adult / W300 youth+military, under-12 and over-65 free. Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. KEY FIND: the hedge 'verify combined tickets' resolved YES - a W3,400 adult / W2,300 youth / W2,100 military pass covers FIVE open-port museums (this, #4, #2, #5 and Daebul Hotel). All five share identical hours and all close Monday, so the whole cluster dies on a Monday.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **⚠️ All five keep identical hours and all close Monday**, so they are a natural single walk — and a Monday kills the entire cluster at once. Buy the pass at whichever one you reach first.",
+  "verdict": "prose"
+ },
+ "incheon.md#3:0b3294b0e8": {
+  "checked_on": "2026-08-17",
+  "entry": 3,
+  "file": "incheon.md",
+  "kind": "PROSE",
+  "note": "Incheon Open Port Museum: W500 adult / W300 youth+military, under-12 and over-65 free. Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. KEY FIND: the hedge 'verify combined tickets' resolved YES - a W3,400 adult / W2,300 youth / W2,100 military pass covers FIVE open-port museums (this, #4, #2, #5 and Daebul Hotel). All five share identical hours and all close Monday, so the whole cluster dies on a Monday.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
   "text": "- **What:** Museum in a former bank building documenting the 1883 port opening and early modern exchange.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "incheon.md#3:2286f61105": {
+  "checked_on": "2026-08-17",
+  "entry": 3,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Incheon Open Port Museum: W500 adult / W300 youth+military, under-12 and over-65 free. Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. KEY FIND: the hedge 'verify combined tickets' resolved YES - a W3,400 adult / W2,300 youth / W2,100 military pass covers FIVE open-port museums (this, #4, #2, #5 and Daebul Hotel). All five share identical hours and all close Monday, so the whole cluster dies on a Monday.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **Hours/price:** **₩500 adult / ₩300 youth and military. Children 12 and under free; over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays** (next day if a holiday), Jan 1, Seollal and Chuseok.",
+  "verdict": "verified"
+ },
+ "incheon.md#3:5a8c256b81": {
+  "checked_on": "2026-08-17",
+  "entry": 3,
+  "file": "incheon.md",
+  "kind": "SOURCE",
+  "note": "Incheon Open Port Museum: W500 adult / W300 youth+military, under-12 and over-65 free. Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. KEY FIND: the hedge 'verify combined tickets' resolved YES - a W3,400 adult / W2,300 youth / W2,100 military pass covers FIVE open-port museums (this, #4, #2, #5 and Daebul Hotel). All five share identical hours and all close Monday, so the whole cluster dies on a Monday.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Jemulpo Cultural Foundation — combined ticket and fare table](https://www.jcf.or.kr/main/space/leaflet.jsp) · [combined-ticket booking](http://ijcfmuseum.com/)",
+  "verdict": "sourced"
  },
  "incheon.md#3:6d936d3fa8": {
   "checked_on": null,
@@ -7346,9 +7440,24 @@
   "file": "incheon.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Incheon City Open Port guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)",
   "verdict": "unchecked"
+ },
+ "incheon.md#3:cc1a9178de": {
+  "checked_on": "2026-08-17",
+  "entry": 3,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Incheon Open Port Museum: W500 adult / W300 youth+military, under-12 and over-65 free. Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. KEY FIND: the hedge 'verify combined tickets' resolved YES - a W3,400 adult / W2,300 youth / W2,100 military pass covers FIVE open-port museums (this, #4, #2, #5 and Daebul Hotel). All five share identical hours and all close Monday, so the whole cluster dies on a Monday.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **✅ There IS a combined ticket, and it is the right buy: ₩3,400 adult / ₩2,300 youth / ₩2,100 military** covers **five open-port museums** — this one, the Modern Architecture Exhibition Hall (#4), the Jjajangmyeon Museum (#2), the Korean-Chinese Cultural Center / Overseas Chinese History Museum (#5), and the Daebul Hotel & Living History Exhibition Hall.",
+  "verdict": "verified"
  },
  "incheon.md#3:f41c4b2c15": {
   "checked_on": null,
@@ -7356,6 +7465,7 @@
   "file": "incheon.md",
   "kind": "TIME",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Normally Tue–Sun 09:00–18:00; verify holiday closures and combined tickets.",
   "verdict": "unchecked"
@@ -7552,15 +7662,58 @@
   "text": "- **Hours/price:** Standing ₩175,000 · Reserved R ₩195,000 · Reserved P ₩220,000 (+₩2,000 booking fee). **Effectively sold out** — general sale cleared nearly every seat on day one; only returned/cancelled tickets appear. No wheelchair seating at this show.",
   "verdict": "verified"
  },
+ "incheon.md#4:1a297ed4a0": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "incheon.md",
+  "kind": "SOURCE",
+  "note": "Modern Architecture Exhibition Hall: W500 adult / W300 youth+military, free under-12/over-65; Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. Covered by the W3,400 five-museum pass. The building is the former Japanese 18th Bank Incheon branch, Incheon Tangible Cultural Heritage No.50, with original walls, roof structure and bank vault intact.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Jemulpo Cultural Foundation — Modern Architecture Exhibition Hall](https://www.jcf.or.kr/main/space/museum3.jsp)",
+  "verdict": "sourced"
+ },
+ "incheon.md#4:668605d6f7": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "incheon.md",
+  "kind": "ACCESS",
+  "note": "Modern Architecture Exhibition Hall: W500 adult / W300 youth+military, free under-12/over-65; Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. Covered by the W3,400 five-museum pass. The building is the former Japanese 18th Bank Incheon branch, Incheon Tangible Cultural Heritage No.50, with original walls, roof structure and bank vault intact.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **What's in the building:** it *is* the exhibit — the former **Japanese 18th Bank Incheon branch**, Incheon Tangible Cultural Heritage No. 50, with its original walls, roof structure and **bank vault** intact. Inside are scale models and film of the treaty-port concession area, including buildings that no longer exist.",
+  "verdict": "verified"
+ },
  "incheon.md#4:6d936d3fa8": {
   "checked_on": null,
   "entry": 4,
   "file": "incheon.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Incheon City Open Port guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)",
   "verdict": "unchecked"
+ },
+ "incheon.md#4:c16ebcbbed": {
+  "checked_on": "2026-08-17",
+  "entry": 4,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Modern Architecture Exhibition Hall: W500 adult / W300 youth+military, free under-12/over-65; Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. Covered by the W3,400 five-museum pass. The building is the former Japanese 18th Bank Incheon branch, Incheon Tangible Cultural Heritage No.50, with original walls, roof structure and bank vault intact.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
+  "text": "- **Hours/price:** **₩500 adult / ₩300 youth and military; children 12 and under free, over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays**, Jan 1, Seollal and Chuseok. Covered by the **₩3,400 five-museum pass** (#3).",
+  "verdict": "verified"
  },
  "incheon.md#4:da71ecaf1b": {
   "checked_on": null,
@@ -7568,19 +7721,24 @@
   "file": "incheon.md",
   "kind": "TIME",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Normally Tue–Sun 09:00–18:00; check the district site.",
   "verdict": "unchecked"
  },
  "incheon.md#4:eb1d0a045a": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 4,
   "file": "incheon.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Modern Architecture Exhibition Hall: W500 adult / W300 youth+military, free under-12/over-65; Tue-Sun 09:00-18:00 last entry 17:30, closed Mon. Covered by the W3,400 five-museum pass. The building is the former Japanese 18th Bank Incheon branch, Incheon Tangible Cultural Heritage No.50, with original walls, roof structure and bank vault intact.",
+  "sources": [
+   "https://www.jcf.or.kr/main/space/leaflet.jsp",
+   "https://www.jcf.or.kr/main/space/museum3.jsp",
+   "http://ijcfmuseum.com/"
+  ],
   "text": "- **What:** Exhibition in another former bank building interpreting surviving treaty-port architecture.",
-  "verdict": "unchecked"
+  "verdict": "prose"
  },
  "incheon.md#5:164e160c27": {
   "checked_on": null,
