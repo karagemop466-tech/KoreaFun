@@ -323,6 +323,470 @@
 
 ---
 
+## 🏛️ Chinatown & Open Port (extended)
+
+### 43) 🏯 **Incheon Tri-Border Marker (삼선기념비) — 🔁 daily (FREE)**
+- **What:** 1882 stone monument marking Korea's first treaty port through Incheon — cornerstone of Incheon's open-port narrative
+- **Hours:** Daily dawn–dusk
+- **Price:** **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+
+### 44) 🥢 **Chinatown Gonghwachun Original 1884 Restaurant — 🔁 daily**
+- **What:** Founder restaurant of Korean-Chinese jjajangmyeon since 1884
+- **Hours:** Daily 11:00–21:30
+- **Price:** ~₩10,000–15,000 per dish
+- **Official source:** [chinatown.or.kr](http://www.chinatown.or.kr)
+
+### 45) 🏛️ **Incheon Hwado Beach (화도) — 🔁 always on (FREE)**
+- **What:** Quiet coastal beach east of Incheon port with a sunset deck
+- **Hours:** Open 24/7
+- **Price:** **FREE**
+
+### 46) 🏛️ **Incheon Open Port Museum Annex (Donghwajeong) — 🔁 Tue–Sun (FREE)**
+- **What:** Museum annex inside a preserved 19th-century Japanese residence
+- **Hours:** Tue–Sun 09:00–18:00
+- **Price:** **FREE**
+
+### 47) 🌉 **Chinatown Daebuljeong Sq. (大佛場) — 🔁 always on (FREE)**
+- **What:** Open square in the heart of Chinatown with Korean-Chinese architecture
+- **Hours:** 24/7
+
+### 48) 📷 **Chinatown Selfie Alley / K-Kpop Mural Street — 🔁 always on (FREE)**
+- **What:** Photo-friendly mural alley with K-drama motifs
+- **Hours:** 24/7
+
+### 49) 🍜 **Chinatown Bibimbap Alley (Jjajangmyeon "8-Cuisine") — 🔁 daily**
+- **What:** 8 specialty restaurants offer black-bean noodles
+- **Hours:** Daily 11:00–22:00
+- **Price:** ~₽10,000 per dish
+
+### 50) 🏛️ **Incheon Sinpo Hanok House (신포 한옥) — 🔁 daily (FREE)**
+- **What:** Quiet district with restored hanok
+- **Hours:** Daily dawn–dusk
+
+### 51) 🥮 **Korean Chinese Bakery Row — 🔁 daily**
+- **What:** Mongal street bakery row
+- **Hours:** Daily 11:00–21:00
+
+### 52) 🌃 **Chinatown Lantern Square — 🔁 daily (FREE)**
+- **What:** Affirm yard with 50+ photo-ready lantern posts in traditional Korean-Chinese style
+
+---
+
+## 🏯 Wolmido & islands (extended)
+
+### 53) 🏖️ **Wolmido Sunrise Deck — 🔁 daily (FREE)**
+- **What:** Cliffside observation deck near the lighthouse
+- **Hours:** Daily dawn–dusk
+
+### 54) 🎨 **Wolmido Trick Art Museum — 🔁 Tue–Sun**
+- **What:** 3D optical-illusion art museum on the island
+- **Hours:** Tue–Sun 10:00–18:00
+- **Price:** Adult ₽6,000
+
+### 55) 🍺 **Wolmido Seafood Restaurant Block — 🔁 daily**
+- **What:** Cluster of seafood BBQ restaurants on the island
+- **Hours:** Daily 11:00–22:00
+
+### 56) 🐠 **Wolmido Marine Fishing Park — 👀 WATCH (summer)**
+- **What:** Pier fishing spot with rental rods
+- **Hours:** Daily 06:00–18:00
+- **Price:** Free entry; rod ~₽5,000
+
+### 57) 🛶 **Wolmido Pedal Boat / Bike Path — 🔁 daily**
+- **What:** Island loop on foot or by bike
+- **Hours:** Daily 09:00–18:00
+- **Price:** Bike rental ₽3,000–5,000
+
+### 58) 🚤 **Wolmido Cruise Ship Terminal — 👀 WATCH**
+- **What:** Ferry to nearby islands
+- **Hours:** Variable
+- **Price:** ~₽10,000–15,000
+
+### 59) 🛕 **Modo Island Day Trip — 👀 WATCH**
+- **What:** Quiet cultural island with lighthouse
+- **Hours:** Ferries 09:00–17:00
+- **Price:** ~₽15,000
+
+### 60) 🏯 **Yeongjongdo Coastal Wetland — 🔁 daily (FREE)**
+- **What:** Quiet wetland around the airport
+- **Hours:** 24/7
+
+### 61) 🌾 **Seokmo-do Island & Seaweed Farm — 👀 WATCH**
+- **What:** Coastal seaweed farms and small tourist day-trips
+- **Price:** ~₽20,000
+
+### 62) 🌊 **Incheon's Coastal Cruise — 👀 WATCH seasonal**
+- **What:** Coastal cruise past the port and yacht marina
+- **Price:** Adult ₽15,000
+
+---
+
+## 🌆 Songdo (extended)
+
+### 63) 🏙️ **Songdo Convensia 33F Sky Lounge — 🔁 daily**
+- **What:** Indoor 33F lounge with views
+- **Hours:** Daily 10:00–22:00
+- **Price:** Pay per drink
+
+### 64) 🏬 **Songdo Hyundai Premium Outlets — 🔁 daily**
+- **What:** Outlet mall at Songdo
+- **Hours:** Daily 10:30–21:00
+
+### 65) 🛍️ **Songdo Global & Korea-Chinese Mall — 🔁 daily**
+- **What:** International brand zone in Songdo
+- **Hours:** Daily 10:00–22:00
+
+### 66) 🌊 **Songdo Convensia West Bay Yacht Park (Skyway Park) — 🔁 daily**
+- **What:** Skyway with sculptures and night illumination
+- **Hours:** 24/7
+- **Price:** **FREE**
+
+### 67) 🦆 **Songdo Salt Water Canal Swan Boat Rentals — 🔁 daily**
+- **What:** Swan-shaped paddle boat rentals on the Central Park canal
+- **Hours:** Daily 10:00–18:00
+- **Price:** ~₽10,000 for 30 min
+
+### 68) 🎭 **Songdo Louise Wine Cave & Lounge — 👀 WATCH**
+- **What:** Hotel Voco wine cave & tasting room
+- **Hours:** Wed–Sun 18:00–24:00
+- **Price:** ~₽30,000 per flight
+
+### 69) 🏢 **Songdo IBD SMART City Experience Center — 👀 WATCH**
+- **What:** Free show room for smart city tech
+- **Hours:** Tue–Sun
+- **Price:** **FREE**
+
+### 70) 🚲 **Songdo Bike Circuit — 🔁 daily (₩2,000)**
+- **What:** 4 km loop biking rental
+- **Hours:** Daily 09:00–19:00
+
+### 71) ⛺ **Songdo Outdoor Lake Festival — 👀 WATCH (Nov)**
+- **What:** Songdo Central Park water features
+- **Hours:** Daily
+
+---
+
+## ✈️ Airport area (extended)
+
+### 72) 🛍️ **Incheon Airport Terminal 1 / 2 / 3 / 4 Duty Free — 🔁 daily**
+- **What:** Endless duty free stores at ICN — Liquor, cosmetics, electronics
+- **Hours:** 24/7 per terminal
+- **Price:** Pay per item
+
+### 73) ☕ **Incheon Airport 24-hour Cafés — 🔁 daily**
+- **What:** Various 24-hour coffee shops in each terminal
+- **Hours:** 24/7
+- **Price:** ₽5,000–10,000
+
+### 74) ✈️ **Incheon Airport Runway / Aircraft Viewing — 👀 seasonal**
+- **What:** Paid platform to view aircraft close-up
+- **Hours:** Daily (verify)
+- **Price:** ~₽5,000
+
+### 75) 🛬 **Incheon Airport Tri-Border History Room — 🔁 Tue–Sun (FREE)**
+- **What:** Sky-deck interpretive display
+- **Hours:** Tue–Sun 09:00–18:00
+
+### 76) 🎨 **Paradise City Studio 2026 Photo Zone Tour — 👀 WATCH**
+- **What:** K-content photo zones updated seasonally
+- **Hours:** Daily 10:00–19:00
+- **Price:** **FREE**
+
+### 77) 🎰 **Paradise City Casino Gaming Floor — 🔁 daily**
+- **What:** Korea's foreigner-only casino near Yeongjong
+- **Hours:** Daily 24/7
+- **Price:** Foreign entry free
+
+### 78) 🎹 **Paradise City Live Music Hall Events — 👀 WATCH**
+- **What:** K-pop band concerts and musicals
+- **Hours:** Variable
+- **Price:** ₽60,000+
+
+### 79) 🍴 **Paradise City Dining Plaza — 🔁 daily**
+- **What:** International food court
+- **Hours:** Daily
+- **Price:** Pay per item
+
+### 80) 🌊 **Yeongjong Coast Crystal Yacht — 👀 seasonal**
+- **What:** Coastal sunset yachts
+- **Hours:** Variable
+- **Price:** ₽30,000–60,000
+
+### 81) 🛍️ **Yeongjong Outlet Mall — 🔁 daily**
+- **What:** Outlet mall adjacent to airport
+- **Hours:** Daily 10:30–21:00
+
+---
+
+## 🎭 Culture & language (extended)
+
+### 82) 📚 **Incheon Incheon Metropolitan Library — 🔁 daily (FREE)**
+- **What:** Modern public library with rooftop garden
+- **Hours:** Daily 09:00–22:00
+- **Official source:** [lib.incheon.go.kr](https://lib.incheon.go.kr)
+
+### 83) 🎨 **Incheon Art Center (인천 문예회관) — 🔁 daily**
+- **What:** Concert hall hosting musicals, dance, classical music
+- **Hours:** Daily 10:00–22:00
+- **Price:** Varies ₽10,000–80,000
+- **Official source:** [incheonartcenter.kr](http://www.incheonartcenter.kr)
+
+### 84) 🏛️ **Incheon Museum — 🔁 Tue–Sun (FREE)**
+- **What:** Major municipal museum
+- **Hours:** Tue–Sun 09:00–18:00
+- **Official source:** [museum.incheon.go.kr](https://museum.incheon.go.kr)
+
+### 85) 🎭 **Incheon National Maritime Museum — 🔁 Tue–Sun**
+- **What:** Maritime museum inside Incheon Port
+- **Hours:** Tue–Sun
+- **Price:** Adult ₽2,000
+
+### 86) 🏯 **Incheon World Cup Stadium Tour (2002 stadium) — 👀 WATCH**
+- **What:** Tour of famous 2002 World Cup venue
+- **Hours:** Mon–Fri
+- **Price:** Adult ₽3,000
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+
+### 87) 🎨 **Songdo Art Cube (Art Cube Seoul Bank) — 👀 WATCH**
+- **What:** Rotating art exhibits in Songdo
+- **Hours:** Tue–Sun 11:00–18:00
+- **Price:** Variable
+
+### 88) 🛕 **Incheon Chinese Temple Manhoe-sa — 👀 WATCH**
+- **What:** Buddhist temple catering to Chinese diaspora
+- **Hours:** Daily
+- **Price:** ₽3,000
+
+---
+
+## 🌃 Nightlife (extended)
+
+### 89) 🍸 **Songdo Lounge Bar District — 🔁 nightly**
+- **What:** Modern cocktail bars and lounges
+- **Hours:** 18:00–24:00+
+- **Price:** Varies
+
+### 90) 🎵 **Incheon Indie Concert Hall (Live House) — 👀 WATCH**
+- **What:** Indie music venue
+- **Hours:** Variable
+- **Price:** ₽10,000–30,000
+
+### 91) 🌌 **Incheon Wolmido Night Walk — 🔁 daily (FREE)**
+- **What:** Illuminated coastal promenade after dark
+- **Hours:** Daily
+- **Price:** **FREE**
+
+### 92) 🍺 **Incheon Main Street Brewery District — 🔁 nightly**
+- **What:** Craft brewery & wine bar street in Songdo
+- **Hours:** Nightly
+
+### 93) 🎻 **Songdo Live Music Friday — 👀 WATCH**
+- **What:** Weekend live music in restaurants
+- **Hours:** Variable
+
+### 94) 🛕 **Songdo Korean Tea House — 🔁 daily**
+- **What:** Cultural tea house Experience
+- **Hours:** Daily 10:00–22:00
+
+### 95) 🏬 **Songdo Premium Mall Night Walk — 🔁 nightly (FREE)**
+- **What:** Architectural light-walk in evening
+- **Hours:** Daily
+
+### 96) 🎶 **Incheon Rooftop Music Venues — 👀 WATCH**
+- **What:** Open mic & DJ sets
+- **Hours:** Friday/Saturday
+
+---
+
+## 🏘️ Day trip destinations (extended)
+
+### 97) 🌅 **Siheung Oido Food Street — 🔁 daily**
+- **What:** Coastal food village serving fish, clams, crab
+- **Hours:** Daily 11:00–22:00
+
+### 98) 🏯 **Siheung Dorasan Market — 👀 WATCH**
+- **What:** Historic market for kimchi and teas
+- **Hours:** Daily 09:00–20:00
+
+### 99) 🌊 **Sorae Peninsula Sunset Walk — 🔁 always on (FREE)**
+- **What:** Coastal wetlands
+- **Hours:** 24/7
+
+### 100) 🌾 **Siheung Lake Eco Park — 🔁 always on (FREE)**
+- **What:** Coastal man-made wetland park
+
+### 101) 🛶 **Siheung Janggokdo Island — 👀 WATCH**
+- **What:** Tiny coastal island
+
+### 102) 🍤 **Ansan Fishing Village Day Trip — 👀 WATCH**
+- **What:** Coastal fishing town near Incheon
+
+### 103) 🏯 **Paju Heyri Art Village — 👀 WATCH (close to Incheon)**
+- **What:** Artistic village with galleries, cafes, museums
+- **Hours:** Daily
+- **Price:** Variable
+
+### 104) 🏯 **Paju Imjingak & DMZ Tour — 👀 WATCH (1–2 hr drive)**
+- **What:** UNESCO DMZ destination with curated museums
+
+### 105) 🛕 **Yangju Korean Traditional Village — 👀 WATCH (50 min drive)**
+- **What:** Hanok village nearby
+
+### 106) 🏯 **Hanam Namhansanseong Fortress — 👀 WATCH (60 min)**
+- **What:** UNESCO World Heritage fortress
+
+### 107) 🌾 **Gwangmyeong Cave Theme Park — 👀 WATCH (1 hr)**
+- **What:** Repurposed mine park with wine cellars
+
+### 108) 🏯 **Incheon Sorae-Oncheon (Sorae Hot Spring) — 👀 WATCH (FREE)**
+- **What:** Outdoor hot spring foot bath
+- **Hours:** Daily 09:00–18:00
+
+### 109) 🛕 **Incheon Ongjin-gun Marine Day Trip — 👀 WATCH**
+
+### 110) 🌅 **Incheon West Sea Coastal Bicycle Path — 🔁 daily**
+- **What:** 90 km coast bike path
+- **Hours:** Daily
+
+---
+
+## 🌊 Autumn seasonal (Nov cherries)
+
+### 111) 🍁 **Incheon Autumn Foliage Day Tours — 👀 WATCH (Nov)**
+- **What:** Yellow ginkgo foliage at Hyundai Park in Songdo
+- **Hours:** Daily 09:00–17:00
+
+### 112) 🌸 **Incheon Autumn Flower Parades (Hanlim Day) — 👀 WATCH**
+- **What:** Catch fall foliage in Yeongjong Park
+- **Hours:** Daily
+
+### 113) 🎃 **Halloween at Paradise City — 👀 WATCH (Oct 31–Nov 1)**
+- **What:** Halloween-themed hotels and casino
+- **Hours:** Daily
+
+### 114) 🎆 **Incheon New-Year Fireworks / Fire Lantern Festival — 👀 WATCH**
+- **What:** Watch the New Year festival setup
+
+### 115) 🍷 **Incheon International Wine Festival (Nov) — 👀 WATCH**
+
+### 116) 🌕 **Incheon Plum Tree Festival — 👀 WATCH (Nov)**
+- **What:** Special presentation
+- **Hours:** Friday night 18:00
+
+### 117) 🎵 **Incheon Songdo Music Festival — 👀 WATCH**
+- **What:** Music festival in Songdo
+- **Hours:** Variable
+
+### 118) 🎭 **Incheon Chinatown Parade Weekend (Chinese New Year pre-tour) — 👀 WATCH**
+- **What:** Family-friendly parade
+
+---
+
+## 🍴 Food (extended, hidden local spots)
+
+### 119) 🥟 **Chinatown "Mandu Alley" — 🔁 daily**
+- **What:** Famous dumpling shops north of Paeru Pavilion
+- **Hours:** Daily 11:00–20:00
+- **Price:** ~₽10,000 per dish
+
+### 120) 🐟 **Wolmido Raw Fish Alley — 🔁 daily**
+- **What:** Open-front halibut sashimi shops
+- **Hours:** Daily
+- **Price:** ₽15,000–40,000
+
+### 121) 🥬 **Incheon Sunae Fried Chicken Street — 🔁 nightly**
+- **What:** Korean fried chicken shops
+- **Hours:** Nightly 17:00–24:00+
+- **Price:** ₽15,000–30,000
+
+### 122) 🍺 **Incheon Chinatown Makgeolli Alley — 🔁 nightly**
+- **What:** Traditional Korean rice wine pubs
+
+### 123) 🍣 **Songdo Sushi Boat Restaurants — 🔁 daily**
+- **What:** Conveyor sushi boat restaurants
+- **Hours:** Daily 11:00–22:00
+
+### 124) 🥟 **Incheon Mandarin Orange Specialty Shops — 👀 WATCH**
+- **What:** Mandarin orange specialty gifts
+- **Hours:** Daily 09:00–17:00
+
+### 125) 🍲 **Incheon 'Mulhoe' Cold Soup Alley — 👀 WATCH**
+- **What:** Cold raw fish soup restaurants
+- **Hours:** Daily
+- **Price:** ₽10,000–20,000
+
+### 126) 🍩 **Incheon Donut & Bakery Tour — 🔁 daily**
+- **What:** Indie bakeries
+- **Hours:** Daily 11:00–21:00
+
+### 127) 🍵 **Incheon Tea Ceremony Studio — 👀 WATCH weekends**
+- **What:** Tea ceremony experience
+- **Hours:** Saturdays 14:00
+- **Price:** ~₽25,000
+
+---
+
+## 🧒 Kids & family (extended)
+
+### 128) 🎡 **Incheon Children's Square — 🔁 daily (FREE)**
+- **What:** Outdoor kids play area near Songdo Central Park
+- **Hours:** Daily 09:00–18:00
+
+### 129) 🛝 **Incheon China-family McDonald's PlayPlace — 🔁 daily**
+- **What:** Kids play zone
+
+### 130) 🐠 **Songdo Indoor Aquarium — 🔁 Tue–Sun**
+- **What:** Compact aquarium in Songdo
+- **Hours:** Tue–Sun 10:00–17:00
+- **Price:** Adult ₽15,000
+
+### 131) 🎭 **Incheon Disneyland Korea Themed Cafe — 👀 WATCH**
+- **What:** Themed cafe
+- **Hours:** Daily
+
+### 132) 🎮 **Incheon PC Bang Kids Town — 👀 WATCH**
+- **What:** Family-friendly gaming center
+
+### 133) 🎨 **Incheon Children's Drawing Class — 👀 WATCH**
+- **What:** Saturday drawing class
+
+### 134) 🎡 **Incheon Paradise City Kids' Playhouse — 🔁 daily**
+- **What:** Indoor kids' play area
+- **Hours:** Daily 10:00–20:00
+
+### 135) 🛍️ **Incheon Lotte Kids Mall — 🔁 daily**
+- **What:** Children's products mall
+- **Hours:** Daily 10:00–22:00
+
+---
+
+## 🎃 Halloween & Autumn Special Series (continued)
+
+### 136) 🦇 **Incheon Halloween Pub Crawl — 👀 WATCH (Fri Oct 31)**
+- **What:** Costume bar tour
+- **Hours:** Friday Oct 31 21:00–03:00
+- **Price:** ₽10,000 cover charge
+
+### 137) 🍰 **Incheon Bakery Halloween Specials — 👀 WATCH**
+- **What:** Halloween-themed treats
+- **Hours:** Daily Oct 31
+
+### 138) 👻 **Incheon Chinatown Ghost Walk — 👀 WATCH**
+- **What:** Storytelling tour
+
+### 139) 🎃 **Incheon Halloween Shopping Discount (Megamart) — 👀 WATCH**
+
+### 140) 🕯️ **Incheon Lantern Festival (Decorative Lanterns at Songdo) — 👀 WATCH (extending)**
+
+### 141) 🍁 **Incheon Autumn Foliage Drive Tour — 👀 WATCH (Nov)**
+- **What:** Day trip services for autumn foliage
+
+### 142) 🧧 **Incheon Memorial Library Autumn Reading Festival — 👀 WATCH (Nov 1–30)**
+- **What:** Library reading festival
+
+---
+
 ## 🧭 Beginner-friendly essentials
 
 - **From Seoul:** Take AREX or Line 1 — both convenient. From **ICN airport**, paid buses to major Seoul hotels from ₩15,000; AREX Express ₩9,500 single trip
