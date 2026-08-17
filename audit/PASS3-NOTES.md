@@ -764,3 +764,47 @@ but keep the working unit **entry-shaped**.
 November is a gallery rest day; its own PDF leaflet says the **first**. Nov 2 vs
 Nov 9. Unresolvable from published sources → marked `unresolved` with a
 phone-ahead instruction rather than a guess.
+
+## Pass 20 — combined tickets, Monday clusters, and a Monday-proof anchor
+
+**617/1858 lines (33%).** `verify_claims.py` now guards **11** cross-file
+claims (added: Incheon ₩3,400 pass, Wolji fare + 21:30 cutoff, Independence
+Hall 16:00 last entry). New rules were **negative-tested** — altering the
+number makes the checker exit 1.
+
+### Findings
+
+| Entry | Was | Is |
+| --- | --- | --- |
+| incheon #2 Jjajangmyeon Museum | "check the district page" | **₩1,000** — another silent price |
+| incheon #3 Open Port Museum | "verify combined tickets" | **YES — ₩3,400 covers 5 museums**; individually ₩3,500 |
+| incheon #4 Modern Architecture Hall | "check the district site" | ₩500; the building *is* the exhibit (Japanese 18th Bank, vault intact) |
+| daegu #35 Art Festival Pt 2 | "hours/admission not stated" | winter 10:00–18:00, admission stops 15 min early; **Sun closes 16:00** |
+| daegu #29 Daegu Art Museum | "exhibition-specific" | ₩1,000; **free every Wednesday** (Nov 4/11/18) |
+| daegu #8 Modern History Museum | "verify hours" | free, 09:00–18:00, closed Mon |
+| yeosu #25 Gaedo | "confirm which Expo programs remain Nov 1–4" | **Expo runs Sep 5–Nov 4 and Gaedo is a named venue** → live for Nov 1–4, ordinary trail from Nov 5 |
+| yeosu #14 iMuseum | "verify before travel" | hours confirmed; **price genuinely unpublished → labelled assume-ticketed** |
+| jeonju #6 Gyeonggijeon | "Nov–Feb 09:00–17:00; admission applies" | **09:00–18:00 (last entry 17:00)** and **₩3,000**, museum included |
+
+### Patterns worth carrying forward
+
+1. **"Verify combined tickets" usually means one exists.** Incheon's ₩3,400
+   five-museum pass was sitting on the operator's fare table. Two earlier
+   passes asked the same question of Suwon and got *no* — so the question is
+   worth asking, and the answer is not guessable.
+2. **Shared operator ⇒ shared closure ⇒ cluster risk.** All five Incheon
+   open-port museums keep identical hours and close Monday. A Monday there
+   kills a whole morning, not one stop. Look for the *operator*, not the site.
+3. **Last entry vs closing keeps failing in BOTH directions.** Independence
+   Hall published closing and hid the cutoff; Gyeonggijeon's guide entry had
+   the *cutoff* recorded as the closing time and lost an hour. Always capture
+   both numbers explicitly.
+4. **A Monday-proof anchor is worth naming.** Gyeonggijeon and Jeonju National
+   Museum both open Mondays while the rest of the Hanok Village shuts.
+5. **Aggregator vs venue:** `dgfca.or.kr` is client-rendered and gave nothing;
+   the *venue* (`daeguartscenter.or.kr`) had the hours. Prefer the venue.
+
+### Honest unknowns held open
+- `yeosu.md#14` iMuseum — no published price anywhere official. Labelled
+  assume-ticketed with a comparable range rather than implying free.
+- `gyeongju.md#12` — first vs second Monday gallery closure, still `unresolved`.
