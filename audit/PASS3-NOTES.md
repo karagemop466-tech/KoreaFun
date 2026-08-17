@@ -808,3 +808,63 @@ number makes the checker exit 1.
 - `yeosu.md#14` iMuseum — no published price anywhere official. Labelled
   assume-ticketed with a comparable range rather than implying free.
 - `gyeongju.md#12` — first vs second Monday gallery closure, still `unresolved`.
+
+## Pass 21 — frequency decay, booking walls, and the monthly price
+
+Four entries rewritten across Busan, Myeongdong and Yongin, plus two
+guide-level additions. Every one of them came from a hedge that had been
+sitting in the file saying "verify this" — and in each case the answer
+changed what the traveller should do.
+
+**busan #27 — Yeongdo Bridge. The biggest correction of the pass.**
+The entry described "a regular afternoon lifting" and asked the reader to
+confirm the weekday/Saturday rule. Korea's only bascule bridge now lifts
+**Saturdays only, 14:00–14:15**. It was a daily event for years and a noon
+event before September 2015, then was cut to once a week over traffic
+disruption. Six days out of seven, the old entry sent someone to watch a
+bridge that would not move. Added Yurari Square as the viewing point and a
+13:45 arrival, because the whole thing lasts fifteen minutes.
+
+Then the clash: the only Saturdays in the window are Nov 7, 14 and 21, and
+**Nov 21 at 14:00 is already the Busan IPark kick-off** in the itinerary.
+Logged on Day 22 so it is a visible choice, not a discovery.
+
+**busan #9 — Gwangalli drone show.** The hedge resolved the other way: the
+existing text was right. Winter is **two shows, 19:00 and 21:00**. A travel
+blog claimed winter drops to one — the operator's own page says two.
+Upgraded to a firm statement and kept the Nov 7 fireworks warning.
+
+**myeongdong #25 — Namsangol.** Winter 09:00–20:00 confirmed, and one
+nuance the entry missed: only the hanok *interiors* close on Mondays. The
+garden is open year-round. A "closed Monday" line was hiding a Monday
+option. Also added the free guided tours (10:30/12:00/14:00/15:30) which
+**individuals cannot pre-book** — you walk up to the guide office.
+
+**yongin #18 — Hoam.** Three plan-breakers behind "check the official
+site": it is **100% advance booking** with no walk-ups (unlike Leeum, where
+same-day is fine), 14 days ahead, max 4 people; the fare is **₩20,000 /
+₩10,000**; and the **Everland shuttle is suspended in winter**, which
+breaks the hop-over the guide's own geography invites. Art Spectrum 2026
+runs to Dec 27, so it is the season, not the programme, that stops the bus.
+
+**yongin #13 — Korean Folk Village.** Both cited fare URLs are dead since
+a site rebuild. Hours are published **month by month**, not by season. The
+~₩37,000 gate price is close to fictional: a monthly discount page rotates
+offers, and the **public-transport discount was ₩17,000** — which these
+travellers qualify for automatically, since they will not be driving.
+
+**Promoted to travel-basics § 1c — "Mondays, what's actually open".**
+Mondays have surfaced in nearly every pass, so the findings are now
+consolidated in one place: Gyeongbokgung (closes Tuesdays instead), the
+Seoul/Jeonju/Gyeongju national museums, Gyeonggijeon, the Namsangol
+garden, Independence Hall's grounds and Jinhae's coastal path — against
+what is reliably shut, including all five Incheon open-port museums in a
+single stroke. Nov 2, 9 and 16 are the Mondays, and with no November
+holidays, none of the holiday-exception rules can rescue any of them.
+
+### New failure modes for the protocol
+- **Frequency decays like price.** A "regular" event can quietly become weekly.
+- **A booking wall is as disqualifying as a closure.** No walk-ups is a hard stop, and sister venues under one foundation can have opposite rules.
+- **A shuttle is seasonal infrastructure.** Verify transport to a venue, not just the venue.
+- **A gate price can be near-fictional** where the operator discounts monthly.
+- **"Closed Monday" may apply to only part of a site.**
