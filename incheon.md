@@ -248,9 +248,12 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 - **Official source (reviewed Aug 17):** [Incheon ArtShow 2026](https://iartshow.imweb.me/)
 
 ### 43) 🎵 **My Chemical Romance — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 7, 2026 · NEW
-- **What:** Concert at Paradise City Culture Park on Yeongjong, the same night as the Busan Fireworks Festival.
-- **When:** **Sat Nov 7, 2026**. Setlist.fm lists doors 16:00 / show 19:00; confirm on the ticket platform you actually use.
-- **Official source (reviewed Aug 17):** Upcoming-show listing for Paradise City Culture Park, Nov 7, 2026. Buy only through a named Korean ticket seller ([Interpark Global](https://global.interpark.com) or the venue’s posted partner).
+- **What:** THE BLACK PARADE 2026 TOUR at Paradise City Culture Park, Yeongjong — the band's first Korean show in 18 years. Promoter is **ualive (위얼라이브)**, 90 min, ages 13+.
+- **When:** **Sat Nov 7, 2026, 19:00.** ⚠️ This date is a **reschedule** — it was originally Apr 18, 2026 and was pushed to November, so older articles and any ticket you see referencing April are out of date.
+- **Hours/price:** Standing ₩175,000 · Reserved R ₩195,000 · Reserved P ₩220,000 (+₩2,000 booking fee). **Effectively sold out** — general sale cleared nearly every seat on day one; only returned/cancelled tickets appear. No wheelchair seating at this show.
+- ⚠️ **Scalping warning:** ualive is voiding resale tickets found on secondhand sites and SNS **without notice**, and neither promoter nor venue accepts liability. Buy only via TicketLink.
+- ⚠️ **Hard clash:** this is the same night as the Busan Fireworks Festival *and* KGMA Day 1. Yeongjong is out by the airport, so this realistically consumes the whole evening.
+- **Official source (reviewed Aug 18):** [TicketLink product page 57330](https://m.ticketlink.co.kr/product/57330) — date, 19:00 start, venue address and the full price table.
 
 ---
 

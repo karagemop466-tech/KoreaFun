@@ -17,15 +17,17 @@ Everything below is practical setup for the events in this repo. Official links 
 - **Foreign cards:** ATMs at convenience stores (CU/GS25) and banks work with US cards; look for "Global ATM".
 
 ## 2. Getting around cities
-- **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24) for ~₩4,000 card fee; load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
+- **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24). The plain card is **~₩3,000–4,000** (character/designer editions run ₩6,000+); the card fee is **non-refundable**, though leftover balance can be refunded at convenience stores minus a fee. Load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
 - **WOWPASS Card:** An all-in-one prepaid card for foreign tourists combining T-money transit + credit card payments ([wowpass.io](https://www.wowpass.io)). You can insert US dollars (cash) directly into WOWPASS kiosks at Incheon Airport and major subway stations to issue a card pre-loaded in KRW.
-- **Seoul Climate Card (기후동행카드):** Seoul Metropolitan Government's unlimited transit pass ([seoul.go.kr](https://www.seoul.go.kr)). Tourist short-term passes available: **1-day (₩5,000)**, **2-day (₩8,000)**, **3-day (₩10,000)**, **5-day (₩15,000)**, and **7-day (₩20,000)**. Covers all Seoul subways and city buses (note: excludes KTX and intercity buses to Busan/Daejeon).
+- **Seoul Climate Card (기후동행카드):** Seoul Metropolitan Government's unlimited transit pass ([seoul.go.kr](https://www.seoul.go.kr)). Short-term passes (prices confirmed against Seoul's own fare table, Aug 18 2026): **1-day ₩5,000 · 2-day ₩8,000 · 3-day ₩10,000 · 5-day ₩15,000 · 7-day ₩20,000**. Short-term passes start the moment you charge them (no post-dating) and do **not** include Ttareungi bikes.
+  - ⚠️ **Do not count on this for the airport run.** The Climate Card covers AREX only between **Gimpo Airport and Seoul Station** — the **Incheon Airport stretch is excluded**, as are all AREX *Express* trains. Coming in from ICN on Oct 31 you need a separate AREX ticket, T-money or the airport bus.
+  - ⚠️ Also excluded: the **Shinbundang Line** (신분당선, the fast route toward Gangnam/Pangyo), GTX, non-Seoul-licensed buses, airport/express (광역) buses, subways outside the Seoul zone, taxis, and KTX/SRT. Since this trip runs to Busan, Daejeon, Gyeongju and beyond, the Climate Card only pays off on heavy Seoul-only days — otherwise plain T-money is the simpler choice.
 - **Subway:** Seoul & Busan both have clean, English-signed subway systems. **Transit apps:** Naver Map (English) and Kakao Map — both better than Google Maps in Korea. 
-- **Taxis:** Kakao T app (English mode) or hailing; base fare ~₩4,800 (Seoul). Pay by card in the app.
+- **Taxis:** Kakao T app (English mode) or hailing; Seoul mid-size base fare **₩4,800** for the first 1.6 km. **Late-night surcharge 22:00–04:00 (up to 40% between 23:00–02:00)**, plus a ~20% surcharge once you leave the city limits — a late taxi back from a fireworks show costs far more than the daytime meter suggests. Pay by card in the app.
 
 ## 3. Between cities (KTX high-speed rail)
 - Book on the **official KORAIL sites**: [letskorail.com](https://www.letskorail.com) (English-friendly KTX booking) or [korailtravel.com](https://www.korailtravel.com) (KORAIL subsidiary — sells the **KR Pass** for foreigners & train tour packages).
-- **Seoul → Busan:** KTX ≈ **2.5 hrs** (~₩59,000 economy, ~$42). Seoul → Daejeon ≈ 50 min (~₩23,000). Seoul → Cheonan ≈ 35–45 min (~₩15,000–18,000). Daejeon ↔ Cheonan ≈ 30–40 min.
+- **Seoul → Busan:** KTX ≈ **2.5 hrs** (**₩59,800** economy / ₩83,700 first class, confirmed Aug 2026; fastest KTX-Cheongryong ~2 hr 17 min). Cheaper alternative: **SRT from Suseo ₩52,600**. Seoul → Daejeon ≈ 50 min (~₩23,000). Seoul → Cheonan ≈ 35–45 min (~₩15,000–18,000). Daejeon ↔ Cheonan ≈ 30–40 min.
 - Trains run frequently; **book 1–2 weeks ahead for Friday–Sunday departures**.
 - Alternative Seoul→Busan: domestic flights Gimpo→Gimhae (~1 hr, ~₩40,000–70,000; budget carriers like Jin Air, T'way, Jeju Air).
 

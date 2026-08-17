@@ -42,7 +42,7 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 5) 🏆 **Korea Grand Music Awards (KGMA 2026)** — ✅ CONFIRMED DATES — Sat–Sun Nov 7–8, 2026
 - **What:** Two-day K-pop awards show, first edition at Gocheok Sky Dome.
 - **When:** **Nov 7–8, 2026**. Lineup and public ticketing were not fully published at review; do not invent a set list.
-- **Official source (reviewed Aug 17):** Organizer announcement (Mar 18, 2026). Re-check [Interpark Global](https://global.interpark.com) and Melon closer to the date.
+- **Official source (reviewed Aug 18):** [KGMA official site](https://kgma-is.com/locales/en/index.html) confirms **Nov 7–8, 2026 at Gocheok Sky Dome**; organizer announcement via Ilgan Sports (Mar 18, 2026). 3rd edition, moved from Inspire Arena to Gocheok for accessibility. Day-1 MCs announced Jun 10 (남지현 · 리센느 원이). Note the KGMA site still carries Inspire Arena shuttle text from the prior edition — **use Gocheok directions, not that shuttle info**.
 
 ### 6) 🏆 **Melon Music Awards (MMA 2026)** — ✅ CONFIRMED DATES — Sat–Sun Nov 14–15, 2026
 - **What:** First two-day MMA, hosted by Kakao Entertainment / Melon at Gocheok Sky Dome.
@@ -61,9 +61,11 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official source (reviewed Aug 17):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136)
 
 ### 9) 🎵 **Jason Mraz — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 14, 2026 · Goyang (KINTEX)
-- **What:** Artist-announced Seoul-area date of the Asia 2026 tour.
-- **Where:** KINTEX, Goyang — not inside Seoul city limits. GTX-A / Line 3 from central Seoul.
-- **Official source (reviewed Aug 17):** [Jason Mraz — Asia 2026 Tour](https://jasonmraz.com/asia-2026-tour/)
+- **What:** The **finale** of Mraz's first Asia tour in 7 years (Manila Oct 27 → Bangkok/KL/Taipei/HK/Tokyo/Osaka → Seoul). Full band with Raining Jane, retrospective set spanning 20 years.
+- **When/where:** **Sat Nov 14, 2026, 19:00**, KINTEX Hall 1, Goyang — not inside Seoul city limits. GTX-A / Line 3 from central Seoul. Ages 7+.
+- **Hours/price:** **All standing** — Standing R ₩165,000 / Standing S ₩154,000. Sold through NOL/Interpark (general sale opened May 14, 2026); promoter AccessX.
+- ⚠️ **Clashes with MMA Day 1** (Nov 14, Gocheok) and the Cafe Show's early 16:00 close the same day — a Nov 14 with any two of these is over-stuffed.
+- **Official sources (reviewed Aug 18):** [NOL/Interpark listing](https://tickets.interpark.com/contents/notice/detail/13649) — date, 19:00, KINTEX Hall 1, price table · [Jason Mraz — Asia 2026 Tour](https://jasonmraz.com/asia-2026-tour/)
 
 ### 10) 🎵 **5 Seconds of Summer — EVERYONE'S A STAR! World Tour in Seoul** — ✅ CONFIRMED — Thu Nov 19, 2026 · Goyang (KINTEX)
 - **What:** The Australian band's **first-ever headline concert in Korea** (they last played here at Pentaport in 2017). Same weekend as G-STAR in Busan.
