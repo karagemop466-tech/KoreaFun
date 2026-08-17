@@ -59,8 +59,9 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 
 ### 8) 🏛️ **Daegu Modern History Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum in a former bank building covering the city’s modern transformation.
-- **Hours/price:** Verify current hours and Monday closure; general admission is free.
-- **Official source (reviewed Aug 17):** [Daegu Modern History Museum](https://daegu.go.kr/dmhm/)
+- **Hours/price:** **FREE. 09:00–18:00 year-round, last entry 17:30. Closed Mondays** (the next day instead if that Monday is a public holiday), Jan 1, Seollal and Chuseok. ☎ 053-430-7910.
+- **Note the building:** it is the former **Joseon Industrial Bank Daegu branch** (1932) — the colonial-era banking hall itself is part of the exhibit, and it sits directly on the Modern Alley walking route (#6), so it costs you nothing but time.
+- **Official source (reviewed Aug 18):** [Daegu Modern History Museum — visitor information](https://www.dmhm.or.kr/dmhm/content.html?md=0194)
 
 ### 9) 🌿 **Gyeongsang-gamyeong Park** — 🔎 VERIFIED PLACE
 - **What:** Park preserving buildings and the site of the former provincial government headquarters.
@@ -176,8 +177,9 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 
 ### 29) 🎨 **Daegu Art Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal modern and contemporary art museum.
-- **Hours/price:** Exhibition-specific; normally closed Monday.
-- **Official source (reviewed Aug 17):** [Daegu Art Museum](https://artmuseum.daegu.go.kr/)
+- **Hours/price:** **₩1,000 adult / ₩700 student; pre-schoolers free.** **Winter (Nov–Mar) 10:00–18:00** (summer to 19:00), **last entry one hour before closing. Closed Mondays.** Special exhibitions are priced separately when they run.
+- **💡 Free every Wednesday** — the museum waives the exhibition fee on Wednesdays, so **Wed Nov 4, 11 and 18** are free days. It's only ₩1,000 anyway, but the Wednesday rule is worth knowing if you're pairing it with something else in Suseong-gu.
+- **Official sources (reviewed Aug 18):** [Daegu Art Museum](https://daeguartmuseum.or.kr/) · [Daegu Tourism listing](https://tour.daegu.go.kr/index.do?menu_id=00002943)
 
 ### 30) 🎬 **Daegu Art Factory and Suchang Youth Mansion** — 🔎 VERIFIED ART CENTERS
 - **What:** Exhibition, residency, performance, and education spaces in reused industrial/residential buildings; entries #3–5 cover confirmed programs.
@@ -207,8 +209,10 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 ### 35) 🎨 **2026 Daegu Art Festival Part 2** — ✅ CONFIRMED — Nov 17–22, 2026 · UPDATED
 - **What:** Second part of the municipal art-festival exhibition block — a large group show filling **Daegu Culture & Arts Center exhibition rooms 6–13** (대구문화예술회관 6~13전시실). Re-checked Aug 17: the venue and room numbers are confirmed on the Daegu Foundation for Culture & Arts listing.
 - **When:** **Nov 17–22, 2026** — a short six-day run landing in your final week.
-- **Status:** Gallery hours and any admission were not stated on the listing; confirm before travelling across town.
-- **Official source (reviewed Aug 17):** [Daegu Foundation for Culture & Arts event search](https://dgfca.or.kr/event/search/list)
+- **Hours (venue, Aug 18):** **your trip is the winter schedule — 10:00–18:00, and the exhibition halls stop admitting 15 minutes before closing. Closed Mondays.** Within the run, **Mon Nov 16 is not applicable (the show opens Tue Nov 17)**, so the six days are continuous.
+- **⚠️ Sundays close early.** The Arts Center de-installs on Sundays, so winter Sunday viewing ends at **16:00**, not 18:00. That affects **Sun Nov 22 — your departure day** — on top of the flight timing.
+- **Price:** The Culture & Arts Center's own exhibition halls are normally **free**; a municipal festival group show of this type does not usually charge. Not stated on the listing, so treat a small fee as possible.
+- **Official sources (reviewed Aug 18):** [Daegu Culture & Arts Center — gallery hours and closures](https://daeguartscenter.or.kr/index.do?menu_id=00001546) · [Daegu Foundation for Culture & Arts event search](https://dgfca.or.kr/event/search/list) *(client-rendered; the venue page is the reliable one)*
 
 ---
 

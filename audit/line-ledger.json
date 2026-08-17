@@ -3022,15 +3022,44 @@
   "text": "- **What:** Archaeology and cultural history of Daegu and the Yeongnam region.",
   "verdict": "unchecked"
  },
+ "daegu.md#29:177ee2f110": {
+  "checked_on": "2026-08-17",
+  "entry": 29,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Daegu Art Museum: 'exhibition-specific' resolved -> W1,000 adult / W700 student, pre-schoolers free. WINTER Nov-Mar 10:00-18:00 (summer to 19:00), last entry 1 hour before close, closed Mon. FREE EVERY WEDNESDAY = Nov 4, 11, 18 in this trip. Special exhibitions priced separately.",
+  "sources": [
+   "https://daeguartmuseum.or.kr/",
+   "https://tour.daegu.go.kr/index.do?menu_id=00002943"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Art Museum](https://daeguartmuseum.or.kr/) · [Daegu Tourism listing](https://tour.daegu.go.kr/index.do?menu_id=00002943)",
+  "verdict": "sourced"
+ },
+ "daegu.md#29:222762dc40": {
+  "checked_on": "2026-08-17",
+  "entry": 29,
+  "file": "daegu.md",
+  "kind": "PRICE",
+  "note": "Daegu Art Museum: 'exhibition-specific' resolved -> W1,000 adult / W700 student, pre-schoolers free. WINTER Nov-Mar 10:00-18:00 (summer to 19:00), last entry 1 hour before close, closed Mon. FREE EVERY WEDNESDAY = Nov 4, 11, 18 in this trip. Special exhibitions priced separately.",
+  "sources": [
+   "https://daeguartmuseum.or.kr/",
+   "https://tour.daegu.go.kr/index.do?menu_id=00002943"
+  ],
+  "text": "- **Hours/price:** **₩1,000 adult / ₩700 student; pre-schoolers free.** **Winter (Nov–Mar) 10:00–18:00** (summer to 19:00), **last entry one hour before closing. Closed Mondays.** Special exhibitions are priced separately when they run.",
+  "verdict": "verified"
+ },
  "daegu.md#29:3701915156": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 29,
   "file": "daegu.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Daegu Art Museum: 'exhibition-specific' resolved -> W1,000 adult / W700 student, pre-schoolers free. WINTER Nov-Mar 10:00-18:00 (summer to 19:00), last entry 1 hour before close, closed Mon. FREE EVERY WEDNESDAY = Nov 4, 11, 18 in this trip. Special exhibitions priced separately.",
+  "sources": [
+   "https://daeguartmuseum.or.kr/",
+   "https://tour.daegu.go.kr/index.do?menu_id=00002943"
+  ],
   "text": "- **What:** Municipal modern and contemporary art museum.",
-  "verdict": "unchecked"
+  "verdict": "prose"
  },
  "daegu.md#29:5af520c16e": {
   "checked_on": null,
@@ -3038,9 +3067,23 @@
   "file": "daegu.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Exhibition-specific; normally closed Monday.",
   "verdict": "unchecked"
+ },
+ "daegu.md#29:84746787b6": {
+  "checked_on": "2026-08-17",
+  "entry": 29,
+  "file": "daegu.md",
+  "kind": "PRICE",
+  "note": "Daegu Art Museum: 'exhibition-specific' resolved -> W1,000 adult / W700 student, pre-schoolers free. WINTER Nov-Mar 10:00-18:00 (summer to 19:00), last entry 1 hour before close, closed Mon. FREE EVERY WEDNESDAY = Nov 4, 11, 18 in this trip. Special exhibitions priced separately.",
+  "sources": [
+   "https://daeguartmuseum.or.kr/",
+   "https://tour.daegu.go.kr/index.do?menu_id=00002943"
+  ],
+  "text": "- **💡 Free every Wednesday** — the museum waives the exhibition fee on Wednesdays, so **Wed Nov 4, 11 and 18** are free days. It's only ₩1,000 anyway, but the Wednesday rule is worth knowing if you're pairing it with something else in Suseong-gu.",
+  "verdict": "verified"
  },
  "daegu.md#29:8adc735c5a": {
   "checked_on": null,
@@ -3048,6 +3091,7 @@
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Daegu Art Museum](https://artmuseum.daegu.go.kr/)",
   "verdict": "unchecked"
@@ -3254,15 +3298,44 @@
   "text": "- **Status:** Verify any trip-window fixture and ticket link in the K League match center.",
   "verdict": "unchecked"
  },
+ "daegu.md#35:1fbfd9a9ea": {
+  "checked_on": "2026-08-17",
+  "entry": 35,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Daegu Art Festival Part 2: hours hedge resolved from the VENUE (dgfca.or.kr is client-rendered and unreliable). Winter 10:00-18:00, halls stop admitting 15 min before close, closed Mondays. Nov 16 Monday is moot since the show opens Tue Nov 17, so the 6-day run is continuous. IMPORTANT: Sundays the Arts Center de-installs, so winter Sunday viewing ends 16:00 - affects Sun Nov 22, the departure day. Price not stated on the listing; Arts Center halls are normally free, flagged a small fee as possible rather than asserting free. NOTE: Daegu is NOT in itinerary.md, so this is an optional-entry caveat, not a plan-breaker.",
+  "sources": [
+   "https://daeguartscenter.or.kr/index.do?menu_id=00001546",
+   "https://dgfca.or.kr/event/search/list"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Culture & Arts Center — gallery hours and closures](https://daeguartscenter.or.kr/index.do?menu_id=00001546) · [Daegu Foundation for Culture & Arts event search](https://dgfca.or.kr/event/search/list) *(client-rendered; the venue page is the reliable one)*",
+  "verdict": "sourced"
+ },
+ "daegu.md#35:4b07923f03": {
+  "checked_on": "2026-08-17",
+  "entry": 35,
+  "file": "daegu.md",
+  "kind": "ACCESS",
+  "note": "Daegu Art Festival Part 2: hours hedge resolved from the VENUE (dgfca.or.kr is client-rendered and unreliable). Winter 10:00-18:00, halls stop admitting 15 min before close, closed Mondays. Nov 16 Monday is moot since the show opens Tue Nov 17, so the 6-day run is continuous. IMPORTANT: Sundays the Arts Center de-installs, so winter Sunday viewing ends 16:00 - affects Sun Nov 22, the departure day. Price not stated on the listing; Arts Center halls are normally free, flagged a small fee as possible rather than asserting free. NOTE: Daegu is NOT in itinerary.md, so this is an optional-entry caveat, not a plan-breaker.",
+  "sources": [
+   "https://daeguartscenter.or.kr/index.do?menu_id=00001546",
+   "https://dgfca.or.kr/event/search/list"
+  ],
+  "text": "- **Price:** The Culture & Arts Center's own exhibition halls are normally **free**; a municipal festival group show of this type does not usually charge. Not stated on the listing, so treat a small fee as possible.",
+  "verdict": "verified"
+ },
  "daegu.md#35:52036d7e7e": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 35,
   "file": "daegu.md",
   "kind": "DATE",
-  "note": "",
-  "sources": [],
+  "note": "Daegu Art Festival Part 2: hours hedge resolved from the VENUE (dgfca.or.kr is client-rendered and unreliable). Winter 10:00-18:00, halls stop admitting 15 min before close, closed Mondays. Nov 16 Monday is moot since the show opens Tue Nov 17, so the 6-day run is continuous. IMPORTANT: Sundays the Arts Center de-installs, so winter Sunday viewing ends 16:00 - affects Sun Nov 22, the departure day. Price not stated on the listing; Arts Center halls are normally free, flagged a small fee as possible rather than asserting free. NOTE: Daegu is NOT in itinerary.md, so this is an optional-entry caveat, not a plan-breaker.",
+  "sources": [
+   "https://daeguartscenter.or.kr/index.do?menu_id=00001546",
+   "https://dgfca.or.kr/event/search/list"
+  ],
   "text": "- **When:** **Nov 17–22, 2026** — a short six-day run landing in your final week.",
-  "verdict": "unchecked"
+  "verdict": "verified"
  },
  "daegu.md#35:680dbd4701": {
   "checked_on": null,
@@ -3270,19 +3343,49 @@
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Daegu Foundation for Culture & Arts event search](https://dgfca.or.kr/event/search/list)",
   "verdict": "unchecked"
  },
  "daegu.md#35:882a8812d2": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 35,
   "file": "daegu.md",
   "kind": "DATE",
-  "note": "",
-  "sources": [],
+  "note": "Daegu Art Festival Part 2: hours hedge resolved from the VENUE (dgfca.or.kr is client-rendered and unreliable). Winter 10:00-18:00, halls stop admitting 15 min before close, closed Mondays. Nov 16 Monday is moot since the show opens Tue Nov 17, so the 6-day run is continuous. IMPORTANT: Sundays the Arts Center de-installs, so winter Sunday viewing ends 16:00 - affects Sun Nov 22, the departure day. Price not stated on the listing; Arts Center halls are normally free, flagged a small fee as possible rather than asserting free. NOTE: Daegu is NOT in itinerary.md, so this is an optional-entry caveat, not a plan-breaker.",
+  "sources": [
+   "https://daeguartscenter.or.kr/index.do?menu_id=00001546",
+   "https://dgfca.or.kr/event/search/list"
+  ],
   "text": "- **What:** Second part of the municipal art-festival exhibition block — a large group show filling **Daegu Culture & Arts Center exhibition rooms 6–13** (대구문화예술회관 6~13전시실). Re-checked Aug 17: the venue and room numbers are confirmed on the Daegu Foundation for Culture & Arts listing.",
-  "verdict": "unchecked"
+  "verdict": "verified"
+ },
+ "daegu.md#35:bb52639c11": {
+  "checked_on": "2026-08-17",
+  "entry": 35,
+  "file": "daegu.md",
+  "kind": "TIME",
+  "note": "Daegu Art Festival Part 2: hours hedge resolved from the VENUE (dgfca.or.kr is client-rendered and unreliable). Winter 10:00-18:00, halls stop admitting 15 min before close, closed Mondays. Nov 16 Monday is moot since the show opens Tue Nov 17, so the 6-day run is continuous. IMPORTANT: Sundays the Arts Center de-installs, so winter Sunday viewing ends 16:00 - affects Sun Nov 22, the departure day. Price not stated on the listing; Arts Center halls are normally free, flagged a small fee as possible rather than asserting free. NOTE: Daegu is NOT in itinerary.md, so this is an optional-entry caveat, not a plan-breaker.",
+  "sources": [
+   "https://daeguartscenter.or.kr/index.do?menu_id=00001546",
+   "https://dgfca.or.kr/event/search/list"
+  ],
+  "text": "- **Hours (venue, Aug 18):** **your trip is the winter schedule — 10:00–18:00, and the exhibition halls stop admitting 15 minutes before closing. Closed Mondays.** Within the run, **Mon Nov 16 is not applicable (the show opens Tue Nov 17)**, so the six days are continuous.",
+  "verdict": "verified"
+ },
+ "daegu.md#35:cd11e566c5": {
+  "checked_on": "2026-08-17",
+  "entry": 35,
+  "file": "daegu.md",
+  "kind": "TIME",
+  "note": "Daegu Art Festival Part 2: hours hedge resolved from the VENUE (dgfca.or.kr is client-rendered and unreliable). Winter 10:00-18:00, halls stop admitting 15 min before close, closed Mondays. Nov 16 Monday is moot since the show opens Tue Nov 17, so the 6-day run is continuous. IMPORTANT: Sundays the Arts Center de-installs, so winter Sunday viewing ends 16:00 - affects Sun Nov 22, the departure day. Price not stated on the listing; Arts Center halls are normally free, flagged a small fee as possible rather than asserting free. NOTE: Daegu is NOT in itinerary.md, so this is an optional-entry caveat, not a plan-breaker.",
+  "sources": [
+   "https://daeguartscenter.or.kr/index.do?menu_id=00001546",
+   "https://dgfca.or.kr/event/search/list"
+  ],
+  "text": "- **⚠️ Sundays close early.** The Arts Center de-installs on Sundays, so winter Sunday viewing ends at **16:00**, not 18:00. That affects **Sun Nov 22 — your departure day** — on top of the flight timing.",
+  "verdict": "verified"
  },
  "daegu.md#35:f6bda2b7a8": {
   "checked_on": null,
@@ -3290,6 +3393,7 @@
   "file": "daegu.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Status:** Gallery hours and any admission were not stated on the listing; confirm before travelling across town.",
   "verdict": "unchecked"
@@ -3515,12 +3619,25 @@
   "text": "- **Access:** Active religious site; sightseeing is restricted during services.",
   "verdict": "unchecked"
  },
+ "daegu.md#8:3a67767050": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "daegu.md",
+  "kind": "PROSE",
+  "note": "Daegu Modern History Museum: FREE, 09:00-18:00 year-round, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok, tel 053-430-7910. Building is the 1932 Joseon Industrial Bank Daegu branch and sits on the Modern Alley route (#6). Switched source from daegu.go.kr/dmhm to the museum's own dmhm.or.kr visitor page.",
+  "sources": [
+   "https://www.dmhm.or.kr/dmhm/content.html?md=0194"
+  ],
+  "text": "- **Note the building:** it is the former **Joseon Industrial Bank Daegu branch** (1932) — the colonial-era banking hall itself is part of the exhibit, and it sits directly on the Modern Alley walking route (#6), so it costs you nothing but time.",
+  "verdict": "prose"
+ },
  "daegu.md#8:40303c2e20": {
   "checked_on": null,
   "entry": 8,
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Daegu Modern History Museum](https://daegu.go.kr/dmhm/)",
   "verdict": "unchecked"
@@ -3531,19 +3648,46 @@
   "file": "daegu.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Verify current hours and Monday closure; general admission is free.",
   "verdict": "unchecked"
  },
+ "daegu.md#8:b174ed1be0": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "daegu.md",
+  "kind": "TIME",
+  "note": "Daegu Modern History Museum: FREE, 09:00-18:00 year-round, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok, tel 053-430-7910. Building is the 1932 Joseon Industrial Bank Daegu branch and sits on the Modern Alley route (#6). Switched source from daegu.go.kr/dmhm to the museum's own dmhm.or.kr visitor page.",
+  "sources": [
+   "https://www.dmhm.or.kr/dmhm/content.html?md=0194"
+  ],
+  "text": "- **Hours/price:** **FREE. 09:00–18:00 year-round, last entry 17:30. Closed Mondays** (the next day instead if that Monday is a public holiday), Jan 1, Seollal and Chuseok. ☎ 053-430-7910.",
+  "verdict": "verified"
+ },
  "daegu.md#8:d67f4d9fa8": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 8,
   "file": "daegu.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Daegu Modern History Museum: FREE, 09:00-18:00 year-round, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok, tel 053-430-7910. Building is the 1932 Joseon Industrial Bank Daegu branch and sits on the Modern Alley route (#6). Switched source from daegu.go.kr/dmhm to the museum's own dmhm.or.kr visitor page.",
+  "sources": [
+   "https://www.dmhm.or.kr/dmhm/content.html?md=0194"
+  ],
   "text": "- **What:** Museum in a former bank building covering the city’s modern transformation.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "daegu.md#8:fd5a721501": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Daegu Modern History Museum: FREE, 09:00-18:00 year-round, last entry 17:30, closed Mon (next day if holiday) + Jan1/Seollal/Chuseok, tel 053-430-7910. Building is the 1932 Joseon Industrial Bank Daegu branch and sits on the Modern Alley route (#6). Switched source from daegu.go.kr/dmhm to the museum's own dmhm.or.kr visitor page.",
+  "sources": [
+   "https://www.dmhm.or.kr/dmhm/content.html?md=0194"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Daegu Modern History Museum — visitor information](https://www.dmhm.or.kr/dmhm/content.html?md=0194)",
+  "verdict": "sourced"
  },
  "daegu.md#9:4002214bd5": {
   "checked_on": null,
