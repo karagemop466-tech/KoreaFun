@@ -417,8 +417,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official sources (reviewed Aug 17):** [seoulelandfc.com match schedule](https://www.seoulelandfc.com/match/schedule) · [kleague.com](https://www.kleague.com/schedule.do)
 
 ### 79) ⚽ **FC Seoul — K League 1 final rounds** — 👀 WATCH
-- **What:** Final-round home matches at Seoul World Cup Stadium, if the October draw places them in the trip window.
-- **Official sources (reviewed Aug 17):** [kleague.com](https://www.kleague.com) · [fcseoul.com](https://www.fcseoul.com)
+- **What:** Final-round home matches at **Seoul World Cup Stadium**. K League 1's last five rounds run **Oct 31–Dec 6, 2026** and are only scheduled once the 33-round regular phase ends on **Oct 25** — each club gets **2–3 home games** in that span, so FC Seoul will probably host during your trip, but no date can be confirmed until the league's late-October announcement.
+- **Note:** this is a different club and stadium from **Seoul E-Land** (entry 78), who are in K League 2 at Mokdong and whose fixtures *are* already confirmed for Nov 7 and Nov 22.
+- **Official sources (reviewed Aug 18):** [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do) · [fcseoul.com](https://www.fcseoul.com)
 
 ### 80) 🏀 **KBL — Seoul SK Knights / Samsung Thunders** — ✅ SEASON CONFIRMED — league running all trip
 - **What:** Men’s professional basketball. **Important venue change: Jamsil Indoor Gymnasium was demolished (work began March 2026 after 47 years), so for 2026–27 both Seoul SK and Seoul Samsung share Jamsil Students’ Gymnasium (잠실학생체육관).** Any older guide that sends you to the Indoor Gymnasium is out of date.

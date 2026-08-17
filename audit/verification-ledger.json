@@ -1727,14 +1727,17 @@
  },
  "daejeon-cheonan.md#6": {
   "badge": "👀",
-  "body_hash": "3bb0d9aea9",
-  "checked_on": null,
+  "body_hash": "f52cab72d9",
+  "checked_on": "2026-08-18",
   "file": "daejeon-cheonan.md",
-  "note": "",
+  "note": "Same K League 1 final-round rule; entry now states the Oct 31-Dec 6 window and 2-3 home game allocation rather than a vague 'if the draw lands'.",
   "num": 6,
-  "sources": [],
+  "sources": [
+   "https://www.kleague.com/about/competition.do",
+   "https://www.dhcfc.kr"
+  ],
   "title": "⚽ Daejeon Hana Citizen",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "daejeon-cheonan.md#7": {
   "badge": "👀",
@@ -2967,14 +2970,17 @@
  },
  "jeonju.md#36": {
   "badge": "⏳",
-  "body_hash": "d45e18dec7",
-  "checked_on": null,
+  "body_hash": "71621b9a4a",
+  "checked_on": "2026-08-18",
   "file": "jeonju.md",
-  "note": "",
+  "note": "Same K League 1 final-round rule applied. Added Jeonju World Cup Stadium 전주성 location note (far from Hanok Village) and warning not to assume non-matchday stadium tours.",
   "num": 36,
-  "sources": [],
-  "title": "⚽ Jeonbuk Hyundai Motors and Jeonju World Cup Stadium",
-  "verdict": "unchecked"
+  "sources": [
+   "https://www.kleague.com/about/competition.do",
+   "https://hyundai-motorsfc.com"
+  ],
+  "title": "⚽ Jeonbuk Hyundai Motors",
+  "verdict": "corrected"
  },
  "jeonju.md#4": {
   "badge": "✅",
@@ -3633,14 +3639,17 @@
  },
  "pohang.md#25": {
   "badge": "⏳",
-  "body_hash": "71786ed529",
-  "checked_on": null,
+  "body_hash": "6dc7f72932",
+  "checked_on": "2026-08-18",
   "file": "pohang.md",
-  "note": "",
+  "note": "KEY STRUCTURAL FIND: K League 1 2026 = 33-round regular phase to Oct 25, then Final Round 34-38 played Oct 31-Dec 6, fixtures drawn ONLY after Oct 25. So NO Nov date exists yet for any K1 club. Each club gets 2-3 home games in a window spanning the whole trip. Entry now explains why no date is the correct answer.",
   "num": 25,
-  "sources": [],
+  "sources": [
+   "https://www.kleague.com/about/competition.do",
+   "https://www.steelers.co.kr/"
+  ],
   "title": "⚽ Pohang Steelers",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "pohang.md#26": {
   "badge": "🔎",
@@ -4688,14 +4697,17 @@
  },
  "seoul.md#79": {
   "badge": "K",
-  "body_hash": "13183b39a8",
-  "checked_on": null,
+  "body_hash": "d04d80c679",
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Same rule + explicit disambiguation from Seoul E-Land (#78, K League 2, Mokdong, fixtures ALREADY confirmed Nov 7/22). Easy for a reader to conflate the two Seoul clubs.",
   "num": 79,
-  "sources": [],
+  "sources": [
+   "https://www.kleague.com/about/competition.do",
+   "https://www.fcseoul.com"
+  ],
   "title": "⚽ FC Seoul",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "seoul.md#8": {
   "badge": "SJ",
@@ -5509,14 +5521,17 @@
  },
  "ulsan.md#28": {
   "badge": "⏳",
-  "body_hash": "d2ebeb6f44",
-  "checked_on": null,
+  "body_hash": "351cac07ba",
+  "checked_on": "2026-08-18",
   "file": "ulsan.md",
-  "note": "",
+  "note": "Same rule. Added Ulsan Hyundai -> Ulsan HD rename (uhfc.tv squatted) and the East Coast Derby vs Pohang as a bonus if the draw lands well.",
   "num": 28,
-  "sources": [],
+  "sources": [
+   "https://www.kleague.com/about/competition.do",
+   "https://www.uhdfc.com"
+  ],
   "title": "⚽ Ulsan HD FC",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "ulsan.md#29": {
   "badge": "⏳",
@@ -5555,14 +5570,17 @@
  },
  "ulsan.md#31": {
   "badge": "\"L",
-  "body_hash": "f736f7376c",
-  "checked_on": null,
+  "body_hash": "a69d20d63b",
+  "checked_on": "2026-08-18",
   "file": "ulsan.md",
-  "note": "",
+  "note": "Ulsan Phil 254th Nov 13 CONFIRMED via city culture portal (ucac site is client-rendered/empty). Added 19:30-21:15 runtime, Grand Theater address, elementary+ age rating, 052-275-9623, orchestra founded 1990.",
   "num": 31,
-  "sources": [],
+  "sources": [
+   "https://www.ulsanculture.kr/webuser/exhibit/",
+   "https://www.ulsan.go.kr/ucac/art/main.do"
+  ],
   "title": "🎻 Ulsan Philharmonic 254th Subscription Concert",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "ulsan.md#4": {
   "badge": "🔎",

@@ -218,10 +218,12 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 - **Hours/price:** Business-specific; typically an evening activity.
 - **Official source (reviewed Aug 17):** [Visit Jeonju food directory](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000203000000000)
 
-### 36) ⚽ **Jeonbuk Hyundai Motors and Jeonju World Cup Stadium** — ⏳ CHECK OFFICIAL FIXTURES
-- **What:** K League club and 2002 World Cup venue in northern Jeonju.
-- **Status:** Check the K League match center for any confirmed trip-window home match; do not treat stadium access as a daily tour without an operator notice.
-- **Official sources (reviewed Aug 17):** [Jeonbuk Hyundai Motors](https://hyundai-motorsfc.com) · [K League](https://www.kleague.com)
+### 36) ⚽ **Jeonbuk Hyundai Motors — Jeonju World Cup Stadium** — ⏳ FIXTURES NOT PUBLISHED UNTIL LATE OCTOBER · UPDATED
+- **What:** Korea's most successful club of the modern era, playing **K League 1** at **Jeonju World Cup Stadium (전주월드컵경기장, "전주성")** — a 2002 World Cup venue in the north of the city, well away from the Hanok Village.
+- **⚠️ Same situation as every K League 1 club — the November fixtures don't exist yet.** The league runs a **33-round regular phase to Oct 25, 2026**, then splits into a **Final Round (34–38) played Oct 31–Dec 6**. Those five fixtures are only drawn once the regular season ends, so at review there was **no published Jeonbuk home date** inside your window. Treat any site claiming otherwise as unreliable.
+- **What you can rely on:** the final-round window **spans your whole trip**, and each club gets **2–3 home games** in it, so a Jeonju home match during your stay is likely — just not yet schedulable. The league publishes the whole list in one announcement in late October; book through the club afterwards.
+- **⚠️ Stadium tours:** don't assume the ground is open to walk around on non-match days. There was no operator notice offering daily tours at review.
+- **Official sources (reviewed Aug 18):** [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do) — Oct 31–Dec 6 final round, 2–3 home games per club · [Jeonbuk Hyundai Motors](https://hyundai-motorsfc.com) · [K League](https://www.kleague.com)
 
 ---
 

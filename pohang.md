@@ -144,10 +144,12 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ## Sport and science
 
-### 25) ⚽ **Pohang Steelers** — ⏳ CHECK OFFICIAL FIXTURES
-- **What:** K League football club playing at Pohang Steel Yard—not a semiprofessional baseball team.
-- **Status:** Verify trip-window home fixtures through the league match center.
-- **Official sources (reviewed Aug 17):** [Pohang Steelers](https://www.steelers.co.kr/) · [K League](https://www.kleague.com/)
+### 25) ⚽ **Pohang Steelers** — ⏳ FIXTURES NOT PUBLISHED UNTIL LATE OCTOBER — games are certain, dates aren't · UPDATED
+- **What:** One of Asian football's most decorated clubs, playing **K League 1** at **Pohang Steel Yard** — Korea's first purpose-built football stadium, refurbished during 2026. (Not a baseball team; an earlier version of this guide had the sport wrong.)
+- **⚠️ Why no dates here — and why that's the correct answer.** The K League 1 competition regulations split the season: a **33-round regular phase ending Oct 25, 2026**, then a **Final Round (rounds 34–38) from Oct 31 to Dec 6**, in which the top six and bottom six each play five more games. **The final-round fixture list can only be drawn up once the regular season finishes**, so as of review the November dates and venues genuinely did not exist yet — for any club. Anyone publishing specific Pohang November fixtures right now is guessing.
+- **What you can rely on:** the final round **covers your entire trip** (Oct 31–Nov 22 sits inside Oct 31–Dec 6), and each club is allocated **2–3 home games** across those five rounds. So Pohang will almost certainly host **at least one match while you're in Korea** — you just can't know which day until the league publishes, typically within days of the Oct 25 cut-off.
+- **How to check:** the league announces the full final-round schedule in a single press release in late October. Watch the K League site, then book through the club.
+- **Official sources (reviewed Aug 18):** [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do) — states the Oct 31–Dec 6 final-round window and the 2–3 home-game allocation · [Pohang Steelers](https://www.steelers.co.kr/) · [K League](https://www.kleague.com/)
 
 ### 26) 🏟️ **Pohang Steel Yard** — 🔎 VERIFIED STADIUM
 - **What:** Purpose-built football stadium associated with the Steelers.

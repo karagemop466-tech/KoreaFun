@@ -43,8 +43,8 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official source (reviewed Aug 17):** [oworld.kr](https://www.oworld.kr)
 
 ### 6) ⚽ **Daejeon Hana Citizen** — 👀 WATCH
-- **What:** K League 1 final-round home matches at Daejeon World Cup Stadium, if the October draw lands in the window.
-- **Official sources (reviewed Aug 17):** [kleague.com](https://www.kleague.com) · [dhcfc.kr](https://www.dhcfc.kr)
+- **What:** K League 1 final-round home matches at **Daejeon World Cup Stadium**. The last five rounds run **Oct 31–Dec 6, 2026** and are drawn only after the regular phase ends **Oct 25**; each club receives **2–3 home games** in that window. A Daejeon home match during your stay is plausible but unschedulable until the league publishes in late October.
+- **Official sources (reviewed Aug 18):** [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do) · [dhcfc.kr](https://www.dhcfc.kr)
 
 ### 7) ⚾ **Hanwha Eagles postseason** — 👀 WATCH
 - **What:** Only relevant if Hanwha is still playing in early November at Hanwha Life Ballpark.

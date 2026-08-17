@@ -159,10 +159,12 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 - **Hours/price:** Restaurant-specific; choose from the official food directory.
 - **Official source (reviewed Aug 17):** [Ulju Tourism](https://tour.ulju.ulsan.kr/)
 
-### 28) ⚽ **Ulsan HD FC** — ⏳ CHECK OFFICIAL FIXTURES
-- **What:** Professional football club at Ulsan Munsu Football Stadium.
+### 28) ⚽ **Ulsan HD FC** — ⏳ FIXTURES NOT PUBLISHED UNTIL LATE OCTOBER · UPDATED
+- **What:** Recent K League 1 champions, playing at **Ulsan Munsu Football Stadium (울산문수축구경기장)**. The club was renamed from Ulsan Hyundai to **Ulsan HD** — older guides and the squatted `uhfc.tv` domain use the former name.
+- **⚠️ November dates don't exist yet.** K League 1 plays a 33-round regular phase to **Oct 25, 2026**, then a **Final Round (34–38) from Oct 31 to Dec 6** whose fixtures are only drawn after the regular season ends. Each club gets **2–3 home games** in that window, which spans your entire trip — so a Munsu home match is likely, but the date is unknowable until the league's late-October announcement. See `pohang.md` #25 for the full explanation.
+- **Bonus if the draw is kind:** an Ulsan–Pohang **East Coast Derby (동해안 더비)** is one of the best atmospheres in Korean football, and both cities are on your route.
 - **Status:** Verify any trip-window home match through the K League match center.
-- **Official sources (reviewed Aug 17):** [Ulsan HD](https://www.uhdfc.com) · [K League](https://www.kleague.com/)
+- **Official sources (reviewed Aug 18):** [Ulsan HD](https://www.uhdfc.com) · [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do)
 
 ### 29) 🏀 **Ulsan Hyundai Mobis Phoebus** — ⏳ CHECK OFFICIAL FIXTURES
 - **What:** KBL basketball club based in Ulsan.
@@ -182,8 +184,11 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ### 31) 🎻 **Ulsan Philharmonic 254th Subscription Concert — "Light of the Classical and the Romantic"** — ✅ CONFIRMED — Fri Nov 13, 2026 · NEW
 - **What:** The city orchestra's 254th regular subscription concert, programmed around classical and romantic repertoire. A cheap, low-friction evening if you're in Ulsan mid-trip — no Korean needed to enjoy it.
-- **Where/when:** **Fri Nov 13, 2026**, Ulsan Culture & Arts Center **Grand Theater (대공연장)**. Tickets went on sale May 28, 2026 — book ahead rather than at the door.
-- **Official source (reviewed Aug 17):** [Ulsan Culture & Arts Center calendar](https://www.ulsan.go.kr/ucac/art/main.do)
+- **Where/when:** **Fri Nov 13, 2026**, Ulsan Culture & Arts Center **Grand Theater (대공연장)**, 200 Beonyeong-ro, Nam-gu. The orchestra's subscription concerts in this hall run **19:30–21:15** (~105 min). Tickets went on sale May 28, 2026 — book ahead rather than at the door.
+- **Price/admission:** Paid (tiers on the booking notice); **elementary-school age and up**. Enquiries **052-275-9623**.
+- **Context:** the Ulsan Symphony Orchestra was founded in 1990 and this hall is its home stage — a straightforward, low-cost classical evening that needs no Korean.
+- **⚠️ Note on the venue site:** `ulsan.go.kr/ucac/art/main.do` is client-rendered and often returns an empty shell. The listing is reachable via the city's culture portal instead.
+- **Official sources (reviewed Aug 18):** [Ulsan culture portal — orchestra subscription listing](https://www.ulsanculture.kr/webuser/exhibit/) — gives 19:30 start, Grand Theater, 052-275-9623 · [Ulsan Culture & Arts Center](https://www.ulsan.go.kr/ucac/art/main.do)
 
 ---
 
