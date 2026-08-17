@@ -1775,13 +1775,15 @@
  "gyeongju.md#1": {
   "badge": "✅",
   "body_hash": "cc1158f25a",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "gyeongju.md",
-  "note": "",
+  "note": "The Gyeongju;경주연대기 2025-12-02~2026-12-31, 갤러리스페이스Ⅰ(4F), 10:00-18:00 last entry 17:30, FREE - exact match on foundation listing.",
   "num": 1,
-  "sources": [],
+  "sources": [
+   "https://garts.kr/index.do?menuId=00000260"
+  ],
   "title": "🖼️ The Gyeongju: Gyeongju Chronicle",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "gyeongju.md#10": {
   "badge": "🔎",
@@ -1895,14 +1897,16 @@
  },
  "gyeongju.md#2": {
   "badge": "✅",
-  "body_hash": "77d983bdee",
-  "checked_on": null,
+  "body_hash": "ae68183e90",
+  "checked_on": "2026-08-18",
   "file": "gyeongju.md",
-  "note": "",
+  "note": "2026 전시공간지원프로젝트 공유 Mar 24-Dec 13, 갤러리달(B1), 10:00-18:00, free - confirmed exactly. ADDED: gallery-by-gallery pricing warning (Gallery Hae shows are TICKETED, e.g. W10,000/7,000/5,000 한수원 special) and that the weekend shuttle bus ended Oct 18, before the trip.",
   "num": 2,
-  "sources": [],
+  "sources": [
+   "https://garts.kr/index.do?menuId=00000260"
+  ],
   "title": "🎨 2026 Gongyu exhibition-space support project",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "gyeongju.md#20": {
   "badge": "🔎",
@@ -2985,13 +2989,15 @@
  "jeonju.md#4": {
   "badge": "✅",
   "body_hash": "e01b8604ec",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "jeonju.md",
-  "note": "",
+  "note": "도량으로의 귀환, 전주 서고사 나한(가제) 2026.09.16~2026.11.29, 국립전주박물관 기획전시실 - exact match incl. the 가제 provisional-title marker the entry already flags. Museum text confirms Seogosa is a branch temple of Geumsansa.",
   "num": 4,
-  "sources": [],
+  "sources": [
+   "https://jeonju.museum.go.kr/special.es?mid=a10201010000&seq=1711&act=view"
+  ],
   "title": "🧘 Return to the Ritual Hall: The Nahan (Arhat) Statues of Jeonju Seogosa",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "jeonju.md#5": {
   "badge": "🔎",

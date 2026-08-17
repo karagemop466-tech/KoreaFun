@@ -21,8 +21,10 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 
 ### 2) 🎨 **2026 Gongyu exhibition-space support project** — ✅ CONFIRMED SERIES — through Dec 13, 2026 · NEW
 - **What:** Rotating solo shows by regional artists, one after another, in Alcheon Museum's **Gallery Dal (갤러리달, B1)**. Each artist gets roughly a two-week slot, so what's hanging depends entirely on your date.
-- **When:** Foundation program runs **Mar 24–Dec 13, 2026**; check the listing for the specific artist installed during your visit.
+- **When:** Foundation program runs **Mar 24–Dec 13, 2026**; check the listing for the specific artist installed during your visit. (As an example of the rhythm, the August slot was 양윤정 《낙원-정원》, Aug 11–23.)
 - **Price/hours:** **Free, 10:00–18:00** — confirmed on the foundation's current-exhibition listing.
+- **Worth knowing before you go:** Alcheon Museum sits inside **Gyeongju Arts Center**, which runs several galleries at once. Anything in **Gallery Dal (B1)**, **Gallery Space I (4F)** and the outdoor areas is normally free, while headline shows in **Gallery Hae (4F)** are ticketed — the 2026 한수원 art festival special exhibition there charged **₩10,000 adult / ₩7,000 child-teen / ₩5,000 Gyeongju residents**. Check which gallery a show is in before assuming it's free.
+- **⚠️ The museum's weekend shuttle bus (순환버스) ran Aug 13–Oct 18, 2026 — it had finished before your trip**, so plan on your own transport.
 - **Official source (reviewed Aug 17):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260)
 
 ### 3) 🪨 **Reunited After 83 Years: Stele Fragments Found at Gyeongju Wolseong** — ✅ CONFIRMED — through Dec 31, 2026 · NEW
