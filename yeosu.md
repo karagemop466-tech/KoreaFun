@@ -98,7 +98,8 @@ Yeosu is the south-coast terminus of direct KTX trains from Yongsan. This file w
 
 ### 14) 🖼️ **Yeosu iMuseum** — 🔎 VERIFIED PLACE · NEW
 - **What:** Immersive digital-media art attraction in International Pavilion D at the Expo site.
-- **Hours:** City listing says 10:00–19:00 year-round; verify before travel.
+- **Hours:** **10:00–19:00 year-round** per the city's tourism listing. It sits in **International Pavilion D on the 2012 Expo site**, so it pairs naturally with the Expo-grounds waterfront (#11) and, until Nov 4, with the Island Exhibition (#1).
+- **⚠️ Price is not published on the city listing** and this is a commercially operated immersive-media attraction, so **assume it is ticketed** — comparable venues run roughly ₩15,000–20,000. Confirm at the door; do not plan on it being free.
 - **Official source (reviewed Aug 17):** [Yeosu Tourism — iMuseum](https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=6241)
 
 ### 15) 🎭 **Expo Art Gallery / city cultural-event calendar** — ⏳ RE-CHECK
@@ -161,7 +162,9 @@ Yeosu is the south-coast terminus of direct KTX trains from Yongsan. This file w
 
 ### 25) 🏝️ **Gaedo island and People’s Trail** — 🔎 VERIFIED ACTIVITY · NEW
 - **What:** Island walking destination and one of the 2026 Expo’s satellite-program areas.
-- **Hours/price:** Ferry-dependent; confirm which Expo programs remain on Nov 1–4.
+- **Hours/price:** The island walk itself is **free**; cost and timing are **entirely ferry-dependent** — check the day's sailings from Yeosu Passenger Terminal before committing, and confirm the return crossing, not just the outbound.
+- **✅ Gaedo is a named Expo venue, and the Expo is running when you arrive.** The 2026 World Island Exhibition (#1) covers **Sep 5 – Nov 4** across Dolsan Jinmo, the 2012 Expo site, **Gaedo and Geumodo** — so **Nov 1–4 is inside the Expo period and Gaedo's satellite programming should be live.** From **Nov 5 onward it reverts to an ordinary island walk.**
+- **⚠️ This is the sharpest date cliff in the guide.** If Gaedo interests you as an Expo venue rather than just a trail, it has to happen in the **first four days** of the trip.
 - **Official sources (reviewed Aug 17):** [Yeosu Tourism — Gaedo](https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=415) · [2026 city program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)
 
 ### 26) 🦕 **Sado Island geology and dinosaur-track sites** — 🔎 VERIFIED PLACE

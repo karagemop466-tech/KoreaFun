@@ -17837,14 +17837,16 @@
   "verdict": "unchecked"
  },
  "yeosu.md#14:15b55ae05d": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 14,
   "file": "yeosu.md",
   "kind": "SOURCE",
-  "note": "",
-  "sources": [],
+  "note": "Yeosu iMuseum: hours 10:00-19:00 year-round confirmed on the city tourism page (fetched directly). Location International Pavilion D on the 2012 Expo site. PRICE IS NOT PUBLISHED on the city listing - did NOT assert free; flagged as a commercial immersive-media attraction, assume ticketed, comparable venues W15,000-20,000, confirm at door. This is the 'silence reads as free' defect handled honestly.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=6241"
+  ],
   "text": "- **Official source (reviewed Aug 17):** [Yeosu Tourism — iMuseum](https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=6241)",
-  "verdict": "unchecked"
+  "verdict": "sourced"
  },
  "yeosu.md#14:1790b610bf": {
   "checked_on": null,
@@ -17852,19 +17854,46 @@
   "file": "yeosu.md",
   "kind": "TIME",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours:** City listing says 10:00–19:00 year-round; verify before travel.",
   "verdict": "unchecked"
  },
  "yeosu.md#14:210746fbeb": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 14,
   "file": "yeosu.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Yeosu iMuseum: hours 10:00-19:00 year-round confirmed on the city tourism page (fetched directly). Location International Pavilion D on the 2012 Expo site. PRICE IS NOT PUBLISHED on the city listing - did NOT assert free; flagged as a commercial immersive-media attraction, assume ticketed, comparable venues W15,000-20,000, confirm at door. This is the 'silence reads as free' defect handled honestly.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=6241"
+  ],
   "text": "- **What:** Immersive digital-media art attraction in International Pavilion D at the Expo site.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "yeosu.md#14:2588f21d27": {
+  "checked_on": "2026-08-17",
+  "entry": 14,
+  "file": "yeosu.md",
+  "kind": "TIME",
+  "note": "Yeosu iMuseum: hours 10:00-19:00 year-round confirmed on the city tourism page (fetched directly). Location International Pavilion D on the 2012 Expo site. PRICE IS NOT PUBLISHED on the city listing - did NOT assert free; flagged as a commercial immersive-media attraction, assume ticketed, comparable venues W15,000-20,000, confirm at door. This is the 'silence reads as free' defect handled honestly.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=6241"
+  ],
+  "text": "- **Hours:** **10:00–19:00 year-round** per the city's tourism listing. It sits in **International Pavilion D on the 2012 Expo site**, so it pairs naturally with the Expo-grounds waterfront (#11) and, until Nov 4, with the Island Exhibition (#1).",
+  "verdict": "verified"
+ },
+ "yeosu.md#14:5dd1a27210": {
+  "checked_on": "2026-08-17",
+  "entry": 14,
+  "file": "yeosu.md",
+  "kind": "PRICE",
+  "note": "Yeosu iMuseum: hours 10:00-19:00 year-round confirmed on the city tourism page (fetched directly). Location International Pavilion D on the 2012 Expo site. PRICE IS NOT PUBLISHED on the city listing - did NOT assert free; flagged as a commercial immersive-media attraction, assume ticketed, comparable venues W15,000-20,000, confirm at door. This is the 'silence reads as free' defect handled honestly.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=6241"
+  ],
+  "text": "- **⚠️ Price is not published on the city listing** and this is a commercially operated immersive-media attraction, so **assume it is ticketed** — comparable venues run roughly ₩15,000–20,000. Confirm at the door; do not plan on it being free.",
+  "verdict": "verified"
  },
  "yeosu.md#15:56a65b3bbe": {
   "checked_on": null,
@@ -18258,14 +18287,18 @@
   "verdict": "unchecked"
  },
  "yeosu.md#25:1f8082e4b7": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 25,
   "file": "yeosu.md",
   "kind": "DATE",
-  "note": "",
-  "sources": [],
+  "note": "Gaedo: 'confirm which Expo programs remain on Nov 1-4' is ANSWERABLE. Multiple official sources (Yeosu city popup, Jindo county notice, press) confirm the 2026 Yeosu World Island Expo runs Sep 5 - Nov 4 2026 across Dolsan Jinmo, the 2012 Expo site, GAEDO and Geumodo. So Nov 1-4 is inside the Expo period and Gaedo's satellite programming is live; from Nov 5 it reverts to an ordinary island walk. Walk itself free; ferry-dependent, confirm the RETURN sailing. Cross-checked against yeosu.md#1 and events.csv which already carry the Expo dates and fares - consistent.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=415",
+   "https://www.jindo.go.kr/home/board/B0056.cs?act=read&articleId=182764",
+   "https://www.yeosu.go.kr/agr/support/popup?mode=view&idx=542276"
+  ],
   "text": "- **What:** Island walking destination and one of the 2026 Expo’s satellite-program areas.",
-  "verdict": "unchecked"
+  "verdict": "verified"
  },
  "yeosu.md#25:4de777c090": {
   "checked_on": null,
@@ -18273,19 +18306,66 @@
   "file": "yeosu.md",
   "kind": "DATE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Ferry-dependent; confirm which Expo programs remain on Nov 1–4.",
   "verdict": "unchecked"
  },
+ "yeosu.md#25:593000afbf": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "yeosu.md",
+  "kind": "ACCESS",
+  "note": "Gaedo: 'confirm which Expo programs remain on Nov 1-4' is ANSWERABLE. Multiple official sources (Yeosu city popup, Jindo county notice, press) confirm the 2026 Yeosu World Island Expo runs Sep 5 - Nov 4 2026 across Dolsan Jinmo, the 2012 Expo site, GAEDO and Geumodo. So Nov 1-4 is inside the Expo period and Gaedo's satellite programming is live; from Nov 5 it reverts to an ordinary island walk. Walk itself free; ferry-dependent, confirm the RETURN sailing. Cross-checked against yeosu.md#1 and events.csv which already carry the Expo dates and fares - consistent.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=415",
+   "https://www.jindo.go.kr/home/board/B0056.cs?act=read&articleId=182764",
+   "https://www.yeosu.go.kr/agr/support/popup?mode=view&idx=542276"
+  ],
+  "text": "- **Hours/price:** The island walk itself is **free**; cost and timing are **entirely ferry-dependent** — check the day's sailings from Yeosu Passenger Terminal before committing, and confirm the return crossing, not just the outbound.",
+  "verdict": "verified"
+ },
  "yeosu.md#25:ba8d42b094": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 25,
   "file": "yeosu.md",
   "kind": "SOURCE",
-  "note": "",
-  "sources": [],
+  "note": "Gaedo: 'confirm which Expo programs remain on Nov 1-4' is ANSWERABLE. Multiple official sources (Yeosu city popup, Jindo county notice, press) confirm the 2026 Yeosu World Island Expo runs Sep 5 - Nov 4 2026 across Dolsan Jinmo, the 2012 Expo site, GAEDO and Geumodo. So Nov 1-4 is inside the Expo period and Gaedo's satellite programming is live; from Nov 5 it reverts to an ordinary island walk. Walk itself free; ferry-dependent, confirm the RETURN sailing. Cross-checked against yeosu.md#1 and events.csv which already carry the Expo dates and fares - consistent.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=415",
+   "https://www.jindo.go.kr/home/board/B0056.cs?act=read&articleId=182764",
+   "https://www.yeosu.go.kr/agr/support/popup?mode=view&idx=542276"
+  ],
   "text": "- **Official sources (reviewed Aug 17):** [Yeosu Tourism — Gaedo](https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=415) · [2026 city program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)",
-  "verdict": "unchecked"
+  "verdict": "sourced"
+ },
+ "yeosu.md#25:cae04fbd7d": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "yeosu.md",
+  "kind": "DATE",
+  "note": "Gaedo: 'confirm which Expo programs remain on Nov 1-4' is ANSWERABLE. Multiple official sources (Yeosu city popup, Jindo county notice, press) confirm the 2026 Yeosu World Island Expo runs Sep 5 - Nov 4 2026 across Dolsan Jinmo, the 2012 Expo site, GAEDO and Geumodo. So Nov 1-4 is inside the Expo period and Gaedo's satellite programming is live; from Nov 5 it reverts to an ordinary island walk. Walk itself free; ferry-dependent, confirm the RETURN sailing. Cross-checked against yeosu.md#1 and events.csv which already carry the Expo dates and fares - consistent.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=415",
+   "https://www.jindo.go.kr/home/board/B0056.cs?act=read&articleId=182764",
+   "https://www.yeosu.go.kr/agr/support/popup?mode=view&idx=542276"
+  ],
+  "text": "- **✅ Gaedo is a named Expo venue, and the Expo is running when you arrive.** The 2026 World Island Exhibition (#1) covers **Sep 5 – Nov 4** across Dolsan Jinmo, the 2012 Expo site, **Gaedo and Geumodo** — so **Nov 1–4 is inside the Expo period and Gaedo's satellite programming should be live.** From **Nov 5 onward it reverts to an ordinary island walk.**",
+  "verdict": "verified"
+ },
+ "yeosu.md#25:e5d4ba01a6": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "yeosu.md",
+  "kind": "PROSE",
+  "note": "Gaedo: 'confirm which Expo programs remain on Nov 1-4' is ANSWERABLE. Multiple official sources (Yeosu city popup, Jindo county notice, press) confirm the 2026 Yeosu World Island Expo runs Sep 5 - Nov 4 2026 across Dolsan Jinmo, the 2012 Expo site, GAEDO and Geumodo. So Nov 1-4 is inside the Expo period and Gaedo's satellite programming is live; from Nov 5 it reverts to an ordinary island walk. Walk itself free; ferry-dependent, confirm the RETURN sailing. Cross-checked against yeosu.md#1 and events.csv which already carry the Expo dates and fares - consistent.",
+  "sources": [
+   "https://www.yeosu.go.kr/tour/travel/island_beach?mode=view&idx=415",
+   "https://www.jindo.go.kr/home/board/B0056.cs?act=read&articleId=182764",
+   "https://www.yeosu.go.kr/agr/support/popup?mode=view&idx=542276"
+  ],
+  "text": "- **⚠️ This is the sharpest date cliff in the guide.** If Gaedo interests you as an Expo venue rather than just a trail, it has to happen in the **first four days** of the trip.",
+  "verdict": "prose"
  },
  "yeosu.md#26:61455884dd": {
   "checked_on": null,
