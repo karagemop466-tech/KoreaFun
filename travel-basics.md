@@ -43,6 +43,7 @@ a holiday" exceptions can rescue you — plain Monday rules apply on all three.
 - **Gyeonggijeon** (Jeonju) — open year-round, unlike the rest of the Hanok Village.
 - **Namsangol Hanok Village garden** (Seoul) — hanok interiors shut, garden open.
 - **Space Walk** (Pohang) — open except the *first* Monday, so **Nov 2 is out** but Nov 9/16 are fine.
+- **Oryukdo Skywalk** (Busan) — year-round, no weekly closure; weather closes it, not the calendar.
 - **Independence Hall outdoor exhibits** (Cheonan) — grounds open, indoor halls shut. Parking is free on Mondays.
 - **Jinhae Marine Park** grounds and coastal path (Changwon) — facilities shut, walk open.
 - Anything outdoors and ungated: fortress walls, markets, trails, temples, streets.
@@ -51,6 +52,7 @@ a holiday" exceptions can rescue you — plain Monday rules apply on all three.
 - Deoksugung, Changdeokgung, Changgyeonggung, Jongmyo.
 - **All five Incheon open-port museums at once** — one operator, one closing day, so a Monday kills that whole walk.
 - Suwon Hwaseong Museum, Suwon Museum, most Jeonju Hanok Village museums, Daegu's municipal museums, Ulsan's museums, the Whale Museum, Moonshin, Bulguksa's museum.
+- **Busan's Taejongdae Danubi train** — the park stays open, but on a Monday you walk the hilly circuit instead of riding it.
 
 **💡 Planning rule:** put palaces, outdoor walks and the national museums on Mondays; save city and district museums for any other day.
 
