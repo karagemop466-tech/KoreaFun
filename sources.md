@@ -1,6 +1,6 @@
 # 🔗 Official Sources — Master List
 
-Every entry in this repo links to an **official, verified source** (government body, league/federation, organizing committee, or the venue/operator itself). Verified August 4, 2026.
+This is a source directory, **not proof that every entry has been verified**. Earlier revisions made that claim without an entry-by-entry evidence review. Follow the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) and consult `audit/manual_verification.json` for completed city files. Source relevance, not merely URL presence, is required.
 
 ## City / national tourism & event calendars
 | Source | Official for | URL |

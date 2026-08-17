@@ -3,15 +3,17 @@
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
 A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> ✅ **Audited August 2026.** Every one of the 2,445 entries below was checked against this repo's audit tooling (`tools/`), and dated events were re-verified against the organiser's own site. **799 unverifiable filler entries were deleted rather than left in**, along with 70 duplicates — see [`audit/AUDIT-FINDINGS.md`](audit/AUDIT-FINDINGS.md) for exactly what was removed and why. Anything not officially announced yet is marked **⏳ TBA** or **👀 Watch** so you never confuse a guess with a fact.
+> 🚧 **Evidence audit in progress (started Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. A parser can catch formatting, dates, and obvious duplicates, but it cannot prove that a place or event is real. The new [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city at a time. **Yeosu is the first completed city; the other 13 files remain a research queue and must not yet be treated as fully verified.**
 >
-> ⚠️ **Two honest caveats.** (1) Most but *not* all entries carry a deep link to an official page; some cite only the city tourism portal. (2) Prices and especially **winter opening hours** change — Korean attractions commonly close 1–2 hours earlier from November. Re-check anything ticketed on the day.
+> **Current inventory:** 2,377 numbered sections. This is not a target or a quality claim. Counts will fall when padding and duplicates are removed, then rise only for newly researched, official-source entries. Run `python3 tools/verification_status.py` for current manual-review coverage.
 >
-> 🏝️ **Time-critical:** the **2026 Yeosu World Island Expo closes Nov 4** — day 5 of your trip. See the note at the top of [`itinerary.md`](itinerary.md).
+> ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
+>
+> 🏝️ **Time-critical:** the verified **2026 World Island Exhibition closes Nov 4** — day 5 of the trip.
 
 ---
 
-## 📂 What's in this repo (**2,445 verified numbered activity sections** across 14 city files)
+## 📂 What's in this repo (**2,377 numbered sections** across 14 city files; manual verification ongoing)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -27,7 +29,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 |---|---|
 | [`myeongdong.md`](myeongdong.md) | **296 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
 
-### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities, **1,386 activity sections**)
+### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities, **1,318 activity sections**)
 
 | File | Sections | Transit from Seoul | Best for |
 |---|---|---|---|
@@ -40,7 +42,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | [`ulsan.md`](ulsan.md) | 115 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
 | [`pohang.md`](pohang.md) | 88 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
 | [`changwon-jinhae.md`](changwon-jinhae.md) | 106 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
-| [`yeosu.md`](yeosu.md) | 100 | KTX ~3h 20m direct (Yongsan→Yeosu-Expo) | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
+| [`yeosu.md`](yeosu.md) | 32 | KTX ~3h 20m direct (Yongsan→Yeosu-Expo) | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
 
 ### 🧰 Guides, maps & data
 
