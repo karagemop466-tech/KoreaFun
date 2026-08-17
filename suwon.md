@@ -1218,7 +1218,7 @@
 ### 182) 🛕 Yongjusa Temple & Jeongjo's Filial Devotion (용주사) — 🔁 daily
 - **What:** The temple King Jeongjo restored in 1790 to honour his father Prince Sado, with a bronze bell that is a **National Treasure**
 - **Hours:** Daily **09:00–18:00** (Nov: to 17:00)
-- **Price:** **₩1,500**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged. Older guidebooks still quote ₩1,500 — there is no entry fee.
 - **Official source:** [yongjoosa.or.kr](http://www.yongjoosa.or.kr) · [hscity.go.kr](https://www.hscity.go.kr)
 - **Beginner notes:** In Hwaseong City, bus from Suwon Station. **The reason Hwaseong Fortress exists is buried nearby.**
 

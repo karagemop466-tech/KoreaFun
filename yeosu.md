@@ -623,7 +623,7 @@
 ### 89) 🛕 Songgwangsa Temple — one of the Three Jewels — 🔁 daily
 - **What:** The Sangha Jewel temple of Korean Buddhism, near Suncheon, holding more National Treasures than almost any other monastery
 - **Hours:** Daily **06:00–19:00** (Nov: to 18:00)
-- **Price:** Adult **₩3,000**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged. Older guidebooks still quote Adult ₩3,000 — there is no entry fee.
 - **Official source:** [songgwangsa.org](http://www.songgwangsa.org) · [suncheon.go.kr](https://www.suncheon.go.kr)
 - **Beginner notes:** **Templestay available** — one of the most established programmes in Korea.
 

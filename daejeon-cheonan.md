@@ -1057,7 +1057,7 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 ## 150) ⛰️ Songnisan National Park & Beopjusa (속리산·법주사) — 🔁 daily
 - **What:** One of Korea's great mountain temples — **Beopjusa** holds a 33 m gilt-bronze Maitreya and Korea's only surviving five-storey wooden pagoda, a UNESCO Sansa site
 - **Hours:** Park always open; temple **08:00–18:00**
-- **Price:** Temple entry **₩4,000**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged; Songnisan National Park itself is free. Older guidebooks still quote Temple entry ₩4,000 — there is no entry fee.
 - **Official source:** [knps.or.kr](https://www.knps.or.kr) · [UNESCO Sansa listing](https://whc.unesco.org/en/list/1562)
 - **Beginner notes:** Bus from Daejeon (~1 h 40). The Palsangjeon wooden pagoda (1626) is a National Treasure and the only one of its kind left in Korea.
 
@@ -1224,7 +1224,7 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 ## 173) 🏯 Sudeoksa Temple, Yesan — Korea's oldest dated wooden hall (수덕사) — ✅ CONFIRMED — 🔁 daily
 - **What:** The **Daeungjeon main hall, built in 1308** (National Treasure No. 49) is one of Korea's oldest wooden buildings with a precisely recorded construction date — a Goryeo masterpiece on Deoksungsan
 - **Hours:** Daily roughly **08:00–18:00** (shorter in winter)
-- **Price:** Small admission around **₩3,000**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged. Older guidebooks still quote Small admission around ₩3,000 — there is no entry fee.
 - **Official source:** [sudeoksa.com](http://www.sudeoksa.com) · [Korea Heritage Service](https://www.khs.go.kr)
 - **Beginner notes:** Bus from Yesan or Hongseong. The side elevation of the Daeungjeon — exposed beams, no paint — is one of the most admired facades in Korean architecture.
 

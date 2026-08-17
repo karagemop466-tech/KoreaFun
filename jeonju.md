@@ -1104,7 +1104,7 @@
 ### 188) 🌿 Seonunsa Temple & Camellia Forest, Gochang (선운사) — 🔁 daily
 - **What:** A 577 CE temple with a **natural camellia forest designated a Natural Monument** and one of Jeolla's best autumn valleys
 - **Hours:** Daily **06:00–19:00** (Nov: to 18:00)
-- **Price:** Adult **₩4,000**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged. Older guidebooks still quote Adult ₩4,000 — there is no entry fee.
 - **Official source:** [seonunsa.org](http://www.seonunsa.org) · [gochang.go.kr](https://www.gochang.go.kr)
 - **Beginner notes:** **Late-November maples along the temple stream are the reason to come in your window.**
 

@@ -1116,7 +1116,7 @@
 ### 189) 🏯 Ganghwado Jeondeungsa Temple (전등사) — 🔁 daily
 - **What:** Korea's oldest continuously operating temple site, inside the walls of the legendary Samnangseong fortress — founded in 381 AD
 - **Hours:** Daily roughly **08:00–18:00**
-- **Price:** Adult **₩4,000**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged. Older guidebooks still quote Adult ₩4,000 — there is no entry fee.
 - **Official source:** [jeondeungsa.org](http://www.jeondeungsa.org) · [Ganghwa-gun](https://www.ganghwa.go.kr)
 - **Beginner notes:** Bus 3000 from Sinchon or Ganghwa terminal. **Mid-November foliage inside the fortress walls is excellent.** Templestay available.
 

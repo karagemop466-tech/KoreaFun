@@ -806,7 +806,7 @@
 ### 157) 🛕 Donghwasa Temple, Palgongsan (동화사) — 🔁 daily
 - **What:** Founded 493, the head temple of the Jogye Order's 9th district — with a **33 m stone Medicine Buddha** built in 1992 as a prayer for reunification
 - **Hours:** Daily **08:00–18:00** (Nov: to 17:30)
-- **Price:** Adult **₩2,500**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged. Older guidebooks still quote Adult ₩2,500 — there is no entry fee.
 - **Official source:** [donghwasa.net](http://www.donghwasa.net) · [templestay.com](https://www.templestay.com)
 - **Beginner notes:** Bus Express 1 from downtown (~50 min). **The Palgongsan approach road in early November foliage is one of the best drives in Korea.**
 
@@ -1042,7 +1042,7 @@
 ### 190) 🛕 Pagyesa Temple & Palgongsan Hermitages (파계사) — 🔁 daily
 - **What:** A 9th-century temple on the north-west of Palgongsan, famous for the Wontong-jeon hall and a wooden Gwanseeum statue that yielded a royal robe in 1979
 - **Hours:** Daily **08:00–18:00** (Nov: to 17:30)
-- **Price:** Adult **₩2,500**
+- **Price:** **FREE** — cultural-heritage admission was **abolished on May 4, 2023** for the 65 Jogye Order temples holding state-designated heritage (the government reimburses the temple). Parking is still charged. Older guidebooks still quote Adult ₩2,500 — there is no entry fee.
 - **Official source:** [daegu.go.kr](https://www.daegu.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
 - **Beginner notes:** Bus 파계1 from Dongdaegu. Far quieter than Donghwasa with the same mountain scenery.
 
