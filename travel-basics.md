@@ -58,6 +58,16 @@ Everything below is practical setup for the events in this repo. Official links 
 - Pack: **layers**, a warm jacket, comfortable walking shoes, small umbrella. Fall foliage peaks late Oct – early Nov in Seoul, mid-Nov in the south.
 - Official weather: [KMA weather.go.kr](https://www.weather.go.kr) (or any weather app).
 
+## 6b. ⚠️ Thu Nov 19 is CSAT day (수능) — the strangest day of your trip
+The **College Scholastic Ability Test** falls on **Thursday, Nov 19, 2026**, mid-trip. It is not a public holiday, but for one day the country rearranges itself around ~half a million teenagers sitting a single exam. What this actually means for you:
+
+- **✈️ All aircraft are grounded nationwide for ~35 minutes** during the English listening section — roughly **13:05–13:40**. No take-offs or landings anywhere in Korea (emergency flights excepted); planes already airborne hold above 3 km. In recent years 140–156 flights had their times shifted. **If you fly domestically that day, check your departure time — it may have been moved.** Your Nov 19 leg is a KTX, so this doesn't hit you, but it's worth knowing if plans change.
+- **🚇 Rush hour moves.** Government offices and most large companies start at **10:00 instead of 09:00**, and Seoul-area subways add trains **06:00–08:10** for students. Net effect: the normal 08:00–09:00 crush is thinner, and there's a second smaller peak around 10:00. **A mid-morning KTX to Busan is comfortable.**
+- **🚗 Roads are closed around every test centre** — no vehicles within 200 m. Test centres are ordinary schools scattered through every neighbourhood, so **taxis may detour unpredictably in the morning**. Prefer the subway before noon.
+- **🤫 Quiet is enforced.** Military exercises pause; police escort late students. Expect an oddly hushed early afternoon.
+- **🍜 The upside — the evening is a party.** Once the exam ends (~17:40) students flood into Hongdae, Gangnam and Myeongdong, and many bars, restaurants, cinemas and attractions run **test-taker discounts** for weeks afterwards (bring the exam ID card — which you won't have, but the atmosphere is free). **Nov 19 evening is a genuinely good night to be out.**
+- **Official source (reviewed Aug 18):** [MOE announcement of the Nov 19, 2026 exam date (korea.kr)](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156646031)
+
 ## 7. Food & etiquette quickies (beginner edition)
 - **Chicken & beer (치맥)** — a national pastime; eat it while watching baseball/football like the locals.
 - **Sharing** is normal; one person pays the whole bill (switch off with your travel buddy).

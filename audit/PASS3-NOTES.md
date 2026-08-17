@@ -566,3 +566,53 @@ portal after the venue's own page proved to be an empty client-rendered shell; g
 runtime, age rating, phone).
 
 **78/570 verified. Every city file now has multiple verified entries. Still zero fabrications.**
+
+## Pass 16 — trip-wide finding: CSAT day, and priced-place verification
+
+### The big one: Nov 19 is 수능 (CSAT) day and the repo never mentioned it
+Grep confirmed zero occurrences of 수능/CSAT/Suneung across every .md and
+events.csv before this pass. The 2027 CSAT is fixed for **Thu Nov 19, 2026**
+(MOE, korea.kr/briefing/pressReleaseView.do?newsId=156646031) — day 20 of the
+trip, and the day the itinerary moves Seoul→Busan by KTX.
+
+Why it matters even though it is NOT a public holiday:
+- **Nationwide aircraft ground-stop ~13:05–13:40** during English listening.
+  Consistent across 2024/2025/2026 exams; 140–156 flights retimed each year.
+- Public offices and most big firms start **10:00**, subways add trains
+  06:00–08:10 → the usual morning crush shifts.
+- **No vehicles within 200 m of any test centre**, and test centres are
+  ordinary neighbourhood schools → unpredictable taxi detours all morning.
+- Post-exam evening (~17:40 on) is one of the liveliest nights of the year.
+
+Added as travel-basics §6b, an itinerary Day-20 warning, and a README month-
+table row. Encoded as **claim #8 in tools/verify_claims.py** across all three
+files, negative-tested in both directions (removing the itinerary phrase and
+altering the 13:05 time each produce exit 1).
+
+Lesson: **the ledger is entry-shaped, so it cannot surface a missing
+trip-wide fact.** Every entry can be individually correct while the guide
+omits something that reshapes a whole day. Worth a deliberate sweep for
+date-specific national events (elections, exam days, holidays) rather than
+waiting for an entry to imply them.
+
+### Priced/hours place entries (the new worklist)
+Fixed the triage script (entries.json `body` is a list of lines — join before
+regex). 261 unchecked entries assert a price, an opening time or a closed-day.
+Worked the top of that list:
+- suwon #26 Ilwol Arboretum — ₩4,000 adult confirmed; **over-65s and under-7s
+  free with ID** was missing.
+- yongin #10 Everland — entry said "don't assume ₩62,000" but gave no number.
+  Now carries the real season-tier table (A/B/C/D 62/52/46/68k) plus the fact
+  that telecom and card discounts (40–50%) don't stack.
+- suwon #14 Yeonmudae archery — ₩3,000/10 arrows confirmed; trip falls in the
+  **winter** season (to 17:00, not 17:30), half-hourly slots, no 12:00–13:00.
+- myeongdong #3 NANTA — prior pass's price correction re-verified as correct.
+- incheon #14 Maritime Museum — hours right, but **two Greece exhibitions run
+  the whole trip** and were absent from the entry.
+- incheon #13 Emigration History — closure rule was wrong-by-omission: also
+  **closed the day after any public holiday**.
+- myeongdong #21 BOK Money Museum — **weekend visits require prior booking**;
+  the daily 14:00 docent tour is **reserved for foreign visitors**.
+
+Pattern holding at 89 entries: still zero fabrications. The recurring defect
+is omission of the one detail that changes whether you get in.

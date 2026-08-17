@@ -93,6 +93,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | **Sat–Sun Nov 14–15** | **🏆 Melon Music Awards MMA 2026 (first-ever 2-day edition)** | Seoul (Gocheok Sky Dome) | ✅ |
 | **Sat Nov 14–Sun Nov 22** | **Pohang International Fireworks Festival** — international fireworks show **Sat Nov 21**, Yeongildae Beach, free | Pohang | ✅ |
 | Early–mid Nov (TBA) | Seoul Kimjang Festival · Kimjang Grand Festival (aT) · Noodle Daejeon Festival | Seoul / Daejeon | ⏳ |
+| **Thu Nov 19** | ⚠️ **CSAT exam day (수능)** — flights grounded nationwide ~13:05–13:40, offices open 10:00, roads closed near test centres; great nightlife after 17:40 | nationwide | ✅ |
 | Thu Nov 19 | 5 Seconds of Summer (KINTEX) — same night as G-STAR weekend | Seoul (Ilsan) | ✅ |
 | **Fri–Sat Nov 20–21** | MAMA Awards 2026 (in Osaka — stream free via Mnet Plus) | watch from Korea | ✅ |
 | Sat Nov 21 | Busan IPark vs **Chungbuk Cheongju**, 14:00 (K-League 2) | Busan (Gudeok) | ✅ |

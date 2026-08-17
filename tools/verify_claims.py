@@ -43,6 +43,16 @@ CLAIMS = [
         ("seoul.md", r"Jan 28, 2027|Jan 2027"),
         ("itinerary.md", r"closed for renovation until Jan 2027"),
     ]),
+    # CSAT (수능) falls Thu Nov 19 2026, mid-trip: nationwide flight ground-stop
+    # ~13:05-13:40, 10:00 office start, roads shut near test centres. Must stay
+    # flagged in all three planning files.
+    ("CSAT exam day Nov 19 flagged", [
+        ("travel-basics.md", r"Nov 19 is CSAT day \(수능\)"),
+        ("travel-basics.md", r"Nov 19, 2026"),
+        ("travel-basics.md", r"13:05"),
+        ("itinerary.md", r"CSAT exam day"),
+        ("README.md", r"CSAT exam day"),
+    ]),
 ]
 
 def check():
