@@ -8,6 +8,21 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 
 ---
 
+> ## ⏰ Time-critical decision — read this first
+>
+> **The 2026 Yeosu World Island Expo (2026 여수세계섬박람회) runs Sep 5 – Nov 4, 2026.** It is the single largest scheduled event anywhere in this guide during your trip, and **it closes on Day 5.** Only the first five days of a 23-day trip overlap with it.
+>
+> The default routing above keeps you in Seoul for all five of those days, which means **you would miss it entirely.** If you want it, Yeosu has to replace Seoul days on **Nov 1–4** — it is a 3 hr 20 min KTX from Yongsan, so realistically an overnight, not a day trip.
+>
+> - Main venue **돌산 진모지구**, 10:00–21:00 (ticket office closes 20:00, last entry 20:00); sub-venues at the 2012 Expo site, Gaedo and Geumodo, 10:00–18:00
+> - Adult **₩15,000** / youth ₩9,000 / child ₩6,000; family pass ₩32,000
+> - English-language tickets via NOL World (Interpark); HQ ☎ 061-659-2313
+> - Full detail and the other Yeosu options: [`yeosu.md`](yeosu.md) · [yeosu2026.or.kr](https://www.yeosu2026.or.kr)
+>
+> **Trade-off to weigh:** going costs you the Nov 3 BANKSY closing day and the Nov 4 Seoul Plaza concert, and Changdeokgung Huwon foliage would need to move to Nov 2 or later in the month. Skipping it costs you a world expo that will not be back.
+
+---
+
 | Day | Date | Base | Plan (with alternatives) |
 |---|---|---|---|
 | 1 | **Sat Oct 31** | Seoul | Land at ICN → settle in. If you landed early, a 🚌 city tour bus loop orients you fast; otherwise evening: DDP Dream in Light (free) or Seoul Plaza. 🏐 V-League season opens today — check [kovo.co.kr](https://www.kovo.co.kr) once fixtures drop (~late Sep) for an opening-weekend match |
