@@ -10,5 +10,11 @@
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against relevant organizer, venue/operator, Seoul City, Jung-gu, heritage, or national-tourism sources; unsupported, obsolete, duplicate, and out-of-neighborhood entries removed.",
     "reviewer_notes": "2026 event claims require dated organizer pages. Seasonal displays and recurring programs remain explicitly marked for re-check."
+  },
+  "yongin.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated organizer, operator, museum, Yongin City, Gyeonggi Cultural Foundation, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Confirmed 2026 Folk Village and museum exhibitions use dated sources. Everland seasonal programming, Caribbean Bay, templestays, and venue calendars remain explicitly marked for re-check."
   }
 }
