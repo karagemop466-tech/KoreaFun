@@ -274,6 +274,156 @@ Every entry in this repo links to an **official, verified source** (government b
 
 ---
 
+---
+
+## Expansion-set official sources (added with the +1,700 city entries)
+
+All URLs below are government, municipal, national-institution, UNESCO, league or venue-operator sites. They are the sources cited in the expansion entries added to the 14 city files.
+
+### Municipal & provincial governments
+
+| Source | Official for | URL |
+|---|---|---|
+| Pohang City | Pohang attractions, festivals, transit | https://www.pohang.go.kr |
+| Pohang Tourism | Pohang visitor information | https://www.ipohang.org |
+| Yeosu City | Yeosu attractions, islands, festivals | https://www.yeosu.go.kr |
+| Suncheon City | Suncheon Bay, Naganeupseong, film set | https://www.suncheon.go.kr |
+| Suncheon Bay | National Garden & wetland reserve | https://scbay.suncheon.go.kr |
+| Gwangyang City | Seomjin River, Yi Sun-sin Bridge area | https://www.gwangyang.go.kr |
+| Boseong County | Boseong green tea fields | https://www.boseong.go.kr |
+| Changwon City | Changwon, Masan & Jinhae | https://www.changwon.go.kr |
+| Junam Reservoir | Migratory bird sanctuary (Changwon) | https://junam.changwon.go.kr |
+| Nubija | Changwon public bike share | https://nubija.changwon.go.kr |
+| Geoje City | Geoje island, POW camp park | https://www.geoje.go.kr |
+| Tongyeong City | Tongyeong cable car, Dongpirang | https://www.tongyeong.go.kr |
+| Gimhae City | Gaya tumuli, Gimhae museum | https://www.gimhae.go.kr |
+| Yongin City | Yongin attractions, trails, transit | https://www.yongin.go.kr |
+| Icheon City | Icheon ceramics, hot springs | https://www.icheon.go.kr |
+| Yeoju City | Yeongneung (King Sejong's tomb), Silleuksa | https://www.yeoju.go.kr |
+| Seoul Jung-gu Office | Myeongdong, Euljiro, Namdaemun district | https://www.junggu.seoul.kr |
+| Seoul Jongno-gu Office | Insadong, Tapgol Park, Ihwa | https://www.jongno.go.kr |
+| Seoul Yongsan-gu Office | Itaewon, Hannam | https://www.yongsan.go.kr |
+| Seoul Mapo-gu Office | Hongdae, Yeonnam | https://www.mapo.go.kr |
+| Seoul Songpa-gu Office | Seokchon Lake, Jamsil | https://www.songpa.go.kr |
+| Seoul Dongdaemun-gu Office | Dongdaemun markets | https://www.ddm.go.kr |
+| Seoul Metropolitan Government | City-wide events, plazas, illumination | https://english.seoul.go.kr |
+| Visit Seoul (official) | Seoul tourism, free walking tours | https://english.visitseoul.net |
+
+### National institutions & heritage
+
+| Source | Official for | URL |
+|---|---|---|
+| Korea Heritage Service | National Treasures, Historic Sites, Natural Monuments | https://www.khs.go.kr |
+| Royal Palaces & Tombs Centre | Gyeongbokgung, Changdeokgung, Deoksugung, Jongmyo | https://royal.khs.go.kr |
+| National Museum of Korea | Yongsan national museum | https://www.museum.go.kr |
+| Seoul Museum of History | Seoul city history museum & branches | https://museum.seoul.go.kr |
+| Seoul Museum of Art (SeMA) | Municipal art museum | https://sema.seoul.go.kr |
+| Seoul Museum of Craft Art | Bukchon craft museum | https://craftmuseum.seoul.go.kr |
+| MMCA | National modern & contemporary art museum | https://www.mmca.go.kr |
+| National Museum of Korean Contemporary History | Gwanghwamun modern history museum | https://www.much.go.kr |
+| War Memorial of Korea | Korean War museum | https://www.warmemo.or.kr |
+| Seodaemun Prison History Hall | Colonial-era prison memorial | https://www.sscmc.or.kr |
+| Bank of Korea Money Museum | Currency museum, 1912 building | https://www.bok.or.kr |
+| Seoul Baekje Museum | Baekje-era Seoul, Pungnaptoseong | https://baekjemuseum.seoul.go.kr |
+| Gyeonggi Cultural Foundation | Provincial museums & gugak centre | https://www.ggcf.kr |
+| Gyeonggi Provincial Museum | Yongin provincial museum | https://musenet.ggcf.kr |
+| Gyeonggi Children's Museum | Yongin children's museum | https://gcmuseum.ggcf.kr |
+| National Gugak Center | Traditional Korean music | https://www.gugak.go.kr |
+| Korean Film Archive | Chungmuro film heritage | https://www.koreafilm.or.kr |
+| Culture Station Seoul 284 | 1925 Seoul Station cultural space | https://www.seoul284.org |
+| Seoul City Wall portal | Hanyangdoseong fortress wall | https://seoulcitywall.seoul.go.kr |
+| Seoul Hall of Urbanism & Architecture | City planning museum | https://seoulhour.kr |
+| Seoul Metropolitan Library | Old city hall library | https://lib.seoul.go.kr |
+| Hanok Portal (Seoul) | Bukchon hanok village rules & info | https://hanok.seoul.go.kr |
+| Namsangol Hanok Village | Hanok village & garden | https://www.hanokmaeul.or.kr |
+| Seoul Parks | Haneul Park, World Cup Park, city parks | https://parks.seoul.go.kr |
+| Hangang Parks | Han River park network | https://hangang.seoul.go.kr |
+| Seoullo 7017 | Skygarden walkway | https://seoullo7017.seoul.go.kr |
+| Olympic Park | 1988 Olympic site | https://www.olympicpark.co.kr |
+| UNESCO World Heritage Centre | Inscribed site references | https://whc.unesco.org |
+| UNESCO Intangible Cultural Heritage | Jultagi, kimjang and other ICH listings | https://ich.unesco.org |
+| UNESCO Creative Cities | Icheon Creative City of Crafts | https://www.unesco.org/en/creative-cities |
+| Ramsar Convention | Suncheon Bay wetland designation | https://www.ramsar.org |
+| Korea Forest Service | Recreation forests, foliage, arboretums | https://www.forest.go.kr |
+| Durunubi (national trails) | Coastal and dulle-gil walking routes | https://www.durunubi.kr |
+| Riverguide (bike routes) | National certified cycling routes | https://www.riverguide.go.kr |
+| Ministry of Oceans & Fisheries | Seafood seasons, coastal information | https://www.mof.go.kr |
+| Korea Maritime Safety | Ferry operations & sailing conditions | https://www.komsa.or.kr |
+| Korea Meteorological Administration | Weather, sea state, foliage forecasts | https://www.weather.go.kr |
+| Rural Development Administration | Farm experience programmes | https://www.rda.go.kr |
+| Welchon | Official rural stay / farm stay portal | https://www.welchon.com |
+| Korea Customs Service | Visitor tax refund rules | https://www.customs.go.kr |
+| Ministry of Patriots & Veterans Affairs | March 15th Memorial Cemetery | https://www.mpva.go.kr |
+| KDCA / 1339 | Medical hotline for visitors | https://www.kdca.go.kr |
+| Templestay (official) | Nationwide templestay bookings | https://www.templestay.com |
+
+### Venues, operators & attractions
+
+| Source | Official for | URL |
+|---|---|---|
+| Everland Resort | Everland, Speedway, seasonal events | https://www.everland.com |
+| Korean Folk Village | Yongin folk village & performances | https://www.koreanfolk.co.kr |
+| MBC Daejanggeum Park | Yongin historical drama set | https://djgpark.imbc.com |
+| Hwadam Forest | Gwangju/Yongin botanical garden | https://www.hwadamsup.com |
+| Ho-Am Art Museum | Samsung foundation traditional art museum | https://hoam.samsungfoundation.org |
+| Leeum Museum of Art | Hannam contemporary & classical art | https://www.leeum.org |
+| Yeosu Maritime Cable Car | Yeosu sea-crossing cable car | https://www.yeosucablecar.com |
+| Aqua Planet Yeosu | Yeosu aquarium | https://www.aquaplanet.co.kr/yeosu |
+| Expo 2012 Yeosu | Expo site, Big-O, Sky Tower | https://www.expo2012.kr |
+| N Seoul Tower | Namsan tower & observatory | https://www.seoultower.co.kr |
+| Lotte World Adventure | Indoor theme park, Jamsil | https://www.lotteworld.com |
+| Seoul Sky | Lotte World Tower observatory | https://seoulsky.lotteworld.com |
+| Starfield | COEX Mall & Starfield Library | https://www.starfield.co.kr |
+| Namdaemun Market | Official market association | https://www.namdaemunmarket.co.kr |
+| Gwangjang Market | Official market association | https://www.gwangjangmarket.co.kr |
+| Dongdaemun Design Plaza | DDP exhibitions & history museum | https://www.ddp.or.kr |
+| Myeongdong Cathedral | Cathedral, Mass times, 1898 Plaza | https://www.mdsd.or.kr |
+| Jogyesa Temple | Jogye Order head temple, chrysanthemums | http://www.jogyesa.kr |
+| Bongeunsa Temple | Gangnam temple & templestay | https://www.bongeunsa.org |
+| Songgwangsa Temple | Sangha Jewel temple, Suncheon | http://www.songgwangsa.org |
+| Seoul Central Mosque | Korea Muslim Federation | http://www.koreaislam.org |
+| Sejong Center | Seoul municipal performing arts centre | https://www.sejongpac.or.kr |
+| National Theater of Korea | Namsan national theatre complex | https://www.ntok.go.kr |
+| Silloam Sauna | 24-hour jjimjilbang near Seoul Station | https://www.silloamsauna.com |
+| Robot Land | Masan robot theme park | https://www.robot-land.co.kr |
+| POSCO | Pohang steelworks & history hall | https://www.posco.co.kr |
+| Premium Outlets Korea | Yeoju & Icheon outlets | https://www.premiumoutlets.co.kr |
+| Shinsegae | Main store, 1930 building, Christmas facade | https://www.shinsegae.com |
+| Lotte Shopping | Lotte department stores & duty free | https://www.lotteshopping.com |
+
+### Sport (expansion set)
+
+| Source | Official for | URL |
+|---|---|---|
+| KBL | Korean Basketball League (Changwon LG Sakers) | https://www.kbl.or.kr |
+| Changwon LG Sakers | Club fixtures & tickets | https://www.lgsakers.com |
+| NC Dinos | KBO club, Changwon NC Park | https://www.ncdinos.com |
+| KBO | Korea Baseball Organization | https://www.koreabaseball.com |
+| Gyeongnam FC | K League 2 club, Changwon | https://www.gyeongnamfc.com |
+| Jeonnam Dragons | K League club, Gwangyang | https://www.dragons.co.kr |
+| Korea Motorsport Association | Circuit event calendar | https://www.kmsa.or.kr |
+
+### Transit & practical (expansion set)
+
+| Source | Official for | URL |
+|---|---|---|
+| Seoul Metro | Seoul subway lines 1–8 | https://www.seoulmetro.co.kr |
+| Seoul Bus (TOPIS) | Seoul bus routes incl. Namsan circulars | https://bus.go.kr |
+| AREX | Incheon Airport Railroad | https://www.arex.or.kr |
+| Incheon Airport | Airport & limousine bus information | https://www.airport.kr |
+| Korea Airports Corporation | Yeosu, Ulsan and regional airports | https://www.airport.co.kr |
+| Seoul City Tour Bus | Official hop-on-hop-off | https://www.seoulcitybus.com |
+| T-money | Transit card & Climate Card | https://www.t-money.co.kr |
+| Interpark Global | English-language ticketing | https://www.globalinterpark.com |
+| Melon Ticket | Concert & performance ticketing | https://ticket.melon.com |
+| Naver Map | Primary mapping & transit routing in Korea | https://map.naver.com |
+| Kakao Corp | Kakao T taxi, Kakao Map | https://www.kakaocorp.com |
+| Gyeonggi Bus Information | Gyeonggi-do red express buses | https://www.gbis.go.kr |
+| Korea Rail Network Authority | Rail infrastructure, disused lines | https://www.kr.or.kr |
+| Culture Portal (culture.go.kr) | National performance & exhibition calendar | https://www.culture.go.kr |
+
+---
+
 ## How to verify an entry yourself (60 seconds)
 1. Open the listed official URL.
 2. For ⏳ TBA items: look for "Notice/공지" or "Events/축제" — organizers post 2026 dates roughly 1–3 months before the event.

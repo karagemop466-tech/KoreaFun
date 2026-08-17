@@ -7,36 +7,36 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (~1,500 Total Activity Sections)
+## 📂 What's in this repo (**3,256 total numbered activity sections** across 14 city files)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | **260 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
-| [`busan.md`](busan.md) | **103 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
-| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **80 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX) |
+| [`seoul.md`](seoul.md) | **366 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
+| [`busan.md`](busan.md) | **203 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
+| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **169 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX) |
 
 ### 🛍️ Neighborhood deep-dives (focused on Seoul districts)
 
 | File | What's inside |
 |---|---|
-| [`myeongdong.md`](myeongdong.md) | **137 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
+| [`myeongdong.md`](myeongdong.md) | **366 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
 
-### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 expanded cities, ~1,300 activity sections)
+### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 expanded cities, **2,152 activity sections**)
 
 | File | Sections | Transit from Seoul | Best for |
 |---|---|---|---|
-| [`suwon.md`](suwon.md) | 138 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
-| [`yongin.md`](yongin.md) | 130 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
-| [`incheon.md`](incheon.md) | 142 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
-| [`jeonju.md`](jeonju.md) | 136 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
-| [`daegu.md`](daegu.md) | 139 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
-| [`gyeongju.md`](gyeongju.md) | 142 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
-| [`ulsan.md`](ulsan.md) | 139 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
-| [`pohang.md`](pohang.md) | 135 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
-| [`changwon-jinhae.md`](changwon-jinhae.md) | 140 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
-| [`yeosu.md`](yeosu.md) | 136 | KTX 2h 50 min + Suncheon transfer | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
+| [`suwon.md`](suwon.md) | 218 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
+| [`yongin.md`](yongin.md) | 194 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
+| [`incheon.md`](incheon.md) | 242 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
+| [`jeonju.md`](jeonju.md) | 226 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
+| [`daegu.md`](daegu.md) | 219 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
+| [`gyeongju.md`](gyeongju.md) | 231 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
+| [`ulsan.md`](ulsan.md) | 210 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
+| [`pohang.md`](pohang.md) | 195 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
+| [`changwon-jinhae.md`](changwon-jinhae.md) | 210 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
+| [`yeosu.md`](yeosu.md) | 207 | KTX 2h 50 min + Suncheon transfer | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
 
 ### 🧰 Guides, maps & data
 
