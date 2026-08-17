@@ -30,6 +30,30 @@ You will visit palaces. Two facts are worth knowing before the first ticket boot
 - **👀 WATCH — fees are about to change.** Palace admission has been frozen since 2005, and the Korea Heritage Service announced in Aug 2026 that it will **publish a new fee structure in November 2026**, to take effect **Jan 1, 2027**. Your trip is *before* the increase, but the announcement itself lands mid-trip — the prices above should hold, just don't be surprised by headlines.
 - **Official sources (reviewed Aug 18):** [KHS — Gyeongbokgung hours, fares, tour timetable](https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesRoyalGuide.jsp&mn=NS_01_25) · [KHS — Deoksugung](https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25) · [fee-revision plan (Herald, Aug 5 2026)](https://biz.heraldcorp.com/article/10831990)
 
+## 1c. 📅 Mondays — what's actually open
+Your trip contains **three Mondays: Nov 2, 9 and 16.** Monday is the standard
+closing day for Korean museums, and it catches people out repeatedly. There
+are **no public holidays in November 2026**, so none of the "open if Monday is
+a holiday" exceptions can rescue you — plain Monday rules apply on all three.
+
+**Reliably OPEN on a Monday (verified this pass):**
+- **Gyeongbokgung** — the one grand palace that closes *Tuesdays* instead.
+- **National Museum of Korea** (Seoul) — open all week; only Jan 1/Seollal/Chuseok.
+- **Jeonju National Museum** and **Gyeongju National Museum** — both open Mondays. *(⚠️ Gyeongju takes one November "gallery rest day" Monday — first or second, its own pages disagree; phone ahead if you're going Nov 2 or Nov 9.)*
+- **Gyeonggijeon** (Jeonju) — open year-round, unlike the rest of the Hanok Village.
+- **Namsangol Hanok Village garden** (Seoul) — hanok interiors shut, garden open.
+- **Space Walk** (Pohang) — open except the *first* Monday, so **Nov 2 is out** but Nov 9/16 are fine.
+- **Independence Hall outdoor exhibits** (Cheonan) — grounds open, indoor halls shut. Parking is free on Mondays.
+- **Jinhae Marine Park** grounds and coastal path (Changwon) — facilities shut, walk open.
+- Anything outdoors and ungated: fortress walls, markets, trails, temples, streets.
+
+**Reliably SHUT on a Monday:**
+- Deoksugung, Changdeokgung, Changgyeonggung, Jongmyo.
+- **All five Incheon open-port museums at once** — one operator, one closing day, so a Monday kills that whole walk.
+- Suwon Hwaseong Museum, Suwon Museum, most Jeonju Hanok Village museums, Daegu's municipal museums, Ulsan's museums, the Whale Museum, Moonshin, Bulguksa's museum.
+
+**💡 Planning rule:** put palaces, outdoor walks and the national museums on Mondays; save city and district museums for any other day.
+
 ## 2. Getting around cities
 - **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24). The plain card is **~₩3,000–4,000** (character/designer editions run ₩6,000+); the card fee is **non-refundable**, though leftover balance can be refunded at convenience stores minus a fee. Load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
 - **WOWPASS Card:** An all-in-one prepaid card for foreign tourists combining T-money transit + credit card payments ([wowpass.io](https://www.wowpass.io)). You can insert US dollars (cash) directly into WOWPASS kiosks at Incheon Airport and major subway stations to issue a card pre-loaded in KRW.

@@ -10180,35 +10180,107 @@
   "text": "- **Price:** Free public space.",
   "verdict": "unchecked"
  },
+ "myeongdong.md#25:1243bc0b47": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "myeongdong.md",
+  "kind": "SOURCE",
+  "note": "Namsangol Hanok Village: winter Nov-Mar 09:00-20:00 CONFIRMED on the operator's own site (hanokmaeul.or.kr root fails but /ko/faq works). Free. KEY NUANCE the entry missed: only the five hanok INTERIORS close on Mondays - the traditional garden is open year-round, making this a viable Monday fallback when central Seoul museums shut (Nov 2/9/16). Monday-holiday rule: opens if Mon is a holiday, closes the next day instead. Free guided tours 10:30/12:00/14:00/15:30, 40-60 min, max ~25, ages 10+, INDIVIDUALS CANNOT PRE-BOOK (walk up to the guide office), no tours Mondays, groups 25+ on 02-2133-6269. Open to 20:00 in winter = rare after-dark traditional site.",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/faq",
+   "https://hanokmaeul.co.kr/guide"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Namsangol Hanok Village — hours, free admission, closures](https://www.hanokmaeul.or.kr/ko/faq) · [guided-tour times](https://hanokmaeul.co.kr/guide) · [Jung-gu Tourism](https://www.junggu.seoul.kr/tour/content.do?cmsid=14818&sf_category1=CWS1325&mode=view&page=&cid=980666029)",
+  "verdict": "sourced"
+ },
+ "myeongdong.md#25:2a9b8fb0f8": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "myeongdong.md",
+  "kind": "TIME",
+  "note": "Namsangol Hanok Village: winter Nov-Mar 09:00-20:00 CONFIRMED on the operator's own site (hanokmaeul.or.kr root fails but /ko/faq works). Free. KEY NUANCE the entry missed: only the five hanok INTERIORS close on Mondays - the traditional garden is open year-round, making this a viable Monday fallback when central Seoul museums shut (Nov 2/9/16). Monday-holiday rule: opens if Mon is a holiday, closes the next day instead. Free guided tours 10:30/12:00/14:00/15:30, 40-60 min, max ~25, ages 10+, INDIVIDUALS CANNOT PRE-BOOK (walk up to the guide office), no tours Mondays, groups 25+ on 02-2133-6269. Open to 20:00 in winter = rare after-dark traditional site.",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/faq",
+   "https://hanokmaeul.co.kr/guide"
+  ],
+  "text": "- **Hours:** **Winter (Nov–Mar) 09:00–20:00** — confirmed on the operator's own site. **The hanok interiors close Mondays**, *unless* that Monday is a public holiday, in which case it opens and closes the following day instead.",
+  "verdict": "verified"
+ },
  "myeongdong.md#25:35b7236cbf": {
   "checked_on": null,
   "entry": 25,
   "file": "myeongdong.md",
   "kind": "TIME",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours:** Official site lists November–March 09:00–20:00, closed Monday, with holiday exceptions.",
   "verdict": "unchecked"
  },
+ "myeongdong.md#25:66b685979d": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "myeongdong.md",
+  "kind": "TIME",
+  "note": "Namsangol Hanok Village: winter Nov-Mar 09:00-20:00 CONFIRMED on the operator's own site (hanokmaeul.or.kr root fails but /ko/faq works). Free. KEY NUANCE the entry missed: only the five hanok INTERIORS close on Mondays - the traditional garden is open year-round, making this a viable Monday fallback when central Seoul museums shut (Nov 2/9/16). Monday-holiday rule: opens if Mon is a holiday, closes the next day instead. Free guided tours 10:30/12:00/14:00/15:30, 40-60 min, max ~25, ages 10+, INDIVIDUALS CANNOT PRE-BOOK (walk up to the guide office), no tours Mondays, groups 25+ on 02-2133-6269. Open to 20:00 in winter = rare after-dark traditional site.",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/faq",
+   "https://hanokmaeul.co.kr/guide"
+  ],
+  "text": "- **🇬🇧 Free guided tours** run at **10:30, 12:00, 14:00 and 15:30** (40–60 min, max ~25 people, ages 10+). **Individuals cannot pre-book** — turn up at the guide office by the main gate. **No tours on Mondays.** Groups of 25+ book on ☎ 02-2133-6269.",
+  "verdict": "verified"
+ },
  "myeongdong.md#25:67a1bcac26": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 25,
   "file": "myeongdong.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Namsangol Hanok Village: winter Nov-Mar 09:00-20:00 CONFIRMED on the operator's own site (hanokmaeul.or.kr root fails but /ko/faq works). Free. KEY NUANCE the entry missed: only the five hanok INTERIORS close on Mondays - the traditional garden is open year-round, making this a viable Monday fallback when central Seoul museums shut (Nov 2/9/16). Monday-holiday rule: opens if Mon is a holiday, closes the next day instead. Free guided tours 10:30/12:00/14:00/15:30, 40-60 min, max ~25, ages 10+, INDIVIDUALS CANNOT PRE-BOOK (walk up to the guide office), no tours Mondays, groups 25+ on 02-2133-6269. Open to 20:00 in winter = rare after-dark traditional site.",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/faq",
+   "https://hanokmaeul.co.kr/guide"
+  ],
   "text": "- **What:** Five restored hanok, traditional garden, craft spaces, and Seoul Namsan Gukakdang near Chungmuro Station.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "myeongdong.md#25:70f30cf3c3": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "myeongdong.md",
+  "kind": "TIME",
+  "note": "Namsangol Hanok Village: winter Nov-Mar 09:00-20:00 CONFIRMED on the operator's own site (hanokmaeul.or.kr root fails but /ko/faq works). Free. KEY NUANCE the entry missed: only the five hanok INTERIORS close on Mondays - the traditional garden is open year-round, making this a viable Monday fallback when central Seoul museums shut (Nov 2/9/16). Monday-holiday rule: opens if Mon is a holiday, closes the next day instead. Free guided tours 10:30/12:00/14:00/15:30, 40-60 min, max ~25, ages 10+, INDIVIDUALS CANNOT PRE-BOOK (walk up to the guide office), no tours Mondays, groups 25+ on 02-2133-6269. Open to 20:00 in winter = rare after-dark traditional site.",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/faq",
+   "https://hanokmaeul.co.kr/guide"
+  ],
+  "text": "- **Open until 20:00 in winter** — one of the few traditional sites in central Seoul you can visit after dark, and it's floodlit.",
+  "verdict": "verified"
+ },
+ "myeongdong.md#25:71c9fb0827": {
+  "checked_on": "2026-08-17",
+  "entry": 25,
+  "file": "myeongdong.md",
+  "kind": "DATE",
+  "note": "Namsangol Hanok Village: winter Nov-Mar 09:00-20:00 CONFIRMED on the operator's own site (hanokmaeul.or.kr root fails but /ko/faq works). Free. KEY NUANCE the entry missed: only the five hanok INTERIORS close on Mondays - the traditional garden is open year-round, making this a viable Monday fallback when central Seoul museums shut (Nov 2/9/16). Monday-holiday rule: opens if Mon is a holiday, closes the next day instead. Free guided tours 10:30/12:00/14:00/15:30, 40-60 min, max ~25, ages 10+, INDIVIDUALS CANNOT PRE-BOOK (walk up to the guide office), no tours Mondays, groups 25+ on 02-2133-6269. Open to 20:00 in winter = rare after-dark traditional site.",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/faq",
+   "https://hanokmaeul.co.kr/guide"
+  ],
+  "text": "- **✅ Monday is not a write-off here.** Only the five hanok *interiors* shut — **the traditional garden is open year-round**, and plenty of people still visit on Mondays. Given Mon Nov 2, 9 and 16 close most of central Seoul's museums, a Monday stroll through the garden is a genuinely useful fallback.",
+  "verdict": "verified"
  },
  "myeongdong.md#25:c6f6b9e289": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 25,
   "file": "myeongdong.md",
   "kind": "ACCESS",
-  "note": "",
-  "sources": [],
+  "note": "Namsangol Hanok Village: winter Nov-Mar 09:00-20:00 CONFIRMED on the operator's own site (hanokmaeul.or.kr root fails but /ko/faq works). Free. KEY NUANCE the entry missed: only the five hanok INTERIORS close on Mondays - the traditional garden is open year-round, making this a viable Monday fallback when central Seoul museums shut (Nov 2/9/16). Monday-holiday rule: opens if Mon is a holiday, closes the next day instead. Free guided tours 10:30/12:00/14:00/15:30, 40-60 min, max ~25, ages 10+, INDIVIDUALS CANNOT PRE-BOOK (walk up to the guide office), no tours Mondays, groups 25+ on 02-2133-6269. Open to 20:00 in winter = rare after-dark traditional site.",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/faq",
+   "https://hanokmaeul.co.kr/guide"
+  ],
   "text": "- **Price:** Village admission is free; workshops and performances may cost extra.",
-  "verdict": "unchecked"
+  "verdict": "verified"
  },
  "myeongdong.md#25:e9e5287eda": {
   "checked_on": null,
@@ -10216,6 +10288,7 @@
   "file": "myeongdong.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official sources (reviewed Aug 17):** [Jung-gu Tourism](https://www.junggu.seoul.kr/tour/content.do?cmsid=14818&sf_category1=CWS1325&mode=view&page=&cid=980666029) · [venue](https://www.hanokmaeul.or.kr)",
   "verdict": "unchecked"

@@ -170,9 +170,12 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 25) 🏘️ **Namsangol Hanok Village** — 🔎 VERIFIED PLACE
 - **What:** Five restored hanok, traditional garden, craft spaces, and Seoul Namsan Gukakdang near Chungmuro Station.
-- **Hours:** Official site lists November–March 09:00–20:00, closed Monday, with holiday exceptions.
+- **Hours:** **Winter (Nov–Mar) 09:00–20:00** — confirmed on the operator's own site. **The hanok interiors close Mondays**, *unless* that Monday is a public holiday, in which case it opens and closes the following day instead.
+- **✅ Monday is not a write-off here.** Only the five hanok *interiors* shut — **the traditional garden is open year-round**, and plenty of people still visit on Mondays. Given Mon Nov 2, 9 and 16 close most of central Seoul's museums, a Monday stroll through the garden is a genuinely useful fallback.
+- **🇬🇧 Free guided tours** run at **10:30, 12:00, 14:00 and 15:30** (40–60 min, max ~25 people, ages 10+). **Individuals cannot pre-book** — turn up at the guide office by the main gate. **No tours on Mondays.** Groups of 25+ book on ☎ 02-2133-6269.
+- **Open until 20:00 in winter** — one of the few traditional sites in central Seoul you can visit after dark, and it's floodlit.
 - **Price:** Village admission is free; workshops and performances may cost extra.
-- **Official sources (reviewed Aug 17):** [Jung-gu Tourism](https://www.junggu.seoul.kr/tour/content.do?cmsid=14818&sf_category1=CWS1325&mode=view&page=&cid=980666029) · [venue](https://www.hanokmaeul.or.kr)
+- **Official sources (reviewed Aug 18):** [Namsangol Hanok Village — hours, free admission, closures](https://www.hanokmaeul.or.kr/ko/faq) · [guided-tour times](https://hanokmaeul.co.kr/guide) · [Jung-gu Tourism](https://www.junggu.seoul.kr/tour/content.do?cmsid=14818&sf_category1=CWS1325&mode=view&page=&cid=980666029)
 
 ### 26) 🪁 **Namsangol traditional craft and game programs** — ⏳ RE-CHECK
 - **What:** The village runs real on-site craft and traditional-game sessions, but program dates and availability change.
