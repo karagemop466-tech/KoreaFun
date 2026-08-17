@@ -56,8 +56,12 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · district sites for Busanjin-gu and Suyeong-gu
 
 ### 9) 🛩️ **Gwangalli M Drone Light Show** — ⏳ WEEKLY, WEATHER-DEPENDENT
-- **What:** Suyeong-gu Saturday drone show over Gwangalli. Winter pattern in recent years: 19:00 and 21:00. **Nov 7 is fireworks night** — do not assume a separate drone show that evening.
-- **Official source (reviewed Aug 17):** [gwangallimdrone.co.kr](https://www.gwangallimdrone.co.kr)
+- **What:** Korea's first and largest permanent drone light show — **1,100 drones**, ~12 minutes, over Gwangalli beach with the Gwangan Bridge behind it. Free, no ticket, viewable from anywhere on the beach.
+- **When (operator, Aug 18):** **every Saturday, TWO shows, and your trip is the winter schedule: 19:00 and 21:00.** *(Summer Mar–Sep is 20:00 and 22:00.)* Some travel write-ups claim winter drops to a single 19:00 show — **the operator's own event page says two.**
+- **✅ Your Saturdays are Nov 7, 14 and 21.** With sunset around 17:20 in November, the 19:00 show is fully dark — no need to wait for the late one.
+- **⚠️ Nov 7 is Busan Fireworks night** — do not assume a normal drone show that evening; the beach programming changes and crowds are extreme.
+- **⚠️ Weather-dependent** — cancelled for high wind, rain or poor visibility. Special editions run up to 3,000 drones. ☎ Suyeong-gu 051-610-6518.
+- **Official source (reviewed Aug 18):** [Gwangalli M Drone Light Show — official show times](https://www.gwangallimdrone.co.kr/overview)
 
 ---
 
@@ -147,8 +151,12 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [yeongdo.go.kr](https://www.yeongdo.go.kr) · [Visit Busan](https://english.visitbusan.net)
 
 ### 27) 🌉 **Yeongdo Bridge lift** — 🔎 VERIFIED ACTIVITY
-- **What:** Historic bascule bridge. Municipal tourism describes a regular afternoon lifting; confirm the current weekday/Saturday rule on the Yeongdo-gu page before planning around 14:00.
-- **Official source (reviewed Aug 17):** [bsyeongdo.go.kr](https://www.bsyeongdo.go.kr) · [Visit Busan](https://english.visitbusan.net)
+- **What:** Korea's **only** bascule (lifting) bridge, opened 1934. A 31.3 m section of the deck rises to about 75°, and the road is closed to traffic while it does.
+- **⚠️ CORRECTION — it lifts on SATURDAYS ONLY, not daily.** **14:00, for 15 minutes** (so 14:00–14:15). It was a daily 14:00 event for years, and a noon event before Sep 2015, but it has since been cut to **once a week** because of the traffic disruption. Plenty of guidance still says "daily" — that is out of date.
+- **✅ In your window that means Sat Nov 7, 14 and 21 at 14:00.** Free, outdoors, no booking.
+- **Where to stand:** **Yurari Square (유라리광장)** at the Nampo-dong end gives the head-on view. It's a 15-minute event — arrive by 13:45. Cancelled in heavy rain, high wind or storm warnings.
+- **💡 It sits between Jagalchi Market and Kkangtong Market**, so it slots into a Nampo-dong afternoon without a detour.
+- **Official sources (reviewed Aug 18):** [Busan City — bridge-lift schedule change notice](https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev) · [KTV — Saturday 14:00 lifting, 2024 report](https://m.ktv.go.kr/content/view?content_id=705652) · [Visit Busan](https://english.visitbusan.net)
 
 ### 28) 🌲 **Taejongdae Resort Park** — 🔎 VERIFIED PLACE
 - **What:** Cliff-and-pine park on southern Yeongdo, with optional Danubi tram. Park grounds are free.

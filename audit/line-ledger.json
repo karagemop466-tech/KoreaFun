@@ -543,15 +543,81 @@
   "text": "- **What:** White cliffside village on Yeongdo and the sea-level boardwalk/tunnels beneath it. Storms close the lower path.",
   "verdict": "unchecked"
  },
+ "busan.md#27:3050001223": {
+  "checked_on": "2026-08-17",
+  "entry": 27,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Yeongdo Bridge lift: CORRECTED FREQUENCY. Entry hedged 'confirm the current weekday/Saturday rule'. It is SATURDAYS ONLY, 14:00-14:15 - cut from daily because of traffic disruption (and it was noon before Sep 2015). Much guidance still says daily. Free, no booking; view from Yurari Square at the Nampo-dong end; cancelled in heavy rain/wind. Korea's only bascule bridge, 31.3m deck section rising ~75 degrees. CLASH LOGGED: 14:00 Sat lift collides head-on with the 14:00 Busan IPark match on Nov 21 - added to itinerary.md Day 22.",
+  "sources": [
+   "https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev",
+   "https://m.ktv.go.kr/content/view?content_id=705652"
+  ],
+  "text": "- **⚠️ CORRECTION — it lifts on SATURDAYS ONLY, not daily.** **14:00, for 15 minutes** (so 14:00–14:15). It was a daily 14:00 event for years, and a noon event before Sep 2015, but it has since been cut to **once a week** because of the traffic disruption. Plenty of guidance still says \"daily\" — that is out of date.",
+  "verdict": "verified"
+ },
  "busan.md#27:52903bcf8f": {
   "checked_on": null,
   "entry": 27,
   "file": "busan.md",
   "kind": "TIME",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Historic bascule bridge. Municipal tourism describes a regular afternoon lifting; confirm the current weekday/Saturday rule on the Yeongdo-gu page before planning around 14:00.",
   "verdict": "unchecked"
+ },
+ "busan.md#27:7978af6729": {
+  "checked_on": "2026-08-17",
+  "entry": 27,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Yeongdo Bridge lift: CORRECTED FREQUENCY. Entry hedged 'confirm the current weekday/Saturday rule'. It is SATURDAYS ONLY, 14:00-14:15 - cut from daily because of traffic disruption (and it was noon before Sep 2015). Much guidance still says daily. Free, no booking; view from Yurari Square at the Nampo-dong end; cancelled in heavy rain/wind. Korea's only bascule bridge, 31.3m deck section rising ~75 degrees. CLASH LOGGED: 14:00 Sat lift collides head-on with the 14:00 Busan IPark match on Nov 21 - added to itinerary.md Day 22.",
+  "sources": [
+   "https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev",
+   "https://m.ktv.go.kr/content/view?content_id=705652"
+  ],
+  "text": "- **What:** Korea's **only** bascule (lifting) bridge, opened 1934. A 31.3 m section of the deck rises to about 75°, and the road is closed to traffic while it does.",
+  "verdict": "verified"
+ },
+ "busan.md#27:a0a58cf725": {
+  "checked_on": "2026-08-17",
+  "entry": 27,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Yeongdo Bridge lift: CORRECTED FREQUENCY. Entry hedged 'confirm the current weekday/Saturday rule'. It is SATURDAYS ONLY, 14:00-14:15 - cut from daily because of traffic disruption (and it was noon before Sep 2015). Much guidance still says daily. Free, no booking; view from Yurari Square at the Nampo-dong end; cancelled in heavy rain/wind. Korea's only bascule bridge, 31.3m deck section rising ~75 degrees. CLASH LOGGED: 14:00 Sat lift collides head-on with the 14:00 Busan IPark match on Nov 21 - added to itinerary.md Day 22.",
+  "sources": [
+   "https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev",
+   "https://m.ktv.go.kr/content/view?content_id=705652"
+  ],
+  "text": "- **Where to stand:** **Yurari Square (유라리광장)** at the Nampo-dong end gives the head-on view. It's a 15-minute event — arrive by 13:45. Cancelled in heavy rain, high wind or storm warnings.",
+  "verdict": "verified"
+ },
+ "busan.md#27:b1fa44e5fc": {
+  "checked_on": "2026-08-17",
+  "entry": 27,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Yeongdo Bridge lift: CORRECTED FREQUENCY. Entry hedged 'confirm the current weekday/Saturday rule'. It is SATURDAYS ONLY, 14:00-14:15 - cut from daily because of traffic disruption (and it was noon before Sep 2015). Much guidance still says daily. Free, no booking; view from Yurari Square at the Nampo-dong end; cancelled in heavy rain/wind. Korea's only bascule bridge, 31.3m deck section rising ~75 degrees. CLASH LOGGED: 14:00 Sat lift collides head-on with the 14:00 Busan IPark match on Nov 21 - added to itinerary.md Day 22.",
+  "sources": [
+   "https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev",
+   "https://m.ktv.go.kr/content/view?content_id=705652"
+  ],
+  "text": "- **💡 It sits between Jagalchi Market and Kkangtong Market**, so it slots into a Nampo-dong afternoon without a detour.",
+  "verdict": "prose"
+ },
+ "busan.md#27:b72dc619d5": {
+  "checked_on": "2026-08-17",
+  "entry": 27,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Yeongdo Bridge lift: CORRECTED FREQUENCY. Entry hedged 'confirm the current weekday/Saturday rule'. It is SATURDAYS ONLY, 14:00-14:15 - cut from daily because of traffic disruption (and it was noon before Sep 2015). Much guidance still says daily. Free, no booking; view from Yurari Square at the Nampo-dong end; cancelled in heavy rain/wind. Korea's only bascule bridge, 31.3m deck section rising ~75 degrees. CLASH LOGGED: 14:00 Sat lift collides head-on with the 14:00 Busan IPark match on Nov 21 - added to itinerary.md Day 22.",
+  "sources": [
+   "https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev",
+   "https://m.ktv.go.kr/content/view?content_id=705652"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Busan City — bridge-lift schedule change notice](https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev) · [KTV — Saturday 14:00 lifting, 2024 report](https://m.ktv.go.kr/content/view?content_id=705652) · [Visit Busan](https://english.visitbusan.net)",
+  "verdict": "sourced"
  },
  "busan.md#27:d1c82d5acf": {
   "checked_on": null,
@@ -559,9 +625,23 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [bsyeongdo.go.kr](https://www.bsyeongdo.go.kr) · [Visit Busan](https://english.visitbusan.net)",
   "verdict": "unchecked"
+ },
+ "busan.md#27:ded433ca86": {
+  "checked_on": "2026-08-17",
+  "entry": 27,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Yeongdo Bridge lift: CORRECTED FREQUENCY. Entry hedged 'confirm the current weekday/Saturday rule'. It is SATURDAYS ONLY, 14:00-14:15 - cut from daily because of traffic disruption (and it was noon before Sep 2015). Much guidance still says daily. Free, no booking; view from Yurari Square at the Nampo-dong end; cancelled in heavy rain/wind. Korea's only bascule bridge, 31.3m deck section rising ~75 degrees. CLASH LOGGED: 14:00 Sat lift collides head-on with the 14:00 Busan IPark match on Nov 21 - added to itinerary.md Day 22.",
+  "sources": [
+   "https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev",
+   "https://m.ktv.go.kr/content/view?content_id=705652"
+  ],
+  "text": "- **✅ In your window that means Sat Nov 7, 14 and 21 at 14:00.** Free, outdoors, no booking.",
+  "verdict": "verified"
  },
  "busan.md#28:dd008838dc": {
   "checked_on": null,
@@ -1246,15 +1326,64 @@
   "text": "- **What:** Recurring winter illuminations on Seomyeon 1st Street and the Millak waterfront. Previous winters started in November, but **2026 switch-on dates were not on an organizer page** at review.",
   "verdict": "unchecked"
  },
+ "busan.md#9:09ea4ba1aa": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Gwangalli drone show: operator's own overview page settles a conflict in secondary sources. WINTER (Oct-Feb) = TWO shows 19:00 and 21:00 (summer Mar-Sep 20:00/22:00). Several travel posts claim winter drops to a single 19:00 show - the operator says two. 1,100 drones, ~12 min, free, viewable anywhere on the beach. Saturdays Nov 7/14/21. Nov 7 is fireworks night, programming differs. Sunset ~17:20 so the 19:00 show is fully dark. Tel 051-610-6518.",
+  "sources": [
+   "https://www.gwangallimdrone.co.kr/overview"
+  ],
+  "text": "- **⚠️ Weather-dependent** — cancelled for high wind, rain or poor visibility. Special editions run up to 3,000 drones. ☎ Suyeong-gu 051-610-6518.",
+  "verdict": "prose"
+ },
  "busan.md#9:16a245072c": {
   "checked_on": null,
   "entry": 9,
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [gwangallimdrone.co.kr](https://www.gwangallimdrone.co.kr)",
   "verdict": "unchecked"
+ },
+ "busan.md#9:4e037de50a": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Gwangalli drone show: operator's own overview page settles a conflict in secondary sources. WINTER (Oct-Feb) = TWO shows 19:00 and 21:00 (summer Mar-Sep 20:00/22:00). Several travel posts claim winter drops to a single 19:00 show - the operator says two. 1,100 drones, ~12 min, free, viewable anywhere on the beach. Saturdays Nov 7/14/21. Nov 7 is fireworks night, programming differs. Sunset ~17:20 so the 19:00 show is fully dark. Tel 051-610-6518.",
+  "sources": [
+   "https://www.gwangallimdrone.co.kr/overview"
+  ],
+  "text": "- **What:** Korea's first and largest permanent drone light show — **1,100 drones**, ~12 minutes, over Gwangalli beach with the Gwangan Bridge behind it. Free, no ticket, viewable from anywhere on the beach.",
+  "verdict": "verified"
+ },
+ "busan.md#9:64371c9b04": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Gwangalli drone show: operator's own overview page settles a conflict in secondary sources. WINTER (Oct-Feb) = TWO shows 19:00 and 21:00 (summer Mar-Sep 20:00/22:00). Several travel posts claim winter drops to a single 19:00 show - the operator says two. 1,100 drones, ~12 min, free, viewable anywhere on the beach. Saturdays Nov 7/14/21. Nov 7 is fireworks night, programming differs. Sunset ~17:20 so the 19:00 show is fully dark. Tel 051-610-6518.",
+  "sources": [
+   "https://www.gwangallimdrone.co.kr/overview"
+  ],
+  "text": "- **When (operator, Aug 18):** **every Saturday, TWO shows, and your trip is the winter schedule: 19:00 and 21:00.** *(Summer Mar–Sep is 20:00 and 22:00.)* Some travel write-ups claim winter drops to a single 19:00 show — **the operator's own event page says two.**",
+  "verdict": "verified"
+ },
+ "busan.md#9:7ded132f89": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Gwangalli drone show: operator's own overview page settles a conflict in secondary sources. WINTER (Oct-Feb) = TWO shows 19:00 and 21:00 (summer Mar-Sep 20:00/22:00). Several travel posts claim winter drops to a single 19:00 show - the operator says two. 1,100 drones, ~12 min, free, viewable anywhere on the beach. Saturdays Nov 7/14/21. Nov 7 is fireworks night, programming differs. Sunset ~17:20 so the 19:00 show is fully dark. Tel 051-610-6518.",
+  "sources": [
+   "https://www.gwangallimdrone.co.kr/overview"
+  ],
+  "text": "- **✅ Your Saturdays are Nov 7, 14 and 21.** With sunset around 17:20 in November, the 19:00 show is fully dark — no need to wait for the late one.",
+  "verdict": "verified"
  },
  "busan.md#9:9a630048b7": {
   "checked_on": null,
@@ -1262,9 +1391,34 @@
   "file": "busan.md",
   "kind": "TIME",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Suyeong-gu Saturday drone show over Gwangalli. Winter pattern in recent years: 19:00 and 21:00. **Nov 7 is fireworks night** — do not assume a separate drone show that evening.",
   "verdict": "unchecked"
+ },
+ "busan.md#9:c42837b291": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Gwangalli drone show: operator's own overview page settles a conflict in secondary sources. WINTER (Oct-Feb) = TWO shows 19:00 and 21:00 (summer Mar-Sep 20:00/22:00). Several travel posts claim winter drops to a single 19:00 show - the operator says two. 1,100 drones, ~12 min, free, viewable anywhere on the beach. Saturdays Nov 7/14/21. Nov 7 is fireworks night, programming differs. Sunset ~17:20 so the 19:00 show is fully dark. Tel 051-610-6518.",
+  "sources": [
+   "https://www.gwangallimdrone.co.kr/overview"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Gwangalli M Drone Light Show — official show times](https://www.gwangallimdrone.co.kr/overview)",
+  "verdict": "sourced"
+ },
+ "busan.md#9:de53c05c59": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Gwangalli drone show: operator's own overview page settles a conflict in secondary sources. WINTER (Oct-Feb) = TWO shows 19:00 and 21:00 (summer Mar-Sep 20:00/22:00). Several travel posts claim winter drops to a single 19:00 show - the operator says two. 1,100 drones, ~12 min, free, viewable anywhere on the beach. Saturdays Nov 7/14/21. Nov 7 is fireworks night, programming differs. Sunset ~17:20 so the 19:00 show is fully dark. Tel 051-610-6518.",
+  "sources": [
+   "https://www.gwangallimdrone.co.kr/overview"
+  ],
+  "text": "- **⚠️ Nov 7 is Busan Fireworks night** — do not assume a normal drone show that evening; the beach programming changes and crowds are extreme.",
+  "verdict": "verified"
  },
  "changwon-jinhae.md#10:188bae8e6a": {
   "checked_on": null,
