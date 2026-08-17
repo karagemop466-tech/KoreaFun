@@ -77,7 +77,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | Oct 31 – Nov 3 | BANKSY exhibition (last days) · Seoul Outdoor Library (ends Nov 1) · **Busan Biennale closes Nov 1** | Seoul / Busan | ✅ |
 | **Sat Oct 31** | **Yeosu Night Sea Fireworks Festival** (arrival day — only if you start in Yeosu) · **Yeosu Island Food Festival** same day/site | Yeosu | ✅ |
 | **Oct 31 – Sun Nov 8** | **Changgyeonggung Mulbit Yeonhwa** — full 8-scene night media-art run from 16:40, ₩1,000 palace entry, no booking (**partial show only after Nov 8**) | Seoul | ✅ |
-| **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
+| **Sun Nov 1** | **JTBC Seoul Marathon** (**08:00** start, Sangam — spectate; central-Seoul road closures all morning) · Dear Evan Hansen musical closes | Seoul | ✅ |
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
 | Sat Oct 24–Sun Nov 15 | **Pohang Steel Art Festival** — outdoor steel sculpture, workshops, city art tours (venue TBA) | Pohang | ✅ |
 | **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (DCC Hall II; ₩16,000 adv/₩23,000 door, 19+ w/ID; only the *business zone* is buyers-only Nov 6 + Sat before 14:00) | Daejeon | ✅ |

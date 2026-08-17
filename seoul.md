@@ -22,8 +22,10 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ### 2) 🏃 **JTBC Seoul Marathon** — ✅ CONFIRMED — Sun Nov 1, 2026
 - **What:** Full marathon and 10 km race. Spectating is free; road closures affect central Seoul that morning.
-- **When:** **Sunday, Nov 1, 2026**, 07:30 start from Sangam World Cup Park. Official English page lists the full finish at Olympic Park and the 10 km finish at Yeouido Park (subject to organizer change).
-- **Official source (reviewed Aug 17):** [JTBC Seoul Marathon](http://en.marathon.jtbc.com/) · [AIMS listing](https://aims-worldrunning.org/countries/54.html)
+- **When:** **Sunday, Nov 1, 2026.** Start is **08:00** from **Sangam Peace Plaza / World Cup Park** (an earlier version of this entry said 07:30 — the organizer and race-registration listings both say 08:00). Full-course finish **Olympic Park**; 10 km finish **Yeouido Park**. Course is subject to organizer change.
+- **Scale:** ~**32,000 runners** across full + 10 km, organized by JTBC with the Korea Association of Athletics Federations. It is one of Korea's two biggest road races.
+- **⚠️ What this means for you:** the route runs Sangam → Mapo Bridge → Yeouido → Gangnam → Jamsil, i.e. straight through central Seoul on your **first full morning**. Expect **road closures and heavy bus diversions until early afternoon**. Use the subway that morning, not taxis or buses.
+- **Official sources (reviewed Aug 18):** [JTBC Seoul Marathon (EN)](http://en.marathon.jtbc.com/) — homepage states date and Sangam start / Olympic Park finish; detail pages are script-rendered · [AIMS listing](https://aims-worldrunning.org/countries/54.html)
 
 ### 3) 📚 **Seoul Outdoor Library** — ✅ CONFIRMED — through Sun Nov 1, 2026
 - **What:** Open-air reading spaces at Seoul Plaza, Gwanghwamun Book Plaza, and a Cheonggyecheon stretch.
@@ -74,9 +76,13 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **⚠️ Late finish:** a Thursday-night standing show in Goyang means a late return. Check the last GTX-A / Line 3 departure before booking.
 - **Official sources (reviewed Aug 17):** [NOL Ticket official notice](https://tickets.interpark.com/contents/notice/detail/13669) · [NOL global booking page](https://world.nol.com/en/ticket/genre/CONCERT/products/26006756?placeCode=26000495)
 
-### 11) 🎼 **Jujutsu Kaisen in Concert** — ✅ CONFIRMED — Sat–Sun Nov 7–8, 2026
-- **What:** Anime concert at Kyung Hee University Grand Peace Palace.
-- **Official source (reviewed Aug 17):** [NOL Ticket product page](https://world.nol.com/en/ticket/places/17000488/products/26006618)
+### 11) 🎼 **Jujutsu Kaisen in Concert (주술회전 인 콘서트)** — ✅ CONFIRMED — Sat–Sun Nov 7–8, 2026 · UPDATED
+- **What:** Live screen-concert covering **all three seasons** of the Jujutsu Kaisen anime, with a **12-musician ensemble** mixing classical and contemporary instruments playing to the animation. World-tour stop, at **Kyung Hee University Grand Peace Palace (경희대학교 평화의전당)**.
+- **When:** **Sat Nov 7 at 18:30** and **Sun Nov 8 at 14:00**. Running time **140 min including intermission**.
+- **Price:** VIP ₩154,000 / R ₩132,000 / S ₩110,000 / A ₩99,000 / B ₩77,000. Limit 4 per person.
+- **⚠️ Ages 14+** (born on or before Dec 31, 2011) — a hard rule, not a guideline.
+- **⚠️ Nov 7 clash:** the Saturday show collides with Busan Fireworks, KGMA Day 1 and My Chemical Romance. The **Sunday 14:00 matinee is the easy way out** — it conflicts with nothing else in this guide.
+- **Official sources (reviewed Aug 18):** [NOL Ticket official notice](https://tickets.interpark.com/contents/notice/detail/13737) — dates, times, prices, age limit · [YES24 Ticket notice](https://m.ticket.yes24.com/Notice/18202?type=1&order=1) · also sold via TicketLink
 
 ### 12) 🖼️ **Leeum — Inside Other Spaces: Environments by Women Artists 1956–1976** — ✅ CONFIRMED — through 29 Nov 2026
 - **What:** Immersive reconstructed environments, organized with Haus der Kunst Munich. Full official title: **"Inside Other Spaces: Women Artists' Synaesthetic Environments 1956–1976"**, with **11 artists**.
