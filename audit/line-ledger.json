@@ -1152,15 +1152,81 @@
   "text": "- **What:** Municipal history museum in Nam-gu. Free; closed Monday.",
   "verdict": "unchecked"
  },
+ "busan.md#39:09c6d157df": {
+  "checked_on": "2026-08-17",
+  "entry": 39,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Eulsukdo / Busan MoCA: RISK FLAGGED, not yet resolvable. MoCA closed 5.5 weeks (Jul 20 - Aug 28 2026) purely to INSTALL the Biennale, which runs Aug 29 - Nov 1. The Busan leg is Nov 19-22, i.e. after de-installation would begin. No de-install closure notice posted at review (Aug 18) so this cannot be confirmed either way - entry now tells the reader to check the notice board rather than assuming open. TWO STANDING CLOSURES found on the notice board, both 'until further notice' and neither lifted: rooftop observatory closed since Jul 2025, MoCA shuttle bus suspended since Aug 2025. Wetland/eco-center is unaffected and free, so the trip still has a reason to happen. Tel 051-220-7355.",
+  "sources": [
+   "https://www.busan.go.kr/moca_en/newsEvent0101",
+   "https://www.busan.go.kr/moca_en/newsEvent0101/1736245"
+  ],
+  "text": "- **⚠️ Timing trap: MoCA is a Biennale venue (#3), and the Biennale ends Nov 1 — your Busan days are Nov 19–22.** The museum **shut for five and a half weeks (Jul 20 – Aug 28) purely to install** the Biennale, so a de-installation closure in November is a real possibility. No notice had been posted at review. **Check the MoCA notice board before making the trip out** — this is a long ride for a locked door.",
+  "verdict": "verified"
+ },
+ "busan.md#39:3046fbb297": {
+  "checked_on": "2026-08-17",
+  "entry": 39,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Eulsukdo / Busan MoCA: RISK FLAGGED, not yet resolvable. MoCA closed 5.5 weeks (Jul 20 - Aug 28 2026) purely to INSTALL the Biennale, which runs Aug 29 - Nov 1. The Busan leg is Nov 19-22, i.e. after de-installation would begin. No de-install closure notice posted at review (Aug 18) so this cannot be confirmed either way - entry now tells the reader to check the notice board rather than assuming open. TWO STANDING CLOSURES found on the notice board, both 'until further notice' and neither lifted: rooftop observatory closed since Jul 2025, MoCA shuttle bus suspended since Aug 2025. Wetland/eco-center is unaffected and free, so the trip still has a reason to happen. Tel 051-220-7355.",
+  "sources": [
+   "https://www.busan.go.kr/moca_en/newsEvent0101",
+   "https://www.busan.go.kr/moca_en/newsEvent0101/1736245"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Busan MoCA — notice board (check for de-installation closures)](https://www.busan.go.kr/moca_en/newsEvent0101) · [Biennale install closure notice](https://www.busan.go.kr/moca_en/newsEvent0101/1736245) · [wetland.busan.go.kr](https://wetland.busan.go.kr)",
+  "verdict": "sourced"
+ },
+ "busan.md#39:8305fd5f69": {
+  "checked_on": "2026-08-17",
+  "entry": 39,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Eulsukdo / Busan MoCA: RISK FLAGGED, not yet resolvable. MoCA closed 5.5 weeks (Jul 20 - Aug 28 2026) purely to INSTALL the Biennale, which runs Aug 29 - Nov 1. The Busan leg is Nov 19-22, i.e. after de-installation would begin. No de-install closure notice posted at review (Aug 18) so this cannot be confirmed either way - entry now tells the reader to check the notice board rather than assuming open. TWO STANDING CLOSURES found on the notice board, both 'until further notice' and neither lifted: rooftop observatory closed since Jul 2025, MoCA shuttle bus suspended since Aug 2025. Wetland/eco-center is unaffected and free, so the trip still has a reason to happen. Tel 051-220-7355.",
+  "sources": [
+   "https://www.busan.go.kr/moca_en/newsEvent0101",
+   "https://www.busan.go.kr/moca_en/newsEvent0101/1736245"
+  ],
+  "text": "- **⚠️ Two standing closures**, both posted \"until further notice\" and neither lifted at review: the **rooftop observatory is closed** (since Jul 2025) and the **MoCA shuttle bus is suspended** (since Aug 2025). Plan on public transport and don't count on the roof view.",
+  "verdict": "verified"
+ },
+ "busan.md#39:a082a84b40": {
+  "checked_on": "2026-08-17",
+  "entry": 39,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Eulsukdo / Busan MoCA: RISK FLAGGED, not yet resolvable. MoCA closed 5.5 weeks (Jul 20 - Aug 28 2026) purely to INSTALL the Biennale, which runs Aug 29 - Nov 1. The Busan leg is Nov 19-22, i.e. after de-installation would begin. No de-install closure notice posted at review (Aug 18) so this cannot be confirmed either way - entry now tells the reader to check the notice board rather than assuming open. TWO STANDING CLOSURES found on the notice board, both 'until further notice' and neither lifted: rooftop observatory closed since Jul 2025, MoCA shuttle bus suspended since Aug 2025. Wetland/eco-center is unaffected and free, so the trip still has a reason to happen. Tel 051-220-7355.",
+  "sources": [
+   "https://www.busan.go.kr/moca_en/newsEvent0101",
+   "https://www.busan.go.kr/moca_en/newsEvent0101/1736245"
+  ],
+  "text": "- **✅ The wetland itself is unaffected** and needs no ticket — if the museum is shut, the birds are still the reason to come. ☎ MoCA 051-220-7355.",
+  "verdict": "verified"
+ },
  "busan.md#39:dc4b87275c": {
   "checked_on": null,
   "entry": 39,
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official sources (reviewed Aug 17):** [wetland.busan.go.kr](https://wetland.busan.go.kr) · [moca.busan.go.kr](https://moca.busan.go.kr)",
   "verdict": "unchecked"
+ },
+ "busan.md#39:ea93547f45": {
+  "checked_on": "2026-08-17",
+  "entry": 39,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Eulsukdo / Busan MoCA: RISK FLAGGED, not yet resolvable. MoCA closed 5.5 weeks (Jul 20 - Aug 28 2026) purely to INSTALL the Biennale, which runs Aug 29 - Nov 1. The Busan leg is Nov 19-22, i.e. after de-installation would begin. No de-install closure notice posted at review (Aug 18) so this cannot be confirmed either way - entry now tells the reader to check the notice board rather than assuming open. TWO STANDING CLOSURES found on the notice board, both 'until further notice' and neither lifted: rooftop observatory closed since Jul 2025, MoCA shuttle bus suspended since Aug 2025. Wetland/eco-center is unaffected and free, so the trip still has a reason to happen. Tel 051-220-7355.",
+  "sources": [
+   "https://www.busan.go.kr/moca_en/newsEvent0101",
+   "https://www.busan.go.kr/moca_en/newsEvent0101/1736245"
+  ],
+  "text": "- **What:** Migratory-bird wetland on Eulsukdo — **November is peak arrival season** for the estuary's winter migrants — plus **Busan MoCA**, the plant-walled contemporary-art museum on the same island.",
+  "verdict": "prose"
  },
  "busan.md#39:feebe22231": {
   "checked_on": null,
@@ -1168,6 +1234,7 @@
   "file": "busan.md",
   "kind": "DATE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Migratory-bird wetland (November is arrival season) plus the plant-walled contemporary-art museum on the same island. MoCA is a 2026 Biennale venue (entry #3).",
   "verdict": "unchecked"

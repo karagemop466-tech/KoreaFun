@@ -224,8 +224,11 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [museum.busan.go.kr](https://museum.busan.go.kr)
 
 ### 39) 🦩 **Nakdong Estuary Eco Center, Eulsukdo, and Busan MoCA** — 🔎 VERIFIED NATURE / MUSEUM
-- **What:** Migratory-bird wetland (November is arrival season) plus the plant-walled contemporary-art museum on the same island. MoCA is a 2026 Biennale venue (entry #3).
-- **Official sources (reviewed Aug 17):** [wetland.busan.go.kr](https://wetland.busan.go.kr) · [moca.busan.go.kr](https://moca.busan.go.kr)
+- **What:** Migratory-bird wetland on Eulsukdo — **November is peak arrival season** for the estuary's winter migrants — plus **Busan MoCA**, the plant-walled contemporary-art museum on the same island.
+- **⚠️ Timing trap: MoCA is a Biennale venue (#3), and the Biennale ends Nov 1 — your Busan days are Nov 19–22.** The museum **shut for five and a half weeks (Jul 20 – Aug 28) purely to install** the Biennale, so a de-installation closure in November is a real possibility. No notice had been posted at review. **Check the MoCA notice board before making the trip out** — this is a long ride for a locked door.
+- **⚠️ Two standing closures**, both posted "until further notice" and neither lifted at review: the **rooftop observatory is closed** (since Jul 2025) and the **MoCA shuttle bus is suspended** (since Aug 2025). Plan on public transport and don't count on the roof view.
+- **✅ The wetland itself is unaffected** and needs no ticket — if the museum is shut, the birds are still the reason to come. ☎ MoCA 051-220-7355.
+- **Official sources (reviewed Aug 18):** [Busan MoCA — notice board (check for de-installation closures)](https://www.busan.go.kr/moca_en/newsEvent0101) · [Biennale install closure notice](https://www.busan.go.kr/moca_en/newsEvent0101/1736245) · [wetland.busan.go.kr](https://wetland.busan.go.kr)
 
 ### 40) 🌅 **Dadaepo Beach** — 🔎 VERIFIED PLACE
 - **What:** Wide estuary beach and sunset flats. The Dream Fountain is seasonal and is usually **off** in November — come for the sunset, not the fountain.
