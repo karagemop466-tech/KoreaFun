@@ -47,7 +47,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | 20 | **Thu Nov 19** | → Busan | Morning KTX (2.5 hrs). 🎮 **G-STAR 2026 Day 1** (BEXCO) — go Friday-light, crowds build on weekends. ⚠️ 5SOS plays KINTEX tonight if you skipped G-STAR |
 | 21 | **Fri Nov 20** | Busan | 🎮 G-STAR Day 2 (or a 🧖 Spa Land Centum morning — 1 stop from BEXCO) · evening: 📺 **MAMA Awards live stream** (Osaka, free via Mnet Plus) at the hotel or pub |
 | 22 | **Sat Nov 21** | Busan | ⚡ CHOICE: ⚽ **Busan IPark vs Chungbuk Cheongju (충북청주), 14:00** (Gudeok) + G-STAR Day 3 · or full G-STAR · evening: 🛩️ **drone show 19:00 & 21:00 at Gwangalli** (free, weekly) |
-| 23 | **Sun Nov 22** | Busan → home | ⚠️ **Departure day — be realistic.** Busan→Seoul KTX is 2.5 hrs and ICN is another ~1.5 hrs beyond that. G-STAR Day 4 morning at BEXCO is feasible; adding ⚽ E-Land's 16:30 finale at Mokdong is **not** unless your flight is very late. 🖼️ Incheon ArtShow (INAS) also runs today and is the one option actually *near* the airport |
+| 23 | **Sun Nov 22** | Busan → home | ⚠️ **Departure day — be realistic.** Busan→Seoul KTX is 2.5 hrs and ICN is another ~1.5 hrs beyond that. G-STAR Day 4 morning at BEXCO is feasible; adding ⚽ E-Land's 16:30 finale at Mokdong is **not** unless your flight is very late. 🖼️ **Incheon ArtShow (INAS)** at Songdo Convensia runs **10:00–18:00 (last entry 17:00)** and is the one option actually *near* the airport — ~30–40 min from ICN, so a couple of hours there still leaves an afternoon/evening flight |
 
 ---
 
