@@ -141,7 +141,10 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 21) 💴 **Bank of Korea Money Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Currency and economic-history museum in the historic Bank of Korea building opposite Shinsegae.
-- **Hours/price:** Visit Seoul lists Tue–Sun 10:00–17:00, closed Monday, free. Check the Bank of Korea site for notices.
+- **Hours/price:** Tue–Sun **10:00–17:00, last entry 16:40. Free.** Closed Mondays, election days, Labour Day, Lunar New Year and Chuseok holidays, and **Dec 29–Jan 2**. ☎ 02-759-4881. **No public parking.**
+- **⚠️ Weekends and holidays require advance online booking** — weekdays you can walk in freely. Book through the museum site; a week ahead is normally enough.
+- **🇬🇧 There is a docent tour in English:** free 30-min talks run three times daily (11:00, 14:00, 15:00) and **the 14:00 slot is reserved for foreign visitors**. Reserve on the museum site.
+- **Building:** the 1907 structure was designed by Tatsuno Kingo — worth a look from outside even if you skip the galleries. Allow ~30 min inside.
 - **Official sources (reviewed Aug 17):** [Bank of Korea museum](https://www.bok.or.kr/museum/main/main.do) · [Visit Seoul](https://english.visitseoul.net/attractions/Bank-of-Korea-Money-Museum_/2733)
 
 ### 22) ✉️ **Korea Postage Stamp Museum** — 🔎 VERIFIED MUSEUM · NEW

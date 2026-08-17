@@ -82,12 +82,16 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 
 ### 13) 🧳 **Museum of Korea Emigration History** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal museum focused on the history of Korean emigration beginning through Incheon.
-- **Hours/price:** Incheon City lists 09:00–18:00, last entry 17:30, closed Monday and New Year’s Day, free.
+- **Hours/price:** **09:00–18:00, last entry 17:30. Free.** Closed **Mondays** (except when the Monday is a public holiday), **Jan 1**, and **the day after a public holiday** — that last rule is unusual and easy to trip over. ☎ 032-440-4710.
+- **Allow 40–60 minutes.** Four permanent halls trace emigration from Incheon port, which is the starting point of Korean emigration history — a natural pairing with the Maritime Museum (#14), both on Wolmi.
+- **Groups of 20+** must reserve by phone a week ahead; individuals just turn up.
 - **Official source (reviewed Aug 17):** [Incheon City museum guide](https://www.incheon.go.kr/en/EN030111)
 
 ### 14) ⚓ **Incheon National Maritime Museum** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** National museum on maritime history, trade, navigation, ports, and ocean culture, opened on Wolmi Island in 2024.
-- **Hours/price:** 10:00–18:00, last entry 17:30, closed Monday and designated holidays, free.
+- **What:** National museum on maritime history, trade, navigation, ports and ocean culture, opened on **Wolmi Island in Dec 2024** — so it's genuinely new. Permanent halls cover maritime exchange history, ports and shipping, fishing-village culture, plus a media room and a children's museum.
+- **Hours/price:** **10:00–18:00, last entry 17:30. Closed every Monday**, Jan 1, Lunar New Year's Day and Chuseok. **Free** — confirmed on the museum's own English homepage.
+- **✅ Two big Greece exhibitions run right through your trip:** 《그리스, 바다가 빚은 위대한 문명》 (*Greece: A Great Civilization Shaped by the Sea*), the headline special exhibition, **Aug 11–Dec 6, 2026**, and the companion theme show 《The First Wave: 조선造船, 그리스로 가다》, **Aug 10–Dec 6, 2026**. Both are on for every day you're in Korea.
+- **⚠️ Children's museum needs advance online booking** and admits children only with an accompanying adult.
 - **Official source (reviewed Aug 17):** [Incheon National Maritime Museum](https://www.inmm.or.kr/en/index.do)
 
 ### 15) 🎡 **Wolmi Culture Street and amusement parks** — 🔎 VERIFIED AREA
@@ -120,8 +124,11 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 - **Official sources (reviewed Aug 17):** [Tri-Bowl](https://www.tribowl.kr) · [VISITKOREA Songdo guide](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=177&vcontsId=137611)
 
 ### 20) 🔤 **National Museum of World Writing Systems** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** Museum comparing writing systems and civilizations, with multilingual interpretation and a permanent exhibition.
-- **Hours/price:** 10:00–18:00, closed Monday, free.
+- **What:** Only the **third museum in the world devoted to writing systems** (after Champollion in France and the National Museum of Chinese Writing), opened June 2023 in Songdo. Permanent exhibition is in B1, temporary galleries and a children's hands-on room on 1F, cafeteria on 2F looking over Songdo Central Park.
+- **Hours/price:** Tue–Sun **10:00–18:00, last entry 17:30. Closed Mondays**, Jan 1, and Lunar New Year's/Chuseok day. **Free** (paid special exhibitions excepted). ☎ 032-290-2000.
+- **⚠️ Monday-holiday rule:** if a Monday is a public holiday the museum **opens that Monday and closes the next weekday instead** — worth checking if your visit falls near a holiday.
+- **Free guided tours (Korean), 60 min:** Tue–Fri 10:30 / 14:00 / 15:30, weekends and holidays 10:30 / 14:00, first-come on the day.
+- **Children's hands-on room requires online advance booking** and an accompanying adult.
 - **Official source (reviewed Aug 17):** [National Museum of World Writing Systems](https://mow.or.kr/eng/index.do)
 
 ### 21) 🏢 **Songdo Convensia** — ⏳ CHECK EVENT CALENDAR

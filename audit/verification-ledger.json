@@ -2220,25 +2220,30 @@
  },
  "incheon.md#13": {
   "badge": "🔎",
-  "body_hash": "618d14dfe5",
-  "checked_on": null,
+  "body_hash": "d56c1d9fa4",
+  "checked_on": "2026-08-18",
   "file": "incheon.md",
-  "note": "",
+  "note": "Emigration History Museum 09:00-18:00 last entry 17:30, free - confirmed. CORRECTED closure rule: not just 'Monday and New Year' - also CLOSED THE DAY AFTER ANY PUBLIC HOLIDAY, and open when Monday itself is a holiday. Added 40-60min visit time, 032-440-4710, pairs with #14 on Wolmi.",
   "num": 13,
-  "sources": [],
+  "sources": [
+   "https://www.much.go.kr/cooperation/net/mke.do",
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=9b8a2c85-46a4-4c57-8af7-8fd23323bd3c"
+  ],
   "title": "🧳 Museum of Korea Emigration History",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "incheon.md#14": {
   "badge": "🔎",
-  "body_hash": "6978714b6a",
-  "checked_on": null,
+  "body_hash": "f32af2e108",
+  "checked_on": "2026-08-18",
   "file": "incheon.md",
-  "note": "",
+  "note": "Maritime Museum 10:00-18:00 last entry 17:30, Mon+Jan1+Seollal+Chuseok closed, FREE - confirmed on museum's own English homepage. MATERIAL ADD: two Greece exhibitions run through the ENTIRE trip - 그리스, 바다가 빚은 위대한 문명 Aug 11-Dec 6 and The First Wave Aug 10-Dec 6. Opened Dec 2024.",
   "num": 14,
-  "sources": [],
+  "sources": [
+   "https://www.inmm.or.kr/en/index.do"
+  ],
   "title": "⚓ Incheon National Maritime Museum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "incheon.md#15": {
   "badge": "🔎",
@@ -2308,14 +2313,17 @@
  },
  "incheon.md#20": {
   "badge": "🔎",
-  "body_hash": "9c1d88c827",
-  "checked_on": null,
+  "body_hash": "d231358068",
+  "checked_on": "2026-08-18",
   "file": "incheon.md",
-  "note": "",
+  "note": "World Writing Systems: 10:00-18:00 last entry 17:30, Mon closed, free - confirmed. Added: 3rd such museum worldwide (after Champollion/China), opened Jun 2023, MONDAY-HOLIDAY RULE (opens Mon holiday, closes next weekday), free 60-min guided tours Tue-Fri 10:30/14:00/15:30 + weekends 10:30/14:00, children's room needs booking. Tel 032-290-2000.",
   "num": 20,
-  "sources": [],
+  "sources": [
+   "https://mow.or.kr/kor/sub01_01.do",
+   "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=6390e512-a5ea-47f5-89f6-aa224447f282"
+  ],
   "title": "🔤 National Museum of World Writing Systems",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "incheon.md#21": {
   "badge": "⏳",
@@ -3205,14 +3213,16 @@
  },
  "myeongdong.md#21": {
   "badge": "🔎",
-  "body_hash": "5cb37ced1e",
-  "checked_on": null,
+  "body_hash": "233f7174ea",
+  "checked_on": "2026-08-18",
   "file": "myeongdong.md",
-  "note": "",
+  "note": "BOK Money Museum Tue-Sun 10:00-17:00 free confirmed, last entry 16:40. ADDED: weekends/holidays REQUIRE advance booking (weekdays walk-in), English docent tour at 14:00 daily reserved for foreign visitors, closed Dec 29-Jan 2 + election days + Labour Day, no parking, 1907 Tatsuno Kingo building, ~30min.",
   "num": 21,
-  "sources": [],
+  "sources": [
+   "https://www.bok.or.kr/museum/main/contents.do?menuNo=700112"
+  ],
   "title": "💴 Bank of Korea Money Museum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "myeongdong.md#22": {
   "badge": "🔎",
