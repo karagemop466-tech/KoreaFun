@@ -240,3 +240,62 @@ Counts: pohang 29 → 31, total 563 → 565. events.csv 166 → 168 rows.
 - `phcf.or.kr/performance/list.do` and `/phcf/culture_event/list.do` → "잘못된 접근" error page.
   The working city-wide listing is **`pohang.go.kr/portal/prfrmexhbt/list.do?mid=0206050000`**.
 - `mfph.kr` — 404.
+
+## Pass 8 — Yeosu deep pass + backlog clearance (Aug 17)
+
+### The important catch: Big-O Show no longer exists as a ticketed product
+`yeosu.md` #12 described a **ticketed** multimedia show and warned it "is not a free nightly fountain."
+That is now backwards. Yeosu City's official listing is titled **빅오 해상분수쇼** and states
+*"해상분수쇼는 남녀노소 누구나 자유롭게 관람이 가능합니다."* Korean coverage attributes the change to the
+cost of staging the full production. The ₩18,000–25,000 P/S-seat prices still all over blogs and
+aggregators describe a **discontinued** show.
+
+Also pulled the real operating rules, which materially change planning:
+**Apr 18 – Nov 8 2026, Wed–Sun only, closed Mon/Tue, 20:00 in November.**
+Within the Oct 31–Nov 22 trip that leaves only **Nov 4, 5, 6, 7, 8**. Entry rewritten and upgraded to ✅.
+
+### Yeosu Island Expo — hours, prices and a day-by-day for the overlap
+`yeosu2026.or.kr` is server-rendered and exposes `/content/4_1` (hours + full price table) and
+`/expo_schedule` (day-by-day programme grid). Added official hours (main venue 10:00–21:00, last entry
+20:00; sub-venues 10:00–18:00) and the full price ladder (₩15,000/9,000/6,000 standard, group and
+concession tiers, ₩32,000 family) to #1, plus a readiness warning — Korean reporting through mid-2026
+repeatedly flagged construction delays and thin facilities on the sub-venue islands.
+
+### Additions
+| # | Entry | Status |
+|---|---|---|
+| yeosu 33 | **Yeosu Night Sea Fireworks Festival**, Sat Oct 31 | ✅ |
+| yeosu 34 | **2026 Yeosu Island Food Festival**, Sat Oct 31 | ✅ (title + date only) |
+| yeosu 35 | **Day-by-day guide to the Oct 31–Nov 4 Expo overlap** | ✅ |
+| seoul 91 | **SeMA Seoseoul 《김희천: 두더지들》**, Aug 20–Nov 8 | ✅ |
+| suwon 38 | **정조테마공연장 마당놀이터**, to Nov 7 (+정조 K 스테이지 to Nov 1) | ✅ |
+
+The fireworks festival is a genuinely valuable find: it lands on **arrival day**, and the Expo schedule
+puts it and the island food festival at the same site on the same evening. Corroborated by the mayor's
+Nov 2025 statement that the 2026 edition would move into the Exhibition period. Note the dedicated
+microsite `yeosu.go.kr/ysff` **still shows the 2025 event**, so the Expo schedule is the citable source.
+
+Yeosu #31 city-tour bus upgraded ⏳→✅ with the official night-course timetable effective Sep 1 2026,
+fares (₩10,000/₩5,000) and operator phone — plus the seasonal catch that the Odongdo stop is not run in
+winter and its music fountain is Mar–Oct only, substituted with the Hamel Lighthouse.
+
+### seoul #25 Changgyeonggung Mulbit Yeonhwa — RESOLVED ⏳→✅
+Previous passes could not confirm the autumn run and correctly refused to trust the blogs. The
+**Korea Heritage Agency's own** Changgyeonggung programme page (`kh.or.kr/cms/content/view/1526`)
+publishes the 2026 전체상영 schedule: **Apr 24–May 3** and **Sep 8–Nov 8, starting 16:40**.
+So the autumn window the blogs claimed was right, but it is now sourced from the operator.
+
+Critical planning consequence captured in the entry: the **full 8-scene show ends Nov 8**, and outside
+the 전체상영 windows the programme drops **제2경 대춘당지 and 제5경 소춘당지** — the two headline water
+pieces. Also captured: ₩1,000 entry (free under 24 / over 65 / hanbok), no booking, closed Mondays,
+20:00 entry cutoff, no parking until Dec 31 2026, and the official rain rule (3 mm+ forecast at 13:00
+cancels scenes 2 and 5).
+
+Counts: total 565 → 570. events.csv 168 → 174 rows.
+
+### Dead ends this pass
+- `craftmuseum.seoul.go.kr/exhibition/current` — still the museum's own "page not found". Seoul Craft
+  Museum (#21/#22) stays ⏳; **still no basis to confirm those exhibition windows.**
+- `kh.or.kr/cont/view/fest/month/menu/210?searchDate=202611` — service-error page. The month calendar
+  needs a valid `idx`; the durable source is the per-palace CMS page `cms/content/view/1526`.
+- `mfph.kr` 404 (from Pass 7) unchanged.

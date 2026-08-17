@@ -148,10 +148,15 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **What:** Free outdoor performances on Seoul Plaza. Official festival page says May–December; a secondary 2026 write-up describes Wednesday and Sunday shows. Individual November programs are not copied here.
 - **Official source (reviewed Aug 17):** [Seoul Festival Calendar](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=378)
 
-### 25) 🏮 **Changgyeonggung Mulbit Yeonhwa (fall run)** — ⏳ RE-CHECK FALL DATES
-- **What:** Palace night media-art program around Chunjangji. The **2026 spring** full-show run is officially documented (**Apr 24–May 3**). Several 2026 visitor guides say a fall full-show window is planned **Sep 8–Nov 8**, but this review did not find a current Korea Heritage Service page locking those fall dates.
-- **Do not treat Sep 8–Nov 8 as confirmed.** Recheck [royal.khs.go.kr](https://royal.khs.go.kr) and hotline 1522-2295 in September–October.
-- **Official spring source (reviewed Aug 17):** [Seoul Culture Portal — 2026 spring Mulbit Yeonhwa](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=157485&menuNo=200013)
+### 25) 🏮 **Changgyeonggung Mulbit Yeonhwa (물빛연화) — autumn full run** — ✅ CONFIRMED — through **Sun Nov 8, 2026**, from **16:40** · UPDATED
+- **What:** A free-roaming night media-art programme built around **8 scenes (제1경–제8경)** at Changgyeonggung, centred on the **Chundangji** pond. Highlights: 제1경 '대화의 물길' (pines lit among the water path), 제2경 '물빛연화' on the large Chundangji, 제4경 '조화의 빛' at the Great Greenhouse, 제5경 '물의 숨결' on the small Chundangji.
+- **✅ Fall dates now confirmed (Korea Heritage Agency, Aug 17):** the agency's official Changgyeonggung programme page lists the 2026 **전체상영 (all-8-scene)** schedule as **Apr 24–May 3** and **Sep 8–Nov 8**, the autumn run starting at **16:40**. This resolves the earlier uncertainty — the previously-unverified "Sep 8–Nov 8" is correct and comes straight from the operator.
+- **⚠️ Read this carefully — it ends Nov 8:** the trip runs Oct 31–Nov 22, so the **full 8-scene show is only available Oct 31 – Nov 8**, i.e. your first nine days. Outside the 전체상영 windows the programme continues as **부분상영 (partial)** with **제2경 대춘당지 and 제5경 소춘당지 dropped** — those are the two headline water pieces. After Nov 8 you would be seeing the reduced version.
+- **Price/booking:** **No reservation — free roaming (자유관람).** You only pay palace admission (**₩1,000** adult; free for 24-and-under, 65-plus, and anyone in hanbok). Buy at the Honghwamun ticket office.
+- **Timing:** **Palace entry closes 20:00** and the grounds close 21:00 — get in well before 20:00. Closed **Mondays**.
+- **Rain rule (official):** if at 13:00 on the day the forecast shows **3 mm or more** cumulative rain during 19:00–21:00, the programme is cut back and the **제2경 and 제5경 water-projection segments are cancelled**.
+- **Access:** Line 4 **Hyehwa** Station Exit 4, ~12 min walk. **No parking** — Changgyeonggung is under restoration excavation with the lot closed through Dec 31, 2026, so take transit.
+- **Official sources (reviewed Aug 17):** [Korea Heritage Agency — Changgyeonggung programmes, 2026 screening schedule](https://www.kh.or.kr/cms/content/view/1526) · [2026 Mulbit Yeonhwa event detail (scene-by-scene + rain rule)](https://www.kh.or.kr/short/hckx) · [Seoul Culture Portal listing](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=157485&menuNo=200013) · hotline 1522-2295
 
 ### 26) 🥬 **Seoul Kimjang Culture Festival** — ⏳ TBA
 - **What:** Recurring city kimchi-making festival, traditionally early November at Seoul Plaza. **2026 dates were not published** at review.
@@ -444,6 +449,13 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 90) 🚶 **Seoul Walking Tours** — 🔎 VERIFIED CITY PROGRAM
 - **What:** Free multilingual guided walks run with the Seoul Tourism Organization. Reserve ahead.
 - **Official sources (reviewed Aug 17):** [Visit Seoul](https://english.visitseoul.net) · [sto.or.kr](https://www.sto.or.kr)
+
+### 91) 🎥 **SeMA Seoseoul — 《김희천: 두더지들》 (Kim Heecheon: Moles)** — ✅ CONFIRMED — Thu Aug 20–Sun Nov 8, 2026 · NEW
+- **What:** A media-artist solo exhibition by **김희천 (Kim Heecheon)** at the Seoul Museum of Art's newest branch, **서울시립 서서울미술관 (SeMA Seoseoul)**. Kim is one of Korea's best-known younger video artists, working in CG-heavy narrative video about digital life in Seoul.
+- **When:** **2026/08/20 – 2026/11/08**, confirmed on SeMA's own exhibition listing. That covers the **first nine days of the trip** (Oct 31 – Nov 8).
+- **Why it's worth it:** SeMA branches are **free**, and Seoseoul opened recently enough that it is far less crowded than the Seosomun main building — a good rainy-day option away from the tourist core.
+- **Before you go:** confirm opening hours and the weekly closed day on the branch's visitor page; SeMA branches usually close Mondays and run late on some evenings.
+- **Official sources (reviewed Aug 17):** [SeMA exhibition listing](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whatChoice2=N&whatChoice3=N&whatChoice4=N&whatChoice5=N&whenType=PLAN_DAY) · [SeMA Seoseoul visitor info](https://sema.seoul.go.kr/kr/visit/seoseoul)
 
 ---
 

@@ -228,6 +228,13 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **Status:** Check the KBO postseason schedule rather than assuming a home game.
 - **Official sources (reviewed Aug 17):** [KT Wiz](https://www.ktwiz.co.kr) · [KBO](https://www.koreabaseball.com)
 
+### 38) 🎪 **Jeongjo Theme Stage — 2026 Madangnoriteo (마당놀이터)** — ✅ CONFIRMED — through Sat Nov 7, 2026 · NEW
+- **What:** A free open-air programme in the 어울마당 courtyard of the **정조테마공연장 (Jeongjo Theme Stage)** in Suwon, run by the Suwon Cultural Foundation. It is the foundation's recurring family/outdoor performance slot rather than a single show.
+- **When:** The foundation's official event calendar lists the 2026 run as **2026-03-21 → 2026-11-07** — so it is live for the **first week of the trip** and ends the Saturday of your second weekend.
+- **Also at the same venue:** **<정조 K 스테이지>**, a weekend programme running **Aug 1 – Nov 1, 2026** in the same 어울마당 space. Both wind down in early November.
+- **Before you go:** the calendar entry gives the season, not per-day times. Open the specific listing for the weekend you want and confirm the day's performance — outdoor programmes are also weather-dependent.
+- **Official sources (reviewed Aug 17):** [Suwon Cultural Foundation event calendar](https://www.swcf.or.kr/?p=29) · [Madangnoriteo listing](https://www.swcf.or.kr/?p=29_view&idx=2932) · [Jeongjo K Stage listing](https://www.swcf.or.kr/?p=29_view&idx=3031)
+
 ---
 
 ## Removed during this verification pass
