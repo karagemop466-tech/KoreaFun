@@ -15,8 +15,10 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ### 2) 🖼️ **Ulsan Petroglyph Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum explaining the Bangucheon rock art, archaeology, ecology, and preservation.
-- **Hours/price:** Check current hours, Monday closure, and guided programs.
-- **Official source (reviewed Aug 17):** [Ulsan Petroglyph Museum](https://www.ulsan.go.kr/s/bangudae/)
+- **Hours/price:** **FREE. 09:00–18:00, last entry 17:30. Closed Mondays** (the next day instead if that Monday is a holiday) and Jan 1. ☎ 052-229-4797.
+- **✅ Go here before the rock art itself (#1).** The actual Bangudae carvings are viewed from a distance across the water and are famously hard to make out; the museum holds **full-size replicas** you can actually read, which is what makes the real site legible afterwards.
+- **🏆 There is now a dedicated World Heritage exhibition room** covering the July 2025 inscription of the Bangucheon petroglyphs — new since the listing, and the reason this museum is worth more time than it used to be.
+- **Official source (reviewed Aug 18):** [Ulsan Petroglyph Museum — hours and closures](https://www.ulsan.go.kr/s/bangudae/main.ulsan)
 
 ### 3) 🏛️ **Ulsan Daegok Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Regional archaeology and history museum near the Bangucheon heritage landscape.
@@ -89,11 +91,13 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 ### 15) 🐳 **Jangsaengpo Whale Culture Village** — 🔎 VERIFIED PLACE
 - **What:** Cultural complex interpreting Jangsaengpo’s whaling-era town and modern whale-conservation history.
 - **Hours/price:** Check the integrated Jangsaengpo ticket and Monday closures.
-- **Official source (reviewed Aug 17):** [Ulsan Whale Culture Zone](https://www.whalecity.kr/)
+- **Official sources (reviewed Aug 18):** [Ulsan Whale Culture Zone](https://www.whalecity.kr/) · [National Museum of Korean Contemporary History — Jangsaengpo Whale Museum listing](https://www.much.go.kr/cooperation/net/jsm.do) · [VISITKOREA — fares](https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=250a4497-0043-4b9d-ae88-95e4bb5e1271)
 
 ### 16) 🐋 **Jangsaengpo Whale Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum about whale biology and Ulsan’s whaling history.
-- **Hours/price:** Ticketed; verify current operating days.
+- **Hours/price:** **₩2,000 adult / ₩1,500 youth and military / ₩1,000 child.** **09:00–18:00, last entry 17:30. Closed Mondays** — if the Monday is a public holiday it opens and closes the next day instead. Closed Seollal and Chuseok. **Parking free for 3 hours**, then ₩1,000/hr. Groups of 20+ save ₩500 each. ☎ 052-256-6301.
+- **⚠️ The Whale Museum and the Whale Ecology Experience Hall are two separate tickets.** The Experience Hall — the one with live dolphins — is **₩5,000 / ₩4,000 / ₩3,000** on its own. **A combined package is cheaper** if you want both; buy it at the counter rather than separate tickets.
+- **What's there:** whale biology and the history of Korean whaling at Jangsaengpo, which was the country's whaling base — plus a real whaling ship and a recovered blue-whale skeleton. Capacity is capped, so weekends can mean a wait.
 - **Official source (reviewed Aug 17):** [Ulsan Whale Culture Zone](https://www.whalecity.kr/)
 
 ### 17) ⛴️ **Whale Sea Travel Ship** — ⏳ SEASONAL/WEATHER-DEPENDENT

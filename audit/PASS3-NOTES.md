@@ -720,3 +720,47 @@ but the announcement lands mid-trip.
   beats a confident wrong figure.
 
 Running total: **101/570 verified, still zero fabrications.**
+
+## Pass 19 — line-level verification begins
+
+Switched from entry-level to **line-level** tracking (`tools/lineledger.py`,
+`audit/line-ledger.json`, plan in `audit/LINE-VERIFICATION-PLAN.md`). Rows are
+keyed `file#entry:sha1(text)`, so **editing a line requeues it automatically**
+and reverting an edit revives the original verdict. Seeded 496 lines from the
+101 entries already verified; **now 574/1843 (31%)**.
+
+Batching strategy: group by **source domain** (one fetch clears several lines)
+but keep the working unit **entry-shaped**.
+
+### Findings this pass
+
+| Entry | Was | Is |
+| --- | --- | --- |
+| pohang #1 Space Walk | "November closing is early" | Nov–Mar 10:00–17:00 wk / 18:00 wknd; **closed 1st Monday = Nov 2**; **the famous night view is unavailable in November** |
+| pohang #5 Lighthouse Museum | "check current hours" | 09:00–18:00, last entry 17:30, free, closed Mon |
+| gyeongju #4 Bulguksa | "free… verify seasonal hours" | 09:00–18:00 free; **a live 2026 listing still quotes the abolished ₩6,000**; parking ₩1,000; **museum inside a separate ₩2,000** |
+| gyeongju #5 Seokguram | "free… verify last entry" | free; **you view the Buddha through glass from an antechamber** — cannot enter or photograph |
+| gyeongju #8 Wolji | "ticketed; verify" | ₩3,000/2,000/1,000, to 22:00 (office 21:30); **Nov sunset ~17:20 so magic hour starts ~17:30** |
+| gyeongju #12 National Museum | "verify closure days" | **open Mondays**; Sat night to 21:00 covers Nov 7/14/21 |
+| daejeon #30 Independence Hall | "November hours are shorter" | winter 09:30–17:00 **but last entry 16:00** — a 1-hour trap |
+| daejeon #12 Science Museum | "planetarium is separate" | planetarium/Changui-narae/Kkumatti **₩2,000/₩1,000**, slot-booked 30 days ahead |
+| daejeon #17 Observatory | "free… confirm hours" | **opens 14:00, not mornings**; to 22:00; **closed the day after any holiday** |
+| changwon #9 Jinhae Marine Park | "facility-specific; check" | Solar Tower ₩3,500; **observatory reopened Nov 16 2024** after a year of condemned lifts — many pages still say closed |
+| changwon #16 Moonshin | "check hours" | **₩500/₩200**, free under-6/over-65, step-free |
+| ulsan #2 Petroglyph Museum | "check hours" | free; **see the full-size replicas BEFORE the real site**, which is viewed from across water |
+| ulsan #16 Whale Museum | "ticketed; verify" | ₩2,000; **Ecology Experience Hall is a separate ₩5,000** — combined package cheaper |
+
+### New defect shapes
+- **A stale negative.** Changwon's Solar Tower was written off across the web
+  as closed; it reopened Nov 2024. **Closures expire — re-check them exactly
+  like prices.**
+- **Last entry ≠ closing time.** Independence Hall's one-hour gap, Space Walk's
+  seasonal cut, Wolji's 21:30 office. Always capture both numbers.
+- **Sequencing is a fact worth verifying.** Petroglyph museum before the rock
+  art; Hwaseong museum before the fortress wall.
+
+### First `unresolved`
+`gyeongju.md#12` — the museum's own visitor page says the **second** Monday of
+November is a gallery rest day; its own PDF leaflet says the **first**. Nov 2 vs
+Nov 9. Unresolvable from published sources → marked `unresolved` with a
+phone-ahead instruction rather than a guess.
