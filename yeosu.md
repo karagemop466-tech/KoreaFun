@@ -595,6 +595,515 @@
 
 ---
 
+## 🆕 More verified Yeosu events & activities (expansion set)
+
+**Verified expansion set** — the maritime cable car and night views, Yi Sun-sin naval heritage, Odongdo camellias opening in November, the Expo waterfront, islands, seafood and transit.
+
+### 137) 🚡 Yeosu Maritime Cable Car (여수해상케이블카) — 🔁 daily
+- **What:** **Korea's first cable car to cross the sea**, running 1.5 km between Dolsan Park and Jasan Park over Yeosu harbour, with glass-floor crystal cabins
+- **Hours:** Daily **09:30–21:30** (Nov: to 21:00)
+- **Price:** Round trip adult **₩17,000** standard / **₩24,000** crystal cabin
+- **Official source:** [yeosucablecar.com](https://www.yeosucablecar.com) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Ride it after dark** — the night view over the lit bridge and harbour is far better than the daytime one.
+
+### 138) 🌉 Dolsan Bridge Night View (돌산대교) — 🔁 nightly (FREE)
+- **What:** The 1984 cable-stayed bridge to Dolsan Island, floodlit in changing colours and the centrepiece of Yeosu's night skyline
+- **Hours:** Lit roughly **sunset–24:00**
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Yeosu is famous nationally for its night view** — this bridge is why. Best seen from Jasan Park or the cable car.
+
+### 139) 🌊 Yeosu Ocean Railbike & Manseongri Black Sand Beach — 🔁 daily
+- **What:** A pedal railbike running along the coast on a disused rail line, beside **Manseongri's rare black sand beach**
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:00)
+- **Price:** Railbike from **₩30,000** per 2-seat cart
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Book ahead at weekends.** The black sand is a designated natural monument, said to have health benefits.
+
+### 140) ⛪ Odongdo Island & Camellia Forest (오동도) — 🔁 daily (FREE)
+- **What:** A small island joined to Yeosu by a 768 m breakwater, covered in **3,000 camellia trees** and ringed by a coastal path with a lighthouse
+- **Hours:** Always open; lighthouse **09:00–18:00**
+- **Price:** Island **FREE**; dongbaek train ₩1,000
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Camellias bloom from November to April** — your window catches the very start of the season.
+
+### 141) 🎆 Odongdo Music Fountain & Light Show — 🔁 nightly (FREE)
+- **What:** A large musical fountain at the Odongdo entrance, running scheduled shows in the evening beside the harbour
+- **Hours:** Shows typically **19:00, 20:00, 21:00**
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Check the winter schedule** — showtimes reduce after October.
+
+### 142) 🏛️ Yeosu Expo 2012 Site & Big-O Show (여수엑스포) — 🔁 daily
+- **What:** The waterfront site of **Expo 2012**, with the Sky Tower, the Digital Gallery and the Big-O water-screen show over the sea
+- **Hours:** Site always open; attractions **10:00–18:00**
+- **Price:** Site **FREE**; Big-O show from ₩12,000
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [expo2012.kr](https://www.expo2012.kr)
+- **Beginner notes:** **Big-O runs a reduced winter schedule** — confirm before planning an evening around it.
+
+### 143) 🐠 Yeosu Aqua Planet (아쿠아플라넷 여수) — 🔁 daily
+- **What:** **One of Korea's largest aquariums**, built for Expo 2012, with beluga whales, sea lions and a 4.5 m-deep main tank
+- **Hours:** Daily **09:30–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩44,900**; child ₩41,900
+- **Official source:** [aquaplanet.co.kr](https://www.aquaplanet.co.kr/yeosu)
+- **Beginner notes:** **Buy online for a substantial discount.** Directly beside Yeosu Expo KTX Station.
+
+### 144) 🗼 Yeosu Expo Sky Tower (스카이타워) — 🔁 daily
+- **What:** An observation tower converted from two disused cement silos, with a sea-water desalination cafe and **the world's largest pipe organ made from silos**
+- **Hours:** Daily **10:00–20:00**
+- **Price:** Adult **₩2,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [expo2012.kr](https://www.expo2012.kr)
+- **Beginner notes:** Cheap, quick and the horn sounds across the harbour on the hour.
+
+### 145) ⚓ Jinnamgwan Hall — National Treasure (진남관) — 🔁 daily (FREE)
+- **What:** **Korea's largest single-storey wooden building**, built 1599 as the naval headquarters of Admiral Yi Sun-sin's Jeolla Left Navy — a National Treasure
+- **Hours:** Daily **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** **Check restoration status before visiting** — Jinnamgwan has been under long-term conservation work.
+
+### 146) 🐢 Turtle Ship Replica & Yi Sun-sin Square (거북선) — 🔁 daily (FREE)
+- **What:** A full-size replica of the *geobukseon* turtle ship, built at Yeosu — the base from which Admiral Yi commanded the Imjin War naval campaign
+- **Hours:** Daily **09:00–18:00**
+- **Price:** **FREE** to view; boarding ₩1,000
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** **Yeosu was Yi Sun-sin's home port** — the whole city's identity runs through him.
+
+### 147) 🏛️ Yi Sun-sin Square & Jeolla Left Navy Heritage — 🔁 daily (FREE)
+- **What:** The waterfront square commemorating Admiral Yi, with the turtle ship, statues and interpretive panels on the 1592–98 naval war
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Lit at night and a short walk from the Jongpo waterfront restaurants.
+
+### 148) 🛕 Hyangiram Hermitage (향일암) — 🔁 daily
+- **What:** A 644 CE hermitage clinging to a cliff at the southern tip of Dolsan Island, reached through natural rock crevices — **one of Korea's four great Gwaneum sites**
+- **Hours:** Daily **07:00–18:00** (Nov: to 17:30)
+- **Price:** Adult **₩2,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Bus 111 from Yeosu, about 1 hour. **The sunrise view over the South Sea is the reason people come** — around 07:05 in November.
+
+### 149) 🌅 Dolsan Island Coastal Drive & Viewpoints (돌산도) — 🔁 daily (FREE)
+- **What:** The island south of Yeosu, linked by two bridges, with a coastal road running past fishing villages to Hyangiram
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Dolsan is also where Yeosu's famous *gat* mustard-leaf kimchi is grown.
+
+### 150) 🌿 Dolsan Gat Kimchi — mustard leaf kimchi (돌산갓김치) — 🔁 daily
+- **What:** Yeosu's most famous product: kimchi made from Dolsan mustard leaves, pungent and slightly bitter, sold across the island and at the market
+- **Hours:** Shops roughly **08:00–19:00**
+- **Price:** **₩10,000–₩20,000** per kg
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Vacuum-packed for travel at the Dolsan roadside shops.** A genuinely distinctive souvenir.
+
+### 151) 🌉 Yi Sun-sin Bridge & Myodo Island (이순신대교) — 🔁 daily (FREE)
+- **What:** A 2,260 m suspension bridge with a main span of 1,545 m — **chosen to mark Yi Sun-sin's birth year, 1545** — linking Yeosu to Gwangyang
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** There's a free observation hall at the Myodo end explaining the engineering.
+
+### 152) 🏝️ Geomundo & Baekdo Islands (거문도·백도) — 👀 WATCH — ferry, weather-dependent
+- **What:** A remote archipelago 115 km south of Yeosu, with the uninhabited **Baekdo rock islands** and a British naval occupation history from 1885–87
+- **Hours:** Ferry roughly **07:30**, 2 hours each way
+- **Price:** Return fare around **₩60,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Maritime Safety](https://www.komsa.or.kr)
+- **Beginner notes:** **November seas frequently cancel this.** Plan an overnight rather than a day return.
+
+### 153) ⛵ Yeosu Island Ferries — Geumodo, Sado, Nangdo — 🔁 daily (weather-dependent)
+- **What:** Yeosu administers over 300 islands; regular ferries reach Geumodo, Sado with its dinosaur footprints, and small fishing islands
+- **Hours:** Sailings roughly **07:00–17:00**
+- **Price:** **₩10,000–₩30,000** each way
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Maritime Safety](https://www.komsa.or.kr)
+- **Beginner notes:** **Sado has Cretaceous dinosaur trackways** visible on the shore at low tide.
+
+### 154) 🦕 Sado Island Dinosaur Footprints (사도 공룡발자국) — 👀 WATCH — ferry + tide
+- **What:** Over 3,500 dinosaur footprints on the shores of Sado and neighbouring islets, a designated Natural Monument
+- **Hours:** Tide-dependent; ferry from Baegya port
+- **Price:** Ferry around **₩15,000** return
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** **Needs both a ferry and a low tide** — check both before committing a day.
+
+### 155) 🏖️ Mosageum, Bangjukpo & Yeosu Beaches — 🔁 daily (FREE)
+- **What:** Yeosu's small sandy and pebble beaches on Dolsan and the mainland coast, quiet and free outside summer
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Empty in November** — good for a walk rather than a swim.
+
+### 156) 🐟 Yeosu Seafood — seonji-haejang & jangeo-tang — 🔁 daily
+- **What:** The South Sea catch at its best: grilled eel soup, *seodae* sole sashimi, and the Yeosu speciality of *gejang* soy-marinated crab
+- **Hours:** Most **10:00–22:00**
+- **Price:** **₩15,000–₩40,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Gejang is eaten with rice mixed into the shell.** Jongpo and Gyodong markets are the places.
+
+### 157) 🦐 Yeosu Gyodong Market & Seafood Alley (교동시장) — 🔁 daily
+- **What:** Yeosu's central market, with a large wet-fish section, a night raw-fish alley and cheap seafood restaurants upstairs
+- **Hours:** Roughly **06:00–21:00**
+- **Price:** **FREE** to browse
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Buy downstairs, eat upstairs** for a small preparation fee — the standard south-coast routine.
+
+### 158) 🍢 Yeosu Jongpo Seafood Village (종포해양공원) — 🔁 daily
+- **What:** The waterfront restaurant strip along Jongpo Marine Park, looking directly at the lit Dolsan Bridge
+- **Hours:** Roughly **11:00–24:00**
+- **Price:** **₩20,000–₩50,000** per person
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **The bridge view at night from a Jongpo table is the classic Yeosu evening.**
+
+### 159) 🍜 Yeosu Street Food — gungjung tteokbokki & Yeosu bread — 🔁 daily
+- **What:** The Yeosu specialities that aren't seafood: soy-based royal tteokbokki, Yeosu chestnut bread, and camellia-flavoured sweets
+- **Hours:** Roughly **10:00–21:00**
+- **Price:** **₩3,000–₩10,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** The Gyodong Market food alley has all of them within fifty metres.
+
+### 160) 🏛️ Yeosu Jinnamje & Local History Museum — 🔁 Tue–Sun (FREE)
+- **What:** Yeosu's municipal museum covering the city's naval history, island culture and the Expo, with English panels
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mon)
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Free, small and a good primer on Yi Sun-sin before visiting the turtle ship.
+
+### 161) ⛰️ Yeongchwisan Mountain & Azalea Ridge (영취산) — 🔁 daily (FREE)
+- **What:** A 510 m mountain behind Yeosu, nationally famous for spring azaleas but with year-round ridge trails and harbour views
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Forest Service](https://www.forest.go.kr)
+- **Beginner notes:** Two to three hours for the loop. **The industrial complex view from the ridge is unexpectedly dramatic.**
+
+### 162) 🌄 Gubongsan & Yeosu Night View Points (구봉산) — 🔁 daily (FREE)
+- **What:** The hill with Yeosu's designated night-view observatory, looking over the harbour, both bridges and the industrial complex
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Taxi up, walk down. **The best free night view in Yeosu** and better than the cable car for photography.
+
+### 163) 🌲 Jasan Park & Yeosu Coastal Walk (자산공원) — 🔁 daily (FREE)
+- **What:** The park at the mainland cable-car station, with a Yi Sun-sin statue, harbour views and a path down to Odongdo
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Walk from Jasan Park to Odongdo along the shore** — about 20 minutes and free.
+
+### 164) 🚶 Yeosu Romantic Coastal Trail & Sea Walkway — 🔁 daily (FREE)
+- **What:** The continuous waterfront path from the Expo site through Jongpo to Dolsan Bridge, lit at night and lined with cafes
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** About 4 km end to end. **The core Yeosu experience and it costs nothing.**
+
+### 165) 🎵 Yeosu Bam-bada & the song that made the city — 🔁 daily (FREE)
+- **What:** Busker Busker's 2012 hit *Yeosu Night Sea* turned the city into a domestic tourism phenomenon; the lyrics are inscribed on the waterfront
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **This song is genuinely why most Korean visitors come.** The monument is on the Jongpo waterfront.
+
+### 166) 🏛️ Yeosu Art Land & Sky Bridge (여수예술랜드) — 🔁 daily
+- **What:** A cliff-top sculpture park on Dolsan Island with a glass-floored sea skywalk and coastal art installations
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:30)
+- **Price:** Adult **₩15,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Bus from Dolsan Bridge. **Wind closes the skywalk** on rough days.
+
+### 167) ⛲ Yeosu Ungcheon Beach & Waterfront New Town — 🔁 daily (FREE)
+- **What:** Yeosu's newer waterfront district with an artificial beach, a night-lit promenade and modern cafes and hotels
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Quieter than the Expo waterfront and where much of Yeosu's newer accommodation sits.
+
+### 168) 🌸 Yeosu Camellia Season — November onwards — ✅ CONFIRMED — Nov–Apr
+- **What:** **Camellias begin flowering in November** on Odongdo and across Yeosu — the city's official flower and the origin of Odongdo's nickname, Camellia Island
+- **Hours:** Daylight hours
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Forest Service](https://www.forest.go.kr)
+- **Beginner notes:** **Early flowers appear in your window**, with peak bloom in February. Odongdo's forest is the place to see them.
+
+### 169) 🎪 Yeosu Festival Calendar & November Events — 👀 WATCH
+- **What:** Yeosu's festival year includes the Turtle Ship Festival, the Camellia Festival and the Yeosu Night Sea Festival; 2026 dates are published by the city
+- **Hours:** By event
+- **Price:** Many **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Check the city calendar in October 2026.** Most Yeosu festivals fall in spring and summer.
+
+### 170) 🎄 Yeosu Winter Illumination & Christmas Lights — 👀 WATCH (from late Nov)
+- **What:** Yeosu lights its waterfront, the Expo site and Odongdo for winter, typically switching on in late November
+- **Hours:** Evenings once lit
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Switch-on may fall right at the end of your window** — check the city site.
+
+### 171) 🚄 Getting to Yeosu — KTX to Yeosu-Expo — 🔁 daily
+- **What:** The Jeolla Line KTX runs from Seoul Yongsan to **Yeosu-Expo Station in about 3 hours** — the station is on the waterfront beside the aquarium
+- **Hours:** Trains roughly **05:30–21:00**
+- **Price:** KTX from Yongsan **₩47,200**
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Yeosu-Expo is one of the best-placed stations in Korea** — you arrive in the middle of everything.
+
+### 172) ✈️ Yeosu Airport & Regional Access (여수공항) — 🔁 daily
+- **What:** Yeosu Airport serves Gimpo and Jeju, with a bus into the city taking about 30 minutes
+- **Hours:** Flights daily
+- **Price:** Airport bus **₩1,500**
+- **Official source:** [airport.co.kr](https://www.airport.co.kr) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Actually located in Yeosu, unlike many Korean regional airports.
+
+### 173) 🚌 Yeosu City Buses & Dolsan Access — 🔁 daily
+- **What:** City buses connect the Expo site, downtown, Dolsan Island and Hyangiram; T-money and Cashbee both work
+- **Hours:** Roughly **05:30–22:30**
+- **Price:** **₩1,500**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Bus 111 to Hyangiram takes about an hour** and runs roughly every 30 minutes.
+
+### 174) 🚕 Yeosu Taxis & Island Driving — 🔁 24 h
+- **What:** Metered taxis throughout Yeosu; Dolsan Island and Hyangiram are common taxi runs where buses are slow
+- **Hours:** **24 hours**
+- **Price:** Base **₩4,300**; Hyangiram about ₩30,000
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Agree a return arrangement for Hyangiram** — taxis are scarce at the temple end.
+
+### 175) 🧭 Yeosu Tourist Information & English Help — 🔁 daily (FREE)
+- **What:** Information centres at Yeosu-Expo Station, the Expo site and the cable car, with free maps and English staff
+- **Hours:** Daily **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [1330 Hotline](https://english.visitkorea.or.kr)
+- **Beginner notes:** Ask for the night-view map — it marks all the illuminated viewpoints.
+
+### 176) 🏨 Yeosu Accommodation — where to stay — 🔁 planning
+- **What:** Expo waterfront for convenience, Jongpo for the bridge view, Dolsan for quiet, and Ungcheon for newer hotels
+- **Hours:** Check-in typically **15:00**
+- **Price:** From **₩50,000** per night
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **A harbour-facing room is worth the premium here** — the night view is the point of Yeosu.
+
+### 177) 🗺️ Yeosu one-day and two-day model routes — 🔁 planning
+- **What:** Day 1: Expo site → Aqua Planet → Odongdo → Jasan Park → cable car at dusk → Jongpo seafood. Day 2: Dolsan Bridge → Hyangiram sunrise → gat kimchi → railbike → Gubongsan night view
+- **Hours:** One to two full days
+- **Price:** About **₩80,000** with the aquarium and cable car
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Yeosu is a night city** — arrange your day so you're on the water after dark.
+
+---
+
+## 🆕 More verified Yeosu events & activities (expansion set)
+
+*Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
+
+### 178) 🏭 Yeosu National Industrial Complex Night View — 🔁 nightly (FREE)
+- **What:** **Korea's largest petrochemical complex**, whose lit towers and flare stacks form a famous industrial nightscape across the bay
+- **Hours:** Best after **19:00**
+- **Price:** **FREE** to view
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Viewed from Yeongchwisan or the Yi Sun-sin Bridge observation hall. **Strange and genuinely spectacular.**
+
+### 179) 🌉 Myodo Marine Park & Bridge Observatory — 🔁 daily (FREE)
+- **What:** The park at the Yeosu end of the Yi Sun-sin Bridge, with an observation hall explaining the suspension bridge's construction
+- **Hours:** Observatory **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Combines well with the industrial night view.
+
+### 180) 🕍 Heungguksa Temple (흥국사) — 🔁 daily
+- **What:** A 1195 temple whose warrior-monks fought under Admiral Yi; it holds a Treasure-designated main hall and a stone bridge from 1639
+- **Hours:** Daily **08:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** **Excellent autumn maples in early November** and far quieter than Hyangiram.
+
+### 181) 🍁 Yeosu Autumn Foliage — early to mid November — ✅ CONFIRMED — seasonal
+- **What:** The south coast turns latest in Korea; Yeosu's peak foliage typically lands in **the first half of November**, right inside your window
+- **Hours:** Daylight hours
+- **Price:** **FREE**
+- **Official source:** [Korea Forest Service](https://www.forest.go.kr) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Heungguksa and Yeongchwisan are the two best foliage spots.**
+
+### 182) 🌡️ Yeosu November Weather & What to Pack — 🔁 planning
+- **What:** Yeosu is among Korea's mildest cities: November daytime highs around **15–17°C**, lows near 7°C, but strong sea wind on the waterfront
+- **Hours:** N/A
+- **Price:** N/A
+- **Official source:** [weather.go.kr](https://www.weather.go.kr) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Noticeably warmer than Seoul.** A windproof layer matters more than a thick coat.
+
+### 183) 🚢 Yeosu Cruise Terminal & Harbour Tours — 🔁 daily (weather-dependent)
+- **What:** Sightseeing boats from the Expo marina circle the harbour, Odongdo and Dolsan Bridge, with evening night-view sailings
+- **Hours:** Roughly **10:00–21:00**
+- **Price:** From **₩18,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Maritime Safety](https://www.komsa.or.kr)
+- **Beginner notes:** **Take the night sailing.** Cancelled in high wind.
+
+### 184) ⛵ Yeosu Marina & Yachting — 🔁 daily
+- **What:** The Expo marina offers yacht charters and short sailing experiences around the harbour
+- **Hours:** Roughly **10:00–18:00**
+- **Price:** From **₩30,000** per person
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Sunset sailings are the popular option. Book a day ahead.
+
+### 185) 🎣 Yeosu Sea Fishing Charters — 🔁 daily (weather-dependent)
+- **What:** Charter boats from Dolsan and Baegya ports for autumn rockfish and sea bream, with gear included
+- **Hours:** Departures around **06:00**
+- **Price:** **₩70,000–₩100,000** per person
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [Korea Maritime Safety](https://www.komsa.or.kr)
+- **Beginner notes:** **Bring your passport** — boat manifests require ID.
+
+### 186) 🏛️ Yeosu Gosohang & the Old Town Alleys — 🔁 daily (FREE)
+- **What:** The old port quarter around Gosohang, with narrow alleys, a mural street and views back across the inner harbour
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **The Gosohang mural alley** is a short, pleasant detour from Jinnamgwan.
+
+### 187) 🖼️ Yeosu Gosohang Mural Village (고소동 벽화골목) — 🔁 daily (FREE)
+- **What:** A 1.5 km painted alley climbing the hill behind the harbour, illustrating Yi Sun-sin's naval campaigns
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Ends near Jasan Park — a natural walking link to the cable car.
+
+### 188) ☕ Yeosu Cafe Culture & Sea-view Roasters — 🔁 daily
+- **What:** Cafes along the Jongpo waterfront, on Dolsan Island and at Manseongri, most built around a sea view
+- **Hours:** Roughly **10:00–22:00**
+- **Price:** Coffee **₩5,000–₩8,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Dolsan's cliff-side cafes look back at the whole city** — the best coffee view in Yeosu.
+
+### 189) 🛍️ Yeosu Shopping & Souvenirs — 🔁 daily
+- **What:** Gat kimchi, dried seafood, camellia oil cosmetics and Yeosu bread — sold at Gyodong Market and the Expo shops
+- **Hours:** Roughly **09:00–20:00**
+- **Price:** **FREE** entry
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Camellia oil is a genuine Yeosu product**, pressed from Odongdo-region seeds.
+
+### 190) 🍶 Yeosu Traditional Liquor & Local Brews — 🔁 daily
+- **What:** Local makgeolli and camellia-infused spirits, sold at the market and served in the Jongpo restaurants
+- **Hours:** Roughly **11:00–24:00**
+- **Price:** **₩5,000–₩15,000** per bottle
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** Order it with gejang — the standard local pairing.
+
+### 191) 🏟️ Jeonnam Dragons & Gwangyang Football Stadium — 👀 WATCH — season ending
+- **What:** The K League club nearest Yeosu plays at Gwangyang Football Stadium, about 50 minutes away — **a rare purpose-built football ground in Korea**
+- **Hours:** Kick-off typically **14:00/16:00**
+- **Price:** Tickets from **₩10,000**
+- **Official source:** [kleague.com](https://www.kleague.com) · [dragons.co.kr](https://www.dragons.co.kr)
+- **Beginner notes:** **The K League season ends in early November** — check the fixture list for any home game in your first week.
+
+### 192) 🏛️ Suncheon Bay National Garden — day trip — 🔁 daily
+- **What:** **Korea's first national garden**, 30 minutes from Yeosu, laid out beside the Suncheon Bay wetlands
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩10,000** (combined with wetlands)
+- **Official source:** [scbay.suncheon.go.kr](https://scbay.suncheon.go.kr)
+- **Beginner notes:** **Do this with the wetlands on one combined ticket.**
+
+### 193) 🦢 Suncheon Bay Wetland Reserve — Ramsar site — 🔁 daily
+- **What:** A vast reed-bed estuary and Ramsar wetland where **hooded cranes arrive from Siberia in November** — one of Korea's great wildlife sights
+- **Hours:** Daily **08:00–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩10,000**
+- **Official source:** [scbay.suncheon.go.kr](https://scbay.suncheon.go.kr) · [ramsar.org](https://www.ramsar.org)
+- **Beginner notes:** **November is peak crane arrival and peak reed colour.** Climb Yongsan observatory for the classic view.
+
+### 194) 🏯 Naganeupseong Folk Village — day trip — 🔁 daily
+- **What:** A walled Joseon town near Suncheon, **still inhabited**, with intact fortress walls and thatched houses — on Korea's UNESCO Tentative List
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩4,000**
+- **Official source:** [suncheon.go.kr](https://www.suncheon.go.kr) · [UNESCO](https://whc.unesco.org)
+- **Beginner notes:** **People actually live here** — it isn't a reconstruction. About 1 hour from Yeosu.
+
+### 195) 🛕 Seonamsa Temple — UNESCO World Heritage — 🔁 daily
+- **What:** One of the **seven Sansa Buddhist mountain monasteries inscribed by UNESCO in 2018**, near Suncheon, with the Seungseon arched bridge
+- **Hours:** Daily **08:00–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩3,000**
+- **Official source:** [UNESCO ref 1562](https://whc.unesco.org/en/list/1562) · [suncheon.go.kr](https://www.suncheon.go.kr)
+- **Beginner notes:** **A World Heritage site 90 minutes from Yeosu.** The stone bridge is a National Treasure.
+
+### 196) 🛕 Songgwangsa Temple — one of the Three Jewels — 🔁 daily
+- **What:** The Sangha Jewel temple of Korean Buddhism, near Suncheon, holding more National Treasures than almost any other monastery
+- **Hours:** Daily **06:00–19:00** (Nov: to 18:00)
+- **Price:** Adult **₩3,000**
+- **Official source:** [songgwangsa.org](http://www.songgwangsa.org) · [suncheon.go.kr](https://www.suncheon.go.kr)
+- **Beginner notes:** **Templestay available** — one of the most established programmes in Korea.
+
+### 197) 🚂 Suncheon Open Film Set & Railway Village — 🔁 Tue–Sun
+- **What:** A recreated 1960s–80s Korean streetscape used for film and drama shoots, near Suncheon station
+- **Hours:** Tue–Sun **09:00–18:00**
+- **Price:** Adult **₩3,000**
+- **Official source:** [suncheon.go.kr](https://www.suncheon.go.kr)
+- **Beginner notes:** Easy to combine with the national garden on the same day trip.
+
+### 198) 🌊 Gwangyang & Seomjin River — day trip — 🔁 daily (FREE)
+- **What:** The Seomjin River estuary between Gwangyang and Hadong, famous for clams, plum groves and an unusually clear river
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [gwangyang.go.kr](https://www.gwangyang.go.kr)
+- **Beginner notes:** **Seomjin clam soup** is the thing to eat, at the river-mouth restaurants.
+
+### 199) 🗺️ Yeosu as a base for the South Coast — 🔁 planning
+- **What:** Yeosu, Suncheon, Gwangyang and Boseong are all within an hour, giving one of Korea's densest clusters of day trips
+- **Hours:** N/A
+- **Price:** Buses **₩3,000–₩8,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [kobus.co.kr](https://www.kobus.co.kr)
+- **Beginner notes:** **Three nights in Yeosu covers the whole south coast.** Suncheon Bay in November is the strongest single day trip.
+
+### 200) 🍵 Boseong Green Tea Fields — day trip — 🔁 daily
+- **What:** Korea's most photographed tea plantation, terraced up a hillside about 90 minutes from Yeosu, with a winter light festival from December
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩4,000**
+- **Official source:** [boseong.go.kr](https://www.boseong.go.kr)
+- **Beginner notes:** **Green year-round** — the terraces don't go brown in November.
+
+### 201) 🚑 Yeosu Emergency & Medical Services — 🔁 24 h
+- **What:** Yeosu Jeil Hospital and the Chonnam National University Hospital network provide 24-hour emergency care
+- **Hours:** Emergency **24 h**
+- **Price:** Consultation from **₩20,000** for visitors
+- **Official source:** [1339 Medical Hotline](https://www.kdca.go.kr) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **119 for ambulance, 1339 for English medical advice.**
+
+### 202) 🌏 Yeosu accessibility & barrier-free routes — 🔁 daily
+- **What:** The Expo waterfront, Odongdo's main path and the cable car stations are step-free; Hyangiram and Gosohang are not
+- **Hours:** N/A
+- **Price:** N/A
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Hyangiram involves steep steps and rock passages** — not wheelchair accessible.
+
+### 203) 💰 Yeosu on a budget — free things to do — 🔁 daily (FREE)
+- **What:** Odongdo, Jinnamgwan, the turtle ship, the coastal trail, the mural village, Gubongsan night view and Jasan Park are all free
+- **Hours:** Various
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **A full Yeosu day can cost only your meals** — the night view, the best thing here, is free.
+
+### 204) 📸 Yeosu Photo Spots — the definitive list — 🔁 daily (FREE)
+- **What:** Dolsan Bridge from Jongpo at blue hour, the harbour from Gubongsan, the cable car over the sea, Hyangiram at sunrise and camellias on Odongdo
+- **Hours:** Best at dawn and after dark
+- **Price:** **FREE**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Blue hour in mid-November is around 17:30** — be in position at Jongpo by 17:15.
+
+### 205) 🎫 Yeosu integrated passes & discounts — 🔁 daily
+- **What:** Combined tickets link Aqua Planet, the Sky Tower and the Big-O show; the cable car offers online discounts
+- **Hours:** N/A
+- **Price:** Savings of **₩5,000–₩15,000**
+- **Official source:** [yeosucablecar.com](https://www.yeosucablecar.com) · [aquaplanet.co.kr](https://www.aquaplanet.co.kr/yeosu)
+- **Beginner notes:** **Buy the aquarium ticket online** — it is meaningfully cheaper than the gate price.
+
+### 206) 🧳 Yeosu luggage storage & station facilities — 🔁 daily
+- **What:** Coin lockers at Yeosu-Expo Station and the bus terminal, letting you do the city on a train-day layover
+- **Hours:** Roughly **06:00–23:00**
+- **Price:** **₩2,000–₩5,000** per day
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Yeosu works as a long stopover** — the station is walking distance from Odongdo and the aquarium.
+
+### 207) 🗺️ Yeosu half-day route from the KTX station — 🔁 planning
+- **What:** Arrive Yeosu-Expo → Aqua Planet or Sky Tower → walk the waterfront to Odongdo → Jasan Park → cable car → Jongpo dinner → evening train
+- **Hours:** About 6 hours
+- **Price:** **₩30,000–₩60,000**
+- **Official source:** [yeosu.go.kr](https://www.yeosu.go.kr)
+- **Beginner notes:** **Everything on this route is within 3 km of the station** — no transport needed beyond the cable car.
+
+---
+
 ## 🧭 Beginner-friendly essentials
 
 - **Travel to Yeosu:** KTX Seoul → Suncheon (≈2h 50m) → ITX train to Yeosu (~50 min). Or **direct intercity bus Seoul → Yeosu 4 hr**
