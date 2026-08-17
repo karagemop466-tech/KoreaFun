@@ -42,14 +42,18 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official sources (reviewed Aug 17):** [busanipark.com match schedule](https://www.busanipark.com/match/match_schedule.php) · [kleague.com](https://www.kleague.com/schedule.do)
 
 ### 6) 🏐 **V-League — Busan OK Savings Bank** — ✅ SEASON CONFIRMED; FIXTURES LATER
-- **What:** Men’s professional volleyball (OK Savings Bank Read Rangers) at Sajik Gymnasium.
-- **When:** KOVO’s board confirmed the **2026–27 regular season as Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22, 2027), so the league is live for your entire trip. Round-by-round fixtures come from KOVO — don’t assume a tip-off time.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
+- **What:** Men’s professional volleyball — **OK Savings Bank Eutman (읏맨)**. ⚠️ **CORRECTION: they do NOT play at Sajik.** The club moved from Ansan to Busan for the 2025–26 season and its home court is the **Gangseo Sports Park Indoor Gymnasium (강서체육공원 실내체육관)** in Gangseo-gu — the far west of the city, not the Sajik sports complex.
+- **Getting there:** **Busan Metro Line 3 to Sports Park (체육공원) station**, connected at basement level. This is a long ride from Haeundae/Centum — budget 50–70 minutes from the BEXCO area.
+- **When:** KOVO confirmed the **2026–27 regular season as Oct 31, 2026 – Apr 2, 2027**, so the league is live for your entire trip. Round-by-round fixtures come from KOVO — don’t assume a start time.
+- **⚠️ Book ahead, this is not a walk-up.** The move to Busan was a hit: OK Savings Bank **sold out every weekend home game** of its first Busan season and was the only club in either V-League division averaging over 3,000 spectators. If a home date falls in your window, buy online rather than turning up at the box office.
+- **Official sources (reviewed Aug 18):** [kovo.co.kr](https://www.kovo.co.kr) · [club home-ground page](https://www.okfinancialsports.com/m/volley/club/home_ground.asp) · [Busan City — Gangseo Sports Park access](https://www.busan.go.kr/stadium/sfplacegs) · [Yonhap — sell-out first Busan season](https://www.yna.co.kr/view/AKR20260315018500007)
 
 ### 7) 🏀 **KBL — Busan KCC Egis / WKBL — BNK Sum** — ✅ SEASON CONFIRMED — league running all trip
 - **What:** Men’s (KCC Egis) and women’s (BNK Sum) basketball at **Sajik Indoor Gymnasium**.
-- **When:** KBL released the 2026–27 schedule on Aug 10, 2026: **Oct 3, 2026 – Apr 11, 2027**, 54 games per team. Fittingly, the season *opener* was Busan’s — **KCC vs Changwon LG, Sat Oct 3, 14:00 at Sajik** — so the arena is in full swing by the time you arrive. Weekdays have 1 game and weekend days 3, so a November home date is very likely; confirm on the league fixture list.
-- **Official sources (reviewed Aug 17):** [kbl.or.kr](https://www.kbl.or.kr) · [wkbl.or.kr](https://www.wkbl.or.kr) · schedule release via [Basket Korea](https://www.basketkorea.com/news/newsview.php?ncode=1065589462597924)
+- **When:** KBL released the 2026–27 schedule on Aug 10, 2026: **Oct 3, 2026 – Apr 11, 2027**, 54 games per team, 1 game on weekdays and 3 at weekends. The season *opener* was Busan’s — **KCC vs Changwon LG, Sat Oct 3, 14:00 at Sajik**.
+- **⚠️ CHECK THE NOVEMBER INTERNATIONAL BREAK BEFORE COUNTING ON A GAME.** KBL stops for FIBA World Cup qualifying windows, and the **2027 World Cup Asian qualifier Window 5 runs Nov 23 – Dec 1, 2026** per the Korea Basketball Association. In the equivalent 2025–26 window the league paused from **Nov 21**. Your Busan days are **Nov 19–22**, which sits right on that boundary — a KCC home game may or may not survive it.
+- **Verify on the KBL fixture list once November fixtures post**, and treat basketball as a bonus rather than a fixed plan for the Busan leg.
+- **Official sources (reviewed Aug 18):** [kbl.or.kr](https://www.kbl.or.kr) · [wkbl.or.kr](https://www.wkbl.or.kr) · [KBA national-team calendar — qualifier Nov 23–Dec 1, 2026](https://www.koreabasketball.or.kr/national/schedule.php) · [schedule release](https://www.basketkorea.com/news/newsview.php?ncode=1065589462597924)
 
 ### 8) 💡 **Seomyeon Light Festival / Millak Luce Festa** — ⏳ RE-CHECK SWITCH-ON
 - **What:** Recurring winter illuminations on Seomyeon 1st Street and the Millak waterfront. Previous winters started in November, but **2026 switch-on dates were not on an organizer page** at review.
@@ -131,8 +135,11 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official sources (reviewed Aug 17):** [bisco.or.kr](https://www.bisco.or.kr) · [Visit Busan](https://english.visitbusan.net)
 
 ### 22) 🐟 **Jagalchi Market** — 🔎 VERIFIED MARKET
-- **What:** Fish market with upstairs restaurants and a rooftop harbor deck. Closed first and third Tuesday in recent years — verify.
-- **Official source (reviewed Aug 17):** [jagalchimarket.org](http://www.jagalchimarket.org)
+- **What:** Korea's largest seafood market — street-side stalls, a live-fish floor, upstairs restaurants that will cook what you buy downstairs, and a rooftop harbour deck.
+- **Hours:** **05:00–22:00.** **Closed the 1st and 3rd Tuesday of every month** — confirmed, not a rumour.
+- **✅ Good news for your plan: the November closures are Tue Nov 3 and Tue Nov 17, and your Busan days are Nov 19–22.** Jagalchi is open for the whole of your stay.
+- **💡 It's a 10-minute walk from the Yeongdo Bridge lift** (#27) and backs onto Gukje/Kkangtong markets — one Nampo-dong afternoon covers all three. ☎ 051-245-2594.
+- **Official sources (reviewed Aug 18):** [BISCO — Jagalchi Market (operator)](https://www.bisco.or.kr/jagalchimarket/) · [KTO listing — hours and closure days](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318)
 
 ### 23) 🛍️ **Gukje Market and Bupyeong Kkangtong Night Market** — 🔎 VERIFIED MARKETS
 - **What:** Daytime international market plus the covered night-food market that sets up in the evening. Treat as one Nampo market district.

@@ -46,6 +46,19 @@ CLAIMS = [
     ("Independence Hall winter last entry 16:00 (not 17:00)", [
         ("daejeon-cheonan.md", r"LAST ENTRY IS 16:00"),
     ]),
+    ("OK Savings Bank volleyball plays at Gangseo, not Sajik", [
+        ("busan.md", r"Gangseo Sports Park Indoor Gymnasium"),
+        ("busan.md", r"OK Savings Bank[^\n]*Sajik Gymnasium", "absent"),
+        ("events.csv", r"Gangseo Sports Park Indoor Gymnasium"),
+    ]),
+    ("Jagalchi closes 1st and 3rd Tuesday (Nov 3 and 17, not the Busan window)", [
+        ("busan.md", r"1st and 3rd Tuesday"),
+        ("busan.md", r"Tue Nov 3 and Tue Nov 17"),
+    ]),
+    ("KBL November FIBA break warning present", [
+        ("busan.md", r"Nov 23 . Dec 1, 2026|Nov 23 - Dec 1, 2026"),
+        ("events.csv", r"Window 5 runs Nov 23-Dec 1 2026"),
+    ]),
     ("INAS Nov 22 last entry 17:00 noted on departure day", [
         ("incheon.md", r"last entry 17:00"),
         ("itinerary.md", r"last entry 17:00"),
