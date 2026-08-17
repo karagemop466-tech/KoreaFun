@@ -28,5 +28,11 @@
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against dated organizer, venue/operator, Jeonju City, museum, market, heritage, league, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
     "reviewer_notes": "Confirmed 2026 parade, Gyeonggijeon night, and Daesaseupcheong series use official city calendars. Individual recurring sessions and sports fixtures remain marked for re-check."
+  },
+  "incheon.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed.",
+    "reviewer_notes": "No major November 2026 event was retained without a dated organizer page. Administrative district changes effective July 2026 and closed/suspended transport claims were accounted for."
   }
 }
