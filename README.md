@@ -3,40 +3,44 @@
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
 A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> ✅ **Info verified: August 2026.** Everything links to **official / government / league-sanctioned sources only**. Anything that isn't officially announced yet is clearly marked **TBA** or **Watch** so you never confuse a guess with a fact.
+> ✅ **Audited August 2026.** Every one of the 2,444 entries below was checked against this repo's audit tooling (`tools/`), and dated events were re-verified against the organiser's own site. **799 unverifiable filler entries were deleted rather than left in**, along with 70 duplicates — see [`audit/AUDIT-FINDINGS.md`](audit/AUDIT-FINDINGS.md) for exactly what was removed and why. Anything not officially announced yet is marked **⏳ TBA** or **👀 Watch** so you never confuse a guess with a fact.
+>
+> ⚠️ **Two honest caveats.** (1) Most but *not* all entries carry a deep link to an official page; some cite only the city tourism portal. (2) Prices and especially **winter opening hours** change — Korean attractions commonly close 1–2 hours earlier from November. Re-check anything ticketed on the day.
+>
+> 🏝️ **Time-critical:** the **2026 Yeosu World Island Expo closes Nov 4** — day 5 of your trip. See the note at the top of [`itinerary.md`](itinerary.md).
 
 ---
 
-## 📂 What's in this repo (**3,256 total numbered activity sections** across 14 city files)
+## 📂 What's in this repo (**2,444 verified numbered activity sections** across 14 city files)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | **366 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
-| [`busan.md`](busan.md) | **203 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
-| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **225 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX), incl. the wider Chungcheong region |
+| [`seoul.md`](seoul.md) | **363 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
+| [`busan.md`](busan.md) | **190 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
+| [`daejeon-cheonan.md`](daejeon-cheonan.md) | **210 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX), incl. the wider Chungcheong region |
 
 ### 🛍️ Neighborhood deep-dives (focused on Seoul districts)
 
 | File | What's inside |
 |---|---|
-| [`myeongdong.md`](myeongdong.md) | **366 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
+| [`myeongdong.md`](myeongdong.md) | **296 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
 
-### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 expanded cities, **2,152 activity sections**)
+### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities, **1,385 activity sections**)
 
 | File | Sections | Transit from Seoul | Best for |
 |---|---|---|---|
-| [`suwon.md`](suwon.md) | 218 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
-| [`yongin.md`](yongin.md) | 194 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
-| [`incheon.md`](incheon.md) | 242 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
-| [`jeonju.md`](jeonju.md) | 226 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
-| [`daegu.md`](daegu.md) | 219 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
-| [`gyeongju.md`](gyeongju.md) | 231 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
-| [`ulsan.md`](ulsan.md) | 210 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
-| [`pohang.md`](pohang.md) | 195 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
-| [`changwon-jinhae.md`](changwon-jinhae.md) | 210 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
-| [`yeosu.md`](yeosu.md) | 207 | KTX 2h 50 min + Suncheon transfer | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
+| [`suwon.md`](suwon.md) | 211 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
+| [`yongin.md`](yongin.md) | 167 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
+| [`incheon.md`](incheon.md) | 176 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
+| [`jeonju.md`](jeonju.md) | 159 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
+| [`daegu.md`](daegu.md) | 132 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
+| [`gyeongju.md`](gyeongju.md) | 133 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
+| [`ulsan.md`](ulsan.md) | 113 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
+| [`pohang.md`](pohang.md) | 89 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
+| [`changwon-jinhae.md`](changwon-jinhae.md) | 105 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
+| [`yeosu.md`](yeosu.md) | 100 | KTX ~3h 20m direct (Yongsan→Yeosu-Expo) | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
 
 ### 🧰 Guides, maps & data
 
