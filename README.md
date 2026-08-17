@@ -7,7 +7,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (~770 Total Activity Sections)
+## 📂 What's in this repo (~1,400 Total Activity Sections)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -17,20 +17,20 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | [`busan.md`](busan.md) | **103 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | **80 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX) |
 
-### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 new cities, ~300 activity sections)
+### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 expanded cities, ~1,300 activity sections)
 
-| File | Transit from Seoul | Best for |
-|---|---|---|
-| [`suwon.md`](suwon.md) | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
-| [`yongin.md`](yongin.md) | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
-| [`incheon.md`](incheon.md) | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
-| [`jeonju.md`](jeonju.md) | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
-| [`daegu.md`](daegu.md) | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
-| [`gyeongju.md`](gyeongju.md) | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
-| [`ulsan.md`](ulsan.md) | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
-| [`pohang.md`](pohang.md) | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
-| [`changwon-jinhae.md`](changwon-jinhae.md) | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
-| [`yeosu.md`](yeosu.md) | KTX 2h 50 min + Suncheon transfer | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
+| File | Sections | Transit from Seoul | Best for |
+|---|---|---|---|
+| [`suwon.md`](suwon.md) | 138 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
+| [`yongin.md`](yongin.md) | 130 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
+| [`incheon.md`](incheon.md) | 142 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
+| [`jeonju.md`](jeonju.md) | 136 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
+| [`daegu.md`](daegu.md) | 139 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
+| [`gyeongju.md`](gyeongju.md) | 142 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
+| [`ulsan.md`](ulsan.md) | 139 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
+| [`pohang.md`](pohang.md) | 135 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |
+| [`changwon-jinhae.md`](changwon-jinhae.md) | 140 | KTX 2h 50 min south | Naval Academy, Cherry Blossom Ave (autumn), Jinhae Bay |
+| [`yeosu.md`](yeosu.md) | 136 | KTX 2h 50 min + Suncheon transfer | **Maritime Cable Car**, Odongdo, Yi Sun-sin Plaza |
 
 ### 🧰 Guides, maps & data
 
