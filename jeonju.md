@@ -26,7 +26,8 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 ### 2) ✨ **Gyeonggijeon Starlight Walk (경기전 별빛누빔)** — ✅ CONFIRMED — Fridays through Nov 2026 · NEW
 - **What:** Timed evening cultural program inside Gyeonggijeon, presenting the shrine after normal daytime hours.
 - **When:** Official listing confirms **June–November, Friday nights only**. For **September–November the two entry sessions are 19:30 and 20:30** (earlier in the year they ran an hour later). Trip-window Fridays are **Nov 6, 13 and 20**. Capacity is limited per session, so book rather than turn up.
-- **Price/booking:** Advance reservation may be required; check the event page for capacity and weather notices.
+- **Price/booking:** Sessions are capped at roughly **50 people each**. In past editions **half the tickets sold via TicketLink in advance and half were sold on-site at the Gyeonggijeon main gate from about an hour before** — so a walk-up is possible but not safe. Content is a lit-up course through the shrine grounds (Taejo portrait hall, pine path, the Jeondong Cathedral wall view) ending with a fusion-gugak performance.
+- **Getting there:** No dedicated car park — use the Hanok Village public lot or Nambu Market, both a 5–10 min walk.
 - **Official source (reviewed Aug 17):** [Visit Jeonju 2026 listing](https://tour.jeonju.go.kr/index.jeonju)
 
 ### 3) 🎶 **Jeonju Daesaseupcheong Saturday Regular Performance** — ⏳ SERIES LISTED, NOVEMBER DATES UNPOSTED — May–Nov 2026 · NEW

@@ -18,9 +18,10 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 ## Confirmed during the trip
 
 ### 1) 💄 **BeautySum Korea Suwon 2026** — ✅ CONFIRMED — Nov 5–7, 2026 · NEW
-- **What:** Beauty-industry exhibition with products, beauty technology, business programs, and announced visitor experience zones.
-- **Where/when:** Suwon Convention Center, **Thu Nov 5–Sat Nov 7, 2026**.
-- **Price/hours:** Check the organizer’s visitor-registration page; trade and public programs may have different access rules.
+- **What:** Beauty-industry exhibition themed *"From Materials to Decisions"* — **~100 companies across ~300 booths**, spanning raw materials and R&D through finished cosmetics, beauty-tech devices, hair/nail, inner beauty, fragrance and packaging. Hosted by Suwon City with the Suwon Convention Center and Messe Esang.
+- **Where/when:** **Suwon Convention Center, Exhibition Hall, 1F** — **Thu Nov 5–Sat Nov 7, 2026**.
+- **Worth knowing for visitors:** alongside the trade side there's an **experience zone** (personal-colour diagnosis, perfume-making, skincare, makeup) and an **AI / Beauty-Tech hall**. So unlike a pure B2B fair, there is real walk-up content — but the R&D conference and export consultations are trade-only.
+- **Price/hours:** Check the organizer's visitor-registration page; trade and public programs have different access rules.
 - **Official source (reviewed Aug 17):** [BeautySum Korea Suwon](https://beautysumkorea.com/beautysum/intro/)
 
 ### 2) 🌙 **Hwaseong Haenggung Night Opening: Moonlight Flower Talk** — ✅ CONFIRMED — through Nov 1, 2026
