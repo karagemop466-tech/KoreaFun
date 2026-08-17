@@ -192,31 +192,31 @@
 
 ## 🍴 Gyeongju's culinary heritage
 
-### 36) 🍜 Gyeongju *ssambap* (쌈밥) rice wraps — 🔁 daily
+### 26) 🍜 Gyeongju *ssambap* (쌈밥) rice wraps — 🔁 daily
 - **What:** Korea's signature salad wrap — 20+ ingredients, your own to wrap with rice. The hack of Gyeongju dining
 - **Hours:** Daily 11:00–21:00
 - **Price:** ~₩8,000–15,000 per head
 - **Official source:** [gyeongju.go.kr](https://www.gyeongju.go.kr)
 
-### 37) 🍚 Gyeongju Hanwoo Kimchi Stew — 🔁 daily
+### 27) 🍚 Gyeongju Hanwoo Kimchi Stew — 🔁 daily
 - **What:** Spicy pork / kimchi / canned-clam stew served at legendary downtown restaurants
 - **Hours:** Daily 11:00–22:00
 
-### 38) 🥟 Hwangnam Bread (황남빵) — daily
+### 28) 🥟 Hwangnam Bread (황남빵) — daily
 - **What:** Red bean-paste cream puffs. A Gyeongju signature since 1939
 - **Hours:** Daily 08:00–22:00
 - **Price:** ~₩3,000 for a pack
 
-### 39) 🍩 Gyeongju Sticky Sweet Potato Pastry (꿀떡) — 🔁 daily
+### 29) 🍩 Gyeongju Sticky Sweet Potato Pastry (꿀떡) — 🔁 daily
 - **What:** Sweet traditional snack
 - **Hours:** Daily 10:00–22:00
 
-### 40) 🍑 Gyeongju Apple Pex (농축경가) — daily
+### 30) 🍑 Gyeongju Apple Pex (농축경가) — daily
 - **What:** Concentrated fruit juice, a regional souvenir
 - **Hours:** Daily 10:00–21:00
 - **Price:** ~₩5,000 per bottle
 
-### 41) 🍃 Nangyang Market (ㄱㅑㄷ w) — 🔁 daily
+### 31) 🍃 Nangyang Market (ㄱㅑㄷ w) — 🔁 daily
 - **What:** Oldest market in Korea — 1,500 booths of traditional foods and 6.000 items including sweet potatoes
 - **Hours:** Daily 09:00–22:00
 - **Price:** Free walk-in
@@ -225,12 +225,12 @@
 
 ## 🌃 Nightlife
 
-### 42) 🍹 Hwangridan-gil Lounge Bars — 🔁 nightly
+### 32) 🍹 Hwangridan-gil Lounge Bars — 🔁 nightly
 - **What:** Modern K-pop-themed night spots beside cafe street
 - **Hours:** Nightly 18:00–24:00+
 - **Price:** ₩10,000–25,000
 
-### 43) 🎷 Gyeongju Jazz Cafe Live — 👀 WATCH
+### 33) 🎷 Gyeongju Jazz Cafe Live — 👀 WATCH
 - **What:** Intimate acoustic shows in themed cafes
 - **Hours:** Variable
 - **Price:** Variable
@@ -239,46 +239,46 @@
 
 ## 🌿 Day-trip destinations
 
-### 44) 🐠 Gyeongju Sea World (경주 씨월드) — 🔁 daily
+### 34) 🐠 Gyeongju Sea World (경주 씨월드) — 🔁 daily
 - **What:** Local aquarium outside Bomun
 - **Hours:** Daily 10:00–17:00
 - **Price:** Adult **₩5,000–10,000**
 - **Official source:** [gyeongju.go.kr](https://www.gyeongju.go.kr)
 
-### 45) 🛶 Silla Millennium Park — 🔁 Tue–Sun
+### 35) 🛶 Silla Millennium Park — 🔁 Tue–Sun
 - **What:** Impressive theme park dedicated to Silla mythology
 - **Hours:** Tue–Sun 10:00–18:00
 - **Price:** Adult **₩15,000**
 
-### 46) 🌾 Gyochon Traditional Village — 🔁 daily (FREE)
+### 36) 🌾 Gyochon Traditional Village — 🔁 daily (FREE)
 - **What:** Charming ancient government center
 - **Hours:** Daily 09:00–17:00
 - **Price:** **FREE**
 - **Official source:** [gyeongju.go.kr](https://www.gyeongju.go.kr)
 
-### 47) 🏯 **Pohang (포항)** — see [`pohang.md`](pohang.md)
+### 37) 🏯 **Pohang (포항)** — see [`pohang.md`](pohang.md)
 - 30 min by train
 
-### 48) 🏖️ Gampo Beach — 👀 WATCH (cool, autumn sea)
+### 38) 🏖️ Gampo Beach — 👀 WATCH (cool, autumn sea)
 - **What:** Coastal beach 50 min east of city
 - **Hours:** Daily
 - **Price:** Free walk-in
 
-### 49) 🍲 Yangdong & Seokbinggo — see #10
+### 39) 🍲 Yangdong & Seokbinggo — see #10
 
 ---
 
 ## 🌿 Other seasonal gardens
 
-### 50) 🌷 Bomun Global Village Theme Park — 👀 WATCH
+### 40) 🌷 Bomun Global Village Theme Park — 👀 WATCH
 - **What:** Theme park + water park + folk garden
 - **Hours:** Daily 10:00–18:00
 - **Price:** ₩20,000
 
-### 51) 🎨 Wolji moonlight cinema — 👀 WATCH
+### 41) 🎨 Wolji moonlight cinema — 👀 WATCH
 - **What:** Outdoor film festival at Wolji, in cultural festival nights
 
-### 52) 🌸 Gyeongju Flower Festival & Tulip — early Apr, after trip
+### 42) 🌸 Gyeongju Flower Festival & Tulip — early Apr, after trip
 - **Hours:** Daily
 - **Price:** Variable
 - **Beginner notes:** Spring-only — bookmark for next visit.
@@ -287,88 +287,88 @@
 
 ## 🏯 UNESCO heritage (extended)
 
-### 53) 🏯 **Anapji Pond Night View (안압지) — 🔁 daily**
+### 43) 🏯 **Anapji Pond Night View (안압지) — 🔁 daily**
 - **What:** 'Anapji (안압지)' historic royal pond — part of the old Silla secondary palace site surrounding Donggung
 - **Hours:** Daily 18:00–21:00 (illumination season)
 - **Price:** **FREE**
 - **Official source:** [ghs.go.kr](http://www.ghs.go.kr)
 
-### 54) 🏛️ **Namsan Mountain Silla Royal Tombs Trail — 🔁 always on (FREE)**
+### 44) 🏛️ **Namsan Mountain Silla Royal Tombs Trail — 🔁 always on (FREE)**
 - **What:** Mountain with ruins of ancient temples and tombs — partly off-limits but many spots open
 - **Hours:** Daily dawn–dusk
 - **Price:** **FREE**
 
-### 55) 🏯 **Silla Bell (Aekjeong Port) of Gyeongju — 👀 WATCH**
+### 45) 🏯 **Silla Bell (Aekjeong Port) of Gyeongju — 👀 WATCH**
 - **What:** The Emille Bell / Divine Star of Great Enlightenment
 - **Hours:** Tue–Sun 09:30–17:00 (national museum)
 - **Price:** **FREE**
 - **Official source:** [gyeongju.museum.go.kr](https://gyeongju.museum.go.kr)
 
-### 56) 🏯 **Tap-yeongsa Site (탐영사) — 👀 WATCH (FREE)**
+### 46) 🏯 **Tap-yeongsa Site (탐영사) — 👀 WATCH (FREE)**
 - **What:** Silla royal palace site north center
 - **Hours:** Daily
 
-### 57) 🏛️ **Seoakdae Observatory (Stone Star) — 👀 WATCH**
+### 47) 🏛️ **Seoakdae Observatory (Stone Star) — 👀 WATCH**
 - **What:** Smaller restoration of Cheomseongdae at Seoak-dae
 - **Hours:** Tue–Sun
 - **Price:** **FREE**
 
-### 58) 🏛️ **Silla Samdung-gun Monument (삼충도비) — 🔁 always on (FREE)**
+### 48) 🏛️ **Silla Samdung-gun Monument (삼충도비) — 🔁 always on (FREE)**
 - **What:** UNESCO-listed stone monument
 - **Hours:** 24/7
 - **Price:** **FREE**
 - **Official source:** [royal.khs.go.kr](https://royal.khs.go.kr)
 
-### 59) 🏯 **Gyeongju Hwangnamdaero Royal Tomb Area (lalimo) — 🔁 daily**
+### 49) 🏯 **Gyeongju Hwangnamdaero Royal Tomb Area (lalimo) — 🔁 daily**
 - **What:** Cluster of unnamed royal tombs Hwangnam-dae-ro south of museum
 - **Hours:** Daily
 - **Price:** **FREE**
 
-### 60) 🏛️ **Gyeongju ~ Silla Dinosaur Fossil Park — 👀 WATCH**
+### 50) 🏛️ **Gyeongju ~ Silla Dinosaur Fossil Park — 👀 WATCH**
 - **What:** Paleontological site of the Silla period (older, varied)
 - **Hours:** Tue–Sun
 - **Price:** Adult ₽2,000
 
-### 61) 🏯 **Bulguksa Dolmens (UNESCO) — 👀 WATCH (FREE)**
+### 51) 🏯 **Bulguksa Dolmens (UNESCO) — 👀 WATCH (FREE)**
 - **What:** Prehistoric burial stones (**UNESCO**-listed Silla Dolmens of Gyeongju)
 - **Hours:** Daily 09:00–17:00
 - **Price:** **FREE**
 
-### 62) 🏛️ **Gyeongju Flying Horse Tomb (Cheonmachong) — already #4**
+### 52) 🏛️ **Gyeongju Flying Horse Tomb (Cheonmachong) — already #4**
 
 ---
 
 ## 🍂 Cherry & scenic — extended
 
-### 63) 🍂 **Bomun Lake Autumn Foliage Drive — 🔁 daily (FREE)**
+### 53) 🍂 **Bomun Lake Autumn Foliage Drive — 🔁 daily (FREE)**
 - **What:** 12 km auto-loop around Bomun Lake in autumn
 - **Hours:** Daily 09:00–17:00
 - **Price:** **FREE**
 
-### 64) 🍁 **Tohamsan Cable Car Cheomseongdan — 🔁 daily**
+### 54) 🍁 **Tohamsan Cable Car Cheomseongdan — 🔁 daily**
 - **What:** Cable car to Tohamsan mountain
 - **Hours:** Daily 09:00–17:00
 - **Price:** ₽12,000
 
-### 65) 🍂 **Mt. Namsan Trail (5 entrances) — 🔁 daily (FREE)**
+### 55) 🍂 **Mt. Namsan Trail (5 entrances) — 🔁 daily (FREE)**
 - **What:** Mountain trail around Namsan mountain
 - **Hours:** Daily
 - **Price:** **FREE**
 
-### 66) 🏞️ **Donggung Spillway Forest — 🔁 always on (FREE)**
+### 56) 🏞️ **Donggung Spillway Forest — 🔁 always on (FREE)**
 - **What:** Quiet forested area
 - **Hours:** Daily
 
-### 67) 🌳 **Gyeongju Drumb Belltrail / Mt. Happo Fall Trail — 🔁 always on (FREE)**
+### 57) 🌳 **Gyeongju Drumb Belltrail / Mt. Happo Fall Trail — 🔁 always on (FREE)**
 - **What:** Mountain hike in southern Gyeongju
 - **Hours:** Daily
 - **Price:** **FREE**
 
-### 68) 🍂 **Gyeongju Hwangnam Lake Walking Path — 🔁 daily (FREE)**
+### 58) 🍂 **Gyeongju Hwangnam Lake Walking Path — 🔁 daily (FREE)**
 - **What:** Scenic loop
 - **Hours:** Daily
 
-### 69) 🌾 **Yangdong Folk Village Imcheonggak Rotunda — 🔁 always on (FREE)**
+### 59) 🌾 **Yangdong Folk Village Imcheonggak Rotunda — 🔁 always on (FREE)**
 - **What:** 1.5 km Yangdong scenic walking path
 - **Hours:** Daily
 
@@ -376,33 +376,33 @@
 
 ## 🏛️ Culture & museum (extended)
 
-### 70) 🎬 **Gyeongju Cultural Center — 🔁 daily**
+### 60) 🎬 **Gyeongju Cultural Center — 🔁 daily**
 - **What:** Performing arts venue
 - **Hours:** Daily 09:00–18:00
 - **Price:** Varies
 
-### 71) 🏯 **Gyeongju Craft Wine Bar Tour — 👀 WATCH (Sat evenings)**
+### 61) 🏯 **Gyeongju Craft Wine Bar Tour — 👀 WATCH (Sat evenings)**
 - **What:** Wine tasting room in Korean traditional village
 - **Price:** ₽15,000
 
-### 72) 🏛️ **Gyeongju Volcano Museum — 👀 WATCH**
+### 62) 🏛️ **Gyeongju Volcano Museum — 👀 WATCH**
 - **What:** Volcanic science museum
 - **Hours:** Tue–Sun 10:00–17:00
 
-### 73) 📚 **Gyeongju Folk Items Shop — 🔁 daily**
+### 63) 📚 **Gyeongju Folk Items Shop — 🔁 daily**
 - **What:** Folk art & decoration store
 
-### 74) 🏛️ **Gyeongju Folk Music Cafe — 👀 WATCH weekends**
+### 64) 🏛️ **Gyeongju Folk Music Cafe — 👀 WATCH weekends**
 - **What:** Korean folk music with coffee
 - **Hours:** Weekends 14:00
 
-### 75) 📖 **Gyeongju art resident studio — 👀 WATCH**
+### 65) 📖 **Gyeongju art resident studio — 👀 WATCH**
 - **What:** Working artist space
 
-### 76) 🎨 **Gyeongju Courtyard Galleries — 👀 WATCH (Sat)**
+### 66) 🎨 **Gyeongju Courtyard Galleries — 👀 WATCH (Sat)**
 - **Hours:** Weekends 10:00–18:00
 
-### 77) 🍵 **Gyeongju Korean Tea House — 👀 WATCH (Sat–Sun)**
+### 67) 🍵 **Gyeongju Korean Tea House — 👀 WATCH (Sat–Sun)**
 - **What:** Specialty tea experience
 - **Price:** ₽15,000
 
@@ -410,268 +410,268 @@
 
 ## 🍂 Modern downtown — extended
 
-### 78) 🛍️ **Gyeongju Shoe Street Market — 🔁 daily**
+### 68) 🛍️ **Gyeongju Shoe Street Market — 🔁 daily**
 - **What:** Shoe/wholesale shopping district
 - **Hours:** Daily 10:00–20:00
 - **Price:** Pay per item
 
-### 79) 🎨 **Hwangridan-gil 'Stone' Walking Tour — 👀 WATCH (Sat)**
+### 69) 🎨 **Hwangridan-gil 'Stone' Walking Tour — 👀 WATCH (Sat)**
 - **What:** Walking through stone pavers
 - **Hours:** Daily
 
-### 80) 🛍️ **Gyeongju Lotte Outlets — 👀 WATCH**
+### 70) 🛍️ **Gyeongju Lotte Outlets — 👀 WATCH**
 - **What:** Outlet mall
 - **Hours:** Daily 10:30–22:00
 
-### 81) 📚 **Gyeongju Indie Book Cafes — 🔁 daily**
+### 71) 📚 **Gyeongju Indie Book Cafes — 🔁 daily**
 - **What:** Independent bookstore-cafes
 - **Hours:** Daily 11:00–22:00
 
-### 82) 🍷 **Gyeongju Wine & Traditional Liquor Bar — 🔁 nightly**
+### 72) 🍷 **Gyeongju Wine & Traditional Liquor Bar — 🔁 nightly**
 - **Hours:** Nightly 18:00–24:00
 
-### 83) 🎨 **Gyeongju Maker Streets — 👀 WATCH**
+### 73) 🎨 **Gyeongju Maker Streets — 👀 WATCH**
 - **What:** Craft bars districts in tradition
 
 ---
 
 ## 🍴 Food (extended)
 
-### 84) 🍱 **Gyeongju Beef Dolsoet-tang (갈비탕) Alley — 🔁 daily**
+### 74) 🍱 **Gyeongju Beef Dolsoet-tang (갈비탕) Alley — 🔁 daily**
 - **What:** Korean beef stew
 - **Hours:** Daily
 - **Price:** ~₽15,000
 
-### 85) 🔥 **Gyeongju Hot Stone Pot Bibimbap — 🔁 daily**
+### 75) 🔥 **Gyeongju Hot Stone Pot Bibimbap — 🔁 daily**
 - **What:** Heated stone-pot bibimbap
 - **Hours:** Daily 11:00–21:00
 - **Price:** ₽8,000–15,000
 
-### 86) 🍡 **Gyeongju Sweet-Potato Cake (Bat-cake) Candy — 🔁 daily**
+### 76) 🍡 **Gyeongju Sweet-Potato Cake (Bat-cake) Candy — 🔁 daily**
 - **What:** Sweet potato pastries
 
-### 87) 🍜 **Gyeongju Handmade Noodle (guk-su) Street — 🔁 daily**
+### 77) 🍜 **Gyeongju Handmade Noodle (guk-su) Street — 🔁 daily**
 - **Hours:** Daily
 
-### 88) 🍲 **Gyeongju Haejangguk Restaurant District — 🔁 daily**
+### 78) 🍲 **Gyeongju Haejangguk Restaurant District — 🔁 daily**
 - **What:** Korean hangover soup
 - **Hours:** Daily 11:00–22:00
 - **Price:** ₽10,000
 
-### 89) 🍰 **Gyeongju Sweet Bread Pilgrimage — 👀 WATCH (weekends)**
+### 79) 🍰 **Gyeongju Sweet Bread Pilgrimage — 👀 WATCH (weekends)**
 - **What:** Bakery route
 
-### 90) 🍶 **Gyeongju Korean Liquor Tasting Room — 👀 WATCH (Fri evening)**
+### 80) 🍶 **Gyeongju Korean Liquor Tasting Room — 👀 WATCH (Fri evening)**
 
-### 91) 🌰 **Gyeongju Apple Stand (사과 자판) — 👀 WATCH**
+### 81) 🌰 **Gyeongju Apple Stand (사과 자판) — 👀 WATCH**
 - **Hours:** Daily 09:00–17:00
 
 ---
 
 ## 🌃 Nightlife (extended)
 
-### 92) 🍻 **Hwangridan-gil Wine Bar District — 🔁 nightly**
+### 82) 🍻 **Hwangridan-gil Wine Bar District — 🔁 nightly**
 - **What:** Wine & cocktail bars located within activity district
 - **Hours:** Nightly 17:00–24:00
 
-### 93) 🎶 **Gyeongju Indie Café with Acoustic Music — 👀 WATCH weekends**
+### 83) 🎶 **Gyeongju Indie Café with Acoustic Music — 👀 WATCH weekends**
 - **What:** Acoustic live shows
 - **Hours:** Fri–Sat 19:00
 
-### 94) 🏮 **Gyeongju Hanok Showcase — 👀 WATCH (Sat evening)**
+### 84) 🏮 **Gyeongju Hanok Showcase — 👀 WATCH (Sat evening)**
 - **What:** Evening hanok music & dance shows
 - **Price:** ₽15,000
 
-### 95) 🎵 **Gyeongju Norebang Mahal — 👀 WATCH weekends**
+### 85) 🎵 **Gyeongju Norebang Mahal — 👀 WATCH weekends**
 - **Hours:** Weekends
 
-### 96) 🍸 **Gyeongju Yangdong Skybridge Walk Nightview — 🔁 daily**
+### 86) 🍸 **Gyeongju Yangdong Skybridge Walk Nightview — 🔁 daily**
 - **What:** Skybridge overlooking Yangdong Folk Village
 - **Hours:** 18:00–22:00
 
-### 97) 🎤 **Gyeongju Daesung Open Mic — 👀 WATCH weekends**
+### 87) 🎤 **Gyeongju Daesung Open Mic — 👀 WATCH weekends**
 
 ---
 
 ## 🌾 Day trip destinations (extended)
 
-### 98) 🌊 **Yangnam Coastal Hadong Bay — 👀 WATCH (50 min drive)**
+### 88) 🌊 **Yangnam Coastal Hadong Bay — 👀 WATCH (50 min drive)**
 - **What:** Coastal village in south-east
 - **Hours:** Daily
 - **Official source:** [hadong.go.kr](http://www.hadong.go.kr)
 
-### 99) 🏯 **Sangju (상주) Strawberry Festival & Village — 👀 WATCH (Mar)**
+### 89) 🏯 **Sangju (상주) Strawberry Festival & Village — 👀 WATCH (Mar)**
 - **What:** Strawberry village; not in season
 
-### 100) 🌿 **Gimcheon Green Up Coffee Festival — 👀 WATCH (Sep)**
+### 90) 🌿 **Gimcheon Green Up Coffee Festival — 👀 WATCH (Sep)**
 
-### 101) 🏯 **Gimcheon (김천) Lake Ring — 👀 WATCH**
+### 91) 🏯 **Gimcheon (김천) Lake Ring — 👀 WATCH**
 
-### 102) 🏯 **Gimcheon Sculpture Park — 👀 WATCH (1.5 hr)**
+### 92) 🏯 **Gimcheon Sculpture Park — 👀 WATCH (1.5 hr)**
 - **Hours:** Tue–Sun 10:00–17:00
 
-### 103) 🌿 **Gimhae Gaya Theme Park — 👀 WATCH**
+### 93) 🌿 **Gimhae Gaya Theme Park — 👀 WATCH**
 - **What:** Gaya confederacy theme park
 - **Hours:** Daily 10:00–19:00
 
-### 104) 🏯 **Yeongju Buseoksa Temple — 👀 WATCH (1.5 hr)**
+### 94) 🏯 **Yeongju Buseoksa Temple — 👀 WATCH (1.5 hr)**
 - **What:** UNESCO temple 1.5 hr drive
 - **Hours:** Daily 06:00–18:00
 - **Price:** Adult ₽3,000
 
-### 105) 🏯 **Yeongju Choganu's House & Silla Tombs — 👀 WATCH**
+### 95) 🏯 **Yeongju Choganu's House & Silla Tombs — 👀 WATCH**
 
-### 106) 🌿 **Bongjeong-dong Hanok Village — 👀 WATCH**
+### 96) 🌿 **Bongjeong-dong Hanok Village — 👀 WATCH**
 - **What:** 1 hr drive
 
-### 107) 🏯 **Pohang Theme Walk — see `pohang.md`**
+### 97) 🏯 **Pohang Theme Walk — see `pohang.md`**
 
 ---
 
 ## 🌾 Other seasonal gardens (extended)
 
-### 108) 🦢 **Sundan-myeon Lotus Pond — 🔁 daily (FREE)**
+### 98) 🦢 **Sundan-myeon Lotus Pond — 🔁 daily (FREE)**
 - **Hours:** Daily
 - **Price:** **FREE**
 
-### 109) 🌳 **Gyeongju Makgeolli Forest Walk — 👀 WATCH**
+### 99) 🌳 **Gyeongju Makgeolli Forest Walk — 👀 WATCH**
 - **Hours:** Weekends
 
-### 110) 🍁 **Gyeongju Gamsan-Bak Autumn Foliage Talk — 👀 WATCH weekends**
+### 100) 🍁 **Gyeongju Gamsan-Bak Autumn Foliage Talk — 👀 WATCH weekends**
 - **What:** Hill hike with instructor
 
-### 111) 🍁 **Gyeongju Autumn Romantic Travel Festival — 👀 WATCH (Nov)**
+### 101) 🍁 **Gyeongju Autumn Romantic Travel Festival — 👀 WATCH (Nov)**
 - **What:** Fall romance-themed festival
 
-### 112) 🌙 **Silla Heritage Night Tours (Anapji) — 👀 WATCH (Fri–Sat night)**
+### 102) 🌙 **Silla Heritage Night Tours (Anapji) — 👀 WATCH (Fri–Sat night)**
 - **What:** Night exhibitions
 - **Hours:** Sat 19:00
 
-### 113) 🍂 **Gyeongju Chrysanthemum Festival (천지문 꿈) — 👀 WATCH (late Oct)**
+### 103) 🍂 **Gyeongju Chrysanthemum Festival (천지문 꿈) — 👀 WATCH (late Oct)**
 - **What:** Chrysanthemum festival
 
-### 114) 🍁 **Gyeongju Fall Wellness Walks — 👀 WATCH**
+### 104) 🍁 **Gyeongju Fall Wellness Walks — 👀 WATCH**
 
-### 115) 🎃 **Halloween Glow Bus Tours — 👀 WATCH (Oct 31)**
+### 105) 🎃 **Halloween Glow Bus Tours — 👀 WATCH (Oct 31)**
 - **What:** Halloween-themed bus
 
-### 116) 🌕 **Gyeongju Silla Sky Lantern Festival — 👀 WATCH (Nov)**
+### 106) 🌕 **Gyeongju Silla Sky Lantern Festival — 👀 WATCH (Nov)**
 
-### 117) 🎃 **Gyeongju Korean Wine Cocktail Festival — 👀 WATCH (Nov)**
+### 107) 🎃 **Gyeongju Korean Wine Cocktail Festival — 👀 WATCH (Nov)**
 
-### 118) 🌾 **Gyeongju Gohyun *paye* Cultural Heritage Walk — 👀 WATCH**
+### 108) 🌾 **Gyeongju Gohyun *paye* Cultural Heritage Walk — 👀 WATCH**
 
 ---
 
 ## 🌃 Adventure & Nature (extended)
 
-### 119) 🌊 **Gampo Beach Busan Sea Festival — 👀 WATCH (summer)**
+### 109) 🌊 **Gampo Beach Busan Sea Festival — 👀 WATCH (summer)**
 - **What:** Summer sea festival
 
-### 120) 🚣 **Gyeongju Bicycle Tour (50 km) — 👀 WATCH weekends**
+### 110) 🚣 **Gyeongju Bicycle Tour (50 km) — 👀 WATCH weekends**
 - **What:** Group bicycle tour of cities
 - **Price:** ~₽30,000
 
-### 121) 🛶 **Bomun Lake Sailing Weekend — 👀 WATCH**
+### 111) 🛶 **Bomun Lake Sailing Weekend — 👀 WATCH**
 - **Hours:** Sat–Sun
 
-### 122) 🌾 **Gyeongju Rural Trail (Banwol) — 🔁 daily (FREE)**
+### 112) 🌾 **Gyeongju Rural Trail (Banwol) — 🔁 daily (FREE)**
 - **What:** Rice field walking
 - **Hours:** Daily
 
-### 123) 🌲 **Gyeongju Forest Bath Trail — 🔁 daily (FREE)**
+### 113) 🌲 **Gyeongju Forest Bath Trail — 🔁 daily (FREE)**
 - **What:** Pine forest trail
 - **Hours:** Daily
 
-### 124) 🏞️ **Gyeongju Suncheon Lake Park Snapshot — 👀 WATCH**
+### 114) 🏞️ **Gyeongju Suncheon Lake Park Snapshot — 👀 WATCH**
 
-### 125) 🚵 **Gyeongju Mountain Biking — 👀 WATCH**
+### 115) 🚵 **Gyeongju Mountain Biking — 👀 WATCH**
 
 ---
 
 ## 🧒 Kids (extended)
 
-### 126) 🎡 **Gyeongju Bomun Family Theme Park Rides — 👀 WATCH**
+### 116) 🎡 **Gyeongju Bomun Family Theme Park Rides — 👀 WATCH**
 - **Hours:** Daily 10:00–18:00
 
-### 127) 🦖 **Gyeongju Dinosaur Discovery Park — 👀 WATCH (Tue–Sun)**
+### 117) 🦖 **Gyeongju Dinosaur Discovery Park — 👀 WATCH (Tue–Sun)**
 - **What:** Paleontological park
 
-### 128) 🐠 **Gyeongju Aquarium & Sea World — 👀 WATCH**
+### 118) 🐠 **Gyeongju Aquarium & Sea World — 👀 WATCH**
 - **Price:** ₽10,000
 
-### 129) 🎠 **Gyeongju Folk Village Pony Rides — 🔁 Sat–Sun**
+### 119) 🎠 **Gyeongju Folk Village Pony Rides — 🔁 Sat–Sun**
 - **Hours:** Sat–Sun
 
-### 130) 📚 **Gyeongju Kids Library — 🔁 daily (FREE)**
+### 120) 📚 **Gyeongju Kids Library — 🔁 daily (FREE)**
 - **Hours:** Daily
 
-### 131) 🍦 **Gyeongju Sweet Crepe & Gelato Café — 🔁 daily**
+### 121) 🍦 **Gyeongju Sweet Crepe & Gelato Café — 🔁 daily**
 - **Hours:** Daily 11:00–21:00
 
 ---
 
 ## 🏘️ Shopping (extended)
 
-### 132) 📚 **Gyeongju Indie Comic Bookshop — 👀 WATCH**
+### 122) 📚 **Gyeongju Indie Comic Bookshop — 👀 WATCH**
 
-### 133) 🛍️ **Gyeongju Outdoor Brand Store — 🔁 daily**
+### 123) 🛍️ **Gyeongju Outdoor Brand Store — 🔁 daily**
 
-### 134) 🛍️ **Gyeongju Traditional Confectionery Shop — 🔁 daily**
+### 124) 🛍️ **Gyeongju Traditional Confectionery Shop — 🔁 daily**
 
-### 135) 🎨 **Gyeongju Calligraphy Supply Store — 🔁 daily**
+### 125) 🎨 **Gyeongju Calligraphy Supply Store — 🔁 daily**
 
-### 136) 📖 **Korean Paper (Hanji) Specialty — 👀 WATCH**
+### 126) 📖 **Korean Paper (Hanji) Specialty — 👀 WATCH**
 
-### 137) 📚 **Gyeongju English Bookshop for Tourists — 👀 WATCH**
+### 127) 📚 **Gyeongju English Bookshop for Tourists — 👀 WATCH**
 
-### 138) 🎨 **Gyeongju Stone Crafts — 🔁 daily**
+### 128) 🎨 **Gyeongju Stone Crafts — 🔁 daily**
 
 ---
 
 ## 🎾 Wellness (extended)
 
-### 139) 💆 **Gyeongju Oriental Medicine (한의약) Spa — 👀 WATCH**
+### 129) 💆 **Gyeongju Oriental Medicine (한의약) Spa — 👀 WATCH**
 - **Price:** ₽50,000+
 
-### 140) ♨️ **Gyeongju Hantangang Hot Springs — 👀 WATCH**
+### 130) ♨️ **Gyeongju Hantangang Hot Springs — 👀 WATCH**
 - **What:** Hot spring resort
 - **Hours:** Daily
 - **Price:** ₽12,000
 
-### 141) 🧘 **Gyeongju Korean Meditation Workshop — 👀 WATCH weekends**
+### 131) 🧘 **Gyeongju Korean Meditation Workshop — 👀 WATCH weekends**
 - **Hours:** Weekends 14:00
 
-### 142) 🌿 **Gyeongju Herb-infused Massage — 👀 WATCH**
+### 132) 🌿 **Gyeongju Herb-infused Massage — 👀 WATCH**
 
-### 143) 💆 **Gyeongju Spa Village — 👀 WATCH**
+### 133) 💆 **Gyeongju Spa Village — 👀 WATCH**
 - **Hours:** Variable
 
 ---
 
 ## 🍂 Celebration events
 
-### 144) 🍁 **Gyeongju Cherry Blossom Festival (Apr) — Note after-trip**
+### 134) 🍁 **Gyeongju Cherry Blossom Festival (Apr) — Note after-trip**
 
-### 145) 🌙 **Gyeongju Full Moon Festival (mid-autumn) — 👀 WATCH**
+### 135) 🌙 **Gyeongju Full Moon Festival (mid-autumn) — 👀 WATCH**
 
-### 146) 🌕 **Gyeongju Chuseok (mid-fall) — Note before-trip**
+### 136) 🌕 **Gyeongju Chuseok (mid-fall) — Note before-trip**
 
-### 147) 🦃 **Gyeongju Hanok Village Halloween Walk — 👀 WATCH (Oct 31)**
+### 137) 🦃 **Gyeongju Hanok Village Halloween Walk — 👀 WATCH (Oct 31)**
 - **What:** Halloween family at Hanok Village
 - **Hours:** Halloween evening
 
-### 148) 🎄 **Gyeongju Christmas Festival (early Dec) — Note after**
+### 138) 🎄 **Gyeongju Christmas Festival (early Dec) — Note after**
 
-### 149) 🧧 **Korean Pepper Festival — 👀 WATCH (Apr)**
+### 139) 🧧 **Korean Pepper Festival — 👀 WATCH (Apr)**
 
-### 150) 🎂 **Gyeongju Kim Yang-yeon 150th Anniversary — 👀 WATCH**
+### 140) 🎂 **Gyeongju Kim Yang-yeon 150th Anniversary — 👀 WATCH**
 
-### 151) 🎭 **Gyeongju Traditional Korean Performance — 🔁 Sat/Sun**
+### 141) 🎭 **Gyeongju Traditional Korean Performance — 🔁 Sat/Sun**
 - **What:** Weekly traditional palace performance
 - **Hours:** Sunday 14:00
 
-### 152) 🐴 **Gyeongju Royal Mounted Ceremony — 👀 WATCH (Nov)**
+### 142) 🐴 **Gyeongju Royal Mounted Ceremony — 👀 WATCH (Nov)**
 - **What:** Annual reenactment of royal parade from Bulguksa
 
 ---
