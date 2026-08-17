@@ -31,9 +31,10 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **Official sources (reviewed Aug 17):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main) · [Suwon Cultural Foundation](https://www.swcf.or.kr/?p=260)
 
 ### 3) 🧬 **Patricia Piccinini: Kinship** — ✅ CONFIRMED — through Nov 1, 2026 · NEW
-- **What:** International exhibition exploring relationships among humans, technology, nature, care, and imagined life forms.
-- **Where/when:** Suwon Museum of Art, Haenggung Main Branch; **Jul 23–Nov 1, 2026**.
-- **Price/hours:** Check the museum page for admission and last entry.
+- **What:** The museum's flagship **2026 international exhibition**, devoted to **Patricia Piccinini** (b. 1965, Sierra Leone; based in Melbourne) — the hyperreal sculptor who represented Australia at the **2003 Venice Biennale**, working in silicone, fibreglass and human hair to make unsettlingly lifelike creatures. *Kinship* asks who we count as family and what we recognise as life. Structured in four parts — 깨어나다 (Awakening) · 조우하다 (Encounter) · 유대하다 (Bonding) · 흔적들 (Traces, an archive and education space).
+- **Where/when:** **Suwon Museum of Art, Haenggung Main Branch** — **Jul 23–Nov 1, 2026**. Supported by the Australian Embassy in Korea.
+- **⚠️ Closes Nov 1** — with the Haenggung night opening (entry 2) also ending Nov 1, your **Oct 31–Nov 1 weekend is the only time both are available.** That makes a Suwon day trip on one of those two days unusually worthwhile.
+- **Price/hours:** The museum's listing defers to its general visitor info rather than stating a fee (enquiries 02-5191-3800) — **confirm admission and last entry before travelling.**
 - **Official source (reviewed Aug 17):** [Suwon Museum of Art exhibition page](https://suma.suwon.go.kr/exhi/schedule_view.do?lang=ko&ge_idx=1266)
 
 ### 4) 👹 **Yeonhui Dokkaebi (연희도깨비)** — ✅ CONFIRMED — Nov 7, 2026 · NEW
@@ -214,10 +215,14 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **Hours/price:** Market and vendor-specific; some arcades close on designated days.
 - **Official source (reviewed Aug 17):** [Visit Suwon nine-market route](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-02/sw-visitsuwon-02-03/sw-visitsuwon-02-03-02.jsp)
 
-### 35) ⚽ **Suwon Samsung Bluewings and Suwon FC** — ⏳ CHECK OFFICIAL FIXTURES
-- **What:** Both clubs compete in K League 2 in 2026, using Suwon World Cup Stadium and Suwon Sports Complex respectively.
-- **Status:** Do not infer kickoffs from third-party timezone displays. Use the K League match center shortly before travel for confirmed home fixtures and ticket links.
-- **Official sources (reviewed Aug 17):** [K League — Suwon Bluewings](https://www.kleague.com/club/club.do?teamId=K09) · [K League — Suwon FC](https://www.kleague.com/club/club.do?teamId=K29)
+### 35) ⚽ **Suwon Samsung Bluewings — two home games in your window** — ✅ CONFIRMED — Sun Nov 8 & Sat Nov 21, 2026 · UPDATED
+- **What:** Suwon Samsung Bluewings, one of the biggest names in Korean football, are in **K League 2** in 2026 and were **top of the table in mid-August**, so November is a promotion run-in. They play at **Suwon World Cup Stadium (수원월드컵경기장)**, capacity ~44,000 — the largest ground in the division by a wide margin, and a 30-min ride from Seoul.
+- **Confirmed home fixtures during your trip:**
+  - **Sun Nov 8, 14:00 vs Yongin FC (R32)** — a local derby against a brand-new club playing its first-ever season.
+  - **Sat Nov 21, 14:00 vs Gyeongnam FC (R33)** — near-certain to matter for promotion.
+- **⚠️ Both dates clash.** Nov 8 is the day of the Cheonan City FC match (`daejeon-cheonan.md` #2) and the Nov 8 "hard cliff" when many exhibitions close. Nov 21 is the day you're scheduled to be in **Busan** for G-STAR and Busan IPark — you cannot do both.
+- **Suwon FC** (the other club, at Suwon Sports Complex) is a separate team; check `kleague.com` for their fixtures if the Bluewings dates don't suit.
+- **Official sources (reviewed Aug 18):** [K League — Suwon Bluewings](https://www.kleague.com/club/club.do?teamId=K09) · fixtures cross-checked against the published K League 2 2026 schedule and opponents' own fixture lists (Hwaseong FC, Gyeongnam FC)
 
 ### 36) 🏀 **Suwon KT Sonicboom** — ⏳ CHECK OFFICIAL FIXTURES
 - **What:** Men’s professional basketball club based at Suwon KT Sonicboom Arena.

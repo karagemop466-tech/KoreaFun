@@ -244,8 +244,10 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 
 ### 42) 🖼️ **Incheon ArtShow 2026 (INAS)** — ✅ CONFIRMED — Thu Nov 19–Sun Nov 22, 2026 · NEW
 - **What:** Contemporary art fair at Songdo Convensia, organized by the Incheon ArtShow Organizing Committee.
-- **When:** Official organizer page: **Nov 19–22, 2026**. VIP/general opening Nov 19 11:00–19:00 (last entry 18:00); Nov 20–21 10:00–19:00; Nov 22 10:00–18:00. Opening-ceremony time is marked subject to change.
-- **Official source (reviewed Aug 17):** [Incheon ArtShow 2026](https://iartshow.imweb.me/)
+- **When (exact, from the organizer's own table):** **Nov 19–22, 2026.** Thu Nov 19 **11:00–19:00** (VIP preview + general open; last entry 18:00, opening ceremony 15:00 "subject to change") · Fri Nov 20–Sat Nov 21 **10:00–19:00** (last entry 18:00) · **Sun Nov 22 10:00–18:00 (last entry 17:00)**.
+- **Theme:** *Beyond Asia, Connect Global*. Alongside the booths the organizer runs a docent tour, art-talk programme, an art academy and an artist talk by actor-painter **Park Shin-yang**.
+- **✅ The one event that actually works on departure day.** Songdo Convensia is on the Incheon side, roughly 30–40 min from ICN — so unlike everything else competing for Nov 22 (G-STAR in Busan, the E-Land finale in Seoul), you can do a couple of hours here and still make an afternoon or evening flight. Just respect the **17:00 last entry**.
+- **Official source (reviewed Aug 18):** [Incheon ArtShow 2026 — viewing schedule table](https://iartshow.imweb.me/)
 
 ### 43) 🎵 **My Chemical Romance — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 7, 2026 · NEW
 - **What:** THE BLACK PARADE 2026 TOUR at Paradise City Culture Park, Yeongjong — the band's first Korean show in 18 years. Promoter is **ualive (위얼라이브)**, 90 min, ages 13+.

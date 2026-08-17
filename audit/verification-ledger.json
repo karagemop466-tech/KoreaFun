@@ -373,13 +373,16 @@
  "busan.md#4": {
   "badge": "✅",
   "body_hash": "c4f20be13e",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "busan.md",
-  "note": "",
+  "note": "Turn Toward Busan: annual worldwide 11:00 KST silence every Nov 11 at UN Memorial Cemetery. Fixed-date annual ceremony, free. No change needed.",
   "num": 4,
-  "sources": [],
+  "sources": [
+   "https://www.unmck.or.kr",
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=277&lang_cd=en"
+  ],
   "title": "🕯️ Turn Toward Busan",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "busan.md#40": {
   "badge": "🔎",
@@ -2556,14 +2559,16 @@
  },
  "incheon.md#42": {
   "badge": "✅",
-  "body_hash": "145da2eb41",
-  "checked_on": null,
+  "body_hash": "029c458c7c",
+  "checked_on": "2026-08-18",
   "file": "incheon.md",
-  "note": "",
+  "note": "INAS Nov 19-22 confirmed with EXACT daily hours from organizer table incl. Nov 22 10:00-18:00 last entry 17:00. Added theme, Park Shin-yang artist talk, docent/art-talk programmes. Key: this is the ONE Nov 22 option compatible with departure (Songdo ~30-40min from ICN) - noted in itinerary.",
   "num": 42,
-  "sources": [],
+  "sources": [
+   "https://iartshow.imweb.me/"
+  ],
   "title": "🖼️ Incheon ArtShow 2026 (INAS)",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "incheon.md#43": {
   "badge": "As",
@@ -4974,13 +4979,16 @@
  "suwon.md#2": {
   "badge": "✅",
   "body_hash": "60b97f7d7b",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Hwaseong Haenggung night opening 달빛화담 to Nov 1, Fri/Sat/Sun+holidays 18:00-21:30, W2,000/1,500/1,000, 031-290-3613. Only Oct 31 + Nov 1 fall in the trip.",
   "num": 2,
-  "sources": [],
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main",
+   "https://www.swcf.or.kr/?p=260"
+  ],
   "title": "🌙 Hwaseong Haenggung Night Opening: Moonlight Flower Talk",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "suwon.md#20": {
   "badge": "🔎",
@@ -5094,14 +5102,16 @@
  },
  "suwon.md#3": {
   "badge": "✅",
-  "body_hash": "c0bc6650a0",
-  "checked_on": null,
+  "body_hash": "323522c97a",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Piccinini Kinship Jul 23-Nov 1 CONFIRMED on museum page. Added Venice Biennale 2003 Australia rep, materials, 4-part structure, Australian Embassy support. Admission genuinely not stated on the listing - flagged w/ enquiry number rather than guessed. Noted Oct 31-Nov 1 is the only window when this AND the night opening both run.",
   "num": 3,
-  "sources": [],
+  "sources": [
+   "https://suma.suwon.go.kr/exhi/schedule_view.do?lang=ko&ge_idx=1266"
+  ],
   "title": "🧬 Patricia Piccinini: Kinship",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#30": {
   "badge": "🔎",
@@ -5160,14 +5170,17 @@
  },
  "suwon.md#35": {
   "badge": "⏳",
-  "body_hash": "35d67bd61d",
-  "checked_on": null,
+  "body_hash": "e0eb93d037",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "RESOLVED from 'check fixtures' to two confirmed home games: Suwon Samsung vs Yongin FC Sun Nov 8 14:00 and vs Gyeongnam Sat Nov 21 14:00, Suwon World Cup Stadium (~44,000, biggest in K League 2). Club was top of the table mid-Aug. Flagged both clashes (Nov 8 Cheonan match, Nov 21 you are in Busan).",
   "num": 35,
-  "sources": [],
-  "title": "⚽ Suwon Samsung Bluewings and Suwon FC",
-  "verdict": "unchecked"
+  "sources": [
+   "https://www.kleague.com/club/club.do?teamId=K09",
+   "https://www.hwaseongfc.com/matches/schedule_results.php"
+  ],
+  "title": "⚽ Suwon Samsung Bluewings",
+  "verdict": "corrected"
  },
  "suwon.md#36": {
   "badge": "⏳",
