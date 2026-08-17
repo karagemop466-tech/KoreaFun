@@ -3305,13 +3305,15 @@
  "myeongdong.md#3": {
   "badge": "✅",
   "body_hash": "e654dc098b",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "myeongdong.md",
-  "note": "",
+  "note": "NANTA re-verified on operator page: VIP W70,000/S W60,000/A W50,000 correct (prior pass's correction was right), Mon-Fri 17/20, Sat 14/17/20, Sun+holiday 14/17, open run since 2009-10-10, 12 months+. New detail available: online sales close 2h before, cancellation 24h before, wheelchair seats A1/A17 via 02-739-8288, no parking.",
   "num": 3,
-  "sources": [],
+  "sources": [
+   "https://www.nanta.co.kr:452/kr/show/detail.php?id=1"
+  ],
   "title": "🥁 Myeongdong NANTA (Cookin' NANTA)",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "myeongdong.md#30": {
   "badge": "🔎",
@@ -4936,14 +4938,16 @@
  },
  "suwon.md#14": {
   "badge": "🔎",
-  "body_hash": "14119a0ea3",
-  "checked_on": null,
+  "body_hash": "cf321b9be7",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Yeonmudae archery W3,000/10 arrows CONFIRMED. Trip falls in WINTER season 09:30-17:00 (not summer 17:30). Added exact half-hourly slot list, the 12:00-13:00 lunch gap, 25-person cap, and the 15-min activity breakdown so it isn't oversold.",
   "num": 14,
-  "sources": [],
+  "sources": [
+   "https://www.swcf.or.kr/english/?p=13&mode=view&idx=334&rIdx=99999204"
+  ],
   "title": "🏹 Traditional Korean archery at Yeonmudae",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#15": {
   "badge": "🔎",
@@ -5082,14 +5086,16 @@
  },
  "suwon.md#26": {
   "badge": "🔎",
-  "body_hash": "3b09569fb4",
-  "checked_on": null,
+  "body_hash": "9bde41299e",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Ilwol Arboretum W4,000 adult CONFIRMED on city fare table. Added teen W2,500 / child W1,500, group rates, and the material fact that OVER-65s AND UNDER-7s ARE FREE (ID required). Mon closed, 09:30-17:30 last ticket 17:00, tel 031-369-2380.",
   "num": 26,
-  "sources": [],
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-iwarbor/sw-iwarbor-02/sw-iwarbor-02-01/sw-iwarbor-02-01-02.jsp"
+  ],
   "title": "🌿 Ilwol Arboretum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#27": {
   "badge": "🔎",
@@ -6066,7 +6072,7 @@
  },
  "yongin.md#10": {
   "badge": "🔎",
-  "body_hash": "4a8887719b",
+  "body_hash": "5a1f4f7a1f",
   "checked_on": null,
   "file": "yongin.md",
   "note": "",

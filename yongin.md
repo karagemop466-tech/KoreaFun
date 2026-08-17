@@ -84,7 +84,9 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 
 ### 10) 🎢 **Everland** — 🔎 VERIFIED OPERATOR
 - **What:** Major theme park with rides, gardens, animal areas, and seasonal entertainment. Individual rides can close for weather, maintenance, or low temperatures.
-- **Hours/price:** Date-tiered tickets and daily operating hours must be checked in the Everland app/site. Do not assume 10:00–22:00 or a fixed ₩62,000 fare for every November date.
+- **Price — Everland uses date-based season tiers, so there is no single fare.** Day passes (대인/청소년, then 소인/경로): **Season A ₩62,000/₩52,000 · Season B ₩52,000/₩42,000 · Season C ₩46,000/₩36,000 · Season D (peak) ₩68,000/₩58,000.** Afternoon passes (from 15:00) run ₩25,000–₩37,000 by season. **Check your specific date in the Everland app before buying** — November weekdays typically fall in the cheaper tiers.
+- **⚠️ Almost nobody pays the gate price.** Telecom membership discounts (KT: 40% off for the member, 20% for up to 3 companions), partner credit cards (up to 50%), and student rates all cut the fare substantially — but they generally **do not stack**. Buying online in advance is also cheaper than the gate.
+- **Hours:** commonly 10:00–19:00 but **date-dependent and seasonal** — some rides and animal areas close earlier than the park. Do not assume 10:00–22:00. Individual rides also close for weather, maintenance or low temperatures, which matters in November.
 - **Official sources (reviewed Aug 17):** [Everland](https://www.everland.com/everland/home/main)
 
 ### 11) 🎃 **Everland autumn/Halloween or winter transition programming** — ⏳ RE-CHECK

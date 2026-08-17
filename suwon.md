@@ -99,7 +99,9 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 14) 🏹 **Traditional Korean archery at Yeonmudae** — 🔎 VERIFIED OPERATOR
 - **What:** Supervised ten-arrow traditional archery experience beside the eastern command post.
-- **Hours/price:** Cultural Foundation lists winter hours 09:30–17:00 and ₩3,000 for ten arrows; it does not operate in rain or snow. Re-check maintenance notices.
+- **Price/hours:** **₩3,000 for a round of 10 arrows.** **Your trip is in the winter season (Nov–Feb): 09:30–17:00** (summer Mar–Oct runs to 17:30). Sessions start **on the half hour** — 09:30, 10:00, 10:30, 11:00, 11:30, then 13:00 through 17:00 — so there is **no session over lunch (12:00–13:00)**. Max 25 people per slot.
+- **What you actually get:** ~5 min general explanation, ~5 min on shooting posture, then ~5 min shooting. It's a short, cheap novelty rather than a lesson — good for 20 minutes at Yeonmudae, not a half-day activity.
+- **⚠️ Does not run in rain or snow.**
 - **Official source (reviewed Aug 17):** [Suwon Cultural Foundation experience information](https://www.swcf.or.kr/english/?p=13&mode=view&idx=334&rIdx=99999204)
 
 ### 15) 🚂 **Hwaseong Eocha tourist trolley** — 🔎 VERIFIED OPERATOR
@@ -168,7 +170,9 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 26) 🌿 **Ilwol Arboretum** — 🔎 VERIFIED PLACE
 - **What:** Municipal arboretum with conservatory and themed gardens; entry #6 covers the confirmed *Thumbelina* exhibition.
-- **Hours/price:** Tue–Sun 09:30–17:30, last ticket 17:00; adult general admission ₩4,000. Closed Monday with holiday exceptions.
+- **Price (city fare table, Aug 18):** **adult 19+ ₩4,000 · teen 13–18 ₩2,500 · child 7–12 ₩1,500.** Groups of 20+ pay ₩3,000/₩1,500/₩1,000.
+- **✅ Free for over-65s and under-7s** — along with registered disabled visitors (plus one carer for severe disability), national-merit recipients and basic-livelihood recipients. **Bring ID**: without proof the full fare is charged.
+- **Hours:** Tue–Sun **09:30–17:30, last ticket 17:00. Closed Mondays** (holiday exceptions apply). ☎ 031-369-2380.
 - **Official sources (reviewed Aug 17):** [operating information](https://www.suwon.go.kr/sw-www/sw-iwarbor/sw-iwarbor-02/sw-iwarbor-02-01/sw-iwarbor-02-01-01.jsp) · [admission](https://www.suwon.go.kr/sw-www/sw-iwarbor/sw-iwarbor-02/sw-iwarbor-02-01/sw-iwarbor-02-01-02.jsp)
 
 ### 27) 🌲 **Yeongheung Arboretum** — 🔎 VERIFIED PLACE
