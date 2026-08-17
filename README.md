@@ -3,9 +3,9 @@
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
 A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> 🚧 **Evidence audit in progress (started Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. A parser can catch formatting, dates, and obvious duplicates, but it cannot prove that a place or event is real. The new [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **Yeosu, Myeong-dong, Yongin, Suwon, Jeonju, Incheon, and Gyeongju are complete; the other 7 files remain a research queue and must not yet be treated as fully verified.**
+> 🚧 **Evidence audit in progress (started Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. A parser can catch formatting, dates, and obvious duplicates, but it cannot prove that a place or event is real. The new [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **Yeosu, Myeong-dong, Yongin, Suwon, Jeonju, Incheon, Gyeongju, and Daegu are complete; the other 6 files remain a research queue and must not yet be treated as fully verified.**
 >
-> **Current inventory:** 1,456 numbered sections. This is not a target or a quality claim. Counts will fall when padding and duplicates are removed, then rise only for newly researched, official-source entries. Run `python3 tools/verification_status.py` for current manual-review coverage.
+> **Current inventory:** 1,358 numbered sections. This is not a target or a quality claim. Counts will fall when padding and duplicates are removed, then rise only for newly researched, official-source entries. Run `python3 tools/verification_status.py` for current manual-review coverage.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,7 +13,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**1,456 numbered sections** across 14 city files; manual verification ongoing)
+## 📂 What's in this repo (**1,358 numbered sections** across 14 city files; manual verification ongoing)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -29,7 +29,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 |---|---|
 | [`myeongdong.md`](myeongdong.md) | **36 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
 
-### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities, **657 activity sections**)
+### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities, **559 activity sections**)
 
 | File | Sections | Transit from Seoul | Best for |
 |---|---|---|---|
@@ -37,7 +37,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | [`yongin.md`](yongin.md) | 36 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
 | [`incheon.md`](incheon.md) | 41 | AREX 60 min west | **Incheon Chinatown**, Songdo Central Park, ICN airport area |
 | [`jeonju.md`](jeonju.md) | 35 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
-| [`daegu.md`](daegu.md) | 132 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
+| [`daegu.md`](daegu.md) | 34 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
 | [`gyeongju.md`](gyeongju.md) | 35 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
 | [`ulsan.md`](ulsan.md) | 115 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, Hyundai |
 | [`pohang.md`](pohang.md) | 88 | KTX 2h 25 min southeast | **Space Walk**, Homigot sunrise, camellia hills |

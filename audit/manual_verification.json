@@ -40,5 +40,11 @@
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against dated venue, city tourism, operator, national park, museum, temple, UNESCO, or heritage sources; fabricated, closed, duplicate, generic, and out-of-city entries removed.",
     "reviewer_notes": "Official November city calendar showed no major festival. Two 2026 Arts Center exhibition programs are dated; performance and operator schedules remain marked for re-check."
+  },
+  "daegu.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated venue, operator, city, museum, national park, temple, league, or tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Five dated 2026 arts programs were confirmed. Seasonal illumination and sports remain explicitly schedule-dependent."
   }
 }
