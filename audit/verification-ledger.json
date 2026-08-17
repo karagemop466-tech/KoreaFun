@@ -4995,14 +4995,16 @@
  },
  "suwon.md#17": {
   "badge": "🔎",
-  "body_hash": "ebdff50e8f",
-  "checked_on": null,
+  "body_hash": "c2ef5553e6",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Muye 24-gi Tue-Sun 11:00-11:30 year-round free at Haenggung CONFIRMED on city 2026 page. MATERIAL FINDING on same page: the Sunday-only Jangyongyeong guard ceremony (장용영 수위의식, 16:00-17:00 Sinpungnu) season ENDS Sun Oct 25 2026 - six days BEFORE the trip starts, so it is NOT available. Added Muyedobotongji 1790 provenance.",
   "num": 17,
-  "sources": [],
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-03.jsp"
+  ],
   "title": "⚔️ Muye 24-gi martial-arts demonstration",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#18": {
   "badge": "🔎",
@@ -5017,14 +5019,16 @@
  },
  "suwon.md#19": {
   "badge": "🔎",
-  "body_hash": "22bb709695",
-  "checked_on": null,
+  "body_hash": "304522bc6c",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Hwaseong Museum: hours 09:00-18:00 last admission 17:00 confirmed; CLOSED EVERY MONDAY (resolved conflict - a museum-association page claimed 'first Monday only', city page and museum say every Monday). NOT FREE: W2,000 adult / W1,000 teen+military / free children+seniors. Paid parking (60min free then W300/10min, W7,000/day). Added the two permanent halls and advice to visit before walking the fortress.",
   "num": 19,
-  "sources": [],
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-02.jsp"
+  ],
   "title": "🏛️ Suwon Hwaseong Museum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#2": {
   "badge": "✅",
@@ -5042,14 +5046,16 @@
  },
  "suwon.md#20": {
   "badge": "🔎",
-  "body_hash": "65075c4ee4",
-  "checked_on": null,
+  "body_hash": "1c66952794",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Suwon Museum: 'check current admission' RESOLVED = W2,000 adult / W1,000 teen+military / free children+seniors. 09:00-18:00 last admission 17:00, CLOSED EVERY MONDAY (entry said Tue-Sun which is equivalent but unstated closure rule). FREE parking (contrast with Hwaseong Museum). Contains a dedicated Korean Calligraphy Museum. Free VR zone 09:15-16:50, closed 12-13, individuals only.",
   "num": 20,
-  "sources": [],
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-01.jsp"
+  ],
   "title": "🏺 Suwon Museum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#21": {
   "badge": "🔎",

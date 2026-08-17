@@ -116,7 +116,10 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 17) ⚔️ **Muye 24-gi martial-arts demonstration** — 🔎 VERIFIED PROGRAM
 - **What:** Heritage performance based on the martial-arts manual associated with Hwaseong, staged around Haenggung.
-- **When/price:** Suwon City’s 2026 page lists Tue–Sun **11:00–11:30**, year-round, with Monday off. Outdoor performances can still be cancelled; re-check on the day. Free viewing.
+- **When/price:** **Tue–Sun 11:00–11:30, year-round. Free.** Closed Mondays. At **화성행궁 (Hwaseong Haenggung)**, Jeongjo-ro 825.
+- **What it is:** the 24 martial arts of the *Muyedobotongji*, compiled in 1790 by Yi Deok-mu, Park Je-ga and the martial master Baek Dong-su under King Jeongjo's order — so this is a reconstruction from a real manual, not invented pageantry.
+- **⚠️ The Sunday-only Jangyongyeong guard ceremony (장용영 수위의식, 16:00–17:00 at Sinpungnu) does NOT run during your trip** — the city lists that season as ending **Sun Oct 25, 2026**, six days before you arrive. Only the daily 11:00 Muye demonstration is available.
+- Outdoor, so it can be cancelled in bad weather. ☎ 031-5191-3034.
 - **Official source (reviewed Aug 17):** [Visit Suwon fortress performance page](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-03.jsp)
 
 ### 18) 🌃 **Hwaseong night illumination walk** — 🔎 VERIFIED ACTIVITY
@@ -130,13 +133,18 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 19) 🏛️ **Suwon Hwaseong Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum explaining fortress planning, construction, the *Hwaseong Seongyeok Uigwe*, and restoration.
-- **Hours:** VISITKOREA lists 09:00–18:00 with last admission one hour before closing; confirm Monday and holiday closures.
-- **Official sources (reviewed Aug 17):** [museum](https://hsmuseum.suwon.go.kr) · [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=70929)
+- **Hours/price (city page, Aug 18):** **09:00–18:00, last admission 17:00. Closed every Monday** (if a Monday is a public holiday it closes the next day instead — no holidays fall in your window).
+- **⚠️ Not free — ₩2,000 adult**, ₩1,000 teen/military, **free for children and seniors**. Suwon residents pay less; that discount won't apply to you.
+- **What's inside:** two permanent halls — 화성축성실 on how the fortress was built, and 화성문화실 on Jeongjo's eight-day royal procession and the Jangyongyeong guard, including Chae Je-gong's portrait (Treasure No. 1477). This is the room that makes the walls outside make sense — **do it before walking the fortress**, not after.
+- **Parking is paid:** first 60 min free, then ₩300/10 min, ₩7,000/day. Wheelchairs (2) and strollers (3) available. ☎ 031-5191-4242.
+- **Official sources (reviewed Aug 18):** [Suwon City museum page — hours, fares, parking](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-02.jsp) · [museum](https://smuseum.suwon.go.kr/hs/main/view)
 
 ### 20) 🏺 **Suwon Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal history and calligraphy museum covering Suwon beyond the fortress.
-- **Hours/price:** Museum lists Tue–Sun 09:00–18:00; check current admission and exhibition notices.
-- **Official source (reviewed Aug 17):** [Suwon Museum](https://swmuseum.suwon.go.kr/eng/)
+- **Hours/price (city page, Aug 18):** **09:00–18:00, last admission 17:00. Closed every Monday.** **₩2,000 adult**, ₩1,000 teen/military, **free for children and seniors**. **Parking free** (unlike the Hwaseong Museum). ☎ 031-5191-4150.
+- **Two museums in one building:** 수원역사박물관 (city history) and **한국서예박물관 — a dedicated Korean calligraphy museum**, which is unusual and the better reason to make the trip out to Yeongtong.
+- **Free VR experience zone** 09:15–16:50 (closed 12:00–13:00, last entry 16:30), elementary age and up, individuals only — no groups.
+- **Official sources (reviewed Aug 18):** [Suwon City museum page — hours, fares](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-01.jsp) · [museum](https://smuseum.suwon.go.kr/sw/main/view)
 
 ### 21) 🗺️ **Suwon Gwanggyo Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Local-history museum with collections connected to Gwanggyo and donated modern-history materials.
