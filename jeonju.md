@@ -474,10 +474,10 @@
 
 ### 71) 👑 Gyeonggijeon Shrine & Royal Portrait Museum (경기전) — 🔁 Tue–Sun
 - **What:** The 1410 shrine holding the **portrait of King Taejo**, founder of the Joseon dynasty, whose Yi clan originated in Jeonju — plus the adjoining royal portrait museum
-- **Hours:** Daily **09:00–19:00** (Nov: to 18:00)
-- **Price:** Adult **₩3,000**; youth ₩2,000; child ₩1,000
+- **Hours:** Opens 09:00 daily; closing is seasonal — **Nov–Feb 18:00**, Mar–May and Sep–Oct 19:00, Jun–Aug 20:00. **Last entry one hour before closing**
+- **Price:** Adult **₩3,000**; youth ₩2,000; child ₩1,000. Free on Culture Day (last Wednesday monthly) — but ⚠️ **that is Nov 25, 2026, three days after you fly home**, so it will not help you
 - **Official source:** [tour.jeonju.go.kr](https://tour.jeonju.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
-- **Beginner notes:** The bamboo grove behind the shrine is the quietest corner of the whole village.
+- **Beginner notes:** The bamboo grove behind the shrine is the quietest corner of the whole village. This is **the only paid attraction in the Hanok Village** — Jeondong Cathedral, Omokdae, Jeonju Hyanggyo and the Jaman Mural Village are all free. The Royal Portrait Museum is included in the ticket, not extra.
 
 ### 72) ⛪ Jeondong Catholic Cathedral (전동성당) — 🔁 daily (FREE)
 - **What:** A 1908–1914 Romanesque-Byzantine church built on the site where **Korea's first Catholic martyrs were executed in 1791** — National Treasure-grade architecture in red brick

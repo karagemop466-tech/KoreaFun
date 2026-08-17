@@ -973,7 +973,7 @@
 - **Hours:** Tue–Sun **10:00–19:00** (closed Mon)
 - **Price:** Adult **₩4,000**; often free for special weeks
 - **Official source:** [suma.suwon.go.kr](https://suma.suwon.go.kr)
-- **Beginner notes:** **Free on the last Wednesday of each month (Culture Day).** Right beside the palace.
+- **Beginner notes:** Free on the last Wednesday of each month (Culture Day) — but ⚠️ **that is Nov 25, 2026, after your trip ends**, so budget for the normal ticket. Right beside the palace.
 
 ### 147) 🚽 Mr. Toilet House — Haewoojae Museum (해우재) — 🔁 Tue–Sun (FREE)
 - **What:** **The world's only toilet-themed museum**, in the toilet-shaped former house of Suwon mayor Sim Jae-duck, founder of the World Toilet Association

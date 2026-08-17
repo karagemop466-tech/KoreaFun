@@ -121,10 +121,10 @@ README advertises **3,256 sections**; actual parsed total is **3,312**, of which
 
 | | Before | After |
 |---|---|---|
-| Numbered entries | 3,312 | **2,444** |
+| Numbered entries | 3,312 | **2,445** |
 | FILLER entries | 799 | **0** |
 | Duplicate entries | 70 | **0** |
-| README headline claim | "3,256 sections" (false) | 2,444 (matches `tools/parse_entries.py`) |
+| README headline claim | "3,256 sections" (false) | 2,445 (matches `tools/parse_entries.py`) |
 
 799 filler entries and 70 duplicates were removed. Every removed entry is
 archived under `audit/removed/` — nothing was silently discarded, so any
@@ -190,3 +190,27 @@ Now documented in `yeosu.md`, added to `events.csv`, and flagged at the top of
 - **2026 dates for recurring annual events are mostly not yet published.**
   These are marked ⏳ TBA with the prior year's pattern, which is the correct
   treatment — but they must be re-checked in October 2026.
+
+## Date integrity
+
+`tools/check_dates.py` validates every stated weekday-plus-date pair in the
+repo against the real 2026 calendar and flags dates outside the trip window.
+It found one genuine error — an "Incheon Halloween Pub Crawl (Fri Oct 31)"
+entry, unsourced and with no named venue. **Oct 31, 2026 is a Saturday**, and
+it is the arrival day. Replaced with Songwol-dong Fairy Tale Village.
+
+It also caught two "free on Culture Day" notes (Jeonju Gyeonggijeon, Suwon)
+that would have sent the travellers looking for a free day on **Nov 25 — three
+days after they fly home**. Both now say so explicitly.
+
+The repo now passes at **0 wrong weekdays, 0 stray dates**.
+
+## Verification gates (all currently passing)
+
+```
+python3 tools/parse_entries.py     # 2,445 entries, numbering sequential 1..N
+python3 tools/classify.py          # 0 FILLER
+python3 tools/dedupe.py <file>     # 0 duplicate groups, every file
+python3 tools/find_temple_fees.py  # no stale post-2023 temple fees
+python3 tools/check_dates.py       # 0 wrong weekday, 0 outside trip window
+```
