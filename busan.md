@@ -28,7 +28,8 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 ### 3) 🎨 **Busan Biennale 2026 “Dissident Chorus”** — ✅ CONFIRMED — through Sun Nov 1, 2026
 - **What:** Contemporary-art biennale across Busan MoCA, Space Wonji / Space One-Z on Yeongdo, and the former Busan Nam High School.
 - **When:** **Aug 29–Nov 1, 2026** (65 days). The trip catches only Oct 31–Nov 1.
-- **Official source (reviewed Aug 17):** [busanbiennale.org](https://busanbiennale.org)
+- **Scale:** 44 artists/teams from 23 countries; co-directed by Evelyn Simons and Amal Khalaf. Organised by Busan Metropolitan City + Busan Biennale Organizing Committee.
+- **Official sources (reviewed Aug 18):** [busanbiennale.org](https://busanbiennale.org) · dates independently corroborated by the committee's own [Instagram announcement](https://www.instagram.com/busanbiennale/) (2026. 8. 29. – 11. 1.)
 
 ### 4) 🕯️ **Turn Toward Busan** — ✅ ANNUAL CEREMONY — Wed Nov 11, 2026, 11:00
 - **What:** One-minute silence for UN Korean War dead at the UN Memorial Cemetery, observed worldwide at 11:00 KST every Nov 11. The cemetery itself is a verified place (entry #20).

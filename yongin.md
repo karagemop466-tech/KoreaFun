@@ -25,17 +25,19 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **Official source (reviewed Aug 17):** [Korean Folk Village](https://www.koreanfolk.co.kr/)
 
 ### 2) 👻 **Salgwiok (살귀옥 / A Haunted Prison)** — ✅ CONFIRMED — through Nov 15, 2026
-- **What:** Ticketed horror experience inside Korean Folk Village.
-- **When:** Official event listing shows **Jun 13–Nov 15, 2026**; the city notice lists weekend/holiday sessions. Verify the selected date and age restrictions before purchase.
+- **What:** Ticketed horror experience inside Korean Folk Village — billed by the operator as **Korea's longest outdoor horror walkthrough (~400 m)**, including an underground maze section. You play an exorcist unravelling the Sindanggol mystery.
+- **When:** Official event listing shows **Jun 13–Nov 15, 2026**; the city notice lists weekend/holiday sessions. Verify the selected date before purchase.
+- ⚠️ **Age limit 13+.** The operator also restricts participation by elderly visitors and anyone with heart/anxiety conditions.
 - **Official sources (reviewed Aug 17):** [operator event page](https://m.koreanfolk.co.kr/home/promotion/event/2) · [Yongin City notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
 
 ### 3) 🩸 **Hyeoransikgwi (혈안식귀)** — ✅ CONFIRMED — through Nov 15, 2026
-- **What:** Separate Korean Folk Village horror program presented during the 2026 evening season.
+- **What:** Separate **indoor** Korean Folk Village horror experience, themed on a Joseon-era curse surrounding Queen Yun and the shaman Ihwa; you play an investigator sent by the king.
 - **When:** The operator listing shows **Jun 12–Nov 15, 2026**; Yongin City describes operation mainly on weekends and holidays. Confirm session times and additional ticket requirements.
+- ⚠️ **Age limit 13+**, same health restrictions as Salgwiok.
 - **Official source (reviewed Aug 17):** [Yongin City program notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
 
 ### 4) 🕵️ **Joseon Murder Investigation (조선살인수사)** — ✅ CONFIRMED — through Nov 15, 2026
-- **What:** Interactive mystery event at Korean Folk Village, distinct from the haunted-house attractions.
+- **What:** Interactive mystery event at Korean Folk Village, distinct from the haunted-house attractions — **not a horror attraction**, so it's the option if scare experiences aren't your thing. You act as a royal inspector (암행어사), gathering clues, interrogating suspects at the magistrate's office and working the crime scene.
 - **When:** Operator page lists **Jun 12–Nov 15, 2026**.
 - **Price/hours:** Check the event page for sessions, reservation method, and age rules.
 - **Official source (reviewed Aug 17):** [Korean Folk Village event page](https://m.koreanfolk.co.kr/home/promotion/event/4)

@@ -84,9 +84,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official source (reviewed Aug 17):** [Leeum exhibition page](https://www.leeumhoam.org/leeum/exhibition/93)
 
 ### 13) 📺 **MMCA × LG OLED Series 2026: Christine Sun Kim** — ✅ CONFIRMED — through 29 Nov 2026
-- **What:** Site-specific digital work in MMCA Seoul’s Seoul Box.
-- **When:** **Jul 31–Nov 29, 2026**.
-- **Official source (reviewed Aug 17):** MMCA / Korea Herald announcement of the dated Seoul Box run · [MMCA](https://www.mmca.go.kr)
+- **What:** Site-specific installation in MMCA Seoul's 14 m-high Seoul Box by Korean-American artist **Christine Sun Kim**, titled *Have Many Dumb Fights Against Rock* (완고한 바위, 무모한 싸움들). The artist, who is Deaf, works on language, sound and access; here she expands comic-book "motion lines" into a visual notation for how arguments collide. Displayed on a **curved screen of 72 × 55-inch OLED panels (8.1 m × 5.4 m)** — the largest such screen ever used in a Korean museum exhibition.
+- **When:** **Jul 31–Nov 29, 2026** — open your whole trip.
+- **Official source (reviewed Aug 18):** [MMCA](https://www.mmca.go.kr); dates corroborated by LG Electronics' own Jul 30 2026 press announcement of the Seoul Box run.
 
 ### 14) 🍁 **Seoul Autumn Festa** — ✅ CONFIRMED UMBRELLA PROGRAM — Sep 21–Nov 29, 2026
 - **What:** City-run autumn performing-arts platform bundling many festivals and shows. It is **not** a single venue festival.
@@ -96,13 +96,13 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 15) 🗿 **3rd Seoul Sculpture Festival exhibition** — ✅ CONFIRMED — through 30 Nov 2026
 - **What:** Third edition of the city sculpture festival. **Ttukseom Hangang Park is the main exhibition site**, showing the 15 Seoul Sculpture Award finalists (Open Songhyeon Green Plaza is the second site; other locations have earlier end dates). The festival *week* was Aug 29–Sep 4, but the exhibition itself stays up **Aug 29–Nov 30, 2026** — so it is open your whole trip, and **the award winners are announced in late November** while you're there.
 - **Price:** Outdoor viewing is free.
-- **Official source (reviewed Aug 17):** [Seoul Festival Calendar](https://festival.seoul.go.kr)
+- **Official sources (reviewed Aug 18):** [artinseoul.kr — official Sculpture City Seoul site](https://artinseoul.kr/) (festival week Aug 29–Sep 4; Ttukseom/Songhyeon exhibition to Nov 30) · [Seoul Festival Calendar listing](https://festival.seoul.go.kr/festival/main/festivalMain.do)
 
 ### 16) 🌗 **Leeum — Koo Jeong A: OUSSSMOS (구정아: 우스모스)** — ✅ CONFIRMED — Sep 5–Dec 27, 2026 · NEW
 - **What:** The largest solo exhibition ever held in Korea by **Koo Jeong A**, who represented Korea at the 60th Venice Biennale. It gathers the signature elements of a 30-year practice — **glow-in-the-dark works, a skate park, magnets, and scent** — and spills out of the M2 gallery to take over the **lobby and even the traditional-art permanent galleries**, turning the whole museum into one work. Third chapter of a series after LUMA Arles (2025) and Kunsthaus Bregenz (2026).
 - **When:** **Sep 5–Dec 27, 2026** — open for your entire trip.
 - **Why it pairs well:** Leeum is also showing *Inside Other Spaces* (entry 12) until Nov 29, so one Hannam-dong trip gets you both. If you like this, the same foundation's **Art Spectrum 2026** is at Hoam Museum in Yongin — see [`yongin.md`](yongin.md).
-- **Official sources (reviewed Aug 17):** [Leeum Museum of Art](https://www.leeumhoam.org) · [Newsis, Jul 7 2026](https://www.newsis.com/view/NISX20260707_0003698789)
+- **Official sources (reviewed Aug 18):** [Leeum exhibition detail page](https://www.leeumhoam.org/leeum/exhibition/94) — confirms M2, 2026.09.05.–2026.12.27. · [Newsis, Jul 7 2026](https://www.newsis.com/view/NISX20260707_0003698789)
 
 ### 17) 🖌️ **National Museum of Korea — "Chusa Kim Jeong-hui and His Companions"** — ✅ CONFIRMED — Aug 11–Nov 22, 2026 · NEW
 - **What:** A themed exhibition on **Kim Jeong-hui (1786–1856)**, pen name Chusa — the calligrapher who invented the *chusache* style and is, more or less, the most revered brush artist in Korean history. Shown alongside the circle of scholars and disciples around him.
