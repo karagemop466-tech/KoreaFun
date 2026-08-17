@@ -57,7 +57,7 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 - **Hours:** **Winter (Nov–Feb) 09:00–18:00 — last entry 17:00, one hour before closing.** *(Correction: an earlier listing gave 17:00 as the closing time; the operator's own museum site gives 18:00 for Nov–Feb, with the one-hour entry cutoff.)* Summer runs to 19:00, and 20:00 in Jun–Aug.
 - **Price:** **₩3,000 adult / ₩2,000 youth and military / ₩1,000 child.** Groups of 20+: ₩2,500 / ₩1,500 / ₩500.
 - **✅ The ticket includes the Royal Portrait Museum (어진박물관)** — it is not a separate charge, so the ₩3,000 covers both the shrine precinct and the museum holding the Taejo portrait. Allow **1–1.5 hrs** for both.
-- **💡 Free on the last Wednesday of each month** ("Culture Day") — that is **Wed Nov 25, 2026**, just after you leave, so it does not help this trip.
+- **✅ Free on "Culture Day" — which since April 2026 is EVERY Wednesday, not just the last one.** That puts **Wed Nov 4, 11 and 18** in play, all inside your trip. *(The old monthly rule would have given only Nov 25, after departure.)* Participation is set venue by venue, so confirm with Gyeonggijeon before relying on it.
 - **Open year-round**, including Mondays — unlike most of the Hanok Village's museums.
 - **Official sources (reviewed Aug 18):** [Jeonju Royal Portrait Museum — seasonal hours and Gyeonggijeon admission](https://jeonju.go.kr/eojinmuseum/index.9is) · [Jeonbuk Tourism — fare table](https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552)
 

@@ -55,9 +55,12 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Verify on the KBL fixture list once November fixtures post**, and treat basketball as a bonus rather than a fixed plan for the Busan leg.
 - **Official sources (reviewed Aug 18):** [kbl.or.kr](https://www.kbl.or.kr) · [wkbl.or.kr](https://www.wkbl.or.kr) · [KBA national-team calendar — qualifier Nov 23–Dec 1, 2026](https://www.koreabasketball.or.kr/national/schedule.php) · [schedule release](https://www.basketkorea.com/news/newsview.php?ncode=1065589462597924)
 
-### 8) 💡 **Seomyeon Light Festival / Millak Luce Festa** — ⏳ RE-CHECK SWITCH-ON
-- **What:** Recurring winter illuminations on Seomyeon 1st Street and the Millak waterfront. Previous winters started in November, but **2026 switch-on dates were not on an organizer page** at review.
-- **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · district sites for Busanjin-gu and Suyeong-gu
+### 8) 💡 **Busan winter illuminations** — ❌ MOSTLY TOO EARLY — see dates
+- **What:** Busan's winter light displays, the biggest being the **Gwangbok-ro Winter Light Tree Festival** in Nampo-dong (trees, luminarie and a fountain-square media façade), plus smaller Seomyeon and Millak displays.
+- **⚠️ You will miss the main one.** The Gwangbok-ro festival runs **early December to late February** — the 2025–26 edition ran **Dec 5 – Feb 22, lit 17:30–22:00**. **You leave Korea on Nov 22**, roughly two weeks before switch-on.
+- **The Seomyeon display has historically lit up in late November/early December too** — a past edition began Dec 6. **No 2026 switch-on date was published** at review, so treat any November lighting as a bonus, not a plan.
+- **💡 Don't build a Nampo-dong evening around lights.** The **Gwangalli drone show (#9)** is the illumination event that *is* running in your window, free and confirmed.
+- **Official sources (reviewed Aug 18):** [Visit Busan — Gwangbok-ro Winter Light Tree Festival dates](https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014) · [festival listing](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201005001000&uc_seq=449)
 
 ### 9) 🛩️ **Gwangalli M Drone Light Show** — ⏳ WEEKLY, WEATHER-DEPENDENT
 - **What:** Korea's first and largest permanent drone light show — **1,100 drones**, ~12 minutes, over Gwangalli beach with the Gwangan Bridge behind it. Free, no ticket, viewable from anywhere on the beach.
@@ -129,8 +132,12 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 18):** [Shinsegae Centum City — Spa Land hours, fares, 4-hour rule](https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008)
 
 ### 19) 🎬 **Busan Cinema Center (Dureraum)** — 🔎 VERIFIED VENUE
-- **What:** BIFF’s home, with year-round screenings and a nightly LED roof. BIFF itself is Oct 6–15, **before** the trip.
-- **Official source (reviewed Aug 17):** [dureraum.org](https://www.dureraum.org)
+- **What:** BIFF's home at Centum — a vast cantilevered roof with **the world's largest LED ceiling**, lit nightly over the open Dureraum plaza. **Walking under the roof and watching the light show costs nothing.**
+- **⚠️ BIFF itself is Oct 6–15, before you arrive** — but the building screens films year-round and is a short walk from BEXCO, so it works as a G-STAR evening.
+- **Tickets are cheap by Korean standards:** regular programming around **₩7,000**, with **₩5,000** for youth, seniors and members; special seasons are often less.
+- **❌ The free outdoor Roof Theatre screenings are a summer season only** — the 2026 run was **May 12 – Sep 1**, Tuesdays and Wednesdays at 20:00. **They are over before your trip**; don't turn up expecting an open-air film.
+- **💡 Culture Day discount:** multiplex cinemas nationwide cut 2D tickets to **₩10,000 adult / ₩8,000 youth for screenings starting 17:00–21:00**, on the **second and last Wednesday** of each month — so **Wed Nov 11** is the one inside your trip (Nov 25 is after departure). *(Note: cinemas kept the twice-monthly rule even though Culture Day itself went weekly in April 2026.)* ☎ 051-780-6080.
+- **Official sources (reviewed Aug 18):** [dureraum.org](https://www.dureraum.org) · [screening calendar](http://mobile.dureraum.org/bccm/mcontents/caleMList.do?rbsIdx=27) · [Busan Ilbo — ticket prices](https://www.busan.com/view/busan/view.php?code=2026060210300727494) · [Culture Day expansion to two Wednesdays](https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/)
 
 ### 20) 🎨 **Busan Museum of Art and Space Lee Ufan** — 🔎 VERIFIED MUSEUM
 - **What:** Busan's flagship municipal art museum at Centum, plus **Space Lee Ufan**, a separate building designed by the artist himself.

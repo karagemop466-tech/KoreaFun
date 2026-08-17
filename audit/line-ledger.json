@@ -516,6 +516,7 @@
   "file": "busan.md",
   "kind": "DATE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** BIFF’s home, with year-round screenings and a nightly LED roof. BIFF itself is Oct 6–15, **before** the trip.",
   "verdict": "unchecked"
@@ -526,9 +527,99 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [dureraum.org](https://www.dureraum.org)",
   "verdict": "unchecked"
+ },
+ "busan.md#19:0d406d0ca7": {
+  "checked_on": "2026-08-17",
+  "entry": 19,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Busan Cinema Center: free to walk under the LED roof / Dureraum plaza. Screenings ~7,000 regular, 5,000 youth/senior/member. NEGATIVE FOUND: the free outdoor Roof Theatre screenings are a summer season - 2026 ran May 12 to Sep 1, Tue/Wed 20:00 - so they are over before the trip. Culture Day cinema discount applies Nov 11. Tel 051-780-6080. dureraum.org menu paths 500 on fetch; mobile.dureraum.org calendar works.",
+  "sources": [
+   "https://www.busan.com/view/busan/view.php?code=2026060210300727494",
+   "https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/"
+  ],
+  "text": "- **❌ The free outdoor Roof Theatre screenings are a summer season only** — the 2026 run was **May 12 – Sep 1**, Tuesdays and Wednesdays at 20:00. **They are over before your trip**; don't turn up expecting an open-air film.",
+  "verdict": "verified"
+ },
+ "busan.md#19:164363c4ac": {
+  "checked_on": "2026-08-17",
+  "entry": 19,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Busan Cinema Center: free to walk under the LED roof / Dureraum plaza. Screenings ~7,000 regular, 5,000 youth/senior/member. NEGATIVE FOUND: the free outdoor Roof Theatre screenings are a summer season - 2026 ran May 12 to Sep 1, Tue/Wed 20:00 - so they are over before the trip. Culture Day cinema discount applies Nov 11. Tel 051-780-6080. dureraum.org menu paths 500 on fetch; mobile.dureraum.org calendar works.",
+  "sources": [
+   "https://www.busan.com/view/busan/view.php?code=2026060210300727494",
+   "https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/"
+  ],
+  "text": "- **💡 Culture Day discount:** multiplex cinemas nationwide cut 2D tickets to **₩10,000 adult / ₩8,000 youth for screenings starting 17:00–21:00**, on the **second and last Wednesday** of each month — so **Wed Nov 11** is the one inside your trip (Nov 25 is after departure). *(Note: cinemas kept the twice-monthly rule even though Culture Day itself went weekly in April 2026.)* ☎ 051-780-6080.",
+  "verdict": "verified"
+ },
+ "busan.md#19:30f024e2ce": {
+  "checked_on": null,
+  "entry": 19,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "",
+  "retired": true,
+  "sources": [],
+  "text": "- **💡 Culture Day discount:** cinemas nationwide cut prices **17:00–21:00 on the second and last Wednesday** of each month — **Nov 11 and Nov 25** in 2026, so **Nov 11** is the one you can use. ☎ 051-780-6080.",
+  "verdict": "unchecked"
+ },
+ "busan.md#19:3e10668710": {
+  "checked_on": "2026-08-17",
+  "entry": 19,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Busan Cinema Center: free to walk under the LED roof / Dureraum plaza. Screenings ~7,000 regular, 5,000 youth/senior/member. NEGATIVE FOUND: the free outdoor Roof Theatre screenings are a summer season - 2026 ran May 12 to Sep 1, Tue/Wed 20:00 - so they are over before the trip. Culture Day cinema discount applies Nov 11. Tel 051-780-6080. dureraum.org menu paths 500 on fetch; mobile.dureraum.org calendar works.",
+  "sources": [
+   "https://www.busan.com/view/busan/view.php?code=2026060210300727494",
+   "https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/"
+  ],
+  "text": "- **Tickets are cheap by Korean standards:** regular programming around **₩7,000**, with **₩5,000** for youth, seniors and members; special seasons are often less.",
+  "verdict": "verified"
+ },
+ "busan.md#19:58c75c5d39": {
+  "checked_on": "2026-08-17",
+  "entry": 19,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Busan Cinema Center: free to walk under the LED roof / Dureraum plaza. Screenings ~7,000 regular, 5,000 youth/senior/member. NEGATIVE FOUND: the free outdoor Roof Theatre screenings are a summer season - 2026 ran May 12 to Sep 1, Tue/Wed 20:00 - so they are over before the trip. Culture Day cinema discount applies Nov 11. Tel 051-780-6080. dureraum.org menu paths 500 on fetch; mobile.dureraum.org calendar works.",
+  "sources": [
+   "https://www.busan.com/view/busan/view.php?code=2026060210300727494",
+   "https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/"
+  ],
+  "text": "- **What:** BIFF's home at Centum — a vast cantilevered roof with **the world's largest LED ceiling**, lit nightly over the open Dureraum plaza. **Walking under the roof and watching the light show costs nothing.**",
+  "verdict": "prose"
+ },
+ "busan.md#19:6a91d76b06": {
+  "checked_on": "2026-08-17",
+  "entry": 19,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Busan Cinema Center: free to walk under the LED roof / Dureraum plaza. Screenings ~7,000 regular, 5,000 youth/senior/member. NEGATIVE FOUND: the free outdoor Roof Theatre screenings are a summer season - 2026 ran May 12 to Sep 1, Tue/Wed 20:00 - so they are over before the trip. Culture Day cinema discount applies Nov 11. Tel 051-780-6080. dureraum.org menu paths 500 on fetch; mobile.dureraum.org calendar works.",
+  "sources": [
+   "https://www.busan.com/view/busan/view.php?code=2026060210300727494",
+   "https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/"
+  ],
+  "text": "- **⚠️ BIFF itself is Oct 6–15, before you arrive** — but the building screens films year-round and is a short walk from BEXCO, so it works as a G-STAR evening.",
+  "verdict": "verified"
+ },
+ "busan.md#19:95b086c871": {
+  "checked_on": "2026-08-17",
+  "entry": 19,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Busan Cinema Center: free to walk under the LED roof / Dureraum plaza. Screenings ~7,000 regular, 5,000 youth/senior/member. NEGATIVE FOUND: the free outdoor Roof Theatre screenings are a summer season - 2026 ran May 12 to Sep 1, Tue/Wed 20:00 - so they are over before the trip. Culture Day cinema discount applies Nov 11. Tel 051-780-6080. dureraum.org menu paths 500 on fetch; mobile.dureraum.org calendar works.",
+  "sources": [
+   "https://www.busan.com/view/busan/view.php?code=2026060210300727494",
+   "https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [dureraum.org](https://www.dureraum.org) · [screening calendar](http://mobile.dureraum.org/bccm/mcontents/caleMList.do?rbsIdx=27) · [Busan Ilbo — ticket prices](https://www.busan.com/view/busan/view.php?code=2026060210300727494) · [Culture Day expansion to two Wednesdays](https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/)",
+  "verdict": "sourced"
  },
  "busan.md#1:930fbd1e97": {
   "checked_on": "2026-08-18",
@@ -2003,9 +2094,58 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · district sites for Busanjin-gu and Suyeong-gu",
   "verdict": "unchecked"
+ },
+ "busan.md#8:388a6e42f6": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Busan winter illuminations: hedge RESOLVED AS A NEGATIVE. The main event is the Gwangbok-ro Winter Light Tree Festival, which runs early Dec to late Feb - the 2025-26 edition was Dec 5 to Feb 22, lit 17:30-22:00. Departure is Nov 22, roughly two weeks before switch-on. Seomyeon's display has historically also lit in late Nov/early Dec (a past edition began Dec 6) but no 2026 date was published at review. Entry re-titled from 'RE-CHECK SWITCH-ON' to 'MOSTLY TOO EARLY' and redirects the reader to the Gwangalli drone show, which IS running.",
+  "sources": [
+   "https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Visit Busan — Gwangbok-ro Winter Light Tree Festival dates](https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014) · [festival listing](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201005001000&uc_seq=449)",
+  "verdict": "sourced"
+ },
+ "busan.md#8:39aa849c6c": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Busan winter illuminations: hedge RESOLVED AS A NEGATIVE. The main event is the Gwangbok-ro Winter Light Tree Festival, which runs early Dec to late Feb - the 2025-26 edition was Dec 5 to Feb 22, lit 17:30-22:00. Departure is Nov 22, roughly two weeks before switch-on. Seomyeon's display has historically also lit in late Nov/early Dec (a past edition began Dec 6) but no 2026 date was published at review. Entry re-titled from 'RE-CHECK SWITCH-ON' to 'MOSTLY TOO EARLY' and redirects the reader to the Gwangalli drone show, which IS running.",
+  "sources": [
+   "https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014"
+  ],
+  "text": "- **💡 Don't build a Nampo-dong evening around lights.** The **Gwangalli drone show (#9)** is the illumination event that *is* running in your window, free and confirmed.",
+  "verdict": "verified"
+ },
+ "busan.md#8:99ac3b6368": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Busan winter illuminations: hedge RESOLVED AS A NEGATIVE. The main event is the Gwangbok-ro Winter Light Tree Festival, which runs early Dec to late Feb - the 2025-26 edition was Dec 5 to Feb 22, lit 17:30-22:00. Departure is Nov 22, roughly two weeks before switch-on. Seomyeon's display has historically also lit in late Nov/early Dec (a past edition began Dec 6) but no 2026 date was published at review. Entry re-titled from 'RE-CHECK SWITCH-ON' to 'MOSTLY TOO EARLY' and redirects the reader to the Gwangalli drone show, which IS running.",
+  "sources": [
+   "https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014"
+  ],
+  "text": "- **What:** Busan's winter light displays, the biggest being the **Gwangbok-ro Winter Light Tree Festival** in Nampo-dong (trees, luminarie and a fountain-square media façade), plus smaller Seomyeon and Millak displays.",
+  "verdict": "prose"
+ },
+ "busan.md#8:e598133384": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Busan winter illuminations: hedge RESOLVED AS A NEGATIVE. The main event is the Gwangbok-ro Winter Light Tree Festival, which runs early Dec to late Feb - the 2025-26 edition was Dec 5 to Feb 22, lit 17:30-22:00. Departure is Nov 22, roughly two weeks before switch-on. Seomyeon's display has historically also lit in late Nov/early Dec (a past edition began Dec 6) but no 2026 date was published at review. Entry re-titled from 'RE-CHECK SWITCH-ON' to 'MOSTLY TOO EARLY' and redirects the reader to the Gwangalli drone show, which IS running.",
+  "sources": [
+   "https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014"
+  ],
+  "text": "- **⚠️ You will miss the main one.** The Gwangbok-ro festival runs **early December to late February** — the 2025–26 edition ran **Dec 5 – Feb 22, lit 17:30–22:00**. **You leave Korea on Nov 22**, roughly two weeks before switch-on.",
+  "verdict": "verified"
  },
  "busan.md#8:ead87496f1": {
   "checked_on": null,
@@ -2013,9 +2153,22 @@
   "file": "busan.md",
   "kind": "DATE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Recurring winter illuminations on Seomyeon 1st Street and the Millak waterfront. Previous winters started in November, but **2026 switch-on dates were not on an organizer page** at review.",
   "verdict": "unchecked"
+ },
+ "busan.md#8:f310cd7500": {
+  "checked_on": "2026-08-17",
+  "entry": 8,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Busan winter illuminations: hedge RESOLVED AS A NEGATIVE. The main event is the Gwangbok-ro Winter Light Tree Festival, which runs early Dec to late Feb - the 2025-26 edition was Dec 5 to Feb 22, lit 17:30-22:00. Departure is Nov 22, roughly two weeks before switch-on. Seomyeon's display has historically also lit in late Nov/early Dec (a past edition began Dec 6) but no 2026 date was published at review. Entry re-titled from 'RE-CHECK SWITCH-ON' to 'MOSTLY TOO EARLY' and redirects the reader to the Gwangalli drone show, which IS running.",
+  "sources": [
+   "https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014"
+  ],
+  "text": "- **The Seomyeon display has historically lit up in late November/early December too** — a past edition began Dec 6. **No 2026 switch-on date was published** at review, so treat any November lighting as a bonus, not a plan.",
+  "verdict": "verified"
  },
  "busan.md#9:09ea4ba1aa": {
   "checked_on": "2026-08-17",
@@ -10049,6 +10202,16 @@
   "text": "- **Official sources (reviewed Aug 18):** [Jeonju Royal Portrait Museum — seasonal hours and Gyeonggijeon admission](https://jeonju.go.kr/eojinmuseum/index.9is) · [Jeonbuk Tourism — fare table](https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552)",
   "verdict": "sourced"
  },
+ "jeonju.md#6:4e21f104ea": {
+  "checked_on": null,
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **✅ Free on \"Culture Day\" — which since April 2026 is EVERY Wednesday, not just the last one.** That puts **Wed Nov 4, 11 and 18** in play, all inside your trip. *(The old monthly rule would have given only Nov 25, after departure.)* Participation is set venue by venue, so confirm with Gyeonggijeon before relying on it.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#6:6bbe8308c5": {
   "checked_on": "2026-08-17",
   "entry": 6,
@@ -10068,6 +10231,7 @@
   "file": "jeonju.md",
   "kind": "DATE",
   "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "retired": true,
   "sources": [
    "https://jeonju.go.kr/eojinmuseum/index.9is",
    "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"

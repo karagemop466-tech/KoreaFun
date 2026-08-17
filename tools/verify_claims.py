@@ -59,6 +59,12 @@ CLAIMS = [
         ("busan.md", r"Nov 23 . Dec 1, 2026|Nov 23 - Dec 1, 2026"),
         ("events.csv", r"Window 5 runs Nov 23-Dec 1 2026"),
     ]),
+    ("Culture Day is weekly since Apr 2026, not monthly", [
+        ("travel-basics.md", r"EVERY WEDNESDAY"),
+        ("travel-basics.md", r"Nov 4, 11 and 18"),
+        ("travel-basics.md", r"last Wednesday of each month \(.Culture Day.\) is free", "absent"),
+        ("jeonju.md", r"EVERY Wednesday, not just the last one"),
+    ]),
     ("INAS Nov 22 last entry 17:00 noted on departure day", [
         ("incheon.md", r"last entry 17:00"),
         ("itinerary.md", r"last entry 17:00"),
