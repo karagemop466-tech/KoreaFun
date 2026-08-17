@@ -7,7 +7,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (~1,400 Total Activity Sections)
+## 📂 What's in this repo (~1,500 Total Activity Sections)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -16,6 +16,12 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | [`seoul.md`](seoul.md) | **260 numbered activity sections** for Seoul (palaces, shows, foliage hikes, markets) |
 | [`busan.md`](busan.md) | **103 numbered activity sections** for Busan (coastal skywalks, cable cars, G-STAR, fireworks) |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | **80 numbered activity sections** for Daejeon & Cheonan (flex cities 45–60 min by KTX) |
+
+### 🛍️ Neighborhood deep-dives (focused on Seoul districts)
+
+| File | What's inside |
+|---|---|
+| [`myeongdong.md`](myeongdong.md) | **137 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
 
 ### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 expanded cities, ~1,300 activity sections)
 
