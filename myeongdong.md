@@ -30,11 +30,13 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 - **Hours/price:** SeMA lists Tue–Thu 10:00–20:00, Fri to 21:00, weekends/holidays 10:00–18:00 in winter. **Closed Mondays.** Admission to SeMA's own collection shows is normally free.
 - **Official sources (reviewed Aug 17):** [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) · [SeMA Seosomun branch](https://sema.seoul.go.kr/en/visit/seosomun)
 
-### 3) 🥁 **Myeongdong NANTA** — ⏳ RE-CHECK NOVEMBER 2026
-- **What:** Long-running non-verbal percussion and comedy show in the Myeongdong NANTA Theatre.
-- **Status:** The operator has published 2026 performances, but the search-visible calendar was not yet on November. Do **not** copy the November 2025 schedule into 2026.
-- **Price:** Operator currently lists Premium ₩70,000, VIP ₩60,000, S ₩50,000, and A ₩40,000; verify when booking.
-- **Official sources (reviewed Aug 17):** [Myeongdong NANTA schedule](https://www.nanta.co.kr:452/en/show/detail.php?id=1) · [operator ticket information](https://www.nanta.co.kr:452/Nanta/en/ticket/ticketing.aspx)
+### 3) 🥁 **Myeongdong NANTA (Cookin' NANTA)** — ✅ CONFIRMED OPEN RUN — daily · UPDATED
+- **What:** Korea's most successful non-verbal show since 1997 — samulnori rhythms hammered out on kitchen knives, chopping boards and pans, wrapped in slapstick. **No dialogue, so the language barrier is a non-issue** — a genuinely safe bet for first-time visitors.
+- **Status:** **Open run** (running continuously since Oct 2009 at this theatre), so there is no "November schedule" to wait for — it plays every day. Individual dates can still sell down to limited seat classes, so book ahead rather than walking up.
+- **Times:** **Mon–Fri 17:00 & 20:00 · Sat 14:00, 17:00 & 20:00 · Sun and public holidays 14:00 & 17:00.** Runs 90 minutes. Ages 12 months+.
+- **Price (corrected Aug 17):** operator lists **VIP ₩70,000 · S ₩60,000 · A ₩50,000**. *The previous three-tier figures in this file were wrong — there is no ₩40,000 A seat and the top tier is VIP, not "Premium".*
+- **Where:** Myeongdong NANTA Theatre (former Myeongdong Art Center), **3F UNESCO Building**, Myeongdong 2-ga — inside the shopping district. There is a second NANTA theatre in Hongdae with a reduced Wed–Sun schedule.
+- **Official source (reviewed Aug 17):** [Official NANTA — Myeongdong show page with live calendar](https://www.nanta.co.kr:452/kr/show/detail.php?id=1)
 
 ---
 

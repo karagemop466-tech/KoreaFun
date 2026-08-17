@@ -200,9 +200,10 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **Status:** Verify any trip-window fixture and ticket link in the K League match center.
 - **Official sources (reviewed Aug 17):** [Daegu FC](https://www.daegufc.co.kr/) · [K League](https://www.kleague.com/)
 
-### 35) 🎨 **2026 Daegu Art Festival Part 2** — ⏳ CITY ARTS CALENDAR — Nov 17–22, 2026 · NEW
-- **What:** Second part of the municipal art-festival exhibition block, listed on the Daegu Foundation for Culture & Arts event search as **Nov 17–22, 2026** at Daegu Arts Center exhibition rooms.
-- **Status:** Confirm gallery hours and whether the rooms are open to casual visitors on the visit day.
+### 35) 🎨 **2026 Daegu Art Festival Part 2** — ✅ CONFIRMED — Nov 17–22, 2026 · UPDATED
+- **What:** Second part of the municipal art-festival exhibition block — a large group show filling **Daegu Culture & Arts Center exhibition rooms 6–13** (대구문화예술회관 6~13전시실). Re-checked Aug 17: the venue and room numbers are confirmed on the Daegu Foundation for Culture & Arts listing.
+- **When:** **Nov 17–22, 2026** — a short six-day run landing in your final week.
+- **Status:** Gallery hours and any admission were not stated on the listing; confirm before travelling across town.
 - **Official source (reviewed Aug 17):** [Daegu Foundation for Culture & Arts event search](https://dgfca.or.kr/event/search/list)
 
 ---

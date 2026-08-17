@@ -38,7 +38,7 @@ This is a source directory, **not proof that every entry has been verified**. Ea
 | BEXCO | Venue — Busan Exhibition & Convention Center | https://www.bexco.co.kr |
 | Busan Fireworks Festival | Official festival site (tickets, updates) | https://busanfireworks.com |
 | Noodle Daejeon Festival | Daejeon noodle festival | https://noodle-dj.com |
-| Korea Sale FESTA | Nationwide shopping festival (Ministry-run; [MOTIE/Korea.net confirmation](https://www.korea.net/NewsFocus/Business/view?articleId=260902)) | https://koreasalefesta.co.kr |
+| Korea Sale FESTA | Nationwide shopping festival (Ministry-run; [MOTIE/Korea.net confirmation](https://www.korea.net/NewsFocus/Business/view?articleId=260902)) | https://www.korea.kr/news/policyNewsView.do?newsId=148936029 ⚠️ old koreasalefesta.co.kr/.kr domains lapsed — now an unrelated contact-lens company login |
 | Korea Kimjang Grand Festival | National kimjang festival (aT) | https://kimjang-festa.com |
 | Everland | Everland theme park (Yongin, near Seoul) | https://www.everland.com |
 | Lotte World | Lotte World Adventure (Seoul, Jamsil) | https://www.lotteworld.com |

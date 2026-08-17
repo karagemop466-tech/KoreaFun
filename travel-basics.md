@@ -42,7 +42,7 @@ Everything below is practical setup for the events in this repo. Official links 
 >
 > **Concerts/shows:** use **Interpark Global** (foreign cards OK) — most November shows (5 Seconds of Summer, Jason Mraz, Jujutsu Kaisen orchestra, etc.) are listed there or on Ticketlink. Book as soon as a show is announced; big K-pop shows sell out in minutes.
 >
-> **Shopping:** November is **Korea Sale FESTA** season (gov't-run nationwide discounts, [koreasalefesta.co.kr](https://koreasalefesta.co.kr)) — check its "tourist" section for duty-free/shopping/attraction deals before you buy souvenirs.
+> **Shopping:** November is **Korea Sale FESTA** season (gov't-run nationwide discounts, [korea.kr newsroom](https://www.korea.kr/news/policyNewsView.do?newsId=148936029) ⚠️ the old koreasalefesta.co.kr domain has lapsed and now serves an unrelated company) — check its "tourist" section for duty-free/shopping/attraction deals before you buy souvenirs.
 
 ## 5. Apps worth installing before you land
 - **Naver Map / Kakao Map** — navigation (English support)

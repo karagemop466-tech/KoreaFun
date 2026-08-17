@@ -122,9 +122,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Price:** SeMA branch exhibitions are normally free.
 - **Official source (reviewed Aug 17):** [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY)
 
-### 20) 🦒 **Seoul Grand Park Autumn Festival** — ⏳ SCHEDULED — Oct 31–Nov 8, 2026
-- **What:** Autumn program at Seoul Grand Park (Gwacheon, Line 4). The city festival calendar lists it as scheduled, not a fully detailed 2026 program.
-- **Official source (reviewed Aug 17):** [Seoul Festival Calendar](https://festival.seoul.go.kr)
+### 20) 🦒 **Seoul Grand Park Autumn Festival — "Pinocchio's Forest, Coloured by Art"** — ✅ CONFIRMED — Oct 31–Nov 8, 2026 · UPDATED
+- **What:** The park's autumn festival, themed 《예술로 물드는 피노키오의 숲》 ("Pinocchio's Forest, Coloured by Art"). Programme is built around the autumn foliage: a **forest open-air gallery** of installation works set among the maples, participatory large-scale installation art, hands-on activities, and acoustic concerts and dance performances.
+- **When/where:** **Sat Oct 31 – Sun Nov 8, 2026**, across Seoul Grand Park, Gwacheon. **Opens on your arrival day** and runs your whole first week.
+- **Getting there:** Line 4 to Seoul Grand Park station — a straightforward ride from central Seoul, which makes this one of the easier "real autumn foliage" options that doesn't need a day trip out of the city.
+- **Price:** Park admission applies; the festival programming is part of the park visit. Tel 02-500-7335.
+- **Official source (reviewed Aug 17):** [Seoul Festival Calendar — Grand Park Autumn Festival](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=465)
 
 ### 21) 🧵 **Seoul Craft Museum donated-works exhibition** — ⏳ CITY PLANNING CALENDAR — Sep 21, 2026–Mar 7, 2027
 - **What:** Listed on the Seoul Metropolitan Government 2026 event schedule. Confirm the live museum page before treating hours or title as final.
@@ -134,9 +137,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **What:** Joint exhibition listed as tentative on the same SMG 2026 schedule. Not treated as a hard ticketed fact until the museum page names it.
 - **Official source (reviewed Aug 17):** [SMG 2026 schedule PDF](https://english.seoul.go.kr/wp-content/uploads/2025/12/Major-Tasks-and-Event-Schedule-for-2026.pdf)
 
-### 23) 🖼️ **SeMA — Lynn Hershman Leeson** — ⏳ CITY PLANNING CALENDAR — Oct 1, 2026–Feb 7, 2027
-- **What:** Listed on the SMG 2026 schedule. Confirm on [sema.seoul.go.kr](https://sema.seoul.go.kr) before travel.
-- **Official source (reviewed Aug 17):** [SMG 2026 schedule PDF](https://english.seoul.go.kr/wp-content/uploads/2025/12/Major-Tasks-and-Event-Schedule-for-2026.pdf)
+### 23) 🖼️ **SeMA — "Lynn Hershman Leeson: My [Me]s" (린 허쉬만 리슨: 나의 [나]들)** — ✅ CONFIRMED — Oct 21, 2026–Feb 21, 2027 · UPDATED
+- **What:** Major survey of the American pioneer of media, identity and early net art — the artist behind *Roberta Breitmore* and some of the first artworks to deal with surveillance and synthetic identity. A strong pairing with the Christine Sun Kim show at MMCA.
+- **When:** **Oct 21, 2026 – Feb 21, 2027**, Seoul Museum of Art **Seosomun Main Branch**. Open for your whole trip.
+- **⚠️ Date correction (Aug 17):** the city's 2026 planning PDF listed this as *Oct 1, 2026–Feb 7, 2027*. **SeMA's own upcoming-exhibitions listing now gives Oct 21–Feb 21** — three weeks later at the front, two weeks later at the end. The museum's own page wins; the planning PDF is stale. Either way it covers your dates.
+- **Price:** SeMA main-branch exhibitions are normally free; closed Mondays.
+- **Official source (reviewed Aug 17):** [SeMA upcoming exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=PLAN_DAY)
 
 ### 24) 🎵 **“Culture Flowing Through Seoul Plaza”** — ⏳ RECURRING — May–Dec 2026
 - **What:** Free outdoor performances on Seoul Plaza. Official festival page says May–December; a secondary 2026 write-up describes Wednesday and Sunday shows. Individual November programs are not copied here.
@@ -156,8 +162,10 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official source (reviewed Aug 17):** [kimjang-festa.com](https://kimjang-festa.com)
 
 ### 28) 🛍️ **Korea Sale FESTA** — ⏳ TBA
-- **What:** Nationwide government shopping campaign. Recent editions ran mid-to-late November; 2026 dates were unpublished.
-- **Official source (reviewed Aug 17):** [koreasalefesta.co.kr](https://koreasalefesta.co.kr)
+- **What:** Nationwide government-backed shopping campaign (Ministry of Trade, Industry and Energy + an industry steering committee). Recent editions ran in **November** — the 2024 edition opened Nov 1 with ~2,600 companies — so it will very likely overlap your trip. **2026 dates were still unpublished at review.**
+- **🚨 Broken official link (Aug 17):** both `koreasalefesta.co.kr` and `koreasalefesta.kr` **no longer belong to the festival.** Both now serve the login page of "MEDIOS", an unrelated contact-lens manufacturing system — the domains appear to have lapsed between editions. **Do not trust anything served from those addresses.** Until the 2026 site reappears, use the government newsroom below.
+- **What this means for you:** don't plan around it. Treat any November discounting you encounter as a bonus, and ignore third-party blogs claiming exact 2026 dates — the ones found in review contradicted each other (Nov 1–15 vs Nov 1–30) and even misstated the day of the week.
+- **Official source (reviewed Aug 17):** [korea.kr policy newsroom — Korea Sale FESTA coverage](https://www.korea.kr/news/policyNewsView.do?newsId=148936029)
 
 ---
 

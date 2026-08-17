@@ -160,3 +160,43 @@ Re-checked the ~24 entries still carrying an unverified ✅ CONFIRMED badge. Eve
 - `w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026` returns the **whole year** in one table (the unparameterised URL does not).
 - `sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY` lists every SeMA branch show with dates. Note `sema.seoul.go.kr/ex/exList` is a dead 500 and the per-exhibition `detail?exNo=` pages render empty.
 - `suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=<N>` gives full event detail incl. prices.
+
+---
+
+## Pass 6 — ⏳/👀 backlog triage (Aug 17, 2026)
+
+Went through the ~78 pending items. Most are honest by design — generic venue entries that say "check the calendar" for a stadium or arts hall, which is the correct answer when fixtures genuinely aren't published. Effort went to the **entries making a specific dated claim**, since those are the ones that can be wrong.
+
+### 🚨 Dead official domain — Korea Sale FESTA
+**`koreasalefesta.co.kr` and `koreasalefesta.kr` no longer belong to the festival.** Both now serve the login screen of **"MEDIOS", a contact-lens manufacturing execution system**. The domains appear to have lapsed between editions.
+
+This link was cited in **four files** (`seoul.md` #28, `itinerary.md`, `sources.md`, `travel-basics.md`) plus `events.csv`. All five replaced with the **korea.kr government policy newsroom**, and each now carries an explicit warning not to trust content served from the old addresses.
+
+This is exactly the failure mode the protocol warns about: **a live HTTP 200 is not proof.** The domain resolved fine — it just wasn't the festival any more. Worth re-testing periodically on other `.co.kr` event domains.
+
+Also note: every blog claiming firm 2026 Korea Sale FESTA dates traced back to **one content-farm domain** (`hub.greatsisyphus.com`), whose own pages contradict each other (Nov 1–15 vs Nov 1–30), claim phone calls made on dates in the future relative to the post date, and call **Nov 1 a Friday when it is a Sunday**. Ignored entirely.
+
+### Date correction — SeMA Lynn Hershman Leeson
+The city's 2026 planning PDF said **Oct 1, 2026 – Feb 7, 2027**. SeMA's own upcoming-exhibitions listing says **Oct 21, 2026 – Feb 21, 2027**. Museum's own page wins; entry upgraded to ✅ with the discrepancy documented. Full title: 《린 허쉬만 리슨: 나의 [나]들》, Seosomun main branch. Still covers the whole trip either way.
+
+### Price correction — Myeongdong NANTA
+File listed "Premium ₩70,000, VIP ₩60,000, S ₩50,000, **A ₩40,000**". The operator's own page lists **VIP ₩70,000 / S ₩60,000 / A ₩50,000** — three tiers, not four, and different tier names. Corrected. Also upgraded ⏳ → ✅: it is an **open run** playing daily since Oct 2009, so there was never a "November 2026 schedule" to wait for. Times captured: Mon–Fri 17/20, Sat 14/17/20, Sun+holiday 14/17.
+
+### Upgraded ⏳ → ✅ with real programme detail
+- **seoul #20 Seoul Grand Park Autumn Festival** — festival page found (`festacode=465`). Themed 《예술로 물드는 피노키오의 숲》; forest open-air gallery among the maples, participatory installations, acoustic concerts. **Oct 31–Nov 8**, opens on arrival day. Tel 02-500-7335.
+- **daegu #35 Daegu Art Festival Part 2** — venue confirmed as **Daegu Culture & Arts Center exhibition rooms 6–13**, Nov 17–22.
+
+### Left ⏳ deliberately — and why that is the right answer
+- **seoul #25 Changgyeonggung Mulbit Yeonhwa (fall).** Only the **spring** run (Apr 24–May 3) has an official Korea Heritage page. The Sep 8–Nov 8 fall window appears **only on blogs**, and the one detailed source visibly mixes in **2025** dates. The existing entry already says "do not treat as confirmed" — that wording stands and is correct. Note the 2025 fall run was Sep 10–Nov 8, so a similar 2026 window is plausible but must not be stated as fact.
+- **seoul #21/#22 Seoul Craft Museum.** The museum's own site is **down** — `craftmuseum.seoul.go.kr/main` returns HTTP 502 and every sub-path 404s. Only a February press release about the 2026 roadmap exists, and it names exhibitions without firm dates. Nothing verifiable to add.
+- **Sports entries** (FC Seoul, KBO Korean Series, Pohang Steelers, Daegu FC, NC Dinos, LG Sakers, KT Sonicboom, Ulsan HD, Gyeongnam FC, Jeonbuk, WKBL). League fixture sites render client-side and remain unreadable; postseason entries are genuinely undetermined until October. ⏳/👀 is accurate.
+- **Yeosu Big-O Show / Expo site.** `expo2012.kr/kor/main.do` now **404s**. No replacement schedule found; left ⏳ rather than guessing.
+
+### Newly confirmed dead/unusable URLs
+- `koreasalefesta.co.kr`, `koreasalefesta.kr` — **repurposed, not merely dead.**
+- `craftmuseum.seoul.go.kr/main` → 502; `/exhibition/current`, `/kor/html/sub02/0201.html` → 404.
+- `sema.seoul.go.kr/ex/exList` → 500; `sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=<id>` renders an **empty shell** (fields blank, "상시") — the *landing* list URL is the only usable SeMA endpoint.
+- `expo2012.kr/kor/main.do` → 404.
+- `kh.or.kr/kha/programs/list.do` → error page.
+- `seoulcraftmuseum.org` → fetch failure.
+- `grandpark.seoul.go.kr/main/ko.do` → 500. Use `festival.seoul.go.kr` instead.

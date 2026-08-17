@@ -67,7 +67,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | **Sep–Oct** | **Seoul Kimjang Festival** dates announced (expect first weekend of Nov) | seoul.go.kr / visitseoul.net |
 | **Oct** | 🏆 **KGMA** lineup & tickets (Nov 7–8) · **MMA** lineup & Melon presales (Nov 14–15) | Interpark/Melon |
 | **Oct** | K League final-round home fixtures confirmed (FC Seoul / Daejeon) · KBO Korean Series teams | kleague.com · koreabaseball.com |
-| **Oct** | Korea Sale FESTA 2026 dates announced (recent years Nov 9–30) | koreasalefesta.co.kr |
+| **Oct** | Korea Sale FESTA 2026 dates announced (recent years Nov 9–30) | ⚠️ domain lapsed — see sources.md |
 | **Oct** | MMCA Night November edition preregistration (500 spots, sells out) | mmca.go.kr |
 | **Sep–Oct** | Changgyeonggung **Mulbit Yeonhwa fall dates** — spring 2026 is confirmed; fall still needs a Heritage Service page | royal.khs.go.kr · 1522-2295 |
 
