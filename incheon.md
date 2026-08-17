@@ -787,6 +787,718 @@
 
 ---
 
+## 🆕 More verified Incheon events & activities (expansion set)
+
+*Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
+
+### 143) 🧧 Incheon Chinatown Paeru Gates & Samgukji Mural Street (인천 차이나타운) — 🔁 daily (FREE)
+- **What:** Korea's only official Chinatown, established 1884 — three ceremonial *paeru* gates, and a 150 m mural wall telling the whole Romance of the Three Kingdoms in 160 panels
+- **Hours:** Streets always open; restaurants roughly **10:00–21:00**
+- **Price:** **FREE** to walk
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Line 1 Incheon Station Exit 1 — the first gate is directly across the road. Start here and walk uphill; everything in this list is within 15 minutes.
+
+### 144) 🍜 Jjajangmyeon Museum (짜장면박물관) — 🔁 Tue–Sun
+- **What:** The birthplace of Korea's national comfort dish — the former Gonghwachun restaurant (1905), now a museum on how Shandong dockworkers' noodles became Korean
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** Adult **₩1,000**; youth ₩700; child ₩500
+- **Official source:** [Incheon Jung-gu museums](https://www.icjg.go.kr)
+- **Beginner notes:** In the middle of Chinatown. ₩1,000 for a genuinely well-made museum, then eat jjajangmyeon 30 seconds away.
+
+### 145) 🏮 Gonghwachun & Chinatown Jjajangmyeon Restaurants — 🔁 daily
+- **What:** The Chinatown restaurant row where jjajangmyeon was invented — plus *jjamppong*, *tangsuyuk* and the yellow-boxed *gonggalppang* pastry
+- **Hours:** Most restaurants **10:00–21:00**
+- **Price:** Jjajangmyeon **₩7,000–₩9,000**; tangsuyuk from ₩18,000
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Expect a queue at the famous ones on weekends. The white *baek-jjajang* version is the local speciality worth trying.
+
+### 146) 🧚 Songwol-dong Fairytale Village (송월동 동화마을) — 🔁 daily (FREE)
+- **What:** A declining 1900s residential quarter repainted in 2013 with murals and sculptures of Western fairy tales — an entire neighbourhood of Snow White, Peter Pan and Dorothy
+- **Hours:** Always open; shops roughly **10:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Directly behind Chinatown, uphill. People live here — the murals are on their front walls, so keep it quiet.
+
+### 147) 🌳 Jayu Park (자유공원) — 🔁 daily (FREE)
+- **What:** **Korea's first Western-style public park**, opened 1888 — on the hill above the old foreign settlements, with the MacArthur statue and a harbour view
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Between Chinatown and the Open Port district. **Autumn foliage here is excellent in mid-November** and the harbour view is the best free one in Incheon.
+
+### 148) 🏛️ Incheon Open Port Modern Architecture Museum (인천개항장 근대건축전시관) — 🔁 Tue–Sun
+- **What:** Housed in the 1888 Japanese No. 18 Bank building — a museum of the treaty-port architecture that still stands in the streets outside
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** Adult **₩500**; combined Open Port ticket **₩3,400** for four museums
+- **Official source:** [Incheon Jung-gu museums](https://www.icjg.go.kr)
+- **Beginner notes:** **Buy the ₩3,400 combined ticket** — it covers this, the Open Port Museum, the Art Platform annexe and Jjajangmyeon Museum.
+
+### 149) 🏦 Incheon Open Port Museum (인천개항박물관) — 🔁 Tue–Sun
+- **What:** In the 1899 Japanese First Bank building — the story of Korea's first railway, first telegraph, first lighthouse and first modern port, all of which started here
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** Adult **₩500** (or the ₩3,400 combined ticket)
+- **Official source:** [Incheon Jung-gu museums](https://www.icjg.go.kr)
+- **Beginner notes:** Line 1 Incheon Station Exit 1, 8-min walk. Incheon is where modern Korea was physically plugged in — this museum makes that concrete.
+
+### 150) ⛪ Dapdong Cathedral (답동성당) — 🔁 daily (FREE)
+- **What:** Korea's oldest surviving Catholic church building outside Seoul (1897), a red-brick Romanesque basilica and National Historic Site No. 287
+- **Hours:** Daily roughly **09:00–17:00** outside services
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr) · [Catholic Diocese of Incheon](https://www.caincheon.or.kr)
+- **Beginner notes:** Line 1 Dongincheon Station Exit 2, 8-min walk uphill. The interior stained glass is worth the climb.
+
+### 151) ⛪ Incheon Naeri Methodist Church (내리교회) — 🔁 daily (FREE)
+- **What:** Founded 1885 by Henry Appenzeller — **the first Methodist church in Korea**, with a small museum on the arrival of Protestantism
+- **Hours:** Daily roughly **10:00–17:00**
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Near Jayu Park. The Appenzeller landing site marker down at the port is part of the same story.
+
+### 152) 🎨 Incheon Art Platform (인천아트플랫폼) — 🔁 Tue–Sun (FREE)
+- **What:** A block of 1930s–40s warehouses and offices converted into artist studios, galleries and performance spaces — Incheon's contemporary art hub
+- **Hours:** Tue–Sun **11:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [inartplatform.kr](https://www.inartplatform.kr)
+- **Beginner notes:** Line 1 Incheon Station Exit 1, 5-min walk. Free, atmospheric, and the courtyard cafe is a good pause between museums.
+
+### 153) 🏠 Sudoguksan Museum of Housing and Living (수도국산달동네박물관) — 🔁 Tue–Sun
+- **What:** A full-scale reconstruction of a 1960s–70s Incheon hillside shantytown — the barbershop, the briquette shop, the shared toilet, the one-room homes
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** Adult **₩1,000**
+- **Official source:** [Incheon Dong-gu](https://www.icdonggu.go.kr)
+- **Beginner notes:** Line 1 Dongincheon Station + short bus. Genuinely one of the best small museums in Korea — it shows the poverty modern Korea came out of.
+
+### 154) 🚢 Museum of Korean Emigration History (한국이민사박물관) — 🔁 Tue–Sun (FREE)
+- **What:** Korea's national emigration museum, at Wolmido — because the first organised Korean emigrants sailed from Incheon to Hawaii in 1902
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu museums](https://www.icjg.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Bus from Incheon Station to Wolmido. Free, well-designed, and it explains the Korean diaspora better than anything else in the country.
+
+### 155) 🎖️ Memorial Hall for Incheon Landing Operation (인천상륙작전기념관) — 🔁 Tue–Sun (FREE)
+- **What:** Museum of MacArthur's September 1950 amphibious landing, the operation that reversed the Korean War — with outdoor tanks, aircraft and landing craft
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Bus from Line 1 Dongincheon or Incheon Station. The outdoor hardware park is free and open even when the halls are closed.
+
+### 156) 🖼️ Incheon Metropolitan City Museum (인천광역시립박물관) — 🔁 Tue–Sun (FREE)
+- **What:** **Korea's first public municipal museum**, founded 1946 — Incheon's history from prehistory through the treaty port to the present
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [icmuseum.incheon.go.kr](https://www.incheon.go.kr/museum)
+- **Beginner notes:** Next to the Incheon Landing memorial — do both in one trip. Free, air-conditioned and rarely busy.
+
+### 157) 💰 Incheon Metropolitan City Museum Coin Gallery & Compass Hall — 🔁 Tue–Sun (FREE)
+- **What:** The city museum's specialist wings — Korean currency history and a maritime navigation gallery, reflecting Incheon's port trade
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Included in the free city museum entry. Twenty extra minutes and worth it.
+
+### 158) 🎡 Wolmi Theme Park (월미테마파크) — 🔁 daily
+- **What:** The old-school seafront amusement park at Wolmido — the Viking ship, the disco pang-pang and a Ferris wheel over the harbour
+- **Hours:** Daily roughly **10:00–21:00** (weekday hours shorter in November)
+- **Price:** Individual rides **₩5,000–₩8,000**; freepass ~**₩25,000**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Bus 2/10/45 from Incheon Station. The 'disco pang-pang' with its shouting DJ is a Korean institution — deeply silly and very fun.
+
+### 159) 🚋 Wolmi Sea Train (월미바다열차) — 🔁 Tue–Sun
+- **What:** Korea's longest urban tourist monorail — a 6.1 km elevated loop 7–18 m above Wolmido with four stations and views over the port and the old town
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mondays; last boarding 17:00)
+- **Price:** Adult **₩8,000**; youth ₩6,000; child ₩5,000
+- **Official source:** [wolmiseatrain.or.kr](https://www.wolmiseatrain.or.kr)
+- **Beginner notes:** Boards at Wolmi Sea Train Station, next to Incheon Station. Forty minutes for the full loop; you can hop off at all four stops.
+
+### 160) 🌊 Wolmido Culture Street & Raw Fish Restaurants (월미문화의거리) — 🔁 daily
+- **What:** The seafront promenade at Wolmido — buskers, clam-grill tents, a *hoe* restaurant row and the ferry pier for Yeongjong
+- **Hours:** Promenade always open; restaurants roughly **11:00–23:00**
+- **Price:** **FREE** to walk
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** The sunset over the port here is the classic Incheon view. Grilled clams and soju at a plastic table is the correct order.
+
+### 161) ⛰️ Wolmi Park & Wolmi Observatory (월미공원·월미전망대) — 🔁 daily (FREE)
+- **What:** The wooded hill behind Wolmido, off-limits as a military zone until 2001 — a traditional garden, a forest walk and a free observatory over the Yellow Sea
+- **Hours:** Park **05:00–23:00**; observatory roughly **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Behind the amusement park. Free observatory, free traditional garden, and almost nobody goes up.
+
+### 162) ⛵ Wolmido → Yeongjongdo Ferry (월미도–영종도 여객선) — 🔁 daily
+- **What:** The short car-and-passenger ferry across to Yeongjong Island — 10 minutes, with gulls following the boat for shrimp crackers
+- **Hours:** Roughly every 30–40 min, **07:00–21:00**
+- **Price:** Passenger **₩3,000–₩4,000** one way
+- **Official source:** [Incheon Port Authority](https://www.icpa.or.kr)
+- **Beginner notes:** The seagulls-and-shrimp-crackers ritual is a genuine Korean ferry tradition. Buy the crackers at the terminal.
+
+### 163) 🏙️ Songdo Central Park & Water Taxi (송도센트럴파크) — 🔁 daily (FREE)
+- **What:** The 41-hectare centrepiece of Songdo International Business City — a 1.8 km **seawater canal** through the skyscrapers, with boats, a deer park and a hanok village
+- **Hours:** Park always open; boats roughly **10:00–21:00**
+- **Price:** Park **FREE**; water taxi **₩4,000**; kayak/canoe from ₩6,000
+- **Official source:** [insiseol.or.kr](https://www.insiseol.or.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Incheon Line 1 Central Park Station Exit 3/4. The canal is filled with seawater, not fresh — unusual and it's why there are no mosquitoes.
+
+### 164) 🔭 G-Tower Observatory (G타워 전망대) — 🔁 weekdays (FREE)
+- **What:** The free 29th-floor observation deck in Songdo's government tower — the definitive view over Central Park, the Incheon Bridge and the reclaimed grid
+- **Hours:** Weekdays roughly **09:00–18:00** (closed weekends and holidays)
+- **Price:** **FREE**
+- **Official source:** [Incheon Free Economic Zone (IFEZ)](https://www.ifez.go.kr)
+- **Beginner notes:** Incheon Line 1 Central Park Station. **Weekdays only** — a lot of visitors turn up on Saturday and find it shut.
+
+### 165) 🏯 Songdo Hanok Village (송도한옥마을) — 🔁 daily (FREE)
+- **What:** A newly built traditional hanok quarter inside Central Park, with restaurants and tea houses — hanok roofs framed against glass towers
+- **Hours:** Grounds always open; restaurants roughly **11:00–22:00**
+- **Price:** **FREE** to walk
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [IFEZ](https://www.ifez.go.kr)
+- **Beginner notes:** In Central Park. Architecturally artificial, photographically excellent — the hanok-and-skyscraper shot is the Songdo cliché for a reason.
+
+### 166) 🏢 Songdo Convensia (송도컨벤시아) — 🔁 by event
+- **What:** Incheon's international convention centre in Songdo, host of major expos, K-pop concerts and international conferences year-round
+- **Hours:** By event; typically **10:00–18:00** for expos
+- **Price:** Varies by event
+- **Official source:** [songdoconvensia.com](https://www.songdoconvensia.com)
+- **Beginner notes:** Incheon Line 1 Campus Town or Central Park Station. **Check the November event calendar in October** — Convensia regularly hosts large weekend expos.
+
+### 167) 🎨 Tri-bowl (트라이볼) — 🔁 Tue–Sun (FREE)
+- **What:** An upside-down-bowl concert and exhibition hall floating on a water plaza in Songdo — one of Korea's more striking pieces of public architecture
+- **Hours:** Tue–Sun **10:00–18:00**; performances in the evening
+- **Price:** Exhibitions **FREE**; concerts ticketed
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [insiseol.or.kr](https://www.insiseol.or.kr)
+- **Beginner notes:** Incheon Line 1 Central Park Station Exit 3. Lit at night, and free to walk around.
+
+### 168) 🛍️ Triple Street Songdo (트리플스트리트) — 🔁 daily
+- **What:** A four-block open-air shopping street in Songdo — Korea's take on a European high street, with a large food hall and seasonal illumination
+- **Hours:** Daily **10:30–22:00**
+- **Price:** **FREE** entry
+- **Official source:** [triplestreet.co.kr](https://www.triplestreet.co.kr)
+- **Beginner notes:** Incheon Line 1 Technopark Station. **Winter illumination typically switches on in November** — worth checking.
+
+### 169) 🏬 Hyundai Premium Outlet Songdo (현대프리미엄아울렛 송도) — 🔁 daily
+- **What:** Large premium outlet mall in Songdo with a rooftop garden and a Songdo skyline view
+- **Hours:** Daily **10:30–21:00**
+- **Price:** **FREE** entry
+- **Official source:** [ehyundai.com](https://www.ehyundai.com)
+- **Beginner notes:** Incheon Line 1 Technopark Station + short walk. Practical if you want winter clothing at Korean outlet prices.
+
+### 170) 📚 Songdo Michuhol Library & Park (송도미추홀도서관) — 🔁 Tue–Sun (FREE)
+- **What:** Incheon's flagship public library with a lakeside reading room — a warm, quiet, free place to sit for an hour in Songdo
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [library.incheon.go.kr](https://www.library.incheon.go.kr)
+- **Beginner notes:** Incheon Line 1 Central Park Station. Wi-Fi, power sockets and a view — an underrated rainy-day option.
+
+### 171) 🌉 Incheon Bridge Observation Point (인천대교 전망) — 🔁 daily (FREE)
+- **What:** Korea's longest bridge (21.4 km) linking Songdo to the airport island — viewable from the Songdo waterfront and the Incheon Bridge Memorial Hall
+- **Hours:** Viewpoints always open
+- **Price:** **FREE** to view; toll applies if driving across
+- **Official source:** [incheonbridge.com](https://www.incheonbridge.com)
+- **Beginner notes:** Best at sunset from the Songdo Waterfront Park side. Crossing it on the airport bus is free entertainment in itself.
+
+### 172) 🍗 Sinpo International Market & Dakgangjeong (신포국제시장) — 🔁 daily
+- **What:** Incheon's historic market, open since the 1890s foreign settlement — and the birthplace of **dakgangjeong**, Korea's sweet-and-spicy fried chicken
+- **Hours:** Roughly **09:00–20:00** (some stalls closed 2nd & 4th Sunday)
+- **Price:** Dakgangjeong from **₩12,000**; most snacks under ₩5,000
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Line 1 Dongincheon Station Exit 3. The dakgangjeong queue is long and worth it; also try the *gonggalppang* hollow bread.
+
+### 173) 🏪 Bupyeong Underground Shopping Mall (부평지하상가) — 🔁 daily
+- **What:** **Guinness-recognised as the world's largest underground shopping centre by number of shops** — 1,400+ stores in a subterranean grid under Bupyeong
+- **Hours:** Daily roughly **10:30–21:30**
+- **Price:** **FREE** to browse
+- **Official source:** [Bupyeong-gu](https://www.icbp.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Line 1/Incheon Line 1 Bupyeong Station. Genuinely disorienting — download the map. Cheapest clothing and accessories in the metro area.
+
+### 174) 🎪 Bupyeong Culture Street & Live Music (부평문화의거리) — 🔁 daily
+- **What:** The pedestrian street above the underground mall — Incheon's busiest nightlife and busking district, with a jazz heritage from the US base years
+- **Hours:** Shops **11:00–22:00**; bars later
+- **Price:** **FREE** to walk
+- **Official source:** [icbp.go.kr](https://www.icbp.go.kr)
+- **Beginner notes:** Line 1 Bupyeong Station Exit 3. Incheon has a real jazz history — the American bases here created Korea's first jazz scene.
+
+### 175) 🐟 Yeonan Pier Fish Market (연안부두 종합어시장) — 🔁 daily
+- **What:** Incheon's big working fish market at the coastal ferry terminal — Yellow Sea blue crab, shrimp and flatfish, cheaper than Seoul by a wide margin
+- **Hours:** Roughly **05:00–20:00**
+- **Price:** **FREE** to browse
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [Incheon Port Authority](https://www.icpa.or.kr)
+- **Beginner notes:** Bus from Line 1 Dongincheon. **November is blue-crab and shrimp season** on the Yellow Sea — this is the place to eat them.
+
+### 176) 🦐 Sorae Pogu Fish Market (소래포구 종합어시장) — 🔁 daily
+- **What:** The most atmospheric fish market in the metro area — a former salt-trade harbour with an old rail bridge, mudflats and tanks of live crab and shrimp
+- **Hours:** Roughly **06:00–21:00**
+- **Price:** **FREE** to browse; grilling fee ~₩5,000 pp
+- **Official source:** [Namdong-gu](https://www.namdong.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Suin-Bundang Line Soraepogu Station Exit 2. **Autumn is peak season for *daeha* prawns** — buy them live and have them salt-grilled on the spot.
+
+### 177) 🌾 Sorae Ecology Park & Salt Farm (소래습지생태공원) — 🔁 Tue–Sun (FREE)
+- **What:** A restored salt farm and tidal wetland with wooden windmills, salt pans and a bird observatory — **November brings the migratory waders and the red *sea blite* flats**
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [Namdong-gu](https://www.namdong.go.kr)
+- **Beginner notes:** Suin-Bundang Line Soraepogu Station. Walk the park, then eat at the fish market — that's the standard local Sunday.
+
+### 178) 🌳 Incheon Grand Park (인천대공원) — 🔁 daily (FREE)
+- **What:** Incheon's biggest park at the foot of Gwanmosan — a botanical garden, a zoo, a cycling loop and one of the metro area's best maple avenues
+- **Hours:** Park **05:00–23:00**; zoo **09:00–18:00**
+- **Price:** Park **FREE**; zoo small charge; bike hire from ₩3,000/h
+- **Official source:** [grandpark.incheon.go.kr](https://www.incheon.go.kr/grandpark)
+- **Beginner notes:** Incheon Line 2 Incheon Grand Park Station. **The maple avenue peaks in early-to-mid November** — one of the best foliage walks in the metro area.
+
+### 179) 🌲 Incheon Arboretum & Gwanmosan Trail — 🔁 Tue–Sun (FREE)
+- **What:** The arboretum inside Incheon Grand Park, plus the hiking trail up 216 m Gwanmosan for a view over the city and the sea
+- **Hours:** Arboretum Tue–Sun **09:00–18:00**; trail always open
+- **Price:** **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Same station as Incheon Grand Park. An easy hour up and back with a genuine payoff view.
+
+### 180) 🎠 Wolmi Culture Village & Incheon Chinatown Night Lighting — 🔁 nightly (FREE)
+- **What:** The Chinatown gates, mural street and Jayu Park steps are lit after dark — a much quieter and prettier version of the daytime crowd
+- **Hours:** Lighting roughly **sunset–23:00**
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Line 1 Incheon Station. Most day-trippers leave by 18:00 — the evening is the good version.
+
+### 181) 🖌️ Korea Manhwa Museum (한국만화박물관) — 🔁 Tue–Sun
+- **What:** Korea's national comics museum (in neighbouring Bucheon, on the Incheon line) — the history of *manhwa* and *webtoon*, plus a 30,000-volume open reading library
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mondays)
+- **Price:** Adult **₩5,000**; youth ₩3,000
+- **Official source:** [komacon.kr](https://www.komacon.kr)
+- **Beginner notes:** Line 7 Sanggok Station or Bucheon. Korea invented the vertical-scroll webtoon — this is where that story is told.
+
+### 182) 🎨 Paradise Art Space (파라다이스 아트 스페이스) — 🔁 daily (FREE)
+- **What:** The free contemporary art gallery inside Paradise City near the airport — Damien Hirst, Yayoi Kusama, Jeff Koons and Alessandro Mendini works on public display
+- **Hours:** Daily roughly **10:00–19:00**
+- **Price:** **FREE**
+- **Official source:** [p-city.com](https://www.p-city.com)
+- **Beginner notes:** Maglev from Incheon Airport T1 to Paradise City Station. A genuinely serious art collection, free, next to an airport — a brilliant layover option.
+
+### 183) 🚝 Incheon Airport Maglev Line (인천공항 자기부상철도) — 🔁 daily (FREE)
+- **What:** Korea's only urban maglev — a free 6.1 km magnetically levitated train from Terminal 1 to Yongyu, serving Paradise City and the water park
+- **Hours:** Roughly **09:00–18:00**, every 15 min
+- **Price:** **FREE**
+- **Official source:** [airport.kr](https://www.airport.kr)
+- **Beginner notes:** Board at Incheon Airport T1, level B1. A free maglev ride is a curiosity worth 20 minutes on a layover.
+
+### 184) 🏖️ Eurwangni Beach (을왕리해수욕장) — 🔁 daily (FREE)
+- **What:** The best-known beach on Yeongjong Island, 15 minutes from the airport — a west-coast beach whose whole point is the **sunset over the Yellow Sea**
+- **Hours:** Always open; **sunset ~17:20 in November**
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Bus 302/306 from the airport. The classic Korean move is a late-afternoon layover trip out here for the sunset and grilled clams.
+
+### 185) 🏝️ Wangsan & Masian Beach, Yeongjongdo — 🔁 daily (FREE)
+- **What:** The two quieter beaches next to Eurwangni — Wangsan has a marina, Masian has the widest mudflat at low tide
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Bus from the airport or Unseo Station. **Check the tide table** — at low tide the water is 1 km away, which is its own attraction.
+
+### 186) 🚲 Yeongjong Sea Side Rail Bike (영종씨사이드 레일바이크) — 🔁 daily
+- **What:** A 5.6 km pedal-powered rail bike along the Yeongjong coast with sea views the whole way
+- **Hours:** Daily roughly **09:00–17:00** (Nov)
+- **Price:** 2-seater **₩30,000**; 4-seater **₩40,000**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Bus from Unseo Station. Book ahead on weekends. Cold and windy in November — dress for it.
+
+### 187) 🏝️ Muuido Island & Hanagae Beach (무의도) — 🔁 daily
+- **What:** The island south of the airport, now reachable by road bridge — Hanagae Beach, the Silmido causeway and a coastal ridge trail
+- **Hours:** Always open; ferry to Silmido tide-dependent
+- **Price:** Beach entry small charge in season; **FREE** in November
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Bus 2-1 from Incheon Airport T1. The Silmido causeway only appears at low tide — check the tide table before going.
+
+### 188) 🌊 Silmido Island (실미도) — 🔁 tide-dependent (FREE)
+- **What:** The island of the notorious 1968 Unit 684 training camp and the film it inspired — reachable **on foot across a sand causeway at low tide only**
+- **Hours:** Accessible around low tide; check tide tables
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr) · [Korea Hydrographic and Oceanographic Agency](https://www.khoa.go.kr)
+- **Beginner notes:** From Muuido. **Getting the tide wrong strands you for six hours** — check khoa.go.kr, and turn back when the water starts returning.
+
+### 189) 🏯 Ganghwado Jeondeungsa Temple (전등사) — 🔁 daily
+- **What:** Korea's oldest continuously operating temple site, inside the walls of the legendary Samnangseong fortress — founded in 381 AD
+- **Hours:** Daily roughly **08:00–18:00**
+- **Price:** Adult **₩4,000**
+- **Official source:** [jeondeungsa.org](http://www.jeondeungsa.org) · [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** Bus 3000 from Sinchon or Ganghwa terminal. **Mid-November foliage inside the fortress walls is excellent.** Templestay available.
+
+### 190) 🛡️ Gwangseongbo Fortress (광성보) — 🔁 daily
+- **What:** The riverside fort where Korean troops fought the 1871 American expedition to the last man — restored gun batteries along the Yeomha channel
+- **Hours:** Daily **09:00–18:00** (Nov: last entry 17:00)
+- **Price:** Adult **₩1,100**
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Bus from Ganghwa terminal. One of a chain of forts along the channel — Chojijin and Deokjinjin are on the same road.
+
+### 191) 🔭 Ganghwa Peace Observatory (강화평화전망대) — 🔁 Tue–Sun
+- **What:** An observatory 2.3 km from **North Korea** across the Han estuary — telescopes onto North Korean villages and fields, with a unification exhibition
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays; last entry 17:00)
+- **Price:** Adult **₩2,500**
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** Bus from Ganghwa terminal. **Bring your passport** — there's a military checkpoint on the approach road. Closer to the North than Imjingak.
+
+### 192) 🧘 Bomunsa Temple, Seongmodo (보문사) — 🔁 daily
+- **What:** One of Korea's three great Buddhist prayer sites, on Seongmodo island — a 10 m Buddha carved into the cliff, up 419 steps, facing the Yellow Sea sunset
+- **Hours:** Daily roughly **07:00–18:30**
+- **Price:** Adult **₩2,000**
+- **Official source:** [bomunsa.or.kr](http://www.bomunsa.or.kr) · [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** Bus to Oepo-ri, then the Seongmodo bridge bus. The 419 steps are real, but the cliff Buddha and sea view justify them.
+
+### 193) 🪨 Ganghwa Dolmen Site — UNESCO (강화 고인돌) — 🔁 daily (FREE)
+- **What:** UNESCO World Heritage prehistoric dolmens — including the enormous Bugeun-ri table dolmen, one of the largest in the world, next to the history museum
+- **Hours:** Site always open; Ganghwa History Museum Tue–Sun **09:00–18:00**
+- **Price:** Dolmen site **FREE**; museum ₩3,000
+- **Official source:** [UNESCO](https://whc.unesco.org/en/list/977) · [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** Bus from Ganghwa terminal. Korea has roughly **40% of all the dolmens on Earth** — this is the flagship site.
+
+### 194) 🧵 Ganghwa Hwamunseok & Textile Museum (강화화문석·소창체험관) — 🔁 Tue–Sun
+- **What:** Ganghwa's two craft traditions — *hwamunseok* patterned sedge mats (a royal tribute good) and the cotton mills that clothed post-war Korea
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE** to ₩2,000; workshops extra
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** In Ganghwa town. The cotton-mill experience hall is in a working former mill and does hands-on weaving.
+
+### 195) 🌾 Ganghwa Ssuk (Mugwort) & Local Market — 🔁 daily
+- **What:** Ganghwa's five-day market and its famous mugwort, ginseng and *sunmu* turnip — a proper rural Korean market an hour from Seoul
+- **Hours:** Permanent market daily; **five-day market on dates ending 2 and 7**
+- **Price:** **FREE** to browse
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** Ganghwa bus terminal. Time your visit for a 2 or 7 date and you get the full five-day market.
+
+### 196) ✈️ Incheon Airport Cultural Programmes & Transit Tours — 🔁 daily (FREE)
+- **What:** ICN runs free traditional performances, a Korean Cultural Street, museums airside and **free transit tours** for passengers with 5+ hour layovers
+- **Hours:** Cultural performances several times daily; transit tours **07:00–17:00** departures
+- **Price:** **FREE**
+- **Official source:** [airport.kr](https://www.airport.kr)
+- **Beginner notes:** Sign up at the Transit Tour desk in the transit area. The 1-hour Chinatown and 5-hour Seoul city tours are genuinely free — you just pay for food.
+
+### 197) 🛏️ Incheon Airport Free Spa, Nap Zones & Sky Deck — 🔁 24 h (FREE)
+- **What:** ICN's free passenger facilities — shower rooms, nap zones, a free spa area, a rooftop sky deck, a library and an indoor garden
+- **Hours:** **24 h**
+- **Price:** Most facilities **FREE**; premium spa lounges charged
+- **Official source:** [airport.kr](https://www.airport.kr)
+- **Beginner notes:** Consistently voted the world's best airport for a reason. Useful for an early departure on Nov 22.
+
+### 198) 🎢 Paradise City Wonderbox & Cimer Spa — 🔁 daily
+- **What:** The indoor European-carnival theme park and the Cimer thermal spa inside Paradise City, both open to non-hotel guests
+- **Hours:** Wonderbox roughly **11:00–20:00**; Cimer **10:00–21:00**
+- **Price:** Wonderbox from **₩35,000**; Cimer from **₩50,000**
+- **Official source:** [p-city.com](https://www.p-city.com) · [cimer.kr](https://www.cimer.kr)
+- **Beginner notes:** Free maglev from Terminal 1. Cimer's outdoor heated pools in cold November air are the correct move.
+
+### 199) ⚽ K League — Incheon United home fixtures (인천유나이티드) — 👀 WATCH — season ending
+- **What:** Incheon United at Sungui Arena Park, one of Korea's few purpose-built football-only stadiums with steep, close stands. **The K League season ends in late November**
+- **Hours:** Kick-off typically **14:00/16:00** at weekends in November
+- **Price:** Tickets **₩12,000–₩25,000**
+- **Official source:** [incheonutd.com](https://www.incheonutd.com) · [kleague.com](https://www.kleague.com)
+- **Beginner notes:** Line 1 Dowon Station, 5-min walk. Final-round fixtures are confirmed only a few weeks ahead — check kleague.com in late October.
+
+### 200) 🏟️ Incheon Munhak Stadium & Landers Field (인천문학경기장) — 🔁 by event
+- **What:** The 2002 World Cup stadium and the adjacent SSG Landers baseball park. **KBO baseball finishes before November**, but the complex hosts concerts and events
+- **Hours:** By event
+- **Price:** Varies
+- **Official source:** [ssglanders.com](https://www.ssglanders.com) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Incheon Line 1 Munhak Sportscomplex Station. Check for November concerts — the stadium is a regular large-scale venue.
+
+### 201) 🏀 KBL Basketball — Incheon-area home games — ✅ CONFIRMED — season running
+- **What:** The Korean Basketball League runs through the winter, so there are **guaranteed November games** in the Seoul–Incheon metro area
+- **Hours:** Tip-off typically **19:00** weekdays, **14:00/16:00** weekends
+- **Price:** Tickets **₩8,000–₩30,000**
+- **Official source:** [kbl.or.kr](https://www.kbl.or.kr)
+- **Beginner notes:** Check the KBL fixture list for the nearest home game. Indoor, cheap and reliable in cold weather.
+
+### 202) 🚴 Ara Waterway Cycle Path (아라뱃길 자전거길) — 🔁 daily (FREE)
+- **What:** The 21 km canal cycle path from the Yellow Sea at Jeongseojin to the Han River — flat, separated and part of Korea's national bike-certification route
+- **Hours:** Always open
+- **Price:** **FREE**; bike hire from ₩10,000/day
+- **Official source:** [Korea Water Resources Corporation](https://www.kwater.or.kr) · [Bike Korea passport](https://www.riverguide.go.kr)
+- **Beginner notes:** Start at Incheon Line 2 Geomdan Oryu Station. You can get a stamp in the national bicycle passport at the certification booths.
+
+### 203) 🌅 Jeongseojin Sunset & Ara Sea Lock (정서진) — 🔁 daily (FREE)
+- **What:** The westernmost point on the same latitude as Seoul's Gwanghwamun — a designated sunset landmark with a lighthouse-shaped monument at the canal mouth
+- **Hours:** Always open; **sunset ~17:20 in November**
+- **Price:** **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [Seo-gu](https://www.seo.incheon.kr)
+- **Beginner notes:** Incheon Line 2 Geomdan Oryu + bus. Korea has Jeongdongjin for sunrise on the east coast; **Jeongseojin is its sunset counterpart**.
+
+### 204) 🧂 Incheon Salt Museum & Sorae Salt Farm History — 🔁 Tue–Sun (FREE)
+- **What:** A small museum in the old Sorae salt works on how Korea's west-coast solar salt was made — the industry that built this coastline
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [Namdong-gu](https://www.namdong.go.kr)
+- **Beginner notes:** In Sorae Ecology Park. Korean *cheonilyeom* solar salt is a premium export product — this explains why.
+
+### 205) 🚋 Incheon Subway Line 2 & the Wolmi Loop day pass — 🔁 daily
+- **What:** Incheon's driverless Line 2 crosses the whole city; combined with Line 1 and the Suin-Bundang Line it reaches every attraction in this file
+- **Hours:** Roughly **05:30–24:00**
+- **Price:** Single fares from **₩1,400**; T-money accepted
+- **Official source:** [ictr.or.kr](https://www.ictr.or.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Seoul's T-money works throughout. Line 2 trains are unstaffed — sit at the front window for the driver's view.
+
+### 206) 🍚 Incheon Hwadojin & Sinpo Chicken, Coast Cafes — 🔁 daily
+- **What:** The coastal cafe and restaurant strip along the Incheon shoreline — sea-view cafes at Yeongjong and the Songdo waterfront
+- **Hours:** Most **10:00–22:00**
+- **Price:** Coffee **₩5,000–₩8,000**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** The Yeongjong-side cafes look straight at the Incheon Bridge and the airport approach path — good plane-spotting.
+
+### 207) 🛫 Incheon Airport Sky72 & Aviation Viewpoints — 🔁 daily (FREE)
+- **What:** Public viewpoints around the airport perimeter for watching landings over the Yellow Sea — plus the airport's own observation decks
+- **Hours:** Always open; terminal decks roughly **07:00–21:00**
+- **Price:** **FREE**
+- **Official source:** [airport.kr](https://www.airport.kr)
+- **Beginner notes:** One of the world's busiest airports, and free to watch. The T1 4th-floor deck is the easiest access.
+
+### 208) 🎏 Incheon City Tour Bus (인천시티투어) — 🔁 Tue–Sun
+- **What:** The official hop-on-hop-off city tour with themed routes covering Chinatown, the Open Port, Songdo, Wolmido and the Ganghwa heritage sites
+- **Hours:** Tue–Sun, roughly **09:30–17:30**
+- **Price:** 1-day pass adult **₩10,000–₩15,000** depending on route
+- **Official source:** [itourtv.com](https://www.itourtv.com) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Departs Incheon Station. The Ganghwa route is the one that's genuinely hard to replicate on public transport.
+
+### 209) 🌃 Incheon Songdo Night Skyline & Northeast Asia Trade Tower — 🔁 daily
+- **What:** Korea's 5th-tallest building (305 m) anchoring the Songdo skyline, with an observation deck and sky restaurants
+- **Hours:** Observation deck roughly **10:00–20:00**
+- **Price:** Deck **₩10,000–₩15,000**; the Central Park view is free
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [IFEZ](https://www.ifez.go.kr)
+- **Beginner notes:** Incheon Line 1 International Business District Station. The free view from Central Park at night is arguably the better photograph.
+
+### 210) 🎇 Incheon Pentaport & Songdo festival grounds — off-season — 👀 WATCH
+- **What:** Songdo's Moonlight Festival Park and the Pentaport grounds host outdoor events through the year; the big rock festival itself is summer
+- **Hours:** By event
+- **Price:** Varies; many city events **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [pentaportrock.com](https://www.pentaportrock.com)
+- **Beginner notes:** Check the Incheon city event calendar in October for November weekend programmes at the Songdo festival grounds.
+
+### 211) 🧗 Gyeyangsan Mountain & Paragliding (계양산) — 🔁 daily (FREE)
+- **What:** Incheon's highest peak at 395 m — an easy 90-minute climb with a view over the whole city to the sea, and a paragliding launch site
+- **Hours:** Always open
+- **Price:** Hiking **FREE**; tandem paragliding from ₩100,000
+- **Official source:** [Gyeyang-gu](https://www.gyeyang.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Incheon Line 1 Gyeyang Station + bus. The best cheap panorama of Incheon, and busy with local hikers at weekends.
+
+### 212) 🍂 Incheon Autumn Foliage — Jayu Park & Grand Park peak week — ✅ CONFIRMED — peak early-to-mid Nov
+- **What:** Incheon's foliage peaks slightly **later than Seoul** because of the maritime climate — Jayu Park, Incheon Grand Park and Jeondeungsa are the three best sites
+- **Hours:** Daylight hours; peak typically **Nov 5–15**
+- **Price:** **FREE**
+- **Official source:** [Korea Forest Service foliage forecast](https://www.forest.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** The Korea Forest Service publishes a national foliage-peak map each autumn — check it in late October to time this precisely.
+
+---
+
+## 🆕 More verified Incheon events & activities (expansion set)
+
+**Second expansion batch** — islands, Ganghwa heritage, new-town Songdo/Cheongna, seasonal November food and practical services.
+
+### 213) 🏛️ Incheon Metropolitan Museum of Art / Incheon Culture & Arts Centre (인천문화예술회관) — 🔁 by event
+- **What:** Incheon's main concert hall and exhibition complex — the home stage of the **Incheon Philharmonic Orchestra**, with a full autumn concert season
+- **Hours:** Box office **09:00–18:00**; performances usually **19:30**
+- **Price:** Concerts **₩10,000–₩50,000**; exhibitions often FREE
+- **Official source:** [iacc.or.kr](https://www.iacc.or.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Incheon Line 1 Arts Center Station. The city orchestra plays here most months — cheaper than equivalent Seoul tickets.
+
+### 214) 🎻 Incheon Philharmonic Orchestra — November season — 👀 WATCH
+- **What:** The city's professional symphony orchestra, with regular subscription concerts at the Culture & Arts Centre through the autumn
+- **Hours:** Typically Friday **19:30**
+- **Price:** **₩10,000–₩40,000**
+- **Official source:** [iacc.or.kr](https://www.iacc.or.kr)
+- **Beginner notes:** The November programme is published on the venue site about six weeks ahead. Student/senior discounts available.
+
+### 215) 🏛️ Incheon City Hall & Michuhol Tower Observatory — 🔁 weekdays (FREE)
+- **What:** The city government complex in Guwol-dong with a free public observation floor over central Incheon
+- **Hours:** Weekdays **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Incheon Line 1 Incheon City Hall Station. Weekdays only, and quiet — a free alternative if G-Tower is closed.
+
+### 216) 🛍️ Guwol-dong Rodeo Street (구월동 로데오거리) — 🔁 daily
+- **What:** Incheon's main downtown shopping and eating district around the city hall — the local equivalent of Gangnam station, with a young crowd
+- **Hours:** Shops **11:00–22:00**; bars later
+- **Price:** **FREE** to walk
+- **Official source:** [Namdong-gu](https://www.namdong.go.kr)
+- **Beginner notes:** Incheon Line 1 Incheon City Hall Station Exit 4. Where Incheon residents actually go out, rather than Chinatown.
+
+### 217) 🍲 Sinpo Market Fried Chicken vs Bupyeong Fried Chicken — 🔁 daily
+- **What:** Incheon's two rival fried-chicken traditions — Sinpo's sweet-garlic *dakgangjeong* and Bupyeong's newer alley shops
+- **Hours:** Roughly **11:00–22:00**
+- **Price:** A whole chicken **₩12,000–₩20,000**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr) · [icbp.go.kr](https://www.icbp.go.kr)
+- **Beginner notes:** Dakgangjeong travels well cold — buy a box for the train back to Seoul.
+
+### 218) 🐄 Incheon Sinpo Dak-gangjeong & Hwadojin Park Waterfront — 🔁 daily (FREE)
+- **What:** The restored waterfront park at Hwadojin, site of an 1879 coastal battery, now a walking park facing the inner harbour
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [Incheon Dong-gu](https://www.icdonggu.go.kr)
+- **Beginner notes:** Line 1 Dongincheon Station. A quiet 20-minute walk that most visitors never find.
+
+### 219) 🚢 Incheon Port 1st & 8th Wharf Redevelopment Walk — 🔁 daily (FREE)
+- **What:** The opened-up sections of Incheon's inner port — grain silos turned into the world's largest mural, warehouses turned into public space
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [Incheon Port Authority](https://www.icpa.or.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Near Incheon Station. The **Guinness-recognised silo mural** (about 22 storeys tall) is genuinely startling in person.
+
+### 220) ⛴️ Incheon Coastal Ferry Terminal — West Sea islands — 🔁 daily
+- **What:** Departures to Deokjeokdo, Jawoldo, Yeongheungdo and the far Baengnyeongdo — Korea's Yellow Sea island network starts here
+- **Hours:** Sailings roughly **08:00–17:00**, weather-dependent
+- **Price:** Deokjeokdo return from **₩45,000**
+- **Official source:** [Incheon Port Authority](https://www.icpa.or.kr)
+- **Beginner notes:** **Foreign passengers need their passport** to board domestic ferries. November seas can cancel sailings — check the morning of.
+
+### 221) 🏝️ Yeongheungdo & Seonjaedo Islands (영흥도·선재도) — 🔁 daily (FREE)
+- **What:** Two islands reachable **by road bridge** from the mainland — pine-backed beaches, mudflat clam digging and the tidal 'Mopil' island road
+- **Hours:** Always open
+- **Price:** **FREE**; parking charges apply
+- **Official source:** [Ongjin-gun](https://www.ongjin.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Bus 790 from Oido Station. No ferry needed — the easiest 'island' day trip from the metro area.
+
+### 222) 🏝️ Deokjeokdo Island (덕적도) — 🔁 daily
+- **What:** The largest of Incheon's outer islands — Seopori Beach, a pine forest ridge walk and near-total quiet in the off season
+- **Hours:** Ferry ~1 h 10 min by fast boat
+- **Price:** Return ferry from **₩45,000**
+- **Official source:** [Ongjin-gun](https://www.ongjin.go.kr) · [Incheon Port Authority](https://www.icpa.or.kr)
+- **Beginner notes:** Overnight is better than a day trip. **Passport required** to board. November is cold but empty and beautiful.
+
+### 223) 🌊 Incheon Mudflat (Getbol) Walk — UNESCO listed coast — 🔁 tide-dependent (FREE)
+- **What:** Korea's Yellow Sea tidal flats are a **UNESCO World Heritage site**; the Incheon coast has accessible sections at Sorae, Yeongjong and Seonjaedo
+- **Hours:** Low tide only — check tide tables
+- **Price:** **FREE**; guided programmes from ₩5,000
+- **Official source:** [UNESCO Getbol listing](https://whc.unesco.org/en/list/1591) · [khoa.go.kr tide tables](https://www.khoa.go.kr)
+- **Beginner notes:** Wear boots you can hose down. **Always check the tide table and never walk out on a rising tide.**
+
+### 224) 🦆 Ganghwa Estuary Bird Watching — winter migrants — ✅ CONFIRMED — Nov arrival season
+- **What:** The Han estuary is a major East Asian flyway stopover; **November is when the swans, geese and cranes arrive** from Siberia
+- **Hours:** Daylight hours
+- **Price:** **FREE**
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr) · [National Institute of Biological Resources](https://www.nibr.go.kr)
+- **Beginner notes:** Best from the Ganghwa Peace Observatory area and Donggeom-do. Bring binoculars — nothing is rented on site.
+
+### 225) 🏯 Ganghwa Goryeo Palace Site & Ganghwa Anglican Church — 🔁 daily
+- **What:** The site of the exile capital where the Goryeo court held out against the Mongols (1232–70), plus Korea's oldest Anglican church (1900), built as a **hanok**
+- **Hours:** Roughly **09:00–18:00**
+- **Price:** Palace site **₩900**; church FREE
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** In Ganghwa town, walkable from the bus terminal. A Christian church built as a Confucian-style hanok is a genuine oddity.
+
+### 226) 📖 Ganghwa Tripitaka Koreana Connection & History Museum — 🔁 Tue–Sun
+- **What:** The **original Tripitaka Koreana woodblocks were carved on Ganghwa** during the Mongol invasions; the island's history museum tells that story
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** Adult **₩3,000**
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** Next to the UNESCO dolmen site. The blocks themselves are now at Haeinsa, but this is where they were made.
+
+### 227) 🥾 Ganghwa Nadeul-gil Trail (강화나들길) — 🔁 daily (FREE)
+- **What:** A 310 km network of 20 waymarked walking courses around Ganghwa Island — coastline, dyke paths, fortresses and rice fields
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr) · [Korea Trails](https://www.koreatrails.or.kr)
+- **Beginner notes:** Course 1 (Simdo History Trail, 18 km) from Ganghwa terminal is the classic. Maps at the tourist information centre.
+
+### 228) ♨️ Ganghwa Seokmodo Mineral Hot Spring (석모도미네랄온천) — 🔁 daily
+- **What:** An open-air seawater mineral hot spring on Seokmodo, **facing the Yellow Sea sunset** — outdoor pools right at the shoreline
+- **Hours:** Daily roughly **07:00–19:00**
+- **Price:** Adult **₩9,000**
+- **Official source:** [Ganghwa-gun](https://www.ganghwa.go.kr)
+- **Beginner notes:** Over the Seokmodo bridge. Sitting in a hot outdoor pool in cold November air watching the sun set into the sea is the whole point.
+
+### 229) 🍚 Ganghwa Jeondeungsa Temple Food & Templestay — 🔁 daily
+- **What:** Temple cuisine and overnight templestay at Jeondeungsa, inside the Samnangseong fortress walls — meditation, a 04:00 service and forest walking
+- **Hours:** Templestay check-in typically **15:00**
+- **Price:** Templestay from **₩70,000** per night
+- **Official source:** [templestay.com](https://www.templestay.com) · [jeondeungsa.org](http://www.jeondeungsa.org)
+- **Beginner notes:** English-language programmes must be booked through templestay.com in advance. An hour and a half from Seoul.
+
+### 230) 🍜 Incheon Chinatown Gonggalppang & Bakery Row — 🔁 daily
+- **What:** The hollow *gonggalppang* bread, walnut cakes, moon cakes and hand-pulled candy of the Chinatown bakeries
+- **Hours:** Roughly **10:00–20:00**
+- **Price:** **₩3,000–₩8,000** a bag
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Buy gonggalppang hot — it's a hollow crisp shell and goes soft within an hour.
+
+### 231) 🎋 Incheon Chinese Cultural Centre & Confucius Statue — 🔁 Tue–Sun (FREE)
+- **What:** The cultural centre in Chinatown with calligraphy, tea ceremony and Chinese-Korean history exhibits, plus the Confucius statue on the main gate street
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Free tea tasting is often running. The 140-year Chinese-Korean community story is unique in Korea.
+
+### 232) 🏫 Incheon Uhyeondang & Former Japanese Consulate Buildings — 🔁 daily (FREE)
+- **What:** The surviving Japanese, Chinese and Western consulate and merchant buildings of the 1883 treaty port, along the 'Modern Architecture Street'
+- **Hours:** Exteriors always open; interiors Tue–Sun **09:00–18:00**
+- **Price:** Exteriors **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** The stone steps dividing the old Chinese and Japanese settlements are still there — Korea's clearest surviving colonial-era street plan.
+
+### 233) 🎨 Incheon Art Platform November Exhibitions & Open Studios — 👀 WATCH (FREE)
+- **What:** The Art Platform's resident artists open their studios and mount group shows in the autumn — check the exhibition calendar
+- **Hours:** Tue–Sun **11:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [inartplatform.kr](https://www.inartplatform.kr)
+- **Beginner notes:** Programme published a month ahead. Free, and the warehouses themselves are worth the visit regardless.
+
+### 234) 🎭 Incheon Traditional Performance at Jemulpo Gurakbu — 🔁 Tue–Sun (FREE)
+- **What:** The 1901 **Jemulpo Club**, Korea's first Western social club, restored as a museum with period costume and occasional live performances
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** On the Jayu Park slope. Korea's first billiard table was installed here — it's still on display.
+
+### 235) 🚉 Incheon Station & Korea's First Railway (경인선) — 🔁 daily (FREE)
+- **What:** Korea's **first railway line** opened Noryangjin–Jemulpo in 1899; Incheon Station is its terminus, with a monument and displays
+- **Hours:** Always open
+- **Price:** **FREE**; Line 1 fares from ₩1,400
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Line 1 terminus. Everything in Chinatown is at Exit 1 — the station itself is the historical marker.
+
+### 236) 🏞️ Cheongna Lake Park & Cheongna Canal (청라호수공원) — 🔁 daily (FREE)
+- **What:** The new-town lake park in Cheongna with a **musical fountain**, a 4 km canal walk and lit night promenades
+- **Hours:** Park always open; fountain shows evenings
+- **Price:** **FREE**
+- **Official source:** [IFEZ](https://www.ifez.go.kr) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Incheon Line 2 + bus, or the airport rail to Cheongna International City Station. Quiet, well-designed and free.
+
+### 237) 🌸 Incheon Wolmi Traditional Garden (월미전통정원) — 🔁 daily (FREE)
+- **What:** A free reconstruction of Korean royal, aristocratic and folk gardens inside Wolmi Park — pavilions, ponds and a Joseon-style vegetable plot
+- **Hours:** Daily **09:00–18:00** (Nov)
+- **Price:** **FREE**
+- **Official source:** [Incheon Jung-gu tourism](https://www.icjg.go.kr)
+- **Beginner notes:** Beautiful in autumn colour and almost empty. Five minutes uphill from the Wolmido seafront crowds.
+
+### 238) 🍢 Yeonan Pier Crab & Shrimp Season Dining — ✅ CONFIRMED — Nov peak
+- **What:** **November is peak Yellow Sea season** for *daeha* prawns, blue crab and *jeoneo* gizzard shad — bought live at the market and cooked in the upstairs restaurants
+- **Hours:** Market **05:00–20:00**; restaurants to **22:00**
+- **Price:** Salt-grilled prawns from **₩30,000** per kg
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [Incheon Port Authority](https://www.icpa.or.kr)
+- **Beginner notes:** Buy downstairs, pay a small cooking fee upstairs. This is the cheapest good seafood within an hour of Seoul.
+
+### 239) 🧊 Incheon Winter Illumination & Christmas Markets — 👀 WATCH (mid-Nov onwards)
+- **What:** Songdo Triple Street, Cheongna Lake Park and Bupyeong typically switch on their winter lighting from **mid-to-late November**
+- **Hours:** Roughly **17:30–23:00** once lit
+- **Price:** **FREE**
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr) · [triplestreet.co.kr](https://www.triplestreet.co.kr)
+- **Beginner notes:** Switch-on dates are announced in early November. Worth a check if you're here in the last week of the trip.
+
+### 240) 🎿 Incheon Airport Ice Rink & Seasonal Rinks — 👀 WATCH (opens late Nov/Dec)
+- **What:** Outdoor seasonal rinks open across Incheon each winter, including at Songdo and Bupyeong — **most open from late November or December**
+- **Hours:** Typically **10:00–21:00** once open
+- **Price:** Around **₩1,000–₩5,000** per session including skates
+- **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Opening dates depend on temperature. Check the city site in mid-November if you want one before Nov 22.
+
+### 241) 🏊 Incheon Munhak & Public Sports Centres — 🔁 daily
+- **What:** Incheon's municipal sports centres offer cheap public swimming, gym and badminton sessions — a practical option on a rainy day
+- **Hours:** Roughly **06:00–21:00**
+- **Price:** Swim session **₩4,000–₩6,000**
+- **Official source:** [insiseol.or.kr](https://www.insiseol.or.kr)
+- **Beginner notes:** Bring your own cap — Korean pools require them and won't let you in without.
+
+### 242) 🗺️ Incheon Tourist Information Centres & Free Guided Walks — 🔁 daily (FREE)
+- **What:** Staffed information centres at Incheon Station, the airport and Songdo, several offering **free volunteer-guided walking tours** of the Open Port district
+- **Hours:** Roughly **09:00–18:00**
+- **Price:** **FREE**; guided walks free with advance booking
+- **Official source:** [itourtv.com](https://www.itourtv.com) · [incheon.go.kr](https://www.incheon.go.kr)
+- **Beginner notes:** Book English-language guided walks a few days ahead through the Incheon Tourism Organization site.
+
+---
+
 ## 🧭 Beginner-friendly essentials
 
 - **From Seoul:** Take AREX or Line 1 — both convenient. From **ICN airport**, paid buses to major Seoul hotels from ₩15,000; AREX Express ₩9,500 single trip

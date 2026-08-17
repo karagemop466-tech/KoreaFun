@@ -728,6 +728,718 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 
 ---
 
+## 🆕 More verified Busan events & activities (expansion set)
+
+*Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
+
+## 104) 🎆 21st Busan Fireworks Festival (부산불꽃축제) — ✅ CONFIRMED — Sat Nov 7, 2026 · Gwangalli Beach
+- **What:** Korea's biggest fireworks festival — an hour of multi-barge pyrotechnics fired along Gwangalli Beach and off Gwangan Bridge itself, with the bridge used as a 7.4 km set piece
+- **Hours:** Main show **~19:00–20:00**; viewing areas open **10:00**, paid-seat entry from **15:00**
+- **Price:** Standing on the beach **FREE**; R/S reserved seats sold from ~**Sep 1** via the official site
+- **Official source:** [busanfireworks.com](https://www.busanfireworks.com) · [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** **The single biggest event of your entire trip.** Expect 1M+ people; Gwangan Station will be one-way-controlled and the subway will run late. Free alternative viewpoints: **Igidae Park**, **Dongbaekseom**, **Hwangnyeongsan summit**, **Millak Waterside Park**. Arrive by 15:00 for a beach spot, or 17:00 for Igidae.
+
+## 105) 🎮 G-STAR 2026 — Korea's Game Show (지스타) — 👀 WATCH — mid-Nov 2026 · BEXCO
+- **What:** Asia's biggest game expo outside Tokyo — 3,000+ booths, esports stages, indie showcase and Korea's whole games industry in one hall. 2025 ran Nov 14–17, so the 2026 edition is expected in the same mid-November slot
+- **Hours:** Typically **10:00–18:00** over four days (trade day first)
+- **Price:** Typically **₩12,000–₩15,000** per day; pre-sale cheaper
+- **Official source:** [gstar.or.kr](https://www.gstar.or.kr) · [bexco.co.kr](https://www.bexco.co.kr)
+- **Beginner notes:** Line 2 BEXCO (Centum City) Station. **Dates not yet published for 2026** — check gstar.or.kr in September. If it lands mid-November it sits perfectly in your window.
+
+## 106) 🕯️ Turn Toward Busan Ceremony (턴 투워드 부산) — ✅ CONFIRMED — Nov 11, 2026 · 11:00
+- **What:** The worldwide minute of silence for UN Korean War dead, observed at **exactly 11:00 on Nov 11** at the UN Memorial Cemetery in Busan — the only UN cemetery in the world
+- **Hours:** Ceremony at **11:00**; cemetery open daily **09:00–17:00** (Nov)
+- **Price:** **FREE**
+- **Official source:** [unmck.or.kr](https://www.unmck.or.kr) · [Ministry of Patriots & Veterans Affairs](https://www.mpva.go.kr)
+- **Beginner notes:** Line 2 Daeyeon Station Exit 3, 15-min walk. Genuinely moving, and the cemetery grounds in autumn colour are beautiful. Attend even if you miss the 11:00 moment.
+
+## 107) 💡 Seomyeon Light Festival (서면 빛축제) — ✅ CONFIRMED — Nov 2026 – Feb 2027
+- **What:** Busan's downtown winter illumination along Seomyeon 1st Street — light tunnels, tree canopies and installations through the main shopping district
+- **Hours:** Nightly, roughly **18:00–24:00**
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Busanjin-gu](https://www.busanjin.go.kr)
+- **Beginner notes:** Line 1/2 Seomyeon Station. Usually switches on in early-to-mid November, so most of your trip should catch it. Zero planning needed — it's on your way to dinner.
+
+## 108) ✨ Millak Luce Festa (민락 루체페스타) — ✅ CONFIRMED — Nov 2026 – Jan 2027 (ref. Nov 1 – Jan 31)
+- **What:** Light festival on the Millak waterfront just east of Gwangalli — illuminated sea-front promenade facing Gwangan Bridge
+- **Hours:** Nightly **18:00–23:30**
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Suyeong-gu](https://www.suyeong.go.kr)
+- **Beginner notes:** Line 2 Gwangan Station. Walk Gwangalli Beach east to Millak — you get the bridge light show and the festa in one loop.
+
+## 109) 🎇 Busan Christmas Tree Festival build-up (부산크리스마스트리문화축제) — 👀 WATCH — installation from late Nov
+- **What:** The Gwangbok-ro festival itself starts in December, but the tree and light installations go up through **late November** — you may catch the build and the switch-on rehearsals
+- **Hours:** Installation period; lights typically on from **~18:00**
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Jung-gu](https://www.bsjunggu.go.kr)
+- **Beginner notes:** Line 1 Nampo Station. Worth a walk on Nov 20–22 to see whether the switch-on has happened early.
+
+## 110) 🏛️ Busan Museum (부산박물관) — 🔁 Tue–Sun (FREE)
+- **What:** The city's main history museum — Gaya and Silla artefacts, the Joseon Japan-trade waegwan, colonial Busan and the wartime capital years
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [museum.busan.go.kr](https://museum.busan.go.kr)
+- **Beginner notes:** Line 2 Daeyeon Station Exit 3 — same walk as the UN Cemetery. Do both in one morning.
+
+## 111) 🏺 Bokcheon Museum & Bokcheon-dong Tomb Park (복천박물관) — 🔁 Tue–Sun (FREE)
+- **What:** Museum built over an excavated Gaya-era tomb cluster — 169 tombs on the hill above, with a glass-roofed excavation shelter you can walk into
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [museum.busan.go.kr/bokcheon](https://museum.busan.go.kr/bokcheon)
+- **Beginner notes:** Line 1 Dongnae Station or Line 3 Suan. The open-air tomb park behind the museum is free and has a great city view.
+
+## 112) 🖼️ Busan Museum of Art (부산시립미술관) — 🔁 Tue–Sun (FREE)
+- **What:** The city art museum at Centum City, with the separate **Lee Ufan Space** — a dedicated building for Korea's most internationally significant living artist
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mondays)
+- **Price:** Permanent collection **FREE**; special exhibitions ticketed
+- **Official source:** [art.busan.go.kr](https://art.busan.go.kr)
+- **Beginner notes:** Line 2 Busan Museum of Art Station Exit 5. The Lee Ufan Space alone is worth the trip — a quiet, near-empty building of stone-and-steel works.
+
+## 113) 🎬 Busan Cinema Center — BIFF venue (영화의전당) — 🔁 daily
+- **What:** The architectural landmark of Busan — a 163 m cantilevered LED roof, the world's largest, over an outdoor cinema plaza. BIFF's home venue, screening films year-round
+- **Hours:** Building open daily; roof light show nightly around **19:00–21:00**; screenings throughout the day
+- **Price:** Roof light show **FREE**; films typically **₩7,000–₩10,000**
+- **Official source:** [dureraum.org](https://www.dureraum.org)
+- **Beginner notes:** Line 2 Centum City Station Exit 6. BIFF is October, but the Cinema Center runs an independent/classic programme all year and the roof at night is free.
+
+## 114) 🕰️ Busan Modern History Museum (부산근대역사관) — 🔁 Tue–Sun (FREE)
+- **What:** In the former Oriental Development Company building (later a US information centre) — the story of colonial Busan, the port, and the Korean War refugee city
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [modern.busan.go.kr](https://modern.busan.go.kr)
+- **Beginner notes:** Line 1 Jungang Station Exit 5. Small, free, and it explains almost everything you'll see in Nampo-dong.
+
+## 115) 🇰🇷 Provisional Capital Memorial Hall (임시수도기념관) — 🔁 Tue–Sun (FREE)
+- **What:** The house where President Syngman Rhee lived when **Busan was South Korea's capital (1950–53)** — preserved as it was, plus an exhibition hall on the refugee city
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [busan.go.kr/mtcapital](https://www.busan.go.kr/mtcapital)
+- **Beginner notes:** Line 1 Toseong Station Exit 2. The single best place to understand why Busan feels different from every other Korean city.
+
+## 116) 🏯 Busan Metropolitan City Yongdusan Park & Busan Tower (용두산공원·부산타워) — 🔁 daily
+- **What:** The 120 m tower on the hill above Nampo-dong, modelled on the Bulguksa Dabotap pagoda finial, with a 360° observation deck over the port
+- **Hours:** Daily **10:00–22:00**
+- **Price:** Observation deck adult **₩12,000**; park **FREE**
+- **Official source:** [busan.go.kr](https://www.busan.go.kr) · [Jung-gu tourism](https://www.bsjunggu.go.kr)
+- **Beginner notes:** Line 1 Nampo Station Exit 1, then the free outdoor escalators up. The park itself is free and the view from the base is already good.
+
+## 117) 🐚 Busan National Science Museum (국립부산과학관) — 🔁 Tue–Sun
+- **What:** National science museum in Gijang themed on the industries of the southeast — cars, ships, aerospace and nuclear power, all hands-on
+- **Hours:** Tue–Sun **09:30–17:30** (closed Mondays)
+- **Price:** Adult **₩7,000**; youth ₩5,000; child ₩3,000
+- **Official source:** [sciport.or.kr](https://www.sciport.or.kr)
+- **Beginner notes:** Donghae Line to Osiria Station. Combine with Lotte Premium Outlets and Haedong Yonggungsa on the same Gijang trip.
+
+## 118) 📚 Busan Metropolitan Library & F1963 Complex (F1963) — 🔁 Tue–Sun (FREE)
+- **What:** A former Kiswire steel-rope factory converted into a cultural complex — Kukje Gallery Busan, a Praha 993 brewery, YES24 used bookstore, bamboo garden and a concert hall
+- **Hours:** Most venues Tue–Sun **10:00–19:00** (closed Mondays)
+- **Price:** Grounds and most galleries **FREE**
+- **Official source:** [f1963.org](https://www.f1963.org)
+- **Beginner notes:** Line 2 Mangmi Station + short bus/taxi. One of the best industrial conversions in Korea and almost no foreign tourists go.
+
+## 119) 🌊 Igidae Coastal Walk (이기대 해안산책로) — 🔁 daily (FREE)
+- **What:** The 4.7 km cliff-edge boardwalk on the headland facing Gwangalli — suspension bridges, rock platforms and the best skyline view of Gwangan Bridge
+- **Hours:** Always open; **do it in daylight**, ~2 h one way
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Nam-gu](https://www.bsnamgu.go.kr)
+- **Beginner notes:** Bus 22/24/27 to Igidae. **This is also the premium free viewpoint for the Nov 7 fireworks** — you see the whole bridge in frame.
+
+## 120) 🌉 Oryukdo Skywalk & Islands (오륙도 스카이워크) — 🔁 Tue–Sun (FREE)
+- **What:** Glass-floored walkway 35 m above the sea at the point where the East Sea meets the South Sea, looking out at the five-or-six islands that name it
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays and in high wind)
+- **Price:** **FREE** (shoe covers provided)
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Nam-gu](https://www.bsnamgu.go.kr)
+- **Beginner notes:** Bus 27 from Kyungsung Univ. Station. The Igidae trail ends here — walk one, bus back.
+
+## 121) 🌅 Haeundae Dalmaji-gil & Moontan Road (달맞이길·문탠로드) — 🔁 daily (FREE)
+- **What:** The 'moon-greeting' road above Haeundae — a wooded 2.2 km night-walking trail through pines, plus a cafe and gallery street with sea views
+- **Hours:** Always open; the trail is **lit for night walking**
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Haeundae-gu](https://www.haeundae.go.kr)
+- **Beginner notes:** Bus from Haeundae Station Exit 7. Korea's only officially designated night-walking trail — pleasantly weird and completely safe.
+
+## 122) 🚂 Haeundae Blueline Park Beach Train & Sky Capsule (해운대 블루라인파크) — 🔁 daily
+- **What:** The old Donghae rail line along the coast reborn as a slow beach train and pastel four-person **Sky Capsules** running above the shore from Mipo to Cheongsapo
+- **Hours:** Daily roughly **09:00–19:00** (Nov, shorter than summer)
+- **Price:** Beach train day pass **₩13,000**; Sky Capsule from **₩30,000** (2 people, one way)
+- **Official source:** [bluelinepark.com](https://www.bluelinepark.com)
+- **Beginner notes:** Sky Capsules **sell out** — book online days ahead. If they're gone, the beach train covers the same coast for a third of the price.
+
+## 123) 🪨 Taejongdae Resort Park & Danubi Train (태종대) — 🔁 daily
+- **What:** The dramatic cliff park at the southern tip of Yeongdo — lighthouse, sea-rock platform, observatory and a road train that loops the headland
+- **Hours:** Park daily **04:00–24:00**; Danubi train roughly **09:00–19:00**
+- **Price:** Park **FREE**; Danubi train **₩4,000**
+- **Official source:** [taejongdae.bisco.or.kr](https://taejongdae.bisco.or.kr)
+- **Beginner notes:** Bus 8/30/66/88 to Taejongdae. Walk down to the lighthouse and the *jagalmadang* pebble beach; ride the train back up the hill.
+
+## 124) 🌉 Huinnyeoul Culture Village (흰여울문화마을) — 🔁 daily (FREE)
+- **What:** A cliffside refugee village on Yeongdo, whitewashed houses stacked above the sea with a narrow coastal path beneath — the *Nameless Gangster* filming location
+- **Hours:** Alleys always open; cafes roughly **10:00–20:00**
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Yeongdo-gu](https://www.yeongdo.go.kr)
+- **Beginner notes:** Bus 6/9/71 from Nampo. Residential — keep the noise down. The seaside tunnel path below is the photograph everyone comes for.
+
+## 125) ⛰️ Geumjeongsanseong Fortress Wall Walk (금정산성) — 🔁 daily (FREE)
+- **What:** Korea's **largest mountain fortress** — an 18.8 km wall with four gates around Geumjeongsan, above northern Busan
+- **Hours:** Always open; the popular North Gate–East Gate section is ~3 h
+- **Price:** **FREE**; cable car separate
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Take the **Geumgang Park cable car** (Line 1 Oncheonjang Station) up and walk the ridge — that skips the climb entirely.
+
+## 126) 🧘 Beomeosa Temple (범어사) — 🔁 daily (FREE)
+- **What:** Founded 678, one of Korea's great Zen temples, on the wooded eastern slope of Geumjeongsan — famous for its one-pillar gate and autumn maples
+- **Hours:** Daily roughly **08:30–17:30**; templestay by booking
+- **Price:** **FREE**
+- **Official source:** [beomeosa.co.kr](http://www.beomeosa.co.kr) · [eng.templestay.com](https://eng.templestay.com)
+- **Beginner notes:** Line 1 Beomeosa Station Exit 5/7 + bus 90. **Mid-November is peak foliage here** — one of Busan's best autumn days out.
+
+## 127) ♨️ Heosimcheong Spa, Dongnae Hot Springs (허심청) — 🔁 daily
+- **What:** One of Asia's largest hot-spring bathhouses — 40+ pools fed by the 1,000-year-old Dongnae springs, in a complex that holds 3,000 bathers
+- **Hours:** Daily **05:30–21:00**
+- **Price:** Adult **₩11,000–₩13,000**
+- **Official source:** [hotelnongshim.com](https://www.hotelnongshim.com)
+- **Beginner notes:** Line 1 Oncheonjang Station Exit 1. Real geothermal water, not heated tap — and Dongnae *pajeon* restaurants are on the same street.
+
+## 128) 🦆 Nakdong Estuary Eco Center & Migratory Birds (낙동강하구에코센터) — 🔁 Tue–Sun (FREE)
+- **What:** Korea's most important migratory bird wetland at the Nakdong River mouth — **November is peak arrival season** for swans, geese and ducks from Siberia
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**; telescopes provided
+- **Official source:** [wetland.busan.go.kr](https://wetland.busan.go.kr)
+- **Beginner notes:** Line 1 Hadan Station + bus 58/58-1. A Natural Monument site. Go in the morning; bring binoculars if you have them.
+
+## 129) 🌾 Samnak Ecological Park & Eulsukdo Island (삼락생태공원) — 🔁 daily (FREE)
+- **What:** Vast riverside park on the Nakdong — silver-grass fields, cycle paths and the Eulsukdo bird sanctuary and cultural centre
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [parks.busan.go.kr](https://parks.busan.go.kr)
+- **Beginner notes:** Line 2 Deokpo/Sasang + bus. The silver grass here holds well into November and it's flat, easy cycling.
+
+## 130) 🏞️ Hwangnyeongsan Mountain Observatory (황령산 전망대) — 🔁 daily (FREE)
+- **What:** The 427 m peak in the middle of Busan with a road to a summit observatory — the definitive night panorama of Gwangan Bridge, Haeundae and the port
+- **Hours:** Always open; best after dark
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Taxi from Seomyeon (~15 min) is the practical way up. **A prime free fireworks viewpoint on Nov 7** — arrive very early, the road gets closed.
+
+## 131) 🌲 Amnam Park & Songdo Yonggung Suspension Bridge (암남공원) — 🔁 daily (FREE)
+- **What:** Cliff park at the end of Songdo Beach with the 127 m **Songdo Yonggung Cloud Bridge** running out to a rock islet over open sea
+- **Hours:** Bridge daily **09:00–18:00** (Nov); park always open
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Seo-gu](https://www.bsseogu.go.kr)
+- **Beginner notes:** Bus 6/30/71 to Amnam Park. Closes in high wind. Combine with the Songdo Skywalk and the cable car.
+
+## 132) 🚶 Songdo Beach Skywalk (송도구름산책로) — 🔁 daily (FREE)
+- **What:** A 365 m glass-panelled walkway curving out over the sea from Korea's **first public beach (opened 1913)**
+- **Hours:** Daily roughly **06:00–23:00**
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 1 Jagalchi Station + bus 6/30/71. Free, five minutes, and it pairs with the cable car directly above.
+
+## 133) 🐋 Gijang Ilgwang Beach & Haedong Yonggungsa Coast Walk — 🔁 daily (FREE)
+- **What:** The quieter Gijang coastline north of Haeundae — Ilgwang Beach, fishing villages, and the coastal approach to the seaside temple
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Gijang-gun](https://www.gijang.go.kr)
+- **Beginner notes:** Donghae Line to Ilgwang Station. Far emptier than Haeundae in November, and the seafood is cheaper.
+
+## 134) 🌅 Dadaepo Beach Sunset Fountain of Dreams (다대포 꿈의낙조분수) — 🔁 seasonal / daily (FREE)
+- **What:** The world's largest floor fountain, at the Nakdong estuary beach with Busan's best sunset — the music fountain show runs in season
+- **Hours:** Beach always open; **fountain shows are seasonal (Apr–Oct) — expect the fountain off in November**
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Saha-gu](https://www.saha.go.kr)
+- **Beginner notes:** Line 1 Dadaepo Beach Station Exit 4. Come for the sunset over the mudflats, not the fountain — sunset is ~**17:20** in November.
+
+## 135) 🐟 Jagalchi Market Second-Floor Cook-Your-Catch (자갈치시장) — 🔁 daily
+- **What:** Korea's largest seafood market — buy live fish from the ground-floor tanks, then pay a small fee for a second-floor restaurant to prepare it as sashimi and stew
+- **Hours:** Daily roughly **05:00–22:00** (closed 1st & 3rd Tuesday)
+- **Price:** Market free; preparation fee typically **₩5,000–₩10,000** per person plus the fish
+- **Official source:** [jagalchimarket.or.kr](http://www.jagalchimarket.or.kr) · [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 1 Jagalchi Station Exit 10. Agree the price **before** they weigh the fish. The *maeuntang* stew made from the bones is included.
+
+## 136) 🍜 BIFF Square Street Food & Ssiat Hotteok (비프광장) — 🔁 daily
+- **What:** The old cinema square in Nampo-dong with handprints of film stars, and the origin of **ssiat hotteok** — a seed-stuffed fried pancake found nowhere else in Korea
+- **Hours:** Stalls roughly **10:00–22:00**
+- **Price:** Hotteok **₩2,000**; most street food under ₩5,000
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 1 Jagalchi Station Exit 7. The seed hotteok queue moves fast and it is worth joining.
+
+## 137) 🥟 Gukje Market & Kkangtong Night Market (국제시장·깡통야시장) — 🔁 daily
+- **What:** The market that grew out of the Korean War refugee economy — and the covered **Kkangtong night market**, one of Korea's only true nightly street-food markets
+- **Hours:** Day market roughly **09:00–20:00**; **night market 19:30–23:30**
+- **Price:** **FREE** to browse; dishes ₩3,000–₩8,000
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Jung-gu](https://www.bsjunggu.go.kr)
+- **Beginner notes:** Line 1 Jagalchi Station Exit 7. The night market only sets up after 19:30 — don't come at 18:00 and wonder where it is.
+
+## 138) 🍲 Bupyeong Kkangtong Market Dwaeji-gukbap Alley (돼지국밥거리) — 🔁 daily
+- **What:** Busan's signature dish — pork-broth rice soup, invented by wartime refugees — served in a cluster of specialist shops open around the clock
+- **Hours:** Many shops **24 h**
+- **Price:** **₩8,000–₩11,000** a bowl
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 1 Jagalchi/Toseong. Add the chive salad and shrimp sauce they bring you — that's the local method.
+
+## 139) 🥞 Dongnae Pajeon & Dongnae Old Town Walk (동래파전) — 🔁 daily
+- **What:** Dongnae's thick seafood-and-scallion pancake is a designated Busan intangible cultural asset, eaten in the old town beside Dongnae-eupseong fortress
+- **Hours:** Restaurants roughly **11:00–21:00**
+- **Price:** Pajeon **₩20,000–₩30,000** (shared)
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Dongnae-gu](https://www.dongnae.go.kr)
+- **Beginner notes:** Line 1/4 Dongnae Station. Order it with *dongdongju* rice wine — that's the traditional pairing and it's cheap.
+
+## 140) 🌶️ Choryang Ibagu-gil & 168 Steps Monorail (초량 이바구길) — 🔁 daily (FREE)
+- **What:** The 'storytelling road' up the hillside above Busan Station — refugee-era houses, the 168-step staircase with a free monorail, and a harbour view at the top
+- **Hours:** Always open; monorail roughly **05:00–24:00**
+- **Price:** **FREE** including the monorail
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Dong-gu](https://www.bsdonggu.go.kr)
+- **Beginner notes:** Line 1 Busan Station Exit 7. Ten minutes from the KTX platform — a perfect first or last hour in Busan.
+
+## 141) 🎨 Gamcheon Culture Village Stamp Trail (감천문화마을 스탬프 투어) — 🔁 daily
+- **What:** The official stamp-collecting route through the painted hillside village — buy a map, collect stamps at nine points, trade a full sheet for a postcard set
+- **Hours:** Village always open; information centre **09:00–18:00**
+- **Price:** Map **₩2,000**; village entry **FREE**
+- **Official source:** [gamcheon.or.kr](https://www.gamcheon.or.kr)
+- **Beginner notes:** Line 1 Toseong Station Exit 6 + village bus. The stamp route forces you into the good alleys instead of just the main photo street.
+
+## 142) 🐡 Millak Raw Fish Town (민락회타운) — 🔁 daily
+- **What:** A whole building of *hoe* (sashimi) restaurants on the Millak waterfront — buy fish downstairs, eat it upstairs looking at Gwangan Bridge
+- **Hours:** Roughly **10:00–24:00**
+- **Price:** Sashimi platters from **₩40,000** (shared)
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 2 Gwangan Station Exit 3/5. Locals eat here instead of on Gwangalli Beach — same view, half the price.
+
+## 143) 🌃 Gwangan Bridge Night Lighting & Beach Promenade — 🔁 nightly (FREE)
+- **What:** The 7.4 km Diamond Bridge runs a programmed light display every night, with the beach promenade and its cafe strip facing it
+- **Hours:** Lighting roughly **sunset–24:00**; **special weekend programmes** at set times
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 2 Gwangan Station Exit 3/5. Pair with the **free Saturday M Drone Light Show** already listed in this guide.
+
+## 144) 🏬 Shinsegae Centum City — world's largest department store — 🔁 daily
+- **What:** Guinness-recognised as the largest department store in the world, with an ice rink, cinema, golf range and Spa Land inside
+- **Hours:** Daily **10:30–20:00** (Fri–Sun until 20:30)
+- **Price:** **FREE** entry; Spa Land from **₩20,000**
+- **Official source:** [department.shinsegae.com](https://department.shinsegae.com)
+- **Beginner notes:** Line 2 Centum City Station, directly connected. One stop from BEXCO — the standard G-STAR rest stop.
+
+## 145) 🛍️ Lotte Premium Outlets Dongbusan & Osiria Tourism Complex — 🔁 daily
+- **What:** The large outlet mall on the Gijang coast, at the centre of the Osiria complex with the science museum, Lotte World Adventure Busan and the coast
+- **Hours:** Daily **10:30–21:00**
+- **Price:** **FREE** entry
+- **Official source:** [store.lotteshopping.com](https://store.lotteshopping.com)
+- **Beginner notes:** Donghae Line Osiria Station. Combine outlets + science museum + Haedong Yonggungsa in one Gijang day.
+
+## 146) 🎢 Lotte World Adventure Busan (롯데월드 어드벤처 부산) — 🔁 daily
+- **What:** Busan's outdoor theme park on the Osiria coast, opened 2022 — a Giant Digger dive coaster and a hillside setting looking at the East Sea
+- **Hours:** Daily roughly **10:00–19:00** (Nov, shorter than summer; check daily calendar)
+- **Price:** 1-day pass adult **₩47,000**; after-4pm pass cheaper
+- **Official source:** [adventurebusan.lotteworld.com](https://adventurebusan.lotteworld.com)
+- **Beginner notes:** Donghae Line Osiria Station + shuttle. **November hours vary a lot** — always check the operating calendar the day before.
+
+## 147) ⚓ Busan Port Bridge & Yeongdo Bridge Lift (영도대교 도개) — 🔁 daily (FREE)
+- **What:** Korea's only remaining **lifting bascule bridge** — Yeongdodaegyo raises its deck once a day at 14:00, a ritual dating to 1934
+- **Hours:** Bridge lift **daily at 14:00** (~15 min)
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Yeongdo-gu](https://www.yeongdo.go.kr)
+- **Beginner notes:** Line 1 Nampo Station Exit 6. Be on the Nampo side by 13:50. Free, brief, and genuinely charming.
+
+## 148) 🚢 Busan Port International Passenger Terminal Observatory — 🔁 daily (FREE)
+- **What:** Free observation deck above Korea's biggest passenger port, watching the Japan ferries and container traffic in the world's 7th-busiest container port
+- **Hours:** Roughly **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [busanpa.com](https://www.busanpa.com)
+- **Beginner notes:** Line 1 Choryang/Busan Station + 10-min walk. A quiet, free, air-conditioned view of the port at work.
+
+## 149) 🌁 Busan X the Sky Observatory (부산엑스더스카이) — 🔁 daily
+- **What:** Korea's second-tallest building at Haeundae — a 100th-floor observation deck 411 m over the beach, with a glass-floor ledge and the highest Starbucks in Korea
+- **Hours:** Daily **10:00–21:00** (last entry 20:30)
+- **Price:** Adult **₩27,000**
+- **Official source:** [busanxthesky.com](https://www.busanxthesky.com)
+- **Beginner notes:** Line 2 Jung-dong Station Exit 1 or Haeundae Exit 3. Go about an hour before sunset (~17:20 in November) to get daylight, sunset and night in one ticket.
+
+## 150) 🎡 Haeundae Cheongsapo Daritdol Observatory (청사포 다릿돌전망대) — 🔁 daily (FREE)
+- **What:** A 72 m glass-floored sea observatory shaped like a cobalt-blue sea dragon, out over the water at the Cheongsapo fishing village
+- **Hours:** Daily **09:00–18:00** (Nov)
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Haeundae-gu](https://www.haeundae.go.kr)
+- **Beginner notes:** The Blueline Park beach train stops at Cheongsapo. Free, and the grilled-clam restaurants around it are excellent.
+
+## 151) ⚽ K League — Busan IPark home fixtures (부산아이파크) — 👀 WATCH — season ending
+- **What:** Busan's professional football club at Gudeok Stadium. **The K League season finishes in late November**, so a final home fixture may fall in your window
+- **Hours:** Kick-off typically **14:00/16:00** on weekends in November
+- **Price:** Tickets typically **₩10,000–₩20,000**
+- **Official source:** [busanipark.com](https://www.busanipark.com) · [kleague.com](https://www.kleague.com)
+- **Beginner notes:** Line 1 Dongdaesin Station. Fixtures for the final rounds are confirmed only weeks ahead — check kleague.com in late October.
+
+## 152) 🏀 KBL Basketball — Busan KCC Egis (부산 KCC 이지스) — ✅ CONFIRMED — season running
+- **What:** Korean Basketball League. **The KBL season is in full swing in November**, so there will be home games at Sajik Arena during your trip
+- **Hours:** Tip-off typically **19:00** weekdays, **14:00/16:00** weekends
+- **Price:** Tickets typically **₩8,000–₩30,000**
+- **Official source:** [kbl.or.kr](https://www.kbl.or.kr) · [KCC Egis](https://www.kccegis.com)
+- **Beginner notes:** Line 3 Sports Complex (Sajik) Station. Cheap, indoor, loud, and a reliable rainy-evening option — one of the safest sporting bets of your trip.
+
+## 153) 🏐 V-League Volleyball — Busan matches (V리그) — ✅ CONFIRMED — season running
+- **What:** Korea's professional volleyball league runs **October to April**, so November matches are guaranteed somewhere in the region
+- **Hours:** Typically **19:00** weekdays, **14:00** weekends
+- **Price:** Tickets typically **₩8,000–₩20,000**
+- **Official source:** [kovo.co.kr](https://www.kovo.co.kr)
+- **Beginner notes:** Check the KOVO fixture list for Busan-area home games. Korean volleyball crowds are excellent value entertainment.
+
+## 154) 🏃 Busan Running & Cycling — Suyeong River Trail — 🔁 daily (FREE)
+- **What:** The riverside path from Suyeong Bay up the Suyeong River — flat, separated, and the local runners' and cyclists' route, linking Gwangalli to Centum City
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Access at Gwangan or Centum City Station. November is ideal running weather in Busan — typically 10–17 °C.
+
+## 155) 🧗 Busan Surfing — Songjeong Beach (송정해수욕장) — 🔁 daily
+- **What:** Korea's most consistent surf beach, with year-round schools. **November means 4/3 mm wetsuits and clean autumn swell** with almost no crowd
+- **Hours:** Schools roughly **09:00–17:00**
+- **Price:** Board + wetsuit rental from **₩30,000**; lessons from ₩60,000
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Haeundae-gu](https://www.haeundae.go.kr)
+- **Beginner notes:** Donghae Line Songjeong Station. Water is around 17–19 °C in November — cold but very surfable in a full suit.
+
+## 156) 🚄 Day trip: Gyeongju by KTX from Busan — 🔁 daily
+- **What:** Silla's thousand-year capital is **~30 minutes** from Busan by KTX — the easiest world-heritage day trip in Korea
+- **Hours:** KTX Busan → Singyeongju roughly hourly, **05:30–22:00**
+- **Price:** KTX one way **~₩11,000**
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [gyeongju.go.kr](https://www.gyeongju.go.kr)
+- **Beginner notes:** Singyeongju Station is out of town — bus 700 or a taxi gets you to the historic area in ~20 min. See our `gyeongju.md` file for the full list.
+
+## 157) 🚢 Day trip: Geoje & Oedo Botania by ferry/bus — 🔁 daily
+- **What:** The big island west of Busan — Windy Hill, the POW camp historic park, and the Oedo island garden reached by ferry
+- **Hours:** Buses from Busan's Sasang terminal roughly **06:00–21:00**; ferries seasonal
+- **Price:** Bus ~**₩12,000** one way; Oedo ferry + entry ~**₩30,000**
+- **Official source:** [geoje.go.kr](https://www.geoje.go.kr) · [english.visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** Check ferry operation in November — services reduce sharply out of season and cancel in wind.
+
+## 158) 🚤 Day trip: Tongyeong cable car & Dongpirang Village — 🔁 daily
+- **What:** The 'Naples of Korea' two hours west — Korea's longest cable car up Mireuksan, a mural village above the harbour, and the Dongpirang murals
+- **Hours:** Cable car daily roughly **09:30–17:00** (Nov)
+- **Price:** Cable car round trip **₩17,000**; bus from Busan ~₩14,000
+- **Official source:** [ttdc.kr](https://www.ttdc.kr) · [tongyeong.go.kr](https://www.tongyeong.go.kr)
+- **Beginner notes:** Buses from Busan Seobu (Sasang) terminal, ~1 h 40 m. The cable car closes in high wind — check before you commit to the trip.
+
+## 159) 🛳️ Busan–Fukuoka Ferry (부산–후쿠오카 페리) — 🔁 daily
+- **What:** The international ferries to Japan from Busan Port — a genuinely viable overnight or 3-hour hydrofoil side trip
+- **Hours:** Multiple daily sailings; crossing **3 h** (hydrofoil) to **overnight**
+- **Price:** From roughly **₩90,000** one way
+- **Official source:** [Busan Port Authority](https://www.busanpa.com) · [koreaferry.kr](http://www.koreaferry.kr)
+- **Beginner notes:** Passport required and a Japan visa/visa-waiver applies. Listed for completeness — most travellers won't, but it's an unusual option.
+
+## 160) 🗺️ Busan City Tour Bus (부산시티투어버스) — 🔁 daily
+- **What:** The official hop-on-hop-off bus with four routes — Red (Haeundae), Blue (Taejongdae), Green (Gijang) and a night route
+- **Hours:** Roughly **09:30–17:30**, departures every 30–60 min; night tour separate
+- **Price:** 1-day pass adult **₩15,000**; night tour ₩10,000
+- **Official source:** [citytourbusan.com](https://www.citytourbusan.com)
+- **Beginner notes:** Starts at Busan Station. For a first day in a hilly, spread-out city it's genuinely the efficient option.
+
+## 161) 💳 Busan Visit Pass (부산방문패스) — 🔁 daily
+- **What:** The official Busan tourist pass — free entry to 30+ attractions on a 24/48/72-hour clock, including X the Sky, the cable car and Blueline Park
+- **Hours:** Activates on first use
+- **Price:** **₩49,000 / ₩69,000 / ₩89,000** (24 / 48 / 72 h)
+- **Official source:** [visitbusanpass.com](https://www.visitbusanpass.com)
+- **Beginner notes:** Worth it if you'll do X the Sky + cable car + Sky Capsule, which alone come to about ₩70,000.
+
+## 162) 🚇 Busan Metro & Donghae Line day passes — 🔁 daily
+- **What:** Busan's subway plus the **Donghae Line**, which runs along the coast to Osiria and Gijang and is the cheapest way up the eastern shore
+- **Hours:** Roughly **05:00–24:00**
+- **Price:** 1-day pass **₩6,000**; single fares from ₩1,500
+- **Official source:** [humetro.busan.kr](https://www.humetro.busan.kr) · [letskorail.com](https://www.letskorail.com)
+- **Beginner notes:** T-money and Cashbee both work. The Donghae Line is a normal Korail line — it takes transit cards but runs less often than the subway.
+
+---
+
+## 🆕 More verified Busan events & activities (expansion set)
+
+*Second expansion batch — neighbourhoods, coast walks, museums, food districts and day trips, all with official city, district or venue sources.*
+
+## 163) 🏛️ Dongnae-eupseong Fortress & History Museum (동래읍성) — 🔁 daily (FREE)
+- **What:** The old walled town of Dongnae — the fortress that fell in the first battle of the 1592 Japanese invasion, with a restored north gate and a history hall
+- **Hours:** Fortress trail always open; history museum Tue–Sun **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [dongnae.go.kr](https://www.dongnae.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Line 1/4 Dongnae or Line 4 Suan Station. The Battle of Dongnae excavation site at Suan Station — inside the subway station — is free and remarkable.
+
+## 164) ⚔️ Chungnyeolsa Shrine (충렬사) — 🔁 Tue–Sun (FREE)
+- **What:** Shrine to the 1592 defenders of Dongnae, including magistrate Song Sang-hyeon who refused to surrender — set in a formal pine and maple garden
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [busan.go.kr](https://www.busan.go.kr) · [Dongnae-gu](https://www.dongnae.go.kr)
+- **Beginner notes:** Line 1 Chungnyeolsa Station Exit 1. The maples here turn in mid-November and it's usually deserted.
+
+## 165) 🎭 Busan Cultural Center (부산문화회관) — 🔁 by performance
+- **What:** The city's main classical performing arts complex in Nam-gu — home of the Busan Philharmonic and the Busan Metropolitan Traditional Music Orchestra
+- **Hours:** Performances typically **19:30**; box office daily
+- **Price:** **₩10,000–₩70,000**; many city-orchestra concerts under ₩30,000
+- **Official source:** [bscc.or.kr](https://www.bscc.or.kr)
+- **Beginner notes:** Line 2 Daeyeon Station + bus. City-run orchestras in Korea are heavily subsidised — world-class playing at cinema-ticket prices.
+
+## 166) 🎼 Busan Concert Hall & Busan Opera House district — 👀 WATCH
+- **What:** The Busan Concert Hall in the Cultural Center complex, plus the new Busan Opera House on the North Port waterfront (under construction)
+- **Hours:** By performance
+- **Price:** Varies
+- **Official source:** [bscc.or.kr](https://www.bscc.or.kr) · [busan.go.kr](https://www.busan.go.kr)
+- **Beginner notes:** The Opera House is not open yet — but the North Port redevelopment area around it is already a good waterfront walk.
+
+## 167) 📖 Bosu-dong Book Alley (보수동 책방골목) — 🔁 Mon–Sat
+- **What:** Korea's most famous second-hand book street — a narrow alley of stacked bookshops that began as refugee stalls in 1950
+- **Hours:** Most shops **09:00–19:00** (many closed Sunday)
+- **Price:** **FREE** to browse
+- **Official source:** [bosubook.com](http://www.bosubook.com) · [Jung-gu](https://www.bsjunggu.go.kr)
+- **Beginner notes:** Line 1 Jagalchi Station Exit 3. A handful of shops keep English and Japanese sections; several sell vintage Korean film posters.
+
+## 168) ☕ Jeonpo Cafe Street (전포카페거리) — 🔁 daily
+- **What:** The old tool-and-machine-parts district behind Seomyeon, now Busan's densest independent coffee neighbourhood — named by the *New York Times* as a place to visit
+- **Hours:** Most cafes **11:00–22:00**
+- **Price:** Coffee **₩4,500–₩8,000**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Busanjin-gu](https://www.busanjin.go.kr)
+- **Beginner notes:** Line 2 Jeonpo Station Exit 7. Machine shops on the ground floor, roasteries above them — the mix is the whole charm.
+
+## 169) 🍺 Busan Craft Beer & Gwangalli Brewery Row — 🔁 daily
+- **What:** Busan's craft brewing scene — Galmegi Brewing (the city's original), Praha 993 at F1963 and the Gwangalli taproom strip facing the bridge
+- **Hours:** Most taprooms **17:00–01:00**; weekends from midday
+- **Price:** Pints **₩7,000–₩10,000**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 2 Gwangan Station. Korean craft beer is genuinely good now, and Busan was where it started.
+
+## 170) 🐙 Cheongsapo Grilled Clam Village (청사포 조개구이) — 🔁 daily
+- **What:** A row of tented restaurants at the Cheongsapo fishing harbour grilling shellfish over charcoal at your table, with the lighthouse pair outside
+- **Hours:** Roughly **12:00–24:00**
+- **Price:** Shellfish sets from **₩40,000** (2 people)
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Blueline Park beach train to Cheongsapo, or bus from Haeundae. The red and white lighthouse pair is a classic Busan photo.
+
+## 171) 🦑 Gijang Anchovy & Seaweed Coast (기장 멸치·미역) — 🔁 daily
+- **What:** The Gijang coast supplies most of Korea's premium seaweed and anchovies — harbour markets at Daebyeon and Ilgwang sell direct
+- **Hours:** Harbour markets roughly **07:00–19:00**
+- **Price:** **FREE** to browse
+- **Official source:** [gijang.go.kr](https://www.gijang.go.kr) · [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Donghae Line Gijang or Ilgwang Station. Dried seaweed and anchovies are light, cheap and legal to take home.
+
+## 172) 🏞️ Hoedong Reservoir & Suh Byung-soo Forest Trail — 🔁 daily (FREE)
+- **What:** The reservoir in Busan's north-east with a lakeside forest trail and Sujeongsa temple — a genuine escape from the city with autumn colour
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [parks.busan.go.kr](https://parks.busan.go.kr)
+- **Beginner notes:** Line 1 Nopo + bus, or taxi from Beomeosa. Pairs with Beomeosa Temple on the same northern day.
+
+## 173) 🌳 Busan Citizens Park (부산시민공원) — 🔁 daily (FREE)
+- **What:** A former Japanese racecourse, then a US army base, now a 47-hectare city park with a history museum on the base years
+- **Hours:** Park **05:00–24:00**; history museum Tue–Sun **10:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [citizenpark.busan.go.kr](https://citizenpark.busan.go.kr)
+- **Beginner notes:** Line 1 Bujeon Station or Line 2 Bujeon. Ten minutes from Seomyeon and almost nobody visits — excellent for a foliage walk.
+
+## 174) 🎋 Busan Children's Grand Park & Seongjigok Reservoir — 🔁 daily (FREE)
+- **What:** Large forest park in a valley behind Busanjin with a reservoir walk, a students' science hall and easy hiking to Baekyangsan
+- **Hours:** Park always open; facilities **09:00–18:00**
+- **Price:** Park **FREE**
+- **Official source:** [parks.busan.go.kr](https://parks.busan.go.kr)
+- **Beginner notes:** Line 2 Gaya Station + bus. Deep forest 15 minutes from Seomyeon.
+
+## 175) 🏔️ Jangsan Mountain & Waterfall Trail (장산) — 🔁 daily (FREE)
+- **What:** Haeundae's own 634 m mountain — a waterfall trail from the residential streets to a summit view over the whole eastern coast
+- **Hours:** Always open; ~3 h round trip
+- **Price:** **FREE**
+- **Official source:** [haeundae.go.kr](https://www.haeundae.go.kr) · [parks.busan.go.kr](https://parks.busan.go.kr)
+- **Beginner notes:** Line 2 Jangsan Station Exit 12. The upper section is a military area with restricted hours — signposted in English at the gate.
+
+## 176) 🦌 Seunghaksan & Yunsan Ridge (승학산 억새) — 🔁 daily (FREE)
+- **What:** The silver-grass ridge above Saha-gu — a field of *eoksae* grass with views over the Nakdong estuary, at its best **October to November**
+- **Hours:** Always open; ~2 h round trip
+- **Price:** **FREE**
+- **Official source:** [parks.busan.go.kr](https://parks.busan.go.kr) · [Saha-gu](https://www.saha.go.kr)
+- **Beginner notes:** Line 1 Hadan Station + bus. **November is exactly the right month** — the grass is silver-white and the estuary sunset behind it is superb.
+
+## 177) 🌉 Yeongdo Bongnaesan Observatory & Sky Park (봉래산) — 🔁 daily (FREE)
+- **What:** The peak in the middle of Yeongdo island with a 360° deck over the port, the bridges and Taejongdae
+- **Hours:** Always open; deck lit at night
+- **Price:** **FREE**
+- **Official source:** [yeongdo.go.kr](https://www.yeongdo.go.kr)
+- **Beginner notes:** Bus from Nampo across Yeongdo Bridge. The best free port panorama in Busan.
+
+## 178) 🚠 Songdo Sky Park & Yonggung Cloud Trails — 🔁 daily (FREE)
+- **What:** The upper cable-car station on Amnam mountain has a free sky park, a dinosaur trail and a viewing platform over Songdo Bay
+- **Hours:** Roughly **09:00–20:00**
+- **Price:** Sky park **FREE** (cable car ticket separate)
+- **Official source:** [busanaircruise.co.kr](http://busanaircruise.co.kr)
+- **Beginner notes:** You can also walk up from Amnam Park and use the sky park without a cable-car ticket.
+
+## 179) 🐧 Busan Aquarium Behind-the-Scenes & Feeding Times — 🔁 daily
+- **What:** SEA LIFE Busan runs scheduled feeding sessions and diver shows in the ocean tunnel through the day — included with entry
+- **Hours:** Feeding/diver sessions several times daily between **11:00–17:00**
+- **Price:** Included with the **₩31,000** entry
+- **Official source:** [visitsealife.com/busan](https://www.visitsealife.com/busan)
+- **Beginner notes:** Check the day's schedule board at the entrance — the shows are the best part and easy to miss.
+
+## 180) 🏛️ Busan Museum of Contemporary Art — MOCA Busan (부산현대미술관) — 🔁 Tue–Sun (FREE)
+- **What:** The city's contemporary art museum on Eulsukdo island at the Nakdong estuary, its facade grown over with living plants
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [moca.busan.go.kr](https://moca.busan.go.kr)
+- **Beginner notes:** Line 1 Hadan Station + bus 58. Combine with the Nakdong Estuary Eco Center — they're on the same island.
+
+## 181) 🖌️ Busan Art Museum Lee Ufan Space (이우환공간) — 🔁 Tue–Sun (FREE)
+- **What:** A separate building beside the Busan Museum of Art holding only Lee Ufan's paintings, sculptures and stone-and-steel installations
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [art.busan.go.kr](https://art.busan.go.kr)
+- **Beginner notes:** Line 2 Busan Museum of Art Station Exit 5. Twenty quiet minutes; one of the calmest rooms in Korea.
+
+## 182) 🎨 Openspace Bae & Busan Alternative Art Spaces — 🔁 Tue–Sun (FREE)
+- **What:** Busan's independent art scene — Openspace Bae on the Gijang hillside, Space Heem and the artist-run spaces around Choryang and Nampo
+- **Hours:** Generally Tue–Sun **11:00–18:00**
+- **Price:** Mostly **FREE**
+- **Official source:** [openspacebae.com](http://www.openspacebae.com)
+- **Beginner notes:** Small, volunteer-run and sometimes closed between shows — check the site before travelling out.
+
+## 183) ⚓ Korea Maritime Museum (국립해양박물관) — 🔁 Tue–Sun (FREE)
+- **What:** Korea's national maritime museum on an artificial island off Yeongdo — a full-size sailing ship indoors, an aquarium, and the history of Korean seafaring
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mondays)
+- **Price:** **FREE**
+- **Official source:** [knmm.or.kr](https://www.knmm.or.kr)
+- **Beginner notes:** Bus 66/186 from Nampo to Yeongdo. Free, huge, and a very good rainy-day option.
+
+## 184) 🚢 Busan National Maritime Fisheries & Cruise Terminal Walk — 🔁 daily (FREE)
+- **What:** The North Port redevelopment waterfront — a new public park, the cruise terminal and a promenade with the port cranes as backdrop
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [busanpa.com](https://www.busanpa.com) · [busan.go.kr](https://www.busan.go.kr)
+- **Beginner notes:** Line 1 Choryang or Busan Station. Newly opened public space that most guidebooks haven't caught up with.
+
+## 185) 🍚 Busan Milmyeon — cold wheat noodles (밀면) — 🔁 daily
+- **What:** Busan's other refugee dish: wheat noodles in cold broth, invented when North Korean refugees couldn't get buckwheat. Eaten year-round, including in November
+- **Hours:** Specialist shops roughly **10:30–21:00**
+- **Price:** **₩8,000–₩10,000**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Order it *mul* (soup) or *bibim* (spicy dry). Standard practice is to add vinegar and mustard from the table.
+
+## 186) 🐟 Songjeong & Gijang Seafood Ramen Coast Cafes — 🔁 daily
+- **What:** The coastal cafe strip north of Haeundae — glass-fronted cafes on the rocks at Songjeong and Daebyeon, an established Busan weekend ritual
+- **Hours:** Most **10:00–22:00**
+- **Price:** Coffee **₩6,000–₩9,000**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Donghae Line Songjeong Station. In November you get storm-watching weather and empty window seats.
+
+## 187) 🎪 Busan International Film Festival venues — off-season screenings — 🔁 daily
+- **What:** Even outside BIFF, the Cinema Center and the Nampo BIFF-district cinemas run arthouse and Korean-classic programmes
+- **Hours:** Screenings roughly **11:00–22:00**
+- **Price:** **₩7,000–₩10,000**
+- **Official source:** [dureraum.org](https://www.dureraum.org) · [biff.kr](https://www.biff.kr)
+- **Beginner notes:** Look for the Korean Film Archive's Busan programme — subtitled screenings appear regularly.
+
+## 188) 🎳 Seomyeon Underground Shopping Town & Nightlife (서면지하상가) — 🔁 daily
+- **What:** Busan's busiest district — a huge underground arcade, the Seomyeon Medical Street, and the city's densest bar and karaoke area above it
+- **Hours:** Arcade **10:00–22:00**; bars until late
+- **Price:** **FREE** to browse
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Busanjin-gu](https://www.busanjin.go.kr)
+- **Beginner notes:** Line 1/2 Seomyeon Station. Also where the **Seomyeon Light Festival** runs from November — one trip, two things.
+
+## 189) 💊 Seomyeon Medical Street (서면메디컬스트리트) — 🔁 Mon–Sat
+- **What:** A concentrated strip of dermatology, dentistry and cosmetic clinics with foreign-patient services and tax-refund support
+- **Hours:** Most clinics Mon–Fri **10:00–19:00**, Sat mornings
+- **Price:** Varies; consultations often **₩10,000–₩30,000**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Korea Health Industry Development Institute](https://www.medicalkorea.or.kr)
+- **Beginner notes:** Medical tourism is officially promoted here. Use the Medical Korea portal to find clinics registered for foreign patients.
+
+## 190) 🛒 Bujeon Market (부전시장) — 🔁 daily
+- **What:** Busan's biggest traditional market by area — a sprawling produce, herb and seafood market next to Seomyeon that locals actually shop in
+- **Hours:** Roughly **05:00–20:00**
+- **Price:** **FREE** to browse
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 1 Bujeon Station Exit 1. Rawer and less touristed than Jagalchi or Gukje.
+
+## 191) 🍢 Nampo-dong Gwangbok-ro Fashion Street — 🔁 daily
+- **What:** The pedestrianised shopping spine of old Busan — street food carts, cosmetics, a musical fountain and the December tree festival route
+- **Hours:** Shops roughly **11:00–22:00**
+- **Price:** **FREE** to walk
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Jung-gu](https://www.bsjunggu.go.kr)
+- **Beginner notes:** Line 1 Nampo Station Exit 7. Watch for the Christmas tree installation going up in **late November**.
+
+## 192) 🚡 Busan Air Cruise night crossing (송도해상케이블카 야간) — 🔁 daily
+- **What:** The Songdo cable car after dark — the towers and cabins are lit, and the bay reflects them the whole way across
+- **Hours:** Last cabins roughly **20:30–21:00**
+- **Price:** Round trip **₩17,000** (Air) / **₩22,000** (Crystal glass floor)
+- **Official source:** [busanaircruise.co.kr](http://busanaircruise.co.kr)
+- **Beginner notes:** Going after dark costs the same as daytime and is considerably better. Suspends in high wind.
+
+## 193) 🌙 Busan Night Tour Bus (부산 야경투어버스) — 🔁 nightly
+- **What:** The night route of the official city tour bus — Gwangan Bridge, Haeundae, the port and the bridge lighting from an open-top deck
+- **Hours:** Departures typically **19:30** and **20:00**
+- **Price:** Adult **₩10,000**
+- **Official source:** [citytourbusan.com](https://www.citytourbusan.com)
+- **Beginner notes:** Departs Busan Station. Cheap, warm-ish, and it covers the bridges you'd otherwise need three taxis to see.
+
+## 194) 🛶 Suyeong Bay Yachting & Marina (수영만요트경기장) — 🔁 daily
+- **What:** The 1988 Olympic yachting venue at Haeundae — sunset yacht cruises out past Gwangan Bridge run year-round
+- **Hours:** Cruises typically **11:00–21:00**, ~70–90 min
+- **Price:** From **₩30,000–₩60,000** per person
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 2 Dongbaek Station. A sunset sailing under Gwangan Bridge in November is cold but spectacular — bring a jacket.
+
+## 195) 🎣 Songdo & Yeongdo Sea Fishing Piers — 🔁 daily
+- **What:** Public fishing piers and rocky platforms around Songdo, Yeongdo and Cheongsapo — autumn is prime season for rockfish and mackerel
+- **Hours:** Always open; boat charters from **05:00**
+- **Price:** Pier fishing **FREE**; boat charters from **₩50,000**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Tackle shops near the piers rent rods by the hour. Check tide tables — the pier platforms flood on high spring tides.
+
+## 196) 🏝️ Yeongdo Jeoryeong Coastal Walk (절영해안산책로) — 🔁 daily (FREE)
+- **What:** A sea-level boardwalk along Yeongdo's western cliffs from Huinnyeoul to Jungni — waves under the deck, tunnels through the rock
+- **Hours:** Always open; ~1 h one way
+- **Price:** **FREE**
+- **Official source:** [yeongdo.go.kr](https://www.yeongdo.go.kr) · [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Starts below Huinnyeoul Culture Village. Closed in storms — check the weather before descending.
+
+## 197) 🌊 Haeundae Beach Sunrise (해운대 일출) — 🔁 daily (FREE)
+- **What:** Sunrise over the East Sea straight down the length of Haeundae Beach — **November sunrise in Busan is around 07:00–07:15**, a very civilised hour
+- **Hours:** Sunrise ~**07:00–07:15** in November
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Korea Meteorological Administration](https://www.weather.go.kr)
+- **Beginner notes:** Line 2 Haeundae Station Exit 3/5. Unlike summer, you don't need a 04:30 alarm — just walk down before breakfast.
+
+## 198) 🕌 Busan Al-Fatah Mosque & Halal Restaurant Street — 🔁 daily (FREE)
+- **What:** Korea's second-oldest mosque, near Pusan National University, with a small cluster of halal restaurants around it
+- **Hours:** Prayer times daily; visitors welcome outside prayers
+- **Price:** **FREE**
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 1 Busan National University Station. Useful practical information for halal-observant travellers in Busan.
+
+## 199) 🎓 Pusan National University Front Gate District (부산대 앞) — 🔁 daily
+- **What:** Busan's main student neighbourhood — cheap food, live-music bars, indie shops and a weekend street-performance zone
+- **Hours:** Shops and bars **11:00–02:00**
+- **Price:** **FREE** to walk; meals from ₩6,000
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net)
+- **Beginner notes:** Line 1 Busan National University Station Exit 3. The cheapest good eating in Busan, and the busking is genuinely decent.
+
+## 200) 🧧 Busan Chinatown & Texas Street (차이나타운) — 🔁 daily
+- **What:** The old foreign quarter opposite Busan Station — Korea's original Chinatown alongside the Russian shopfronts of 'Texas Street'
+- **Hours:** Restaurants roughly **11:00–22:00**
+- **Price:** **FREE** to walk
+- **Official source:** [english.visitbusan.net](https://english.visitbusan.net) · [Dong-gu](https://www.bsdonggu.go.kr)
+- **Beginner notes:** Line 1 Busan Station Exit 1/3. Small but genuinely multi-layered — Chinese, Russian and Central Asian signage in three blocks.
+
+## 201) 🚊 Donghae Line coastal rail to Ulsan — 🔁 daily
+- **What:** The Donghae Line runs from Busan up the coast all the way to Ulsan — a cheap, scenic local train that hugs the shore for much of the route
+- **Hours:** Roughly hourly, **05:30–23:00**; Busan → Ulsan ~1 h 20 m
+- **Price:** **₩3,000–₩5,000** one way; transit cards accepted
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [humetro.busan.kr](https://www.humetro.busan.kr)
+- **Beginner notes:** Sit on the right-hand side heading north for sea views. See our `ulsan.md` file for what to do at the other end.
+
+## 202) 🚌 Day trip: Yangsan Tongdosa Temple — UNESCO — 🔁 daily
+- **What:** One of Korea's Three Jewel Temples and a UNESCO World Heritage 'Sansa' mountain monastery, 40 minutes north of Busan
+- **Hours:** Daily roughly **08:30–17:30**
+- **Price:** **FREE** entry (parking charged)
+- **Official source:** [tongdosa.or.kr](http://www.tongdosa.or.kr) · [UNESCO Sansa](https://whc.unesco.org/en/list/1562)
+- **Beginner notes:** Busan Line 2 to Yangsan + bus, or intercity bus from Nopo. **The 1 km pine approach avenue in November foliage is the reason to go.**
+
+## 203) 🏞️ Day trip: Miryang Yeongnamnu & Ice Valley — 🔁 daily
+- **What:** The riverside pavilion town an hour north — Yeongnamnu is one of Korea's three great pavilions, and Eoreumgol 'ice valley' is a natural curiosity
+- **Hours:** Pavilion daily **09:00–18:00**
+- **Price:** Pavilion **FREE**
+- **Official source:** [miryang.go.kr](https://www.miryang.go.kr)
+- **Beginner notes:** KTX or Mugunghwa from Busan Station, ~40–60 min. A quiet, very Korean day out that almost no foreign visitors make.
+
+---
+
 ## 🔁 Always-on Busan fall favorites (official tourism)
 - **🛩️ Gwangalli M Drone Light Show — EVERY Saturday night, free!** — 1,000+ drones over Gwangalli Beach, run by Suyeong-gu; winter (Oct–Feb) shows at **19:00 & 21:00** → your Saturdays: **Nov 7** (fireworks night — show likely folds into the festival), **Nov 14, Nov 21**. Weather-dependent; live on "수영구 TV" YouTube if you miss it ([gwangallimdrone.co.kr](https://www.gwangallimdrone.co.kr) · [Visit Busan calendar](https://english.visitbusan.net))
 - **Gwangalli Beach** at night (Gwangan Bridge light shows) — [english.visitbusan.net](https://english.visitbusan.net)
