@@ -671,3 +671,52 @@ rather than just the line that matched is what caught it.
 
 Running total: **96/570 verified, still zero fabrications.** The defect
 profile remains staleness and omission, not invention.
+
+## Pass 18 — "no price stated" is itself a defect
+
+### The systematic finding
+Built a sweep for ticketable venue types (museum/tower/observatory/park/
+aquarium/cable/theme/garden/palace…) whose entry states **neither a ₩ figure
+nor the word "free"**. **77 of 469 unchecked entries match.** A reader
+defaults to assuming free, so silence is not neutral — it is a wrong answer
+about half the time. Confirmed on the first four worked:
+
+- **yongin #19 Samsung F&M Mobility Museum** — silent → actually **₩10,000**
+  adult / ₩8,000 / ₩6,000. Everland season-pass holders pay **half**, which
+  matters because Everland is #10 in the same file. Opens on holiday Mondays
+  (inverse of the usual rule). No re-entry.
+- **seoul #58 Seoul Sky** — pure stub ("fares are operator-controlled") →
+  **₩33,000 / ₩29,000**, Fri–Sat to 23:00, entry closes 1 h before.
+  **Screenshots of tickets are refused at the gate.**
+- **myeongdong #31 Deoksugung** — pure hedge → **₩1,000**, free under-18/
+  over-65, **free in hanbok**, open to 21:00, **free English tours 10:45 and
+  13:30**.
+- **suwon #25 Samsung Innovation Museum** — "requires advance reservation"
+  undersold it: **weekdays are a single 13:00–14:00 booked slot**; Saturday
+  10:00–17:00 is the only browsable option. Effectively a Saturday activity,
+  and **Nov 14 is the only uncommitted Saturday** in the window.
+
+### Promoted to travel-basics §1b (cross-cutting, was buried in one entry)
+Hanbok = free palace entry everywhere; the **₩10,000 combined ticket** only
+pays off at 3+ palaces; **closure days differ** (Gyeongbokgung Tuesdays,
+the rest Mondays — verified, not assumed); **November hours are short**
+(Gyeongbokgung 09:00–17:00, last entry 16:00); free English tours at 11:00/
+13:30/15:30; Gyeonghoeru special tours are Apr–Oct only, so unavailable.
+
+**👀 New watch item:** palace fees frozen since 2005; KHS will publish a new
+structure **in November 2026**, effective Jan 1 2027. Trip predates the rise
+but the announcement lands mid-trip.
+
+### Dead-link notes
+- `seoulsky.lotteworld.com/ko/observatory/...` still 404 — but
+  **`/price/info/ticket` works**. The domain was previously written off
+  entirely; only that one path was dead.
+- `hangeul.go.kr/traffic/openTimeInfo.do` returns empty; `royal.khs.go.kr`
+  ENG path 500s. Use `cha.go.kr`/`khs.go.kr` HtmlPage endpoints instead.
+- `djgpark.imbc.com/news/3847084_66321.html` (MBC's own Aug 2024 fare
+  notice) fails with ERR_TUNNEL_CONNECTION_FAILED. **Left the Dae Jang Geum
+  price as a ₩9,500–11,000 range with a "confirm at the gate" instruction
+  rather than publishing a number I can't stand behind** — an honest range
+  beats a confident wrong figure.
+
+Running total: **101/570 verified, still zero fabrications.**
