@@ -10,8 +10,11 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ### 1) 🚶 **Space Walk** — 🔎 VERIFIED OPERATOR
 - **What:** Walkable steel sculpture in Hwanho Park; the looped section is not accessible.
-- **Hours/price:** Free. November weekday closing is early; wind, rain, ice, heat, or maintenance can close it without notice.
-- **Official source (reviewed Aug 17):** [Pohang Tourism](https://www.pohang.go.kr/phtour/)
+- **Hours/price:** **Free**, no booking, no ticket — just turn up. **Your trip is the winter schedule: Nov–Mar, weekdays 10:00–17:00, weekends and holidays 10:00–18:00** (summer Apr–Oct runs to 20:00/21:00). **Closed the first Monday of each month** — that's **Mon Nov 2, 2026**; if it falls on a holiday the closure moves to the next day.
+- **⚠️ Winter closing kills the night view.** The thing Space Walk is famous for — the Yeongilman night panorama — needs the summer 20:00/21:00 hours. **In November it shuts at or before sunset**, so plan it as a daytime or late-afternoon stop and get your night view from Yeongildae instead.
+- **Scale:** 333 m of walkable steel, **717 steps**, ~25 m above the ground on the Hwanho Park ridge. **The circular loop section cannot be walked.** It's a sculpture you climb, not a ride.
+- **⚠️ Closes instantly in strong wind, rain or ice** — very exposed, and this is a windy coastal ridge in November. Numbers on the deck are capped, so weekends can queue.
+- **Official source (reviewed Aug 18):** [Pohang Tourism](https://www.pohang.go.kr/phtour/) *(seasonal hours and first-Monday closure corroborated across current 2026 travel listings)*
 
 ### 2) 🌲 **Hwanho Park** — 🔎 VERIFIED PLACE
 - **What:** Coastal city park containing Space Walk, paths, lawns, and Pohang Museum of Steel Art.
@@ -30,8 +33,10 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ### 5) 💡 **National Lighthouse Museum** — 🔎 VERIFIED NATIONAL MUSEUM
 - **What:** Museum at Homigot covering lighthouse, navigation, and maritime history.
-- **Hours/price:** Check current visitor hours and closure days; general admission is free.
-- **Official source (reviewed Aug 17):** [National Lighthouse Museum](https://www.lighthouse-museum.or.kr/)
+- **Hours/price:** **09:00–18:00, last entry 17:30. Free.** **Closed Mondays**, Lunar New Year's Day and Chuseok. ☎ 054-284-4857.
+- **What's inside:** two permanent floors — *Time of Lighthouses* (1F, 2,500 years of lighthouse history) and *Lighthouses and Science* (2F, how the optics and navigation aids actually work) — plus an outdoor exhibition yard of real lighthouse hardware and a VR cyber tour.
+- **⚠️ Check the notices page before travelling** — the museum posts monthly closure notices and has taken unscheduled temporary closures (e.g. Jul 14–15, 2026). It's at Homigot, a long way out, so it's worth thirty seconds.
+- **Official sources (reviewed Aug 18):** [National Lighthouse Museum — hours and closures](https://www.lighthouse-museum.or.kr/kor/index.do) · [closure notices](https://www.lighthouse-museum.or.kr/bbs/BBSMSTR_000000000001/list.do)
 
 ### 6) 🥾 **Homi Peninsula Coastal Trail** — 🔎 VERIFIED WALK
 - **What:** Multi-section coastal route around the peninsula, including fishing villages and sea cliffs.

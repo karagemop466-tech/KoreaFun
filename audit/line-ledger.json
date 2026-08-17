@@ -10085,15 +10085,75 @@
   "text": "- **Official source (reviewed Aug 17):** [POSCO](https://www.posco.co.kr/)",
   "verdict": "unchecked"
  },
+ "pohang.md#1:0b17143d62": {
+  "checked_on": "2026-08-17",
+  "entry": 1,
+  "file": "pohang.md",
+  "kind": "TIME",
+  "note": "Space Walk: replaced vague 'November weekday closing is early' with the actual winter schedule Nov-Mar weekday 10:00-17:00 / weekend 10:00-18:00 (summer 20:00/21:00). CLOSED FIRST MONDAY of each month = Mon Nov 2 2026 in this trip. Flagged that the famous night view is NOT available in November because winter closing precedes sunset. 333m/717 steps, loop not walkable, wind/rain closure.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/",
+   "https://thetravelnews.co.kr/2026/07/pohang-space-walk-hwanho-park-yeongil-bay/",
+   "https://guideblogger.co.kr/space-walk/"
+  ],
+  "text": "- **⚠️ Winter closing kills the night view.** The thing Space Walk is famous for — the Yeongilman night panorama — needs the summer 20:00/21:00 hours. **In November it shuts at or before sunset**, so plan it as a daytime or late-afternoon stop and get your night view from Yeongildae instead.",
+  "verdict": "verified"
+ },
  "pohang.md#1:1de1c5e0a9": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 1,
   "file": "pohang.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Space Walk: replaced vague 'November weekday closing is early' with the actual winter schedule Nov-Mar weekday 10:00-17:00 / weekend 10:00-18:00 (summer 20:00/21:00). CLOSED FIRST MONDAY of each month = Mon Nov 2 2026 in this trip. Flagged that the famous night view is NOT available in November because winter closing precedes sunset. 333m/717 steps, loop not walkable, wind/rain closure.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/",
+   "https://thetravelnews.co.kr/2026/07/pohang-space-walk-hwanho-park-yeongil-bay/",
+   "https://guideblogger.co.kr/space-walk/"
+  ],
   "text": "- **What:** Walkable steel sculpture in Hwanho Park; the looped section is not accessible.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "pohang.md#1:3ff04786ed": {
+  "checked_on": "2026-08-17",
+  "entry": 1,
+  "file": "pohang.md",
+  "kind": "PROSE",
+  "note": "Space Walk: replaced vague 'November weekday closing is early' with the actual winter schedule Nov-Mar weekday 10:00-17:00 / weekend 10:00-18:00 (summer 20:00/21:00). CLOSED FIRST MONDAY of each month = Mon Nov 2 2026 in this trip. Flagged that the famous night view is NOT available in November because winter closing precedes sunset. 333m/717 steps, loop not walkable, wind/rain closure.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/",
+   "https://thetravelnews.co.kr/2026/07/pohang-space-walk-hwanho-park-yeongil-bay/",
+   "https://guideblogger.co.kr/space-walk/"
+  ],
+  "text": "- **⚠️ Closes instantly in strong wind, rain or ice** — very exposed, and this is a windy coastal ridge in November. Numbers on the deck are capped, so weekends can queue.",
+  "verdict": "prose"
+ },
+ "pohang.md#1:456dbbfb85": {
+  "checked_on": "2026-08-17",
+  "entry": 1,
+  "file": "pohang.md",
+  "kind": "PROSE",
+  "note": "Space Walk: replaced vague 'November weekday closing is early' with the actual winter schedule Nov-Mar weekday 10:00-17:00 / weekend 10:00-18:00 (summer 20:00/21:00). CLOSED FIRST MONDAY of each month = Mon Nov 2 2026 in this trip. Flagged that the famous night view is NOT available in November because winter closing precedes sunset. 333m/717 steps, loop not walkable, wind/rain closure.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/",
+   "https://thetravelnews.co.kr/2026/07/pohang-space-walk-hwanho-park-yeongil-bay/",
+   "https://guideblogger.co.kr/space-walk/"
+  ],
+  "text": "- **Scale:** 333 m of walkable steel, **717 steps**, ~25 m above the ground on the Hwanho Park ridge. **The circular loop section cannot be walked.** It's a sculpture you climb, not a ride.",
+  "verdict": "prose"
+ },
+ "pohang.md#1:7fae678e74": {
+  "checked_on": "2026-08-17",
+  "entry": 1,
+  "file": "pohang.md",
+  "kind": "SOURCE",
+  "note": "Space Walk: replaced vague 'November weekday closing is early' with the actual winter schedule Nov-Mar weekday 10:00-17:00 / weekend 10:00-18:00 (summer 20:00/21:00). CLOSED FIRST MONDAY of each month = Mon Nov 2 2026 in this trip. Flagged that the famous night view is NOT available in November because winter closing precedes sunset. 333m/717 steps, loop not walkable, wind/rain closure.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/",
+   "https://thetravelnews.co.kr/2026/07/pohang-space-walk-hwanho-park-yeongil-bay/",
+   "https://guideblogger.co.kr/space-walk/"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Pohang Tourism](https://www.pohang.go.kr/phtour/) *(seasonal hours and first-Monday closure corroborated across current 2026 travel listings)*",
+  "verdict": "sourced"
  },
  "pohang.md#1:8e2ab0394e": {
   "checked_on": null,
@@ -10101,6 +10161,7 @@
   "file": "pohang.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Free. November weekday closing is early; wind, rain, ice, heat, or maintenance can close it without notice.",
   "verdict": "unchecked"
@@ -10111,9 +10172,24 @@
   "file": "pohang.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Pohang Tourism](https://www.pohang.go.kr/phtour/)",
   "verdict": "unchecked"
+ },
+ "pohang.md#1:e0b2aa8896": {
+  "checked_on": "2026-08-17",
+  "entry": 1,
+  "file": "pohang.md",
+  "kind": "TIME",
+  "note": "Space Walk: replaced vague 'November weekday closing is early' with the actual winter schedule Nov-Mar weekday 10:00-17:00 / weekend 10:00-18:00 (summer 20:00/21:00). CLOSED FIRST MONDAY of each month = Mon Nov 2 2026 in this trip. Flagged that the famous night view is NOT available in November because winter closing precedes sunset. 333m/717 steps, loop not walkable, wind/rain closure.",
+  "sources": [
+   "https://www.pohang.go.kr/phtour/",
+   "https://thetravelnews.co.kr/2026/07/pohang-space-walk-hwanho-park-yeongil-bay/",
+   "https://guideblogger.co.kr/space-walk/"
+  ],
+  "text": "- **Hours/price:** **Free**, no booking, no ticket — just turn up. **Your trip is the winter schedule: Nov–Mar, weekdays 10:00–17:00, weekends and holidays 10:00–18:00** (summer Apr–Oct runs to 20:00/21:00). **Closed the first Monday of each month** — that's **Mon Nov 2, 2026**; if it falls on a holiday the closure moves to the next day.",
+  "verdict": "verified"
  },
  "pohang.md#20:7c70bad268": {
   "checked_on": null,
@@ -10672,15 +10748,64 @@
   "text": "- **What:** Cape plaza known for paired hand sculptures and sunrise views.",
   "verdict": "unchecked"
  },
+ "pohang.md#5:521d6d2277": {
+  "checked_on": "2026-08-17",
+  "entry": 5,
+  "file": "pohang.md",
+  "kind": "DATE",
+  "note": "National Lighthouse Museum: resolved the 'check current hours' hedge - 09:00-18:00, last entry 17:30, free, closed Mondays + Seollal + Chuseok, tel 054-284-4857. Added the two permanent floors, outdoor yard, VR tour, and a warning to check the notices board since it takes unscheduled closures and Homigot is remote.",
+  "sources": [
+   "https://www.lighthouse-museum.or.kr/kor/index.do"
+  ],
+  "text": "- **⚠️ Check the notices page before travelling** — the museum posts monthly closure notices and has taken unscheduled temporary closures (e.g. Jul 14–15, 2026). It's at Homigot, a long way out, so it's worth thirty seconds.",
+  "verdict": "verified"
+ },
  "pohang.md#5:7b0d4d70bc": {
   "checked_on": null,
   "entry": 5,
   "file": "pohang.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Check current visitor hours and closure days; general admission is free.",
   "verdict": "unchecked"
+ },
+ "pohang.md#5:a7672b1cdc": {
+  "checked_on": "2026-08-17",
+  "entry": 5,
+  "file": "pohang.md",
+  "kind": "SOURCE",
+  "note": "National Lighthouse Museum: resolved the 'check current hours' hedge - 09:00-18:00, last entry 17:30, free, closed Mondays + Seollal + Chuseok, tel 054-284-4857. Added the two permanent floors, outdoor yard, VR tour, and a warning to check the notices board since it takes unscheduled closures and Homigot is remote.",
+  "sources": [
+   "https://www.lighthouse-museum.or.kr/kor/index.do"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [National Lighthouse Museum — hours and closures](https://www.lighthouse-museum.or.kr/kor/index.do) · [closure notices](https://www.lighthouse-museum.or.kr/bbs/BBSMSTR_000000000001/list.do)",
+  "verdict": "sourced"
+ },
+ "pohang.md#5:a8e24c63f9": {
+  "checked_on": "2026-08-17",
+  "entry": 5,
+  "file": "pohang.md",
+  "kind": "PROSE",
+  "note": "National Lighthouse Museum: resolved the 'check current hours' hedge - 09:00-18:00, last entry 17:30, free, closed Mondays + Seollal + Chuseok, tel 054-284-4857. Added the two permanent floors, outdoor yard, VR tour, and a warning to check the notices board since it takes unscheduled closures and Homigot is remote.",
+  "sources": [
+   "https://www.lighthouse-museum.or.kr/kor/index.do"
+  ],
+  "text": "- **What's inside:** two permanent floors — *Time of Lighthouses* (1F, 2,500 years of lighthouse history) and *Lighthouses and Science* (2F, how the optics and navigation aids actually work) — plus an outdoor exhibition yard of real lighthouse hardware and a VR cyber tour.",
+  "verdict": "prose"
+ },
+ "pohang.md#5:b07d23fc13": {
+  "checked_on": "2026-08-17",
+  "entry": 5,
+  "file": "pohang.md",
+  "kind": "TIME",
+  "note": "National Lighthouse Museum: resolved the 'check current hours' hedge - 09:00-18:00, last entry 17:30, free, closed Mondays + Seollal + Chuseok, tel 054-284-4857. Added the two permanent floors, outdoor yard, VR tour, and a warning to check the notices board since it takes unscheduled closures and Homigot is remote.",
+  "sources": [
+   "https://www.lighthouse-museum.or.kr/kor/index.do"
+  ],
+  "text": "- **Hours/price:** **09:00–18:00, last entry 17:30. Free.** **Closed Mondays**, Lunar New Year's Day and Chuseok. ☎ 054-284-4857.",
+  "verdict": "verified"
  },
  "pohang.md#5:cd13d93348": {
   "checked_on": null,
@@ -10688,19 +10813,22 @@
   "file": "pohang.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [National Lighthouse Museum](https://www.lighthouse-museum.or.kr/)",
   "verdict": "unchecked"
  },
  "pohang.md#5:ffe0626246": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 5,
   "file": "pohang.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "National Lighthouse Museum: resolved the 'check current hours' hedge - 09:00-18:00, last entry 17:30, free, closed Mondays + Seollal + Chuseok, tel 054-284-4857. Added the two permanent floors, outdoor yard, VR tour, and a warning to check the notices board since it takes unscheduled closures and Homigot is remote.",
+  "sources": [
+   "https://www.lighthouse-museum.or.kr/kor/index.do"
+  ],
   "text": "- **What:** Museum at Homigot covering lighthouse, navigation, and maritime history.",
-  "verdict": "unchecked"
+  "verdict": "prose"
  },
  "pohang.md#6:a6a4b2e969": {
   "checked_on": null,
