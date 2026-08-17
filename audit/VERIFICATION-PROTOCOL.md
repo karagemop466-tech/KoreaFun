@@ -61,8 +61,9 @@ Do not add an entry solely to increase a count.
 | City file | Status | Result |
 |---|---|---|
 | `yeosu.md` | **Reviewed 2026-08-17** | Rebuilt 100 → 32 entries; removed fabricated places, unsupported event claims, duplicates, generic advice, and out-of-city padding; added 8 official-source activities. |
-| Remaining 13 files | **Not yet manually reviewed under this protocol** | Existing content remains a research queue, regardless of earlier heuristic “SOLID” labels. |
+| `myeongdong.md` | **Reviewed 2026-08-17** | Rebuilt 296 → 36 entries; removed invented venues/events, stale brand branches, snack-by-snack padding, duplicates, generic advice, and attractions elsewhere in Seoul; added confirmed 2026 theater/art plus newly sourced museums and walks. |
+| Remaining 12 files | **Not yet manually reviewed under this protocol** | Existing content remains a research queue, regardless of earlier heuristic “SOLID” labels. |
 
 ## Next pass order
 
-Prioritize files with the greatest current source risk: `myeongdong.md`, `yongin.md`, `suwon.md`, `jeonju.md`, `incheon.md`, `gyeongju.md`, `daegu.md`, `ulsan.md`, `pohang.md`, `changwon-jinhae.md`, then re-audit the three previously described as “core” (`seoul.md`, `busan.md`, `daejeon-cheonan.md`). This order is based on missing-source and weak-source counts, not an assumption that the later files are verified.
+Prioritize files with the greatest current source risk: `yongin.md`, `suwon.md`, `jeonju.md`, `incheon.md`, `gyeongju.md`, `daegu.md`, `ulsan.md`, `pohang.md`, `changwon-jinhae.md`, then re-audit the three previously described as “core” (`seoul.md`, `busan.md`, `daejeon-cheonan.md`). This order is based on missing-source and weak-source counts, not an assumption that the later files are verified.

@@ -3,9 +3,9 @@
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
 A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> 🚧 **Evidence audit in progress (started Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. A parser can catch formatting, dates, and obvious duplicates, but it cannot prove that a place or event is real. The new [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city at a time. **Yeosu is the first completed city; the other 13 files remain a research queue and must not yet be treated as fully verified.**
+> 🚧 **Evidence audit in progress (started Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. A parser can catch formatting, dates, and obvious duplicates, but it cannot prove that a place or event is real. The new [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **Yeosu and Myeong-dong are complete; the other 12 files remain a research queue and must not yet be treated as fully verified.**
 >
-> **Current inventory:** 2,377 numbered sections. This is not a target or a quality claim. Counts will fall when padding and duplicates are removed, then rise only for newly researched, official-source entries. Run `python3 tools/verification_status.py` for current manual-review coverage.
+> **Current inventory:** 2,117 numbered sections. This is not a target or a quality claim. Counts will fall when padding and duplicates are removed, then rise only for newly researched, official-source entries. Run `python3 tools/verification_status.py` for current manual-review coverage.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,7 +13,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**2,377 numbered sections** across 14 city files; manual verification ongoing)
+## 📂 What's in this repo (**2,117 numbered sections** across 14 city files; manual verification ongoing)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -27,7 +27,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 | File | What's inside |
 |---|---|
-| [`myeongdong.md`](myeongdong.md) | **296 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
+| [`myeongdong.md`](myeongdong.md) | **36 numbered activity sections** for **Myeong-dong** district — Seoul's primary tourist shopping, street-food & non-verbal theater quarter (Jung-gu; cross-referenced with Seoul entries #33 N Seoul Tower, #61 Namdaemun, etc.) |
 
 ### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities, **1,318 activity sections**)
 

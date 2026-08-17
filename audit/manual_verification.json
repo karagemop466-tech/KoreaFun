@@ -4,5 +4,11 @@
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against linked official city, operator, heritage, or organizing-committee sources; unsupported and duplicate entries removed.",
     "reviewer_notes": "Recurring programs remain explicitly marked for schedule re-check. Ordinary operator hours and fares are not treated as immutable facts."
+  },
+  "myeongdong.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against relevant organizer, venue/operator, Seoul City, Jung-gu, heritage, or national-tourism sources; unsupported, obsolete, duplicate, and out-of-neighborhood entries removed.",
+    "reviewer_notes": "2026 event claims require dated organizer pages. Seasonal displays and recurring programs remain explicitly marked for re-check."
   }
 }
