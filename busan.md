@@ -91,8 +91,13 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · [suyeong.go.kr](https://www.suyeong.go.kr)
 
 ### 13) 🚶 **Igidae Coastal Walk and Oryukdo Skywalk** — 🔎 VERIFIED WALK
-- **What:** Cliff boardwalk plus the free glass skywalk at Oryukdo. Wind can close the skywalk. This is also a serious free fireworks viewpoint on Nov 7.
-- **Official sources (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · [namgu.busan.kr](https://www.namgu.busan.kr)
+- **What:** Cliff boardwalk plus the free glass skywalk at Oryukdo — a 15 m horseshoe of bulletproof glass on a 35 m sea cliff. This is also a serious free fireworks viewpoint on Nov 7.
+- **Hours:** **Winter (Oct–May) 09:00–18:00, last admission 17:50.** **Free**, no booking.
+- **✅ Open every day, including Mondays** — the district facilities agency lists it as 연중무휴 (year-round). Some travel guides claim a Monday closure; **that is wrong**, and it matters because Mondays are when most of Busan's museums shut.
+- **⚠️ It does close for weather** — snow, rain, high wind, or maintenance. That is a real risk on an exposed cliff in November. **Call ahead: 051-607-6395** (Haeparang tourist office) or 051-601-3416.
+- **💡 You must wear the free shoe covers** handed out at the entrance, and drinks, selfie sticks and walking poles are not allowed on the glass.
+- **Getting there:** Metro Line 2 to **Kyungsung Univ·Pukyong Univ**, then bus **24, 27 or 131** to Oryukdo Skywalk.
+- **Official sources (reviewed Aug 18):** [Nam-gu Facilities Management Corp — hours, year-round operation](https://bnfmc.or.kr/portal/contents.do?mId=0102010000) · [Nam-gu culture & tourism](https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000) · [Visit Busan — three skywalks](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=49&lang_cd=ko)
 
 ### 14) 🌇 **Cheongsapo harbor, twin lighthouses, and Daritdol Observatory** — 🔎 VERIFIED PLACE
 - **What:** Fishing harbor on the Blueline, plus the glass sea observatory. Free outdoor access during posted hours.
@@ -115,8 +120,13 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [visitsealife.com/busan](https://www.visitsealife.com/busan)
 
 ### 18) 🏬 **Shinsegae Centum City and Spa Land** — 🔎 VERIFIED OPERATOR
-- **What:** Department-store complex next to BEXCO, including the ticketed Spa Land jjimjilbang. Useful G-STAR rest stop.
-- **Official source (reviewed Aug 17):** [department.shinsegae.com](https://department.shinsegae.com)
+- **What:** The Shinsegae Centum City complex next to BEXCO, including **Spa Land**, its large jjimjilbang fed by two natural hot-spring sources. A genuinely useful G-STAR recovery stop — one subway stop from the show.
+- **Spa Land hours:** **08:00–23:00, last entry 22:00.**
+- **Price:** **₩26,000 adult / ₩21,000 student** (weekday, weekend and holiday alike). ☎ 1668-2850.
+- **⚠️ The ticket buys FOUR HOURS, not a day.** Over four hours costs **₩5,000 per extra hour**. Spend ₩10,000+ inside (food, drinks — admission doesn't count) and you get **six hours** instead.
+- **⚠️ Elementary-school age and up only** — no toddlers or infants, unlike most Korean spas.
+- **💡 Buy the weekday ticket only for a weekday visit** — using one at a weekend or public holiday costs ₩6,000 extra at the gate.
+- **Official source (reviewed Aug 18):** [Shinsegae Centum City — Spa Land hours, fares, 4-hour rule](https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008)
 
 ### 19) 🎬 **Busan Cinema Center (Dureraum)** — 🔎 VERIFIED VENUE
 - **What:** BIFF’s home, with year-round screenings and a nightly LED roof. BIFF itself is Oct 6–15, **before** the trip.
@@ -176,8 +186,11 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official sources (reviewed Aug 18):** [Busan City — bridge-lift schedule change notice](https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev) · [KTV — Saturday 14:00 lifting, 2024 report](https://m.ktv.go.kr/content/view?content_id=705652) · [Visit Busan](https://english.visitbusan.net)
 
 ### 28) 🌲 **Taejongdae Resort Park** — 🔎 VERIFIED PLACE
-- **What:** Cliff-and-pine park on southern Yeongdo, with optional Danubi tram. Park grounds are free.
-- **Official source (reviewed Aug 17):** [bisco.or.kr](https://www.bisco.or.kr)
+- **What:** Cliff-and-pine park on southern Yeongdo. **Park grounds are free** and open from early morning; the loop road is a real walk, so most people take the **Danubi road train** (다누비열차) round the observatory / Yeongdo Lighthouse / Taejongsa circuit, about 20 minutes.
+- **⚠️ The Danubi train is CLOSED EVERY MONDAY** — and the park is large and hilly, so a Monday visit means walking the whole circuit. *(It runs Mondays only during the Sep 1 – Oct 31 peak, which ends before you arrive.)*
+- **Danubi hours (winter):** ticketing **09:00–17:30**, running **09:20–17:30**. Ticket sales can close **2–3 hours early** on quiet days.
+- **Danubi fare:** **₩4,000 adult round trip / ₩2,000 one way**; youth ₩2,000; child ₩1,500.
+- **Official source (reviewed Aug 18):** [BISCO — Taejongdae Danubi train hours and Monday closure](https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/)
 
 ### 29) 🚠 **Songdo Marine Cable Car, Skywalk, and Amnam Park** — 🔎 VERIFIED OPERATORS
 - **What:** Sea-crossing gondola, free Songdo Cloud Trails, and the Amnam / Yonggung suspension-bridge area. Weather can stop the cable car.

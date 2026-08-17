@@ -159,9 +159,75 @@
   "file": "busan.md",
   "kind": "DATE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Cliff boardwalk plus the free glass skywalk at Oryukdo. Wind can close the skywalk. This is also a serious free fireworks viewpoint on Nov 7.",
   "verdict": "unchecked"
+ },
+ "busan.md#13:1af0e5f110": {
+  "checked_on": "2026-08-17",
+  "entry": 13,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Oryukdo Skywalk: CONTRADICTION RESOLVED IN THE TRAVELLER'S FAVOUR. A widely-copied travel guide (mywebring.com) claims '휴무 매주 월요일'. The OPERATOR - Nam-gu Facilities Management Corp (bnfmc.or.kr) - and Nam-gu's own tourism page and Visit Busan and KTO all say 연중무휴 / open all year. Rejected the blog. This matters because Mondays close most Busan museums, so a genuinely Monday-proof free attraction is valuable. Winter (Oct-May) 09:00-18:00, last admission 17:50; summer Jun-Sep to 19:00. Free, no booking. DOES close for snow/rain/high wind/maintenance - real risk on an exposed cliff in November; call 051-607-6395 or 051-601-3416. Free shoe covers mandatory; no drinks, selfie sticks or poles on the glass. Access: Line 2 Kyungsung/Pukyong Univ + bus 24/27/131.",
+  "sources": [
+   "https://bnfmc.or.kr/portal/contents.do?mId=0102010000",
+   "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000"
+  ],
+  "text": "- **⚠️ It does close for weather** — snow, rain, high wind, or maintenance. That is a real risk on an exposed cliff in November. **Call ahead: 051-607-6395** (Haeparang tourist office) or 051-601-3416.",
+  "verdict": "prose"
+ },
+ "busan.md#13:2fbd256f10": {
+  "checked_on": "2026-08-17",
+  "entry": 13,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Oryukdo Skywalk: CONTRADICTION RESOLVED IN THE TRAVELLER'S FAVOUR. A widely-copied travel guide (mywebring.com) claims '휴무 매주 월요일'. The OPERATOR - Nam-gu Facilities Management Corp (bnfmc.or.kr) - and Nam-gu's own tourism page and Visit Busan and KTO all say 연중무휴 / open all year. Rejected the blog. This matters because Mondays close most Busan museums, so a genuinely Monday-proof free attraction is valuable. Winter (Oct-May) 09:00-18:00, last admission 17:50; summer Jun-Sep to 19:00. Free, no booking. DOES close for snow/rain/high wind/maintenance - real risk on an exposed cliff in November; call 051-607-6395 or 051-601-3416. Free shoe covers mandatory; no drinks, selfie sticks or poles on the glass. Access: Line 2 Kyungsung/Pukyong Univ + bus 24/27/131.",
+  "sources": [
+   "https://bnfmc.or.kr/portal/contents.do?mId=0102010000",
+   "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000"
+  ],
+  "text": "- **💡 You must wear the free shoe covers** handed out at the entrance, and drinks, selfie sticks and walking poles are not allowed on the glass.",
+  "verdict": "verified"
+ },
+ "busan.md#13:592dbd5937": {
+  "checked_on": "2026-08-17",
+  "entry": 13,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Oryukdo Skywalk: CONTRADICTION RESOLVED IN THE TRAVELLER'S FAVOUR. A widely-copied travel guide (mywebring.com) claims '휴무 매주 월요일'. The OPERATOR - Nam-gu Facilities Management Corp (bnfmc.or.kr) - and Nam-gu's own tourism page and Visit Busan and KTO all say 연중무휴 / open all year. Rejected the blog. This matters because Mondays close most Busan museums, so a genuinely Monday-proof free attraction is valuable. Winter (Oct-May) 09:00-18:00, last admission 17:50; summer Jun-Sep to 19:00. Free, no booking. DOES close for snow/rain/high wind/maintenance - real risk on an exposed cliff in November; call 051-607-6395 or 051-601-3416. Free shoe covers mandatory; no drinks, selfie sticks or poles on the glass. Access: Line 2 Kyungsung/Pukyong Univ + bus 24/27/131.",
+  "sources": [
+   "https://bnfmc.or.kr/portal/contents.do?mId=0102010000",
+   "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Nam-gu Facilities Management Corp — hours, year-round operation](https://bnfmc.or.kr/portal/contents.do?mId=0102010000) · [Nam-gu culture & tourism](https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000) · [Visit Busan — three skywalks](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=49&lang_cd=ko)",
+  "verdict": "sourced"
+ },
+ "busan.md#13:6fe410dbf8": {
+  "checked_on": "2026-08-17",
+  "entry": 13,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Oryukdo Skywalk: CONTRADICTION RESOLVED IN THE TRAVELLER'S FAVOUR. A widely-copied travel guide (mywebring.com) claims '휴무 매주 월요일'. The OPERATOR - Nam-gu Facilities Management Corp (bnfmc.or.kr) - and Nam-gu's own tourism page and Visit Busan and KTO all say 연중무휴 / open all year. Rejected the blog. This matters because Mondays close most Busan museums, so a genuinely Monday-proof free attraction is valuable. Winter (Oct-May) 09:00-18:00, last admission 17:50; summer Jun-Sep to 19:00. Free, no booking. DOES close for snow/rain/high wind/maintenance - real risk on an exposed cliff in November; call 051-607-6395 or 051-601-3416. Free shoe covers mandatory; no drinks, selfie sticks or poles on the glass. Access: Line 2 Kyungsung/Pukyong Univ + bus 24/27/131.",
+  "sources": [
+   "https://bnfmc.or.kr/portal/contents.do?mId=0102010000",
+   "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000"
+  ],
+  "text": "- **Getting there:** Metro Line 2 to **Kyungsung Univ·Pukyong Univ**, then bus **24, 27 or 131** to Oryukdo Skywalk.",
+  "verdict": "prose"
+ },
+ "busan.md#13:aab3236a75": {
+  "checked_on": "2026-08-17",
+  "entry": 13,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Oryukdo Skywalk: CONTRADICTION RESOLVED IN THE TRAVELLER'S FAVOUR. A widely-copied travel guide (mywebring.com) claims '휴무 매주 월요일'. The OPERATOR - Nam-gu Facilities Management Corp (bnfmc.or.kr) - and Nam-gu's own tourism page and Visit Busan and KTO all say 연중무휴 / open all year. Rejected the blog. This matters because Mondays close most Busan museums, so a genuinely Monday-proof free attraction is valuable. Winter (Oct-May) 09:00-18:00, last admission 17:50; summer Jun-Sep to 19:00. Free, no booking. DOES close for snow/rain/high wind/maintenance - real risk on an exposed cliff in November; call 051-607-6395 or 051-601-3416. Free shoe covers mandatory; no drinks, selfie sticks or poles on the glass. Access: Line 2 Kyungsung/Pukyong Univ + bus 24/27/131.",
+  "sources": [
+   "https://bnfmc.or.kr/portal/contents.do?mId=0102010000",
+   "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000"
+  ],
+  "text": "- **Hours:** **Winter (Oct–May) 09:00–18:00, last admission 17:50.** **Free**, no booking.",
+  "verdict": "verified"
  },
  "busan.md#13:c98e175ca1": {
   "checked_on": null,
@@ -169,9 +235,36 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official sources (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · [namgu.busan.kr](https://www.namgu.busan.kr)",
   "verdict": "unchecked"
+ },
+ "busan.md#13:f560503804": {
+  "checked_on": "2026-08-17",
+  "entry": 13,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Oryukdo Skywalk: CONTRADICTION RESOLVED IN THE TRAVELLER'S FAVOUR. A widely-copied travel guide (mywebring.com) claims '휴무 매주 월요일'. The OPERATOR - Nam-gu Facilities Management Corp (bnfmc.or.kr) - and Nam-gu's own tourism page and Visit Busan and KTO all say 연중무휴 / open all year. Rejected the blog. This matters because Mondays close most Busan museums, so a genuinely Monday-proof free attraction is valuable. Winter (Oct-May) 09:00-18:00, last admission 17:50; summer Jun-Sep to 19:00. Free, no booking. DOES close for snow/rain/high wind/maintenance - real risk on an exposed cliff in November; call 051-607-6395 or 051-601-3416. Free shoe covers mandatory; no drinks, selfie sticks or poles on the glass. Access: Line 2 Kyungsung/Pukyong Univ + bus 24/27/131.",
+  "sources": [
+   "https://bnfmc.or.kr/portal/contents.do?mId=0102010000",
+   "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000"
+  ],
+  "text": "- **What:** Cliff boardwalk plus the free glass skywalk at Oryukdo — a 15 m horseshoe of bulletproof glass on a 35 m sea cliff. This is also a serious free fireworks viewpoint on Nov 7.",
+  "verdict": "verified"
+ },
+ "busan.md#13:f65286627c": {
+  "checked_on": "2026-08-17",
+  "entry": 13,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Oryukdo Skywalk: CONTRADICTION RESOLVED IN THE TRAVELLER'S FAVOUR. A widely-copied travel guide (mywebring.com) claims '휴무 매주 월요일'. The OPERATOR - Nam-gu Facilities Management Corp (bnfmc.or.kr) - and Nam-gu's own tourism page and Visit Busan and KTO all say 연중무휴 / open all year. Rejected the blog. This matters because Mondays close most Busan museums, so a genuinely Monday-proof free attraction is valuable. Winter (Oct-May) 09:00-18:00, last admission 17:50; summer Jun-Sep to 19:00. Free, no booking. DOES close for snow/rain/high wind/maintenance - real risk on an exposed cliff in November; call 051-607-6395 or 051-601-3416. Free shoe covers mandatory; no drinks, selfie sticks or poles on the glass. Access: Line 2 Kyungsung/Pukyong Univ + bus 24/27/131.",
+  "sources": [
+   "https://bnfmc.or.kr/portal/contents.do?mId=0102010000",
+   "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000"
+  ],
+  "text": "- **✅ Open every day, including Mondays** — the district facilities agency lists it as 연중무휴 (year-round). Some travel guides claim a Monday closure; **that is wrong**, and it matters because Mondays are when most of Busan's museums shut.",
+  "verdict": "verified"
  },
  "busan.md#14:1a2ec13f4f": {
   "checked_on": null,
@@ -311,15 +404,64 @@
   "text": "- **Official source (reviewed Aug 17):** [visitsealife.com/busan](https://www.visitsealife.com/busan)",
   "verdict": "unchecked"
  },
+ "busan.md#18:2c06460d1f": {
+  "checked_on": "2026-08-17",
+  "entry": 18,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Shinsegae Centum City / Spa Land: price silence resolved from the operator's own store page. 26,000 adult / 21,000 student, SAME weekday and weekend. 08:00-23:00, last entry 22:00, tel 1668-2850. CRITICAL RULE the entry missed: the ticket covers only FOUR HOURS; beyond that it is +5,000 won per hour. Spending 10,000+ inside (excluding admission) extends to six hours. AGE LIMIT: elementary-school age and up only - no infants/toddlers, unusual for a Korean spa. Weekday tickets used on a weekend/holiday incur +6,000 at the gate. Student rate defined by birth year 2008-2019. Group discounts 10/15/20% at 10/20/30 people. Itinerary Day 21 (Nov 20) already suggests Spa Land - added the 4-hour cap there.",
+  "sources": [
+   "https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008"
+  ],
+  "text": "- **💡 Buy the weekday ticket only for a weekday visit** — using one at a weekend or public holiday costs ₩6,000 extra at the gate.",
+  "verdict": "verified"
+ },
  "busan.md#18:4090ac36ab": {
   "checked_on": null,
   "entry": 18,
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [department.shinsegae.com](https://department.shinsegae.com)",
   "verdict": "unchecked"
+ },
+ "busan.md#18:54ca38d8e8": {
+  "checked_on": "2026-08-17",
+  "entry": 18,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Shinsegae Centum City / Spa Land: price silence resolved from the operator's own store page. 26,000 adult / 21,000 student, SAME weekday and weekend. 08:00-23:00, last entry 22:00, tel 1668-2850. CRITICAL RULE the entry missed: the ticket covers only FOUR HOURS; beyond that it is +5,000 won per hour. Spending 10,000+ inside (excluding admission) extends to six hours. AGE LIMIT: elementary-school age and up only - no infants/toddlers, unusual for a Korean spa. Weekday tickets used on a weekend/holiday incur +6,000 at the gate. Student rate defined by birth year 2008-2019. Group discounts 10/15/20% at 10/20/30 people. Itinerary Day 21 (Nov 20) already suggests Spa Land - added the 4-hour cap there.",
+  "sources": [
+   "https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008"
+  ],
+  "text": "- **Spa Land hours:** **08:00–23:00, last entry 22:00.**",
+  "verdict": "verified"
+ },
+ "busan.md#18:5db48c822e": {
+  "checked_on": "2026-08-17",
+  "entry": 18,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Shinsegae Centum City / Spa Land: price silence resolved from the operator's own store page. 26,000 adult / 21,000 student, SAME weekday and weekend. 08:00-23:00, last entry 22:00, tel 1668-2850. CRITICAL RULE the entry missed: the ticket covers only FOUR HOURS; beyond that it is +5,000 won per hour. Spending 10,000+ inside (excluding admission) extends to six hours. AGE LIMIT: elementary-school age and up only - no infants/toddlers, unusual for a Korean spa. Weekday tickets used on a weekend/holiday incur +6,000 at the gate. Student rate defined by birth year 2008-2019. Group discounts 10/15/20% at 10/20/30 people. Itinerary Day 21 (Nov 20) already suggests Spa Land - added the 4-hour cap there.",
+  "sources": [
+   "https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008"
+  ],
+  "text": "- **⚠️ The ticket buys FOUR HOURS, not a day.** Over four hours costs **₩5,000 per extra hour**. Spend ₩10,000+ inside (food, drinks — admission doesn't count) and you get **six hours** instead.",
+  "verdict": "verified"
+ },
+ "busan.md#18:7f56c03788": {
+  "checked_on": "2026-08-17",
+  "entry": 18,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Shinsegae Centum City / Spa Land: price silence resolved from the operator's own store page. 26,000 adult / 21,000 student, SAME weekday and weekend. 08:00-23:00, last entry 22:00, tel 1668-2850. CRITICAL RULE the entry missed: the ticket covers only FOUR HOURS; beyond that it is +5,000 won per hour. Spending 10,000+ inside (excluding admission) extends to six hours. AGE LIMIT: elementary-school age and up only - no infants/toddlers, unusual for a Korean spa. Weekday tickets used on a weekend/holiday incur +6,000 at the gate. Student rate defined by birth year 2008-2019. Group discounts 10/15/20% at 10/20/30 people. Itinerary Day 21 (Nov 20) already suggests Spa Land - added the 4-hour cap there.",
+  "sources": [
+   "https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008"
+  ],
+  "text": "- **⚠️ Elementary-school age and up only** — no toddlers or infants, unlike most Korean spas.",
+  "verdict": "verified"
  },
  "busan.md#18:81917b49f1": {
   "checked_on": null,
@@ -327,9 +469,46 @@
   "file": "busan.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Department-store complex next to BEXCO, including the ticketed Spa Land jjimjilbang. Useful G-STAR rest stop.",
   "verdict": "unchecked"
+ },
+ "busan.md#18:aef055dfd6": {
+  "checked_on": "2026-08-17",
+  "entry": 18,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Shinsegae Centum City / Spa Land: price silence resolved from the operator's own store page. 26,000 adult / 21,000 student, SAME weekday and weekend. 08:00-23:00, last entry 22:00, tel 1668-2850. CRITICAL RULE the entry missed: the ticket covers only FOUR HOURS; beyond that it is +5,000 won per hour. Spending 10,000+ inside (excluding admission) extends to six hours. AGE LIMIT: elementary-school age and up only - no infants/toddlers, unusual for a Korean spa. Weekday tickets used on a weekend/holiday incur +6,000 at the gate. Student rate defined by birth year 2008-2019. Group discounts 10/15/20% at 10/20/30 people. Itinerary Day 21 (Nov 20) already suggests Spa Land - added the 4-hour cap there.",
+  "sources": [
+   "https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Shinsegae Centum City — Spa Land hours, fares, 4-hour rule](https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008)",
+  "verdict": "sourced"
+ },
+ "busan.md#18:babfabf751": {
+  "checked_on": "2026-08-17",
+  "entry": 18,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Shinsegae Centum City / Spa Land: price silence resolved from the operator's own store page. 26,000 adult / 21,000 student, SAME weekday and weekend. 08:00-23:00, last entry 22:00, tel 1668-2850. CRITICAL RULE the entry missed: the ticket covers only FOUR HOURS; beyond that it is +5,000 won per hour. Spending 10,000+ inside (excluding admission) extends to six hours. AGE LIMIT: elementary-school age and up only - no infants/toddlers, unusual for a Korean spa. Weekday tickets used on a weekend/holiday incur +6,000 at the gate. Student rate defined by birth year 2008-2019. Group discounts 10/15/20% at 10/20/30 people. Itinerary Day 21 (Nov 20) already suggests Spa Land - added the 4-hour cap there.",
+  "sources": [
+   "https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008"
+  ],
+  "text": "- **What:** The Shinsegae Centum City complex next to BEXCO, including **Spa Land**, its large jjimjilbang fed by two natural hot-spring sources. A genuinely useful G-STAR recovery stop — one subway stop from the show.",
+  "verdict": "prose"
+ },
+ "busan.md#18:ca9fa4aa73": {
+  "checked_on": "2026-08-17",
+  "entry": 18,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Shinsegae Centum City / Spa Land: price silence resolved from the operator's own store page. 26,000 adult / 21,000 student, SAME weekday and weekend. 08:00-23:00, last entry 22:00, tel 1668-2850. CRITICAL RULE the entry missed: the ticket covers only FOUR HOURS; beyond that it is +5,000 won per hour. Spending 10,000+ inside (excluding admission) extends to six hours. AGE LIMIT: elementary-school age and up only - no infants/toddlers, unusual for a Korean spa. Weekday tickets used on a weekend/holiday incur +6,000 at the gate. Student rate defined by birth year 2008-2019. Group discounts 10/15/20% at 10/20/30 people. Itinerary Day 21 (Nov 20) already suggests Spa Land - added the 4-hour cap there.",
+  "sources": [
+   "https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008"
+  ],
+  "text": "- **Price:** **₩26,000 adult / ₩21,000 student** (weekday, weekend and holiday alike). ☎ 1668-2850.",
+  "verdict": "verified"
  },
  "busan.md#19:034280498e": {
   "checked_on": null,
@@ -896,12 +1075,73 @@
   "text": "- **✅ In your window that means Sat Nov 7, 14 and 21 at 14:00.** Free, outdoors, no booking.",
   "verdict": "verified"
  },
+ "busan.md#28:21970efc0c": {
+  "checked_on": "2026-08-17",
+  "entry": 28,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Taejongdae: park grounds free and open early. Danubi road train CLOSED EVERY MONDAY per BISCO - except during the Sep 1 - Oct 31 peak when it runs daily, and that exception ENDS before the trip, so Mondays in November are genuinely closed. Winter ticketing 09:00-17:30, running 09:20-17:30 (summer Jun-Aug to 19:30). Fares 4,000 adult round trip / 2,000 one way, youth 2,000, child 1,500. Ticket sales may close 2-3 hours early. The circuit is observatory - Yeongdo Lighthouse - Taejongsa, ~20 min. Park is large and hilly so a Monday visit means walking it. Added to travel-basics 1c Monday list. NOTE: bisco.or.kr/taejongdae/... 500s on direct fetch but is the operator path indexed by search.",
+  "sources": [
+   "https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/"
+  ],
+  "text": "- **Danubi fare:** **₩4,000 adult round trip / ₩2,000 one way**; youth ₩2,000; child ₩1,500.",
+  "verdict": "verified"
+ },
+ "busan.md#28:26ebb8c8d5": {
+  "checked_on": "2026-08-17",
+  "entry": 28,
+  "file": "busan.md",
+  "kind": "ACCESS",
+  "note": "Taejongdae: park grounds free and open early. Danubi road train CLOSED EVERY MONDAY per BISCO - except during the Sep 1 - Oct 31 peak when it runs daily, and that exception ENDS before the trip, so Mondays in November are genuinely closed. Winter ticketing 09:00-17:30, running 09:20-17:30 (summer Jun-Aug to 19:30). Fares 4,000 adult round trip / 2,000 one way, youth 2,000, child 1,500. Ticket sales may close 2-3 hours early. The circuit is observatory - Yeongdo Lighthouse - Taejongsa, ~20 min. Park is large and hilly so a Monday visit means walking it. Added to travel-basics 1c Monday list. NOTE: bisco.or.kr/taejongdae/... 500s on direct fetch but is the operator path indexed by search.",
+  "sources": [
+   "https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/"
+  ],
+  "text": "- **What:** Cliff-and-pine park on southern Yeongdo. **Park grounds are free** and open from early morning; the loop road is a real walk, so most people take the **Danubi road train** (다누비열차) round the observatory / Yeongdo Lighthouse / Taejongsa circuit, about 20 minutes.",
+  "verdict": "verified"
+ },
+ "busan.md#28:3de8b57ab9": {
+  "checked_on": "2026-08-17",
+  "entry": 28,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Taejongdae: park grounds free and open early. Danubi road train CLOSED EVERY MONDAY per BISCO - except during the Sep 1 - Oct 31 peak when it runs daily, and that exception ENDS before the trip, so Mondays in November are genuinely closed. Winter ticketing 09:00-17:30, running 09:20-17:30 (summer Jun-Aug to 19:30). Fares 4,000 adult round trip / 2,000 one way, youth 2,000, child 1,500. Ticket sales may close 2-3 hours early. The circuit is observatory - Yeongdo Lighthouse - Taejongsa, ~20 min. Park is large and hilly so a Monday visit means walking it. Added to travel-basics 1c Monday list. NOTE: bisco.or.kr/taejongdae/... 500s on direct fetch but is the operator path indexed by search.",
+  "sources": [
+   "https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/"
+  ],
+  "text": "- **⚠️ The Danubi train is CLOSED EVERY MONDAY** — and the park is large and hilly, so a Monday visit means walking the whole circuit. *(It runs Mondays only during the Sep 1 – Oct 31 peak, which ends before you arrive.)*",
+  "verdict": "verified"
+ },
+ "busan.md#28:897b67d988": {
+  "checked_on": "2026-08-17",
+  "entry": 28,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Taejongdae: park grounds free and open early. Danubi road train CLOSED EVERY MONDAY per BISCO - except during the Sep 1 - Oct 31 peak when it runs daily, and that exception ENDS before the trip, so Mondays in November are genuinely closed. Winter ticketing 09:00-17:30, running 09:20-17:30 (summer Jun-Aug to 19:30). Fares 4,000 adult round trip / 2,000 one way, youth 2,000, child 1,500. Ticket sales may close 2-3 hours early. The circuit is observatory - Yeongdo Lighthouse - Taejongsa, ~20 min. Park is large and hilly so a Monday visit means walking it. Added to travel-basics 1c Monday list. NOTE: bisco.or.kr/taejongdae/... 500s on direct fetch but is the operator path indexed by search.",
+  "sources": [
+   "https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/"
+  ],
+  "text": "- **Danubi hours (winter):** ticketing **09:00–17:30**, running **09:20–17:30**. Ticket sales can close **2–3 hours early** on quiet days.",
+  "verdict": "verified"
+ },
+ "busan.md#28:a32a9eab48": {
+  "checked_on": "2026-08-17",
+  "entry": 28,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Taejongdae: park grounds free and open early. Danubi road train CLOSED EVERY MONDAY per BISCO - except during the Sep 1 - Oct 31 peak when it runs daily, and that exception ENDS before the trip, so Mondays in November are genuinely closed. Winter ticketing 09:00-17:30, running 09:20-17:30 (summer Jun-Aug to 19:30). Fares 4,000 adult round trip / 2,000 one way, youth 2,000, child 1,500. Ticket sales may close 2-3 hours early. The circuit is observatory - Yeongdo Lighthouse - Taejongsa, ~20 min. Park is large and hilly so a Monday visit means walking it. Added to travel-basics 1c Monday list. NOTE: bisco.or.kr/taejongdae/... 500s on direct fetch but is the operator path indexed by search.",
+  "sources": [
+   "https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [BISCO — Taejongdae Danubi train hours and Monday closure](https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/)",
+  "verdict": "sourced"
+ },
  "busan.md#28:dd008838dc": {
   "checked_on": null,
   "entry": 28,
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [bisco.or.kr](https://www.bisco.or.kr)",
   "verdict": "unchecked"
@@ -912,6 +1152,7 @@
   "file": "busan.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **What:** Cliff-and-pine park on southern Yeongdo, with optional Danubi tram. Park grounds are free.",
   "verdict": "unchecked"
