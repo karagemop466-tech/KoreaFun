@@ -321,8 +321,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official sources (reviewed Aug 17):** [cablecar.co.kr](https://www.cablecar.co.kr) · [nseoultower.co.kr](https://www.nseoultower.co.kr)
 
 ### 58) 🏙️ **Seoul Sky (Lotte World Tower)** — 🔎 VERIFIED OPERATOR
-- **What:** Observatory on floors 117–123. Hours and fares are operator-controlled.
-- **Official source (reviewed Aug 17):** [seoulsky.lotteworld.com](https://seoulsky.lotteworld.com)
+- **What:** Korea's highest observatory — floors 117–123 of Lotte World Tower, 500 m up, 360° views. Best known for sunset and night views.
+- **Price (operator, Aug 18):** **₩33,000 adult (13+) · ₩29,000 youth/child (36 months–12) and senior 65+.** Under-36-months free with a guardian (proof of age). **SEOUL SKY + Aquarium package ₩62,000/₩56,000.** **Fast Pass ₩62,000** (skip the queue, no reservation needed).
+- **Hours:** **Sun–Thu 10:30–22:00 · Fri–Sat and days before holidays 10:30–23:00. Ticketing and entry close 1 hour before closing.**
+- **💡 Book online in advance** — it's cheaper than the gate and you skip the ticket queue. Reservations open on the 1st of each month for that month's dates. **Screenshots and photocopies are refused at entry** — use the real mobile or paper ticket.
+- **30% discount** for visitors with disability certification or national-merit status, plus one companion. Parking is discounted to ~₩4,800 for 4 hours for visitors.
+- **Official source (reviewed Aug 18):** [SEOUL SKY — official ticket prices](https://seoulsky.lotteworld.com/price/info/ticket)
 
 ### 59) 🌳 **Seoul Forest** — 🔎 VERIFIED PARK
 - **What:** Large park in Seongsu with deer enclosure and ginkgo avenues. A “20th-anniversary garden festa Nov 8–9” was a **2025** event (the park opened in 2005) and is **not** a 2026 confirmed festival.

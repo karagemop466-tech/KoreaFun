@@ -206,8 +206,12 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 31) 🏯 **Deoksugung Palace** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Royal palace beside City Hall, walkable from Myeong-dong via Euljiro or Seosomun.
-- **Hours/price:** Check Korea Heritage Service for current admission, Monday closure, last entry, and any evening program.
-- **Official source (reviewed Aug 17):** [Royal Palaces and Tombs Center — Deoksugung](https://royal.khs.go.kr/ENG/contents/E101000000.do)
+- **Price:** **₩1,000 adult** (foreign visitors 19–64; Korean nationals 25–64 pay the same). **Free for under-18s and over-65s**, and **free for anyone wearing hanbok** — rentals are easy to find nearby and this is a genuine saving across multiple palaces.
+- **Hours:** **09:00–21:00, ticketing and entry 09:00–20:00** — Deoksugung stays open late, which makes it one of the few palaces you can visit after dinner. **Closed Mondays.**
+- **💡 The ₩10,000 combined palace ticket** covers all four grand palaces **plus Jongmyo**, valid 3 months, one entry each — worth it if you'll see three or more. Individually Gyeongbokgung/Changdeokgung/Changgyeonggung are ₩3,000/₩1,000 tiers, so the maths only works if you're committed.
+- **🇬🇧 Free English guided tours** daily except Monday at **10:45 and 13:30** (~60–90 min), from the information desk inside Daehanmun. Japanese 09:30/16:00, Chinese 10:00/14:30.
+- **⚠️ MMCA Deoksugung** (the art museum inside the palace grounds) charges a **separate ₩2,000** on top of palace admission — but is **free Wed and Sat 18:00–21:00** during its night opening. Seokjojeon's Daehan Empire History Hall needs **separate advance booking**.
+- **Official sources (reviewed Aug 18):** [Korea Heritage Service — Deoksugung admission and tour timetable](https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25) · [MMCA Deoksugung — hours and combined pricing](https://www.mmca.go.kr/deoksugung/viewingInfo/information.do)
 
 ### 32) 🎭 **National Jeongdong Theater** — ⏳ RE-CHECK PERFORMANCE CALENDAR
 - **What:** National performing-arts venue in the Jeong-dong cultural district behind Deoksugung.

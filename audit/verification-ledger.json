@@ -3346,14 +3346,17 @@
  },
  "myeongdong.md#31": {
   "badge": "🔎",
-  "body_hash": "182a80e9f9",
-  "checked_on": null,
+  "body_hash": "ed3555b50a",
+  "checked_on": "2026-08-18",
   "file": "myeongdong.md",
-  "note": "",
+  "note": "Deoksugung was a pure hedge ('check KHS for current admission'). Resolved: W1,000 adult, FREE under-18/over-65 and FREE IN HANBOK. Hours 09:00-21:00 with ticketing to 20:00 (late-opening palace), closed Mondays. Free ENGLISH tours 10:45 and 13:30 daily except Mon. MMCA Deoksugung inside costs a SEPARATE W2,000 but is free Wed/Sat 18:00-21:00. Seokjojeon needs separate booking.",
   "num": 31,
-  "sources": [],
+  "sources": [
+   "https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25",
+   "https://www.mmca.go.kr/deoksugung/viewingInfo/information.do"
+  ],
   "title": "🏯 Deoksugung Palace",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "myeongdong.md#32": {
   "badge": "⏳",
@@ -4464,14 +4467,16 @@
  },
  "seoul.md#58": {
   "badge": "🔎",
-  "body_hash": "d11a845d8e",
-  "checked_on": null,
+  "body_hash": "a72a4c99ca",
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Seoul Sky was a STUB ('hours and fares are operator-controlled'). Operator ticket page live: W33,000 adult 13+ / W29,000 youth+child 36mo-12 + senior 65+; under-36mo free; SKY+Aquarium package W62,000/W56,000; Fast Pass W62,000. Hours Sun-Thu 10:30-22:00, Fri-Sat + pre-holiday 10:30-23:00, ticketing/entry close 1h before. Screenshots REFUSED at entry. 30% disability/national-merit discount. Note: the previously-logged dead URL /ko/observatory/... is still 404 but /price/info/ticket works.",
   "num": 58,
-  "sources": [],
+  "sources": [
+   "https://seoulsky.lotteworld.com/price/info/ticket"
+  ],
   "title": "🏙️ Seoul Sky (Lotte World Tower)",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "seoul.md#59": {
   "badge": "🔎",

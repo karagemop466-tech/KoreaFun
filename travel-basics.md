@@ -16,6 +16,16 @@ Everything below is practical setup for the events in this repo. Official links 
 - **Tipping:** Not expected, anywhere. Round-up change is fine. No service charges.
 - **Foreign cards:** ATMs at convenience stores (CU/GS25) and banks work with US cards; look for "Global ATM".
 
+## 1b. 🏯 Palace tickets — two ways to pay nothing (or almost nothing)
+You will visit palaces. Two facts are worth knowing before the first ticket booth:
+
+- **👘 Wearing hanbok gets you into all the palaces free.** Not a discount — free. Rental shops cluster around Gyeongbokgung and Jeonju's Hanok Village and typically charge ₩15,000–30,000 for a few hours. **If you were going to rent hanbok for photos anyway, do it on a multi-palace day** and it partly pays for itself.
+- **🎟️ The ₩10,000 combined palace ticket (궁궐 통합관람권)** covers **all four grand palaces plus Jongmyo Shrine**, one entry each, valid **3 months**. Individually: Gyeongbokgung ₩3,000, Changdeokgung ₩3,000 (+₩5,000 for the Huwon secret-garden tour), Changgyeonggung ₩1,000, Deoksugung ₩1,000. **The combined ticket only pays off if you're doing three or more** — two palaces plus Huwon is about break-even.
+- **Free for under-18s and over-65s** at all of them, and **the last Wednesday of each month ("Culture Day") is free** — that's **Wed Nov 25, 2026**, just after you leave.
+- **Closure days differ and this catches people out:** **Gyeongbokgung closes Tuesdays**; **Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close Mondays.** There is no day when everything is shut, but there is no day when everything is open either.
+- **Deoksugung runs late** — open to 21:00 (entry to 20:00), so it's the after-dinner option.
+- **Official source (reviewed Aug 18):** [Korea Heritage Service — palace admission](https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25)
+
 ## 2. Getting around cities
 - **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24). The plain card is **~₩3,000–4,000** (character/designer editions run ₩6,000+); the card fee is **non-refundable**, though leftover balance can be refunded at convenience stores minus a fee. Load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
 - **WOWPASS Card:** An all-in-one prepaid card for foreign tourists combining T-money transit + credit card payments ([wowpass.io](https://www.wowpass.io)). You can insert US dollars (cash) directly into WOWPASS kiosks at Incheon Airport and major subway stations to issue a card pre-loaded in KRW.
