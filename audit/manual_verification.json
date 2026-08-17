@@ -16,5 +16,11 @@
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against dated organizer, operator, museum, Yongin City, Gyeonggi Cultural Foundation, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
     "reviewer_notes": "Confirmed 2026 Folk Village and museum exhibitions use dated sources. Everland seasonal programming, Caribbean Bay, templestays, and venue calendars remain explicitly marked for re-check."
+  },
+  "suwon.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated organizer, operator, Suwon City, Suwon Cultural Foundation, museum, league, UNESCO, or national-tourism sources; unsupported, duplicate, generic, and out-of-city entries removed.",
+    "reviewer_notes": "Confirmed 2026 exhibitions and performances use dated sources. Sports fixtures and weather-dependent operations remain explicitly marked for re-check."
   }
 }

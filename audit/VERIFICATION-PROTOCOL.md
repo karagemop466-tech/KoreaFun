@@ -63,8 +63,9 @@ Do not add an entry solely to increase a count.
 | `yeosu.md` | **Reviewed 2026-08-17** | Rebuilt 100 → 32 entries; removed fabricated places, unsupported event claims, duplicates, generic advice, and out-of-city padding; added 8 official-source activities. |
 | `myeongdong.md` | **Reviewed 2026-08-17** | Rebuilt 296 → 36 entries; removed invented venues/events, stale brand branches, snack-by-snack padding, duplicates, generic advice, and attractions elsewhere in Seoul; added confirmed 2026 theater/art plus newly sourced museums and walks. |
 | `yongin.md` | **Reviewed 2026-08-17** | Rebuilt 167 → 36 entries; removed fabricated Samsung venues, sports, festivals, unnamed businesses, duplicates, generic advice, and out-of-city padding; added dated 2026 Folk Village and museum programming. |
-| Remaining 11 files | **Not yet manually reviewed under this protocol** | Existing content remains a research queue, regardless of earlier heuristic “SOLID” labels. |
+| `suwon.md` | **Reviewed 2026-08-17** | Rebuilt 211 → 37 entries; removed invented places/events, duplicated fortress components, generic advice, and out-of-city padding; added dated 2026 convention, exhibitions, performances, and final night-opening dates. |
+| Remaining 10 files | **Not yet manually reviewed under this protocol** | Existing content remains a research queue, regardless of earlier heuristic “SOLID” labels. |
 
 ## Next pass order
 
-Prioritize files with the greatest current source risk: `suwon.md`, `jeonju.md`, `incheon.md`, `gyeongju.md`, `daegu.md`, `ulsan.md`, `pohang.md`, `changwon-jinhae.md`, then re-audit the three previously described as “core” (`seoul.md`, `busan.md`, `daejeon-cheonan.md`). This order is based on missing-source and weak-source counts, not an assumption that the later files are verified.
+Prioritize files with the greatest current source risk: `jeonju.md`, `incheon.md`, `gyeongju.md`, `daegu.md`, `ulsan.md`, `pohang.md`, `changwon-jinhae.md`, then re-audit the three previously described as “core” (`seoul.md`, `busan.md`, `daejeon-cheonan.md`). This order is based on missing-source and weak-source counts, not an assumption that the later files are verified.
