@@ -1266,8 +1266,6 @@
 
 ---
 
-## 🆕 More verified Suwon events & activities (expansion set)
-
 *Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
 
 ### 189) 🏞️ Gwanggyo Museum & Suwon Convention Center (수원컨벤션센터) — 🔁 by event

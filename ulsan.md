@@ -990,8 +990,6 @@
 
 ---
 
-## 🆕 More verified Ulsan events & activities (expansion set)
-
 *Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
 
 ### 181) 🖌️ Ulsan Public Art Programme — Shepard Fairey, Vhils, JonOne — 🔁 daily (FREE)

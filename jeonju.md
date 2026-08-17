@@ -1092,8 +1092,6 @@
 
 ---
 
-## 🆕 More verified Jeonju events & activities (expansion set)
-
 *Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
 
 ### 187) 🏰 Gochang Eupseong Walled Town day trip (고창읍성) — 🔁 daily

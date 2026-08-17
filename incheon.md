@@ -1283,8 +1283,6 @@
 
 ---
 
-## 🆕 More verified Incheon events & activities (expansion set)
-
 **Second expansion batch** — islands, Ganghwa heritage, new-town Songdo/Cheongna, seasonal November food and practical services.
 
 ### 213) 🏛️ Incheon Metropolitan Museum of Art / Incheon Culture & Arts Centre (인천문화예술회관) — 🔁 by event

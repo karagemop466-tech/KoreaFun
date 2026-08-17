@@ -947,8 +947,6 @@
 
 ---
 
-## 🆕 More verified Changwon & Jinhae events & activities (expansion set)
-
 *Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
 
 ### 186) 🏯 Ungcheon Japanese Castle & Jinhae Fortress Sites — 🔁 daily (FREE)

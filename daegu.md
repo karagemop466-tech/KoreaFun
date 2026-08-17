@@ -1036,8 +1036,6 @@
 
 ---
 
-## 🆕 More verified Daegu events & activities (expansion set)
-
 **Second expansion batch** — Palgongsan depth, Andong UNESCO day trips, Confucian and industrial heritage, night views and practical services.
 
 ### 190) 🛕 Pagyesa Temple & Palgongsan Hermitages (파계사) — 🔁 daily

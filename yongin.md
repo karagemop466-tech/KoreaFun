@@ -1103,8 +1103,6 @@
 
 ---
 
-## 🆕 More verified Yongin events & activities (expansion set)
-
 *Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
 
 ### 174) 🏛️ Yongin Poeun Art Hall & city performances — 👀 WATCH — check programme

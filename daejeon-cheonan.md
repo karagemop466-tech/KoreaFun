@@ -982,8 +982,6 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 
 ---
 
-## 🆕 More verified Daejeon & Cheonan events & activities (expansion set)
-
 **Second expansion batch** — Sejong, Cheongju, Gongju/Buyeo UNESCO Baekje day trips, Asan hot springs, trails and practical regional transport.
 
 ## 140) 🏛️ Sejong City — Government Complex Rooftop Park (정부세종청사 옥상정원) — 🔁 weekdays

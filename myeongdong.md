@@ -1750,9 +1750,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 
 ---
 
-## 🆕 More verified Myeongdong & central Seoul events & activities (expansion set)
-
-*Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
+*Continued — batch 2 of the expansion set. Same official sourcing and status legend as above.*
 
 ### 319) 🎡 Seoullo 7017 Skygarden — 🔁 daily (FREE)
 - **What:** A 1970 highway overpass converted in 2017 into an elevated garden walkway with 24,000 plants, linking Seoul Station to Namdaemun

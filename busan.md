@@ -1147,8 +1147,6 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 
 ---
 
-## 🆕 More verified Busan events & activities (expansion set)
-
 *Second expansion batch — neighbourhoods, coast walks, museums, food districts and day trips, all with official city, district or venue sources.*
 
 ## 163) 🏛️ Dongnae-eupseong Fortress & History Museum (동래읍성) — 🔁 daily (FREE)

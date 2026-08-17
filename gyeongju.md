@@ -1095,8 +1095,6 @@
 
 ---
 
-## 🆕 More verified Gyeongju events & activities (expansion set)
-
 **Second expansion batch** — outlying UNESCO sites, free stone heritage, hikes, night photography timing and practical November logistics.
 
 ### 202) 🛕 Girimsa Temple (기림사) — 🔁 daily
