@@ -35,17 +35,20 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Price:** Free.
 - **Official sources (reviewed Aug 17):** [unmck.or.kr](https://www.unmck.or.kr) · [Visit Busan UNMCK feature](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=277&lang_cd=en)
 
-### 5) ⚽ **Busan IPark (K League 2)** — ⏳ CHECK OFFICIAL MATCH CENTER
-- **What:** Home matches at Gudeok Stadium. Third-party calendars list **Sat Nov 21 vs Chungnam Cheongju** and an **Nov 8 away match at Cheonan**. Confirm opponent, kickoff, and tickets on the league site.
-- **Official sources (reviewed Aug 17):** [kleague.com](https://www.kleague.com) · [busanipark.com](https://www.busanipark.com)
+### 5) ⚽ **Busan IPark (K League 2)** — ✅ CONFIRMED — Sat Nov 21, 2026 · 14:00
+- **What:** Home match at **Gudeok Stadium (부산 구덕)** vs **Chungbuk Cheongju**, round 33. Busan sat 5th in K League 2 in mid-August 2026, well inside the promotion-playoff race.
+- **When:** **Sat Nov 21, 14:00.** The club’s official match centre also shows Busan **away** at Cheonan on **Sun Nov 8 (14:00)** and away at Chungnam Asan on Nov 29 (after you fly home), so Nov 21 is the one home game in your window.
+- **Official sources (reviewed Aug 17):** [busanipark.com match schedule](https://www.busanipark.com/match/match_schedule.php) · [kleague.com](https://www.kleague.com/schedule.do)
 
-### 6) 🏐 **V-League — Busan OK Savings Bank** — ⏳ SEASON UNDERWAY; FIXTURES LATER
-- **What:** Men’s professional volleyball. Use [kovo.co.kr](https://www.kovo.co.kr) for November home dates. Do not invent a venue or tip-off.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr)
+### 6) 🏐 **V-League — Busan OK Savings Bank** — ✅ SEASON CONFIRMED; FIXTURES LATER
+- **What:** Men’s professional volleyball (OK Savings Bank Read Rangers) at Sajik Gymnasium.
+- **When:** KOVO’s board confirmed the **2026–27 regular season as Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22, 2027), so the league is live for your entire trip. Round-by-round fixtures come from KOVO — don’t assume a tip-off time.
+- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
 
-### 7) 🏀 **KBL — Busan KCC Egis / WKBL — BNK Sum** — ⏳ CHECK LEAGUE CALENDARS
-- **What:** Men’s and women’s basketball at Sajik Indoor Gymnasium. Seasons are normally running in November; fixtures are published later.
-- **Official sources (reviewed Aug 17):** [kbl.or.kr](https://www.kbl.or.kr) · [wkbl.or.kr](https://www.wkbl.or.kr)
+### 7) 🏀 **KBL — Busan KCC Egis / WKBL — BNK Sum** — ✅ SEASON CONFIRMED — league running all trip
+- **What:** Men’s (KCC Egis) and women’s (BNK Sum) basketball at **Sajik Indoor Gymnasium**.
+- **When:** KBL released the 2026–27 schedule on Aug 10, 2026: **Oct 3, 2026 – Apr 11, 2027**, 54 games per team. Fittingly, the season *opener* was Busan’s — **KCC vs Changwon LG, Sat Oct 3, 14:00 at Sajik** — so the arena is in full swing by the time you arrive. Weekdays have 1 game and weekend days 3, so a November home date is very likely; confirm on the league fixture list.
+- **Official sources (reviewed Aug 17):** [kbl.or.kr](https://www.kbl.or.kr) · [wkbl.or.kr](https://www.wkbl.or.kr) · schedule release via [Basket Korea](https://www.basketkorea.com/news/newsview.php?ncode=1065589462597924)
 
 ### 8) 💡 **Seomyeon Light Festival / Millak Luce Festa** — ⏳ RE-CHECK SWITCH-ON
 - **What:** Recurring winter illuminations on Seomyeon 1st Street and the Millak waterfront. Previous winters started in November, but **2026 switch-on dates were not on an organizer page** at review.

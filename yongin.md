@@ -19,7 +19,8 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 
 ### 1) 🌙 **Korean Folk Village Evening Festival** — ✅ CONFIRMED — through Nov 15, 2026
 - **What:** Extended evening opening with illuminated village streets and night programming at Korean Folk Village.
-- **When:** The operator lists **Apr 11–Nov 15, 2026**. Check the daily program because not every component necessarily runs every date.
+- **When:** The operator lists **Apr 11–Nov 15, 2026**, and — importantly — **evening opening runs only Fri, Sat, Sun and public holidays**, not every day. Your window has four usable weekends before it closes: Oct 31–Nov 1, Nov 6–8, Nov 13–15. **Nov 15 is the final night of the season.**
+- **Also on:** the ambient night program **"Adding Moonlight" (달빛을 더하다)** runs alongside the ticketed horror attractions.
 - **Price/hours:** Admission and closing time are date-specific; use the operator’s live ticket and operating-hours pages.
 - **Official source (reviewed Aug 17):** [Korean Folk Village](https://www.koreanfolk.co.kr/)
 
@@ -54,13 +55,16 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 ### 7) 🌍 **Hyundai Translocal Series** — ✅ CONFIRMED — Nov 5, 2026–Mar 28, 2027 · NEW
 - **What:** Jointly planned exhibition by Nam June Paik Art Center and Pinacoteca de São Paulo exploring “translocal” ideas.
 - **When:** **Nov 5, 2026–Mar 28, 2027**, opening during the trip.
-- **Official source (reviewed Aug 17):** [Gyeonggi Cultural Foundation 2026 program announcement](https://ggc.ggcf.kr/p/698c641f325a86b151c6f6ce)
+- **⚠️ Status note (Aug 17):** the dates come from the Gyeonggi Cultural Foundation’s annual program announcement; this show had **not yet appeared on NJP’s own exhibition list** (which showed only the four current shows) at review. Treat the opening date as planned-but-unlisted and re-check NJP directly before making the trip.
+- **Official sources (reviewed Aug 17):** [Gyeonggi Cultural Foundation 2026 program announcement](https://ggc.ggcf.kr/p/698c641f325a86b151c6f6ce) · [NJP exhibitions](https://njp.ggcf.kr/exhibitions)
 
 ### 8) 🎨 **Art Spectrum 2026** — ✅ CONFIRMED — Sep 1–Dec 27, 2026 · NEW
-- **What:** Hoam Museum of Art exhibition in Galleries 1 and 2. The museum’s search listing still labels the title provisional, so verify the final title before travel.
-- **When:** **Sep 1–Dec 27, 2026**.
+- **What:** Hoam Museum of Art’s edition of Art Spectrum, **co-organized with Palais de Tokyo (Paris)** — the first time the 2001-founded series has been staged at Hoam rather than Leeum. **10 countries, 23 artists/teams** working across visual art, architecture, film, design, and music, shown in the galleries **and outdoors**. Expect a moon-like pavilion, skateboarders in a subterranean city, a collapsing house.
+- **Confirmed title:** 《방이있고모든라디오가각기다른주파수를향하고있다》 (“There is a room and every radio is tuned to a different frequency”). An earlier draft of this guide flagged the title as provisional — it is now final.
+- **When:** **Sep 1–Dec 27, 2026** — open your entire trip.
+- **Side programs:** live music from bands of six Asian countries, an art-shop project, cooking workshops, and talks run across the exhibition period.
 - **Price/hours:** Timed reservation and ticket details are controlled by the museum.
-- **Official source (reviewed Aug 17):** [Hoam Museum of Art search listing](https://leeumhoam.org/hoam/search?keyword=)
+- **Official sources (reviewed Aug 17):** [Leeum/Hoam](https://www.leeumhoam.org) · [Newsis, Jul 7 2026](https://www.newsis.com/view/NISX20260707_0003698789)
 
 ### 9) ⚽ **Together, Kick Off: Our Football City Yongin** — ✅ CONFIRMED — through Dec 6, 2026 · NEW
 - **What:** Municipal exhibition at Yongin City Museum about the city’s football culture.

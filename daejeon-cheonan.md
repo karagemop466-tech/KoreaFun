@@ -16,16 +16,20 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 
 ### 1) 🍷 **Daejeon International Wine EXPO 2026** — ✅ CONFIRMED — Fri Nov 6–Sun Nov 8, 2026
 - **What:** Wine trade show and public tasting at Daejeon Convention Center, with companion programs (Asia Wine Trophy and related events) listed **Nov 1–8**.
-- **When:** Official English homepage: exhibition halls **Nov 6–8**; other events **Nov 1–8**.
-- **Official source (reviewed Aug 17):** [djwinefair.com/eng](https://www.djwinefair.com/eng)
+- **When:** Official English homepage: exhibition halls **Nov 6–8**; other events **Nov 1–8**. Hours are **11:00–18:00**, except Fri Nov 6 which runs to 19:00.
+- **⚠️ Venue detail:** It is in **DCC Hall II** — not Hanbit Tower. (An earlier draft of this guide said tastings were at Hanbit Tower; that was wrong and has been corrected.)
+- **⚠️ Buyers-only windows:** Fri Nov 6 is **trade/buyers only all day**, and Sat Nov 7 is buyers-only **until 14:00**. As general visitors, arrive **Sat afternoon or Sun Nov 8**.
+- **Official sources (reviewed Aug 17):** [djwinefair.com/eng](https://djwinefair.com/eng/0501) · [visitor info](https://djwinefair.com/eng/1101)
 
-### 2) ⚽ **Cheonan City FC vs Busan IPark** — ⏳ CHECK OFFICIAL MATCH CENTER — Sun Nov 8, 2026
-- **What:** K League 2 fixture widely listed at Cheonan Stadium. Confirm kickoff and tickets on the league site before traveling.
-- **Official sources (reviewed Aug 17):** [kleague.com](https://www.kleague.com) · [cheonancityfc.kr](https://cheonancityfc.kr)
+### 2) ⚽ **Cheonan City FC vs Busan IPark** — ✅ CONFIRMED — Sun Nov 8, 2026 · 14:00
+- **What:** K League 2 round 32 at **Cheonan Stadium (천안종합운동장)**, Cheonan City FC hosting Busan IPark. Cross-checked against Busan IPark’s own official match centre, which lists the same date, time, and away fixture.
+- **When:** **Sun Nov 8, 14:00.** A daytime kickoff makes this an easy add-on to a Daejeon/Cheonan day.
+- **Official sources (reviewed Aug 17):** [busanipark.com match schedule](https://www.busanipark.com/match/match_schedule.php) · [kleague.com](https://www.kleague.com/schedule.do) · [cheonancityfc.kr](https://cheonancityfc.kr)
 
-### 3) 🏐 **V-League — Daejeon and Cheonan home teams** — ⏳ SEASON UNDERWAY; FIXTURES LATER
+### 3) 🏐 **V-League — Daejeon and Cheonan home teams** — ✅ SEASON CONFIRMED; FIXTURES LATER
 - **What:** Daejeon: Samsung Fire Bluefangs (men) and JeongKwanJang Red Sparks (women) at Chungmu Gymnasium. Cheonan: Hyundai Capital Skywalkers (men) at Yu Gwan-sun Gymnasium.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr)
+- **When:** KOVO’s board set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22), so all three clubs are mid-season throughout your trip. This corridor is unusually dense for volleyball — three top-flight teams within an hour of each other. Get the round-by-round fixtures from KOVO.
+- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
 
 ### 4) 🍜 **Noodle Daejeon Festival** — ⏳ TBA
 - **What:** City noodle festival at Hanbit Tower Plaza. 2025 ran Nov 7–9; **do not copy that weekend into 2026**.
