@@ -68,6 +68,13 @@ The **College Scholastic Ability Test** falls on **Thursday, Nov 19, 2026**, mid
 - **🍜 The upside — the evening is a party.** Once the exam ends (~17:40) students flood into Hongdae, Gangnam and Myeongdong, and many bars, restaurants, cinemas and attractions run **test-taker discounts** for weeks afterwards (bring the exam ID card — which you won't have, but the atmosphere is free). **Nov 19 evening is a genuinely good night to be out.**
 - **Official source (reviewed Aug 18):** [MOE announcement of the Nov 19, 2026 exam date (korea.kr)](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156646031)
 
+### ✅ Good news: there are **no public holidays** in your window
+**November 2026 has zero public holidays** in Korea — the last was Hangeul Day (Oct 9) and the next is Christmas. The 2026 local elections were back on Jun 3. This quietly simplifies a lot of planning:
+
+- Many museums in this guide close **on public holidays**, or **the day after one** (Incheon's Emigration History Museum), or shuffle their Monday closure when a Monday is a holiday (World Writing Systems). **None of those rules can fire during your trip** — plain weekday/Monday schedules apply throughout.
+- No holiday-weekend KTX price surges or booking crushes.
+- The flip side: **no holiday festivals or special openings** either, and **Nov 19 (CSAT) is not a day off** — shops, museums and trains all run normally.
+
 ## 7. Food & etiquette quickies (beginner edition)
 - **Chicken & beer (치맥)** — a national pastime; eat it while watching baseball/football like the locals.
 - **Sharing** is normal; one person pays the whole bill (switch off with your travel buddy).
