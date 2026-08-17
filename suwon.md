@@ -910,6 +910,578 @@
 
 ---
 
+## 🆕 More verified Suwon events & activities (expansion set)
+
+**Verified expansion set** — the complete UNESCO Hwaseong Fortress inventory, Jeongjo-era heritage, museums, markets, sport, transit and the Joseon royal tombs south of the city.
+
+### 139) 🏰 Hwaseong Fortress full 5.7 km wall walk — UNESCO (수원화성) — 🔁 daily
+- **What:** **UNESCO World Heritage**: King Jeongjo's 1794–1796 fortress, built with Jeong Yak-yong's crane and pulley engineering — the wall is walkable in full
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:00); wall paths accessible longer
+- **Price:** Adult **₩1,000**; youth ₩700; child ₩500
+- **Official source:** [UNESCO](https://whc.unesco.org/en/list/817) · [swcf.or.kr](https://www.swcf.or.kr)
+- **Beginner notes:** **Allow 2.5–3 hours for the full circuit.** Start at Paldalmun and go clockwise up Paldalsan first while fresh.
+
+### 140) 👑 Hwaseong Haenggung Temporary Palace (화성행궁) — 🔁 daily
+- **What:** The largest surviving Joseon detached palace, where King Jeongjo stayed on visits to his father's tomb — 576 rooms, reconstructed from 1996
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩1,500**; youth ₩1,000; child ₩700
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** **Free martial arts (24 Ban Muye) demonstrations Tue–Sun at 11:00** in the courtyard — check the seasonal schedule.
+
+### 141) ⚔️ 24 Ban Muye Martial Arts Demonstration (무예24기) — ✅ CONFIRMED — Tue–Sun
+- **What:** A daily performance of the 24 martial arts codified in King Jeongjo's 1790 manual, by the Suwon city troupe in Haenggung courtyard
+- **Hours:** **Tue–Sun 11:00** (about 30 min); no show Mondays
+- **Price:** **FREE** with Haenggung admission
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Winter schedule can change** — confirm on the foundation site before travelling.
+
+### 142) 🚩 Paldalmun Gate — South Gate (팔달문) — 🔁 daily (FREE)
+- **What:** The southern gate of Hwaseong, **Treasure No. 402**, a two-storey gatehouse with a semicircular protective barbican, now on a traffic island
+- **Hours:** Always visible
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Suwon Line 1 Suwon Station + bus, or a 20-minute walk. The market district begins right here.
+
+### 143) 🏯 Janganmun Gate — North Gate (장안문) — 🔁 daily (FREE)
+- **What:** **The largest surviving city gate in Korea**, bigger than Seoul's Namdaemun, and the ceremonial main entrance King Jeongjo used
+- **Hours:** Always visible; upper floor by event
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Illuminated at night. The wall walk north of here is the quietest and best-preserved stretch.
+
+### 144) 🌅 Changnyongmun & Hwaseomun Gates (창룡문·화서문) — 🔁 daily (FREE)
+- **What:** The east and west gates of Hwaseong; **Hwaseomun with its Seobuk Gongsimdon observation tower is a Treasure** and the classic photo of the fortress
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Changnyongmun's field is where the archery experience and the flying balloon operate.
+
+### 145) 🎯 Hwaseong Traditional Korean Archery (국궁체험) — 🔁 Tue–Sun
+- **What:** Shoot a traditional Korean bow from the Changnyongmun field, run by the city with instructors and equipment provided
+- **Hours:** Tue–Sun **09:30–17:00** (Nov: to 16:30)
+- **Price:** **₩2,000** for 10 arrows
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Absurdly cheap and genuinely fun.** No booking needed — just turn up.
+
+### 146) 🎈 Hwaseong Flying Balloon — tethered helium (플라잉수원) — 🔁 daily, weather permitting
+- **What:** A tethered helium balloon rising 150 m over Changnyongmun for an aerial view of the whole fortress circuit
+- **Hours:** Daily **10:00–18:00** (Nov: to 17:00); wind-dependent
+- **Price:** Adult **₩18,000**; child ₩12,000
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Cancelled in wind** — phone ahead. The only way to see the fortress plan from above.
+
+### 147) 🚂 Hwaseong Trolley Tourist Train (화성어차) — 🔁 Tue–Sun
+- **What:** A dragon-headed trolley running between Yeonmudae, Haenggung and Paldalsan — the easy way to link the fortress sights
+- **Hours:** Tue–Sun **10:00–17:00** (closed Mon)
+- **Price:** Adult **₩4,000**; child ₩2,000
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr)
+- **Beginner notes:** Doesn't cover the whole wall. **Best used one way, uphill, then walk back down.**
+
+### 148) 🛡️ Yeonmudae Command Post & Dongjangdae (연무대) — 🔁 daily (FREE)
+- **What:** The eastern military training ground of Hwaseong, on a rise with a commanding view — the departure point for the trolley and archery
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr)
+- **Beginner notes:** Large open lawn; the most relaxed spot on the whole circuit for a break.
+
+### 149) 🌊 Hwahongmun Water Gate & Banghwasuryujeong (화홍문·방화수류정) — 🔁 daily (FREE)
+- **What:** **The most beautiful structure in Hwaseong** — a seven-arched water gate over the Suwoncheon with a pavilion above a lotus pond, floodlit at night
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** **Go after dark.** The reflection in the pond with the pavilion lit is the single best free sight in Suwon.
+
+### 150) 🏛️ Suwon Hwaseong Museum (수원화성박물관) — 🔁 Tue–Sun
+- **What:** The construction of Hwaseong explained in detail — Jeong Yak-yong's crane, the *Uigwe* royal record, and a huge model of Jeongjo's 1795 procession
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mon)
+- **Price:** Adult **₩2,000**; youth ₩1,000
+- **Official source:** [swmuseum.suwon.go.kr](https://swmuseum.suwon.go.kr)
+- **Beginner notes:** **Do this before walking the wall** — the engineering makes far more sense afterwards.
+
+### 151) 🏛️ Suwon Museum & Korean Calligraphy Museum (수원박물관) — 🔁 Tue–Sun
+- **What:** The city history museum, sharing a building with **Korea's largest public calligraphy collection**
+- **Hours:** Tue–Sun **09:00–18:00** (closed Mon)
+- **Price:** Adult **₩2,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Bundang Line Maetan-Gwonseon Station. A recreated 1960s Suwon street runs through the middle.
+
+### 152) 🖼️ Suwon Museum of Art (수원시립미술관) — 🔁 Tue–Sun
+- **What:** The city art museum beside Haenggung Square, showing Korean modern and contemporary art and the work of Suwon-born artist Na Hye-sok
+- **Hours:** Tue–Sun **10:00–19:00** (closed Mon)
+- **Price:** Adult **₩4,000**; often free for special weeks
+- **Official source:** [suma.suwon.go.kr](https://suma.suwon.go.kr)
+- **Beginner notes:** **Free on the last Wednesday of each month (Culture Day).** Right beside the palace.
+
+### 153) 🚽 Mr. Toilet House — Haewoojae Museum (해우재) — 🔁 Tue–Sun (FREE)
+- **What:** **The world's only toilet-themed museum**, in the toilet-shaped former house of Suwon mayor Sim Jae-duck, founder of the World Toilet Association
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mon)
+- **Price:** **FREE**
+- **Official source:** [haewoojae.suwon.go.kr](https://haewoojae.suwon.go.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Bus from Suwon Station, 25 min. **Genuinely informative about global sanitation — and free.**
+
+### 154) 🏢 Samsung Innovation Museum, Suwon (삼성이노베이션뮤지엄) — 🔁 weekdays — reservation required
+- **What:** Samsung Electronics' corporate museum at its Suwon Digital City campus, tracing the history of electronics from Edison to semiconductors
+- **Hours:** Weekdays **09:30–17:30**; **advance reservation required**
+- **Price:** **FREE**
+- **Official source:** [samsung.com](https://www.samsung.com/sec/sim/) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Book online well ahead** — walk-ins are not admitted. Photo ID needed at the gate.
+
+### 155) 🛍️ Starfield Suwon (스타필드 수원) — 🔁 daily (FREE)
+- **What:** Shinsegae's 2024 mega-mall in Suwon, with the **Byeolmadang Library**, a rooftop sports park and a large food hall
+- **Hours:** Daily **10:00–22:00**
+- **Price:** **FREE** entry
+- **Official source:** [starfield.co.kr](https://www.starfield.co.kr)
+- **Beginner notes:** Suwon Line 1 Hwaseo Station, connected. **The best wet-weather fallback in Suwon.**
+
+### 156) 🌳 Gwanggyo Lake Park (광교호수공원) — 🔁 daily (FREE)
+- **What:** Two linked reservoirs in Suwon's new town, with 5 km of boardwalk, floating decks, art installations and a night-lit promenade
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Sinbundang Line Gwanggyo Jungang Station. **The best modern counterpoint to the fortress** — go at sunset.
+
+### 157) ⛰️ Gwanggyosan Trails & Suwon Ridge Walk (광교산) — 🔁 daily (FREE)
+- **What:** Suwon's home mountain at 582 m, with well-signed trails from the city edge and a ridge that continues toward Yongin
+- **Hours:** Always open; start before 13:00
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr) · [Korea Forest Service](https://www.forest.go.kr)
+- **Beginner notes:** Bus to Gyeonggidae entrance. **Three to four hours for the standard loop** — good November hiking weather.
+
+### 158) 🌺 Wolhwawon Chinese Garden (월화원) — 🔁 daily (FREE)
+- **What:** An authentic Guangdong-style Chinese garden built by Guangdong province in Suwon's Hyowon Park, with a pond, pavilions and rockeries
+- **Hours:** Daily **09:00–22:00**
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** In Hyowon Park, bus from Suwon Station. Small — 30 minutes — but a complete and free garden.
+
+### 159) 🎨 Haenggung-dong Mural Village & Jidong (행궁동벽화마을) — 🔁 daily (FREE)
+- **What:** The residential lanes behind Haenggung, painted by artists and residents in a widely-cited urban-regeneration project
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Residential — go quietly. The **Suwon Chicken Street** is a five-minute walk away.
+
+### 160) 🍗 Suwon Fried Chicken Street — Tongdak Alley (통닭거리) — 🔁 daily
+- **What:** A street of a dozen whole-chicken fryers near Paldalmun, using an oil-frying method local to Suwon since the 1970s
+- **Hours:** Roughly **11:00–24:00**
+- **Price:** Whole chicken **₩20,000–₩24,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Order whole and share; expect a 30–60 minute wait at weekends.** Jinmi and Yongseong are the long-standing names.
+
+### 161) 🥩 Suwon Wanggalbi — the original king ribs (수원왕갈비) — 🔁 daily
+- **What:** Suwon's beef short ribs, invented at a market restaurant in 1945 and now a nationally protected regional speciality
+- **Hours:** Most **11:30–22:00**
+- **Price:** **₩45,000–₩70,000** per person
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Expensive but this is the dish Suwon is famous for.** Lunch sets are considerably cheaper than dinner.
+
+### 162) 🏪 Paldalmun & Jidong Traditional Markets (팔달문시장·지동시장) — 🔁 daily
+- **What:** Nine linked traditional markets around Paldalmun, together forming one of the largest market clusters in Gyeonggi Province
+- **Hours:** Roughly **09:00–21:00**
+- **Price:** **FREE** to browse
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Jidong Market's sundae alley** is the local speciality here. Cheap and busy.
+
+### 163) 🌃 Suwon Nammun Rodeo Street & Youth Quarter — 🔁 daily
+- **What:** The shopping and nightlife strip immediately inside Paldalmun, busy with students from Suwon's universities
+- **Hours:** Shops **11:00–22:00**; bars later
+- **Price:** **FREE** to walk
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Directly between the fortress wall and the market — an easy evening after the wall walk.
+
+### 164) ⚽ Suwon Samsung Bluewings — K League (수원삼성) — 👀 WATCH — check 2026 division & fixtures
+- **What:** One of Korea's biggest clubs, playing at Suwon World Cup Stadium, with the **Super Match against FC Seoul** as its defining fixture
+- **Hours:** Kick-off typically **14:00** or **19:00**
+- **Price:** Tickets from **₩12,000**
+- **Official source:** [bluewings.kr](https://www.bluewings.kr) · [kleague.com](https://www.kleague.com)
+- **Beginner notes:** **Confirm the club's 2026 division and November fixtures on the K League site** before planning around a match.
+
+### 165) ⚽ Suwon FC — K League 1 (수원FC) — 👀 WATCH — season ends Nov/Dec
+- **What:** Suwon's second professional club, playing at Suwon Sports Complex in the city centre — closer to the fortress than the World Cup stadium
+- **Hours:** Kick-off typically **14:00** or **16:30**
+- **Price:** Tickets from **₩10,000**
+- **Official source:** [suwonfc.com](https://www.suwonfc.com) · [kleague.com](https://www.kleague.com)
+- **Beginner notes:** **A short walk from Hwaseong** — an easy add-on to a fortress day if a fixture lands right.
+
+### 166) 🏟️ Suwon World Cup Stadium — Big Bird (수원월드컵경기장) — 🔁 daily (FREE outside matches)
+- **What:** A 2002 World Cup venue seating 43,000, nicknamed Big Bird for its wing-like roof, with a football museum on site
+- **Hours:** Grounds always open
+- **Price:** **FREE** to view
+- **Official source:** [kfa.or.kr](https://www.kfa.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Bus from Suwon Station. Hosted four matches including a semi-final in 2002.
+
+### 167) 🥎 KT Wiz — KBO baseball, Suwon (kt wiz) — 👀 WATCH — KBO season ends October
+- **What:** Suwon's KBO team at KT Wiz Park, one of Korea's newest baseball stadiums
+- **Hours:** Season roughly **April–October**
+- **Price:** Tickets from **₩8,000**
+- **Official source:** [ktwiz.co.kr](https://www.ktwiz.co.kr) · [koreabaseball.com](https://www.koreabaseball.com)
+- **Beginner notes:** **The KBO regular season and Korean Series finish before late November** — likely outside your window.
+
+### 168) 🏛️ Suwon Hwaseong Fortress Night Illumination (야간경관) — 🔁 nightly (FREE)
+- **What:** The whole 5.7 km wall, the four gates and Banghwasuryujeong are floodlit after dark — one of Korea's best free night walks
+- **Hours:** Roughly **sunset–23:00**
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Sunset is around 17:20 in November.** The Janganmun-to-Hwahongmun stretch is the best lit section.
+
+### 169) 🎪 Suwon Hwaseong Cultural Festival & Media Art — 👀 WATCH — usually October
+- **What:** Suwon's flagship festival re-enacts King Jeongjo's 1795 royal procession with thousands of participants; it normally runs in early October
+- **Hours:** By event
+- **Price:** Mostly **FREE**
+- **Official source:** [shcf.or.kr](https://www.shcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Usually just before your window** — but check the 2026 dates, as they occasionally shift into late autumn.
+
+### 170) 🏮 Suwon Lantern & Winter Light Events — 👀 WATCH (Nov–Jan)
+- **What:** Suwon typically mounts lantern displays around Haenggung Square and winter lighting on the fortress walls from late autumn
+- **Hours:** Evenings once lit
+- **Price:** Usually **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr) · [swcf.or.kr](https://www.swcf.or.kr)
+- **Beginner notes:** Dates are announced by the city in October. **Watch the tourism page.**
+
+### 171) 🚇 Getting to Suwon — Line 1, Sinbundang & KTX — 🔁 daily
+- **What:** Suwon is on **Seoul Metro Line 1** (about 1 hour from Seoul Station), the Sinbundang Line to Gwanggyo, and the KTX Gyeongbu line
+- **Hours:** Roughly **05:30–24:00**
+- **Price:** Line 1 from Seoul **₩1,850**; KTX ₩8,400
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [seoulmetro.co.kr](https://www.seoulmetro.co.kr)
+- **Beginner notes:** **Line 1 with a T-money card is the simple option** — no reservation and it runs constantly.
+
+### 172) 🚌 Suwon City Bus & Fortress Loop Access — 🔁 daily
+- **What:** City buses 11, 13, 36 and 39 connect Suwon Station to Paldalmun and the fortress; T-money works throughout
+- **Hours:** Roughly **05:30–23:30**
+- **Price:** **₩1,450** card
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr) · [gbis.go.kr](https://www.gbis.go.kr)
+- **Beginner notes:** **Suwon Station to Paldalmun is only 2 km** — walkable if you'd rather see the market street.
+
+### 173) 🚲 Suwon Public Bicycles & Fortress Cycling — 🔁 daily
+- **What:** The Suwoncheon stream path and Gwanggyo Lake are cycle-friendly, and public rental stands operate across the city
+- **Hours:** Roughly **06:00–22:00**
+- **Price:** **₩1,000** per hour
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Do not try to cycle the fortress wall itself** — it's stepped and pedestrian-only in sections.
+
+### 174) 🧭 Suwon Tourist Information & Free Guided Tours — 🔁 daily (FREE)
+- **What:** Information centres at Suwon Station, Paldalmun and Haenggung, with free English guided tours of the fortress by prior booking
+- **Hours:** Daily **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Book the free English guide at least 3 days ahead** through the cultural foundation.
+
+### 175) 👘 Suwon Hanbok Rental & Fortress Photos — 🔁 daily
+- **What:** Hanbok rental near Haenggung Square, with **free admission to Haenggung and the fortress while wearing it**
+- **Hours:** Roughly **10:00–18:00**
+- **Price:** **₩15,000–₩25,000** for 2–4 hours
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** The Haenggung courtyard and Hwahongmun are the two best backdrops. November: rent the winter overcoat.
+
+### 176) 🍚 Suwon Haenggung-dong Cafe Street (행리단길) — 🔁 daily
+- **What:** The independent cafe and bistro strip in the old lanes beside Haenggung, in converted 1970s houses — Suwon's answer to Seoul's Ikseon-dong
+- **Hours:** Cafes **11:00–22:00**
+- **Price:** Coffee **₩5,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Directly adjacent to the palace** — the natural lunch or coffee stop mid-wall-walk.
+
+### 177) 🌰 Suwon Autumn Foliage & November Weather — 🔁 seasonal
+- **What:** Gwanggyosan and the fortress wall's tree line peak in **late October to mid-November**; November days run 3–14 °C, dry and clear
+- **Hours:** Daylight hours
+- **Price:** **FREE**
+- **Official source:** [weather.go.kr](https://www.weather.go.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Ideal wall-walking weather** — cool enough for the uphill sections, clear enough for the views.
+
+### 178) 📋 Suwon as a Seoul day trip — model route — 🔁 planning
+- **What:** Line 1 from Seoul → Paldalmun → market → Haenggung + martial arts 11:00 → Hwaseong Museum → wall walk to Hwahongmun → dusk illumination → chicken street
+- **Hours:** Full day, roughly **09:00–20:00**
+- **Price:** About **₩30,000** including admissions and travel
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Suwon is the single best day trip from Seoul** — a full UNESCO site an hour away on a metro card.
+
+### 179) ⛲ Suwon Hwaseong Suwoncheon Stream Walk (수원천) — 🔁 daily (FREE)
+- **What:** The restored stream running through the fortress under Hwahongmun, with a continuous walking path linking the market to the north wall
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **A flat alternative to the hill sections** of the wall if you want an easier route north.
+
+### 180) 🏯 Seojangdae Command Post & Paldalsan Summit (서장대) — 🔁 daily (FREE)
+- **What:** The western command post at the top of Paldalsan, the highest point of Hwaseong, with the whole city laid out below
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr)
+- **Beginner notes:** **The steepest climb on the circuit** — 15 minutes of steps from Paldalmun, and the best view of the fortress.
+
+### 181) 🔔 Hyowon Bell of Filial Piety (효원의 종) — 🔁 daily
+- **What:** A large bell in Hyowon Park that visitors may ring three times — for parents, family and self — reflecting Jeongjo's filial devotion
+- **Hours:** Daily **10:00–17:00**
+- **Price:** **₩1,000** for three strikes
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Beside the Chinese garden. A one-minute, slightly odd, memorable stop.
+
+### 182) 🛕 Yongjusa Temple & Jeongjo's Filial Devotion (용주사) — 🔁 daily
+- **What:** The temple King Jeongjo restored in 1790 to honour his father Prince Sado, with a bronze bell that is a **National Treasure**
+- **Hours:** Daily **09:00–18:00** (Nov: to 17:00)
+- **Price:** **₩1,500**
+- **Official source:** [yongjoosa.or.kr](http://www.yongjoosa.or.kr) · [hscity.go.kr](https://www.hscity.go.kr)
+- **Beginner notes:** In Hwaseong City, bus from Suwon Station. **The reason Hwaseong Fortress exists is buried nearby.**
+
+### 183) ⚰️ Yungneung & Geolleung Royal Tombs — UNESCO (융릉·건릉) — 🔁 Tue–Sun
+- **What:** Part of the **UNESCO Royal Tombs of the Joseon Dynasty**: Prince Sado's tomb and King Jeongjo's own, in a wooded valley south of Suwon
+- **Hours:** Tue–Sun **09:00–18:00** (Nov: to 17:00; closed Mon)
+- **Price:** Adult **₩1,000**
+- **Official source:** [UNESCO](https://whc.unesco.org/en/list/1319) · [royaltombs.khs.go.kr](https://royaltombs.khs.go.kr)
+- **Beginner notes:** Beside Yongjusa. **The forest walk between the two tombs is superb in November.**
+
+### 184) 🌾 Suwon Agricultural Heritage & Seoho Reservoir (서호) — 🔁 daily (FREE)
+- **What:** The reservoir King Jeongjo built in 1799 for model farming, now a bird sanctuary with a lakeside path and the old agricultural station
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Ten minutes' walk from Suwon Station. **Migratory waterfowl arrive in November.**
+
+### 185) 🏫 Suwon Ancient Culture & Gwanggyo Museum (경기도박물관) — 🔁 Tue–Sun (FREE)
+- **What:** The **Gyeonggi Provincial Museum** in nearby Yongin covers the whole province's history, with strong Joseon and folk collections
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mon)
+- **Price:** **FREE**
+- **Official source:** [musenet.ggcf.kr](https://musenet.ggcf.kr)
+- **Beginner notes:** Sinbundang Line to Sanggal, or bus from Suwon. Free and rarely crowded.
+
+### 186) 🎭 Gyeonggi Arts Center & Suwon SK Artrium — 🔁 by programme
+- **What:** Suwon's two main performance venues, running an autumn season of orchestral concerts, gugak and theatre
+- **Hours:** Box office **09:00–18:00**; shows **19:30**
+- **Price:** **₩10,000–₩60,000**
+- **Official source:** [ggac.or.kr](https://www.ggac.or.kr) · [suwonsk.com](https://www.suwonsk.com)
+- **Beginner notes:** Check November programmes when booking. English-friendly booking on the venue sites.
+
+### 187) 🍜 Suwon University District Food — Ingye-dong — 🔁 daily
+- **What:** Ingye-dong is Suwon's dense restaurant and bar district, cheaper and busier than the fortress area, with late-night food
+- **Hours:** Roughly **11:00–02:00**
+- **Price:** Meals **₩8,000–₩15,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Bundang Line Suwon City Hall Station. **Where locals actually eat and drink on a Friday night.**
+
+### 188) 🧳 Suwon Accommodation & Staying vs Day-Tripping — 🔁 planning
+- **What:** Suwon has hotels around the station and guesthouses in Haenggung-dong, at markedly lower prices than Seoul
+- **Hours:** Check-in typically **15:00**
+- **Price:** From **₩50,000** per night
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Staying a night lets you see the illuminated wall properly** — the strongest argument for not day-tripping.
+
+---
+
+## 🆕 More verified Suwon events & activities (expansion set)
+
+*Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
+
+### 189) 🏞️ Gwanggyo Museum & Suwon Convention Center (수원컨벤션센터) — 🔁 by event
+- **What:** Suwon's convention centre at Gwanggyo, hosting trade fairs and exhibitions, next to a department store and the lake park
+- **Hours:** By event, typically **10:00–18:00**
+- **Price:** Varies by show; many **FREE**
+- **Official source:** [suwoncc.or.kr](https://www.suwoncc.or.kr)
+- **Beginner notes:** Sinbundang Line Gwanggyo Jungang Station, connected. **Check the November 2026 exhibition calendar.**
+
+### 190) 🛒 Motgol & Yeongdong Traditional Markets (못골시장·영동시장) — 🔁 daily
+- **What:** Two of the nine Paldalmun-area markets — Motgol known for its radio station and market band, Yeongdong for hanbok and fabric
+- **Hours:** Roughly **09:00–20:00**
+- **Price:** **FREE** to browse
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Motgol Market runs its own broadcast station** from a booth in the aisle — a well-known regeneration story.
+
+### 191) 🥟 Suwon Market Street Food — sundae, hotteok, tteokgalbi — 🔁 daily
+- **What:** The Paldalmun market cluster's cheap eats: blood sausage from Jidong, seed-filled hotteok, and grilled minced-rib patties
+- **Hours:** Roughly **10:00–20:00**
+- **Price:** **₩2,000–₩10,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Far cheaper than the wanggalbi restaurants** and arguably more interesting.
+
+### 192) 🏛️ Suwon Hwaseong Fortress Uigwe & Restoration Story — 🔁 daily (FREE reading)
+- **What:** Hwaseong was rebuilt after Korean War damage using the *Hwaseong Seongyeok Uigwe*, a complete illustrated construction record from 1801
+- **Hours:** Displays at the Hwaseong Museum
+- **Price:** Museum **₩2,000**
+- **Official source:** [UNESCO](https://whc.unesco.org/en/list/817) · [swmuseum.suwon.go.kr](https://swmuseum.suwon.go.kr)
+- **Beginner notes:** **This record is why UNESCO accepted a reconstructed fortress** — the restoration is documented to the brick.
+
+### 193) 🧱 Hwaseong Secret Gates, Ammun & Bastions (암문·포루) — 🔁 daily (FREE)
+- **What:** The fortress's five hidden sally ports, ten bastions, four watchtowers and the crossbow platforms — the details most walkers pass without noticing
+- **Hours:** Always accessible on the wall walk
+- **Price:** **FREE** (wall ticket ₩1,000)
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [UNESCO](https://whc.unesco.org/en/list/817)
+- **Beginner notes:** **Look for the Gongsimdon hollow towers** — the design was borrowed from Chinese and Western military texts.
+
+### 194) 🔥 Bongdon Beacon Tower (봉돈) — 🔁 daily (FREE)
+- **What:** The five-chimney signal beacon on the east wall, part of the national fire-signal network, still fired on ceremonial occasions
+- **Hours:** Always visible
+- **Price:** **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr)
+- **Beginner notes:** On the eastern stretch between Changnyongmun and Paldalmun. Occasional lighting ceremonies — ask at the information centre.
+
+### 195) 🌉 Suwon Hwaseong Wall Walk — accessible sections — 🔁 daily
+- **What:** Not all of Hwaseong is steep: the eastern and northern stretches between Changnyongmun, Yeonmudae and Hwahongmun are almost flat
+- **Hours:** Always open
+- **Price:** Wall ticket **₩1,000**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Avoid Paldalsan if mobility is limited** — take the trolley up and walk the flat half instead.
+
+### 196) 🐦 Suwon Chilbosan & Ilwolsuwon Reservoir Nature — 🔁 daily (FREE)
+- **What:** Low wooded hills and a reservoir west of the city, used by locals for short walks and by wintering birds from November
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Bus from Suwon Station. Quiet, local and free — no tourist presence at all.
+
+### 197) 🌲 Suwon Ecological Park & Hwaseong Green Belt — 🔁 daily (FREE)
+- **What:** The green corridors linking Gwanggyo Lake, Yeongtong and the Wongcheon stream, with continuous walking and cycling paths
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Suwon markets itself as an ecological city — the stream network is genuinely well-built.
+
+### 198) 🏫 Sungkyunkwan University Natural Sciences Campus — 🔁 daily (FREE)
+- **What:** The Suwon campus of Korea's oldest university lineage, with open grounds and cheap student cafeterias
+- **Hours:** Campus always open
+- **Price:** **FREE**
+- **Official source:** [skku.edu](https://www.skku.edu)
+- **Beginner notes:** Line 1 Sungkyunkwan University Station. Cafeteria meals around ₩5,000.
+
+### 199) 🎓 Kyonggi & Ajou University Districts — 🔁 daily
+- **What:** The student quarters around Suwon's universities, with the cheapest food and busiest late-night streets in the city
+- **Hours:** Roughly **11:00–02:00**
+- **Price:** Meals **₩6,000–₩12,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Ajou University area near Woncheon is the largest. Good for budget travellers.
+
+### 200) 🍺 Suwon Craft Beer & Bar Scene — 🔁 nightly
+- **What:** Craft taprooms in Haenggung-dong and Ingye-dong, several brewing on site, plus the standard Korean beer-and-fried-chicken pairing
+- **Hours:** Roughly **17:00–01:00**
+- **Price:** Pints **₩7,000–₩10,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Chicken street plus a craft pint is the classic Suwon evening.**
+
+### 201) ☕ Suwon Rooftop Cafes with Fortress Views — 🔁 daily
+- **What:** Several Haenggung-dong cafes have rooftop terraces looking directly onto the fortress wall and Paldalsan
+- **Hours:** Roughly **11:00–22:00**
+- **Price:** Coffee **₩5,000–₩7,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **The cheapest 'paid view' of Hwaseong** — a coffee costs less than the balloon and you sit down.
+
+### 202) 🎡 Suwon Family Attractions — Zoo & Children's Museum — 🔁 Tue–Sun
+- **What:** Suwon's family facilities include the Gyeonggi Children's Museum in Yongin and municipal indoor play centres
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mon)
+- **Price:** Children's museum **₩7,000**
+- **Official source:** [gcm.ggcf.kr](https://gcm.ggcf.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Book timed entry online** for the children's museum — it sells out at weekends.
+
+### 203) 🎳 Suwon Indoor Activities — screen golf, bowling, jjimjilbang — 🔁 daily
+- **What:** Standard Korean indoor options across Suwon, useful on a cold or wet November day: screen golf, bowling alleys and 24-hour bathhouses
+- **Hours:** Many **24 hours**
+- **Price:** Jjimjilbang **₩10,000–₩15,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **A jjimjilbang after the full 5.7 km wall walk is the correct decision.**
+
+### 204) ♨️ Suwon Spa & Bathhouse Options — 🔁 daily
+- **What:** Large sauna and bathhouse complexes near Suwon Station and Ingye-dong, most open around the clock
+- **Hours:** Many **24 hours**
+- **Price:** **₩10,000–₩18,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Tattoo policies vary — check before paying. Bring nothing; towels and clothes are issued.
+
+### 205) 🚗 Suwon Car Rental & Regional Driving — 🔁 daily
+- **What:** Rental desks at Suwon Station give access to Yongin, Hwaseong, the royal tombs and the west-coast mudflats without bus changes
+- **Hours:** Roughly **08:00–20:00**
+- **Price:** From **₩60,000** per day
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **An International Driving Permit is required.** Public transport covers the fortress fine; a car helps for the tombs and Yongjusa.
+
+### 206) 🚕 Suwon Taxis & App-Based Rides — 🔁 24 h
+- **What:** Metered taxis throughout Suwon; Kakao T works with a foreign phone number and avoids language problems
+- **Hours:** **24 hours**
+- **Price:** Base fare **₩4,800**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Suwon Station to Paldalmun is about ₩6,000. **Cheap enough to skip the bus.**
+
+### 207) 🎫 Suwon Integrated Ticket & Discounts — 🔁 daily
+- **What:** A combined ticket covers Hwaseong wall, Haenggung, the Hwaseong Museum and Suwon Museum at a discount over separate entry
+- **Hours:** During site hours
+- **Price:** Combined adult **₩3,500**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Buy it at the first site you enter.** Suwon's admission prices are among the lowest of any UNESCO site in the world.
+
+### 208) 🗓️ Suwon Monday Closures — planning warning — 🔁 planning
+- **What:** Suwon's museums, the trolley and the martial arts demonstration all pause on **Mondays**, though the fortress wall itself stays open
+- **Hours:** N/A
+- **Price:** N/A
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Do not plan your Suwon day on a Monday** unless you only want the wall walk.
+
+### 209) 🏯 Hwaseong Haenggung Night Opening (야간개장) — 👀 WATCH — seasonal
+- **What:** Haenggung palace runs periodic evening openings with lighting and performances; schedules are published seasonally by the cultural foundation
+- **Hours:** Evenings, typically **18:00–21:00** when running
+- **Price:** Adult **₩1,500–₩5,000**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr)
+- **Beginner notes:** **Check the November 2026 schedule** — night openings are usually spring and autumn.
+
+### 210) 🥁 Suwon Traditional Performance & Gugak Programmes — 🔁 weekends
+- **What:** Free and low-cost traditional music and dance at Haenggung Square and the Suwon Traditional Culture Center on weekends
+- **Hours:** Weekend afternoons
+- **Price:** Many **FREE**
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Programmes are posted at the Haenggung ticket office. Combine with the 11:00 martial arts show.
+
+### 211) 🖼️ Suwon Art Space Gwanggyo & Public Art — 🔁 Tue–Sun (FREE)
+- **What:** A contemporary art space in the Gwanggyo new town, plus a substantial public-sculpture programme around the lake park
+- **Hours:** Tue–Sun **10:00–19:00** (closed Mon)
+- **Price:** Often **FREE**
+- **Official source:** [suma.suwon.go.kr](https://suma.suwon.go.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** The lake park sculptures are free and lit at night.
+
+### 212) 🏛️ Gyeonggi Provincial Government & Suwon as capital — 🔁 weekdays (FREE)
+- **What:** Suwon is the provincial capital of Gyeonggi-do; the provincial complex and the new Gwanggyo government town are open to visitors
+- **Hours:** Weekdays **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [gg.go.kr](https://www.gg.go.kr)
+- **Beginner notes:** Mainly of interest for the modern-Korea contrast with the fortress a few kilometres away.
+
+### 213) 🌏 Suwon Global Center & Foreign Resident Services — 🔁 weekdays (FREE)
+- **What:** Suwon has a large foreign resident population; the Global Center provides free interpretation, advice and cultural programmes
+- **Hours:** Weekdays **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr) · [1330 Hotline](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Dial 1330 for free 24-hour English tourist help.**
+
+### 214) 🕌 Suwon Halal & International Food Options — 🔁 daily
+- **What:** Suwon's international districts near the industrial belt offer halal, Central Asian, Vietnamese and Nepali food
+- **Hours:** Roughly **11:00–22:00**
+- **Price:** Meals **₩9,000–₩15,000**
+- **Official source:** [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** Concentrated around Suwon Station's west side and the Ansan-bound bus corridor.
+
+### 215) 🥬 Suwon Vegetarian & Temple Food — 🔁 daily
+- **What:** Vegetarian options at Yongjusa's temple kitchen and several Haenggung-dong cafes, plus bibimbap adaptable on request
+- **Hours:** Roughly **11:00–20:00**
+- **Price:** Temple set **₩12,000–₩20,000**
+- **Official source:** [yongjoosa.or.kr](http://www.yongjoosa.or.kr) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Book temple meals ahead** — they are not walk-in.
+
+### 216) 🎒 Suwon Station Lockers & Luggage — 🔁 daily
+- **What:** Coin lockers at Suwon Station and the bus terminal make Suwon easy to do as a stopover between Seoul and the south
+- **Hours:** Roughly **05:00–24:00**
+- **Price:** **₩2,000–₩5,000** per day
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [suwon.go.kr](https://www.suwon.go.kr)
+- **Beginner notes:** **Suwon is a KTX stop on the Gyeongbu line** — a natural half-day break on the way to Busan.
+
+### 217) 🛤️ Suwon to Yongin & Everland connections — 🔁 daily
+- **What:** Direct buses from Suwon Station to Everland and the Korean Folk Village, both under 40 minutes away
+- **Hours:** Roughly **07:00–22:00**
+- **Price:** Bus **₩2,000–₩2,800**
+- **Official source:** [everland.com](https://www.everland.com) · [koreanfolk.co.kr](https://www.koreanfolk.co.kr)
+- **Beginner notes:** **Bus 37 from Suwon Station to the Korean Folk Village** is the standard route — about 30 minutes.
+
+### 218) 🗺️ Suwon two-day plan with Yongin & the royal tombs — 🔁 planning
+- **What:** Day 1: fortress, Haenggung, museums, illumination. Day 2: Yungneung/Geolleung tombs + Yongjusa, or the Korean Folk Village in Yongin
+- **Hours:** Two full days
+- **Price:** About **₩60,000** total
+- **Official source:** [swcf.or.kr](https://www.swcf.or.kr) · [royaltombs.khs.go.kr](https://royaltombs.khs.go.kr)
+- **Beginner notes:** **Two UNESCO sites — Hwaseong and the Joseon royal tombs — within 15 km of each other.**
+
+---
+
 ## 🧭 Beginner-friendly essentials
 
 - **KTX ticket from Seoul:** Often under ₩10,000 (~7 USD one-way); book on [letskorail.com](https://www.letskorail.com). Suwon Station (Subway Line 1) is a single direct stop from Seoul.
