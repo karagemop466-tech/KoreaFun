@@ -80,7 +80,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
 | Sat Oct 24–Sun Nov 15 | **Pohang Steel Art Festival** — outdoor steel sculpture, workshops, city art tours (venue TBA) | Pohang | ✅ |
-| **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (DCC Hall II; Nov 6 + Sat morning are trade-only) | Daejeon | ✅ |
+| **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (DCC Hall II; ₩16,000 adv/₩23,000 door, 19+ w/ID; only the *business zone* is buyers-only Nov 6 + Sat before 14:00) | Daejeon | ✅ |
 | Sat Nov 7 | **Busan Fireworks Festival** · Seoul E-Land vs Jeonnam 16:30 · MCR / Jujutsu Kaisen concerts | Busan / Seoul / Incheon | ✅ |
 | **Sat–Sun Nov 7–8** | **KGMA 2026** (Korea Grand Music Awards, first year at Gocheok) | Seoul (Gocheok Sky Dome) | ✅ |
 | Sun Nov 8 | Cheonan City FC vs Busan IPark, 14:00 (K-League 2) | Cheonan | ✅ |

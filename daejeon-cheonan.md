@@ -18,8 +18,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** Wine trade show and public tasting at Daejeon Convention Center, with companion programs (Asia Wine Trophy and related events) listed **Nov 1–8**.
 - **When:** Official English homepage: exhibition halls **Nov 6–8**; other events **Nov 1–8**. Hours are **11:00–18:00**, except Fri Nov 6 which runs to 19:00.
 - **⚠️ Venue detail:** It is in **DCC Hall II** — not Hanbit Tower. (An earlier draft of this guide said tastings were at Hanbit Tower; that was wrong and has been corrected.)
-- **⚠️ Buyers-only windows:** Fri Nov 6 is **trade/buyers only all day**, and Sat Nov 7 is buyers-only **until 14:00**. As general visitors, arrive **Sat afternoon or Sun Nov 8**.
-- **Official sources (reviewed Aug 17):** [djwinefair.com/eng](https://djwinefair.com/eng/0501) · [visitor info](https://djwinefair.com/eng/1101)
+- **⚠️ Buyers-only zone — read carefully:** the restriction is on the **"business zone" specifically, not the whole exhibition**. General visitors can attend on any of the three days; they simply cannot enter the business zone **all day Fri Nov 6 and until 14:00 on Sat Nov 7**. So Friday is still perfectly worth going to — an earlier version of this entry said Friday was closed to the public, which was too strong. To see everything, go **Sat after 14:00 or Sun Nov 8**.
+- **Price:** **₩16,000** early-bird (advance sale ran Jul 7–Sep 20) vs **₩23,000** on the door — so buy ahead if you can. Multi-day: ₩26,000 / 2-day, ₩33,000 / 3-day early-bird. Sold via NOL (Interpark) and Naver 예약.
+- **⚠️ Ages 19+ to enter, and bring photo ID** — this is an alcohol event and they do check. Accompanied children/teens can enter free but cannot taste.
+- **Practical:** last entry is **1 hour before close** (18:00 Fri, 17:00 Sat/Sun). **Bring your own wine glass or buy one at the entrance (~₩5,000).** Around 200 exhibitors from ~16 countries.
+- **Official sources (reviewed Aug 18):** [Visitor guide, djwinefair.com/eng/0501](https://djwinefair.com/eng/0501) — states hours, buyer rules and admission fees · [Main event page](https://djwinefair.com/eng/0301)
 
 ### 2) ⚽ **Cheonan City FC vs Busan IPark** — ✅ CONFIRMED — Sun Nov 8, 2026 · 14:00
 - **What:** K League 2 round 32 at **Cheonan Stadium (천안종합운동장)**, Cheonan City FC hosting Busan IPark. Cross-checked against Busan IPark’s own official match centre, which lists the same date, time, and away fixture.
