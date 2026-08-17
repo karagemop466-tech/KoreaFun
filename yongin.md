@@ -138,9 +138,12 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **Official sources (reviewed Aug 17):** [Hoam Museum](https://www.leeumhoam.org/hoam) · [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111430)
 
 ### 19) 🚗 **Samsung Fire & Marine Insurance Mobility Museum** — 🔎 VERIFIED MUSEUM
-- **What:** Automobile and mobility collection near Everland, with transport-history and safety exhibits.
-- **Hours:** VISITKOREA lists weekdays 09:00–17:00, weekends 10:00–18:00, closed Monday; check the operator for current tickets and closures.
-- **Official sources (reviewed Aug 17):** [museum](https://www.stm.or.kr) · [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=62798)
+- **What:** Samsung Fire & Marine's classic-car and mobility museum near Everland — roughly 130 years of automotive history from an 1886 Benz Patent-Motorwagen through a 1925 Austin 7, Alfa 6C, MG MGA and a 1992 Acura NSX, plus indoor/outdoor activities (drone tower, RC raceway, 4D simulators, classic-car rides).
+- **Hours (operator, Aug 18):** **weekdays 09:00–17:00 (last entry 16:00) · weekends 10:00–18:00 (last entry 17:00).** Closed Mondays, Jan 1, Seollal and Chuseok — **but if a Monday is a public holiday it opens instead.**
+- **⚠️ Not free — ₩10,000 adult** (19–64), **₩8,000 age 3–18**, **₩6,000 senior 65+**, under-36-months free. Free for national-merit recipients, registered disabled visitors (+1 carer) and basic-livelihood recipients.
+- **💡 Everland season-pass holders pay half price** (₩5,000/₩4,000/₩3,000) — relevant if you're doing Everland (#10) anyway. Groups of 10+ get ₩1,000 off. Discounts do not stack.
+- **No advance booking needed for individuals** — walk in. **No re-entry once you leave.** Parking free for the first 4 hours, then ₩500/10 min. ☎ 031-320-9900 (09:00–18:00 on open days).
+- **Official source (reviewed Aug 18):** [Samsung Fire & Marine Mobility Museum — visitor guide, fares, parking](https://www.stm.or.kr/kor/info/guide.html)
 
 ### 20) 🪔 **Korean Deungjan (Traditional Lamp) Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Specialist museum of Korean lamps and lighting culture near the Jeong Mong-ju tomb area.
@@ -158,8 +161,11 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 
 ### 22) 🎬 **Yongin Dae Jang Geum Park** — 🔎 VERIFIED OPERATOR
 - **What:** MBC historical-drama production set open to visitors, with architecture representing multiple eras and costume/photo activities.
-- **Hours:** VISITKOREA lists Nov–Feb 09:00–17:00; confirm filming restrictions and last admission before the long trip to Baegam.
-- **Official sources (reviewed Aug 17):** [MBC park](https://djgpark.imbc.com) · [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=66163)
+- **Hours:** **Your trip is in the winter season: Nov–Feb 09:00–17:00, last admission 16:00** (summer Mar–Oct runs to 18:00). Generally open year-round with no weekly closing day.
+- **⚠️ Price is unsettled — budget ₩9,500–11,000 per adult.** MBC raised admission in Aug 2024 and **its own notice page is currently unreachable**; secondary listings still disagree (₩9,500 vs ₩11,000 adult, ₩8,000–9,000 teen, ₩7,000 child). **Confirm at the gate or by phone — ☎ 031-337-3241 — before committing to the trip.**
+- **⚠️ This is a working set, not a theme park.** Filming can close areas without notice, and it's **remote** — Baegam-myeon, ~40 km southeast of Seoul, roughly 1.5–2 hrs from central Seoul and awkward without a car (bus 37 from Suwon or Yongin terminal). Combining it with Everland in one day is not realistic.
+- **What's there:** the standing sets for *Dae Jang Geum*, *Jumong*, *Queen Seondeok*, *Dong Yi*, *Yi San*, *The Moon Embracing the Sun*, *Empress Ki* and others; costume rental and photo activities; an on-site campsite. BTS Suga's *Daechwita* video was shot here.
+- **Official sources (reviewed Aug 18):** [MBC Yongin Dae Jang Geum Park](https://djgpark.imbc.com) *(operator's own Aug 2024 fare notice at `/news/3847084_66321.html` fails to load — hence the price range above)* · [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=66163)
 
 ### 23) 🛕 **Waujeongsa Temple** — 🔎 VERIFIED PLACE
 - **What:** Buddhist temple known for a large outdoor Buddha head and reclining Buddha image.

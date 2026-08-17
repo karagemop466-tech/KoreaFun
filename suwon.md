@@ -168,9 +168,14 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 25) 💡 **Samsung Innovation Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Electronics-industry history museum on Samsung’s Suwon campus.
-- **Access:** VISITKOREA says weekday visits require advance reservation and a docent; Saturday has separate walk-in hours. Closed Sunday and designated holidays.
+- **Access (operator, Aug 18) — much tighter than a normal museum:**
+  - **Weekdays: one guided slot only, 13:00–14:00, advance booking required.** Not a drop-in.
+  - **Saturday: 10:00–17:00, last entry 16:00** — the only realistic option for a visitor, and the one day you can browse at your own pace.
+  - **Closed Sundays**, all public holidays and substitute holidays, Labour Day, and Dec 31.
 - **Price:** Free.
-- **Official sources (reviewed Aug 17):** [Samsung Innovation Museum](https://www.samsunginnovationmuseum.com) · [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=66187)
+- **⚠️ Plan it for a Saturday.** In your window that means **Nov 7, 14 or 21** — but Nov 7 and Nov 21 are both heavily committed elsewhere (see the itinerary), so **Sat Nov 14** is the practical slot if you want this.
+- **What's inside:** Korea's largest electronics-industry museum — Hall 1 on the age of inventors, Hall 2 on semiconductors/displays/mobile, Hall 3 on Samsung's current product galleries, plus a Samsung Electronics history hall on 1F.
+- **Official source (reviewed Aug 18):** [Samsung Innovation Museum — operating hours and closures](https://www.samsunginnovationmuseum.com)
 
 ---
 

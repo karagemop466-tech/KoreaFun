@@ -5103,14 +5103,16 @@
  },
  "suwon.md#25": {
   "badge": "🔎",
-  "body_hash": "5fb3d87215",
-  "checked_on": null,
+  "body_hash": "cf6569b7ac",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Samsung Innovation Museum access is MUCH tighter than entry implied. Operator: WEEKDAYS = a single 13:00-14:00 guided slot, advance booking mandatory. SATURDAY 10:00-17:00 last entry 16:00 is the only browse-freely option. Closed Sundays, ALL public holidays + substitute holidays, Labour Day, Dec 31. Free. Flagged that the only practical Saturday in the trip window is Nov 14 (Nov 7 and 21 are committed).",
   "num": 25,
-  "sources": [],
+  "sources": [
+   "https://www.samsunginnovationmuseum.com"
+  ],
   "title": "💡 Samsung Innovation Museum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#26": {
   "badge": "🔎",
@@ -6207,14 +6209,16 @@
  },
  "yongin.md#19": {
   "badge": "🔎",
-  "body_hash": "94c1799f74",
-  "checked_on": null,
+  "body_hash": "0964992cd6",
+  "checked_on": "2026-08-18",
   "file": "yongin.md",
-  "note": "",
+  "note": "Samsung F&M Mobility Museum: entry implied free and gave no price. NOT FREE - W10,000 adult / W8,000 age 3-18 / W6,000 senior 65+, under-36mo free. EVERLAND SEASON PASS = 50% OFF (W5,000). Hours confirmed weekday 09:00-17:00 last entry 16:00, weekend 10:00-18:00 last entry 17:00. Closed Mon EXCEPT when Monday is a holiday (then open). No booking needed for individuals, NO RE-ENTRY, parking free 4h then W500/10min. Tel 031-320-9900.",
   "num": 19,
-  "sources": [],
+  "sources": [
+   "https://www.stm.or.kr/kor/info/guide.html"
+  ],
   "title": "🚗 Samsung Fire & Marine Insurance Mobility Museum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "yongin.md#2": {
   "badge": "✅",
@@ -6253,14 +6257,18 @@
  },
  "yongin.md#22": {
   "badge": "🔎",
-  "body_hash": "da6a00165b",
-  "checked_on": null,
+  "body_hash": "10c2afe485",
+  "checked_on": "2026-08-18",
   "file": "yongin.md",
-  "note": "",
+  "note": "Dae Jang Geum Park: WINTER hours Nov-Feb 09:00-17:00 last admission 16:00 confirmed (trip is winter). PRICE UNRESOLVED and stated as a range W9,500-11,000: MBC raised fares Aug 2024 and its own notice page (news/3847084_66321.html) is unreachable (ERR_TUNNEL_CONNECTION_FAILED); secondary sources disagree. Told reader to confirm at gate/031-337-3241 rather than trusting a number. Added remoteness warning (Baegam, 1.5-2h from Seoul, not combinable with Everland) and working-set closure risk.",
   "num": 22,
-  "sources": [],
+  "sources": [
+   "https://djgpark.imbc.com",
+   "https://m.tripinfo.co.kr/info.html?content_type_id=12&content_id=2661408",
+   "https://kr.trip.com/moments/poi-dae-jang-geum-park-13566712/"
+  ],
   "title": "🎬 Yongin Dae Jang Geum Park",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "yongin.md#23": {
   "badge": "🔎",
