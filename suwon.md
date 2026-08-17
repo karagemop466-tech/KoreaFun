@@ -177,8 +177,10 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 27) 🌲 **Yeongheung Arboretum** — 🔎 VERIFIED PLACE
 - **What:** Municipal arboretum in Yeongtong with gardens, woodland, and conservatory spaces.
-- **Hours/price:** Tue–Sun 09:30–17:30, last ticket 17:00; closed Monday with holiday exceptions. Check current admission.
-- **Official source (reviewed Aug 17):** [Yeongheung Arboretum](https://www.suwon.go.kr/web/yharbor/index.do)
+- **Price (city fare table, Aug 18):** identical to Ilwol (#26) — **adult 19+ ₩4,000 · teen 13–18 ₩2,500 · child 7–12 ₩1,500**, groups of 20+ ₩3,000/₩1,500/₩1,000. **Free for over-65s and under-7s** (and registered disabled, national-merit and basic-livelihood recipients) — **bring ID**.
+- **Hours:** Tue–Sun **09:30–17:30, last ticket 17:00. Closed Mondays.** ☎ 031-369-2390.
+- **⚠️ Tickets are per-arboretum — there is no combined ticket with Ilwol**, and the two are on opposite sides of the city (Yeongtong vs Ilwol/Jangan). Pick one unless you're keen; ₩4,000 each either way.
+- **Official sources (reviewed Aug 18):** [admission fares](https://www.suwon.go.kr/sw-www/sw-yharbor/sw-yharbor-02/sw-yharbor-02-01/sw-yharbor-02-01-02.jsp) · [Yeongheung Arboretum](https://www.suwon.go.kr/web/yharbor/index.do)
 
 ### 28) 🌊 **Gwanggyo Lake Park** — 🔎 VERIFIED PLACE
 - **What:** Large public park around Woncheon and Sindae reservoirs with approximately 6.5 km of loop paths, viewpoints, and wetlands.

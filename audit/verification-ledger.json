@@ -5121,14 +5121,16 @@
  },
  "suwon.md#27": {
   "badge": "🔎",
-  "body_hash": "77c5ec0d54",
-  "checked_on": null,
+  "body_hash": "c22297ebf0",
+  "checked_on": "2026-08-18",
   "file": "suwon.md",
-  "note": "",
+  "note": "Yeongheung Arboretum 'check current admission' RESOLVED: identical fare table to Ilwol - adult W4,000/teen W2,500/child W1,500, over-65s and under-7s free with ID. 09:30-17:30 last ticket 17:00, Mon closed, tel 031-369-2390. Confirmed NO combined ticket with Ilwol and the two are on opposite sides of Suwon.",
   "num": 27,
-  "sources": [],
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-yharbor/sw-yharbor-02/sw-yharbor-02-01/sw-yharbor-02-01-02.jsp"
+  ],
   "title": "🌲 Yeongheung Arboretum",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "suwon.md#28": {
   "badge": "🔎",
