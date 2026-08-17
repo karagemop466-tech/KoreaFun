@@ -70,8 +70,9 @@ Do not add an entry solely to increase a count.
 | `daegu.md` | **Reviewed 2026-08-17** | Rebuilt 132 → 34 entries; removed fabricated venues/foods/events, duplicates, generic advice, and out-of-city padding; added five dated November 2026 arts programs. |
 | `ulsan.md` | **Reviewed 2026-08-17** | Rebuilt 115 → 29 entries; removed fabricated and proposed attractions, unsafe factory assumptions, duplicates, generic advice, and out-of-city padding; updated Bangucheon’s 2025 UNESCO inscription. |
 | `pohang.md` | **Reviewed 2026-08-17** | Rebuilt 88 → 28 entries; removed fabricated attractions/foods/events, duplicates, unsafe industrial-access claims, generic advice, and out-of-city padding. |
-| Remaining 4 files | **Not yet manually reviewed under this protocol** | Existing content remains a research queue, regardless of earlier heuristic “SOLID” labels. |
+| `changwon-jinhae.md` | **Reviewed 2026-08-17** | Rebuilt 106 → 29 entries; removed fabricated attractions/events, cherry-season duplication, restricted-access assumptions, generic advice, and out-of-city padding; added dated November cultural programming. |
+| Remaining 3 core files | **Not yet manually reviewed under this protocol** | `seoul.md`, `busan.md`, and `daejeon-cheonan.md` remain a research queue despite earlier “core” labels. |
 
 ## Next pass order
 
-Prioritize files with the greatest current source risk: `changwon-jinhae.md`, then re-audit the three previously described as “core” (`seoul.md`, `busan.md`, `daejeon-cheonan.md`). This order is based on missing-source and weak-source counts, not an assumption that the later files are verified.
+Re-audit the three previously described as “core” in this order: `seoul.md`, `busan.md`, then `daejeon-cheonan.md`. The earlier label is not evidence that they are verified.

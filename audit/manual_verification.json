@@ -58,5 +58,11 @@
     "reviewed_on": "2026-08-17",
     "scope": "All retained entries checked against city, venue/operator, museum, temple, club/league, university/research, or tourism sources; fabricated, duplicate, generic, unsafe-access, and out-of-city entries removed.",
     "reviewer_notes": "No major trip-window event was confirmed. Steelworks and accelerator access require explicit official reservations; coastal operations remain weather-dependent."
+  },
+  "changwon-jinhae.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-17",
+    "scope": "All retained entries checked against dated venue, city, operator, museum, park, temple, club/league, or tourism sources; fabricated, duplicate, access-restricted, generic, and out-of-city entries removed.",
+    "reviewer_notes": "One dated November concert and one official monthly screening series were confirmed. Naval Academy/base access and sports remain schedule-dependent; cherry sites are explicitly off-season."
   }
 }
