@@ -270,7 +270,7 @@
 ### 42) 🛶 **O-Gukjae Do Island Ferry — 👀 WATCH**
 - **What:** Ferry to small islands off Ulsan coast
 - **Hours:** Daily 09:00–17:00
-- **Price:** ~₽15,000 RT
+- **Price:** ~₩15,000 RT
 - **Official source:** [uft.ulsan.go.kr](https://uft.ulsan.go.kr)
 
 ### 43) 🌉 **Ilsan Beach Park — 🔁 daily (FREE)**
@@ -284,7 +284,7 @@
 ### 45) 🏖️ **Jinha Beach Surf School (Dec start) — 👀 WATCH**
 - **What:** Surfing 30 min lessons
 - **Hours:** Daily 10:00–18:00
-- **Price:** ₽30,000
+- **Price:** ₩30,000
 - **Beginner notes:** Cold but wetsuits available.
 
 ### 46) 🏝️ **Seongdang-ri Coastal Trail (울산 섬 따라) — 🔁 daily (FREE)**
@@ -295,7 +295,7 @@
 ### 47) 🛶 **Submarine Ride at Ulsan Port — 👀 WATCH (Apr-Nov)**
 - **What:** Underwater viewing boat tour
 - **Hours:** Daily
-- **Price:** ₽25,000
+- **Price:** ₩25,000
 
 ### 48) 🐠 **Ulsan Undersea Observatory — 👀 WATCH**
 - **What:** Underwater observatory inside the marine museum
@@ -304,7 +304,7 @@
 ### 49) 🦈 **Ulsan Whale Watching Boat Tour — 👀 WATCH**
 - **What:** Whale-watching boats
 - **Hours:** Daily 09:00–14:00
-- **Price:** ₽40,000
+- **Price:** ₩40,000
 
 ### 50) 🌊 **Munsu Surf/SUP — 👀 WATCH**
 - **What:** Surfboard / SUP rental
@@ -315,13 +315,13 @@
 ## ⚽ Sports (extended)
 
 ### 51) 🏀 **Ulsan Hyundai Mobis Phoebus Basketball Home Games — 🔁 daily during KBL season**
-- **Price:** ~₽10,000–20,000
+- **Price:** ~₩10,000–20,000
 - **Beginner notes:** Smaller arena, intimate.
 
 ### 52) ⛸️ **Ulsan Indoor Ice Rink (Seasonal: Nov–Feb) — 🔁 daily**
 - **What:** Public ice skating rink; opens around mid-November
 - **Hours:** Daily 10:00–20:00
-- **Price:** Adult ~₽5,000; skate rental ₽3,000
+- **Price:** Adult ~₩5,000; skate rental ₩3,000
 
 ### 53) 🏃 **Ulsan International Marathon (Nov) — 👀 WATCH**
 - **What:** Annual marathon passes through Ulsan's major landmarks
@@ -333,17 +333,17 @@
 ### 54) 🎾 **Ulsan Tennis Court — 🔁 daily**
 - **What:** Public tennis courts
 - **Hours:** Daily 07:00–22:00
-- **Price:** ₽5,000–10,000 per court
+- **Price:** ₩5,000–10,000 per court
 
 ### 55) 🏊 **Ulsan Public Swimming Pool — 🔁 daily (winter indoor)**
 - **What:** Public swimming pool
 - **Hours:** Daily 06:00–22:00
-- **Price:** ₽4,000–6,000
+- **Price:** ₩4,000–6,000
 
 ### 56) 🚴 **Ulsan Bike (Public bike) — 🔁 daily**
 - **What:** Bike share system
 - **Hours:** Daily
-- **Price:** ₽1,000/hr
+- **Price:** ₩1,000/hr
 
 ### 57) 🏌️ **Ulsan Country Club — 👀 WATCH**
 - **What:** Golf course
@@ -352,7 +352,7 @@
 
 ### 58) 🏐 **Ulsan V-League Matches (Volleyball) — 👀 WATCH (Nov)**
 - **What:** Hyundai Men's Volleyball home matches
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 
 ### 59) 🏆 **Ulsan Industrial V-Ball — 👀 WATCH**
 - **What:** Various industrial teams
@@ -454,7 +454,7 @@
 
 ### 80) 🥗 **Ulsan Vegan Cafe (비건 카페) — 🔁 daily**
 - **Hours:** Daily 11:00–21:00
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ### 81) 🍰 **Ulsan Dessert Cafe Tour — 🔁 daily**
 - **Hours:** Daily 11:00–22:00
@@ -493,7 +493,7 @@
 
 ### 89) 🚌 **Ulsan Industrial Complex Bus Tour — 👀 WATCH**
 - **What:** Chartered bus tour of industrial sites
-- **Price:** ₽25,000
+- **Price:** ₩25,000
 
 ---
 
@@ -514,7 +514,7 @@
 ### 93) 🍽️ **Ulsan Movie Theater (CGV Ulsan) — 🔁 daily**
 - **What:** Multiplex
 - **Hours:** Daily 11:00–24:00
-- **Price:** ₽10,000–15,000
+- **Price:** ₩10,000–15,000
 
 ### 94) 📚 **Ulsan Big Library — 🔁 daily (FREE)**
 - **What:** Modern public library
@@ -559,7 +559,7 @@
 ## 🌾 Wellness & culture
 
 ### 102) 🧘 **Ulsan Templestay Local Programs — 👀 WATCH weekends**
-- **Price:** ~₽50,000
+- **Price:** ~₩50,000
 - **Hours:** Sat–Sun
 
 ### 103) 🧘 **Ulsan Meditation Center — 👀 WATCH**
@@ -569,7 +569,7 @@
 ### 104) 💆 **Ulsan Spa Village (일산) — 🔁 daily**
 - **What:** Multiple Korean spa complexes
 - **Hours:** Daily
-- **Price:** ₽10,000–15,000
+- **Price:** ₩10,000–15,000
 
 ### 105) ♨️ **Ulsan Various Jjimjilbang — 🔁 daily**
 
@@ -612,7 +612,7 @@
 ### 114) 🏯 **Yongdeok (영덕) Snow Crab — 👀 WATCH (Nov start)**
 - **What:** Coastal city famous for snow crab from Nov
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽15,000–40,000
+- **Price:** ₩15,000–40,000
 
 ### 115) 🌊 **Yeongdeok Beach/Coast — 👀 WATCH**
 
@@ -663,7 +663,7 @@
 ### 130) 🐠 **Ulsan Family Aquarium — 👀 WATCH**
 - **What:** Indoor aquarium near E-World
 - **Hours:** Daily
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ### 131) 🐎 **Ulsan Horseback Riding Stable (Samnam) — 👀 WATCH**
 - **Hours:** Weekend
@@ -677,7 +677,7 @@
 
 ### 135) ⛸️ **Ulsan Indoor Ice Skating (Nov–Feb)**
 - **Hours:** Daily 10:00–20:00
-- **Price:** ₽5,000
+- **Price:** ₩5,000
 - **Beginner notes:** Family holiday.
 
 ### 136) 🐯 **Ulsan Kids' Pet Park (Family Day) — 👀 WATCH**

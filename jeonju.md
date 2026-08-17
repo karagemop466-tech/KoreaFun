@@ -54,7 +54,7 @@
 ### 6) 🌿 Jeonju Traditional Cultural Life Experience Hall — 🔁 daily
 - **What:** Indoor folk museum letting you make Korean paper (hanji), use a wooden loom, mix natural dyes; perfect rainy-day stop
 - **Hours:** Daily 09:00–18:00
-- **Price:** Workshop ~₽10,000–20,000; museum free
+- **Price:** Workshop ~₩10,000–20,000; museum free
 - **Official source:** [hanok.jeonju.go.kr](http://www.hanok.jeonju.go.kr)
 - **Beginner notes:** Bring your finished product home.
 
@@ -312,12 +312,12 @@
 ### 41) 🚶 **Hanok Village Tradition Tea Workshop — 👀 WATCH (weekends)**
 - **What:** Pair advice by local tea master
 - **Hours:** Saturdays & Sundays 14:00
-- **Price:** ₽15,000–25,000
+- **Price:** ₩15,000–25,000
 
 ### 42) 🏯 **Hanok Village Traditional Medicine (한의약) Hall — 👀 WATCH**
 - **What:** Korean herbal medicine museum inside Hanok Village
 - **Hours:** Tue–Sun
-- **Price:** ₽2,000
+- **Price:** ₩2,000
 
 ### 43) 🧵 **Jeonju Sewing & Tailor Hanok Trail — 👀 WATCH**
 - **What:** Working tailor studios (Korean Hanbok custom-fitted)
@@ -334,12 +334,12 @@
 ### 46) 🦢 **Hanok Village Live Korean Wood-Decoration Workshop — 👀 WATCH**
 - **What:** Hand-crafted Najeon Chilgi-euri mother-of-pearl demo
 - **Hours:** Weekends 14:00
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ### 47) 🍵 **Jeonju Tea Plantation & Tea History Museum — 👀 WATCH**
 - **What:** Tea plantations outside Jeonju with tea-tasting
 - **Hours:** Daily 10:00–17:00
-- **Price:** ₽8,000
+- **Price:** ₩8,000
 
 ### 48) 📚 **Hanok Village Traditional Bookbinding Studio — 👀 WATCH**
 - **What:** Traditional *Hanji* + woodblock-print studio
@@ -352,7 +352,7 @@
 ### 50) 🎎 **Hanok Village Korean Folk Drama (한국 민속통) — 👀 WATCH**
 - **What:** Tradition storytelling in traditional folk theater
 - **Hours:** Saturdays 19:00
-- **Price:** ₽5,000
+- **Price:** ₩5,000
 
 ### 51) 🍁 **Hanok Village Autumn Night Lantern Walk — 👀 WATCH**
 - **What:** Lantern illumination after sunset inside village in autumn
@@ -365,12 +365,12 @@
 ### 53) 🏮 **Hanok Village Korean Fanmaking (부채) Workshop — 🔁 Tue–Sun**
 - **What:** Fan-painting workshop — paint your own
 - **Hours:** Tue–Sun 10:00–17:00
-- **Price:** ₽10,000–25,000
+- **Price:** ₩10,000–25,000
 
 ### 54) 🏛️ **Hanok Village Hansang Memory Museum (한상 추억) — 👀 WATCH**
 - **What:** Memory museum inside hanok
 - **Hours:** Tue–Sun 10:00–18:00
-- **Price:** ₽1,000
+- **Price:** ₩1,000
 
 ---
 
@@ -379,17 +379,17 @@
 ### 55) 🍜 **Jeonju Kalguksu (칼국수) Alley — 🔁 daily**
 - **What:** Hand-cut noodle street inside Hanok Village
 - **Hours:** Daily 11:00–21:00
-- **Price:** ~₽8,000 per bowl
+- **Price:** ~₩8,000 per bowl
 
 ### 56) 🥬 **Jeonju 'Chumsil Maeuntang' Spicy Fish Soup — 🔁 daily**
 - **What:** Spicy freshwater stew district north of Hanok Village
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽10,000 per stove
+- **Price:** ~₩10,000 per stove
 
 ### 57) 🍱 **Jeonju *Galbi-jjim* (Braised Short Ribs) Block — 🔁 daily**
 - **What:** District for classic braised beef short ribs
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽20,000–30,000
+- **Price:** ₩20,000–30,000
 
 ### 58) 🍤 **Jeonju *Ssammaisuk* (Wraps + Side Dishes) Street — 🔁 daily**
 - **What:** Wrap-around side dishes street
@@ -407,7 +407,7 @@
 ### 61) ☕ **Jeonju Coffee Culture District (전주 카페 거리) — 🔁 daily**
 - **What:** Indie coffee culture cluster in the village
 - **Hours:** Daily 10:00–22:00
-- **Price:** ₽5,000
+- **Price:** ₩5,000
 
 ### 62) 🍵 **Jeonju Korean Tea Festival & Hanok Tea Tour — 👀 WATCH (Sep/Oct)**
 - **What:** Tea festival with plantation visits
@@ -415,7 +415,7 @@
 ### 63) 🍱 **Jeonju Bibimbap Museum — 🔁 Tue–Sun**
 - **What:** Dedicated museum
 - **Hours:** Tue–Sun 10:00–18:00
-- **Price:** ₽2,000
+- **Price:** ₩2,000
 
 ### 64) 🥟 **Jeonju Steamed Bun Block — 🔁 daily**
 - **What:** Specialized steamed bun restaurants
@@ -424,7 +424,7 @@
 ### 65) 🌿 **Hanok Village Tofu Workshop (두부) — 👀 WATCH**
 - **What:** Working tofu restaurant
 - **Hours:** Daily
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ### 66) 🍲 **Jeonju Strait Stew (Buri-maeuntang) — 👀 WATCH**
 - **What:** Korean fish soup specialized
@@ -436,7 +436,7 @@
 ### 67) 🏛️ **Jeonju Traditional Crafts Museum (전주 공예 박물관) — 🔁 Tue–Sun**
 - **What:** Multi-floor crafts museum on Joseon-era arts
 - **Hours:** Tue–Sun 09:00–18:00
-- **Price:** ₽1,500
+- **Price:** ₩1,500
 
 ### 68) 🏯 **Wanju Buan-Song March Mountains (완주 변산) — 👀 WATCH**
 - **What:** Coastal mountains near Jeonju
@@ -477,7 +477,7 @@
 ### 76) 🎬 **Jeonju International Film Festival Shorts Theater — 👀 WATCH (fall)**
 - **What:** Mini-festival screenings
 - **Hours:** Variable
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ### 77) 🎨 **Jeonju City Hall Museum (전주시청 박물관) — 👀 WATCH**
 - **What:** Public art exhibits inside city hall
@@ -498,13 +498,13 @@
 ### 81) 🎬 **Jeonju Arts Center Concert Hall — 🔁 daily**
 - **What:** Premier performing arts center
 - **Hours:** Daily 10:00–22:00
-- **Price:** Varies ₽10,000–80,000
+- **Price:** Varies ₩10,000–80,000
 - **Official source:** [jjartcenter.kr](http://www.jjartcenter.kr)
 
 ### 82) 🎨 **Jeonju-Center for Joseon Crafts (삼백) — 🔁 Tue–Sun**
 - **What:** Working Joseon crafts studio
 - **Hours:** Tue–Sun 11:00–18:00
-- **Price:** ₽15,000–25,000
+- **Price:** ₩15,000–25,000
 
 ### 83) 🎭 **Jeonju Theater (전주 시민극장) — 👀 WATCH**
 - **What:** Local theater venue
@@ -576,7 +576,7 @@
 ### 98) 🍂 **Jeonju Rural Traditional House (전주 농경 집) — 👀 WATCH**
 - **What:** Working rural tiled-roof houses
 - **Hours:** Daily
-- **Price:** ₽5,000–10,000
+- **Price:** ₩5,000–10,000
 
 ### 99) 🍄 **Jeonju Village Picnic Gardens — 👀 WATCH**
 - **What:** Working picnic gardens
@@ -585,7 +585,7 @@
 ### 100) 🌲 **Gangwon Arboretum Day Trip — 👀 WATCH**
 - **What:** Arboretum 50 min drive from Jeonju
 - **Hours:** Tue–Sun 09:30–18:00
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 
 ---
 
@@ -613,7 +613,7 @@
 ### 106) 💃 **Jeonju Nanta Theater — 🔁 daily**
 - **What:** Korean non-verbal cooking show
 - **Hours:** Daily 17:00 & 20:00
-- **Price:** ₽40,000–50,000
+- **Price:** ₩40,000–50,000
 
 ---
 
@@ -649,7 +649,7 @@
 ### 115) 🏯 **Sunchang (순창) Gochujang Village — 👀 WATCH**
 - **What:** Famous chili paste village
 - **Hours:** Daily
-- **Price:** ₽5,000
+- **Price:** ₩5,000
 
 ### 116) 🌾 **Sunchang Lake Hydrangea Garden — 🔁 daily (FREE)**
 - **What:** Lake gardens
@@ -683,7 +683,7 @@
 
 ### 125) 🎃 **Hanok Village Ghost Tour (Oct 31) — 👀 WATCH**
 - **What:** Storytelling about village ghosts
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ### 126) 🦇 **Hanok Village Lantern Parade (Oct 31) — 👀 WATCH**
 - **What:** Halloween themed walk
@@ -692,7 +692,7 @@
 ### 127) 🍰 **Jeonju Bibimbap Culinary Workshop — 🔁 Tue–Sun**
 - **What:** Hands-on cooking class
 - **Hours:** Tuesday–Sunday 11:00–15:00
-- **Price:** ₽25,000–50,000
+- **Price:** ₩25,000–50,000
 
 ---
 
@@ -713,21 +713,21 @@
 ### 132) 🌸 **Jeonju Onsen Spa Heritage — 👀 WATCH (FREE)**
 - **What:** Local bath house
 - **Hours:** Daily
-- **Price:** ₽10,000–15,000
+- **Price:** ₩10,000–15,000
 
 ### 133) 🧘 **Jeonju Meditation Temple Stay Program — 👀 WATCH (weekends)**
 - **What:** Buddhist temple program
 - **Hours:** Sat–Sun
-- **Price:** ~₽50,000
+- **Price:** ~₩50,000
 
 ### 134) 🎨 **Jeonju Hanji Craft Workshop — 🔁 Tue–Sun**
 - **What:** Traditional paper craft
 - **Hours:** Tue–Sun 10:00–17:00
-- **Price:** ₽15,000–30,000
+- **Price:** ₩15,000–30,000
 
 ### 135) 🎬 **Jeonju MBC Drama District Filming Locations Tour — 👀 WATCH**
 - **What:** Tour of famous Korean drama filming locations
-- **Price:** ₽10,000–25,000
+- **Price:** ₩10,000–25,000
 
 ### 136) 🏛️ **Jeonju Independence Heritage Trail — 🔁 daily (FREE)**
 - **What:** Patriotic heritage trail

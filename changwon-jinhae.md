@@ -276,12 +276,12 @@
 ### 43) 🚢 **Jinhae Warship Cruise — 👀 WATCH (Apr & Nov)**
 - **What:** Korean Navy-themed coastal cruise
 - **Hours:** Variable
-- **Price:** ~₽25,000
+- **Price:** ~₩25,000
 
 ### 44) ⚓ **Jinhae Naval Museum — 🔁 Tue–Sun**
 - **What:** Maritime museum
 - **Hours:** Tue–Sun 10:00–17:00
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 
 ### 45) 🍎 **Jinhae Mt. Bulsan (불산) — 🔁 always on (FREE)**
 - **What:** Mountain trail with views of navy port
@@ -322,7 +322,7 @@
 
 ### 53) 🌺 **Changwon Main Lily Garden — 👀 WATCH**
 - **Hours:** Daily 09:00–18:00
-- **Price:** ₽2,000
+- **Price:** ₩2,000
 
 ### 54) 🌷 **Uiryeong Hibiscus Garden — 👀 WATCH autumn**
 - **What:** Hibiscus / Aster garden
@@ -348,7 +348,7 @@
 
 ### 59) ⚾ **NC Dinos Home Games Baseball Season (Oct-Nov postseason) — ✅ CONFIRMED**
 - **What:** Home at NC Park, Nago
-- **Price:** General ₽7,000–35,000
+- **Price:** General ₩7,000–35,000
 
 ### 60) ⚽ **Masan Football Club Semi-Pro — 👀 WATCH**
 - **Hours:** Variable
@@ -356,11 +356,11 @@
 
 ### 61) 🏊 **Changwon Public Swimming Pool — 🔁 daily**
 - **Hours:** Daily 06:00–22:00
-- **Price:** ₽4,000
+- **Price:** ₩4,000
 
 ### 62) 🎾 **Changwon Indoor Tennis Center — 🔁 daily**
 - **Hours:** Daily 07:00–22:00
-- **Price:** ₽5,000–10,000
+- **Price:** ₩5,000–10,000
 
 ### 63) 🏐 **Changwon Korean V-Ball (NC) — 👀 WATCH**
 - **What:** NC V-League home matches at Changwon
@@ -378,7 +378,7 @@
 ### 67) 🐟 **Masan Special Mulhoe Restaurant — 🔁 daily**
 - **What:** Cold raw fish soup specialty
 - **Hours:** Daily
-- **Price:** ~₽15,000
+- **Price:** ~₩15,000
 
 ### 68) 🍲 **Masan *Yukhoe* (Korean Beef Tartare) District — 🔁 daily**
 - **Hours:** Daily 11:00–22:00
@@ -417,7 +417,7 @@
 ### 78) 🎨 **Changwon NC Park Stadium Guided Tour — 👀 WATCH (Wed by reservation)**
 - **What:** Tour of Daegu NC's stadium (note in Changwon)
 - **Hours:** Wed 14:00
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 - **Official source:** [ncpark.com](https://www.ncpark.com)
 
 ### 79) 🖼️ **Changwon City Hall Photo Gallery — 👀 WATCH**
@@ -489,7 +489,7 @@
 - **Hours:** Daily dawn–dusk
 
 ### 98) 🛶 **Masan Yacht Charter — 👀 WATCH**
-- **Price:** ₽50,000–80,000
+- **Price:** ₩50,000–80,000
 
 ### 99) 🐠 **Masan Marina Aquarium — 👀 WATCH**
 
@@ -543,7 +543,7 @@
 
 ### 113) 🛕 **Masan Buddhist Temple Stay — 👀 WATCH weekends**
 - **What:** Weekend temple stay
-- **Price:** ~₽50,000
+- **Price:** ~₩50,000
 
 ### 114) 🎎 **Changwon Mask Museum (탈) — 👀 WATCH**
 - **Hours:** Tue–Sun
@@ -571,11 +571,11 @@
 
 ### 119) 🎠 **Changwon Jumping World (Trampoline Park) — 🔁 daily**
 - **Hours:** Daily 10:00–22:00
-- **Price:** ₽10,000–15,000
+- **Price:** ₩10,000–15,000
 
 ### 120) 🦁 **Changwon Kids' Cafe — 🔁 daily**
 - **Hours:** Daily 11:00–21:00
-- **Price:** ₽8,000
+- **Price:** ₩8,000
 
 ### 121) 🎮 **Changwon Family Arcade — 🔁 daily**
 - **Hours:** Daily

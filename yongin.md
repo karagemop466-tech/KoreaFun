@@ -364,7 +364,7 @@
 ### 49) 🏊 **Yongin City Sports Complex Public Pool — 🔁 daily**
 - **What:** Public indoor swimming pool
 - **Hours:** Daily 06:00–22:00
-- **Price:** ~₽4,000–6,000
+- **Price:** ~₩4,000–6,000
 - **Official source:** [yongin.go.kr](http://www.yongin.go.kr)
 
 ### 50) 🎾 **Yongin Tennis Courts & Badminton — 🔁 daily**
@@ -483,27 +483,27 @@
 ### 69) 🍲 **Yongin Famous Soybean Stew (순두부찌개) — 🔁 daily**
 - **What:** Regional sources of Gyeonggi-do style *soondubu*
 - **Hours:** Daily 09:00–21:00
-- **Price:** ~₽8,000 per bowl
+- **Price:** ~₩8,000 per bowl
 
 ### 70) 🍡 **Gangnamw Ancient Café Alley — 🔁 daily**
 - **What:** Modern café street in Yongin with indie roasters
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽5,000–7,000 per cup
+- **Price:** ~₩5,000–7,000 per cup
 
 ### 71) 🍞 **Yongin Bread Museum (빵 박물관) — 🔁 Tue–Sun**
 - **What:** Bakery museum west of Folk Village
 - **Hours:** Tue–Sun 11:00–18:00
-- **Price:** ~₽3,000
+- **Price:** ~₩3,000
 
 ### 72) 🍵 **Yongin Premium Korean Tea Cafe (택불 카페) — 🔁 daily**
 - **What:** Traditional tea house near Folk Village
 - **Hours:** Daily 11:00–21:00
-- **Price:** ₽5,000–10,000
+- **Price:** ₩5,000–10,000
 
 ### 73) 🥢 **Yongin Mandoo (Dumpling) District — 🔁 daily**
 - **What:** 20+ places serving classic pork & kimchi mandu
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽10,000 per serving
+- **Price:** ~₩10,000 per serving
 
 ### 74) 🥬 **Yongin Kimchi Factory Tour & Tasting — 👀 WATCH weekends**
 - **What:** Local kimjang-style kimchi factory in Bora-dong
@@ -513,7 +513,7 @@
 ### 75) 🍱 **Yongin Bibimbap Multi-Restaurant Block — 🔁 daily**
 - **What:** Bibimbap specialty zone
 - **Hours:** Daily
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 
 ### 76) 🍺 **Yongin Local Brewery Tap Room — 👀 WATCH seasonal**
 - **What:** Modern craft brewery & restaurant
@@ -582,7 +582,7 @@
 ### 89) 💆 **Yongin Korean-style Thai Massage Alley — 🔁 daily**
 - **What:** Massage + sauna combo clinic
 - **Hours:** Daily 10:00–22:00
-- **Price:** ₽30,000–90,000
+- **Price:** ₩30,000–90,000
 
 ### 90) 🧘 **Yongin Buddhist Monastery (용인 법집사) — 🔁 daily (FREE)**
 - **What:** Quiet Zen monastery just south of downtown
@@ -592,17 +592,17 @@
 ### 91) ♨️ **Yongin Premium Sauna Village — 🔁 daily**
 - **What:** Multiple premium jjimjilbang within a small neighborhood
 - **Hours:** Daily
-- **Price:** ~₽15,000–25,000
+- **Price:** ~₩15,000–25,000
 
 ### 92) 🥋 **Yongin Jeet Kune Do Class (wtf) — 👀 WATCH (weekends)**
 - **What:** Modern martial arts classes and demonstrations
 - **Hours:** Weekends
-- **Price:** ~₽30,000
+- **Price:** ~₩30,000
 
 ### 93) 🎭 **Yongin Little Theatre (소극장) — 👀 WATCH weekends**
 - **What:** Indie theater space in Yongin downtown
 - **Hours:** Weekends 19:00
-- **Price:** ~₽15,000–25,000
+- **Price:** ~₩15,000–25,000
 
 ### 94) 🎨 **Yongin Hwangnam Public Library Art Hall — 👀 WATCH**
 - **What:** Library exhibition hall in the Yongin city library
@@ -612,12 +612,12 @@
 ### 95) 🍺 **Yongin Craft Beer Pub Brewery (Suin-Bundang) — 🔁 nightly**
 - **What:** Modern craft brewery
 - **Hours:** Nightly
-- **Price:** ~₽10,000 per pint
+- **Price:** ~₩10,000 per pint
 
 ### 96) 🎬 **Yongin Indie Film Cinema — 👀 WATCH**
 - **What:** Indie cinema showing foreign films in original language
 - **Hours:** Variable
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 
 ### 97) 🎤 **Yongin Open Mic Nights — 👀 WATCH**
 - **What:** Indie musician event
@@ -627,7 +627,7 @@
 ### 98) 🛁 **Yongin Royal Bath House (레스토랑 명) — 🔁 daily**
 - **What:** Traditional *mogyoktang* Korean bath
 - **Hours:** Daily 06:00–22:00
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 
 ---
 
@@ -640,7 +640,7 @@
 ### 100) 🌾 **Icheon Rice Cake (떡) Village — 👀 WATCH (40 min drive)**
 - **What:** Famous for *songpyeon* (filled with sesame/pine nuts)
 - **Hours:** Daily 09:00–18:00
-- **Price:** Sampler box ₽10,000–25,000
+- **Price:** Sampler box ₩10,000–25,000
 
 ### 101) 🏯 **Yongin's Mt. Cheonggye Hiking (1,235m) — 🔁 always on (FREE)**
 - **What:** Mt. Cheonggye mountain ridge and pine forest
@@ -649,7 +649,7 @@
 ### 102) 🛶 **Yongin & Icheon Pottery Village — 👀 WATCH (50 min drive)**
 - **What:** UNESCO-recognized pottery production region
 - **Hours:** Daily 09:00–17:00
-- **Price:** Tour ₽10,000–30,000
+- **Price:** Tour ₩10,000–30,000
 
 ### 103) 🏞️ **Yongin's Wangsong Lake National Park — 🔁 daily (FREE)**
 - **What:** Lake park south of Yongin
@@ -685,17 +685,17 @@
 ### 109) 🎠 **Korean Folk Village Pony Stables (weekends) — 🔁 Sat/Sun**
 - **What:** Pony rides for kids
 - **Hours:** Sat–Sun 11:00–16:00
-- **Price:** ~₽5,000
+- **Price:** ~₩5,000
 
 ### 110) 🎮 **Yongin AI Robotics Class (Samsung Kids) — 👀 WATCH (weekends)**
 - **What:** Annual robotics class for kids at Samsung Tech Park
 - **Hours:** Saturdays 10:00–13:00
-- **Price:** ₽30,000
+- **Price:** ₩30,000
 
 ### 111) 🎬 **Yongin Korean Traditional Animation Workshop (Family) — 👀 WATCH**
 - **What:** Family-style make-your-own animation
 - **Hours:** Saturdays 14:00–16:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ### 112) 📚 **Yongin Storytime Library — 🔁 daily (FREE)**
 - **What:** Storytime for kids in central Yongin library
@@ -705,7 +705,7 @@
 ### 113) 🎭 **Korean Folk Village Costume Dress-up Photo Studio — 🔁 Tue–Sun**
 - **What:** Rent hanbok for family photo inside the village
 - **Hours:** Tue–Sun 10:00–17:30
-- **Price:** ~₽15,000–30,000
+- **Price:** ~₩15,000–30,000
 
 ### 114) 🎃 **Pond Halloween Trick-or-Treat — 👀 WATCH (Oct 31 walk-up)**
 - **What:** Around Folk Village on Oct 31
@@ -738,7 +738,7 @@
 ### 119) 🎭 **Caribbean Bay Batman Night (Late Oct) — 👀 WATCH**
 - **What:** Late-night themed party inside the water park
 - **Hours:** Last Sat of October
-- **Price:** Adult ₽40,000
+- **Price:** Adult ₩40,000
 
 ### 120) 🍰 **Yongin Costco & Pop-up Trunk Show Events — 👀 WATCH (weekends)**
 - **What:** Halloween pop-up shops and bakeries
@@ -755,12 +755,12 @@
 ### 123) 💀 **Spooky UNESCO Heritage Walk (Hwaseong, via Yongin bus) — 👀 WATCH (Nov 1)**
 - **What:** Costumed historical interpretation tour from Suwon's Hwaseong
 - **Hours:** Nov 1 11:00
-- **Price:** ₽25,000
+- **Price:** ₩25,000
 
 ### 124) 🦇 **Bat Cave Photography Class — 👀 WATCH**
 - **What:** Beginner photography class amongst autumn leaves
 - **Hours:** Sat 14:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ---
 
@@ -769,7 +769,7 @@
 ### 125) 🎤 **K-pop Open Class (Yongin) — 👀 WATCH weekends**
 - **What:** K-pop dance classes and workshops
 - **Hours:** Sat–Sun 14:00–17:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ### 126) 🎷 **Folk Village Sunset Music Picnic — 👀 WATCH (Sat summer)**
 - **What:** Outdoor amphitheater music at the village
@@ -778,7 +778,7 @@
 ### 127) 🎶 **Yongin Symphony Orchestra Concert — 👀 WATCH (Nov)**
 - **What:** Local YSL performance at Giheung arts hall
 - **Hours:** Saturday 19:00
-- **Price:** ₽10,000–20,000
+- **Price:** ₩10,000–20,000
 
 ### 128) 🎻 **Yongin Amateur Mariachi Band — 👀 WATCH weekends**
 - **What:** Public mariachi entertainment in bars
@@ -787,12 +787,12 @@
 ### 129) 💃 **Yongin Korean Traditional Dance Workshop — 👀 WATCH**
 - **What:** Hanok dance and folk dance class
 - **Hours:** Saturdays 14:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ### 130) 🎬 **Everland Cinema Friday Night (with car/event) — 👀 WATCH (Fri Nov)**
 - **What:** Outdoor screening of Korean films
 - **Hours:** Fri 19:00
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ---
 

@@ -537,7 +537,7 @@
 ### 74) 🏹 **Suwon Shooting Range (Suwon Civic Archery) — 👀 WATCH**
 - **What:** Public archery facility with private lessons in traditional Korean style (gukjung)
 - **Hours:** Tue–Sun 09:00–17:00
-- **Price:** ~₽3,000–5,000
+- **Price:** ~₩3,000–5,000
 
 ### 75) 🧗 **Suwon World Cup Stadium Climbing Wall — 🔁 Tue–Sun**
 - **What:** Indoor/outdoor climbing adjacent to the stadium
@@ -762,7 +762,7 @@
 ### 112) 🍜 **Suwon's Gotjawal Inner-Asia Restaurant Mile & Korean-International Festival (Moal Godeok Night) — 👀 WATCH**
 - **What:** Autumn ethnic-restaurant cluster (Bangladeshi, Pakistani, Vietnamese) hosting multicultural nights with music
 - **Hours:** Variable / weekend evenings
-- **Price:** Free entry; dishes ~₽10,000
+- **Price:** Free entry; dishes ~₩10,000
 
 ### 113) 🎭 **Suwon International Theatre Co-op Festival (SITCoF) — 👀 WATCH (mid-Nov)**
 - **What:** Annual theatre collaboration between Korean and visiting international companies

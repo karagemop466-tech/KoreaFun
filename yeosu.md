@@ -151,7 +151,7 @@
 ### 21) 🍸 **Yeosu Marina Yacht Club** — 🔁 nightly
 - **What:** Modern waterfront entertainment district near Yi Sun-sin Plaza
 - **Hours:** Daily
-- **Price:** ₹₩10,000–25,000
+- **Price:** ₩₩10,000–25,000
 
 ### 22) 🚢 Yeosu Cruise Night Sailing — 👀 WATCH
 - **What:** Sunset and night cruises of the bay
@@ -166,7 +166,7 @@
 ### 23) 🦑 **Yeosu *Gukbap* & Raw Fish Alley** — 🔁 daily
 - **What:** Specialty soup & sashimi restaurant alleys near Jinnamgwan Hall
 - **Hours:** Daily 10:00–22:00
-- **Price:** ₹₩12,000–50,000
+- **Price:** ₩₩12,000–50,000
 
 ### 24) 🍡 Yeosu's *Hanwoo Lager* Beef Stew — 🔁 daily
 - **What:** Slow-cooked beef short-rib stew
@@ -175,14 +175,14 @@
 ### 25) 🐟 Yeosu Sushi-Boat Restaurants — 🔁 daily
 - **What:** Conveyor-belt sushi boat restaurants of Yeosu
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₹₩15,000–30,000
+- **Price:** ₩₩15,000–30,000
 
 ### 26) 🥟 Yeosu Seafood Steamed Dumpling Restaurant — 🔁 daily
 - **Hours:** Daily 11:00–22:00
 
 ### 27) 🍺 Yeo Martinique Brewery of Beer — 🔁 nightly
 - **Hours:** Nightly
-- **Price:** ₹₩10,000–25,000
+- **Price:** ₩₩10,000–25,000
 
 ---
 
@@ -222,7 +222,7 @@
 ### 34) 🏯 **Suncheon Naganeupseong Folk Village** — 🔁 Tue–Sun
 - **What:** 1000-year-old fortress town — historic rice farming village
 - **Hours:** Tue–Sun 09:00–18:00
-- **Price:** Adult **₽3,000**
+- **Price:** Adult **₩3,000**
 - **Official source:** [sclib.go.kr](http://www.sclib.go.kr)
 
 ### 35) 🌊 **Sacheon (사천)** — 👀 WATCH
@@ -238,7 +238,7 @@
 ### 37) 🌊 **Yeosu Maritime Cable Car Sunset — ✅ CONFIRMED — daily**
 - **What:** Cross-bay cable car — Crystal Cabin with glass floor
 - **Hours:** Daily 09:00–21:30
-- **Price:** Crystal RT ₽26,000
+- **Price:** Crystal RT ₩26,000
 - **Official source:** [ycablecar.com](http://www.ycablecar.com)
 
 ### 38) 🏖️ **Dolsan Park (달산공원) — ✅ CONFIRMED — daily**
@@ -257,12 +257,12 @@
 ### 41) 🚤 **Odongdo Camellia Festival (early Nov start) — 👀 WATCH**
 - **What:** Camellia flowers of Odongdo Island
 - **Hours:** Daily dawn–dusk
-- **Price:** **FREE** (ferry ~₽2,500)
+- **Price:** **FREE** (ferry ~₩2,500)
 
 ### 42) 🏝️ **Geomundo Island Day Trip — 👀 WATCH (ferry)**
 - **What:** Volcanic forest island
 - **Hours:** Daily ferries (verify)
-- **Price:** ~₽25,000 RT
+- **Price:** ~₩25,000 RT
 
 ### 43) 🌊 **Manseongni Black Sand Beach (만성리) — ✅ CONFIRMED — daily (FREE)**
 - **Hours:** Daily
@@ -270,7 +270,7 @@
 
 ### 44) 🚢 **Aqua Planet Yeosu (아쿠아플라넷) — ✅ CONFIRMED — daily**
 - **Hours:** Daily 10:00–19:00
-- **Price:** Adult ₽26,500
+- **Price:** Adult ₩26,500
 
 ### 45) 🌅 **Yi Sun-sin Plaza (이순신 광장) — ✅ CONFIRMED — daily (FREE)**
 - **Price:** **FREE**
@@ -283,12 +283,12 @@
 
 ### 47) 🏞️ **Geumsan (금산도) Day Trip — 👀 WATCH**
 - **Hours:** Daily
-- **Price:** ~₽25,000 ferry
+- **Price:** ~₩25,000 ferry
 
 ### 48) 🏖️ **Yeongdo (여도) Coastal Cliff — 👀 WATCH**
 
 ### 49) 🛶 **Yeosu's Wando Wan-do (완도) — 👀 WATCH (long-ferry)**
-- **Price:** ~₽50,000
+- **Price:** ~₩50,000
 
 ### 50) 🛕 **Yeosu Manseokri Magnet Boat Tour — 👀 WATCH**
 
@@ -326,7 +326,7 @@
 
 ### 58) 🍹 **Yeosu Sunset Yacht Bar — 👀 WATCH (variable)**
 - **What:** Sunset cruise bar
-- **Price:** ₽15,000–25,000
+- **Price:** ₩15,000–25,000
 
 ### 59) 🍸 **Yeosu Bay Cocktail Bar Dist. — 🔁 nightly**
 - **Hours:** Nightly 18:00–24:00
@@ -344,7 +344,7 @@
 ### 63) 🦞 **Yeosu Jeonnam Fresh Oysters — 👀 WATCH (Nov–Mar)**
 - **What:** Oysters from Yeosu's southern bay
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽25,000+
+- **Price:** ₩25,000+
 
 ### 64) 🐟 **Yeosu Halibut Bossam Wrap — 🔁 daily**
 
@@ -369,7 +369,7 @@
 ### 73) 🥬 **Yeosu Hanjeongsik Traditional Korean Table — 🔁 daily**
 - **What:** Korean multi-course dining
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽25,000–40,000
+- **Price:** ₩25,000–40,000
 
 ---
 
@@ -432,7 +432,7 @@
 ### 88) 🌊 **Goheung Jang-do Island Day Trip — 👀 WATCH**
 - **What:** Southern coast island
 - **Hours:** Variable
-- **Price:** ~₽25,000
+- **Price:** ~₩25,000
 
 ### 89) 🏯 **Hadong Ssanggyesa Temple (하동 쌍계사) — 🔁 daily (FREE)**
 - **What:** Mountain temple in Hadong
@@ -446,11 +446,11 @@
 ### 91) 🏯 **Boseong Green Tea Plantation — 👀 WATCH (2 hr drive)**
 - **What:** Famous tea fields
 - **Hours:** Daily
-- **Price:** Adult ₽3,000
+- **Price:** Adult ₩3,000
 
 ### 92) 🏯 **Suncheon Naganeupseong Folk Village (UNESCO) — 👀 WATCH**
 - **Hours:** Tue–Sun 09:00–18:00
-- **Price:** Adult ₽4,000
+- **Price:** Adult ₩4,000
 - **Official source:** [sclib.go.kr](http://www.sclib.go.kr)
 
 ### 93) 🌊 **Suncheon Bay Wetland Reserve (UNESCO) — 👀 WATCH**
@@ -477,11 +477,11 @@
 ### 100) ♨️ **Yeosu Modern Spa — 🔁 daily**
 - **What:** Modern spa resort
 - **Hours:** Daily 09:00–21:00
-- **Price:** ₽10,000–15,000
+- **Price:** ₩10,000–15,000
 
 ### 101) 💆 **Yeosu Koreana Spa — 🔁 daily**
 - **Hours:** Daily
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ### 102) 🧘 **Yeosu Hanok Meditation — 👀 WATCH**
 
@@ -519,13 +519,13 @@
 
 ### 112) 🛶 **Yeosu Sunset Kayak — 👀 WATCH seasonal**
 - **Hours:** Variable
-- **Price:** ₽25,000+
+- **Price:** ₩25,000+
 
 ### 113) 🌊 **Yeosu Maritime Yacht Tour — 👀 WATCH (variable)**
 
 ### 114) 🚤 **Yeosu Sunset Bay Cruise — 👀 WATCH (Nov)**
 - **Hours:** Variable
-- **Price:** ₽25,000
+- **Price:** ₩25,000
 
 ### 115) 🌅 **Yeosu Sunrise Dolsan Café Tour — 🔁 daily (FREE)**
 - **Hours:** Daily 06:00–10:00
@@ -561,7 +561,7 @@
 ### 125) 🦁 **Yeosu Family Aquarium Visit — ✅ CONFIRMED — daily**
 - **What:** See #44
 - **Hours:** Daily 10:00–19:00
-- **Price:** Adult ₽26,500
+- **Price:** Adult ₩26,500
 
 ### 126) 🎠 **Yeosu Coastal Family Bike Trip — 👀 WATCH**
 - **Hours:** Variable

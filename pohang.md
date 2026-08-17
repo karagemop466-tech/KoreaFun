@@ -181,7 +181,7 @@
 ### 25) 🍕 Pohang Growth Market (Iconic BURGER restaurant) — 🔁 daily
 - **What:** First burger in Korea with vintage history — set in a former post office
 - **Hours:** Daily 11:00–21:00
-- **Price:** ₹₩10,000–18,000
+- **Price:** ₩₩10,000–18,000
 
 ### 26) 🥢 Norae Cutlass / Bunal — 🔁 daily
 - **What:** Small coastal restaurant serving shellfish and steamer
@@ -217,7 +217,7 @@
 ### 31) 🛶 Yeongdeok (영덕) — 👀 seasonal
 - **What:** Coastal seafood city 1 hr north by bus; famous for snow crab
 - **Hours:** Daily
-- **Price:** ₹₩15,000–40,000
+- **Price:** ₩₩15,000–40,000
 
 ### 32) 🌿 Ulleungdo Island — 👀 WATCH (ferry)
 - **What:** Korea's most romantic East Sea island — 3-hour ferry; one-night recommended
@@ -276,12 +276,12 @@
 ### 44) 🏯 **Bangjja Yugi (Pohang Yellow Brassware) Gallery — 👀 WATCH**
 - **What:** Bangja (brassware craftsmanship) museum in Pohang, the original hometown
 - **Hours:** Tue–Sun
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 - **Official source:** [yamuseum.net](http://www.yamuseum.net)
 
 ### 45) 🏛️ **Pohang Steel Steel Art Museum — ✅ CONFIRMED — Tue–Sun**
 - **Hours:** Tue–Sun 10:00–18:00
-- **Price:** Adult ₽3,000
+- **Price:** Adult ₩3,000
 
 ### 46) 🏯 **Guryongpo Japanese House Street (구룡포 일본집) — 🔁 Tue–Sun**
 - **What:** Historic Japanese colonial-era houses & warehouses
@@ -291,7 +291,7 @@
 ### 47) 🏛️ **Pohang Yangdong Folk Village (Pohang side of Yangdong) — 👀 WATCH**
 - **What:** Silla aristocratic village 15 min drive
 - **Hours:** Daily 09:00–18:00
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 
 ### 48) 🏯 **Goryeong Waesong Park (고령 왜성) Day Trip — 👀 WATCH (FREE)**
 - **What:** Ancient Japanese fortress park
@@ -344,7 +344,7 @@
 ### 60) 🚣 **Pohang Yacht Club Lessons — 👀 WATCH**
 - **What:** Yacht & boating lessons
 - **Hours:** Weekends
-- **Price:** ₽30,000
+- **Price:** ₩30,000
 
 ### 61) 🏃 **Pohang Steelworks Marathon (Apr) — Note spring only**
 
@@ -353,18 +353,18 @@
 ### 63) 🏊 **Pohang Aquatic Center (연못) — 👀 WATCH**
 - **What:** Public swimming pool
 - **Hours:** Daily
-- **Price:** ₽4,000
+- **Price:** ₩4,000
 
 ### 64) 🎾 **Pohang Tennis Court — 👀 WATCH**
 - **Hours:** Daily 07:00–22:00
-- **Price:** ₽5,000–10,000
+- **Price:** ₩5,000–10,000
 
 ### 65) ⛸️ **Pohang Indoor Ice Rink — 👀 WATCH (Nov–Feb)**
 
 ### 66) 🚴 **Pohang Cycling Tour (Hwanho) — 👀 WATCH**
 - **What:** Coast-route cycling tour
 - **Hours:** Weekends
-- **Price:** ~₽30,000
+- **Price:** ~₩30,000
 
 ---
 
@@ -373,13 +373,13 @@
 ### 67) 🍱 **Pohang Sweet & Sour Octopus — 👀 WATCH**
 - **What:** Octopus dish
 - **Hours:** Daily
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ### 68) 🍣 **Pohang Sweet Mango Farm Restaurant — 👀 WATCH**
 
 ### 69) 🥢 **Pohang Soft Tofu (순두부찌개) Street — 👀 WATCH**
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽8,000
+- **Price:** ₩8,000
 
 ### 70) 🍜 **Pohang Ground Squid Noodles — 👀 WATCH**
 - **Hours:** Daily
@@ -407,11 +407,11 @@
 
 ### 77) **Bogyeongsa Temple Tours with English Guides — 👀 WATCH (Sat/Sun)**
 - **Hours:** Weekends
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ### 78) 🏯 **Pohang Buddhist Retreat (Jogye Order) — 👀 WATCH weekends**
 - **What:** Weekend temple experience
-- **Price:** ₽30,000
+- **Price:** ₩30,000
 
 ### 79) 🏯 **Pohang Prehistoric Sites & Dolmens — 👀 WATCH (FREE)**
 - **What:** Multiple dolmen sites
@@ -426,12 +426,12 @@
 ### 81) 🏯 **Yeongdeok Snow Crab (영덕 대게) — 👀 WATCH (Nov-Dec)**
 - **What:** Coastal city 1 hr north — famous for snow crab
 - **Hours:** Daily 09:00–22:00
-- **Price:** ₽30,000+
+- **Price:** ₩30,000+
 
 ### 82) 🏯 **Andong Hahoe Folk Village — 👀 WATCH**
 - **What:** UNESCO World Heritage Folk Village 1 hr drive
 - **Hours:** Daily
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 - **Official source:** [andong.go.kr](http://www.andong.go.kr)
 
 ### 83) 🌊 **Gimhae / Changwon / Jinhae — see `changwon-jinhae.md`**
@@ -559,18 +559,18 @@
 ### 121) 🌊 **Pohang Hanok Village Foot Bath — 👀 WATCH**
 
 ### 122) 💆 **Pohang Spa Village — 🔁 daily**
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ### 123) ♨️ **Pohang Traditional Jjimjilbang — 🔁 daily**
 
 ### 124) 🧘 **Pohang Buddhist Mountain Meditation — 👀 WATCH (weekend)**
-- **Price:** ~₽25,000
+- **Price:** ~₩25,000
 
 ### 125) 🛀 **Pohang Spa & Sauna District — 🔁 daily**
 - **Hours:** Daily
 
 ### 126) 💆 **Pohang Korean Massage Chain — 🔁 daily**
-- **Price:** ~₽40,000–80,000
+- **Price:** ~₩40,000–80,000
 
 ### 127) 🌿 **Pohang Oriental Medicine Spa — 👀 WATCH**
 

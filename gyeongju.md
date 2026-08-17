@@ -327,7 +327,7 @@
 ### 50) 🏛️ **Gyeongju ~ Silla Dinosaur Fossil Park — 👀 WATCH**
 - **What:** Paleontological site of the Silla period (older, varied)
 - **Hours:** Tue–Sun
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 
 ### 51) 🏯 **Bulguksa Dolmens (UNESCO) — 👀 WATCH (FREE)**
 - **What:** Prehistoric burial stones (**UNESCO**-listed Silla Dolmens of Gyeongju)
@@ -348,7 +348,7 @@
 ### 54) 🍁 **Tohamsan Cable Car Cheomseongdan — 🔁 daily**
 - **What:** Cable car to Tohamsan mountain
 - **Hours:** Daily 09:00–17:00
-- **Price:** ₽12,000
+- **Price:** ₩12,000
 
 ### 55) 🍂 **Mt. Namsan Trail (5 entrances) — 🔁 daily (FREE)**
 - **What:** Mountain trail around Namsan mountain
@@ -383,7 +383,7 @@
 
 ### 61) 🏯 **Gyeongju Craft Wine Bar Tour — 👀 WATCH (Sat evenings)**
 - **What:** Wine tasting room in Korean traditional village
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ### 62) 🏛️ **Gyeongju Volcano Museum — 👀 WATCH**
 - **What:** Volcanic science museum
@@ -404,7 +404,7 @@
 
 ### 67) 🍵 **Gyeongju Korean Tea House — 👀 WATCH (Sat–Sun)**
 - **What:** Specialty tea experience
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ---
 
@@ -440,12 +440,12 @@
 ### 74) 🍱 **Gyeongju Beef Dolsoet-tang (갈비탕) Alley — 🔁 daily**
 - **What:** Korean beef stew
 - **Hours:** Daily
-- **Price:** ~₽15,000
+- **Price:** ~₩15,000
 
 ### 75) 🔥 **Gyeongju Hot Stone Pot Bibimbap — 🔁 daily**
 - **What:** Heated stone-pot bibimbap
 - **Hours:** Daily 11:00–21:00
-- **Price:** ₽8,000–15,000
+- **Price:** ₩8,000–15,000
 
 ### 76) 🍡 **Gyeongju Sweet-Potato Cake (Bat-cake) Candy — 🔁 daily**
 - **What:** Sweet potato pastries
@@ -456,7 +456,7 @@
 ### 78) 🍲 **Gyeongju Haejangguk Restaurant District — 🔁 daily**
 - **What:** Korean hangover soup
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ### 79) 🍰 **Gyeongju Sweet Bread Pilgrimage — 👀 WATCH (weekends)**
 - **What:** Bakery route
@@ -480,7 +480,7 @@
 
 ### 84) 🏮 **Gyeongju Hanok Showcase — 👀 WATCH (Sat evening)**
 - **What:** Evening hanok music & dance shows
-- **Price:** ₽15,000
+- **Price:** ₩15,000
 
 ### 85) 🎵 **Gyeongju Norebang Mahal — 👀 WATCH weekends**
 - **Hours:** Weekends
@@ -517,7 +517,7 @@
 ### 94) 🏯 **Yeongju Buseoksa Temple — 👀 WATCH (1.5 hr)**
 - **What:** UNESCO temple 1.5 hr drive
 - **Hours:** Daily 06:00–18:00
-- **Price:** Adult ₽3,000
+- **Price:** Adult ₩3,000
 
 ### 95) 🏯 **Yeongju Choganu's House & Silla Tombs — 👀 WATCH**
 
@@ -570,7 +570,7 @@
 
 ### 110) 🚣 **Gyeongju Bicycle Tour (50 km) — 👀 WATCH weekends**
 - **What:** Group bicycle tour of cities
-- **Price:** ~₽30,000
+- **Price:** ~₩30,000
 
 ### 111) 🛶 **Bomun Lake Sailing Weekend — 👀 WATCH**
 - **Hours:** Sat–Sun
@@ -598,7 +598,7 @@
 - **What:** Paleontological park
 
 ### 118) 🐠 **Gyeongju Aquarium & Sea World — 👀 WATCH**
-- **Price:** ₽10,000
+- **Price:** ₩10,000
 
 ### 119) 🎠 **Gyeongju Folk Village Pony Rides — 🔁 Sat–Sun**
 - **Hours:** Sat–Sun
@@ -632,12 +632,12 @@
 ## 🎾 Wellness (extended)
 
 ### 129) 💆 **Gyeongju Oriental Medicine (한의약) Spa — 👀 WATCH**
-- **Price:** ₽50,000+
+- **Price:** ₩50,000+
 
 ### 130) ♨️ **Gyeongju Hantangang Hot Springs — 👀 WATCH**
 - **What:** Hot spring resort
 - **Hours:** Daily
-- **Price:** ₽12,000
+- **Price:** ₩12,000
 
 ### 131) 🧘 **Gyeongju Korean Meditation Workshop — 👀 WATCH weekends**
 - **Hours:** Weekends 14:00

@@ -126,73 +126,73 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 17) 🥟 **Myeongdong Yeopin Sujebi (Mandu House) — 🔁 daily**
 - **What:** Hand-torn dough soup and mandu (dumplings) spot — Korean-Northern style sujebi
 - **Hours:** Daily 10:00–21:00
-- **Price:** ~₽9,000–14,000
+- **Price:** ~₩9,000–14,000
 - **Official source:** [visitkorea.or.kr](https://english.visitkorea.or.kr)
 
 ### 18) 🍜 **Myeongdong Kalgusku (칼국수) Hand-Cut Noodle Alley — 🔁 daily**
 - **What:** Cluster of hand-cut noodle specialty shops south of main street
 - **Hours:** Daily 10:00–21:00
-- **Price:** ~₽7,000–10,000
+- **Price:** ~₩7,000–10,000
 
 ### 19) 🌭 **Myeongdong Gyeran-mari (Egg Roll) Wrap — 🔁 daily**
 - **What:** Korean-style egg roll & spam wrap on Korean-style rice bread
 - **Hours:** Daily 09:00–22:00
-- **Price:** ~₽2,500
+- **Price:** ~₩2,500
 
 ### 20) 🍢 **Myeongdong Skewer / Tteokbokki Alley (명동 꼬치 골목) — 🔁 daily**
 - **What:** Tight alley of pink-tented tteokbokki / *kkochi* (skewered fish cake, sausage, hotteok, dakkochi) stalls running through the heart of Myeongdong
 - **Hours:** Daily 11:00–22:30
-- **Price:** ₽2,000–6,000 per dish
+- **Price:** ₩2,000–6,000 per dish
 
 ### 21) 🥟 **Myeongdong Hotteok (Hotteok Sweet Street) — 🔁 daily**
 - **What:** Korean hot honey & cinnamon pancakes filled with sugar, seeds, and nut mix
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽3,000
+- **Price:** ~₩3,000
 
 ### 22) 🐙 **Myeongdong Octopus Skewer & Mussel Alley — 🔁 daily**
 - **What:** Grilled whole octopus, mussel, clam together
 - **Hours:** Daily 12:00–22:00
-- **Price:** ~₽5,000
+- **Price:** ~₩5,000
 
 ### 23) 🍦 **Myeongdong Soft-serve / Ice Cream Cone Row — 🔁 daily**
 - **What:** Pitched cones of soft serve, churros, strawberry bars
 - **Hours:** Daily 10:00–22:30
-- **Price:** ~₽3,000
+- **Price:** ~₩3,000
 
 ### 24) 🌯 **Myeongdong Fresh Fruit Juice Bar — 🔁 daily**
 - **What:** Freshly juiced Korean citrus, strawberry, mandarin, hallabong
 - **Hours:** Daily 09:00–22:00
-- **Price:** ~₽5,000
+- **Price:** ~₩5,000
 
 ### 25) 🍩 **Myeongdong Hotteok & Soboro Bread Specialties — 🔁 daily**
 - **What:** Braggable mini doughnuts, fish-shaped red bean bread
 - **Hours:** Daily 11:00–21:00
-- **Price:** ~₽1,500–3,500
+- **Price:** ~₩1,500–3,500
 
 ### 26) 🍢 **Korean Budaejjiggae (Korean-Sausage Stew) Restaurants — 🔁 daily**
 - **What:** Korean Army Stew with kimchi, sliced hot dogs, ramen, and cheese
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽15,000–25,000
+- **Price:** ₩15,000–25,000
 
 ### 27) 🍞 **Myeongdong Traditional Bread Weh-bakery (명동 명가 서울) — 🔁 daily**
 - **What:** Old-school Korean bakery celebrated for *soboro*, walnut bread, red bean bread
 - **Hours:** Daily 09:00–21:00
-- **Price:** ~₽2,000–5,000
+- **Price:** ~₩2,000–5,000
 
 ### 28) 🍤 **Myeong-dong Mandu (Dumpling) Post Pub Street — 🔁 daily**
 - **What:** Steamed and fried mandu (dumpling) pubs popular with office workers after work
 - **Hours:** Daily 11:00–23:00
-- **Price:** ~₽10,000–18,000
+- **Price:** ~₩10,000–18,000
 
 ### 29) 🌭 **Myeongdong Hot Dog Tornado (회오리 감자) — 🔁 daily**
 - **What:** Spiral-cut whole potato hot dog, deep-fried with sauce
 - **Hours:** Daily 10:00–22:00
-- **Price:** ~₽3,000
+- **Price:** ~₩3,000
 
 ### 30) 🥟 **Myeongdong Sundubu (Soft Tofu Stew) Belt — 🔁 daily**
 - **What:** Cheaper sit-down alternative to street stalls — perfect hot soup on a November evening
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽7,000–10,000
+- **Price:** ~₩7,000–10,000
 
 ### 31) 🥬 **Myeong-dong 'Beef Bibimbap Express' — 🔁 daily**
 - **What:** Beef bibimbap in stone pot
@@ -230,7 +230,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 
 ### 37) 🛕 **Myeongdong Witness of the Faith (Korean Catholic Living Heritage Museum) — 👀 WATCH**
 - **Hours:** Tue–Sun 10:00–17:00
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 - **Official source:** [mcs.or.kr](http://www.mcs.or.kr)
 
 ### 38) ⛪ **Myeongdong Foreign Tourists' Korean-Catholic Pilgrimage Day Trip — 👀 WATCH**
@@ -254,14 +254,14 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 42) 🎭 **Myeongdong Theater (명동예술극장) — 🔁 daily**
 - **What:** Main 1,030-seat theater specializing in non-verbal / mime / physical comedy / jazz dance performances ideal for international tourists. Famous shows include *NANTA* (Korean non-verbal drumming/comedy), *BIBAP* (non-verbal chef dance), *JUMP* (taekwondo-martial arts non-verbal comedy), *THE PAINTERS* (live painting).
 - **Hours:** Shows daily at 17:00 / 19:00 / 20:30 (multi-stage)
-- **Price:** ₽40,000–80,000 per ticket
+- **Price:** ₩40,000–80,000 per ticket
 - **Official sources:** [myeongdongtheater.com](http://www.myeongdongtheater.com) · [nanta.co.kr](https://www.nanta.co.kr)
 - **Beginner notes:** **NANTA** is the city's most universally loved tourist show — book tickets via Interpark Global or Ticketlink.
 
 ### 43) 🎭 **Jeongdong Theater (정동극장) — 🔁 Tue–Sun**
 - **What:** Korea's historic theater (plays Korean classics) ~10 min walk from Myeongdong
 - **Hours:** Shows Tue–Sun **15:00 & 19:30**
-- **Price:** Adult ₽30,000–50,000
+- **Price:** Adult ₩30,000–50,000
 - **Official source:** [jeongdong.or.kr](https://www.jeongdong.or.kr)
 
 ### 44) 🎭 **Myeongdong Musical 'M' Theater — 👀 WATCH**
@@ -273,7 +273,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 45) 🎬 **CGV Myeongdong Multiplex — 🔁 daily**
 - **What:** Multiplex theater showing Hollywood + Korean blockbusters (English tickets easy here)
 - **Hours:** Daily 09:00–24:00
-- **Price:** Adult ₽15,000
+- **Price:** Adult ₩15,000
 
 ### 46) 🎭 **Myeongdong 'MIRAE' Theater — 👀 WATCH**
 - **What:** Variety show & musical playhouse on side street
@@ -295,18 +295,18 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 49) 🏨 **Westin Josun Seoul — 🔁 daily**
 - **What:** Korea's iconic 5-star grand hotel (since **1914**) — the city's historic grand hotel core property in Myeongdong (formerly Hotel Chosun). Has hosted US presidents and the U.S. ambassador
 - **Hours:** Daily
-- **Price:** ₽450,000+ (wedding banquets more)
+- **Price:** ₩450,000+ (wedding banquets more)
 - **Official source:** [westinjosun.co.kr](http://www.westinjosun.co.kr)
 
 ### 50) 🏨 **Lotte City Hotel Myeongdong — 🔁 daily**
 - **What:** 4-star business hotel atop the main dining-and-entertainment district
 - **Hours:** Daily
-- **Price:** ₽150,000–250,000
+- **Price:** ₩150,000–250,000
 
 ### 51) 🏨 **Hotel 28 (Boutique) — 🔁 daily**
 - **What:** East Asian boutique film-inspired interior hotel
 - **Hours:** Daily
-- **Price:** ₽120,000–180,000
+- **Price:** ₩120,000–180,000
 
 ### 52) 🏨 **Loisir Hotel (formerly Best Western) — 🔁 daily**
 
@@ -364,7 +364,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 66) 🎨 **Myeong-dong Lithograph Museum (명동 석판전시관) — 👀 WATCH**
 - **What:** Small museum about old lithographic printing
 - **Hours:** Tue–Sun
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 
 ### 67) 🏛️ **Myeong-dong Modern Korean Architecture Street Tour — 👀 WATCH (weekends)**
 - **What:** Architecture-focused walking tour
@@ -374,7 +374,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 
 ### 68) 🏛️ **Myeongdong 1980s K-pop DIY Photo Booth — 👀 WATCH (Tue–Sun)**
 - **Hours:** Tue–Sun 10:00–18:00
-- **Price:** ₽2,000–3,000
+- **Price:** ₩2,000–3,000
 
 ### 69) 📚 **Myeongdong Korean Reading Room — 👀 WATCH**
 - **Hours:** Tue–Sun 10:00–18:00
@@ -391,7 +391,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 71) ☕ **Myeongdong Kisso Kissaden (韓國乳 café) — 👀 WATCH**
 - **What:** Korea's oldest kissaten Japanese-style cafe (since 1948)
 - **Hours:** Daily 10:00–22:00
-- **Price:** ~₽5,000
+- **Price:** ~₩5,000
 - **Official source:** [english.visitseoul.net](https://english.visitseoul.net)
 
 ### 72) ☕ **Myeongdong Korean Croffle Café Block — 🔁 daily**
@@ -422,11 +422,11 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 79) 🥩 **Myeongdong Korean BBQ Premium District — 🔁 daily**
 - **What:** Long-running Korean BBQ block west of main street
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽20,000–45,000
+- **Price:** ₩20,000–45,000
 
 ### 80) 🍱 **Myeongdong Hanwoo Beef Specialty Restaurants — 🔁 daily**
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽30,000–60,000
+- **Price:** ₩30,000–60,000
 
 ### 81) 🍜 **Myeongdong Korean Restaurant Quality District — 🔁 daily**
 - **What:** Cluster of multi-genre Korean restaurants
@@ -512,21 +512,21 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 100) 🛁 **Myeong-dong Sauna Viking — 🔁 daily**
 - **What:** Korean sauna complex with hot and cold bath + jjimjilbang
 - **Hours:** Daily **09:00–22:00**
-- **Price:** Adult ~₽20,000
+- **Price:** Adult ~₩20,000
 
 ### 101) 🧘 **Myeongdong Premium Foot-Bath Massage — 🔁 daily**
 - **Hours:** Daily
-- **Price:** ~₽30,000–60,000
+- **Price:** ~₩30,000–60,000
 
 ### 102) 💆 **Myeong-dong Aroma Therapy & Oriental Clinic Massage — 🔁 nightly**
 
 ### 103) 🛁 **Myeong-dong Spa & Hotel Pool Side-Access — 👀 WATCH**
-- **Price:** Hotel drop-in ~₽30,000
+- **Price:** Hotel drop-in ~₩30,000
 
 ### 104) 💆 **Myeong-dong K-Pop Dance Class — 👀 WATCH (Tue–Sun)**
 - **What:** Take a class with a former K-pop choreographer
 - **Hours:** Tue–Sun 15:00
-- **Price:** ~₽35,000
+- **Price:** ~₩35,000
 
 ### 105) 🎤 **Myeong-dong Open Mic Karaoke — 🔁 nightly**
 - **Hours:** Nightly
@@ -548,7 +548,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 108) 📸 **Myeong-dong K-pop Self Photo Studio Complex — 🔁 daily**
 - **What:** K-pop poster booths, passport photo, K-pop photocard printer
 - **Hours:** Daily 10:00–22:00
-- **Price:** ₽3,000–10,000
+- **Price:** ₩3,000–10,000
 
 ### 109) 🛍️ **Myeong-dong Tour Discount Pass Vendor — 🔁 daily**
 - **What:** Official Seoul City Tour Passes, KTX discounts, Korea Sale FESTA vouchers
@@ -557,7 +557,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 110) 🚌 **Myeong-dong Tourist Bus Stop #5 — 🔁 daily**
 - **What:** Seoul Tour Bus official stop, Myeongdong
 - **Hours:** Daily 09:00–17:00
-- **Price:** Adult ₽24,000
+- **Price:** Adult ₩24,000
 - **Official sources:** [seoulcitybus.com](http://www.seoulcitybus.com) · [seoulcitytourbus.co.kr](http://www.seoulcitytourbus.co.kr)
 
 ---
@@ -627,7 +627,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 
 ### 126) 🍸 **Myeongdong Cocktail Lounge District (명동 칵테일 거리) — 🔁 nightly**
 - **Hours:** Nightly 18:00–24:00+
-- **Price:** ₽15,000–35,000 per cocktail
+- **Price:** ₩15,000–35,000 per cocktail
 
 ### 127) 🎤 **NBA Lounge Myeongdong (였다) — 👀 WATCH**
 - **What:** Korean-style cocktail with karaoke
@@ -638,7 +638,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 
 ### 129) 🎤 **Myeongdong Norebang (Korean Karaoke) — 🔁 nightly**
 - **Hours:** Nightly 11:00–05:00
-- **Price:** ₽10,000–20,000/hr
+- **Price:** ₩10,000–20,000/hr
 
 ### 130) ✨ **Myeongdong Rooftop Plaza Lounge — 👀 WATCH**
 - **What:** Rooftop plaza parties (some restaurants here)
@@ -937,32 +937,32 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 186) 🐟 **Myeongdong Hoe-muchim (raw fish salad) Alley — 🔁 daily**
 - **What:** Verified Myeong-dong-side (Euljiro) has popular *hoe-muchim* (raw fish salad with vegetables + sesame dressing) restaurants
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽15,000–25,000
+- **Price:** ₩15,000–25,000
 
 ### 187) 🦐 **Myeongdong Sashimi / Poke Bowl Trends — 👀 WATCH**
 - **What:** Modern poke & sushi spots in Myeongdong (popular 2024-26 Korean trend)
 - **Hours:** Daily
-- **Price:** ₽10,000–20,000
+- **Price:** ₩10,000–20,000
 
 ### 188) 🐟 **Myeongdong Specialty 'Live Octopus' Walk-up — 👀 WATCH**
 - **What:** Sannakji raw octopus spots around Myeongdong
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽18,000–30,000
+- **Price:** ₩18,000–30,000
 
 ### 189) 🦪 **Myeongdong Oyster Korean Bento Lunch — 👀 WATCH**
 - **What:** Modern Korean lunch bento takeout offering local stone-pot oyster bibimbap
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽12,000
+- **Price:** ~₩12,000
 
 ### 190) 🍣 **Myeongdong Conveyor Sushi / Sushi-co — 👀 WATCH**
 - **What:** Some Korean sushi-conveyor-style cafes have operated in Myeongdong
 - **Hours:** Daily
-- **Price:** ₽10,000–18,000
+- **Price:** ₩10,000–18,000
 
 ### 191) 🦐 **Myeongdong Mac & Cheese / Seafood Gratin Cafe — 👀 WATCH**
 - **What:** Korean cafe-twist (snow-gratin) trend spots
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽10,000–18,000
+- **Price:** ₩10,000–18,000
 
 ---
 
@@ -976,7 +976,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 193) 🌸 **Sulwhasoo Flagship Café (Top Floor Tea Lounge) — 👀 WATCH**
 - **What:** Several Sulwhasoo flagships carry a small Sulwhasoo-name signature tea lounge — verify which has the open daytime cafe
 - **Hours:** Variable (some 11:00–22:00)
-- **Price:** ₽12,000–25,000 tea set
+- **Price:** ₩12,000–25,000 tea set
 
 ### 194) ☕ **Hollys Coffee Myeongdong — 🔁 daily**
 - **What:** Hollys Coffee (Korean chain by RSH) — convenient for noodle/trip watching in Myeongdong
@@ -991,12 +991,12 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 196) 🧁 **Myeongdong Croffle Café Row — 🔁 daily**
 - **What:** Korean croissant-waffle (croffle) trend revolutionized recent Seoul cafe scene — many pet shops in Myeongdong
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽4,000–8,000 per sweet
+- **Price:** ₩4,000–8,000 per sweet
 
 ### 197) 🧁 **Myeongdong Cheesecake Café — 👀 WATCH**
 - **What:** Known Korean cheesecake-bake cafe chains often operate near Myeongdong
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽6,000–12,000
+- **Price:** ₩6,000–12,000
 
 ### 198) 🥯 **Myeongdong Korean Bagel & Cafe Trend — 👀 WATCH**
 - **What:** New wave of Korean bagel cafes may operate near Myeongdong
@@ -1005,12 +1005,12 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 199) 🍮 **Myeongdong Matcha Cafe — 👀 WATCH**
 - **What:** Korean matcha cafe trend has smaller boutique cafes in Myeongdong
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽5,000–10,000
+- **Price:** ₩5,000–10,000
 
 ### 200) 🍫 **Korean Chocolat Patisserie in Myeongdong — 👀 WATCH**
 - **What:** Boutique artisan chocolatier and *macaron* cafe-growth in Seoul — some operate in Myeongdong
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽6,000–14,000 per dessert
+- **Price:** ₩6,000–14,000 per dessert
 
 ### 201) 🍨 **Myeongdong Melona / Binggrae-Pop-up brand scoops — 👀 WATCH seasonal**
 - **What:** Korean heritage ice cream brand Melona operates seasonal pop-ups
@@ -1024,74 +1024,74 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 202) 🌟 **Lotte Hotel Seoul (Myeongdong-adjacent) — 🔁 daily**
 - **What:** The historic flagship Lotte Hotel at the south end of Myeongdong — 30+ story tower with city views
 - **Hours:** Daily
-- **Price:** Premium tier ~₽400,000+
+- **Price:** Premium tier ~₩400,000+
 - **Official source:** [lottehotel.com/seoul](https://www.lottehotel.com/seoul)
 
 ### 203) 🏨 **Hotel Skypark Myeongdong 1, 2, & 3 (three flagship buildings) — 🔁 daily**
 - **What:** Verified chain of three Myeongdong Skypark hotels (1, 2, 3) offering budget-to-mid-tier with central locations
 - **Hours:** Daily
-- **Price:** Mid-tier ₽90,000–200,000
+- **Price:** Mid-tier ₩90,000–200,000
 - **Official source:** [skyparkhotel.co.kr](http://www.skyparkhotel.co.kr)
 
 ### 204) 🏨 **Nine Tree Premier Hotel Myeongdong II & Nine Tree by Parnas I — 🔁 daily**
 - **What:** Modern business hotels — verified TripAdvisor listings under "Nine Tree by Parnas Seoul Myeongdong I & II"
 - **Hours:** Daily
-- **Price:** Mid-tier ₽120,000–250,000
+- **Price:** Mid-tier ₩120,000–250,000
 - **Official source:** [pgrhotels.com](http://www.pgrhotels.com)
 
 ### 205) 🏨 **Solaria Nishitetsu Hotel Seoul Myeongdong — 🔁 daily**
 - **What:** Japanese-owned boutique business hotel
 - **Hours:** Daily
-- **Price:** Mid-tier ₽120,000–200,000
+- **Price:** Mid-tier ₩120,000–200,000
 - **Official source:** [solaria-hotel.co.kr](http://www.solaria-hotel.co.kr)
 
 ### 206) 🏨 **Henn Na Hotel Seoul Myeongdong — 🔁 daily**
 - **What:** Japanese robot-staff "Henn Na" hotel of the Myeongdong area
 - **Hours:** Daily
-- **Price:** Mid-budget ₽80,000–140,000
+- **Price:** Mid-budget ₩80,000–140,000
 - **Official source:** [hennnahotel.co.kr](http://www.hennnahotel.co.kr)
 
 ### 207) 🏨 **Sotetsu Hotels The Splaisir Seoul Myeongdong — 🔁 daily**
 - **What:** Japanese-owned business hotel (route to Seoul by Sotetsu Group of Yokohama)
 - **Hours:** Daily
-- **Price:** Mid-tier ₽100,000–180,000
+- **Price:** Mid-tier ₩100,000–180,000
 - **Official source:** [sotetsu.co.jp](https://www.sotetsu.co.jp/english)
 
 ### 208) 🏨 **Five Hotel Jongno — 👀 WATCH**
 - **What:** Located near Myeong-dong's northern edge — boutique hotel
 - **Hours:** Daily
-- **Price:** Mid-tier ₽120,000–180,000
+- **Price:** Mid-tier ₩120,000–180,000
 
 ### 209) 🏨 **Migliore Hotel Seoul Myeongdong — 🔁 daily**
 - **What:** Verified TripAdvisor-listed budget hotel
 - **Hours:** Daily
-- **Price:** Budget ₽70,000–120,000
+- **Price:** Budget ₩70,000–120,000
 
 ### 210) 🏨 **Hotel Cappuccino Myeongdong — 👀 WATCH**
 - **What:** Verified boutique hotel in Myeong-dong area, Korean design lodging
 - **Hours:** Daily
-- **Price:** Mid-tier ₽150,000–250,000
+- **Price:** Mid-tier ₩150,000–250,000
 
 ### 211) 🏨 **Stanford Hotel Myeongdong — 🔁 daily**
 - **What:** Confirmed hotel near Namdaemun — Walking distance to Myeong-dong
 - **Hours:** Daily
-- **Price:** Mid-tier ₽120,000–200,000
+- **Price:** Mid-tier ₩120,000–200,000
 - **Official source:** [stanfordhotel.co.kr](https://www.stanfordhotel.co.kr)
 
 ### 212) 🏨 **Travelodge Myeongdong Euljiro — 👀 WATCH**
 - **What:** Budget-friendly business hotel around Myeongdong
 - **Hours:** Daily
-- **Price:** Budget ₽80,000–140,000
+- **Price:** Budget ₩80,000–140,000
 
 ### 213) 🏨 **Hotel Kukdo — 👀 WATCH**
 - **What:** Mid-tier budget hotel near Myeongdong
 - **Hours:** Daily
-- **Price:** ₽70,000–140,000
+- **Price:** ₩70,000–140,000
 
 ### 214) 🏨 **Creto Hotel Myeongdong — 🔁 daily**
 - **What:** Comfortable business hotel within walking distance of Myeongdong main street
 - **Hours:** Daily
-- **Price:** Mid-tier ₽80,000–150,000
+- **Price:** Mid-tier ₩80,000–150,000
 
 ### 215) 🏨 **L7 Myeongdong by Lotte — 👀 WATCH** (verify: L7 Gangnam is well-known; L7 may also have Myeongdong branch — confirm 2026 status)
 - **Hours:** Daily
@@ -1217,48 +1217,48 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 235) 💆 **Korean Premium Body Scrub Spa Myeongdong — 👀 WATCH**
 - **What:** Several premium body scrubs near Myeongdong take walk-ins
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽80,000–200,000
+- **Price:** ₩80,000–200,000
 - **Beginner notes:** Traditional *taeshim-spa* styling includes towels & shower; bring scuba socks if warming.
 
 ### 236) 🧖 **Lymphatic Massage Service near Myeongdong — 🔁 daily**
 - **What:** Verified Myeongdong-area offers specialized Korean-style lymphatic
 - **Hours:** Daily 10:00–22:00
-- **Price:** ₽90,000–180,000
+- **Price:** ₩90,000–180,000
 
 ### 237) 💆 **Foot Reflexology Itaewon (Myeongdong) Center — 👀 WATCH**
 - **What:** Verified Myeongdong-side Korean foot-reflexology centers
 - **Hours:** Daily 11:00–22:00
-- **Price:** ₽30,000–70,000
+- **Price:** ₩30,000–70,000
 
 ### 238) 💅 **Korean Nail Salon 'Nail Bar' Myeongdong — 🔁 daily**
 - **What:** Multiple nail salons throughout Myeongdong, run quick express services
 - **Hours:** Daily 11:00–22:00
-- **Price:** Adult express ₽30,000–80,000
+- **Price:** Adult express ₩30,000–80,000
 
 ### 239) 💄 **K-Pop Makeup Salon 'Myeongdong K-beauty Hair & Makeup' — 👀 WATCH**
 - **What:** K-beauty styling service — get a K-pop idol makeover
 - **Hours:** Daily 11:00–22:00
-- **Price:** Adult ₽100,000–300,000
+- **Price:** Adult ₩100,000–300,000
 
 ### 240) 🍃 **Korean Herbal Medicinal Bath House near Myeongdong — 👀 WATCH**
 - **What:** Slightly farther but accessible traditional Korean bathhouse
 - **Hours:** Daily 06:00–22:00
-- **Price:** Adult ₽15,000–25,000
+- **Price:** Adult ₩15,000–25,000
 
 ### 241) 🏊 **Myeongdong Hotel Indoor Pool Day-Use Pass — 👀 WATCH**
 - **What:** Some upper-tier Myeongdong hotels offer paid day-use for swimming pools
 - **Hours:** Daily 11:00–17:00
-- **Price:** ~₽50,000
+- **Price:** ~₩50,000
 
 ### 242) 🎫 **Uljiro, Daeseong-dong Body Massage Alley — 🔁 daily**
 - **What:** Cluster of body massage up north of Myeongdong proper
 - **Hours:** Daily 11:00–22:00
-- **Price:** Adult ₽50,000–120,000
+- **Price:** Adult ₩50,000–120,000
 
 ### 243) 🛁 **Eco Korean Massage (Foot bath) Service Near Myeongdong — 🔁 daily**
 - **What:** Reliable foot bath facilities
 - **Hours:** Daily 11:00–22:00
-- **Price:** Adult ₽15,000–30,000
+- **Price:** Adult ₩15,000–30,000
 
 ---
 
@@ -1267,7 +1267,7 @@ Seoul's pulse and most-visited tourist district — a 1 km² shopping, dining, a
 ### 244) 🎃 **Myeongdong Halloween Cosplay Pub Crawl — 👀 WATCH**
 - **What:** Annual Halloween costume pub crawl organized by Myeongdong pubs/clubs; check Vato Korea or Tripcom
 - **Hours:** Oct 31 only
-- **Price:** Cover ₽30,000–50,000
+- **Price:** Cover ₩30,000–50,000
 
 ### 245) 🎃 **Myeongdong Cathedral Friday Mass Sweet Feast (Oct 31) — 👀 WATCH**
 - **What:** Some travelers attend evening mass Oct 31 with the cathedral open late

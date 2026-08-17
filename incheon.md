@@ -358,7 +358,7 @@
 ### 49) 🍜 **Chinatown Bibimbap Alley (Jjajangmyeon "8-Cuisine") — 🔁 daily**
 - **What:** 8 specialty restaurants offer black-bean noodles
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽10,000 per dish
+- **Price:** ~₩10,000 per dish
 
 ### 50) 🏛️ **Incheon Sinpo Hanok House (신포 한옥) — 🔁 daily (FREE)**
 - **What:** Quiet district with restored hanok
@@ -382,7 +382,7 @@
 ### 54) 🎨 **Wolmido Trick Art Museum — 🔁 Tue–Sun**
 - **What:** 3D optical-illusion art museum on the island
 - **Hours:** Tue–Sun 10:00–18:00
-- **Price:** Adult ₽6,000
+- **Price:** Adult ₩6,000
 
 ### 55) 🍺 **Wolmido Seafood Restaurant Block — 🔁 daily**
 - **What:** Cluster of seafood BBQ restaurants on the island
@@ -391,22 +391,22 @@
 ### 56) 🐠 **Wolmido Marine Fishing Park — 👀 WATCH (summer)**
 - **What:** Pier fishing spot with rental rods
 - **Hours:** Daily 06:00–18:00
-- **Price:** Free entry; rod ~₽5,000
+- **Price:** Free entry; rod ~₩5,000
 
 ### 57) 🛶 **Wolmido Pedal Boat / Bike Path — 🔁 daily**
 - **What:** Island loop on foot or by bike
 - **Hours:** Daily 09:00–18:00
-- **Price:** Bike rental ₽3,000–5,000
+- **Price:** Bike rental ₩3,000–5,000
 
 ### 58) 🚤 **Wolmido Cruise Ship Terminal — 👀 WATCH**
 - **What:** Ferry to nearby islands
 - **Hours:** Variable
-- **Price:** ~₽10,000–15,000
+- **Price:** ~₩10,000–15,000
 
 ### 59) 🛕 **Modo Island Day Trip — 👀 WATCH**
 - **What:** Quiet cultural island with lighthouse
 - **Hours:** Ferries 09:00–17:00
-- **Price:** ~₽15,000
+- **Price:** ~₩15,000
 
 ### 60) 🏯 **Yeongjongdo Coastal Wetland — 🔁 daily (FREE)**
 - **What:** Quiet wetland around the airport
@@ -414,11 +414,11 @@
 
 ### 61) 🌾 **Seokmo-do Island & Seaweed Farm — 👀 WATCH**
 - **What:** Coastal seaweed farms and small tourist day-trips
-- **Price:** ~₽20,000
+- **Price:** ~₩20,000
 
 ### 62) 🌊 **Incheon's Coastal Cruise — 👀 WATCH seasonal**
 - **What:** Coastal cruise past the port and yacht marina
-- **Price:** Adult ₽15,000
+- **Price:** Adult ₩15,000
 
 ---
 
@@ -445,12 +445,12 @@
 ### 67) 🦆 **Songdo Salt Water Canal Swan Boat Rentals — 🔁 daily**
 - **What:** Swan-shaped paddle boat rentals on the Central Park canal
 - **Hours:** Daily 10:00–18:00
-- **Price:** ~₽10,000 for 30 min
+- **Price:** ~₩10,000 for 30 min
 
 ### 68) 🎭 **Songdo Louise Wine Cave & Lounge — 👀 WATCH**
 - **What:** Hotel Voco wine cave & tasting room
 - **Hours:** Wed–Sun 18:00–24:00
-- **Price:** ~₽30,000 per flight
+- **Price:** ~₩30,000 per flight
 
 ### 69) 🏢 **Songdo IBD SMART City Experience Center — 👀 WATCH**
 - **What:** Free show room for smart city tech
@@ -477,12 +477,12 @@
 ### 73) ☕ **Incheon Airport 24-hour Cafés — 🔁 daily**
 - **What:** Various 24-hour coffee shops in each terminal
 - **Hours:** 24/7
-- **Price:** ₽5,000–10,000
+- **Price:** ₩5,000–10,000
 
 ### 74) ✈️ **Incheon Airport Runway / Aircraft Viewing — 👀 seasonal**
 - **What:** Paid platform to view aircraft close-up
 - **Hours:** Daily (verify)
-- **Price:** ~₽5,000
+- **Price:** ~₩5,000
 
 ### 75) 🛬 **Incheon Airport Tri-Border History Room — 🔁 Tue–Sun (FREE)**
 - **What:** Sky-deck interpretive display
@@ -501,7 +501,7 @@
 ### 78) 🎹 **Paradise City Live Music Hall Events — 👀 WATCH**
 - **What:** K-pop band concerts and musicals
 - **Hours:** Variable
-- **Price:** ₽60,000+
+- **Price:** ₩60,000+
 
 ### 79) 🍴 **Paradise City Dining Plaza — 🔁 daily**
 - **What:** International food court
@@ -511,7 +511,7 @@
 ### 80) 🌊 **Yeongjong Coast Crystal Yacht — 👀 seasonal**
 - **What:** Coastal sunset yachts
 - **Hours:** Variable
-- **Price:** ₽30,000–60,000
+- **Price:** ₩30,000–60,000
 
 ### 81) 🛍️ **Yeongjong Outlet Mall — 🔁 daily**
 - **What:** Outlet mall adjacent to airport
@@ -529,7 +529,7 @@
 ### 83) 🎨 **Incheon Art Center (인천 문예회관) — 🔁 daily**
 - **What:** Concert hall hosting musicals, dance, classical music
 - **Hours:** Daily 10:00–22:00
-- **Price:** Varies ₽10,000–80,000
+- **Price:** Varies ₩10,000–80,000
 - **Official source:** [incheonartcenter.kr](http://www.incheonartcenter.kr)
 
 ### 84) 🏛️ **Incheon Museum — 🔁 Tue–Sun (FREE)**
@@ -540,12 +540,12 @@
 ### 85) 🎭 **Incheon National Maritime Museum — 🔁 Tue–Sun**
 - **What:** Maritime museum inside Incheon Port
 - **Hours:** Tue–Sun
-- **Price:** Adult ₽2,000
+- **Price:** Adult ₩2,000
 
 ### 86) 🏯 **Incheon World Cup Stadium Tour (2002 stadium) — 👀 WATCH**
 - **What:** Tour of famous 2002 World Cup venue
 - **Hours:** Mon–Fri
-- **Price:** Adult ₽3,000
+- **Price:** Adult ₩3,000
 - **Official source:** [incheon.go.kr](https://www.incheon.go.kr)
 
 ### 87) 🎨 **Songdo Art Cube (Art Cube Seoul Bank) — 👀 WATCH**
@@ -556,7 +556,7 @@
 ### 88) 🛕 **Incheon Chinese Temple Manhoe-sa — 👀 WATCH**
 - **What:** Buddhist temple catering to Chinese diaspora
 - **Hours:** Daily
-- **Price:** ₽3,000
+- **Price:** ₩3,000
 
 ---
 
@@ -570,7 +570,7 @@
 ### 90) 🎵 **Incheon Indie Concert Hall (Live House) — 👀 WATCH**
 - **What:** Indie music venue
 - **Hours:** Variable
-- **Price:** ₽10,000–30,000
+- **Price:** ₩10,000–30,000
 
 ### 91) 🌌 **Incheon Wolmido Night Walk — 🔁 daily (FREE)**
 - **What:** Illuminated coastal promenade after dark
@@ -688,17 +688,17 @@
 ### 119) 🥟 **Chinatown "Mandu Alley" — 🔁 daily**
 - **What:** Famous dumpling shops north of Paeru Pavilion
 - **Hours:** Daily 11:00–20:00
-- **Price:** ~₽10,000 per dish
+- **Price:** ~₩10,000 per dish
 
 ### 120) 🐟 **Wolmido Raw Fish Alley — 🔁 daily**
 - **What:** Open-front halibut sashimi shops
 - **Hours:** Daily
-- **Price:** ₽15,000–40,000
+- **Price:** ₩15,000–40,000
 
 ### 121) 🥬 **Incheon Sunae Fried Chicken Street — 🔁 nightly**
 - **What:** Korean fried chicken shops
 - **Hours:** Nightly 17:00–24:00+
-- **Price:** ₽15,000–30,000
+- **Price:** ₩15,000–30,000
 
 ### 122) 🍺 **Incheon Chinatown Makgeolli Alley — 🔁 nightly**
 - **What:** Traditional Korean rice wine pubs
@@ -714,7 +714,7 @@
 ### 125) 🍲 **Incheon 'Mulhoe' Cold Soup Alley — 👀 WATCH**
 - **What:** Cold raw fish soup restaurants
 - **Hours:** Daily
-- **Price:** ₽10,000–20,000
+- **Price:** ₩10,000–20,000
 
 ### 126) 🍩 **Incheon Donut & Bakery Tour — 🔁 daily**
 - **What:** Indie bakeries
@@ -723,7 +723,7 @@
 ### 127) 🍵 **Incheon Tea Ceremony Studio — 👀 WATCH weekends**
 - **What:** Tea ceremony experience
 - **Hours:** Saturdays 14:00
-- **Price:** ~₽25,000
+- **Price:** ~₩25,000
 
 ---
 
@@ -739,7 +739,7 @@
 ### 130) 🐠 **Songdo Indoor Aquarium — 🔁 Tue–Sun**
 - **What:** Compact aquarium in Songdo
 - **Hours:** Tue–Sun 10:00–17:00
-- **Price:** Adult ₽15,000
+- **Price:** Adult ₩15,000
 
 ### 131) 🎭 **Incheon Disneyland Korea Themed Cafe — 👀 WATCH**
 - **What:** Themed cafe
@@ -766,7 +766,7 @@
 ### 136) 🦇 **Incheon Halloween Pub Crawl — 👀 WATCH (Fri Oct 31)**
 - **What:** Costume bar tour
 - **Hours:** Friday Oct 31 21:00–03:00
-- **Price:** ₽10,000 cover charge
+- **Price:** ₩10,000 cover charge
 
 ### 137) 🍰 **Incheon Bakery Halloween Specials — 👀 WATCH**
 - **What:** Halloween-themed treats
