@@ -54,8 +54,12 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 
 ### 6) 👑 **Gyeonggijeon Shrine and Royal Portrait Museum** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Shrine established to enshrine a portrait of King Taejo, founder of Joseon; the precinct also interprets royal portrait and historical-record traditions.
-- **Hours:** Visit Jeonju lists Nov–Feb 09:00–17:00. Admission applies; verify last entry and closures.
-- **Official source (reviewed Aug 17):** [Visit Jeonju guide](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000025&menuCd=DOM_000000209001000000&paging=ok&startPage=2&dataSid=12484)
+- **Hours:** **Winter (Nov–Feb) 09:00–18:00 — last entry 17:00, one hour before closing.** *(Correction: an earlier listing gave 17:00 as the closing time; the operator's own museum site gives 18:00 for Nov–Feb, with the one-hour entry cutoff.)* Summer runs to 19:00, and 20:00 in Jun–Aug.
+- **Price:** **₩3,000 adult / ₩2,000 youth and military / ₩1,000 child.** Groups of 20+: ₩2,500 / ₩1,500 / ₩500.
+- **✅ The ticket includes the Royal Portrait Museum (어진박물관)** — it is not a separate charge, so the ₩3,000 covers both the shrine precinct and the museum holding the Taejo portrait. Allow **1–1.5 hrs** for both.
+- **💡 Free on the last Wednesday of each month** ("Culture Day") — that is **Wed Nov 25, 2026**, just after you leave, so it does not help this trip.
+- **Open year-round**, including Mondays — unlike most of the Hanok Village's museums.
+- **Official sources (reviewed Aug 18):** [Jeonju Royal Portrait Museum — seasonal hours and Gyeonggijeon admission](https://jeonju.go.kr/eojinmuseum/index.9is) · [Jeonbuk Tourism — fare table](https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552)
 
 ### 7) ⛪ **Jeondong Catholic Cathedral** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Early-20th-century Romanesque cathedral at the Hanok Village entrance, built at a site associated with early Korean Catholic martyrs.

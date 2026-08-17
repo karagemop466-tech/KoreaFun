@@ -9191,15 +9191,70 @@
   "text": "- **Official source (reviewed Aug 17):** [Jeonju Hanok Village](https://hanok.jeonju.go.kr/)",
   "verdict": "unchecked"
  },
+ "jeonju.md#6:1fdc836033": {
+  "checked_on": "2026-08-17",
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "sources": [
+   "https://jeonju.go.kr/eojinmuseum/index.9is",
+   "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Jeonju Royal Portrait Museum — seasonal hours and Gyeonggijeon admission](https://jeonju.go.kr/eojinmuseum/index.9is) · [Jeonbuk Tourism — fare table](https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552)",
+  "verdict": "sourced"
+ },
+ "jeonju.md#6:6bbe8308c5": {
+  "checked_on": "2026-08-17",
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "PRICE",
+  "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "sources": [
+   "https://jeonju.go.kr/eojinmuseum/index.9is",
+   "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"
+  ],
+  "text": "- **Price:** **₩3,000 adult / ₩2,000 youth and military / ₩1,000 child.** Groups of 20+: ₩2,500 / ₩1,500 / ₩500.",
+  "verdict": "verified"
+ },
+ "jeonju.md#6:85c0e3e94c": {
+  "checked_on": "2026-08-17",
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "sources": [
+   "https://jeonju.go.kr/eojinmuseum/index.9is",
+   "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"
+  ],
+  "text": "- **💡 Free on the last Wednesday of each month** (\"Culture Day\") — that is **Wed Nov 25, 2026**, just after you leave, so it does not help this trip.",
+  "verdict": "verified"
+ },
+ "jeonju.md#6:8838250a46": {
+  "checked_on": "2026-08-17",
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "ACCESS",
+  "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "sources": [
+   "https://jeonju.go.kr/eojinmuseum/index.9is",
+   "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"
+  ],
+  "text": "- **Open year-round**, including Mondays — unlike most of the Hanok Village's museums.",
+  "verdict": "verified"
+ },
  "jeonju.md#6:9df1909a7c": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 6,
   "file": "jeonju.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "sources": [
+   "https://jeonju.go.kr/eojinmuseum/index.9is",
+   "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"
+  ],
   "text": "- **What:** Shrine established to enshrine a portrait of King Taejo, founder of Joseon; the precinct also interprets royal portrait and historical-record traditions.",
-  "verdict": "unchecked"
+  "verdict": "prose"
  },
  "jeonju.md#6:a8c1e0d6de": {
   "checked_on": null,
@@ -9207,6 +9262,7 @@
   "file": "jeonju.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Visit Jeonju guide](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000025&menuCd=DOM_000000209001000000&paging=ok&startPage=2&dataSid=12484)",
   "verdict": "unchecked"
@@ -9217,9 +9273,36 @@
   "file": "jeonju.md",
   "kind": "TIME",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours:** Visit Jeonju lists Nov–Feb 09:00–17:00. Admission applies; verify last entry and closures.",
   "verdict": "unchecked"
+ },
+ "jeonju.md#6:d5bdfcb87e": {
+  "checked_on": "2026-08-17",
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "TIME",
+  "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "sources": [
+   "https://jeonju.go.kr/eojinmuseum/index.9is",
+   "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"
+  ],
+  "text": "- **Hours:** **Winter (Nov–Feb) 09:00–18:00 — last entry 17:00, one hour before closing.** *(Correction: an earlier listing gave 17:00 as the closing time; the operator's own museum site gives 18:00 for Nov–Feb, with the one-hour entry cutoff.)* Summer runs to 19:00, and 20:00 in Jun–Aug.",
+  "verdict": "verified"
+ },
+ "jeonju.md#6:d85c35e4fb": {
+  "checked_on": "2026-08-17",
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "PRICE",
+  "note": "Gyeonggijeon: TWO fixes. (1) HOURS WERE WRONG - entry said Nov-Feb 09:00-17:00; the operator's own Royal Portrait Museum site gives winter 09:00-18:00 with last entry 17:00 (1hr before close). The old 17:00 was the entry cutoff misread as closing time. (2) 'Admission applies' had NO PRICE: W3,000 adult / W2,000 youth+military / W1,000 child; groups 20+ W2,500/1,500/500. The ticket INCLUDES the Royal Portrait Museum - not a separate charge. Open year-round INCLUDING MONDAYS, unlike most Hanok Village museums. Free last Wed monthly = Nov 25, after departure.",
+  "sources": [
+   "https://jeonju.go.kr/eojinmuseum/index.9is",
+   "https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552"
+  ],
+  "text": "- **✅ The ticket includes the Royal Portrait Museum (어진박물관)** — it is not a separate charge, so the ₩3,000 covers both the shrine precinct and the museum holding the Taejo portrait. Allow **1–1.5 hrs** for both.",
+  "verdict": "verified"
  },
  "jeonju.md#7:45235a4e29": {
   "checked_on": null,
