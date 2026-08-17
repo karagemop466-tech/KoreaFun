@@ -58,8 +58,12 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 
 ### 9) 🌊 **Jinhae Marine Park and Marine Solar Tower** — 🔎 VERIFIED PLACE
 - **What:** Island/coastal park complex with tower, exhibitions, and sea views.
-- **Hours/price:** Facility-specific; check closures and admission on the city operator page.
-- **Official source (reviewed Aug 17):** [Changwon Facilities Corporation](https://www.cwsisul.or.kr/)
+- **Hours/price:** **09:00–18:00, ticket office closes 17:00. Closed Mondays** — but the **outdoor grounds and the coastal walking path stay open every day**, so a Monday visit still works for the walk and the sea views.
+- **Prices:** **Solar Tower ₩3,500 adult / ₩2,500 student and military / ₩1,500 child.** The **Marine Life Theme Park and Fish Ecology Hall are ₩2,500** separately. Changwon residents get a discount on ID — not applicable to you, but it explains differing figures online.
+- **✅ The Solar Tower observatory is open again.** It shut on Nov 10, 2023 when its two high-speed lifts were condemned, and stayed shut for a year; Changwon spent ₩1.08 bn replacing them and **reopened it on Nov 16, 2024**. Several travel pages still describe it as closed — that information is out of date.
+- **What you get:** a circular observatory on floors **27–28**, ~120 m up, with a glass floor section, looking over Jinhae Bay, the Geoga Bridge and Udo island. The exhibition building below (green-energy displays) is **free**. There is also a **zip line** on site.
+- **⚠️ Very exposed to wind** on the tower approach and the shoreline path — this is a November sea-front.
+- **Official sources (reviewed Aug 18):** [Changwon Facilities Corporation](https://www.cwsisul.or.kr/) · [VisitKorea accessible-tourism listing (hours, fares)](https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb) · [Changwon City — Solar Tower reopening, Nov 16 2024](https://www.nocutnews.co.kr/news/6239597)
 
 ### 10) 🪖 **Anmin Pass viewpoint road** — 🔎 VERIFIED PLACE
 - **What:** Ridge road and viewpoints over Jinhae.
@@ -97,8 +101,11 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 
 ### 16) 🎨 **Moonshin Art Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum dedicated to sculptor Moon Shin, overlooking Masan.
-- **Hours/price:** Check city museum hours and Monday closure.
-- **Official source (reviewed Aug 17):** [Changwon City Museums](https://www.changwon.go.kr/cwportal/depart/11064/11123.web)
+- **Hours/price:** **09:00–18:00, last entry 17:30.** **₩500 adult / ₩200 child and youth** — one of the cheapest museums in the country. **Free for under-6s and over-65s.** Card accepted.
+- **Closed Mondays** (or the next day if that Monday is a holiday), Jan 1, Seollal and Chuseok. Allow **1–1.5 hrs**. Free parking.
+- **What's there:** Moon Shin's own museum, which he spent 15 years building on the Chusan-dong hillside above Masan harbour — Exhibition Halls 1 and 2, an **outdoor sculpture park**, the Moon Shin Original Form Museum and an art shop. The hilltop setting and harbour view are half the appeal.
+- **♿ Step-free access:** lift inside the Original Form Museum and ramps at each hall entrance.
+- **Official sources (reviewed Aug 18):** [Changwon City Museums](https://www.changwon.go.kr/cwportal/depart/11064/11123.web) · [Changwon Tourism — Moonshin Art Museum details](https://changwon.go.kr/tour/index.do?menuCode=001_007000000000)
 
 ### 17) 🏛️ **Changwon History and Folk Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum of regional history and folk life; entry #1 covers its November screening program.

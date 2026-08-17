@@ -1446,15 +1446,81 @@
   "text": "- **Official source (reviewed Aug 17):** [March 15 National Cemetery](https://www.mpva.go.kr/315/)",
   "verdict": "unchecked"
  },
+ "changwon-jinhae.md#16:0402d51f24": {
+  "checked_on": "2026-08-17",
+  "entry": 16,
+  "file": "changwon-jinhae.md",
+  "kind": "PROSE",
+  "note": "Moonshin Art Museum: hedge resolved -> 09:00-18:00 last entry 17:30, W500 adult / W200 child (free under-6 and over-65), card OK. Closed Mon (next day if Mon is a holiday), Jan1, Seollal, Chuseok. 1-1.5hr visit, free parking. Halls 1-2 + outdoor sculpture park + Original Form Museum; built by the artist over 15 years above Masan harbour. Step-free: lift + ramps.",
+  "sources": [
+   "https://changwon.go.kr/tour/index.do?menuCode=001_007000000000",
+   "https://www.changwon.go.kr/cwportal/depart/11064/11123.web"
+  ],
+  "text": "- **What's there:** Moon Shin's own museum, which he spent 15 years building on the Chusan-dong hillside above Masan harbour — Exhibition Halls 1 and 2, an **outdoor sculpture park**, the Moon Shin Original Form Museum and an art shop. The hilltop setting and harbour view are half the appeal.",
+  "verdict": "prose"
+ },
  "changwon-jinhae.md#16:4b24c8de73": {
   "checked_on": null,
   "entry": 16,
   "file": "changwon-jinhae.md",
   "kind": "PROSE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Check city museum hours and Monday closure.",
   "verdict": "unchecked"
+ },
+ "changwon-jinhae.md#16:5ab2c565eb": {
+  "checked_on": "2026-08-17",
+  "entry": 16,
+  "file": "changwon-jinhae.md",
+  "kind": "ACCESS",
+  "note": "Moonshin Art Museum: hedge resolved -> 09:00-18:00 last entry 17:30, W500 adult / W200 child (free under-6 and over-65), card OK. Closed Mon (next day if Mon is a holiday), Jan1, Seollal, Chuseok. 1-1.5hr visit, free parking. Halls 1-2 + outdoor sculpture park + Original Form Museum; built by the artist over 15 years above Masan harbour. Step-free: lift + ramps.",
+  "sources": [
+   "https://changwon.go.kr/tour/index.do?menuCode=001_007000000000",
+   "https://www.changwon.go.kr/cwportal/depart/11064/11123.web"
+  ],
+  "text": "- **♿ Step-free access:** lift inside the Original Form Museum and ramps at each hall entrance.",
+  "verdict": "verified"
+ },
+ "changwon-jinhae.md#16:5b34f2bf47": {
+  "checked_on": "2026-08-17",
+  "entry": 16,
+  "file": "changwon-jinhae.md",
+  "kind": "DATE",
+  "note": "Moonshin Art Museum: hedge resolved -> 09:00-18:00 last entry 17:30, W500 adult / W200 child (free under-6 and over-65), card OK. Closed Mon (next day if Mon is a holiday), Jan1, Seollal, Chuseok. 1-1.5hr visit, free parking. Halls 1-2 + outdoor sculpture park + Original Form Museum; built by the artist over 15 years above Masan harbour. Step-free: lift + ramps.",
+  "sources": [
+   "https://changwon.go.kr/tour/index.do?menuCode=001_007000000000",
+   "https://www.changwon.go.kr/cwportal/depart/11064/11123.web"
+  ],
+  "text": "- **Closed Mondays** (or the next day if that Monday is a holiday), Jan 1, Seollal and Chuseok. Allow **1–1.5 hrs**. Free parking.",
+  "verdict": "verified"
+ },
+ "changwon-jinhae.md#16:85be2f7dc2": {
+  "checked_on": "2026-08-17",
+  "entry": 16,
+  "file": "changwon-jinhae.md",
+  "kind": "PRICE",
+  "note": "Moonshin Art Museum: hedge resolved -> 09:00-18:00 last entry 17:30, W500 adult / W200 child (free under-6 and over-65), card OK. Closed Mon (next day if Mon is a holiday), Jan1, Seollal, Chuseok. 1-1.5hr visit, free parking. Halls 1-2 + outdoor sculpture park + Original Form Museum; built by the artist over 15 years above Masan harbour. Step-free: lift + ramps.",
+  "sources": [
+   "https://changwon.go.kr/tour/index.do?menuCode=001_007000000000",
+   "https://www.changwon.go.kr/cwportal/depart/11064/11123.web"
+  ],
+  "text": "- **Hours/price:** **09:00–18:00, last entry 17:30.** **₩500 adult / ₩200 child and youth** — one of the cheapest museums in the country. **Free for under-6s and over-65s.** Card accepted.",
+  "verdict": "verified"
+ },
+ "changwon-jinhae.md#16:cae1484910": {
+  "checked_on": "2026-08-17",
+  "entry": 16,
+  "file": "changwon-jinhae.md",
+  "kind": "SOURCE",
+  "note": "Moonshin Art Museum: hedge resolved -> 09:00-18:00 last entry 17:30, W500 adult / W200 child (free under-6 and over-65), card OK. Closed Mon (next day if Mon is a holiday), Jan1, Seollal, Chuseok. 1-1.5hr visit, free parking. Halls 1-2 + outdoor sculpture park + Original Form Museum; built by the artist over 15 years above Masan harbour. Step-free: lift + ramps.",
+  "sources": [
+   "https://changwon.go.kr/tour/index.do?menuCode=001_007000000000",
+   "https://www.changwon.go.kr/cwportal/depart/11064/11123.web"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Changwon City Museums](https://www.changwon.go.kr/cwportal/depart/11064/11123.web) · [Changwon Tourism — Moonshin Art Museum details](https://changwon.go.kr/tour/index.do?menuCode=001_007000000000)",
+  "verdict": "sourced"
  },
  "changwon-jinhae.md#16:e8b1141f47": {
   "checked_on": null,
@@ -1462,19 +1528,23 @@
   "file": "changwon-jinhae.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Changwon City Museums](https://www.changwon.go.kr/cwportal/depart/11064/11123.web)",
   "verdict": "unchecked"
  },
  "changwon-jinhae.md#16:f4d6bad4db": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 16,
   "file": "changwon-jinhae.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Moonshin Art Museum: hedge resolved -> 09:00-18:00 last entry 17:30, W500 adult / W200 child (free under-6 and over-65), card OK. Closed Mon (next day if Mon is a holiday), Jan1, Seollal, Chuseok. 1-1.5hr visit, free parking. Halls 1-2 + outdoor sculpture park + Original Form Museum; built by the artist over 15 years above Masan harbour. Step-free: lift + ramps.",
+  "sources": [
+   "https://changwon.go.kr/tour/index.do?menuCode=001_007000000000",
+   "https://www.changwon.go.kr/cwportal/depart/11064/11123.web"
+  ],
   "text": "- **What:** Museum dedicated to sculptor Moon Shin, overlooking Masan.",
-  "verdict": "unchecked"
+  "verdict": "prose"
  },
  "changwon-jinhae.md#17:9531ef2f1e": {
   "checked_on": null,
@@ -2184,12 +2254,69 @@
   "text": "- **Official source (reviewed Aug 17):** [Republic of Korea Naval Academy](https://www.navy.ac.kr/)",
   "verdict": "unchecked"
  },
+ "changwon-jinhae.md#9:0c47f814d9": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "changwon-jinhae.md",
+  "kind": "TIME",
+  "note": "Jinhae Marine Park: 'facility-specific, check' resolved -> 09:00-18:00, ticket office to 17:00, closed Mon BUT outdoor grounds/coastal path open daily. Solar Tower W3,500/2,500/1,500; Marine Life Theme Park + Fish Ecology Hall W2,500. IMPORTANT NEGATIVE-TURNED-POSITIVE: the Solar Tower observatory shut 2023-11-10 (condemned lifts) and many travel pages still say closed; Changwon spent W1.08bn and REOPENED IT 2024-11-16, so it IS available. Observatory floors 27-28 at ~120m w/ glass floor; exhibition building free; zip line on site.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb",
+   "https://www.nocutnews.co.kr/news/6239597",
+   "https://www.cwsisul.or.kr/"
+  ],
+  "text": "- **Hours/price:** **09:00–18:00, ticket office closes 17:00. Closed Mondays** — but the **outdoor grounds and the coastal walking path stay open every day**, so a Monday visit still works for the walk and the sea views.",
+  "verdict": "verified"
+ },
+ "changwon-jinhae.md#9:1306d1f7f9": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "changwon-jinhae.md",
+  "kind": "ACCESS",
+  "note": "Jinhae Marine Park: 'facility-specific, check' resolved -> 09:00-18:00, ticket office to 17:00, closed Mon BUT outdoor grounds/coastal path open daily. Solar Tower W3,500/2,500/1,500; Marine Life Theme Park + Fish Ecology Hall W2,500. IMPORTANT NEGATIVE-TURNED-POSITIVE: the Solar Tower observatory shut 2023-11-10 (condemned lifts) and many travel pages still say closed; Changwon spent W1.08bn and REOPENED IT 2024-11-16, so it IS available. Observatory floors 27-28 at ~120m w/ glass floor; exhibition building free; zip line on site.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb",
+   "https://www.nocutnews.co.kr/news/6239597",
+   "https://www.cwsisul.or.kr/"
+  ],
+  "text": "- **What you get:** a circular observatory on floors **27–28**, ~120 m up, with a glass floor section, looking over Jinhae Bay, the Geoga Bridge and Udo island. The exhibition building below (green-energy displays) is **free**. There is also a **zip line** on site.",
+  "verdict": "verified"
+ },
+ "changwon-jinhae.md#9:293502eb29": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "changwon-jinhae.md",
+  "kind": "PROSE",
+  "note": "Jinhae Marine Park: 'facility-specific, check' resolved -> 09:00-18:00, ticket office to 17:00, closed Mon BUT outdoor grounds/coastal path open daily. Solar Tower W3,500/2,500/1,500; Marine Life Theme Park + Fish Ecology Hall W2,500. IMPORTANT NEGATIVE-TURNED-POSITIVE: the Solar Tower observatory shut 2023-11-10 (condemned lifts) and many travel pages still say closed; Changwon spent W1.08bn and REOPENED IT 2024-11-16, so it IS available. Observatory floors 27-28 at ~120m w/ glass floor; exhibition building free; zip line on site.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb",
+   "https://www.nocutnews.co.kr/news/6239597",
+   "https://www.cwsisul.or.kr/"
+  ],
+  "text": "- **⚠️ Very exposed to wind** on the tower approach and the shoreline path — this is a November sea-front.",
+  "verdict": "prose"
+ },
+ "changwon-jinhae.md#9:420c8fec45": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "changwon-jinhae.md",
+  "kind": "PRICE",
+  "note": "Jinhae Marine Park: 'facility-specific, check' resolved -> 09:00-18:00, ticket office to 17:00, closed Mon BUT outdoor grounds/coastal path open daily. Solar Tower W3,500/2,500/1,500; Marine Life Theme Park + Fish Ecology Hall W2,500. IMPORTANT NEGATIVE-TURNED-POSITIVE: the Solar Tower observatory shut 2023-11-10 (condemned lifts) and many travel pages still say closed; Changwon spent W1.08bn and REOPENED IT 2024-11-16, so it IS available. Observatory floors 27-28 at ~120m w/ glass floor; exhibition building free; zip line on site.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb",
+   "https://www.nocutnews.co.kr/news/6239597",
+   "https://www.cwsisul.or.kr/"
+  ],
+  "text": "- **Prices:** **Solar Tower ₩3,500 adult / ₩2,500 student and military / ₩1,500 child.** The **Marine Life Theme Park and Fish Ecology Hall are ₩2,500** separately. Changwon residents get a discount on ID — not applicable to you, but it explains differing figures online.",
+  "verdict": "verified"
+ },
  "changwon-jinhae.md#9:62a53932d3": {
   "checked_on": null,
   "entry": 9,
   "file": "changwon-jinhae.md",
   "kind": "SOURCE",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Changwon Facilities Corporation](https://www.cwsisul.or.kr/)",
   "verdict": "unchecked"
@@ -2200,19 +2327,52 @@
   "file": "changwon-jinhae.md",
   "kind": "ACCESS",
   "note": "",
+  "retired": true,
   "sources": [],
   "text": "- **Hours/price:** Facility-specific; check closures and admission on the city operator page.",
   "verdict": "unchecked"
  },
+ "changwon-jinhae.md#9:da7617c468": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "changwon-jinhae.md",
+  "kind": "PRICE",
+  "note": "Jinhae Marine Park: 'facility-specific, check' resolved -> 09:00-18:00, ticket office to 17:00, closed Mon BUT outdoor grounds/coastal path open daily. Solar Tower W3,500/2,500/1,500; Marine Life Theme Park + Fish Ecology Hall W2,500. IMPORTANT NEGATIVE-TURNED-POSITIVE: the Solar Tower observatory shut 2023-11-10 (condemned lifts) and many travel pages still say closed; Changwon spent W1.08bn and REOPENED IT 2024-11-16, so it IS available. Observatory floors 27-28 at ~120m w/ glass floor; exhibition building free; zip line on site.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb",
+   "https://www.nocutnews.co.kr/news/6239597",
+   "https://www.cwsisul.or.kr/"
+  ],
+  "text": "- **✅ The Solar Tower observatory is open again.** It shut on Nov 10, 2023 when its two high-speed lifts were condemned, and stayed shut for a year; Changwon spent ₩1.08 bn replacing them and **reopened it on Nov 16, 2024**. Several travel pages still describe it as closed — that information is out of date.",
+  "verdict": "verified"
+ },
  "changwon-jinhae.md#9:e38ac7ccc9": {
-  "checked_on": null,
+  "checked_on": "2026-08-17",
   "entry": 9,
   "file": "changwon-jinhae.md",
   "kind": "PROSE",
-  "note": "",
-  "sources": [],
+  "note": "Jinhae Marine Park: 'facility-specific, check' resolved -> 09:00-18:00, ticket office to 17:00, closed Mon BUT outdoor grounds/coastal path open daily. Solar Tower W3,500/2,500/1,500; Marine Life Theme Park + Fish Ecology Hall W2,500. IMPORTANT NEGATIVE-TURNED-POSITIVE: the Solar Tower observatory shut 2023-11-10 (condemned lifts) and many travel pages still say closed; Changwon spent W1.08bn and REOPENED IT 2024-11-16, so it IS available. Observatory floors 27-28 at ~120m w/ glass floor; exhibition building free; zip line on site.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb",
+   "https://www.nocutnews.co.kr/news/6239597",
+   "https://www.cwsisul.or.kr/"
+  ],
   "text": "- **What:** Island/coastal park complex with tower, exhibitions, and sea views.",
-  "verdict": "unchecked"
+  "verdict": "prose"
+ },
+ "changwon-jinhae.md#9:e823cf2289": {
+  "checked_on": "2026-08-17",
+  "entry": 9,
+  "file": "changwon-jinhae.md",
+  "kind": "SOURCE",
+  "note": "Jinhae Marine Park: 'facility-specific, check' resolved -> 09:00-18:00, ticket office to 17:00, closed Mon BUT outdoor grounds/coastal path open daily. Solar Tower W3,500/2,500/1,500; Marine Life Theme Park + Fish Ecology Hall W2,500. IMPORTANT NEGATIVE-TURNED-POSITIVE: the Solar Tower observatory shut 2023-11-10 (condemned lifts) and many travel pages still say closed; Changwon spent W1.08bn and REOPENED IT 2024-11-16, so it IS available. Observatory floors 27-28 at ~120m w/ glass floor; exhibition building free; zip line on site.",
+  "sources": [
+   "https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb",
+   "https://www.nocutnews.co.kr/news/6239597",
+   "https://www.cwsisul.or.kr/"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Changwon Facilities Corporation](https://www.cwsisul.or.kr/) · [VisitKorea accessible-tourism listing (hours, fares)](https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb) · [Changwon City — Solar Tower reopening, Nov 16 2024](https://www.nocutnews.co.kr/news/6239597)",
+  "verdict": "sourced"
  },
  "daegu.md#10:36c8f3d8df": {
   "checked_on": null,
