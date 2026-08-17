@@ -441,3 +441,29 @@ jeonju #2 session times, suwon #1 dates, busan #5 and seoul #78 fixtures.
 **Queue still open:** busan #6 (V-League fixtures unreleased), daegu #3/#5, daejeon #3, gyeongju
 #1/#2, myeongdong #3, seoul #1/#2/#6/#8/#10/#11/#77, yongin #5/#6/#8; remaining travel-basics FX and
 transfer-cost claims.
+
+
+### Pass 12 — individual entry verification begins
+
+Started the one-by-one sweep with `tools/ledger.py`, which gives every entry its own verdict,
+sources, check date and note, and marks an entry **stale** if its text changes after being verified
+(so an edit cannot silently inherit an old pass).
+
+**seoul #2 JTBC Marathon — wrong start time.** Guide said 07:30; organizer and registration
+listings say **08:00**. Fixed in `seoul.md`, `README.md`, `itinerary.md` and `events.csv`. Also added
+the road-closure warning: the course runs Sangam→Yeouido→Gangnam→Jamsil across the first full
+morning, so buses/taxis are unusable until early afternoon.
+
+**seoul #11 Jujutsu Kaisen — stub upgraded.** Three lines and a bare link became: Sat 18:30 /
+Sun 14:00, 140 min, five price tiers, **ages 14+ hard cutoff**, and the observation that the Sunday
+matinee dodges the four-way Nov 7 clash.
+
+**seoul #21/#22 Craft Museum — a dead source came back.** Earlier passes recorded
+`craftmuseum.seoul.go.kr` as entirely down and left both entries stranded on a city planning PDF.
+**The site is reachable again.** #21 is now a real entry built from the museum's own exhibition list
+(three shows confirmed to run during the trip, free admission, Monday closure, no car park). #22
+stays provisional but now cites the SMG annual-plan PDF that actually names 《공예풍경(가제)》 with the
+Oct 26–Nov 15 window — and states plainly that the museum's live page does not list it yet.
+
+**Lesson: re-test dead sources.** A host that 502s during one pass may simply have been having a bad
+day. The "broken URL" list in this file is a snapshot, not a permanent verdict.

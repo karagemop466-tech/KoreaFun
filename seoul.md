@@ -137,13 +137,19 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Price:** Park admission applies; the festival programming is part of the park visit. Tel 02-500-7335.
 - **Official source (reviewed Aug 17):** [Seoul Festival Calendar — Grand Park Autumn Festival](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=465)
 
-### 21) 🧵 **Seoul Craft Museum donated-works exhibition** — ⏳ CITY PLANNING CALENDAR — Sep 21, 2026–Mar 7, 2027
-- **What:** Listed on the Seoul Metropolitan Government 2026 event schedule. Confirm the live museum page before treating hours or title as final.
-- **Official sources (reviewed Aug 17):** [SMG 2026 schedule PDF](https://english.seoul.go.kr/wp-content/uploads/2025/12/Major-Tasks-and-Event-Schedule-for-2026.pdf) · [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr)
+### 21) 🧵 **Seoul Museum of Craft Art (서울공예박물관)** — 🔎 VERIFIED PLACE — free · UPDATED
+- **What:** The city's craft museum, on the former **Anguk Palace (안동별궁) site** right beside Bukchon and a 3-min walk from Anguk Station — so it slots naturally into a Gyeongbokgung/Bukchon day. Six buildings; **admission is free**.
+- **Confirmed on the museum's own site and running during your trip:** 《안동별궁, 시간의 겹 / Folded Time, Unfolded Memory》 Apr 28, 2026 – **Aug 29, 2027** (Bldg 3, 3F) · 《漆 — 옻나무에서 칠기로》 (lacquer, from tree to vessel) Jun 27, 2025 – **Dec 31, 2026** (Bldg 2, 3F archive room) · 《자수, 염원을 그리다》 embroidery, permanent, from Dec 20, 2025 (Bldg 3, 2F).
+- **Hours:** 10:00–18:00, **closed Mondays** and Jan 1. Fridays run late (to 21:00).
+- **⚠️ No car park** — the museum deliberately runs none to protect the surrounding heritage. Take the subway to **Anguk (Line 3)**.
+- **Note on closures:** the museum periodically shuts individual exhibition halls between shows (Bldgs 1 and 2 were closed Aug 4–23, 2026, for changeover) while the guide hall and Bldg 3 stay open. Check the notice board before a special trip.
+- **Official source (reviewed Aug 18):** [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr/main) — exhibition list and closure notices. *(Earlier passes recorded this site as down; it is reachable again as of Aug 18.)*
 
-### 22) 🪑 **Seoul Craft Museum × SFAC “Craft Landscapes”** — ⏳ CITY PLANNING CALENDAR — Oct 26–Nov 15, 2026
-- **What:** Joint exhibition listed as tentative on the same SMG 2026 schedule. Not treated as a hard ticketed fact until the museum page names it.
-- **Official source (reviewed Aug 17):** [SMG 2026 schedule PDF](https://english.seoul.go.kr/wp-content/uploads/2025/12/Major-Tasks-and-Event-Schedule-for-2026.pdf)
+### 22) 🪑 **Seoul Craft Museum × SFAC “Craft Landscapes (공예풍경)”** — ⏳ PROVISIONAL TITLE, DATES FROM CITY PLAN — Oct 26–Nov 15, 2026
+- **What:** Collaboration between the Seoul Museum of Craft Art and the **Seoul Foundation for Arts and Culture**. The city's own 2026 annual plan lists it as **《공예풍경(가제)》 10.26.–11.15.** — **가제 means the title is provisional**, so the final name will likely differ.
+- **Status:** the dates come from an official SMG planning document, not a museum listing — as of Aug 18 the museum's live exhibition page did **not** yet show it. Treat the window as real but unconfirmed, and check the museum site nearer the time.
+- **If it runs, it lands well:** Oct 26–Nov 15 covers the first half of your trip, at a free museum next to Bukchon.
+- **Official sources (reviewed Aug 18):** [SMG 2026 annual plan PDF](https://news.seoul.go.kr/gov/files/2025/12/69522c6333fc12.96200217.pdf) — lists the exhibition and dates · [Museum exhibition list](https://craftmuseum.seoul.go.kr/main)
 
 ### 23) 🖼️ **SeMA — "Lynn Hershman Leeson: My [Me]s" (린 허쉬만 리슨: 나의 [나]들)** — ✅ CONFIRMED — Oct 21, 2026–Feb 21, 2027 · UPDATED
 - **What:** Major survey of the American pioneer of media, identity and early net art — the artist behind *Roberta Breitmore* and some of the first artworks to deal with surveillance and synthetic identity. A strong pairing with the Christine Sun Kim show at MMCA.

@@ -3821,13 +3821,15 @@
  "seoul.md#14": {
   "badge": "✅",
   "body_hash": "475746ed4d",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Seoul Autumn Festa umbrella program Sep 21-Nov 29 2026. Correctly framed as a platform, not a single venue.",
   "num": 14,
-  "sources": [],
+  "sources": [
+   "https://english.seoul.go.kr/holidays-and-annual-events-for-2026-in-seoul/"
+  ],
   "title": "🍁 Seoul Autumn Festa",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#15": {
   "badge": "✅",
@@ -3915,25 +3917,30 @@
  },
  "seoul.md#21": {
   "badge": "⏳",
-  "body_hash": "529b3103bb",
-  "checked_on": null,
+  "body_hash": "8c38b8ee4e",
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Rewritten. Museum site is REACHABLE again (earlier passes logged it dead). Replaced speculative planning-calendar entry with three exhibitions confirmed on the museum's own site + free admission, Mon closure, no car park.",
   "num": 21,
-  "sources": [],
-  "title": "🧵 Seoul Craft Museum donated-works exhibition",
-  "verdict": "unchecked"
+  "sources": [
+   "https://craftmuseum.seoul.go.kr/main"
+  ],
+  "title": "🧵 Seoul Museum of Craft Art (서울공예박물관)",
+  "verdict": "corrected"
  },
  "seoul.md#22": {
   "badge": "⏳",
-  "body_hash": "d4b38aea3e",
-  "checked_on": null,
+  "body_hash": "11162c666e",
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Craft Landscapes Oct 26-Nov 15: found the SMG annual-plan PDF listing 공예풍경(가제). Title is provisional; NOT yet on the museum's live page. Kept as provisional with both sources.",
   "num": 22,
-  "sources": [],
-  "title": "🪑 Seoul Craft Museum × SFAC “Craft Landscapes”",
-  "verdict": "unchecked"
+  "sources": [
+   "https://news.seoul.go.kr/gov/files/2025/12/69522c6333fc12.96200217.pdf",
+   "https://craftmuseum.seoul.go.kr/main"
+  ],
+  "title": "🪑 Seoul Craft Museum × SFAC “Craft Landscapes (공예풍경)”",
+  "verdict": "softened"
  },
  "seoul.md#23": {
   "badge": "\"L",
@@ -3985,24 +3992,28 @@
  "seoul.md#27": {
   "badge": "⏳",
   "body_hash": "ae8ce40934",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Kimjang Grand Festival correctly left TBA. 2025 was one-day Nov 22 at aT Center Hall 2, 10:00-16:30, free walk-up; 2026 unannounced. Entry already warns not to copy the 2025 date.",
   "num": 27,
-  "sources": [],
+  "sources": [
+   "https://kimjang-festa.com"
+  ],
   "title": "🥬 Korea Kimjang Grand Festival (aT Center)",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#28": {
   "badge": "⏳",
   "body_hash": "d9d024b94b",
-  "checked_on": null,
+  "checked_on": "2026-08-18",
   "file": "seoul.md",
-  "note": "",
+  "note": "Korea Sale FESTA correctly TBA with lapsed-domain warning. koreasalefesta.co.kr/.kr now serve an unrelated MEDIOS login - confirmed still true.",
   "num": 28,
-  "sources": [],
+  "sources": [
+   "https://www.korea.kr/news/policyNewsView.do?newsId=148936029"
+  ],
   "title": "🛍️ Korea Sale FESTA",
-  "verdict": "unchecked"
+  "verdict": "confirmed"
  },
  "seoul.md#29": {
   "badge": "🔎",
