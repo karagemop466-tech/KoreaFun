@@ -68,9 +68,15 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Hours/price:** Shore and island paths are free.
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · [haeundae.go.kr](https://www.haeundae.go.kr)
 
-### 11) 🚊 **Haeundae Blueline Park (Beach Train and Sky Capsule)** — 🔎 VERIFIED OPERATOR
-- **What:** Coastal tourist railway from Mipo toward Songjeong, plus the reserved Sky Capsule. November hours are shorter than summer; capsules sell out.
-- **Official source (reviewed Aug 17):** [bluelinepark.com](https://www.bluelinepark.com)
+### 11) 🚊 **Haeundae Blueline Park (Beach Train and Sky Capsule)** — 🔎 VERIFIED OPERATOR — prices confirmed · UPDATED
+- **What:** A 4.8 km coastal line built on the old Donghae Nambu railway between **Mipo — Cheongsapo — Songjeong**. Two separate things run here: the **Beach Train** at ground level, and the **Sky Capsule**, small private pods on an elevated track (Mipo↔Cheongsapo only). It passed **10 million riders in 2026**, five years after opening.
+- **⚠️ Fares rose on May 1, 2026 — these are the current official figures**, from the operator's own fare page:
+  - **Beach Train (per person):** 1 ride **₩10,000** from Mipo/Songjeong (₩8,000 from Cheongsapo or the halts) · 2 rides **₩14,000** · **all-stations ₩16,000** (up to 7 boardings, lets you go back and forth).
+  - **Sky Capsule (per capsule, one-way):** **2-seat ₩50,000 · 3-seat ₩55,000 · 4-seat ₩60,000** — so ₩25,000 each for two, dropping to ₩15,000 each for four.
+  - **Package** (Sky Capsule one-way + all-station Beach Train): **2 people ₩73,000 · 3 ₩92,000 · 4 ₩111,000** — a real saving over buying separately, and no further discounts stack.
+- **Hours:** first Beach Train **09:00**, first Sky Capsule entry **08:30** (both were moved earlier in May 2026). Last runs shift by season — the site's live panel showed 21:30/20:30 finishes in August.
+- **⚠️ Book the Sky Capsule ahead.** Capacity is tiny and it sells out; the operator takes online reservations and applies a sliding cancellation charge (free 3 days out, 50% on the day). The Beach Train you can usually walk up for.
+- **Official source (reviewed Aug 18):** [Blueline Park fare table](https://www.bluelinepark.com/fare.do) · [May 2026 fare-change notice](https://www.bluelinepark.com/noticeView.do?idx=1614) · ☎ 051-701-5548
 
 ### 12) 🌉 **Gwangalli Beach and Gwangan Bridge night lighting** — 🔎 VERIFIED PLACE
 - **What:** Beach promenade facing the Diamond Bridge. Bridge lighting is a regular municipal program; treat special weekend cue-sheets as re-check items.
@@ -88,9 +94,13 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **What:** Quieter surf beach north of Haeundae. November is a walk and, for the prepared, a wetsuit session — not a swim.
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net)
 
-### 16) 🏙️ **Busan X the Sky** — 🔎 VERIFIED OPERATOR
-- **What:** 100th-floor observatory in Haeundae’s LCT. Confirm current adult fare on the operator site (recent official figure ₩29,000).
-- **Official source (reviewed Aug 17):** [busanxthesky.com](https://www.busanxthesky.com)
+### 16) 🏙️ **Busan X the Sky** — 🔎 VERIFIED OPERATOR — ₩27,000 · UPDATED
+- **What:** Observatory on the **100th floor of the LCT Landmark Tower**, Haeundae — the highest viewpoint in Busan, looking down the beach and across to Gwangan Bridge. There's a Starbucks on 98F and an observation café.
+- **⚠️ Price correction:** this entry previously said "recent official figure ₩29,000." Busan's own tourism board and the ticketing listings both give **₩27,000 adult / ₩24,000 child and senior (65+)**. Adult = 13+, child = 3–12; under 36 months free with proof.
+- **Hours:** **10:00–21:00 daily, year-round, last ticket 20:30.** On-site ticket office opens 10 minutes early and stops selling 30 min before close.
+- **Parking:** first 2 hours free in the LCT basement, then ₩1,000 per 15 min.
+- **Note:** some aggregator listings still show the older 22:00/23:00 summer closing times — the operator's current hours are 21:00.
+- **Official sources (reviewed Aug 18):** [busanxthesky.com](https://www.busanxthesky.com/xthesky/xthesky.php) · [Visit Busan official listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000202002001000&uc_seq=996&lang_cd=ko) — states ₩27,000/₩24,000 and 10:00–21:00
 
 ### 17) 🐠 **SEA LIFE Busan Aquarium** — 🔎 VERIFIED OPERATOR
 - **What:** Aquarium under Haeundae Beach. Hours and last entry are operator-controlled.

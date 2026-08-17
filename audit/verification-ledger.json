@@ -26,14 +26,17 @@
  },
  "busan.md#11": {
   "badge": "🔎",
-  "body_hash": "93595804c3",
-  "checked_on": null,
+  "body_hash": "feed8c90e5",
+  "checked_on": "2026-08-18",
   "file": "busan.md",
-  "note": "",
+  "note": "Blueline Park: added full CURRENT fares (rose May 1 2026). Beach Train W10,000/8,000 single, W14,000 double, W16,000 all-station; Sky Capsule W50,000/55,000/60,000 per capsule; package W73,000/92,000/111,000. First train 09:00, first capsule 08:30 (both moved earlier May 2026). Sky Capsule needs advance booking, sliding cancellation fee.",
   "num": 11,
-  "sources": [],
+  "sources": [
+   "https://www.bluelinepark.com/fare.do",
+   "https://www.bluelinepark.com/noticeView.do?idx=1614"
+  ],
   "title": "🚊 Haeundae Blueline Park (Beach Train and Sky Capsule)",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "busan.md#12": {
   "badge": "🔎",
@@ -81,14 +84,17 @@
  },
  "busan.md#16": {
   "badge": "🔎",
-  "body_hash": "a4ea8a8934",
-  "checked_on": null,
+  "body_hash": "5848dfb72b",
+  "checked_on": "2026-08-18",
   "file": "busan.md",
-  "note": "",
+  "note": "PRICE ERROR FIXED: entry said W29,000; actual is W27,000 adult / W24,000 child+senior per Visit Busan official listing. Hours 10:00-21:00 last ticket 20:30 (aggregators still show old 22:00/23:00). ALSO fixed sources.md which logged the correction BACKWARDS as '27,000 -> 29,000'.",
   "num": 16,
-  "sources": [],
+  "sources": [
+   "https://www.visitbusan.net/index.do?menuCd=DOM_000000202002001000&uc_seq=996&lang_cd=ko",
+   "https://www.busanxthesky.com/xthesky/xthesky.php"
+  ],
   "title": "🏙️ Busan X the Sky",
-  "verdict": "unchecked"
+  "verdict": "corrected"
  },
  "busan.md#17": {
   "badge": "🔎",
