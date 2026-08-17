@@ -10,15 +10,17 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 
 ### 1) 🎬 **SAC on Screen: An Old Couple’s Story** — ✅ CONFIRMED SERIES — November 2026 · NEW
 - **What:** Free high-definition screening of a stage play at Changwon History and Folk Museum.
-- **When:** The official series runs Apr 8–Dec 9 with a designated Wednesday each month; the November title is *An Old Couple’s Story*. Confirm the exact November date and reservation notice before attending.
-- **Time/price:** 15:00; free.
-- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=8795)
+- **What:** Seoul Arts Center stage productions captured in high definition and screened on a big screen. November's title is the play **《늙은 부부이야기》 (An Old Couple's Story)**, a well-loved two-hander about love late in life. Korean-language.
+- **When:** The series runs **Apr 8–Dec 9, 2026**, one designated **Wednesday per month**, so the November screening falls on a Wednesday — **Nov 4, 11 or 18** all sit inside your window. The foundation posts the exact date and booking method on its notice board shortly before each screening.
+- **Where/time/price:** **Changwon History & Folk Museum, B1 screening room** · **15:00**, one showing only · **free**. Tel 055-714-7646.
+- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation — 2026 SAC on Screen](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=8795)
 
 ### 2) 🎷 **Maria Kim: Jazz Collective Morning Concert** — ✅ CONFIRMED — Nov 17, 2026 · NEW
 - **What:** November installment of the Changwon Cultural Foundation morning-concert series.
-- **Where/when:** Seongsan Art Hall Small Theater, **Tue Nov 17, 2026**.
-- **Price/time:** Check the official ticket page for start time and admission.
-- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation](https://www.cwcf.or.kr/main/main.asp?USER_agent=pc)
+- **What:** Jazz pianist **Maria Kim** and her Jazz Collective — the November edition of the foundation's *Morning Concert* series. A late-morning concert is an unusual and rather civilised way to start a day in Changwon.
+- **Where/when:** **Seongsan Art Hall Small Theater**, **Tue Nov 17, 2026 at 11:00**. Runs 60 minutes, no intermission. Ages 7+.
+- **Price:** **₩20,000 all seats.** Booking via the foundation, YES24 Ticket, or Naver; phone 055-268-7900. Online sales close **Mon Nov 16 at 17:00**.
+- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation — November Morning Concert](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=9003)
 
 ---
 

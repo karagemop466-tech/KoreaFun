@@ -15,15 +15,15 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 
 ### 1) 🖼️ **The Gyeongju: Gyeongju Chronicle** — ✅ CONFIRMED — through Dec 31, 2026 · NEW
 - **What:** Renewed immersive media-art exhibition at Gyeongju Arts Center’s Alcheon Museum, Gallery Space I.
-- **When:** **Dec 2, 2025–Dec 31, 2026**.
-- **Hours/price:** Check the exhibition detail for sessions, admission, and Monday closure.
+- **When:** **Dec 2, 2025–Dec 31, 2026**, Gallery Space I (갤러리스페이스Ⅰ), 4F.
+- **Hours/price:** **10:00–18:00, last entry 17:30. Free** — confirmed on the foundation's current-exhibition listing.
 - **Official source (reviewed Aug 17):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260)
 
 ### 2) 🎨 **2026 Gongyu exhibition-space support project** — ✅ CONFIRMED SERIES — through Dec 13, 2026 · NEW
-- **What:** Rotating regional-artist exhibitions in Alcheon Museum’s Gallery Dal and Gallery Space II.
-- **When:** Foundation program runs **Mar 24–Dec 13, 2026**; verify which artist is installed on the visit date.
-- **Price/hours:** Exhibition-specific; check the current-exhibition calendar.
-- **Official source (reviewed Aug 17):** [Gyeongju Cultural Foundation](https://garts.kr/index.do)
+- **What:** Rotating solo shows by regional artists, one after another, in Alcheon Museum's **Gallery Dal (갤러리달, B1)**. Each artist gets roughly a two-week slot, so what's hanging depends entirely on your date.
+- **When:** Foundation program runs **Mar 24–Dec 13, 2026**; check the listing for the specific artist installed during your visit.
+- **Price/hours:** **Free, 10:00–18:00** — confirmed on the foundation's current-exhibition listing.
+- **Official source (reviewed Aug 17):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260)
 
 ### 3) 🪨 **Reunited After 83 Years: Stele Fragments Found at Gyeongju Wolseong** — ✅ CONFIRMED — through Dec 31, 2026 · NEW
 - **What:** A genuinely lovely small show at **Gyeongju National Museum**: two fragments of a stone stele excavated from the western side of **Wolseong Palace** — separated for **83 years** and now displayed together again. Jointly presented by the museum and the Gyeongju National Research Institute of Cultural Heritage. It's a single-case display in the Silla Millennium Treasure House (신라천년보고) lobby, so it costs nothing and takes ten minutes, but it pairs perfectly with a Wolseong walk.

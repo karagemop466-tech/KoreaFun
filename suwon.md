@@ -24,10 +24,10 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **Official source (reviewed Aug 17):** [BeautySum Korea Suwon](https://beautysumkorea.com/beautysum/intro/)
 
 ### 2) 🌙 **Hwaseong Haenggung Night Opening: Moonlight Flower Talk** — ✅ CONFIRMED — through Nov 1, 2026
-- **What:** Seasonal evening opening of Hwaseong Haenggung.
-- **When:** **May 1–Nov 1, 2026**. Only Oct 31 and Nov 1 overlap the trip.
-- **Price/hours:** Use the city event page for final admission, closure, and weather notices.
-- **Official source (reviewed Aug 17):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main)
+- **What:** Seasonal evening opening of Hwaseong Haenggung palace — lantern-lit courtyards and heritage-linked night exhibits. Official title 《달빛화담, 花談》 ("Moonlight Flower Talk").
+- **When:** **May 1–Nov 1, 2026**, **Fridays, Saturdays and Sundays** (plus public holidays), **18:00–21:30**. Your trip starts Sat Oct 31, so **only Sat Oct 31 and Sun Nov 1 qualify — the very last two nights of the season.**
+- **Price:** **₩2,000 adults · ₩1,500 teens and military · ₩1,000 children.** Tel 031-290-3613.
+- **Official sources (reviewed Aug 17):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main) · [Suwon Cultural Foundation](https://www.swcf.or.kr/?p=260)
 
 ### 3) 🧬 **Patricia Piccinini: Kinship** — ✅ CONFIRMED — through Nov 1, 2026 · NEW
 - **What:** International exhibition exploring relationships among humans, technology, nature, care, and imagined life forms.
@@ -49,21 +49,22 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 6) 🌱 **Thumbelina: A Girl Born from a Flower** — ✅ CONFIRMED — through Nov 15, 2026 · NEW
 - **What:** Story-based botanical exhibition using plants and insects from Hans Christian Andersen’s *Thumbelina*.
-- **Where/when:** Ilwol Arboretum; **Apr 28–Nov 15, 2026**.
+- **Where/when:** **Ilwol Arboretum (일월수목원)**; **Apr 28–Nov 15, 2026** — confirmed on the city event portal. Ends a week before you fly home.
 - **Price:** Arboretum admission applies.
-- **Official source (reviewed Aug 17):** [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do?ctrSeqNo=&listType=ing&q_groupCd=&q_sortName=hit&q_currPage=1)
+- **Official source (reviewed Aug 17):** [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do?listType=ing&q_sortName=hit&q_currPage=1)
 
 ### 7) ⚫ **Blanc Black Panorama** — ✅ CONFIRMED — through Mar 1, 2027 · NEW
 - **What:** Suwon Museum of Art collection exhibition organized around black and white as visual and conceptual axes.
-- **Where/when:** Suwon Museum of Art; **Feb 12, 2026–Mar 1, 2027**.
-- **Price/hours:** Check the museum’s current-exhibitions page.
+- **Where/when:** **Suwon Museum of Art (수원시립미술관)**, by Haenggung; **Feb 12, 2026–Mar 1, 2027** — confirmed on both the museum's current-exhibition page and the city portal, so it comfortably spans your trip.
+- **Price/hours:** Check the museum's current-exhibitions page; closed Mondays.
 - **Official sources (reviewed Aug 17):** [museum current exhibitions](https://suma.suwon.go.kr/exhi/current_list.do) · [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do)
 
 ### 8) 🍽️ **Lady Hyegyeong’s Bongsudang Banquet exhibition** — ✅ CONFIRMED — through Dec 31, 2026 · NEW
 - **What:** Standing exhibition at Suwon Traditional Culture Center interpreting the royal banquet held for Lady Hyegyeong during King Jeongjo’s 1795 visit.
-- **When:** Official foundation calendar lists it through **Dec 31, 2026**.
+- **When:** Confirmed on the foundation's event calendar as a **standing exhibition running Dec 24, 2024 – Dec 31, 2026** — so it will certainly be open during your visit.
+- **Where:** Suwon Traditional Culture Center, **permanent exhibition room inside the food-culture experience hall** (식생활체험관 상설전시실). The center also runs hands-on Korean cooking programs, which need separate booking.
 - **Hours/price:** Verify center hours and any program reservation.
-- **Official source (reviewed Aug 17):** [Suwon Cultural Foundation event calendar](https://www.swcf.or.kr/?p=29)
+- **Official source (reviewed Aug 17):** [Suwon Cultural Foundation — event detail](https://www.swcf.or.kr/?p=29_view&idx=2776&listUrl=29&curYear=2026&curMonth=8)
 
 ---
 

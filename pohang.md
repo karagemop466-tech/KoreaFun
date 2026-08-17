@@ -170,8 +170,9 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ### 29) 🎆 **Pohang International Fire & Light Festival** — ⏳ DATES ON VISITKOREA 2026 CALENDAR — Fri Nov 20–Sun Nov 22, 2026 · NEW
 - **What:** Pohang’s recurring fireworks and light festival at Yeongildae Beach and related city sites. VisitKorea’s 2026 festival calendar lists **Nov 20–22, 2026**. The same page still says program copy is from **2025** and that 2026 content is being updated — so treat the show lineup as unconfirmed.
-- **Price:** Listed free on the VisitKorea festival page.
-- **Official sources (reviewed Aug 17):** [VisitKorea festival page](https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8) · [Pohang Cultural Foundation festival site](https://festival.phcf.or.kr/fireWorks/intro.do)
+- **Where/price:** Yeongildae Beach (영일대해수욕장), **free**. Tel 054-289-7852.
+- **⚠️ Link note (Aug 17):** the organizer's old festival microsite (`festival.phcf.or.kr`) now 404s, so VisitKorea is currently the only live listing. Re-check the foundation site nearer the date for the 2026 lineup and rain plan.
+- **Official sources (reviewed Aug 17):** [VisitKorea festival page](https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8) · [Pohang Cultural Foundation](https://www.phcf.or.kr)
 
 ---
 

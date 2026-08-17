@@ -5,7 +5,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 > 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 562 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan) plus a few newly sourced nearby-city November 2026 items. Counts will change only when unsupported entries are removed or official-source entries are added.
+> **Current inventory:** 563 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan) plus a few newly sourced nearby-city November 2026 items. Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,13 +13,13 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**562 numbered sections** across 14 city files; protocol pass complete)
+## 📂 What's in this repo (**563 numbered sections** across 14 city files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | **89 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources |
+| [`seoul.md`](seoul.md) | **90 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources |
 | [`busan.md`](busan.md) | **49 numbered activity sections** for Busan — rebuilt Aug 17, 2026 against official sources |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | **44 numbered activity sections** for Daejeon & Cheonan (plus labeled Asan / Gongju / Buyeo day trips) |
 
@@ -86,6 +86,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | ~Nov 9–15 | KBO **Korean Series** (baseball finals, may end before you land) | TBD (watch Seoul/Daejeon/Busan) | 👀 |
 | Thu Nov 12–13 | Bavarian Radio Symphony w/ Sir Simon Rattle (Seoul Arts Center) | Seoul | ✅ |
 | Fri Nov 13 | Ulsan Philharmonic 254th subscription concert | Ulsan | ✅ |
+| Tue Nov 17 | Maria Kim Jazz Collective morning concert, 11:00 (₩20,000) | Changwon | ✅ |
 | Sat Nov 14 | Jason Mraz · LoL Worlds 2026 Grand Final (watch at a PC Bang) | Seoul (KINTEX) | ✅ |
 | **Sat–Sun Nov 14–15** | **🏆 Melon Music Awards MMA 2026 (first-ever 2-day edition)** | Seoul (Gocheok Sky Dome) | ✅ |
 | Early–mid Nov (TBA) | Seoul Kimjang Festival · Kimjang Grand Festival (aT) · Noodle Daejeon Festival | Seoul / Daejeon | ⏳ |

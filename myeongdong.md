@@ -24,10 +24,11 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 - **Official source (reviewed Aug 17):** [National Theater Company performance page](https://www.ntck.or.kr/ko/performance/info/257325)
 
 ### 2) 🖼️ **GanaArt Collection: Beneath Technology—Scenes at the Threshold** — ✅ CONFIRMED — through Nov 22, 2026 · NEW
-- **What:** Confirmed 2026 exhibition at the Seoul Museum of Art’s Seosomun Main Branch, an easy walk from Myeong-dong.
-- **When:** **Apr 16–Nov 22, 2026**, covering the entire trip and closing on departure day.
-- **Hours/price:** SeMA lists Tue–Thu 10:00–20:00, Friday to 21:00, and winter weekends/holidays 10:00–18:00. General admission is normally free; check the exhibition page for exceptions.
-- **Official source (reviewed Aug 17):** [SeMA Seosomun branch](https://sema.seoul.go.kr/en/visit/seosomun)
+- **What:** Exhibition drawn from the GanaArt Collection, on the theme of technology and the scenes that sit at its edges. Korean title 《기술의 저변: 경계에 선 장면들》.
+- **When:** **Apr 16–Nov 22, 2026** — confirmed on SeMA's current-exhibition listing. It covers your whole trip and closes on departure day.
+- **Where:** Seoul Museum of Art **Seosomun Main Branch**, about a 10-minute walk west of Myeong-dong.
+- **Hours/price:** SeMA lists Tue–Thu 10:00–20:00, Fri to 21:00, weekends/holidays 10:00–18:00 in winter. **Closed Mondays.** Admission to SeMA's own collection shows is normally free.
+- **Official sources (reviewed Aug 17):** [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) · [SeMA Seosomun branch](https://sema.seoul.go.kr/en/visit/seosomun)
 
 ### 3) 🥁 **Myeongdong NANTA** — ⏳ RE-CHECK NOVEMBER 2026
 - **What:** Long-running non-verbal percussion and comedy show in the Myeongdong NANTA Theatre.

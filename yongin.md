@@ -52,10 +52,10 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **Hours/price:** Check the museum page for gallery access and any program-specific reservation.
 - **Official source (reviewed Aug 17):** [Nam June Paik Art Center](https://njp.ggcf.kr/)
 
-### 7) 🌍 **Hyundai Translocal Series** — ✅ CONFIRMED — Nov 5, 2026–Mar 28, 2027 · NEW
+### 7) 🌍 **Hyundai Translocal Series** — ⏳ ANNOUNCED BUT UNLISTED — Nov 5, 2026–Mar 28, 2027 · NEW
 - **What:** Jointly planned exhibition by Nam June Paik Art Center and Pinacoteca de São Paulo exploring “translocal” ideas.
 - **When:** **Nov 5, 2026–Mar 28, 2027**, opening during the trip.
-- **⚠️ Status note (Aug 17):** the dates come from the Gyeonggi Cultural Foundation’s annual program announcement; this show had **not yet appeared on NJP’s own exhibition list** (which showed only the four current shows) at review. Treat the opening date as planned-but-unlisted and re-check NJP directly before making the trip.
+- **⚠️ Status note (re-checked Aug 17):** the dates come from the Gyeonggi Cultural Foundation's annual program announcement. **Checked NJP's own exhibition page a second time — this show is still absent, and NJP's "Upcoming exhibitions" (예정 전시) section is completely empty.** Its four listed shows are 장윤영 (to Nov 11), 별 괘卦 (to Feb 2027), 달들 (to Oct 4) and 백남준의 도시 (to Oct 31). **Downgraded from CONFIRMED.** Do not build a day around this one; treat NJP as worth visiting for 별 괘卦, which definitely runs through your window.
 - **Official sources (reviewed Aug 17):** [Gyeonggi Cultural Foundation 2026 program announcement](https://ggc.ggcf.kr/p/698c641f325a86b151c6f6ce) · [NJP exhibitions](https://njp.ggcf.kr/exhibitions)
 
 ### 8) 🎨 **Art Spectrum 2026** — ✅ CONFIRMED — Sep 1–Dec 27, 2026 · NEW
@@ -68,9 +68,10 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 
 ### 9) ⚽ **Together, Kick Off: Our Football City Yongin** — ✅ CONFIRMED — through Dec 6, 2026 · NEW
 - **What:** Municipal exhibition at Yongin City Museum about the city’s football culture.
-- **When:** **Mar 20–Dec 6, 2026**.
-- **Hours/price:** Check the city event listing and museum notices before visiting.
-- **Official source (reviewed Aug 17):** [Yongin City event calendar](https://www.yongin.go.kr/user/web/eventyt/BD_selectClturEventPfmcytList.do?q_clCode=2)
+- **When:** **Mar 20–Dec 6, 2026** — confirmed on the city's event portal, which lists this as the single current exhibition-type event in Yongin.
+- **Where/price:** **Yongin City Museum** (용인시박물관). Tel 031-6193-4796. Municipal museum, normally free or nominal.
+- **Context:** Yongin is a genuine football town — it hosts Yongin FC and the Yongin Mireu Stadium — so this is a local-pride exhibition rather than a general sports-history show.
+- **Official source (reviewed Aug 17):** [Yongin City event detail](https://www.yongin.go.kr/user/web/eventyt/BD_selectClturEventPfmcyt.do?q_clCode=2&q_esn=473)
 
 ---
 

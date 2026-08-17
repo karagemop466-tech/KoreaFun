@@ -26,18 +26,18 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **What:** Results exhibition by Daegu Art Factory resident artists.
 - **When:** **Oct 27–Nov 15, 2026**.
 - **Hours/price:** Check gallery visitor information; normally closed Monday.
-- **Official source (reviewed Aug 17):** [Daegu Art Factory annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php)
+- **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
-### 4) 🎭 **SAC on Screen: Othello** — ✅ CONFIRMED — Nov 7, 2026 · NEW
-- **What:** High-definition screening of a staged production of *Othello*.
-- **Where/when:** Daegu Art Factory Suchang Hall, **Sat Nov 7, 2026**, normally 14:00 in this series.
-- **Price:** Verify reservation; the screening series is commonly free.
-- **Official source (reviewed Aug 17):** [Daegu Art Factory annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php)
+### 4) 🎭 **SAC on Screen: Othello** — ✅ CONFIRMED — Sat Nov 7, 2026 · NEW
+- **What:** Screening no. 15 in the Seoul Arts Center's *SAC on Screen* series — a high-definition capture of the SAC's staged *Othello*, shown on a big screen. Korean-language staging; assume Korean-only subtitling.
+- **Where/when:** **Daegu Art Factory** (대구예술발전소), **Sat Nov 7, 2026**. The venue's own annual calendar lists the date; confirm start time and whether reservation is needed on the notice board closer to the day.
+- **Price:** SAC on Screen programs are normally free, but Daegu Art Factory had not posted the November booking notice at review — verify.
+- **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
 ### 5) 🧵 **RE:ART Project Part 2 — Daegu Intangible Heritage** — ✅ CONFIRMED — through Nov 8, 2026 · NEW
 - **What:** Exhibition/project at Suchang Youth Mansion focused on Daegu’s intangible heritage.
 - **When:** **Sep 8–Nov 8, 2026**.
-- **Official source (reviewed Aug 17):** [Daegu Art Factory annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php)
+- **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
 ---
 

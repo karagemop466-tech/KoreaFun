@@ -19,20 +19,20 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 
 ### 1) 🥁 **Hanok Village Traditional Yeonhui Parade** — ✅ CONFIRMED — Oct 31, 2026
 - **What:** Street-theater parade incorporating Jeonju Gijeopnori flag performance, traditional outdoor theater, and audience interaction.
-- **When:** The official 2026 listing runs Saturdays from **Apr 18–Oct 31 at 15:00**; the final performance falls on the trip’s first day.
-- **Where/price:** Hanok Village route; free street viewing. Confirm weather cancellation on the day.
+- **When:** The official 2026 listing runs **Saturdays, Apr 18–Oct 31, at 15:00 (60 min)** — the final performance of the season falls on **Sat Oct 31, the trip's first day**.
+- **Where/price:** Parade route runs **Namcheongyo Bridge → Gyeonggijeon** through the Hanok Village; free street viewing. Confirm weather cancellation on the day.
 - **Official source (reviewed Aug 17):** [Visit Jeonju](https://tour.jeonju.go.kr/index.jeonju)
 
 ### 2) ✨ **Gyeonggijeon Starlight Walk (경기전 별빛누빔)** — ✅ CONFIRMED — Fridays through Nov 2026 · NEW
 - **What:** Timed evening cultural program inside Gyeonggijeon, presenting the shrine after normal daytime hours.
-- **When:** Official listing says June–November on **Fridays**; September–November entry sessions are 19:30 and 20:30. Trip-window Fridays are Nov 6, 13, and 20.
+- **When:** Official listing confirms **June–November, Friday nights only**. For **September–November the two entry sessions are 19:30 and 20:30** (earlier in the year they ran an hour later). Trip-window Fridays are **Nov 6, 13 and 20**. Capacity is limited per session, so book rather than turn up.
 - **Price/booking:** Advance reservation may be required; check the event page for capacity and weather notices.
 - **Official source (reviewed Aug 17):** [Visit Jeonju 2026 listing](https://tour.jeonju.go.kr/index.jeonju)
 
-### 3) 🎶 **Jeonju Daesaseupcheong Saturday Regular Performance** — ✅ CONFIRMED SERIES — May–Nov 2026 · NEW
+### 3) 🎶 **Jeonju Daesaseupcheong Saturday Regular Performance** — ⏳ SERIES LISTED, NOVEMBER DATES UNPOSTED — May–Nov 2026 · NEW
 - **What:** Regular traditional-music performance series at Jeonju Daesaseupcheong.
-- **When:** The official Hanok Village calendar lists it **May–November, every Saturday**. Confirm the individual November program and time before attending.
-- **Price:** Program-specific; some regular performances are free.
+- **When:** The Hanok Village calendar lists the series as **May–November, Saturdays**. **⚠️ Re-checked Aug 17: the tourism site's related Saturday listing (at the Jeonju Sago pavilion inside Gyeonggijeon, 14:00 and 15:00) is documented only through the earlier part of the season, and no November date list has been posted yet.** Treat this as likely-but-unconfirmed and check on arrival.
+- **Price:** Program-specific. The comparable Gyeonggijeon Saturday performance is free, though Gyeonggijeon admission is charged separately.
 - **Official sources (reviewed Aug 17):** [Hanok Village program calendar](https://hanok.jeonju.go.kr/) · [Visit Jeonju event calendar](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000202002000000)
 
 ### 4) 🧘 **Return to the Ritual Hall: The Nahan (Arhat) Statues of Jeonju Seogosa** — ✅ CONFIRMED — Sep 16–Nov 29, 2026 · NEW
