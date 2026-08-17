@@ -395,7 +395,8 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ### 78) ⚽ **Seoul E-Land FC (K League 2)** — ✅ CONFIRMED — Sat Nov 7 & Sun Nov 22, 2026
 - **What:** Home games at **Mokdong Stadium** (목동 레울파크), an easy Line 5 trip. E-Land were 2nd in K League 2 in mid-August 2026, so November games are promotion-race matches.
-- **When:** **Sat Nov 7 vs Jeonnam Dragons (R32)** and **Sun Nov 22 vs Chungnam Asan (R33)**, both **16:30**. Note Nov 22 is your departure day — only workable on a late flight.
+- **When:** **Sat Nov 7 vs Jeonnam Dragons (R32), 16:30** and **Sun Nov 22 vs Chungnam Asan (R33), 16:30** — both at Mokdong, both fixtures confirmed against the league schedule.
+- ⚠️ **Nov 7 is the single most contested evening of the trip** (Busan Fireworks · KGMA Day 1 · MCR at Paradise City). Nov 22 is your **departure day** — only workable on a late flight, and note R34 falls on Nov 29 after you leave, so a promotion-race finish may make R33 a bigger occasion than usual.
 - **Tickets:** The club opens ticketing roughly 5 days before each match; check the match page for the exact on-sale time.
 - **Official sources (reviewed Aug 17):** [seoulelandfc.com match schedule](https://www.seoulelandfc.com/match/schedule) · [kleague.com](https://www.kleague.com/schedule.do)
 

@@ -26,13 +26,13 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | Day | Date | Base | Plan (with alternatives) |
 |---|---|---|---|
 | 1 | **Sat Oct 31** | Seoul | Land at ICN → settle in. If you landed early, a 🚌 city tour bus loop orients you fast; otherwise evening: DDP Dream in Light (free) or Seoul Plaza. 🏐 V-League season opens today — check [kovo.co.kr](https://www.kovo.co.kr) once fixtures drop (~late Sep) for an opening-weekend match |
-| 2 | **Sun Nov 1** | Seoul | 🏃 07:30 — watch the **JTBC Seoul Marathon** start (Sangam World Cup Park) · 📚 Seoul Outdoor Library's **final day** (Gwanghwamun) · 🎭 *Dear Evan Hansen* only if NOL still lists a Nov 1 close. Evening: 🏮 **Changgyeonggung** night walk — **re-check** whether fall Mulbit Yeonhwa is actually running |
+| 2 | **Sun Nov 1** | Seoul | 🏃 07:30 — watch the **JTBC Seoul Marathon** start (Sangam World Cup Park) · 📚 Seoul Outdoor Library's **final day** (Gwanghwamun) · 🎭 *Dear Evan Hansen* only if NOL still lists a Nov 1 close. Evening: 🏮 **Changgyeonggung Mulbit Yeonhwa** — ✅ confirmed running (autumn run to Nov 8, from 16:40; closed Mondays). ⚠️ The 8-scene full show needs dry weather: ≥3 mm forecast at 13:00 cancels scenes 2 and 5 |
 | 3 | Mon Nov 2 | Seoul | Gyeongbokgung + hanbok (free entry) + guard ceremony 10:00 · Bukchon walking tour (reserve on sto.or.kr) · Mulbit Yeonhwa if you missed it |
 | 4 | **Tue Nov 3** | Seoul | Morning: 🍂 **Changdeokgung Huwon** at peak foliage (book the moment your slot opens — 6 days out!) · afternoon: 🎨 **BANKSY: Still Here — LAST DAY** (The Hyundai Seoul, Yeouido — prebook!). Evening: Hongdae PC bang |
 | 5 | Wed Nov 4 | Seoul | Free Seoul Plaza concert ~18:30 (✅ recurring Wednesdays) · daytime option: 🥬 **Museum Kimchikan** kimchi-making class (Insadong; reserve EN slot) · evening alt: 🚢 **Han River sunset cruise** from Yeouido |
 | 6 | Thu Nov 5 | Seoul | Flex day: NANTA or THE PAINTERS show · 🥟 **Gwangjang Market** dinner · Myeongdong shopping (Korea Sale FESTA ⏳ likely active) · Lotte World Halloween zones ⏳ |
 | 7 | **Fri Nov 6** | → Daejeon | Morning KTX (50 min) — 🥖 **Sungsimdang** bakery stop near Daejeon Station first! 🍷 **Wine EXPO Day 1** (DCC + Hanbit Tower) · evening Yuseong hot springs |
-| 8 | **Sat Nov 7** | ⚡ CHOICE DAY | **A)** 🍜 Wine EXPO Day 2, Daejeon (✅) + Noodle Festival *only if* 2026 dates land here (⏳ unannounced; 2025 was Nov 7–9) · **B)** 🎆 **Busan Fireworks Festival** (KTX 2.5 hrs — leave early, back late) · **C)** 🏆 **KGMA Day 1** at Gocheok Sky Dome (Seoul; lineup/tickets ~Oct) |
+| 8 | **Sat Nov 7** | ⚡ CHOICE DAY | **A)** 🍜 Wine EXPO Day 2, Daejeon (✅) + Noodle Festival *only if* 2026 dates land here (⏳ unannounced; 2025 was Nov 7–9) · **B)** 🎆 **Busan Fireworks Festival** (KTX 2.5 hrs — leave early, back late) · **C)** 🏆 **KGMA Day 1** at Gocheok Sky Dome (Seoul) · **D)** 🎵 **My Chemical Romance** at Paradise City, Incheon 19:00 (⚠️ effectively sold out) · **E)** ⚽ Seoul E-Land vs Jeonnam 16:30 (Mokdong). **Five confirmed events, one evening — pick one and let the rest go.** |
 | 9 | **Sun Nov 8** | Cheonan → Seoul | ⚽ **Cheonan City FC vs Busan IPark, 14:00** (35 min KTX from Seoul) · 🍷 Wine EXPO final day if you stayed. Back to Seoul evening |
 | 10 | Mon Nov 9 | Seoul | Rest day — or a 🧘 **templestay** night (Hwagyesa/Bongeunsa, book weeks ahead on templestay.com). 👀 FIFA window opens (~Nov 9–17) — if a Korea friendly is announced, grab tickets via Ticketlink |
 | 11 | Tue Nov 10 | Seoul | 🎨 **Leeum Museum** (Inside Other Spaces ends Nov 29) + Itaewon · MMCA Seoul closed Mondays only, open Tue |
@@ -46,8 +46,8 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | 19 | **Wed Nov 18** | Seoul | 🎶 **Kings of Convenience** (Sejong Center) · Seoul Plaza free concert #3 · pack for Busan |
 | 20 | **Thu Nov 19** | → Busan | Morning KTX (2.5 hrs). 🎮 **G-STAR 2026 Day 1** (BEXCO) — go Friday-light, crowds build on weekends. ⚠️ 5SOS plays KINTEX tonight if you skipped G-STAR |
 | 21 | **Fri Nov 20** | Busan | 🎮 G-STAR Day 2 (or a 🧖 Spa Land Centum morning — 1 stop from BEXCO) · evening: 📺 **MAMA Awards live stream** (Osaka, free via Mnet Plus) at the hotel or pub |
-| 22 | **Sat Nov 21** | Busan | ⚡ CHOICE: ⚽ **Busan IPark vs Chungnam Cheongju, 14:00** (Gudeok) + G-STAR Day 3 · or full G-STAR · evening: 🛩️ **drone show 19:00 & 21:00 at Gwangalli** (free, weekly) |
-| 23 | **Sun Nov 22** | Busan → home | 🎮 G-STAR Day 4 morning → KTX back if: ⚽ **Seoul E-Land season finale 16:30** (Mokdong) or 🥬 **Kimjang Grand Festival** lands today (2025 pattern) → ICN |
+| 22 | **Sat Nov 21** | Busan | ⚡ CHOICE: ⚽ **Busan IPark vs Chungbuk Cheongju (충북청주), 14:00** (Gudeok) + G-STAR Day 3 · or full G-STAR · evening: 🛩️ **drone show 19:00 & 21:00 at Gwangalli** (free, weekly) |
+| 23 | **Sun Nov 22** | Busan → home | ⚠️ **Departure day — be realistic.** Busan→Seoul KTX is 2.5 hrs and ICN is another ~1.5 hrs beyond that. G-STAR Day 4 morning at BEXCO is feasible; adding ⚽ E-Land's 16:30 finale at Mokdong is **not** unless your flight is very late. 🖼️ Incheon ArtShow (INAS) also runs today and is the one option actually *near* the airport |
 
 ---
 

@@ -355,3 +355,61 @@ error rather than silently substituting the right value.
 covers `### N)` entries. The two guide files that carry the most day-of-operational detail
 (`walking-maps.md`, `travel-basics.md`) have no badges and had therefore never been checked once.
 `travel-basics.md` (8 remaining ₩ claims) is the next target.
+
+---
+
+## Pass 11 — verifying the claims the traveler actually acts on
+
+Pass 10 showed the badge system hides unverified material. Pass 11 applies that lesson to the
+570 entries themselves. Verifying all 570 by hand is not achievable in one sitting, so the pass
+triages by **consequence**: a wrong opening time for a free park costs nothing, a wrong date for a
+₩175,000 sold-out concert costs the trip. Two new tools rank the work instead of guessing:
+
+- `tools/risk_triage.py` — flags entries by hallucination risk signals (asserts a 2026 date, sourced
+  only from an aggregator, no official domain, bare-homepage "proof"). 360 of 570 carry at least one
+  flag; 238 rest on a bare homepage, which cannot prove an event exists.
+- `tools/clash_check.py` — finds single-day events colliding across city files. Per-entry review can
+  never catch these, because each entry is individually correct.
+
+### travel-basics.md — the other unbadged file
+
+Same blind spot as `walking-maps.md`. Corrections: T-money card fee (~₩3,000–4,000, non-refundable,
+not "~₩4,000"); KTX Seoul–Busan pinned at **₩59,800** with the ₩52,600 SRT alternative; taxi entry
+gained the **22:00–04:00 surcharge (40% at 23:00–02:00)** and out-of-city surcharge.
+
+The serious fix was the Climate Card. Prices were right, but the entry said only "excludes KTX and
+intercity buses" — omitting that **the Incheon Airport AREX stretch is not covered** (only Gimpo–Seoul
+Station), nor AREX Express, nor the Shinbundang Line, nor GTX, nor 광역 buses. A traveler landing at
+ICN on Oct 31 holding a Climate Card would have been stuck at the gate.
+
+### Confirmed correct — no change
+
+Busan Fireworks **Nov 7** (busanfireworks.com's own countdown), G-STAR **Nov 19–22**, MMA **Nov 14–15**,
+Cafe Show **Nov 11–14**, Busan Biennale **Aug 29–Nov 1**, Sculpture Festival exhibition **to Nov 30**,
+Folk Village night season **to Nov 15**, palace fees **₩3,000** (+₩5,000 Huwon), Cheonan FC **Nov 8**,
+Busan IPark **Nov 21 vs Chungbuk Cheongju**, E-Land **Nov 7 vs Jeonnam 16:30**.
+
+### Wrong or dangerously incomplete — fixed
+
+| Entry | Problem |
+|---|---|
+| incheon #43 MCR | Date right, but entry omitted that it was **postponed from Apr 18** and is **effectively sold out**. Added prices and ualive's resale-voiding policy. |
+| seoul #5 KGMA | "Organizer announcement" with no link → replaced with official `kgma-is.com`. That site still shows **stale Inspire Arena shuttle info** from the prior edition; flagged. |
+| seoul #9 Jason Mraz | Bare artist page → NOL listing with hall, 19:00, standing-only prices. |
+| seoul #13 MMCA | Vague "site-specific digital work" → full title, artist, 72-panel OLED spec. |
+| yongin #2/#3 | **No mention of the 13+ age limit** or health restrictions on either horror attraction. |
+| itinerary Nov 21 | Said "Busan IPark vs **Chungnam** Cheongju" — not a real club. `busan.md` and README both correctly say **Chungbuk** Cheongju. Exactly the 충북/충남 conflation `AUDIT-FINDINGS.md` warns about, surviving in the one file a traveler reads on the day. |
+| itinerary Nov 1 | Still told the reader to "**re-check** whether Mulbit Yeonhwa is running" — Pass 8 resolved that weeks ago. Replaced with the confirmed run plus the rain rule. |
+
+### What the clash detector found
+
+**Nov 7 holds five confirmed events across four cities** — Busan Fireworks, KGMA Day 1, MCR at
+Paradise City, E-Land vs Jeonnam, plus Wine EXPO Day 2. Every entry was individually accurate and
+none of them said so. The itinerary now lists all five and states plainly that four must be dropped.
+
+**Nov 22 is departure day** and carried four events including E-Land's 16:30 finale in Seoul while the
+plan has the traveler in Busan — Busan→Seoul is 2.5 hrs, ICN another ~1.5. Marked unrealistic, with
+Incheon ArtShow noted as the one option actually near the airport.
+
+**Structural lesson:** correctness per entry is not correctness of the guide. Both of these were
+composition errors invisible to any per-entry check.
