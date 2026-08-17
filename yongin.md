@@ -62,10 +62,10 @@
 
 ### 7) 🏘️ Korean Folk Village (한국민속촌) — ✅ CONFIRMED — daily
 - **What:** Massive living Joseon-era village (b. 1973) with 250+ relocated traditional houses, a Joseon Living History Theater, farmers' music shows, mask dances, traditional wedding reenactments, and craft demonstrations (pottery, weaving, blacksmithing). Operates year-round with seasonal themes.
-- **Hours:** Tue–Sun **09:30–18:00** (Nov winter 9:30–17:30); closed Mondays
-- **Price:** Adult **₩25,000** (~$18); K-pop Music Drama tickets extra (~₩30,000)
-- **Official sources:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [yongin.go.kr](http://www.yongin.go.kr)
-- **Beginner notes:** Pair Suwon + Folk Village day trip. Shaded hanok house courtyards; full visit takes 4–6 hours. Take snacks for kids; in-park food pricey.
+- **Hours:** **Open daily, no weekly closing day** — hours flex by month and are posted as a monthly notice. In November the village has run **Mon–Thu 10:00–18:00** and **Fri/Sat/Sun/holidays 10:00–20:00**, extended to **22:00** for the first ~9 days while the night opening is still running. **Ticket desk closes 1 hour before.** ⚠️ Check the month's notice before you travel
+- **Price:** Full-day pass (includes the 놀이마을 rides) adult/teen **₩37,000**, child 36 mths–elementary **₩30,000**, 65+/disabled **₩26,000**; under 36 months free with ID. **After-4pm ₩19,000 and after-6pm ₩17,000 evening passes** are sold online at ~50% off. Parking ₩3,000 large / ₩2,000 small
+- **Official sources:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [tickets & evening passes](https://www.koreanfolk.co.kr/ticket) · [monthly hours notices](https://www.koreanfolk.co.kr/operation/notice) · [yongin.go.kr](http://www.yongin.go.kr)
+- **Beginner notes:** Pair Suwon + Folk Village day trip. Full visit takes 4–6 hours. **Buy online, never at the gate** — the walk-up price is the full ₩37,000 while online/evening passes run ₩17,000–19,000. Take snacks for kids; in-park food pricey.
 
 ### 8) 🎭 Korean Folk Village K-Pop Music Drama (KPMD) — 👀 WATCH (Nov runs likely)
 - **What:** Live-action K-pop historical musical revue combining K-pop hits with traditional Joseon plot; performed on outdoor festival stage
@@ -364,7 +364,7 @@
 ### 49) 🏊 **Yongin City Sports Complex Public Pool — 🔁 daily**
 - **What:** Public indoor swimming pool
 - **Hours:** Daily 06:00–22:00
-- **Price:** ~₽4,000–6,000
+- **Price:** ~₩4,000–6,000
 - **Official source:** [yongin.go.kr](http://www.yongin.go.kr)
 
 ### 50) 🎾 **Yongin Tennis Courts & Badminton — 🔁 daily**
@@ -483,27 +483,27 @@
 ### 69) 🍲 **Yongin Famous Soybean Stew (순두부찌개) — 🔁 daily**
 - **What:** Regional sources of Gyeonggi-do style *soondubu*
 - **Hours:** Daily 09:00–21:00
-- **Price:** ~₽8,000 per bowl
+- **Price:** ~₩8,000 per bowl
 
 ### 70) 🍡 **Gangnamw Ancient Café Alley — 🔁 daily**
 - **What:** Modern café street in Yongin with indie roasters
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽5,000–7,000 per cup
+- **Price:** ~₩5,000–7,000 per cup
 
 ### 71) 🍞 **Yongin Bread Museum (빵 박물관) — 🔁 Tue–Sun**
 - **What:** Bakery museum west of Folk Village
 - **Hours:** Tue–Sun 11:00–18:00
-- **Price:** ~₽3,000
+- **Price:** ~₩3,000
 
 ### 72) 🍵 **Yongin Premium Korean Tea Cafe (택불 카페) — 🔁 daily**
 - **What:** Traditional tea house near Folk Village
 - **Hours:** Daily 11:00–21:00
-- **Price:** ₽5,000–10,000
+- **Price:** ₩5,000–10,000
 
 ### 73) 🥢 **Yongin Mandoo (Dumpling) District — 🔁 daily**
 - **What:** 20+ places serving classic pork & kimchi mandu
 - **Hours:** Daily 11:00–22:00
-- **Price:** ~₽10,000 per serving
+- **Price:** ~₩10,000 per serving
 
 ### 74) 🥬 **Yongin Kimchi Factory Tour & Tasting — 👀 WATCH weekends**
 - **What:** Local kimjang-style kimchi factory in Bora-dong
@@ -513,7 +513,7 @@
 ### 75) 🍱 **Yongin Bibimbap Multi-Restaurant Block — 🔁 daily**
 - **What:** Bibimbap specialty zone
 - **Hours:** Daily
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 
 ### 76) 🍺 **Yongin Local Brewery Tap Room — 👀 WATCH seasonal**
 - **What:** Modern craft brewery & restaurant
@@ -582,7 +582,7 @@
 ### 89) 💆 **Yongin Korean-style Thai Massage Alley — 🔁 daily**
 - **What:** Massage + sauna combo clinic
 - **Hours:** Daily 10:00–22:00
-- **Price:** ₽30,000–90,000
+- **Price:** ₩30,000–90,000
 
 ### 90) 🧘 **Yongin Buddhist Monastery (용인 법집사) — 🔁 daily (FREE)**
 - **What:** Quiet Zen monastery just south of downtown
@@ -592,17 +592,17 @@
 ### 91) ♨️ **Yongin Premium Sauna Village — 🔁 daily**
 - **What:** Multiple premium jjimjilbang within a small neighborhood
 - **Hours:** Daily
-- **Price:** ~₽15,000–25,000
+- **Price:** ~₩15,000–25,000
 
 ### 92) 🥋 **Yongin Jeet Kune Do Class (wtf) — 👀 WATCH (weekends)**
 - **What:** Modern martial arts classes and demonstrations
 - **Hours:** Weekends
-- **Price:** ~₽30,000
+- **Price:** ~₩30,000
 
 ### 93) 🎭 **Yongin Little Theatre (소극장) — 👀 WATCH weekends**
 - **What:** Indie theater space in Yongin downtown
 - **Hours:** Weekends 19:00
-- **Price:** ~₽15,000–25,000
+- **Price:** ~₩15,000–25,000
 
 ### 94) 🎨 **Yongin Hwangnam Public Library Art Hall — 👀 WATCH**
 - **What:** Library exhibition hall in the Yongin city library
@@ -612,12 +612,12 @@
 ### 95) 🍺 **Yongin Craft Beer Pub Brewery (Suin-Bundang) — 🔁 nightly**
 - **What:** Modern craft brewery
 - **Hours:** Nightly
-- **Price:** ~₽10,000 per pint
+- **Price:** ~₩10,000 per pint
 
 ### 96) 🎬 **Yongin Indie Film Cinema — 👀 WATCH**
 - **What:** Indie cinema showing foreign films in original language
 - **Hours:** Variable
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 
 ### 97) 🎤 **Yongin Open Mic Nights — 👀 WATCH**
 - **What:** Indie musician event
@@ -627,7 +627,7 @@
 ### 98) 🛁 **Yongin Royal Bath House (레스토랑 명) — 🔁 daily**
 - **What:** Traditional *mogyoktang* Korean bath
 - **Hours:** Daily 06:00–22:00
-- **Price:** ~₽10,000
+- **Price:** ~₩10,000
 
 ---
 
@@ -640,7 +640,7 @@
 ### 100) 🌾 **Icheon Rice Cake (떡) Village — 👀 WATCH (40 min drive)**
 - **What:** Famous for *songpyeon* (filled with sesame/pine nuts)
 - **Hours:** Daily 09:00–18:00
-- **Price:** Sampler box ₽10,000–25,000
+- **Price:** Sampler box ₩10,000–25,000
 
 ### 101) 🏯 **Yongin's Mt. Cheonggye Hiking (1,235m) — 🔁 always on (FREE)**
 - **What:** Mt. Cheonggye mountain ridge and pine forest
@@ -649,7 +649,7 @@
 ### 102) 🛶 **Yongin & Icheon Pottery Village — 👀 WATCH (50 min drive)**
 - **What:** UNESCO-recognized pottery production region
 - **Hours:** Daily 09:00–17:00
-- **Price:** Tour ₽10,000–30,000
+- **Price:** Tour ₩10,000–30,000
 
 ### 103) 🏞️ **Yongin's Wangsong Lake National Park — 🔁 daily (FREE)**
 - **What:** Lake park south of Yongin
@@ -685,17 +685,17 @@
 ### 109) 🎠 **Korean Folk Village Pony Stables (weekends) — 🔁 Sat/Sun**
 - **What:** Pony rides for kids
 - **Hours:** Sat–Sun 11:00–16:00
-- **Price:** ~₽5,000
+- **Price:** ~₩5,000
 
 ### 110) 🎮 **Yongin AI Robotics Class (Samsung Kids) — 👀 WATCH (weekends)**
 - **What:** Annual robotics class for kids at Samsung Tech Park
 - **Hours:** Saturdays 10:00–13:00
-- **Price:** ₽30,000
+- **Price:** ₩30,000
 
 ### 111) 🎬 **Yongin Korean Traditional Animation Workshop (Family) — 👀 WATCH**
 - **What:** Family-style make-your-own animation
 - **Hours:** Saturdays 14:00–16:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ### 112) 📚 **Yongin Storytime Library — 🔁 daily (FREE)**
 - **What:** Storytime for kids in central Yongin library
@@ -705,7 +705,7 @@
 ### 113) 🎭 **Korean Folk Village Costume Dress-up Photo Studio — 🔁 Tue–Sun**
 - **What:** Rent hanbok for family photo inside the village
 - **Hours:** Tue–Sun 10:00–17:30
-- **Price:** ~₽15,000–30,000
+- **Price:** ~₩15,000–30,000
 
 ### 114) 🎃 **Pond Halloween Trick-or-Treat — 👀 WATCH (Oct 31 walk-up)**
 - **What:** Around Folk Village on Oct 31
@@ -738,7 +738,7 @@
 ### 119) 🎭 **Caribbean Bay Batman Night (Late Oct) — 👀 WATCH**
 - **What:** Late-night themed party inside the water park
 - **Hours:** Last Sat of October
-- **Price:** Adult ₽40,000
+- **Price:** Adult ₩40,000
 
 ### 120) 🍰 **Yongin Costco & Pop-up Trunk Show Events — 👀 WATCH (weekends)**
 - **What:** Halloween pop-up shops and bakeries
@@ -755,12 +755,12 @@
 ### 123) 💀 **Spooky UNESCO Heritage Walk (Hwaseong, via Yongin bus) — 👀 WATCH (Nov 1)**
 - **What:** Costumed historical interpretation tour from Suwon's Hwaseong
 - **Hours:** Nov 1 11:00
-- **Price:** ₽25,000
+- **Price:** ₩25,000
 
 ### 124) 🦇 **Bat Cave Photography Class — 👀 WATCH**
 - **What:** Beginner photography class amongst autumn leaves
 - **Hours:** Sat 14:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ---
 
@@ -769,7 +769,7 @@
 ### 125) 🎤 **K-pop Open Class (Yongin) — 👀 WATCH weekends**
 - **What:** K-pop dance classes and workshops
 - **Hours:** Sat–Sun 14:00–17:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ### 126) 🎷 **Folk Village Sunset Music Picnic — 👀 WATCH (Sat summer)**
 - **What:** Outdoor amphitheater music at the village
@@ -778,7 +778,7 @@
 ### 127) 🎶 **Yongin Symphony Orchestra Concert — 👀 WATCH (Nov)**
 - **What:** Local YSL performance at Giheung arts hall
 - **Hours:** Saturday 19:00
-- **Price:** ₽10,000–20,000
+- **Price:** ₩10,000–20,000
 
 ### 128) 🎻 **Yongin Amateur Mariachi Band — 👀 WATCH weekends**
 - **What:** Public mariachi entertainment in bars
@@ -787,12 +787,471 @@
 ### 129) 💃 **Yongin Korean Traditional Dance Workshop — 👀 WATCH**
 - **What:** Hanok dance and folk dance class
 - **Hours:** Saturdays 14:00
-- **Price:** ₽20,000
+- **Price:** ₩20,000
 
 ### 130) 🎬 **Everland Cinema Friday Night (with car/event) — 👀 WATCH (Fri Nov)**
 - **What:** Outdoor screening of Korean films
 - **Hours:** Fri 19:00
-- **Price:** ₽10,000
+- **Price:** ₩10,000
+
+---
+
+## 🆕 More verified Yongin events & activities (expansion set)
+
+**Verified expansion set** — Everland and its autumn season, the Korean Folk Village and its UNESCO-listed performances, MBC Daejanggeum Park, Hwadam Forest, Ho-Am Art Museum, Yongin's Joseon heritage sites, transit and day-trip routing.
+
+### 131) 🎢 Everland Resort — Korea's largest theme park — 🔁 daily
+- **What:** **Korea's biggest theme park**, opened 1976, with five themed zones, the wooden coaster T Express and a large zoo
+- **Hours:** Daily **10:00–21:00** (Nov: often to 20:00)
+- **Price:** Adult 1-day **₩68,000**; after-4pm ticket cheaper
+- **Official source:** [everland.com](https://www.everland.com)
+- **Beginner notes:** **Buy online — gate prices are the highest.** Free shuttle from Gangnam and Jamsil in Seoul.
+
+### 132) 🎃 Everland Autumn & Halloween Season — 👀 WATCH — season overlap
+- **What:** Everland runs a large-scale Halloween season through October and a **Christmas Fantasy season from mid-November**, with parades and full-park illumination
+- **Hours:** Park hours; parades typically **19:00**
+- **Price:** Included with admission
+- **Official source:** [everland.com](https://www.everland.com)
+- **Beginner notes:** **Your window catches the changeover** — check the site for the Christmas season start date.
+
+### 133) 🌷 Everland Four Seasons Garden & Autumn Chrysanthemums — ✅ CONFIRMED — Nov
+- **What:** Everland's central garden stages a large **autumn chrysanthemum and maple display through November**, one of the park's signature seasonal set-pieces
+- **Hours:** Park hours
+- **Price:** Included with admission
+- **Official source:** [everland.com](https://www.everland.com)
+- **Beginner notes:** **The autumn garden is genuinely the best part of Everland in November** — better than queuing for rides.
+
+### 134) 🎢 T Express & Everland's headline rides — 🔁 daily
+- **What:** **T Express is one of the world's steepest wooden coasters** at 77 degrees, alongside the Amazon Express rapids and the Rolling X-Train
+- **Hours:** Park hours
+- **Price:** Included with admission
+- **Official source:** [everland.com](https://www.everland.com)
+- **Beginner notes:** **Ride T Express first thing** — the queue reaches two hours by midday even off-season.
+
+### 135) 🐼 Everland Zootopia & Panda World — 🔁 daily
+- **What:** Everland's zoo section, including **Panda World**, home to the giant pandas Ai Bao and Le Bao and their Korean-born cubs
+- **Hours:** Park hours
+- **Price:** Included with admission
+- **Official source:** [everland.com](https://www.everland.com)
+- **Beginner notes:** **Fu Bao's birth in 2020 made Panda World a national phenomenon.** Expect queues at Panda World specifically.
+
+### 136) 🦁 Everland Lost Valley Safari — 🔁 daily (weather-dependent)
+- **What:** An amphibious safari vehicle route through a mixed-species enclosure with giraffes, elephants and lions
+- **Hours:** Park hours; suspended in bad weather
+- **Price:** Included with admission
+- **Official source:** [everland.com](https://www.everland.com)
+- **Beginner notes:** **Suspends in heavy rain or cold snaps** — check on arrival.
+
+### 137) 🏎️ Everland Speedway & Korea International Circuit events — 👀 WATCH — check calendar
+- **What:** The motorsport circuit beside Everland hosts Korean touring car and endurance rounds
+- **Hours:** By event
+- **Price:** From **₩20,000**
+- **Official source:** [everland.com](https://www.everland.com) · [kmsa.or.kr](https://www.kmsa.or.kr)
+- **Beginner notes:** **Check the autumn race calendar** — the season typically closes in November.
+
+### 138) 🏯 Korean Folk Village (한국민속촌) — 🔁 daily
+- **What:** **Over 260 relocated and reconstructed Joseon-era buildings** across a large open-air site, with live performances of farmers' music, tightrope walking and equestrian arts
+- **Hours:** Daily **10:00–18:00** (Nov: to 18:00, last entry 17:00)
+- **Price:** Adult **₩32,000** full pass; ₩25,000 entry only
+- **Official source:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr)
+- **Beginner notes:** **The best single sight in Yongin.** Free shuttle from Suwon Station; performances run to a fixed daily timetable — get it at the gate.
+
+### 139) 🤹 Korean Folk Village performances — farmers' music, tightrope, equestrian — 🔁 daily
+- **What:** Scheduled daily shows including *nongak* farmers' band music, *jultagi* tightrope walking (**UNESCO Intangible Heritage**) and Joseon cavalry displays
+- **Hours:** Shows roughly **11:00–16:00**, several daily
+- **Price:** Included with admission
+- **Official source:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [UNESCO ICH](https://ich.unesco.org)
+- **Beginner notes:** **Jultagi tightrope walking was inscribed by UNESCO in 2011.** The performer talks and jokes throughout — that's the art form.
+
+### 140) 👰 Korean Folk Village traditional wedding & seasonal events — 🔁 daily
+- **What:** Re-enacted Joseon wedding ceremonies, coming-of-age rites and a seasonal autumn harvest programme
+- **Hours:** Scheduled through the day
+- **Price:** Included with admission
+- **Official source:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr)
+- **Beginner notes:** **November is harvest and kimjang season** at the village — check the seasonal programme.
+
+### 141) 🎭 Korean Folk Village Market Street & Nostalgia Zone — 🔁 daily
+- **What:** The village's traditional market street with period food stalls, plus a recreated 1970s–80s street
+- **Hours:** Village hours
+- **Price:** Food **₩5,000–₩15,000**
+- **Official source:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr)
+- **Beginner notes:** **Eat here rather than outside** — the market-street food is part of the experience.
+
+### 142) 🏰 Yongin Daejanggeum Park / MBC Dramia (대장금파크) — 🔁 Wed–Mon
+- **What:** **Korea's largest historical drama set**, built by MBC across 2.5 million m², with Goguryeo, Silla and Joseon palace sets used for *Dae Jang Geum*, *Dong Yi* and *Moon Embracing the Sun*
+- **Hours:** Wed–Mon **09:00–18:00** (Nov: to 17:00); closed Tue
+- **Price:** Adult **₩9,500**
+- **Official source:** [djgpark.imbc.com](https://djgpark.imbc.com)
+- **Beginner notes:** **Closed Tuesdays.** Filming can close individual sets without notice — check before travelling.
+
+### 143) 🌿 Hwadam Forest / Hwadam Botanic Garden (화담숲) — 👀 WATCH — season closes
+- **What:** A 165,000 m² mountain botanical garden with 4,000 plant species, famous nationally for its **maple season and monorail through the canopy**
+- **Hours:** Season runs roughly **late March–mid November**, Tue–Sun **09:00–18:00** (last entry 17:00); **closed Mondays**
+- **Price:** Adult **₩11,000**, youth/senior ₩9,000, child ₩7,000, under 24 months free; monorail sold separately ₩5,000 (1 stage) / ₩7,000 (2 stages) / ₩9,000 (full loop)
+- **Official source:** [hwadamsup.com](https://www.hwadamsup.com/pc/ko/index)
+- **⚠️ Booking:** Hwadam Forest is **100% advance-reservation** — no walk-up tickets. Book on the official site; the monorail is a separate booking and sells out first.
+- **Beginner notes:** **Reservation-only in peak autumn and the season closes in mid-November** — book online the moment you fix dates, and confirm the closing date.
+
+### 144) 🍁 Hwadam Forest Autumn Maple Season — ✅ CONFIRMED — Oct–early Nov
+- **What:** Hwadam's maple season is one of Korea's most sought-after autumn tickets, with timed entry and a monorail running through the colour
+- **Hours:** Peak roughly **late October–early November**; garden open Tue–Sun 09:00–18:00, last entry 17:00
+- **Price:** Adult **₩11,000** (youth/senior ₩9,000, child ₩7,000) on a timed, **100% advance** reservation; monorail ₩5,000–9,000 extra
+- **Official source:** [hwadamsup.com](https://www.hwadamsup.com/pc/ko/index)
+- **Beginner notes:** **The very start of your window is the tail of peak colour.** Tickets sell out weeks ahead.
+
+### 145) 🖼️ Ho-Am Art Museum (호암미술관) — 🔁 Tue–Sun
+- **What:** The Samsung foundation's museum of Korean traditional art beside Everland, with a **traditional Korean garden, Hee Won**, and a major collection of Buddhist art and ceramics
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mon)
+- **Price:** Adult **₩14,000**
+- **Official source:** [hoammuseum.org](https://hoam.samsungfoundation.org)
+- **Beginner notes:** **Hee Won garden is worth the ticket by itself in autumn.** Book timed entry online.
+
+### 146) 🏛️ Gyeonggi Provincial Museum (경기도박물관) — 🔁 Tue–Sun (FREE)
+- **What:** The provincial museum in Yongin, covering Gyeonggi-do's history from prehistory through the Joseon court, with English labelling
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mon)
+- **Price:** **FREE**
+- **Official source:** [musenet.ggcf.kr](https://musenet.ggcf.kr)
+- **Beginner notes:** **Free, large and rarely crowded.** Part of the Yongin museum cluster with the Baekunsan sites.
+
+### 147) 🎵 Gyeonggi Provincial Gugak Center — 👀 WATCH — check programme
+- **What:** The province's traditional-music institution, staging *gugak* concerts, *pansori* and fusion performances
+- **Hours:** Box office **09:00–18:00**
+- **Price:** **FREE**–₩30,000
+- **Official source:** [ggcf.kr](https://www.ggcf.kr) · [gugak.go.kr](https://www.gugak.go.kr)
+- **Beginner notes:** **Many performances are free** — check the November calendar.
+
+### 148) 🏛️ Gyeonggi Children's Museum, Yongin — 🔁 Tue–Sun
+- **What:** A large hands-on children's museum on the provincial museum campus, with timed sessions
+- **Hours:** Tue–Sun **10:00–18:00** (closed Mon)
+- **Price:** Child **₩7,000**; adult ₩4,000
+- **Official source:** [gcmuseum.ggcf.kr](https://gcmuseum.ggcf.kr)
+- **Beginner notes:** **Timed-entry sessions and often fully booked at weekends** — reserve online.
+
+### 149) 🛕 Waujeongsa Temple & the giant Buddha head (와우정사) — 🔁 daily
+- **What:** A modern temple on Yeonhwasan holding a **62 m reclining Buddha carved from a single juniper log** and an 8 m stone Buddha head
+- **Hours:** Daily **07:00–19:00**
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Genuinely strange and photogenic** — an eclectic mix of Buddhist traditions from across Asia.
+
+### 150) ⛰️ Gwanggyosan & Yongin Hiking Trails (광교산) — 🔁 daily (FREE)
+- **What:** The 582 m mountain shared between Yongin and Suwon, with well-graded ridge trails and autumn colour
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [Korea Forest Service](https://www.forest.go.kr)
+- **Beginner notes:** **Accessible by Sinbundang Line to Gwanggyo** — three to four hours for the ridge.
+
+### 151) 🌲 Yongin Jayeon Hyuyangnim & Recreational Forests — 🔁 daily
+- **What:** National and municipal recreation forests around Yongin with forest-bathing paths, decks and cabins
+- **Hours:** Daily **09:00–18:00**
+- **Price:** Entry **₩1,000–₩3,000**
+- **Official source:** [Korea Forest Service](https://www.forest.go.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** Quiet on weekdays in November.
+
+### 152) 🚶 Yongin Dulle-gil Circuit Trails — 🔁 daily (FREE)
+- **What:** Yongin's signed circuit walking network linking the city's hills, reservoirs and villages in graded sections
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [durunubi.kr](https://www.durunubi.kr)
+- **Beginner notes:** Maps and GPS tracks on the Durunubi national trail portal.
+
+### 153) 🏞️ Yongin Jeongmongju Tomb & Confucian sites (정몽주 묘) — 🔁 daily (FREE)
+- **What:** The tomb of **Jeong Mong-ju**, the Goryeo loyalist assassinated in 1392 for refusing to serve the new Joseon dynasty — a national symbol of loyalty
+- **Hours:** Daylight hours
+- **Price:** **FREE**
+- **Official source:** [Korea Heritage Service](https://www.khs.go.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **His poem refusing to switch allegiance is memorised by every Korean schoolchild.** Quiet, dignified and free.
+
+### 154) 🏛️ Simgok Seowon & Yongin Confucian academies — 🔁 daily (FREE)
+- **What:** Yongin's Confucian academies and shrines, including sites associated with the Joseon scholar-official tradition
+- **Hours:** Daylight hours
+- **Price:** **FREE**
+- **Official source:** [Korea Heritage Service](https://www.khs.go.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** Small, uncrowded and usually combined with the Jeong Mong-ju tomb.
+
+### 155) 🏛️ Yongin Mureung & local heritage houses — 🔁 daily (FREE)
+- **What:** Preserved Joseon *hanok* residences and clan halls scattered through Yongin's older villages
+- **Hours:** Daylight hours
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [Korea Heritage Service](https://www.khs.go.kr)
+- **Beginner notes:** Best reached by car; the city site lists locations.
+
+### 156) 🚇 Yongin Everline Light Rail (용인경전철) — 🔁 daily
+- **What:** A driverless light-rail line running from Giheung to Jeondae-Everland via central Yongin — **sit at the front for the driver's view**
+- **Hours:** Roughly **05:30–24:00**
+- **Price:** **₩1,450** with T-money
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Jeondae-Everland Station is the stop for both Everland and Daejanggeum Park.** Transfers from Bundang Line at Giheung.
+
+### 157) 🚇 Bundang & Sinbundang Lines into Yongin — 🔁 daily
+- **What:** Yongin is served by the Bundang Line, the Sinbundang express line and the Everline, putting Gangnam within 40 minutes
+- **Hours:** Roughly **05:30–24:00**
+- **Price:** **₩1,400–₩2,500**
+- **Official source:** [letskorail.com](https://www.letskorail.com) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Sinbundang from Gangnam to Suji is the fastest route in** — about 25 minutes.
+
+### 158) 🚌 Everland & Folk Village free shuttles — 🔁 daily
+- **What:** Everland runs free shuttle buses from Seoul (Gangnam, Jamsil, Sinchon); the Korean Folk Village runs a free shuttle from Suwon Station
+- **Hours:** Several departures **08:00–11:00**
+- **Price:** **FREE** with admission
+- **Official source:** [everland.com](https://www.everland.com) · [koreanfolk.co.kr](https://www.koreanfolk.co.kr)
+- **Beginner notes:** **Reserve the Everland shuttle online** — it fills up. The Folk Village shuttle is first-come.
+
+### 159) 🛍️ Yongin Shopping — Suji, Giheung & outlets — 🔁 daily
+- **What:** Yongin's retail is concentrated in Suji and Giheung, with department stores, large marts and a premium outlet nearby
+- **Hours:** Roughly **10:30–21:00**
+- **Price:** **FREE** entry
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** The nearby Yeoju and Icheon outlets are the region's big shopping draws.
+
+### 160) 🍜 Yongin Food — baeksuk, duck and Korean country dining — 🔁 daily
+- **What:** Yongin's semi-rural restaurants specialise in *baeksuk* chicken stew, duck bulgogi and mountain-vegetable meals
+- **Hours:** Roughly **11:00–21:00**
+- **Price:** **₩15,000–₩30,000** per person
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **The restaurants around Waujeongsa and the recreation forests** are where locals actually eat.
+
+### 161) ☕ Yongin Cafe Culture & Garden Cafes — 🔁 daily
+- **What:** Yongin's large garden and greenhouse cafes are a Gyeonggi-do speciality, built for weekend drives from Seoul
+- **Hours:** Roughly **10:00–22:00**
+- **Price:** Coffee **₩6,000–₩9,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Busy on Saturday and Sunday afternoons** — go on a weekday.
+
+### 162) 🍚 Yongin Traditional Markets — 🔁 daily
+- **What:** Yongin Jungang Market and the district markets, with five-day market days retained in the older quarters
+- **Hours:** Roughly **08:00–19:00**
+- **Price:** **FREE** to browse
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Yongin Jungang Market's five-day cycle** falls on dates ending 5 and 0.
+
+### 163) 🏟️ Yongin Sports Complex & Mireu Stadium — 👀 WATCH — check fixtures
+- **What:** Yongin's municipal sports complex hosts football, athletics and provincial competitions
+- **Hours:** By event
+- **Price:** From **₩5,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [kleague.com](https://www.kleague.com)
+- **Beginner notes:** Check the K League 2 and amateur calendars for November fixtures.
+
+### 164) ⛳ Yongin Golf & Country Clubs — 🔁 daily
+- **What:** Yongin has one of Korea's highest concentrations of golf courses, several open to visitor bookings
+- **Hours:** Tee times from **06:30**
+- **Price:** Green fees from **₩120,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **November is still playable** in Gyeonggi-do, at lower off-season rates.
+
+### 165) 🎿 Yongin Winter Sports & Everland Snow Buster — 👀 WATCH — opens December
+- **What:** Everland's winter sledding and snow attractions typically open in December, after your window
+- **Hours:** Season typically **December–February**
+- **Price:** Extra charge
+- **Official source:** [everland.com](https://www.everland.com)
+- **Beginner notes:** **Won't be open during your trip** — noted so you don't plan around it.
+
+### 166) 🏨 Yongin Accommodation — Everland area vs Suji — 🔁 planning
+- **What:** Home Bridge and the Everland resort hotels for park access, business hotels in Suji and Giheung for transit
+- **Hours:** Check-in typically **15:00**
+- **Price:** From **₩70,000** per night
+- **Official source:** [everland.com](https://www.everland.com) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Most visitors day-trip from Seoul** — Yongin is under an hour from Gangnam.
+
+### 167) 🗺️ Yongin as a Seoul day trip — 🔁 planning
+- **What:** Yongin's attractions are all within 60–90 minutes of central Seoul, making it the standard Seoul day-trip destination for families
+- **Hours:** N/A
+- **Price:** Transit **₩2,000–₩3,000** each way
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [visitkorea.or.kr](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Don't try Everland and the Folk Village on the same day** — each needs five hours.
+
+### 168) 🗺️ Yongin one-day route — Folk Village + heritage — 🔁 planning
+- **What:** Suwon Station → free shuttle → Korean Folk Village (5 h, catch two performances) → shuttle back → Suwon Hwaseong in the evening
+- **Hours:** One full day
+- **Price:** About **₩35,000**
+- **Official source:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **The Folk Village and Suwon Hwaseong pair perfectly** — both Joseon, ten minutes apart.
+
+### 169) 🗺️ Yongin one-day route — Everland + Ho-Am — 🔁 planning
+- **What:** Seoul shuttle → Everland (open to 20:00) or Everland morning → Ho-Am Art Museum afternoon → Everland illumination in the evening
+- **Hours:** One full day
+- **Price:** About **₩80,000**
+- **Official source:** [everland.com](https://www.everland.com) · [hoammuseum.org](https://hoam.samsungfoundation.org)
+- **Beginner notes:** **Ho-Am is a five-minute shuttle from Everland's gate** and almost nobody combines them.
+
+### 170) 🌡️ Yongin November Weather & Park Conditions — 🔁 planning
+- **What:** Inland Gyeonggi-do: November highs around **11°C**, lows near 1°C, with the first frosts — theme parks are cold in the evening
+- **Hours:** N/A
+- **Price:** N/A
+- **Official source:** [weather.go.kr](https://www.weather.go.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Everland after dark in November is genuinely cold** — hats and gloves if you're staying for the parade.
+
+### 171) 🚑 Yongin Emergency & Medical Services — 🔁 24 h
+- **What:** Yongin Severance Hospital and the Myongji hospital network provide 24-hour emergency care
+- **Hours:** Emergency **24 h**
+- **Price:** Consultation from **₩20,000** for visitors
+- **Official source:** [1339 Medical Hotline](https://www.kdca.go.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **119 for ambulance, 1339 for English medical advice.**
+
+### 172) 🧭 Yongin Tourist Information & English Support — 🔁 daily (FREE)
+- **What:** Information desks at Everland, the Korean Folk Village and Yongin City Hall, with English materials
+- **Hours:** Daily **09:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [1330 Hotline](https://english.visitkorea.or.kr)
+- **Beginner notes:** **Everland and the Folk Village both have full English signage** — the rest of Yongin does not.
+
+### 173) 📸 Yongin Photo Spots — 🔁 daily (FREE)
+- **What:** The Folk Village's thatched lanes, Daejanggeum Park's palace courtyards, Hee Won garden in autumn, Waujeongsa's Buddha head and Everland's illuminated garden
+- **Hours:** Best in afternoon light
+- **Price:** Varies by site
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Daejanggeum Park is the best value photo location in Gyeonggi-do** — real palace sets at ₩9,500.
+
+---
+
+*Added from official city tourism portals, national heritage/museum sites, and each venue's own official page. Status legend: ✅ confirmed · ⏳ TBA · 👀 watch · 🔁 always on.*
+
+### 174) 🏛️ Yongin Poeun Art Hall & city performances — 👀 WATCH — check programme
+- **What:** Yongin's municipal arts centre, named after Jeong Mong-ju's pen name Poeun, staging concerts, plays and family shows
+- **Hours:** Box office **09:00–18:00**
+- **Price:** **₩10,000–₩50,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [culture.go.kr](https://www.culture.go.kr)
+- **Beginner notes:** **Check the November programme** — the autumn season is well filled.
+
+### 175) 🎨 Yongin Public Art & Suji cultural spaces — 🔁 daily (FREE)
+- **What:** Municipal galleries and public art in Suji and Giheung, including exhibition spaces in the district cultural centres
+- **Hours:** Tue–Sun **10:00–18:00**
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** Free, local and a reasonable stop between transit connections.
+
+### 176) 📚 Yongin Libraries & Feel Good Library — 🔁 Tue–Sun (FREE)
+- **What:** Yongin's modern municipal libraries, several architecturally notable, open to visitors with free wifi and reading space
+- **Hours:** Tue–Sun **09:00–21:00**
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** A warm free stop on a cold Gyeonggi-do afternoon.
+
+### 177) 🏞️ Giheung Reservoir & Waterfront Trail (기흥호수) — 🔁 daily (FREE)
+- **What:** A 10 km loop path around Giheung Reservoir with boardwalks, reed beds and birdlife, popular with local walkers and runners
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [durunubi.kr](https://www.durunubi.kr)
+- **Beginner notes:** **The best free walk in Yongin.** Two to three hours for the full loop; Giheung Station is at one end.
+
+### 178) 🦆 Giheung Reservoir Birdwatching — autumn migration — ✅ CONFIRMED — Nov
+- **What:** The reservoir draws wintering ducks, herons and geese from November, with observation decks along the loop
+- **Hours:** Best at dawn and dusk
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **November brings the wintering flocks in** — bring binoculars.
+
+### 179) 🌳 Yongin Central Park & Suji parks — 🔁 daily (FREE)
+- **What:** Yongin's district parks, with autumn planting, playgrounds and walking loops in Suji and Sanghyeon
+- **Hours:** Always open
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** Useful if you're staying in Suji rather than day-tripping.
+
+### 180) 🏛️ Yongin Kimchi & food museums — 🔁 Tue–Sun
+- **What:** Small specialist museums in the Yongin area covering kimchi, traditional liquor and Korean food history
+- **Hours:** Tue–Sun **10:00–17:00**
+- **Price:** **₩3,000–₩8,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Hands-on kimjang sessions run in November** — the traditional kimchi-making month.
+
+### 181) 🥬 Kimjang season in Gyeonggi-do — November — ✅ CONFIRMED — Nov
+- **What:** **Kimjang, communal winter kimchi-making, is UNESCO Intangible Cultural Heritage** and takes place across Korea in November
+- **Hours:** Throughout November
+- **Price:** Workshops **₩20,000–₩40,000**
+- **Official source:** [UNESCO ICH](https://ich.unesco.org/en/RL/kimjang-making-and-sharing-kimchi-in-the-republic-of-korea-00881) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Your window is kimjang month.** The Korean Folk Village and local centres run participatory sessions.
+
+### 182) 🐄 Yongin Farm Experiences & Dairy Visits — 🔁 daily (booking)
+- **What:** Working farms around Yongin offer milking, cheese-making and harvest experiences aimed at families
+- **Hours:** Sessions **10:00–16:00**
+- **Price:** **₩10,000–₩25,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [Rural Development Administration](https://www.rda.go.kr)
+- **Beginner notes:** Book through the city tourism site; most require a day's notice.
+
+### 183) 🍇 Yongin & Gyeonggi Farm Stays — 🔁 daily (booking)
+- **What:** Officially registered rural stay programmes in the Yongin countryside, combining accommodation with farm activities
+- **Hours:** Overnight
+- **Price:** From **₩60,000** per night
+- **Official source:** [welchon.com](https://www.welchon.com) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Welchon is the official rural-tourism portal** for booking these.
+
+### 184) 🏛️ Suwon–Yongin heritage combination day — 🔁 planning
+- **What:** Hwaseong Fortress, the Korean Folk Village and Yungneung royal tombs are all within 20 minutes of each other
+- **Hours:** One full day
+- **Price:** About **₩40,000**
+- **Official source:** [koreanfolk.co.kr](https://www.koreanfolk.co.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Three major Joseon sites in one day** — the strongest heritage itinerary in Gyeonggi-do.
+
+### 185) 🏛️ Yongin & Icheon ceramics day trip — 🔁 daily
+- **What:** Icheon, 40 minutes east, is a **UNESCO Creative City of Crafts and Folk Art** with working ceramic kilns and studios
+- **Hours:** Studios roughly **09:00–18:00**
+- **Price:** Workshops from **₩20,000**
+- **Official source:** [icheon.go.kr](https://www.icheon.go.kr) · [UNESCO Creative Cities](https://www.unesco.org/en/creative-cities)
+- **Beginner notes:** **Throw your own pot at a working kiln.** Icheon also has famous rice and hot springs.
+
+### 186) ♨️ Icheon & Yongin Hot Springs — 🔁 daily
+- **What:** Icheon's alkaline hot springs, 40 minutes from Yongin, plus large spa complexes in the Yongin area
+- **Hours:** Roughly **06:00–21:00**
+- **Price:** **₩10,000–₩20,000**
+- **Official source:** [icheon.go.kr](https://www.icheon.go.kr) · [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** A good pairing with a cold November hiking day.
+
+### 187) 🏛️ Yeoju day trip — Sejong's tomb & UNESCO Yeongneung — 🔁 daily
+- **What:** Yeoju holds **Yeongneung, the tomb of King Sejong**, part of the UNESCO-inscribed Royal Tombs of the Joseon Dynasty, plus Silleuksa Temple
+- **Hours:** Tue–Sun **09:00–18:00** (Nov: to 17:00)
+- **Price:** Adult **₩500**
+- **Official source:** [UNESCO ref 1319](https://whc.unesco.org/en/list/1319) · [yeoju.go.kr](https://www.yeoju.go.kr)
+- **Beginner notes:** **Sejong invented Hangul** — this is his tomb, and it costs ₩500.
+
+### 188) 🛍️ Yeoju & Icheon Premium Outlets — 🔁 daily
+- **What:** Two of Korea's largest outlet malls, both within an hour of Yongin, with shuttle buses from Seoul
+- **Hours:** Daily **10:30–21:00**
+- **Price:** **FREE** entry
+- **Official source:** [premiumoutlets.co.kr](https://www.premiumoutlets.co.kr)
+- **Beginner notes:** **November has pre-Christmas sales.** Shuttles run from Gangnam and Jamsil.
+
+### 189) 🚌 Yongin bus network & Seoul express routes — 🔁 daily
+- **What:** Red express buses connect Yongin's districts directly to Gangnam, Seoul Station and Jamsil in 40–60 minutes
+- **Hours:** Roughly **05:00–24:00**
+- **Price:** **₩2,800–₩3,200**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr) · [gbis.go.kr](https://www.gbis.go.kr)
+- **Beginner notes:** **Red buses are seated-only** — you may have to wait for a seat at peak times.
+
+### 190) 🚕 Yongin taxis & getting between attractions — 🔁 24 h
+- **What:** Yongin's attractions are far apart; taxis fill the gaps between Everland, the Folk Village and the museums
+- **Hours:** **24 hours**
+- **Price:** Base **₩4,800**; typical hop ₩10,000–₩20,000
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Kakao T works throughout Yongin** and is far easier than flagging.
+
+### 191) 💰 Yongin on a budget — 🔁 daily (FREE)
+- **What:** Giheung Reservoir, Waujeongsa, the Gyeonggi Provincial Museum, Jeong Mong-ju's tomb and Gwanggyosan are all free
+- **Hours:** Various
+- **Price:** **FREE**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Everland is the expensive part of Yongin** — everything else is cheap or free.
+
+### 192) 🎫 Yongin discount tickets & combined passes — 🔁 daily
+- **What:** Everland sells discounted after-4pm and online tickets; the Folk Village offers combined performance passes
+- **Hours:** N/A
+- **Price:** Savings of **₩10,000–₩25,000**
+- **Official source:** [everland.com](https://www.everland.com) · [koreanfolk.co.kr](https://www.koreanfolk.co.kr)
+- **Beginner notes:** **Never buy an Everland ticket at the gate** — online is substantially cheaper.
+
+### 193) 🧳 Yongin practicalities — lockers, food, closures — 🔁 daily
+- **What:** Lockers at Everland and the Folk Village; note that **Daejanggeum Park closes Tuesdays** and Hwadam Forest closes for winter
+- **Hours:** N/A
+- **Price:** Lockers **₩1,000–₩3,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Check closing days before you travel** — Yongin's sites are far apart and a wasted trip costs an hour each way.
+
+### 194) 🗺️ Yongin three-day deep itinerary — 🔁 planning
+- **What:** Day 1 Everland + Ho-Am; Day 2 Korean Folk Village + Daejanggeum Park; Day 3 Giheung Reservoir + Gyeonggi Provincial Museum + Waujeongsa
+- **Hours:** Three days
+- **Price:** About **₩130,000**
+- **Official source:** [yongin.go.kr](https://www.yongin.go.kr)
+- **Beginner notes:** **Only Day 1 and Day 2 are essential** — Day 3 is for a slower pace or bad weather.
 
 ---
 

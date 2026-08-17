@@ -19,7 +19,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | 7 | **Fri Nov 6** | → Daejeon | Morning KTX (50 min) — 🥖 **Sungsimdang** bakery stop near Daejeon Station first! 🍷 **Wine EXPO Day 1** (DCC + Hanbit Tower) · evening Yuseong hot springs |
 | 8 | **Sat Nov 7** | ⚡ CHOICE DAY | **A)** 🍜 Noodle Festival (⏳ Nov 7–9 pattern) + Wine EXPO Day 2, Daejeon · **B)** 🎆 **Busan Fireworks Festival** (KTX 2.5 hrs — leave early, back late) · **C)** 🏆 **KGMA Day 1** at Gocheok Sky Dome (Seoul; lineup/tickets ~Oct) |
 | 9 | **Sun Nov 8** | Cheonan → Seoul | ⚽ **Cheonan City FC vs Busan IPark, 14:00** (35 min KTX from Seoul) · 🍷 Wine EXPO final day if you stayed. Back to Seoul evening |
-| 10 | Mon Nov 9 | Seoul | Rest day — or a 🧘 **templestay** night (Hwagyesa/Bongeunsa, book weeks ahead on eng.templestay.com). 👀 FIFA window opens (~Nov 9–17) — if a Korea friendly is announced, grab tickets via Ticketlink |
+| 10 | Mon Nov 9 | Seoul | Rest day — or a 🧘 **templestay** night (Hwagyesa/Bongeunsa, book weeks ahead on templestay.com). 👀 FIFA window opens (~Nov 9–17) — if a Korea friendly is announced, grab tickets via Ticketlink |
 | 11 | Tue Nov 10 | Seoul | 🎨 **Leeum Museum** (Inside Other Spaces ends Nov 29) + Itaewon · MMCA Seoul closed Mondays only, open Tue |
 | 12 | Wed Nov 11 | Seoul | Seoul Plaza free concert #2 · evening: 🏐 V-League or 🏀 KBL/WKBL home game (schedules ~Sep–Oct) |
 | 13 | Thu Nov 12 | Seoul | 🎻 **Sir Simon Rattle & Bavarian Radio Symphony — night 1** (Seoul Arts Center). (Fri Nov 13 option: 🎤 Music Bank taping — apply via KBS lottery the preceding Thu–Sat) |
