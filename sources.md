@@ -556,3 +556,4 @@ Every source below was re-fetched. These entries had a **dead, hijacked, repurpo
 2. For ⏳ TBA items: look for "Notice/공지" or "Events/축제" — organizers post 2026 dates roughly 1–3 months before the event.
 3. For 👀 Watch items (playoffs): check the league's schedule/standings page in early October.
 4. All prices/hours were correct as of Aug 4, 2026 where marked ✅; ⏳/👀 items show recent-year values as a planning guide only.
+1. Seoul — Namsan Seoul Tower (nseoultower.co.kr) added, link verified.
