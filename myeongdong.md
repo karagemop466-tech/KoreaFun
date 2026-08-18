@@ -18,22 +18,28 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 ## Confirmed in the trip window
 
 ### 1) 🎭 **Anthropolis IV: Iocaste — National Theater Company of Korea** — ✅ CONFIRMED — Oct 28–Nov 21, 2026 · NEW
-- **What:** Fourth installment of the National Theater Company’s five-part *Anthropolis* cycle, inspired by the Theban myths.
-- **Where:** Myeongdong Theater (명동예술극장), directly in the shopping district.
-- **When:** **Oct 28–Nov 21, 2026**. Use the performance page for individual performance days, language/accessibility information, prices, and booking.
-- **Official source (reviewed Aug 17):** [National Theater Company performance page](https://www.ntck.or.kr/ko/performance/info/257325)
+- **What:** Part **IV** of the National Theater Company of Korea's **Korean premiere** of Roland Schimmelpfennig's five-play *Anthropolis* cycle (first staged at Deutsches SchauSpielHaus Hamburg, 2023), which retells the Theban myths — Dionysus, Laius, Oedipus, Iocaste, Antigone — in a contemporary frame. *Iocaste* is adapted from Euripides' *The Phoenician Women* and Aeschylus' *Seven Against Thebes*: after Oedipus blinds himself, his sons Eteocles and Polynices drive Thebes toward civil war. Directed by **Seo Ji-hye**.
+- **Where:** **Myeongdong Theater (명동예술극장)** — literally in the shopping district, so it pairs with a Myeongdong evening.
+- **When:** **Oct 28–Nov 21, 2026** — confirmed on the company's own performance page. That is nearly your entire trip; it closes the day before you fly home.
+- **⚠️ Korean-language production.** The company's page gives no English-surtitle information for this run — check before booking if that matters to you.
+- **Tickets:** via the National Theater Company (☎ 1644-2003, booking line weekdays 13:00–18:00, closed weekends/holidays). Note their **푸른티켓 "Green Ticket": anyone aged 24 or under pays ₩5,000 for any seat.**
+- **Series note:** parts III and V (*Oedipus*, *Antigone/Epilogue*) are staged in the same 2026 season — if the cycle appeals, check whether another part overlaps your dates.
+- **Official source (reviewed Aug 18):** [National Theater Company — 안트로폴리스Ⅳ 이오카스테](https://www.ntck.or.kr/ko/performance/info/257325)
 
 ### 2) 🖼️ **GanaArt Collection: Beneath Technology—Scenes at the Threshold** — ✅ CONFIRMED — through Nov 22, 2026 · NEW
-- **What:** Confirmed 2026 exhibition at the Seoul Museum of Art’s Seosomun Main Branch, an easy walk from Myeong-dong.
-- **When:** **Apr 16–Nov 22, 2026**, covering the entire trip and closing on departure day.
-- **Hours/price:** SeMA lists Tue–Thu 10:00–20:00, Friday to 21:00, and winter weekends/holidays 10:00–18:00. General admission is normally free; check the exhibition page for exceptions.
-- **Official source (reviewed Aug 17):** [SeMA Seosomun branch](https://sema.seoul.go.kr/en/visit/seosomun)
+- **What:** Exhibition drawn from the GanaArt Collection, on the theme of technology and the scenes that sit at its edges. Korean title 《기술의 저변: 경계에 선 장면들》.
+- **When:** **Apr 16–Nov 22, 2026** — confirmed on SeMA's current-exhibition listing. It covers your whole trip and closes on departure day.
+- **Where:** Seoul Museum of Art **Seosomun Main Branch**, about a 10-minute walk west of Myeong-dong.
+- **Hours/price:** SeMA lists Tue–Thu 10:00–20:00, Fri to 21:00, weekends/holidays 10:00–18:00 in winter. **Closed Mondays.** Admission to SeMA's own collection shows is normally free.
+- **Official sources (reviewed Aug 17):** [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) · [SeMA Seosomun branch](https://sema.seoul.go.kr/en/visit/seosomun)
 
-### 3) 🥁 **Myeongdong NANTA** — ⏳ RE-CHECK NOVEMBER 2026
-- **What:** Long-running non-verbal percussion and comedy show in the Myeongdong NANTA Theatre.
-- **Status:** The operator has published 2026 performances, but the search-visible calendar was not yet on November. Do **not** copy the November 2025 schedule into 2026.
-- **Price:** Operator currently lists Premium ₩70,000, VIP ₩60,000, S ₩50,000, and A ₩40,000; verify when booking.
-- **Official sources (reviewed Aug 17):** [Myeongdong NANTA schedule](https://www.nanta.co.kr:452/en/show/detail.php?id=1) · [operator ticket information](https://www.nanta.co.kr:452/Nanta/en/ticket/ticketing.aspx)
+### 3) 🥁 **Myeongdong NANTA (Cookin' NANTA)** — ✅ CONFIRMED OPEN RUN — daily · UPDATED
+- **What:** Korea's most successful non-verbal show since 1997 — samulnori rhythms hammered out on kitchen knives, chopping boards and pans, wrapped in slapstick. **No dialogue, so the language barrier is a non-issue** — a genuinely safe bet for first-time visitors.
+- **Status:** **Open run** (running continuously since Oct 2009 at this theatre), so there is no "November schedule" to wait for — it plays every day. Individual dates can still sell down to limited seat classes, so book ahead rather than walking up.
+- **Times:** **Mon–Fri 17:00 & 20:00 · Sat 14:00, 17:00 & 20:00 · Sun and public holidays 14:00 & 17:00.** Runs 90 minutes. Ages 12 months+.
+- **Price (corrected Aug 17):** operator lists **VIP ₩70,000 · S ₩60,000 · A ₩50,000**. *The previous three-tier figures in this file were wrong — there is no ₩40,000 A seat and the top tier is VIP, not "Premium".*
+- **Where:** Myeongdong NANTA Theatre (former Myeongdong Art Center), **3F UNESCO Building**, Myeongdong 2-ga — inside the shopping district. There is a second NANTA theatre in Hongdae with a reduced Wed–Sun schedule.
+- **Official source (reviewed Aug 17):** [Official NANTA — Myeongdong show page with live calendar](https://www.nanta.co.kr:452/kr/show/detail.php?id=1)
 
 ---
 
@@ -135,7 +141,10 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 21) 💴 **Bank of Korea Money Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Currency and economic-history museum in the historic Bank of Korea building opposite Shinsegae.
-- **Hours/price:** Visit Seoul lists Tue–Sun 10:00–17:00, closed Monday, free. Check the Bank of Korea site for notices.
+- **Hours/price:** Tue–Sun **10:00–17:00, last entry 16:40. Free.** Closed Mondays, election days, Labour Day, Lunar New Year and Chuseok holidays, and **Dec 29–Jan 2**. ☎ 02-759-4881. **No public parking.**
+- **⚠️ Weekends and holidays require advance online booking** — weekdays you can walk in freely. Book through the museum site; a week ahead is normally enough.
+- **🇬🇧 There is a docent tour in English:** free 30-min talks run three times daily (11:00, 14:00, 15:00) and **the 14:00 slot is reserved for foreign visitors**. Reserve on the museum site.
+- **Building:** the 1907 structure was designed by Tatsuno Kingo — worth a look from outside even if you skip the galleries. Allow ~30 min inside.
 - **Official sources (reviewed Aug 17):** [Bank of Korea museum](https://www.bok.or.kr/museum/main/main.do) · [Visit Seoul](https://english.visitseoul.net/attractions/Bank-of-Korea-Money-Museum_/2733)
 
 ### 22) ✉️ **Korea Postage Stamp Museum** — 🔎 VERIFIED MUSEUM · NEW
@@ -161,9 +170,12 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 25) 🏘️ **Namsangol Hanok Village** — 🔎 VERIFIED PLACE
 - **What:** Five restored hanok, traditional garden, craft spaces, and Seoul Namsan Gukakdang near Chungmuro Station.
-- **Hours:** Official site lists November–March 09:00–20:00, closed Monday, with holiday exceptions.
+- **Hours:** **Winter (Nov–Mar) 09:00–20:00** — confirmed on the operator's own site. **The hanok interiors close Mondays**, *unless* that Monday is a public holiday, in which case it opens and closes the following day instead.
+- **✅ Monday is not a write-off here.** Only the five hanok *interiors* shut — **the traditional garden is open year-round**, and plenty of people still visit on Mondays. Given Mon Nov 2, 9 and 16 close most of central Seoul's museums, a Monday stroll through the garden is a genuinely useful fallback.
+- **🇬🇧 Free guided tours** run at **10:30, 12:00, 14:00 and 15:30** (40–60 min, max ~25 people, ages 10+). **Individuals cannot pre-book** — turn up at the guide office by the main gate. **No tours on Mondays.** Groups of 25+ book on ☎ 02-2133-6269.
+- **Open until 20:00 in winter** — one of the few traditional sites in central Seoul you can visit after dark, and it's floodlit.
 - **Price:** Village admission is free; workshops and performances may cost extra.
-- **Official sources (reviewed Aug 17):** [Jung-gu Tourism](https://www.junggu.seoul.kr/tour/content.do?cmsid=14818&sf_category1=CWS1325&mode=view&page=&cid=980666029) · [venue](https://www.hanokmaeul.or.kr)
+- **Official sources (reviewed Aug 18):** [Namsangol Hanok Village — hours, free admission, closures](https://www.hanokmaeul.or.kr/ko/faq) · [guided-tour times](https://hanokmaeul.co.kr/guide) · [Jung-gu Tourism](https://www.junggu.seoul.kr/tour/content.do?cmsid=14818&sf_category1=CWS1325&mode=view&page=&cid=980666029)
 
 ### 26) 🪁 **Namsangol traditional craft and game programs** — ⏳ RE-CHECK
 - **What:** The village runs real on-site craft and traditional-game sessions, but program dates and availability change.
@@ -197,8 +209,12 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 31) 🏯 **Deoksugung Palace** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Royal palace beside City Hall, walkable from Myeong-dong via Euljiro or Seosomun.
-- **Hours/price:** Check Korea Heritage Service for current admission, Monday closure, last entry, and any evening program.
-- **Official source (reviewed Aug 17):** [Royal Palaces and Tombs Center — Deoksugung](https://royal.khs.go.kr/ENG/contents/E101000000.do)
+- **Price:** **₩1,000 adult** (foreign visitors 19–64; Korean nationals 25–64 pay the same). **Free for under-18s and over-65s**, and **free for anyone wearing hanbok** — rentals are easy to find nearby and this is a genuine saving across multiple palaces.
+- **Hours:** **09:00–21:00, ticketing and entry 09:00–20:00** — Deoksugung stays open late, which makes it one of the few palaces you can visit after dinner. **Closed Mondays.**
+- **💡 The ₩10,000 combined palace ticket** covers all four grand palaces **plus Jongmyo**, valid 3 months, one entry each — worth it if you'll see three or more. Individually Gyeongbokgung/Changdeokgung/Changgyeonggung are ₩3,000/₩1,000 tiers, so the maths only works if you're committed.
+- **🇬🇧 Free English guided tours** daily except Monday at **10:45 and 13:30** (~60–90 min), from the information desk inside Daehanmun. Japanese 09:30/16:00, Chinese 10:00/14:30.
+- **⚠️ MMCA Deoksugung** (the art museum inside the palace grounds) charges a **separate ₩2,000** on top of palace admission — but is **free Wed and Sat 18:00–21:00** during its night opening. Seokjojeon's Daehan Empire History Hall needs **separate advance booking**.
+- **Official sources (reviewed Aug 18):** [Korea Heritage Service — Deoksugung admission and tour timetable](https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25) · [MMCA Deoksugung — hours and combined pricing](https://www.mmca.go.kr/deoksugung/viewingInfo/information.do)
 
 ### 32) 🎭 **National Jeongdong Theater** — ⏳ RE-CHECK PERFORMANCE CALENDAR
 - **What:** National performing-arts venue in the Jeong-dong cultural district behind Deoksugung.
@@ -207,8 +223,11 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 33) 🚪 **Sungnyemun Gate** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Seoul’s historic south gate, beside Namdaemun Market and about 15 minutes from central Myeong-dong.
-- **Hours/price:** City Wall portal lists winter hours 09:00–17:30, closed Monday; grounds are free.
-- **Official source (reviewed Aug 17):** [Seoul City Wall — Sungnyemun trail](https://seoulcitywall.seoul.go.kr/en/wallcourse/5.do)
+- **Hours/price:** **Free.** Your trip falls in the **winter schedule: 09:00–17:30** (Nov–Jan). Closed Mondays.
+- **🎎 Don't just walk past it — there's a free ceremony all day.** The **Sungnyemun Pasu (guard) Ceremony** runs on the plaza **every day except Monday**: **gate-opening ritual 10:00–10:10**, guard duty 10:00–15:30 (**break 12:00–13:00**), **guard-changing and patrol ritual ~11:40–11:46**, and the **gate-closing ritual 15:30–15:40**. Smaller and far less crowded than the Gyeongbokgung changing of the guard, and it's two minutes from Namdaemun Market (#34).
+- **⚠️ Can be cancelled in bad weather.**
+- **Getting there:** Seoul Station Exit 4, or Hoehyeon Station (Line 4) Exit 5, ~5 min walk.
+- **Official sources (reviewed Aug 18):** [Seoul City Wall — Sungnyemun trail](https://seoulcitywall.seoul.go.kr/en/wallcourse/5.do) · [Royal Guard — Sungnyemun Pasu Ceremony schedule](https://www.royalguard.kr/content/sungnyemun_gate) · [Seoul MediaHub](https://mediahub.seoul.go.kr/archives/1503520)
 
 ### 34) 🛍️ **Namdaemun Market** — 🔎 VERIFIED MARKET
 - **What:** Large wholesale and retail traditional market immediately west of Myeong-dong.

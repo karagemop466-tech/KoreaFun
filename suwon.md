@@ -18,21 +18,23 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 ## Confirmed during the trip
 
 ### 1) 💄 **BeautySum Korea Suwon 2026** — ✅ CONFIRMED — Nov 5–7, 2026 · NEW
-- **What:** Beauty-industry exhibition with products, beauty technology, business programs, and announced visitor experience zones.
-- **Where/when:** Suwon Convention Center, **Thu Nov 5–Sat Nov 7, 2026**.
-- **Price/hours:** Check the organizer’s visitor-registration page; trade and public programs may have different access rules.
+- **What:** Beauty-industry exhibition themed *"From Materials to Decisions"* — **~100 companies across ~300 booths**, spanning raw materials and R&D through finished cosmetics, beauty-tech devices, hair/nail, inner beauty, fragrance and packaging. Hosted by Suwon City with the Suwon Convention Center and Messe Esang.
+- **Where/when:** **Suwon Convention Center, Exhibition Hall, 1F** — **Thu Nov 5–Sat Nov 7, 2026**.
+- **Worth knowing for visitors:** alongside the trade side there's an **experience zone** (personal-colour diagnosis, perfume-making, skincare, makeup) and an **AI / Beauty-Tech hall**. So unlike a pure B2B fair, there is real walk-up content — but the R&D conference and export consultations are trade-only.
+- **Price/hours:** Check the organizer's visitor-registration page; trade and public programs have different access rules.
 - **Official source (reviewed Aug 17):** [BeautySum Korea Suwon](https://beautysumkorea.com/beautysum/intro/)
 
 ### 2) 🌙 **Hwaseong Haenggung Night Opening: Moonlight Flower Talk** — ✅ CONFIRMED — through Nov 1, 2026
-- **What:** Seasonal evening opening of Hwaseong Haenggung.
-- **When:** **May 1–Nov 1, 2026**. Only Oct 31 and Nov 1 overlap the trip.
-- **Price/hours:** Use the city event page for final admission, closure, and weather notices.
-- **Official source (reviewed Aug 17):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main)
+- **What:** Seasonal evening opening of Hwaseong Haenggung palace — lantern-lit courtyards and heritage-linked night exhibits. Official title 《달빛화담, 花談》 ("Moonlight Flower Talk").
+- **When:** **May 1–Nov 1, 2026**, **Fridays, Saturdays and Sundays** (plus public holidays), **18:00–21:30**. Your trip starts Sat Oct 31, so **only Sat Oct 31 and Sun Nov 1 qualify — the very last two nights of the season.**
+- **Price:** **₩2,000 adults · ₩1,500 teens and military · ₩1,000 children.** Tel 031-290-3613.
+- **Official sources (reviewed Aug 17):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main) · [Suwon Cultural Foundation](https://www.swcf.or.kr/?p=260)
 
 ### 3) 🧬 **Patricia Piccinini: Kinship** — ✅ CONFIRMED — through Nov 1, 2026 · NEW
-- **What:** International exhibition exploring relationships among humans, technology, nature, care, and imagined life forms.
-- **Where/when:** Suwon Museum of Art, Haenggung Main Branch; **Jul 23–Nov 1, 2026**.
-- **Price/hours:** Check the museum page for admission and last entry.
+- **What:** The museum's flagship **2026 international exhibition**, devoted to **Patricia Piccinini** (b. 1965, Sierra Leone; based in Melbourne) — the hyperreal sculptor who represented Australia at the **2003 Venice Biennale**, working in silicone, fibreglass and human hair to make unsettlingly lifelike creatures. *Kinship* asks who we count as family and what we recognise as life. Structured in four parts — 깨어나다 (Awakening) · 조우하다 (Encounter) · 유대하다 (Bonding) · 흔적들 (Traces, an archive and education space).
+- **Where/when:** **Suwon Museum of Art, Haenggung Main Branch** — **Jul 23–Nov 1, 2026**. Supported by the Australian Embassy in Korea.
+- **⚠️ Closes Nov 1** — with the Haenggung night opening (entry 2) also ending Nov 1, your **Oct 31–Nov 1 weekend is the only time both are available.** That makes a Suwon day trip on one of those two days unusually worthwhile.
+- **Price/hours:** The museum's listing defers to its general visitor info rather than stating a fee (enquiries 02-5191-3800) — **confirm admission and last entry before travelling.**
 - **Official source (reviewed Aug 17):** [Suwon Museum of Art exhibition page](https://suma.suwon.go.kr/exhi/schedule_view.do?lang=ko&ge_idx=1266)
 
 ### 4) 👹 **Yeonhui Dokkaebi (연희도깨비)** — ✅ CONFIRMED — Nov 7, 2026 · NEW
@@ -49,21 +51,22 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 6) 🌱 **Thumbelina: A Girl Born from a Flower** — ✅ CONFIRMED — through Nov 15, 2026 · NEW
 - **What:** Story-based botanical exhibition using plants and insects from Hans Christian Andersen’s *Thumbelina*.
-- **Where/when:** Ilwol Arboretum; **Apr 28–Nov 15, 2026**.
+- **Where/when:** **Ilwol Arboretum (일월수목원)**; **Apr 28–Nov 15, 2026** — confirmed on the city event portal. Ends a week before you fly home.
 - **Price:** Arboretum admission applies.
-- **Official source (reviewed Aug 17):** [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do?ctrSeqNo=&listType=ing&q_groupCd=&q_sortName=hit&q_currPage=1)
+- **Official source (reviewed Aug 17):** [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do?listType=ing&q_sortName=hit&q_currPage=1)
 
 ### 7) ⚫ **Blanc Black Panorama** — ✅ CONFIRMED — through Mar 1, 2027 · NEW
 - **What:** Suwon Museum of Art collection exhibition organized around black and white as visual and conceptual axes.
-- **Where/when:** Suwon Museum of Art; **Feb 12, 2026–Mar 1, 2027**.
-- **Price/hours:** Check the museum’s current-exhibitions page.
+- **Where/when:** **Suwon Museum of Art (수원시립미술관)**, by Haenggung; **Feb 12, 2026–Mar 1, 2027** — confirmed on both the museum's current-exhibition page and the city portal, so it comfortably spans your trip.
+- **Price/hours:** Check the museum's current-exhibitions page; closed Mondays.
 - **Official sources (reviewed Aug 17):** [museum current exhibitions](https://suma.suwon.go.kr/exhi/current_list.do) · [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do)
 
 ### 8) 🍽️ **Lady Hyegyeong’s Bongsudang Banquet exhibition** — ✅ CONFIRMED — through Dec 31, 2026 · NEW
 - **What:** Standing exhibition at Suwon Traditional Culture Center interpreting the royal banquet held for Lady Hyegyeong during King Jeongjo’s 1795 visit.
-- **When:** Official foundation calendar lists it through **Dec 31, 2026**.
+- **When:** Confirmed on the foundation's event calendar as a **standing exhibition running Dec 24, 2024 – Dec 31, 2026** — so it will certainly be open during your visit.
+- **Where:** Suwon Traditional Culture Center, **permanent exhibition room inside the food-culture experience hall** (식생활체험관 상설전시실). The center also runs hands-on Korean cooking programs, which need separate booking.
 - **Hours/price:** Verify center hours and any program reservation.
-- **Official source (reviewed Aug 17):** [Suwon Cultural Foundation event calendar](https://www.swcf.or.kr/?p=29)
+- **Official source (reviewed Aug 17):** [Suwon Cultural Foundation — event detail](https://www.swcf.or.kr/?p=29_view&idx=2776&listUrl=29&curYear=2026&curMonth=8)
 
 ---
 
@@ -96,7 +99,9 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 14) 🏹 **Traditional Korean archery at Yeonmudae** — 🔎 VERIFIED OPERATOR
 - **What:** Supervised ten-arrow traditional archery experience beside the eastern command post.
-- **Hours/price:** Cultural Foundation lists winter hours 09:30–17:00 and ₩3,000 for ten arrows; it does not operate in rain or snow. Re-check maintenance notices.
+- **Price/hours:** **₩3,000 for a round of 10 arrows.** **Your trip is in the winter season (Nov–Feb): 09:30–17:00** (summer Mar–Oct runs to 17:30). Sessions start **on the half hour** — 09:30, 10:00, 10:30, 11:00, 11:30, then 13:00 through 17:00 — so there is **no session over lunch (12:00–13:00)**. Max 25 people per slot.
+- **What you actually get:** ~5 min general explanation, ~5 min on shooting posture, then ~5 min shooting. It's a short, cheap novelty rather than a lesson — good for 20 minutes at Yeonmudae, not a half-day activity.
+- **⚠️ Does not run in rain or snow.**
 - **Official source (reviewed Aug 17):** [Suwon Cultural Foundation experience information](https://www.swcf.or.kr/english/?p=13&mode=view&idx=334&rIdx=99999204)
 
 ### 15) 🚂 **Hwaseong Eocha tourist trolley** — 🔎 VERIFIED OPERATOR
@@ -111,7 +116,10 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 17) ⚔️ **Muye 24-gi martial-arts demonstration** — 🔎 VERIFIED PROGRAM
 - **What:** Heritage performance based on the martial-arts manual associated with Hwaseong, staged around Haenggung.
-- **When/price:** Suwon City’s 2026 page lists Tue–Sun **11:00–11:30**, year-round, with Monday off. Outdoor performances can still be cancelled; re-check on the day. Free viewing.
+- **When/price:** **Tue–Sun 11:00–11:30, year-round. Free.** Closed Mondays. At **화성행궁 (Hwaseong Haenggung)**, Jeongjo-ro 825.
+- **What it is:** the 24 martial arts of the *Muyedobotongji*, compiled in 1790 by Yi Deok-mu, Park Je-ga and the martial master Baek Dong-su under King Jeongjo's order — so this is a reconstruction from a real manual, not invented pageantry.
+- **⚠️ The Sunday-only Jangyongyeong guard ceremony (장용영 수위의식, 16:00–17:00 at Sinpungnu) does NOT run during your trip** — the city lists that season as ending **Sun Oct 25, 2026**, six days before you arrive. Only the daily 11:00 Muye demonstration is available.
+- Outdoor, so it can be cancelled in bad weather. ☎ 031-5191-3034.
 - **Official source (reviewed Aug 17):** [Visit Suwon fortress performance page](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-03.jsp)
 
 ### 18) 🌃 **Hwaseong night illumination walk** — 🔎 VERIFIED ACTIVITY
@@ -125,13 +133,18 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 19) 🏛️ **Suwon Hwaseong Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum explaining fortress planning, construction, the *Hwaseong Seongyeok Uigwe*, and restoration.
-- **Hours:** VISITKOREA lists 09:00–18:00 with last admission one hour before closing; confirm Monday and holiday closures.
-- **Official sources (reviewed Aug 17):** [museum](https://hsmuseum.suwon.go.kr) · [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=70929)
+- **Hours/price (city page, Aug 18):** **09:00–18:00, last admission 17:00. Closed every Monday** (if a Monday is a public holiday it closes the next day instead — no holidays fall in your window).
+- **⚠️ Not free — ₩2,000 adult**, ₩1,000 teen/military, **free for children and seniors**. Suwon residents pay less; that discount won't apply to you.
+- **What's inside:** two permanent halls — 화성축성실 on how the fortress was built, and 화성문화실 on Jeongjo's eight-day royal procession and the Jangyongyeong guard, including Chae Je-gong's portrait (Treasure No. 1477). This is the room that makes the walls outside make sense — **do it before walking the fortress**, not after.
+- **Parking is paid:** first 60 min free, then ₩300/10 min, ₩7,000/day. Wheelchairs (2) and strollers (3) available. ☎ 031-5191-4242.
+- **Official sources (reviewed Aug 18):** [Suwon City museum page — hours, fares, parking](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-02.jsp) · [museum](https://smuseum.suwon.go.kr/hs/main/view)
 
 ### 20) 🏺 **Suwon Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal history and calligraphy museum covering Suwon beyond the fortress.
-- **Hours/price:** Museum lists Tue–Sun 09:00–18:00; check current admission and exhibition notices.
-- **Official source (reviewed Aug 17):** [Suwon Museum](https://swmuseum.suwon.go.kr/eng/)
+- **Hours/price (city page, Aug 18):** **09:00–18:00, last admission 17:00. Closed every Monday.** **₩2,000 adult**, ₩1,000 teen/military, **free for children and seniors**. **Parking free** (unlike the Hwaseong Museum). ☎ 031-5191-4150.
+- **Two museums in one building:** 수원역사박물관 (city history) and **한국서예박물관 — a dedicated Korean calligraphy museum**, which is unusual and the better reason to make the trip out to Yeongtong.
+- **Free VR experience zone** 09:15–16:50 (closed 12:00–13:00, last entry 16:30), elementary age and up, individuals only — no groups.
+- **Official sources (reviewed Aug 18):** [Suwon City museum page — hours, fares](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-01.jsp) · [museum](https://smuseum.suwon.go.kr/sw/main/view)
 
 ### 21) 🗺️ **Suwon Gwanggyo Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Local-history museum with collections connected to Gwanggyo and donated modern-history materials.
@@ -155,9 +168,14 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 25) 💡 **Samsung Innovation Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Electronics-industry history museum on Samsung’s Suwon campus.
-- **Access:** VISITKOREA says weekday visits require advance reservation and a docent; Saturday has separate walk-in hours. Closed Sunday and designated holidays.
+- **Access (operator, Aug 18) — much tighter than a normal museum:**
+  - **Weekdays: one guided slot only, 13:00–14:00, advance booking required.** Not a drop-in.
+  - **Saturday: 10:00–17:00, last entry 16:00** — the only realistic option for a visitor, and the one day you can browse at your own pace.
+  - **Closed Sundays**, all public holidays and substitute holidays, Labour Day, and Dec 31.
 - **Price:** Free.
-- **Official sources (reviewed Aug 17):** [Samsung Innovation Museum](https://www.samsunginnovationmuseum.com) · [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=66187)
+- **⚠️ Plan it for a Saturday.** In your window that means **Nov 7, 14 or 21** — but Nov 7 and Nov 21 are both heavily committed elsewhere (see the itinerary), so **Sat Nov 14** is the practical slot if you want this.
+- **What's inside:** Korea's largest electronics-industry museum — Hall 1 on the age of inventors, Hall 2 on semiconductors/displays/mobile, Hall 3 on Samsung's current product galleries, plus a Samsung Electronics history hall on 1F.
+- **Official source (reviewed Aug 18):** [Samsung Innovation Museum — operating hours and closures](https://www.samsunginnovationmuseum.com)
 
 ---
 
@@ -165,13 +183,17 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 26) 🌿 **Ilwol Arboretum** — 🔎 VERIFIED PLACE
 - **What:** Municipal arboretum with conservatory and themed gardens; entry #6 covers the confirmed *Thumbelina* exhibition.
-- **Hours/price:** Tue–Sun 09:30–17:30, last ticket 17:00; adult general admission ₩4,000. Closed Monday with holiday exceptions.
+- **Price (city fare table, Aug 18):** **adult 19+ ₩4,000 · teen 13–18 ₩2,500 · child 7–12 ₩1,500.** Groups of 20+ pay ₩3,000/₩1,500/₩1,000.
+- **✅ Free for over-65s and under-7s** — along with registered disabled visitors (plus one carer for severe disability), national-merit recipients and basic-livelihood recipients. **Bring ID**: without proof the full fare is charged.
+- **Hours:** Tue–Sun **09:30–17:30, last ticket 17:00. Closed Mondays** (holiday exceptions apply). ☎ 031-369-2380.
 - **Official sources (reviewed Aug 17):** [operating information](https://www.suwon.go.kr/sw-www/sw-iwarbor/sw-iwarbor-02/sw-iwarbor-02-01/sw-iwarbor-02-01-01.jsp) · [admission](https://www.suwon.go.kr/sw-www/sw-iwarbor/sw-iwarbor-02/sw-iwarbor-02-01/sw-iwarbor-02-01-02.jsp)
 
 ### 27) 🌲 **Yeongheung Arboretum** — 🔎 VERIFIED PLACE
 - **What:** Municipal arboretum in Yeongtong with gardens, woodland, and conservatory spaces.
-- **Hours/price:** Tue–Sun 09:30–17:30, last ticket 17:00; closed Monday with holiday exceptions. Check current admission.
-- **Official source (reviewed Aug 17):** [Yeongheung Arboretum](https://www.suwon.go.kr/web/yharbor/index.do)
+- **Price (city fare table, Aug 18):** identical to Ilwol (#26) — **adult 19+ ₩4,000 · teen 13–18 ₩2,500 · child 7–12 ₩1,500**, groups of 20+ ₩3,000/₩1,500/₩1,000. **Free for over-65s and under-7s** (and registered disabled, national-merit and basic-livelihood recipients) — **bring ID**.
+- **Hours:** Tue–Sun **09:30–17:30, last ticket 17:00. Closed Mondays.** ☎ 031-369-2390.
+- **⚠️ Tickets are per-arboretum — there is no combined ticket with Ilwol**, and the two are on opposite sides of the city (Yeongtong vs Ilwol/Jangan). Pick one unless you're keen; ₩4,000 each either way.
+- **Official sources (reviewed Aug 18):** [admission fares](https://www.suwon.go.kr/sw-www/sw-yharbor/sw-yharbor-02/sw-yharbor-02-01/sw-yharbor-02-01-02.jsp) · [Yeongheung Arboretum](https://www.suwon.go.kr/web/yharbor/index.do)
 
 ### 28) 🌊 **Gwanggyo Lake Park** — 🔎 VERIFIED PLACE
 - **What:** Large public park around Woncheon and Sindae reservoirs with approximately 6.5 km of loop paths, viewpoints, and wetlands.
@@ -212,10 +234,14 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **Hours/price:** Market and vendor-specific; some arcades close on designated days.
 - **Official source (reviewed Aug 17):** [Visit Suwon nine-market route](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-02/sw-visitsuwon-02-03/sw-visitsuwon-02-03-02.jsp)
 
-### 35) ⚽ **Suwon Samsung Bluewings and Suwon FC** — ⏳ CHECK OFFICIAL FIXTURES
-- **What:** Both clubs compete in K League 2 in 2026, using Suwon World Cup Stadium and Suwon Sports Complex respectively.
-- **Status:** Do not infer kickoffs from third-party timezone displays. Use the K League match center shortly before travel for confirmed home fixtures and ticket links.
-- **Official sources (reviewed Aug 17):** [K League — Suwon Bluewings](https://www.kleague.com/club/club.do?teamId=K09) · [K League — Suwon FC](https://www.kleague.com/club/club.do?teamId=K29)
+### 35) ⚽ **Suwon Samsung Bluewings — two home games in your window** — ✅ CONFIRMED — Sun Nov 8 & Sat Nov 21, 2026 · UPDATED
+- **What:** Suwon Samsung Bluewings, one of the biggest names in Korean football, are in **K League 2** in 2026 and were **top of the table in mid-August**, so November is a promotion run-in. They play at **Suwon World Cup Stadium (수원월드컵경기장)**, capacity ~44,000 — the largest ground in the division by a wide margin, and a 30-min ride from Seoul.
+- **Confirmed home fixtures during your trip:**
+  - **Sun Nov 8, 14:00 vs Yongin FC (R32)** — a local derby against a brand-new club playing its first-ever season.
+  - **Sat Nov 21, 14:00 vs Gyeongnam FC (R33)** — near-certain to matter for promotion.
+- **⚠️ Both dates clash.** Nov 8 is the day of the Cheonan City FC match (`daejeon-cheonan.md` #2) and the Nov 8 "hard cliff" when many exhibitions close. Nov 21 is the day you're scheduled to be in **Busan** for G-STAR and Busan IPark — you cannot do both.
+- **Suwon FC** (the other club, at Suwon Sports Complex) is a separate team; check `kleague.com` for their fixtures if the Bluewings dates don't suit.
+- **Official sources (reviewed Aug 18):** [K League — Suwon Bluewings](https://www.kleague.com/club/club.do?teamId=K09) · fixtures cross-checked against the published K League 2 2026 schedule and opponents' own fixture lists (Hwaseong FC, Gyeongnam FC)
 
 ### 36) 🏀 **Suwon KT Sonicboom** — ⏳ CHECK OFFICIAL FIXTURES
 - **What:** Men’s professional basketball club based at Suwon KT Sonicboom Arena.
@@ -226,6 +252,13 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **What:** Suwon’s KBO baseball club. The regular season ends before the trip; a November game is possible only if postseason progression and venue assignments align.
 - **Status:** Check the KBO postseason schedule rather than assuming a home game.
 - **Official sources (reviewed Aug 17):** [KT Wiz](https://www.ktwiz.co.kr) · [KBO](https://www.koreabaseball.com)
+
+### 38) 🎪 **Jeongjo Theme Stage — 2026 Madangnoriteo (마당놀이터)** — ✅ CONFIRMED — through Sat Nov 7, 2026 · NEW
+- **What:** A free open-air programme in the 어울마당 courtyard of the **정조테마공연장 (Jeongjo Theme Stage)** in Suwon, run by the Suwon Cultural Foundation. It is the foundation's recurring family/outdoor performance slot rather than a single show.
+- **When:** The foundation's official event calendar lists the 2026 run as **2026-03-21 → 2026-11-07** — so it is live for the **first week of the trip** and ends the Saturday of your second weekend.
+- **Also at the same venue:** **<정조 K 스테이지>**, a weekend programme running **Aug 1 – Nov 1, 2026** in the same 어울마당 space. Both wind down in early November.
+- **Before you go:** the calendar entry gives the season, not per-day times. Open the specific listing for the weekend you want and confirm the day's performance — outdoor programmes are also weather-dependent.
+- **Official sources (reviewed Aug 17):** [Suwon Cultural Foundation event calendar](https://www.swcf.or.kr/?p=29) · [Madangnoriteo listing](https://www.swcf.or.kr/?p=29_view&idx=2932) · [Jeongjo K Stage listing](https://www.swcf.or.kr/?p=29_view&idx=3031)
 
 ---
 

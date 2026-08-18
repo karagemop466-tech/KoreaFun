@@ -2,7 +2,7 @@
 
 This file was rebuilt on **August 17, 2026** from official city, venue/operator, museum, national park, temple, heritage, UNESCO, and league sources. The former 115-entry version contained fabricated museums, cable cars, ferries, festivals, foods, duplicate attractions, generic advice, and places outside Ulsan.
 
-> No major trip-window festival was confirmed on a dated organizer page. Re-check the [city culture calendar](https://www.ulsan.go.kr/ucac/art/main.do) in October. ✅ dated event · 🔎 verified place · ⏳ schedule-dependent.
+> Two dated trip-window items are now confirmed (entries **#30–#31**); Ulsan has no big November street festival, so those are the anchors. Re-check the [city culture calendar](https://www.ulsan.go.kr/ucac/art/main.do) in October for late additions. ✅ dated event · 🔎 verified place · ⏳ schedule-dependent.
 
 ---
 
@@ -15,8 +15,10 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ### 2) 🖼️ **Ulsan Petroglyph Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum explaining the Bangucheon rock art, archaeology, ecology, and preservation.
-- **Hours/price:** Check current hours, Monday closure, and guided programs.
-- **Official source (reviewed Aug 17):** [Ulsan Petroglyph Museum](https://www.ulsan.go.kr/s/bangudae/)
+- **Hours/price:** **FREE. 09:00–18:00, last entry 17:30. Closed Mondays** (the next day instead if that Monday is a holiday) and Jan 1. ☎ 052-229-4797.
+- **✅ Go here before the rock art itself (#1).** The actual Bangudae carvings are viewed from a distance across the water and are famously hard to make out; the museum holds **full-size replicas** you can actually read, which is what makes the real site legible afterwards.
+- **🏆 There is now a dedicated World Heritage exhibition room** covering the July 2025 inscription of the Bangucheon petroglyphs — new since the listing, and the reason this museum is worth more time than it used to be.
+- **Official source (reviewed Aug 18):** [Ulsan Petroglyph Museum — hours and closures](https://www.ulsan.go.kr/s/bangudae/main.ulsan)
 
 ### 3) 🏛️ **Ulsan Daegok Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Regional archaeology and history museum near the Bangucheon heritage landscape.
@@ -89,11 +91,13 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 ### 15) 🐳 **Jangsaengpo Whale Culture Village** — 🔎 VERIFIED PLACE
 - **What:** Cultural complex interpreting Jangsaengpo’s whaling-era town and modern whale-conservation history.
 - **Hours/price:** Check the integrated Jangsaengpo ticket and Monday closures.
-- **Official source (reviewed Aug 17):** [Ulsan Whale Culture Zone](https://www.whalecity.kr/)
+- **Official sources (reviewed Aug 18):** [Ulsan Whale Culture Zone](https://www.whalecity.kr/) · [National Museum of Korean Contemporary History — Jangsaengpo Whale Museum listing](https://www.much.go.kr/cooperation/net/jsm.do) · [VISITKOREA — fares](https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=250a4497-0043-4b9d-ae88-95e4bb5e1271)
 
 ### 16) 🐋 **Jangsaengpo Whale Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum about whale biology and Ulsan’s whaling history.
-- **Hours/price:** Ticketed; verify current operating days.
+- **Hours/price:** **₩2,000 adult / ₩1,500 youth and military / ₩1,000 child.** **09:00–18:00, last entry 17:30. Closed Mondays** — if the Monday is a public holiday it opens and closes the next day instead. Closed Seollal and Chuseok. **Parking free for 3 hours**, then ₩1,000/hr. Groups of 20+ save ₩500 each. ☎ 052-256-6301.
+- **⚠️ The Whale Museum and the Whale Ecology Experience Hall are two separate tickets.** The Experience Hall — the one with live dolphins — is **₩5,000 / ₩4,000 / ₩3,000** on its own. **A combined package is cheaper** if you want both; buy it at the counter rather than separate tickets.
+- **What's there:** whale biology and the history of Korean whaling at Jangsaengpo, which was the country's whaling base — plus a real whaling ship and a recovered blue-whale skeleton. Capacity is capped, so weekends can mean a wait.
 - **Official source (reviewed Aug 17):** [Ulsan Whale Culture Zone](https://www.whalecity.kr/)
 
 ### 17) ⛴️ **Whale Sea Travel Ship** — ⏳ SEASONAL/WEATHER-DEPENDENT
@@ -159,15 +163,36 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 - **Hours/price:** Restaurant-specific; choose from the official food directory.
 - **Official source (reviewed Aug 17):** [Ulju Tourism](https://tour.ulju.ulsan.kr/)
 
-### 28) ⚽ **Ulsan HD FC** — ⏳ CHECK OFFICIAL FIXTURES
-- **What:** Professional football club at Ulsan Munsu Football Stadium.
+### 28) ⚽ **Ulsan HD FC** — ⏳ FIXTURES NOT PUBLISHED UNTIL LATE OCTOBER · UPDATED
+- **What:** Recent K League 1 champions, playing at **Ulsan Munsu Football Stadium (울산문수축구경기장)**. The club was renamed from Ulsan Hyundai to **Ulsan HD** — older guides and the squatted `uhfc.tv` domain use the former name.
+- **⚠️ November dates don't exist yet.** K League 1 plays a 33-round regular phase to **Oct 25, 2026**, then a **Final Round (34–38) from Oct 31 to Dec 6** whose fixtures are only drawn after the regular season ends. Each club gets **2–3 home games** in that window, which spans your entire trip — so a Munsu home match is likely, but the date is unknowable until the league's late-October announcement. See `pohang.md` #25 for the full explanation.
+- **Bonus if the draw is kind:** an Ulsan–Pohang **East Coast Derby (동해안 더비)** is one of the best atmospheres in Korean football, and both cities are on your route.
 - **Status:** Verify any trip-window home match through the K League match center.
-- **Official sources (reviewed Aug 17):** [Ulsan HD](https://www.uhdfc.com) · [K League](https://www.kleague.com/)
+- **Official sources (reviewed Aug 18):** [Ulsan HD](https://www.uhdfc.com) · [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do)
 
 ### 29) 🏀 **Ulsan Hyundai Mobis Phoebus** — ⏳ CHECK OFFICIAL FIXTURES
 - **What:** KBL basketball club based in Ulsan.
 - **Status:** Use the 2026–27 league schedule for confirmed home games.
 - **Official source (reviewed Aug 17):** [KBL](https://www.kbl.or.kr/)
+
+---
+
+## Dated during the trip
+
+### 30) 🖼️ **Lee Jung-seop, the People's Painter (국민화가 이중섭)** — ✅ CONFIRMED — Oct 15, 2026 – Jan 17, 2027 · NEW
+- **What:** A major retrospective of **Lee Jung-seop (1916–1956)**, probably the most beloved painter in modern Korean history — the man who painted on cigarette foil (은지화 / *eunjihwa*) because he couldn't afford canvas, and whose family was separated by the Korean War. Co-organized by Ulsan Art Museum **with the MMCA (National Museum of Modern and Contemporary Art)**, which is why the loan list is strong: **around 100 works**, oils through to the silver-foil drawings.
+- **When:** **Thu Oct 15, 2026 – Sun Jan 17, 2027** — open your entire trip. Gallery 2.
+- **Price:** **₩1,000 adults** (₩500 Ulsan residents); free for children, teens, and seniors. One of the best-value major exhibitions in the country.
+- **Note:** The museum lists the title as provisional (가제), so the final English wording may differ slightly. Dates and venue are firm.
+- **Official source (reviewed Aug 17):** [Ulsan Art Museum exhibition page](https://www.ulsan.go.kr/s/uam/bbs/view.ulsan?mId=001003001000000000&bbsId=BBS_0000000000000174&dataId=56197)
+
+### 31) 🎻 **Ulsan Philharmonic 254th Subscription Concert — "Light of the Classical and the Romantic"** — ✅ CONFIRMED — Fri Nov 13, 2026 · NEW
+- **What:** The city orchestra's 254th regular subscription concert, programmed around classical and romantic repertoire. A cheap, low-friction evening if you're in Ulsan mid-trip — no Korean needed to enjoy it.
+- **Where/when:** **Fri Nov 13, 2026**, Ulsan Culture & Arts Center **Grand Theater (대공연장)**, 200 Beonyeong-ro, Nam-gu. The orchestra's subscription concerts in this hall run **19:30–21:15** (~105 min). Tickets went on sale May 28, 2026 — book ahead rather than at the door.
+- **Price/admission:** Paid (tiers on the booking notice); **elementary-school age and up**. Enquiries **052-275-9623**.
+- **Context:** the Ulsan Symphony Orchestra was founded in 1990 and this hall is its home stage — a straightforward, low-cost classical evening that needs no Korean.
+- **⚠️ Note on the venue site:** `ulsan.go.kr/ucac/art/main.do` is client-rendered and often returns an empty shell. The listing is reachable via the city's culture portal instead.
+- **Official sources (reviewed Aug 18):** [Ulsan culture portal — orchestra subscription listing](https://www.ulsanculture.kr/webuser/exhibit/) — gives 19:30 start, Grand Theater, 052-275-9623 · [Ulsan Culture & Arts Center](https://www.ulsan.go.kr/ucac/art/main.do)
 
 ---
 

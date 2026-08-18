@@ -16,16 +16,63 @@ Everything below is practical setup for the events in this repo. Official links 
 - **Tipping:** Not expected, anywhere. Round-up change is fine. No service charges.
 - **Foreign cards:** ATMs at convenience stores (CU/GS25) and banks work with US cards; look for "Global ATM".
 
+## 1b. 🏯 Palace tickets — two ways to pay nothing (or almost nothing)
+You will visit palaces. Two facts are worth knowing before the first ticket booth:
+
+- **👘 Wearing hanbok gets you into all the palaces free.** Not a discount — free. Rental shops cluster around Gyeongbokgung and Jeonju's Hanok Village and typically charge ₩15,000–30,000 for a few hours. **If you were going to rent hanbok for photos anyway, do it on a multi-palace day** and it partly pays for itself.
+- **🎟️ The ₩10,000 combined palace ticket (궁궐 통합관람권)** covers **all four grand palaces plus Jongmyo Shrine**, one entry each, valid **3 months**. Individually: Gyeongbokgung ₩3,000, Changdeokgung ₩3,000 (+₩5,000 for the Huwon secret-garden tour), Changgyeonggung ₩1,000, Deoksugung ₩1,000. **The combined ticket only pays off if you're doing three or more** — two palaces plus Huwon is about break-even.
+- **Free for under-18s and over-65s** at all of them.
+- **✅ MAJOR — "Culture Day" is now EVERY WEDNESDAY, and three of them fall inside your trip.** Until March 2026 this was the *last* Wednesday of the month only, which would have meant Nov 25 — two days after you fly home. The Ministry of Culture amended the enforcement decree and **from April 1, 2026 every Wednesday is 문화가 있는 날**. Paid palaces including **Changgyeonggung and Deoksugung admit free**, and national museums and galleries run free entry and late openings. **Your Wednesdays are Nov 4, 11 and 18.**
+- **⚠️ Not every venue participates every week** — the rule is national but each institution sets its own terms, so check the specific place. Government sites still carry pre-April wording in places.
+- **🎬 Cinemas are the exception and kept a twice-monthly rule:** 2D tickets are **₩10,000 adult / ₩8,000 youth** for screenings starting **17:00–21:00 on the second and last Wednesday** — **Wed Nov 11** for you. *(The old price was ₩7,000 once a month; it went up when frequency doubled.)*
+- **🏟️ Sport joins in too** — KBO, K League, KBL and V-League have offered **50% off** on Culture Day, worth checking against the fixtures in the city files.
+- **Sources:** [Ministry of Culture announcement](https://www.mcst.go.kr/site/s_notice/news/newsView.jsp?pSeq=5867) · [korea.kr explainer](https://www.korea.kr/news/reporterView.do?newsId=148961730) · [cinema terms](https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/)
+- **Closure days differ and this catches people out:** **Gyeongbokgung closes Tuesdays**; **Changdeokgung, Changgyeonggung, Deoksugung and Jongmyo close Mondays.** There is no day when everything is shut, but there is no day when everything is open either.
+- **Deoksugung runs late** — open to 21:00 (entry to 20:00), so it's the after-dinner option.
+- **⏰ November hours are short.** Gyeongbokgung runs **09:00–17:00 in Nov–Dec with last entry at 16:00** (vs 18:00/17:00 in Sep–Oct). Don't plan a 16:30 palace arrival in November — you won't get in.
+- **🇬🇧 Gyeongbokgung has free English tours** at **11:00, 13:30 and 15:30** daily except Tuesday, ~60–90 min, from the information desk inside Heungnyemun. No booking needed under 10 people. They run in the rain.
+- **⚠️ Gyeonghoeru pavilion special tours are Apr–Oct only** — not available during your trip.
+- **👀 WATCH — fees are about to change.** Palace admission has been frozen since 2005, and the Korea Heritage Service announced in Aug 2026 that it will **publish a new fee structure in November 2026**, to take effect **Jan 1, 2027**. Your trip is *before* the increase, but the announcement itself lands mid-trip — the prices above should hold, just don't be surprised by headlines.
+- **Official sources (reviewed Aug 18):** [KHS — Gyeongbokgung hours, fares, tour timetable](https://www.cha.go.kr/html/HtmlPage.do?pg=%2Fwatch_info%2FpalacesRoyalGuide.jsp&mn=NS_01_25) · [KHS — Deoksugung](https://www.khs.go.kr/html/HtmlPage.do?pg=/watch_info/palacesDeokGuide.jsp&mn=NS_01_25) · [fee-revision plan (Herald, Aug 5 2026)](https://biz.heraldcorp.com/article/10831990)
+
+## 1c. 📅 Mondays — what's actually open
+Your trip contains **three Mondays: Nov 2, 9 and 16.** Monday is the standard
+closing day for Korean museums, and it catches people out repeatedly. There
+are **no public holidays in November 2026**, so none of the "open if Monday is
+a holiday" exceptions can rescue you — plain Monday rules apply on all three.
+
+**Reliably OPEN on a Monday (verified this pass):**
+- **Gyeongbokgung** — the one grand palace that closes *Tuesdays* instead.
+- **National Museum of Korea** (Seoul) — open all week; only Jan 1/Seollal/Chuseok.
+- **Jeonju National Museum** and **Gyeongju National Museum** — both open Mondays. *(⚠️ Gyeongju takes one November "gallery rest day" Monday — first or second, its own pages disagree; phone ahead if you're going Nov 2 or Nov 9.)*
+- **Gyeonggijeon** (Jeonju) — open year-round, unlike the rest of the Hanok Village.
+- **Namsangol Hanok Village garden** (Seoul) — hanok interiors shut, garden open.
+- **Space Walk** (Pohang) — open except the *first* Monday, so **Nov 2 is out** but Nov 9/16 are fine.
+- **Oryukdo Skywalk** (Busan) — year-round, no weekly closure; weather closes it, not the calendar.
+- **Independence Hall outdoor exhibits** (Cheonan) — grounds open, indoor halls shut. Parking is free on Mondays.
+- **Jinhae Marine Park** grounds and coastal path (Changwon) — facilities shut, walk open.
+- Anything outdoors and ungated: fortress walls, markets, trails, temples, streets.
+
+**Reliably SHUT on a Monday:**
+- Deoksugung, Changdeokgung, Changgyeonggung, Jongmyo.
+- **All five Incheon open-port museums at once** — one operator, one closing day, so a Monday kills that whole walk.
+- Suwon Hwaseong Museum, Suwon Museum, most Jeonju Hanok Village museums, Daegu's municipal museums, Ulsan's museums, the Whale Museum, Moonshin, Bulguksa's museum.
+- **Busan's Taejongdae Danubi train** — the park stays open, but on a Monday you walk the hilly circuit instead of riding it.
+
+**💡 Planning rule:** put palaces, outdoor walks and the national museums on Mondays; save city and district museums for any other day.
+
 ## 2. Getting around cities
-- **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24) for ~₩4,000 card fee; load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
+- **T-money card** (rechargeable transit card): buy at any convenience store (CU, GS25, 7-Eleven, Emart24). The plain card is **~₩3,000–4,000** (character/designer editions run ₩6,000+); the card fee is **non-refundable**, though leftover balance can be refunded at convenience stores minus a fee. Load cash at the counter or machines. Taps on subway **and** buses (buses often require tapping off too).
 - **WOWPASS Card:** An all-in-one prepaid card for foreign tourists combining T-money transit + credit card payments ([wowpass.io](https://www.wowpass.io)). You can insert US dollars (cash) directly into WOWPASS kiosks at Incheon Airport and major subway stations to issue a card pre-loaded in KRW.
-- **Seoul Climate Card (기후동행카드):** Seoul Metropolitan Government's unlimited transit pass ([seoul.go.kr](https://www.seoul.go.kr)). Tourist short-term passes available: **1-day (₩5,000)**, **2-day (₩8,000)**, **3-day (₩10,000)**, **5-day (₩15,000)**, and **7-day (₩20,000)**. Covers all Seoul subways and city buses (note: excludes KTX and intercity buses to Busan/Daejeon).
+- **Seoul Climate Card (기후동행카드):** Seoul Metropolitan Government's unlimited transit pass ([seoul.go.kr](https://www.seoul.go.kr)). Short-term passes (prices confirmed against Seoul's own fare table, Aug 18 2026): **1-day ₩5,000 · 2-day ₩8,000 · 3-day ₩10,000 · 5-day ₩15,000 · 7-day ₩20,000**. Short-term passes start the moment you charge them (no post-dating) and do **not** include Ttareungi bikes.
+  - ⚠️ **Do not count on this for the airport run.** The Climate Card covers AREX only between **Gimpo Airport and Seoul Station** — the **Incheon Airport stretch is excluded**, as are all AREX *Express* trains. Coming in from ICN on Oct 31 you need a separate AREX ticket, T-money or the airport bus.
+  - ⚠️ Also excluded: the **Shinbundang Line** (신분당선, the fast route toward Gangnam/Pangyo), GTX, non-Seoul-licensed buses, airport/express (광역) buses, subways outside the Seoul zone, taxis, and KTX/SRT. Since this trip runs to Busan, Daejeon, Gyeongju and beyond, the Climate Card only pays off on heavy Seoul-only days — otherwise plain T-money is the simpler choice.
 - **Subway:** Seoul & Busan both have clean, English-signed subway systems. **Transit apps:** Naver Map (English) and Kakao Map — both better than Google Maps in Korea. 
-- **Taxis:** Kakao T app (English mode) or hailing; base fare ~₩4,800 (Seoul). Pay by card in the app.
+- **Taxis:** Kakao T app (English mode) or hailing; Seoul mid-size base fare **₩4,800** for the first 1.6 km. **Late-night surcharge 22:00–04:00 (up to 40% between 23:00–02:00)**, plus a ~20% surcharge once you leave the city limits — a late taxi back from a fireworks show costs far more than the daytime meter suggests. Pay by card in the app.
 
 ## 3. Between cities (KTX high-speed rail)
 - Book on the **official KORAIL sites**: [letskorail.com](https://www.letskorail.com) (English-friendly KTX booking) or [korailtravel.com](https://www.korailtravel.com) (KORAIL subsidiary — sells the **KR Pass** for foreigners & train tour packages).
-- **Seoul → Busan:** KTX ≈ **2.5 hrs** (~₩59,000 economy, ~$42). Seoul → Daejeon ≈ 50 min (~₩23,000). Seoul → Cheonan ≈ 35–45 min (~₩15,000–18,000). Daejeon ↔ Cheonan ≈ 30–40 min.
+- **Seoul → Busan:** KTX ≈ **2.5 hrs** (**₩59,800** economy / ₩83,700 first class, confirmed Aug 2026; fastest KTX-Cheongryong ~2 hr 17 min). Cheaper alternative: **SRT from Suseo ₩52,600**. Seoul → Daejeon ≈ 50 min (~₩23,000). Seoul → Cheonan ≈ 35–45 min (~₩15,000–18,000). Daejeon ↔ Cheonan ≈ 30–40 min.
 - Trains run frequently; **book 1–2 weeks ahead for Friday–Sunday departures**.
 - Alternative Seoul→Busan: domestic flights Gimpo→Gimhae (~1 hr, ~₩40,000–70,000; budget carriers like Jin Air, T'way, Jeju Air).
 
@@ -42,7 +89,7 @@ Everything below is practical setup for the events in this repo. Official links 
 >
 > **Concerts/shows:** use **Interpark Global** (foreign cards OK) — most November shows (5 Seconds of Summer, Jason Mraz, Jujutsu Kaisen orchestra, etc.) are listed there or on Ticketlink. Book as soon as a show is announced; big K-pop shows sell out in minutes.
 >
-> **Shopping:** November is **Korea Sale FESTA** season (gov't-run nationwide discounts, [koreasalefesta.co.kr](https://koreasalefesta.co.kr)) — check its "tourist" section for duty-free/shopping/attraction deals before you buy souvenirs.
+> **Shopping:** November is **Korea Sale FESTA** season (gov't-run nationwide discounts, [korea.kr newsroom](https://www.korea.kr/news/policyNewsView.do?newsId=148936029) ⚠️ the old koreasalefesta.co.kr domain has lapsed and now serves an unrelated company) — check its "tourist" section for duty-free/shopping/attraction deals before you buy souvenirs.
 
 ## 5. Apps worth installing before you land
 - **Naver Map / Kakao Map** — navigation (English support)
@@ -55,6 +102,23 @@ Everything below is practical setup for the events in this repo. Official links 
 - Seoul & the west: **5–15°C (41–59°F)** — crisp fall, cold nights, occasional rain. Busan: slightly warmer, coastal wind.
 - Pack: **layers**, a warm jacket, comfortable walking shoes, small umbrella. Fall foliage peaks late Oct – early Nov in Seoul, mid-Nov in the south.
 - Official weather: [KMA weather.go.kr](https://www.weather.go.kr) (or any weather app).
+
+## 6b. ⚠️ Thu Nov 19 is CSAT day (수능) — the strangest day of your trip
+The **College Scholastic Ability Test** falls on **Thursday, Nov 19, 2026**, mid-trip. It is not a public holiday, but for one day the country rearranges itself around ~half a million teenagers sitting a single exam. What this actually means for you:
+
+- **✈️ All aircraft are grounded nationwide for ~35 minutes** during the English listening section — roughly **13:05–13:40**. No take-offs or landings anywhere in Korea (emergency flights excepted); planes already airborne hold above 3 km. In recent years 140–156 flights had their times shifted. **If you fly domestically that day, check your departure time — it may have been moved.** Your Nov 19 leg is a KTX, so this doesn't hit you, but it's worth knowing if plans change.
+- **🚇 Rush hour moves.** Government offices and most large companies start at **10:00 instead of 09:00**, and Seoul-area subways add trains **06:00–08:10** for students. Net effect: the normal 08:00–09:00 crush is thinner, and there's a second smaller peak around 10:00. **A mid-morning KTX to Busan is comfortable.**
+- **🚗 Roads are closed around every test centre** — no vehicles within 200 m. Test centres are ordinary schools scattered through every neighbourhood, so **taxis may detour unpredictably in the morning**. Prefer the subway before noon.
+- **🤫 Quiet is enforced.** Military exercises pause; police escort late students. Expect an oddly hushed early afternoon.
+- **🍜 The upside — the evening is a party.** Once the exam ends (~17:40) students flood into Hongdae, Gangnam and Myeongdong, and many bars, restaurants, cinemas and attractions run **test-taker discounts** for weeks afterwards (bring the exam ID card — which you won't have, but the atmosphere is free). **Nov 19 evening is a genuinely good night to be out.**
+- **Official source (reviewed Aug 18):** [MOE announcement of the Nov 19, 2026 exam date (korea.kr)](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156646031)
+
+### ✅ Good news: there are **no public holidays** in your window
+**November 2026 has zero public holidays** in Korea — the last was Hangeul Day (Oct 9) and the next is Christmas. The 2026 local elections were back on Jun 3. This quietly simplifies a lot of planning:
+
+- Many museums in this guide close **on public holidays**, or **the day after one** (Incheon's Emigration History Museum), or shuffle their Monday closure when a Monday is a holiday (World Writing Systems). **None of those rules can fire during your trip** — plain weekday/Monday schedules apply throughout.
+- No holiday-weekend KTX price surges or booking crushes.
+- The flip side: **no holiday festivals or special openings** either, and **Nov 19 (CSAT) is not a day off** — shops, museums and trains all run normally.
 
 ## 7. Food & etiquette quickies (beginner edition)
 - **Chicken & beer (치맥)** — a national pastime; eat it while watching baseball/football like the locals.

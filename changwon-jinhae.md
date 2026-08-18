@@ -9,16 +9,18 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 ## Confirmed during the trip
 
 ### 1) 🎬 **SAC on Screen: An Old Couple’s Story** — ✅ CONFIRMED SERIES — November 2026 · NEW
-- **What:** Free high-definition screening of a stage play at Changwon History and Folk Museum.
-- **When:** The official series runs Apr 8–Dec 9 with a designated Wednesday each month; the November title is *An Old Couple’s Story*. Confirm the exact November date and reservation notice before attending.
-- **Time/price:** 15:00; free.
-- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=8795)
+- **What:** Seoul Arts Center stage productions captured in high definition and screened on a big screen. **November's title is confirmed on the foundation's published 2026 lineup as the play 《늙은 부부이야기》 (An Old Couple's Story)** — a well-loved two-hander about love late in life. Korean-language, no subtitles.
+- **When:** The series runs **Apr 8–Dec 9, 2026**, **one designated Wednesday per month**. The foundation's page confirms the month and title but **does not publish the specific November Wednesday in advance** — it posts the exact date and the booking method (advance reservation vs walk-up) on its notice board shortly before each screening. The candidates inside your window are **Nov 4, 11 or 18**.
+- **⚠️ Don't travel to Changwon for this alone** — it's an unticketed free screening whose date isn't fixed until close to the day. Treat it as a bonus if you're already there.
+- **Where/time/price:** **Changwon History & Folk Museum, B1 screening room** · **15:00**, one showing only · **free**. Tel 055-714-7646.
+- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation — 2026 SAC on Screen](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=8795)
 
 ### 2) 🎷 **Maria Kim: Jazz Collective Morning Concert** — ✅ CONFIRMED — Nov 17, 2026 · NEW
 - **What:** November installment of the Changwon Cultural Foundation morning-concert series.
-- **Where/when:** Seongsan Art Hall Small Theater, **Tue Nov 17, 2026**.
-- **Price/time:** Check the official ticket page for start time and admission.
-- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation](https://www.cwcf.or.kr/main/main.asp?USER_agent=pc)
+- **What:** Jazz pianist **Maria Kim** and her Jazz Collective — the November edition of the foundation's *Morning Concert* series. A late-morning concert is an unusual and rather civilised way to start a day in Changwon.
+- **Where/when:** **Seongsan Art Hall Small Theater**, **Tue Nov 17, 2026 at 11:00**. Runs 60 minutes, no intermission. Ages 7+.
+- **Price:** **₩20,000 all seats.** Booking via the foundation, YES24 Ticket, or Naver; phone 055-268-7900. Online sales close **Mon Nov 16 at 17:00**.
+- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation — November Morning Concert](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=9003)
 
 ---
 
@@ -56,8 +58,12 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 
 ### 9) 🌊 **Jinhae Marine Park and Marine Solar Tower** — 🔎 VERIFIED PLACE
 - **What:** Island/coastal park complex with tower, exhibitions, and sea views.
-- **Hours/price:** Facility-specific; check closures and admission on the city operator page.
-- **Official source (reviewed Aug 17):** [Changwon Facilities Corporation](https://www.cwsisul.or.kr/)
+- **Hours/price:** **09:00–18:00, ticket office closes 17:00. Closed Mondays** — but the **outdoor grounds and the coastal walking path stay open every day**, so a Monday visit still works for the walk and the sea views.
+- **Prices:** **Solar Tower ₩3,500 adult / ₩2,500 student and military / ₩1,500 child.** The **Marine Life Theme Park and Fish Ecology Hall are ₩2,500** separately. Changwon residents get a discount on ID — not applicable to you, but it explains differing figures online.
+- **✅ The Solar Tower observatory is open again.** It shut on Nov 10, 2023 when its two high-speed lifts were condemned, and stayed shut for a year; Changwon spent ₩1.08 bn replacing them and **reopened it on Nov 16, 2024**. Several travel pages still describe it as closed — that information is out of date.
+- **What you get:** a circular observatory on floors **27–28**, ~120 m up, with a glass floor section, looking over Jinhae Bay, the Geoga Bridge and Udo island. The exhibition building below (green-energy displays) is **free**. There is also a **zip line** on site.
+- **⚠️ Very exposed to wind** on the tower approach and the shoreline path — this is a November sea-front.
+- **Official sources (reviewed Aug 18):** [Changwon Facilities Corporation](https://www.cwsisul.or.kr/) · [VisitKorea accessible-tourism listing (hours, fares)](https://access.visitkorea.or.kr/opentour/detail.do?cotId=bd3fefbe-6d2b-4288-a425-a45890e15feb) · [Changwon City — Solar Tower reopening, Nov 16 2024](https://www.nocutnews.co.kr/news/6239597)
 
 ### 10) 🪖 **Anmin Pass viewpoint road** — 🔎 VERIFIED PLACE
 - **What:** Ridge road and viewpoints over Jinhae.
@@ -95,8 +101,11 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 
 ### 16) 🎨 **Moonshin Art Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum dedicated to sculptor Moon Shin, overlooking Masan.
-- **Hours/price:** Check city museum hours and Monday closure.
-- **Official source (reviewed Aug 17):** [Changwon City Museums](https://www.changwon.go.kr/cwportal/depart/11064/11123.web)
+- **Hours/price:** **09:00–18:00, last entry 17:30.** **₩500 adult / ₩200 child and youth** — one of the cheapest museums in the country. **Free for under-6s and over-65s.** Card accepted.
+- **Closed Mondays** (or the next day if that Monday is a holiday), Jan 1, Seollal and Chuseok. Allow **1–1.5 hrs**. Free parking.
+- **What's there:** Moon Shin's own museum, which he spent 15 years building on the Chusan-dong hillside above Masan harbour — Exhibition Halls 1 and 2, an **outdoor sculpture park**, the Moon Shin Original Form Museum and an art shop. The hilltop setting and harbour view are half the appeal.
+- **♿ Step-free access:** lift inside the Original Form Museum and ramps at each hall entrance.
+- **Official sources (reviewed Aug 18):** [Changwon City Museums](https://www.changwon.go.kr/cwportal/depart/11064/11123.web) · [Changwon Tourism — Moonshin Art Museum details](https://changwon.go.kr/tour/index.do?menuCode=001_007000000000)
 
 ### 17) 🏛️ **Changwon History and Folk Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum of regional history and folk life; entry #1 covers its November screening program.
@@ -152,10 +161,11 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 - **Status:** Use the official 2026–27 schedule for home games.
 - **Official source (reviewed Aug 17):** [KBL](https://www.kbl.or.kr/)
 
-### 27) ⚽ **Gyeongnam FC** — ⏳ CHECK K LEAGUE FIXTURES
-- **What:** Professional football club using Changwon Football Center.
-- **Status:** Confirm home fixtures and tickets through the league.
-- **Official sources (reviewed Aug 17):** [Gyeongnam FC](https://www.gyeongnamfc.com/) · [K League](https://www.kleague.com/)
+### 27) ⚽ **Gyeongnam FC (경남FC)** — ❌ NO HOME GAME DURING YOUR TRIP — K League 2 · UPDATED
+- **What:** Gyeongnam FC play K League 2 at **Changwon Football Center (창원축구센터)**.
+- **⚠️ Checked against the club's own fixture list — you cannot see them at home.** Their last home match before you arrive is **Sat Oct 31 vs Hwaseong (14:00)**, which is your **arrival day** (you land at Incheon, so it's not reachable). After that both remaining fixtures in your window are **away**: **Nov 7 at Suwon FC** and **Nov 21 at Suwon Samsung**. Their next home game, vs Seoul E-Land, is **Nov 29 — a week after you fly home.**
+- **If you want K League 2 football, use these instead:** **Busan IPark vs Chungbuk Cheongju, Sat Nov 21, 14:00** at Gudeok (see `busan.md` #5) — the same weekend, and you're scheduled to be in Busan. Or **Seoul E-Land at Mokdong on Nov 7** (see `seoul.md` #78).
+- **Official sources (reviewed Aug 18):** [Gyeongnam FC fixture list](https://www.gyeongnamfc.com/match/match.php) — lists every 2026 fixture with venue · [K League](https://www.kleague.com/)
 
 ### 28) 🤖 **Gyeongnam Masan Robot Land** — 🔎 VERIFIED OPERATOR
 - **What:** Theme park and robotics-themed facilities on the Masan coast.

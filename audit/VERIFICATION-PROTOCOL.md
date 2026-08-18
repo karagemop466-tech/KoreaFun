@@ -79,3 +79,17 @@ Do not add an entry solely to increase a count.
 ## Next pass order
 
 Re-check October 2026 calendars for every ⏳ item. Do not add entries solely to raise a count. Prefer dated organizer pages over city planning PDFs.
+
+### Checks added after Pass 21
+- **Is the frequency still current?** Daily → weekly is a real decay path (Yeongdo Bridge: daily 14:00 → Saturdays only). Treat "regular", "daily" and "every afternoon" as claims needing a date-stamped source, exactly like a price.
+- **Can you even get in?** Advance-booking-only, capped party size and enforced time slots are as disqualifying as a closure (Hoam: no walk-ups; Leeum, same foundation, allows them). Never assume two venues under one operator share access rules.
+- **How do you physically reach it?** Shuttles are seasonal (Everland↔Hoam suspended in winter). Verify the transport, not only the venue.
+- **Is the published price the real price?** Where an operator runs a rotating monthly discount page, the gate fare is close to fictional (Korean Folk Village ₩37,000 → ₩17,000 with the public-transport discount).
+- **Does the closure cover the whole site?** Namsangol closes its hanok interiors on Mondays but not its garden. "Closed Monday" can be partial in both directions.
+
+### Checks added after Pass 23
+- **Is a "national rule" still the rule?** Policy changes silently invalidate every entry that cites it. Culture Day moved from monthly to weekly on 2026-04-01; the repo had written off three usable days. Re-verify recurring national benefits, not just venue facts.
+- **A local anomaly may be a national rule seen through a keyhole.** Daegu's "free every Wednesday" was recorded as a venue quirk; it was the nationwide change. When one venue contradicts the general rule, ask whether the general rule moved.
+- **When frequency doubles, price often rises.** The Culture Day cinema ticket went ₩7,000 monthly → ₩10,000 twice monthly. A better-sounding benefit can cost more per use.
+- **Negative-test a guard rule against the REAL regression.** Restore the sentence the rule exists to prevent; do not just mutate a keyword. `re.I` plus a nearby duplicate phrase can make a broken rule look healthy.
+- **Never let an edit heredoc run chained to the commit.** Assert with a message, then grep the file to confirm the text landed. A failed edit inside `a && b && c` can still end in a commit whose message describes work that never happened.

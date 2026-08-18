@@ -22,18 +22,22 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 
 ### 2) 🍜 **Jjajangmyeon Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum in the former Gonghwachun restaurant building about the Korean-Chinese noodle dish and Chinatown food history.
-- **Hours/price:** Check the district museum page; normally Tue–Sun and closed Monday.
-- **Official source (reviewed Aug 17):** [Incheon City — Jjajangmyeon Museum](https://www.incheon.go.kr/world/wd030800/view?contentid=2034160)
+- **Hours/price:** **₩1,000 adult / ₩700 youth / ₩500 military. Children 12 and under free; over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays** (next day if that Monday is a holiday), Jan 1, Seollal and Chuseok.
+- **💡 Buy the ₩3,400 combined ticket instead** — see #3 below. This museum alone is ₩1,000, so the pass pays off from the third site.
+- **Official source (reviewed Aug 18):** [Jemulpo Cultural Foundation — museum hours and fares](https://www.jcf.or.kr/main/space/leaflet.jsp)
 
 ### 3) 🏦 **Incheon Open Port Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Museum in a former bank building documenting the 1883 port opening and early modern exchange.
-- **Hours/price:** Normally Tue–Sun 09:00–18:00; verify holiday closures and combined tickets.
-- **Official source (reviewed Aug 17):** [Incheon City Open Port guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)
+- **Hours/price:** **₩500 adult / ₩300 youth and military. Children 12 and under free; over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays** (next day if a holiday), Jan 1, Seollal and Chuseok.
+- **✅ There IS a combined ticket, and it is the right buy: ₩3,400 adult / ₩2,300 youth / ₩2,100 military** covers **five open-port museums** — this one, the Modern Architecture Exhibition Hall (#4), the Jjajangmyeon Museum (#2), the Korean-Chinese Cultural Center / Overseas Chinese History Museum (#5), and the Daebul Hotel & Living History Exhibition Hall.
+- **⚠️ All five keep identical hours and all close Monday**, so they are a natural single walk — and a Monday kills the entire cluster at once. Buy the pass at whichever one you reach first.
+- **Official sources (reviewed Aug 18):** [Jemulpo Cultural Foundation — combined ticket and fare table](https://www.jcf.or.kr/main/space/leaflet.jsp) · [combined-ticket booking](http://ijcfmuseum.com/)
 
 ### 4) 🏛️ **Open Port Modern Architecture Exhibition Hall** — 🔎 VERIFIED MUSEUM
 - **What:** Exhibition in another former bank building interpreting surviving treaty-port architecture.
-- **Hours/price:** Normally Tue–Sun 09:00–18:00; check the district site.
-- **Official source (reviewed Aug 17):** [Incheon City Open Port guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)
+- **Hours/price:** **₩500 adult / ₩300 youth and military; children 12 and under free, over-65s free.** **Tue–Sun 09:00–18:00, last entry 17:30. Closed Mondays**, Jan 1, Seollal and Chuseok. Covered by the **₩3,400 five-museum pass** (#3).
+- **What's in the building:** it *is* the exhibit — the former **Japanese 18th Bank Incheon branch**, Incheon Tangible Cultural Heritage No. 50, with its original walls, roof structure and **bank vault** intact. Inside are scale models and film of the treaty-port concession area, including buildings that no longer exist.
+- **Official source (reviewed Aug 18):** [Jemulpo Cultural Foundation — Modern Architecture Exhibition Hall](https://www.jcf.or.kr/main/space/museum3.jsp)
 
 ### 5) 🇨🇳 **Korean-Chinese Cultural Center** — 🔎 VERIFIED PLACE
 - **What:** Exhibitions and programs about cultural exchange and Incheon’s Chinese-Korean community.
@@ -82,12 +86,16 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 
 ### 13) 🧳 **Museum of Korea Emigration History** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal museum focused on the history of Korean emigration beginning through Incheon.
-- **Hours/price:** Incheon City lists 09:00–18:00, last entry 17:30, closed Monday and New Year’s Day, free.
+- **Hours/price:** **09:00–18:00, last entry 17:30. Free.** Closed **Mondays** (except when the Monday is a public holiday), **Jan 1**, and **the day after a public holiday** — that last rule is unusual and easy to trip over. ☎ 032-440-4710.
+- **Allow 40–60 minutes.** Four permanent halls trace emigration from Incheon port, which is the starting point of Korean emigration history — a natural pairing with the Maritime Museum (#14), both on Wolmi.
+- **Groups of 20+** must reserve by phone a week ahead; individuals just turn up.
 - **Official source (reviewed Aug 17):** [Incheon City museum guide](https://www.incheon.go.kr/en/EN030111)
 
 ### 14) ⚓ **Incheon National Maritime Museum** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** National museum on maritime history, trade, navigation, ports, and ocean culture, opened on Wolmi Island in 2024.
-- **Hours/price:** 10:00–18:00, last entry 17:30, closed Monday and designated holidays, free.
+- **What:** National museum on maritime history, trade, navigation, ports and ocean culture, opened on **Wolmi Island in Dec 2024** — so it's genuinely new. Permanent halls cover maritime exchange history, ports and shipping, fishing-village culture, plus a media room and a children's museum.
+- **Hours/price:** **10:00–18:00, last entry 17:30. Closed every Monday**, Jan 1, Lunar New Year's Day and Chuseok. **Free** — confirmed on the museum's own English homepage.
+- **✅ Two big Greece exhibitions run right through your trip:** 《그리스, 바다가 빚은 위대한 문명》 (*Greece: A Great Civilization Shaped by the Sea*), the headline special exhibition, **Aug 11–Dec 6, 2026**, and the companion theme show 《The First Wave: 조선造船, 그리스로 가다》, **Aug 10–Dec 6, 2026**. Both are on for every day you're in Korea.
+- **⚠️ Children's museum needs advance online booking** and admits children only with an accompanying adult.
 - **Official source (reviewed Aug 17):** [Incheon National Maritime Museum](https://www.inmm.or.kr/en/index.do)
 
 ### 15) 🎡 **Wolmi Culture Street and amusement parks** — 🔎 VERIFIED AREA
@@ -120,8 +128,11 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 - **Official sources (reviewed Aug 17):** [Tri-Bowl](https://www.tribowl.kr) · [VISITKOREA Songdo guide](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=177&vcontsId=137611)
 
 ### 20) 🔤 **National Museum of World Writing Systems** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** Museum comparing writing systems and civilizations, with multilingual interpretation and a permanent exhibition.
-- **Hours/price:** 10:00–18:00, closed Monday, free.
+- **What:** Only the **third museum in the world devoted to writing systems** (after Champollion in France and the National Museum of Chinese Writing), opened June 2023 in Songdo. Permanent exhibition is in B1, temporary galleries and a children's hands-on room on 1F, cafeteria on 2F looking over Songdo Central Park.
+- **Hours/price:** Tue–Sun **10:00–18:00, last entry 17:30. Closed Mondays**, Jan 1, and Lunar New Year's/Chuseok day. **Free** (paid special exhibitions excepted). ☎ 032-290-2000.
+- **⚠️ Monday-holiday rule:** if a Monday is a public holiday the museum **opens that Monday and closes the next weekday instead** — worth checking if your visit falls near a holiday.
+- **Free guided tours (Korean), 60 min:** Tue–Fri 10:30 / 14:00 / 15:30, weekends and holidays 10:30 / 14:00, first-come on the day.
+- **Children's hands-on room requires online advance booking** and an accompanying adult.
 - **Official source (reviewed Aug 17):** [National Museum of World Writing Systems](https://mow.or.kr/eng/index.do)
 
 ### 21) 🏢 **Songdo Convensia** — ⏳ CHECK EVENT CALENDAR
@@ -244,13 +255,18 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 
 ### 42) 🖼️ **Incheon ArtShow 2026 (INAS)** — ✅ CONFIRMED — Thu Nov 19–Sun Nov 22, 2026 · NEW
 - **What:** Contemporary art fair at Songdo Convensia, organized by the Incheon ArtShow Organizing Committee.
-- **When:** Official organizer page: **Nov 19–22, 2026**. VIP/general opening Nov 19 11:00–19:00 (last entry 18:00); Nov 20–21 10:00–19:00; Nov 22 10:00–18:00. Opening-ceremony time is marked subject to change.
-- **Official source (reviewed Aug 17):** [Incheon ArtShow 2026](https://iartshow.imweb.me/)
+- **When (exact, from the organizer's own table):** **Nov 19–22, 2026.** Thu Nov 19 **11:00–19:00** (VIP preview + general open; last entry 18:00, opening ceremony 15:00 "subject to change") · Fri Nov 20–Sat Nov 21 **10:00–19:00** (last entry 18:00) · **Sun Nov 22 10:00–18:00 (last entry 17:00)**.
+- **Theme:** *Beyond Asia, Connect Global*. Alongside the booths the organizer runs a docent tour, art-talk programme, an art academy and an artist talk by actor-painter **Park Shin-yang**.
+- **✅ The one event that actually works on departure day.** Songdo Convensia is on the Incheon side, roughly 30–40 min from ICN — so unlike everything else competing for Nov 22 (G-STAR in Busan, the E-Land finale in Seoul), you can do a couple of hours here and still make an afternoon or evening flight. Just respect the **17:00 last entry**.
+- **Official source (reviewed Aug 18):** [Incheon ArtShow 2026 — viewing schedule table](https://iartshow.imweb.me/)
 
 ### 43) 🎵 **My Chemical Romance — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 7, 2026 · NEW
-- **What:** Concert at Paradise City Culture Park on Yeongjong, the same night as the Busan Fireworks Festival.
-- **When:** **Sat Nov 7, 2026**. Setlist.fm lists doors 16:00 / show 19:00; confirm on the ticket platform you actually use.
-- **Official source (reviewed Aug 17):** Upcoming-show listing for Paradise City Culture Park, Nov 7, 2026. Buy only through a named Korean ticket seller ([Interpark Global](https://global.interpark.com) or the venue’s posted partner).
+- **What:** THE BLACK PARADE 2026 TOUR at Paradise City Culture Park, Yeongjong — the band's first Korean show in 18 years. Promoter is **ualive (위얼라이브)**, 90 min, ages 13+.
+- **When:** **Sat Nov 7, 2026, 19:00.** ⚠️ This date is a **reschedule** — it was originally Apr 18, 2026 and was pushed to November, so older articles and any ticket you see referencing April are out of date.
+- **Hours/price:** Standing ₩175,000 · Reserved R ₩195,000 · Reserved P ₩220,000 (+₩2,000 booking fee). **Effectively sold out** — general sale cleared nearly every seat on day one; only returned/cancelled tickets appear. No wheelchair seating at this show.
+- ⚠️ **Scalping warning:** ualive is voiding resale tickets found on secondhand sites and SNS **without notice**, and neither promoter nor venue accepts liability. Buy only via TicketLink.
+- ⚠️ **Hard clash:** this is the same night as the Busan Fireworks Festival *and* KGMA Day 1. Yeongjong is out by the airport, so this realistically consumes the whole evening.
+- **Official source (reviewed Aug 18):** [TicketLink product page 57330](https://m.ticketlink.co.kr/product/57330) — date, 19:00 start, venue address and the full price table.
 
 ---
 

@@ -16,16 +16,23 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 
 ### 1) 🍷 **Daejeon International Wine EXPO 2026** — ✅ CONFIRMED — Fri Nov 6–Sun Nov 8, 2026
 - **What:** Wine trade show and public tasting at Daejeon Convention Center, with companion programs (Asia Wine Trophy and related events) listed **Nov 1–8**.
-- **When:** Official English homepage: exhibition halls **Nov 6–8**; other events **Nov 1–8**.
-- **Official source (reviewed Aug 17):** [djwinefair.com/eng](https://www.djwinefair.com/eng)
+- **When:** Official English homepage: exhibition halls **Nov 6–8**; other events **Nov 1–8**. Hours are **11:00–18:00**, except Fri Nov 6 which runs to 19:00.
+- **⚠️ Venue detail:** It is in **DCC Hall II** — not Hanbit Tower. (An earlier draft of this guide said tastings were at Hanbit Tower; that was wrong and has been corrected.)
+- **⚠️ Buyers-only zone — read carefully:** the restriction is on the **"business zone" specifically, not the whole exhibition**. General visitors can attend on any of the three days; they simply cannot enter the business zone **all day Fri Nov 6 and until 14:00 on Sat Nov 7**. So Friday is still perfectly worth going to — an earlier version of this entry said Friday was closed to the public, which was too strong. To see everything, go **Sat after 14:00 or Sun Nov 8**.
+- **Price:** **₩16,000** early-bird (advance sale ran Jul 7–Sep 20) vs **₩23,000** on the door — so buy ahead if you can. Multi-day: ₩26,000 / 2-day, ₩33,000 / 3-day early-bird. Sold via NOL (Interpark) and Naver 예약.
+- **⚠️ Ages 19+ to enter, and bring photo ID** — this is an alcohol event and they do check. Accompanied children/teens can enter free but cannot taste.
+- **Practical:** last entry is **1 hour before close** (18:00 Fri, 17:00 Sat/Sun). **Bring your own wine glass or buy one at the entrance (~₩5,000).** Around 200 exhibitors from ~16 countries.
+- **Official sources (reviewed Aug 18):** [Visitor guide, djwinefair.com/eng/0501](https://djwinefair.com/eng/0501) — states hours, buyer rules and admission fees · [Main event page](https://djwinefair.com/eng/0301)
 
-### 2) ⚽ **Cheonan City FC vs Busan IPark** — ⏳ CHECK OFFICIAL MATCH CENTER — Sun Nov 8, 2026
-- **What:** K League 2 fixture widely listed at Cheonan Stadium. Confirm kickoff and tickets on the league site before traveling.
-- **Official sources (reviewed Aug 17):** [kleague.com](https://www.kleague.com) · [cheonancityfc.kr](https://cheonancityfc.kr)
+### 2) ⚽ **Cheonan City FC vs Busan IPark** — ✅ CONFIRMED — Sun Nov 8, 2026 · 14:00
+- **What:** K League 2 round 32 at **Cheonan Stadium (천안종합운동장)**, Cheonan City FC hosting Busan IPark. Cross-checked against Busan IPark’s own official match centre, which lists the same date, time, and away fixture.
+- **When:** **Sun Nov 8, 14:00.** A daytime kickoff makes this an easy add-on to a Daejeon/Cheonan day.
+- **Official sources (reviewed Aug 17):** [busanipark.com match schedule](https://www.busanipark.com/match/match_schedule.php) · [kleague.com](https://www.kleague.com/schedule.do) · [cheonancityfc.kr](https://cheonancityfc.kr)
 
-### 3) 🏐 **V-League — Daejeon and Cheonan home teams** — ⏳ SEASON UNDERWAY; FIXTURES LATER
+### 3) 🏐 **V-League — Daejeon and Cheonan home teams** — ✅ SEASON CONFIRMED; FIXTURES LATER
 - **What:** Daejeon: Samsung Fire Bluefangs (men) and JeongKwanJang Red Sparks (women) at Chungmu Gymnasium. Cheonan: Hyundai Capital Skywalkers (men) at Yu Gwan-sun Gymnasium.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr)
+- **When:** KOVO’s board set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22), so all three clubs are mid-season throughout your trip. This corridor is unusually dense for volleyball — three top-flight teams within an hour of each other. Get the round-by-round fixtures from KOVO.
+- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
 
 ### 4) 🍜 **Noodle Daejeon Festival** — ⏳ TBA
 - **What:** City noodle festival at Hanbit Tower Plaza. 2025 ran Nov 7–9; **do not copy that weekend into 2026**.
@@ -36,8 +43,8 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official source (reviewed Aug 17):** [oworld.kr](https://www.oworld.kr)
 
 ### 6) ⚽ **Daejeon Hana Citizen** — 👀 WATCH
-- **What:** K League 1 final-round home matches at Daejeon World Cup Stadium, if the October draw lands in the window.
-- **Official sources (reviewed Aug 17):** [kleague.com](https://www.kleague.com) · [dhcfc.kr](https://www.dhcfc.kr)
+- **What:** K League 1 final-round home matches at **Daejeon World Cup Stadium**. The last five rounds run **Oct 31–Dec 6, 2026** and are drawn only after the regular phase ends **Oct 25**; each club receives **2–3 home games** in that window. A Daejeon home match during your stay is plausible but unschedulable until the league publishes in late October.
+- **Official sources (reviewed Aug 18):** [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do) · [dhcfc.kr](https://www.dhcfc.kr)
 
 ### 7) ⚾ **Hanwha Eagles postseason** — 👀 WATCH
 - **What:** Only relevant if Hanwha is still playing in early November at Hanwha Life Ballpark.
@@ -64,8 +71,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official sources (reviewed Aug 17):** [djto.kr](https://www.djto.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
 ### 12) 🔬 **National Science Museum** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** National hands-on science museum next to the Expo grounds. Closed Monday; planetarium is separate.
-- **Official source (reviewed Aug 17):** [science.go.kr](https://www.science.go.kr)
+- **What:** Korea's national hands-on science museum, next to the Expo grounds.
+- **Hours/price:** **09:30–17:30. Closed Mondays**, Jan 1, Seollal and Chuseok. *(If it opens on a public holiday it closes the following day instead — no November 2026 holidays, so this is inert.)*
+- **✅ Most of it is genuinely free** — Science & Technology Hall, Natural History Hall, Human Hall, Children's Science Hall, Biology Hall, the astronomical observation post, Future Tech Hall and the whole outdoor exhibition area.
+- **⚠️ Three halls are ticketed and need booking:** **Changui-narae Hall** (adult ₩2,000 / youth-child ₩1,000), **Kkumatti experience hall** (₩2,000/₩1,000, **under-6s only**), and the **Planetarium (천체관)** — ₩2,000/₩1,000, in fixed 30-min slots from 10:00 to 17:00. **Booking opens 30 days ahead**; popular slots go early. Free for over-65s, disabled visitors +1 carer, and national-merit holders.
+- **Official source (reviewed Aug 18):** [National Science Museum — ticketed halls, prices, slot times](https://www.science.go.kr/mps/cntnts/1039/moveCntnts.do)
 
 ### 13) 🌳 **Hanbat Arboretum** — 🔎 VERIFIED PARK
 - **What:** Large urban arboretum beside the government complex. West and East gardens have different closed days.
@@ -84,8 +94,12 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official source (reviewed Aug 17):** [yuseong.go.kr](https://www.yuseong.go.kr)
 
 ### 17) 🌌 **Daejeon Astronomical Observatory** — 🔎 VERIFIED PLACE
-- **What:** Public observatory in Yuseong. City listing has described free admission and evening telescope time; weather and Monday closures apply.
-- **Official source (reviewed Aug 17):** [djstar.kr](https://djstar.kr)
+- **What:** Daejeon Citizens' Observatory in Yuseong — a public astronomical observatory with a projection dome (천체투영관), main and secondary telescope rooms, and an exhibition floor.
+- **Hours/price:** **FREE. 14:00–22:00, last entry 21:50** — note it does **not open in the morning**; this is an afternoon-and-evening venue, which suits it since the point is looking at the sky.
+- **⚠️ Closed Mondays AND the day after any public holiday**, plus Seollal/New Year holidays. **Individuals need no reservation**; groups of 30+ must book.
+- **⚠️ November means early darkness — that is good here.** Real telescope observation needs dark sky, so a winter visit gets night viewing far earlier than in summer. **Clouds cancel telescope sessions**, but the dome show and exhibition floor run regardless.
+- **💡 Tue and Sat 20:00** there is a 40-minute "star music and poetry" session in the projection dome — online bookers get priority, remaining seats go to walk-ins.
+- **Official source (reviewed Aug 18):** [Daejeon Citizens' Observatory — hours, closures, free admission](https://old.djstar.kr/bbs/board.php?bo_table=brd2_1&page=) *(the main `djstar.kr` front page 404s; the operator's board is the live source — confirm the month's timetable there before going)*
 
 ### 18) 🎓 **KAIST campus walk** — 🔎 VERIFIED PLACE
 - **What:** Open science-university campus (Ounji pond, autumn trees). Cafeterias and buildings have their own rules.
@@ -139,8 +153,13 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 ## Cheonan and Asan
 
 ### 30) 🏛️ **Independence Hall of Korea** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** National independence museum in Mokcheon, Cheonan. Free. November hours are shorter; closed Monday. The maple avenue on the grounds is the foliage walk — not a separate festival unless the Hall announces one.
-- **Official source (reviewed Aug 17):** [i815.or.kr](https://www.i815.or.kr)
+- **What:** Korea's national independence museum in Mokcheon, Cheonan — seven permanent halls behind the vast Grand Hall of the Nation. The maple avenue on the grounds is the foliage walk; it is **not** a separate festival unless the Hall announces one.
+- **Hours/price:** **Free for everyone.** **Your trip is winter (Nov–Feb): grounds 09:30–17:00, but LAST ENTRY IS 16:00.** (Summer is 09:30–18:00 with entry to 17:00.)
+- **⚠️ The one-hour gap between last entry and closing catches people out.** Arriving at 16:30 in November means you do not get in at all, even though the site is still "open". Aim to arrive by **15:00** — the site is genuinely large and seven halls need 2–3 hrs.
+- **⚠️ Closed Mondays — but OPEN if the Monday is a public holiday.** (No November 2026 holidays, so **Mon Nov 2, 9 and 16 are all closed.**) The **outdoor exhibits and rest areas stay open year-round** even on closed days.
+- **Parking ₩2,000** car / ₩3,000 large — **free on Mondays.**
+- **🎬 Free MR independence film theatre**, 20-min shows, **winter 10:00–16:00 (5 showings)**. No entry once a film starts — be there 15 min early. Height/health restrictions apply.
+- **Official source (reviewed Aug 18):** [Independence Hall of Korea — visitor guide, seasonal hours, parking](https://i815.or.kr/2018/tour/info.do)
 
 ### 31) 🥮 **Hakwha Hodugwaja** — 🔎 VERIFIED OPERATOR
 - **What:** Original Cheonan walnut pastry (est. 1934). Eat them warm from a named branch.

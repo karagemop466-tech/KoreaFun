@@ -28,32 +28,47 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 ### 3) 🎨 **Busan Biennale 2026 “Dissident Chorus”** — ✅ CONFIRMED — through Sun Nov 1, 2026
 - **What:** Contemporary-art biennale across Busan MoCA, Space Wonji / Space One-Z on Yeongdo, and the former Busan Nam High School.
 - **When:** **Aug 29–Nov 1, 2026** (65 days). The trip catches only Oct 31–Nov 1.
-- **Official source (reviewed Aug 17):** [busanbiennale.org](https://busanbiennale.org)
+- **Scale:** 44 artists/teams from 23 countries; co-directed by Evelyn Simons and Amal Khalaf. Organised by Busan Metropolitan City + Busan Biennale Organizing Committee.
+- **Official sources (reviewed Aug 18):** [busanbiennale.org](https://busanbiennale.org) · dates independently corroborated by the committee's own [Instagram announcement](https://www.instagram.com/busanbiennale/) (2026. 8. 29. – 11. 1.)
 
 ### 4) 🕯️ **Turn Toward Busan** — ✅ ANNUAL CEREMONY — Wed Nov 11, 2026, 11:00
 - **What:** One-minute silence for UN Korean War dead at the UN Memorial Cemetery, observed worldwide at 11:00 KST every Nov 11. The cemetery itself is a verified place (entry #20).
 - **Price:** Free.
 - **Official sources (reviewed Aug 17):** [unmck.or.kr](https://www.unmck.or.kr) · [Visit Busan UNMCK feature](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=277&lang_cd=en)
 
-### 5) ⚽ **Busan IPark (K League 2)** — ⏳ CHECK OFFICIAL MATCH CENTER
-- **What:** Home matches at Gudeok Stadium. Third-party calendars list **Sat Nov 21 vs Chungnam Cheongju** and an **Nov 8 away match at Cheonan**. Confirm opponent, kickoff, and tickets on the league site.
-- **Official sources (reviewed Aug 17):** [kleague.com](https://www.kleague.com) · [busanipark.com](https://www.busanipark.com)
+### 5) ⚽ **Busan IPark (K League 2)** — ✅ CONFIRMED — Sat Nov 21, 2026 · 14:00
+- **What:** Home match at **Gudeok Stadium (부산 구덕)** vs **Chungbuk Cheongju**, round 33. Busan sat 5th in K League 2 in mid-August 2026, well inside the promotion-playoff race.
+- **When:** **Sat Nov 21, 14:00.** The club’s official match centre also shows Busan **away** at Cheonan on **Sun Nov 8 (14:00)** and away at Chungnam Asan on Nov 29 (after you fly home), so Nov 21 is the one home game in your window.
+- **Official sources (reviewed Aug 17):** [busanipark.com match schedule](https://www.busanipark.com/match/match_schedule.php) · [kleague.com](https://www.kleague.com/schedule.do)
 
-### 6) 🏐 **V-League — Busan OK Savings Bank** — ⏳ SEASON UNDERWAY; FIXTURES LATER
-- **What:** Men’s professional volleyball. Use [kovo.co.kr](https://www.kovo.co.kr) for November home dates. Do not invent a venue or tip-off.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr)
+### 6) 🏐 **V-League — Busan OK Savings Bank** — ✅ SEASON CONFIRMED; FIXTURES LATER
+- **What:** Men’s professional volleyball — **OK Savings Bank Eutman (읏맨)**. ⚠️ **CORRECTION: they do NOT play at Sajik.** The club moved from Ansan to Busan for the 2025–26 season and its home court is the **Gangseo Sports Park Indoor Gymnasium (강서체육공원 실내체육관)** in Gangseo-gu — the far west of the city, not the Sajik sports complex.
+- **Getting there:** **Busan Metro Line 3 to Sports Park (체육공원) station**, connected at basement level. This is a long ride from Haeundae/Centum — budget 50–70 minutes from the BEXCO area.
+- **When:** KOVO confirmed the **2026–27 regular season as Oct 31, 2026 – Apr 2, 2027**, so the league is live for your entire trip. Round-by-round fixtures come from KOVO — don’t assume a start time.
+- **⚠️ Book ahead, this is not a walk-up.** The move to Busan was a hit: OK Savings Bank **sold out every weekend home game** of its first Busan season and was the only club in either V-League division averaging over 3,000 spectators. If a home date falls in your window, buy online rather than turning up at the box office.
+- **Official sources (reviewed Aug 18):** [kovo.co.kr](https://www.kovo.co.kr) · [club home-ground page](https://www.okfinancialsports.com/m/volley/club/home_ground.asp) · [Busan City — Gangseo Sports Park access](https://www.busan.go.kr/stadium/sfplacegs) · [Yonhap — sell-out first Busan season](https://www.yna.co.kr/view/AKR20260315018500007)
 
-### 7) 🏀 **KBL — Busan KCC Egis / WKBL — BNK Sum** — ⏳ CHECK LEAGUE CALENDARS
-- **What:** Men’s and women’s basketball at Sajik Indoor Gymnasium. Seasons are normally running in November; fixtures are published later.
-- **Official sources (reviewed Aug 17):** [kbl.or.kr](https://www.kbl.or.kr) · [wkbl.or.kr](https://www.wkbl.or.kr)
+### 7) 🏀 **KBL — Busan KCC Egis / WKBL — BNK Sum** — ✅ SEASON CONFIRMED — league running all trip
+- **What:** Men’s (KCC Egis) and women’s (BNK Sum) basketball at **Sajik Indoor Gymnasium**.
+- **When:** KBL released the 2026–27 schedule on Aug 10, 2026: **Oct 3, 2026 – Apr 11, 2027**, 54 games per team, 1 game on weekdays and 3 at weekends. The season *opener* was Busan’s — **KCC vs Changwon LG, Sat Oct 3, 14:00 at Sajik**.
+- **⚠️ CHECK THE NOVEMBER INTERNATIONAL BREAK BEFORE COUNTING ON A GAME.** KBL stops for FIBA World Cup qualifying windows, and the **2027 World Cup Asian qualifier Window 5 runs Nov 23 – Dec 1, 2026** per the Korea Basketball Association. In the equivalent 2025–26 window the league paused from **Nov 21**. Your Busan days are **Nov 19–22**, which sits right on that boundary — a KCC home game may or may not survive it.
+- **Verify on the KBL fixture list once November fixtures post**, and treat basketball as a bonus rather than a fixed plan for the Busan leg.
+- **Official sources (reviewed Aug 18):** [kbl.or.kr](https://www.kbl.or.kr) · [wkbl.or.kr](https://www.wkbl.or.kr) · [KBA national-team calendar — qualifier Nov 23–Dec 1, 2026](https://www.koreabasketball.or.kr/national/schedule.php) · [schedule release](https://www.basketkorea.com/news/newsview.php?ncode=1065589462597924)
 
-### 8) 💡 **Seomyeon Light Festival / Millak Luce Festa** — ⏳ RE-CHECK SWITCH-ON
-- **What:** Recurring winter illuminations on Seomyeon 1st Street and the Millak waterfront. Previous winters started in November, but **2026 switch-on dates were not on an organizer page** at review.
-- **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · district sites for Busanjin-gu and Suyeong-gu
+### 8) 💡 **Busan winter illuminations** — ❌ MOSTLY TOO EARLY — see dates
+- **What:** Busan's winter light displays, the biggest being the **Gwangbok-ro Winter Light Tree Festival** in Nampo-dong (trees, luminarie and a fountain-square media façade), plus smaller Seomyeon and Millak displays.
+- **⚠️ You will miss the main one.** The Gwangbok-ro festival runs **early December to late February** — the 2025–26 edition ran **Dec 5 – Feb 22, lit 17:30–22:00**. **You leave Korea on Nov 22**, roughly two weeks before switch-on.
+- **The Seomyeon display has historically lit up in late November/early December too** — a past edition began Dec 6. **No 2026 switch-on date was published** at review, so treat any November lighting as a bonus, not a plan.
+- **💡 Don't build a Nampo-dong evening around lights.** The **Gwangalli drone show (#9)** is the illumination event that *is* running in your window, free and confirmed.
+- **Official sources (reviewed Aug 18):** [Visit Busan — Gwangbok-ro Winter Light Tree Festival dates](https://www.visitbusan.net/schedule/view.do?boardId=BBS_0000009&menuCd=DOM_000000204019000000&dataSid=5014) · [festival listing](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201005001000&uc_seq=449)
 
 ### 9) 🛩️ **Gwangalli M Drone Light Show** — ⏳ WEEKLY, WEATHER-DEPENDENT
-- **What:** Suyeong-gu Saturday drone show over Gwangalli. Winter pattern in recent years: 19:00 and 21:00. **Nov 7 is fireworks night** — do not assume a separate drone show that evening.
-- **Official source (reviewed Aug 17):** [gwangallimdrone.co.kr](https://www.gwangallimdrone.co.kr)
+- **What:** Korea's first and largest permanent drone light show — **1,100 drones**, ~12 minutes, over Gwangalli beach with the Gwangan Bridge behind it. Free, no ticket, viewable from anywhere on the beach.
+- **When (operator, Aug 18):** **every Saturday, TWO shows, and your trip is the winter schedule: 19:00 and 21:00.** *(Summer Mar–Sep is 20:00 and 22:00.)* Some travel write-ups claim winter drops to a single 19:00 show — **the operator's own event page says two.**
+- **✅ Your Saturdays are Nov 7, 14 and 21.** With sunset around 17:20 in November, the 19:00 show is fully dark — no need to wait for the late one.
+- **⚠️ Nov 7 is Busan Fireworks night** — do not assume a normal drone show that evening; the beach programming changes and crowds are extreme.
+- **⚠️ Weather-dependent** — cancelled for high wind, rain or poor visibility. Special editions run up to 3,000 drones. ☎ Suyeong-gu 051-610-6518.
+- **Official source (reviewed Aug 18):** [Gwangalli M Drone Light Show — official show times](https://www.gwangallimdrone.co.kr/overview)
 
 ---
 
@@ -64,17 +79,28 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Hours/price:** Shore and island paths are free.
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · [haeundae.go.kr](https://www.haeundae.go.kr)
 
-### 11) 🚊 **Haeundae Blueline Park (Beach Train and Sky Capsule)** — 🔎 VERIFIED OPERATOR
-- **What:** Coastal tourist railway from Mipo toward Songjeong, plus the reserved Sky Capsule. November hours are shorter than summer; capsules sell out.
-- **Official source (reviewed Aug 17):** [bluelinepark.com](https://www.bluelinepark.com)
+### 11) 🚊 **Haeundae Blueline Park (Beach Train and Sky Capsule)** — 🔎 VERIFIED OPERATOR — prices confirmed · UPDATED
+- **What:** A 4.8 km coastal line built on the old Donghae Nambu railway between **Mipo — Cheongsapo — Songjeong**. Two separate things run here: the **Beach Train** at ground level, and the **Sky Capsule**, small private pods on an elevated track (Mipo↔Cheongsapo only). It passed **10 million riders in 2026**, five years after opening.
+- **⚠️ Fares rose on May 1, 2026 — these are the current official figures**, from the operator's own fare page:
+  - **Beach Train (per person):** 1 ride **₩10,000** from Mipo/Songjeong (₩8,000 from Cheongsapo or the halts) · 2 rides **₩14,000** · **all-stations ₩16,000** (up to 7 boardings, lets you go back and forth).
+  - **Sky Capsule (per capsule, one-way):** **2-seat ₩50,000 · 3-seat ₩55,000 · 4-seat ₩60,000** — so ₩25,000 each for two, dropping to ₩15,000 each for four.
+  - **Package** (Sky Capsule one-way + all-station Beach Train): **2 people ₩73,000 · 3 ₩92,000 · 4 ₩111,000** — a real saving over buying separately, and no further discounts stack.
+- **Hours:** first Beach Train **09:00**, first Sky Capsule entry **08:30** (both were moved earlier in May 2026). Last runs shift by season — the site's live panel showed 21:30/20:30 finishes in August.
+- **⚠️ Book the Sky Capsule ahead.** Capacity is tiny and it sells out; the operator takes online reservations and applies a sliding cancellation charge (free 3 days out, 50% on the day). The Beach Train you can usually walk up for.
+- **Official source (reviewed Aug 18):** [Blueline Park fare table](https://www.bluelinepark.com/fare.do) · [May 2026 fare-change notice](https://www.bluelinepark.com/noticeView.do?idx=1614) · ☎ 051-701-5548
 
 ### 12) 🌉 **Gwangalli Beach and Gwangan Bridge night lighting** — 🔎 VERIFIED PLACE
 - **What:** Beach promenade facing the Diamond Bridge. Bridge lighting is a regular municipal program; treat special weekend cue-sheets as re-check items.
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · [suyeong.go.kr](https://www.suyeong.go.kr)
 
 ### 13) 🚶 **Igidae Coastal Walk and Oryukdo Skywalk** — 🔎 VERIFIED WALK
-- **What:** Cliff boardwalk plus the free glass skywalk at Oryukdo. Wind can close the skywalk. This is also a serious free fireworks viewpoint on Nov 7.
-- **Official sources (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net) · [namgu.busan.kr](https://www.namgu.busan.kr)
+- **What:** Cliff boardwalk plus the free glass skywalk at Oryukdo — a 15 m horseshoe of bulletproof glass on a 35 m sea cliff. This is also a serious free fireworks viewpoint on Nov 7.
+- **Hours:** **Winter (Oct–May) 09:00–18:00, last admission 17:50.** **Free**, no booking.
+- **✅ Open every day, including Mondays** — the district facilities agency lists it as 연중무휴 (year-round). Some travel guides claim a Monday closure; **that is wrong**, and it matters because Mondays are when most of Busan's museums shut.
+- **⚠️ It does close for weather** — snow, rain, high wind, or maintenance. That is a real risk on an exposed cliff in November. **Call ahead: 051-607-6395** (Haeparang tourist office) or 051-601-3416.
+- **💡 You must wear the free shoe covers** handed out at the entrance, and drinks, selfie sticks and walking poles are not allowed on the glass.
+- **Getting there:** Metro Line 2 to **Kyungsung Univ·Pukyong Univ**, then bus **24, 27 or 131** to Oryukdo Skywalk.
+- **Official sources (reviewed Aug 18):** [Nam-gu Facilities Management Corp — hours, year-round operation](https://bnfmc.or.kr/portal/contents.do?mId=0102010000) · [Nam-gu culture & tourism](https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000601001005000) · [Visit Busan — three skywalks](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=49&lang_cd=ko)
 
 ### 14) 🌇 **Cheongsapo harbor, twin lighthouses, and Daritdol Observatory** — 🔎 VERIFIED PLACE
 - **What:** Fishing harbor on the Blueline, plus the glass sea observatory. Free outdoor access during posted hours.
@@ -84,37 +110,63 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **What:** Quieter surf beach north of Haeundae. November is a walk and, for the prepared, a wetsuit session — not a swim.
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net)
 
-### 16) 🏙️ **Busan X the Sky** — 🔎 VERIFIED OPERATOR
-- **What:** 100th-floor observatory in Haeundae’s LCT. Confirm current adult fare on the operator site (recent official figure ₩29,000).
-- **Official source (reviewed Aug 17):** [busanxthesky.com](https://www.busanxthesky.com)
+### 16) 🏙️ **Busan X the Sky** — 🔎 VERIFIED OPERATOR — ₩27,000 · UPDATED
+- **What:** Observatory on the **100th floor of the LCT Landmark Tower**, Haeundae — the highest viewpoint in Busan, looking down the beach and across to Gwangan Bridge. There's a Starbucks on 98F and an observation café.
+- **⚠️ Price correction:** this entry previously said "recent official figure ₩29,000." Busan's own tourism board and the ticketing listings both give **₩27,000 adult / ₩24,000 child and senior (65+)**. Adult = 13+, child = 3–12; under 36 months free with proof.
+- **Hours:** **10:00–21:00 daily, year-round, last ticket 20:30.** On-site ticket office opens 10 minutes early and stops selling 30 min before close.
+- **Parking:** first 2 hours free in the LCT basement, then ₩1,000 per 15 min.
+- **Note:** some aggregator listings still show the older 22:00/23:00 summer closing times — the operator's current hours are 21:00.
+- **Official sources (reviewed Aug 18):** [busanxthesky.com](https://www.busanxthesky.com/xthesky/xthesky.php) · [Visit Busan official listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000202002001000&uc_seq=996&lang_cd=ko) — states ₩27,000/₩24,000 and 10:00–21:00
 
 ### 17) 🐠 **SEA LIFE Busan Aquarium** — 🔎 VERIFIED OPERATOR
 - **What:** Aquarium under Haeundae Beach. Hours and last entry are operator-controlled.
 - **Official source (reviewed Aug 17):** [visitsealife.com/busan](https://www.visitsealife.com/busan)
 
 ### 18) 🏬 **Shinsegae Centum City and Spa Land** — 🔎 VERIFIED OPERATOR
-- **What:** Department-store complex next to BEXCO, including the ticketed Spa Land jjimjilbang. Useful G-STAR rest stop.
-- **Official source (reviewed Aug 17):** [department.shinsegae.com](https://department.shinsegae.com)
+- **What:** The Shinsegae Centum City complex next to BEXCO, including **Spa Land**, its large jjimjilbang fed by two natural hot-spring sources. A genuinely useful G-STAR recovery stop — one subway stop from the show.
+- **Spa Land hours:** **08:00–23:00, last entry 22:00.**
+- **Price:** **₩26,000 adult / ₩21,000 student** (weekday, weekend and holiday alike). ☎ 1668-2850.
+- **⚠️ The ticket buys FOUR HOURS, not a day.** Over four hours costs **₩5,000 per extra hour**. Spend ₩10,000+ inside (food, drinks — admission doesn't count) and you get **six hours** instead.
+- **⚠️ Elementary-school age and up only** — no toddlers or infants, unlike most Korean spas.
+- **💡 Buy the weekday ticket only for a weekday visit** — using one at a weekend or public holiday costs ₩6,000 extra at the gate.
+- **Official source (reviewed Aug 18):** [Shinsegae Centum City — Spa Land hours, fares, 4-hour rule](https://www.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008)
 
 ### 19) 🎬 **Busan Cinema Center (Dureraum)** — 🔎 VERIFIED VENUE
-- **What:** BIFF’s home, with year-round screenings and a nightly LED roof. BIFF itself is Oct 6–15, **before** the trip.
-- **Official source (reviewed Aug 17):** [dureraum.org](https://www.dureraum.org)
+- **What:** BIFF's home at Centum — a vast cantilevered roof with **the world's largest LED ceiling**, lit nightly over the open Dureraum plaza. **Walking under the roof and watching the light show costs nothing.**
+- **⚠️ BIFF itself is Oct 6–15, before you arrive** — but the building screens films year-round and is a short walk from BEXCO, so it works as a G-STAR evening.
+- **Tickets are cheap by Korean standards:** regular programming around **₩7,000**, with **₩5,000** for youth, seniors and members; special seasons are often less.
+- **❌ The free outdoor Roof Theatre screenings are a summer season only** — the 2026 run was **May 12 – Sep 1**, Tuesdays and Wednesdays at 20:00. **They are over before your trip**; don't turn up expecting an open-air film.
+- **💡 Culture Day discount:** multiplex cinemas nationwide cut 2D tickets to **₩10,000 adult / ₩8,000 youth for screenings starting 17:00–21:00**, on the **second and last Wednesday** of each month — so **Wed Nov 11** is the one inside your trip (Nov 25 is after departure). *(Note: cinemas kept the twice-monthly rule even though Culture Day itself went weekly in April 2026.)* ☎ 051-780-6080.
+- **Official sources (reviewed Aug 18):** [dureraum.org](https://www.dureraum.org) · [screening calendar](http://mobile.dureraum.org/bccm/mcontents/caleMList.do?rbsIdx=27) · [Busan Ilbo — ticket prices](https://www.busan.com/view/busan/view.php?code=2026060210300727494) · [Culture Day expansion to two Wednesdays](https://www.chosun.com/culture-life/culture_general/2026/04/02/XFEUUXICYZFWBG5WZ7Q4J2HOAQ/)
 
 ### 20) 🎨 **Busan Museum of Art and Space Lee Ufan** — 🔎 VERIFIED MUSEUM
-- **What:** Municipal museum at Centum plus the dedicated Lee Ufan building. Permanent collection is free; closed Monday.
-- **Official source (reviewed Aug 17):** [art.busan.go.kr](https://art.busan.go.kr)
+- **What:** Busan's flagship municipal art museum at Centum, plus **Space Lee Ufan**, a separate building designed by the artist himself.
+- **⚠️ Read this before you go — the main building has been shut since Dec 18, 2023** for a ₩43bn renovation. It is **not** a museum you could have walked into for most of 2026.
+- **✅ The good news: it reopens just before your trip.** At review (Aug 18, 2026) the museum's own homepage was running an **"opening in D-30" countdown**, putting reopening around **mid-September 2026** — and it is recruiting staff for a **reopening special exhibition**. So by November you should be arriving at a freshly reopened museum. **Confirm on the homepage before you travel**; a project already two years long can slip again.
+- **Space Lee Ufan is open regardless** and has stayed open right through the works — **Tue–Sun 10:00–18:00, last entry 17:30, closed Mondays.**
+- **💡 Price: Space Lee Ufan normally costs ₩3,000 adult / ₩2,000 child, but is currently FREE** while the main building is closed. Expect the charge to return with the reopening. The main building's permanent collection is free; special exhibitions are ticketed separately.
+- **⚠️ No on-site parking and no docent tours** during the works — take the subway (Line 2 / Donghae Line, BEXCO station). ☎ 051-744-2602.
+- **Official sources (reviewed Aug 18):** [Busan Museum of Art — renovation notice and reopening countdown](https://art.busan.go.kr/index.nm) · [visitor information](https://art.busan.go.kr/index.nm?menuCd=1)
 
 ---
 
 ## Nampo, Yeongdo, and the old port
 
 ### 21) 🗼 **Yongdusan Park and Busan Tower** — 🔎 VERIFIED OPERATOR
-- **What:** Hill park above Nampo and the renovated observatory. Park is free; tower is ticketed.
-- **Official sources (reviewed Aug 17):** [bisco.or.kr](https://www.bisco.or.kr) · [Visit Busan](https://english.visitbusan.net)
+- **What:** Hill park above Nampo-dong with the city's classic landmark observatory (also branded **Busan Diamond Tower**), reached by a street escalator from the subway.
+- **Park:** **free, open 24 hours, year-round.**
+- **Tower:** **10:00–22:00, last tickets 21:30.** **₩12,000 adult / ₩9,000 child (36 months–12) and senior 65+**, under-3s free.
+- **💡 Free with the Visit Busan Pass**, if you're buying one for other attractions.
+- **Getting there:** Line 1 to **Jungang** exit 1 (6 min) or **Nampo** exit 7 (7 min). Use the **escalator** rather than the stairs — it's a genuine hill.
+- **💡 Pairs naturally with the Yeongdo Bridge lift (#27) and Jagalchi (#22)** — all three are within a 15-minute walk of each other in Nampo-dong.
+- **Official sources (reviewed Aug 18):** [BISCO — Yongdusan Park / Busan Tower (operator)](https://www.bisco.or.kr/yongdusanpark/) · [Visit Busan — hours, fares, access](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko)
 
 ### 22) 🐟 **Jagalchi Market** — 🔎 VERIFIED MARKET
-- **What:** Fish market with upstairs restaurants and a rooftop harbor deck. Closed first and third Tuesday in recent years — verify.
-- **Official source (reviewed Aug 17):** [jagalchimarket.org](http://www.jagalchimarket.org)
+- **What:** Korea's largest seafood market — street-side stalls, a live-fish floor, upstairs restaurants that will cook what you buy downstairs, and a rooftop harbour deck.
+- **Hours:** **05:00–22:00.** **Closed the 1st and 3rd Tuesday of every month** — confirmed, not a rumour.
+- **✅ Good news for your plan: the November closures are Tue Nov 3 and Tue Nov 17, and your Busan days are Nov 19–22.** Jagalchi is open for the whole of your stay.
+- **💡 It's a 10-minute walk from the Yeongdo Bridge lift** (#27) and backs onto Gukje/Kkangtong markets — one Nampo-dong afternoon covers all three. ☎ 051-245-2594.
+- **Official sources (reviewed Aug 18):** [BISCO — Jagalchi Market (operator)](https://www.bisco.or.kr/jagalchimarket/) · [KTO listing — hours and closure days](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318)
 
 ### 23) 🛍️ **Gukje Market and Bupyeong Kkangtong Night Market** — 🔎 VERIFIED MARKETS
 - **What:** Daytime international market plus the covered night-food market that sets up in the evening. Treat as one Nampo market district.
@@ -133,12 +185,19 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [yeongdo.go.kr](https://www.yeongdo.go.kr) · [Visit Busan](https://english.visitbusan.net)
 
 ### 27) 🌉 **Yeongdo Bridge lift** — 🔎 VERIFIED ACTIVITY
-- **What:** Historic bascule bridge. Municipal tourism describes a regular afternoon lifting; confirm the current weekday/Saturday rule on the Yeongdo-gu page before planning around 14:00.
-- **Official source (reviewed Aug 17):** [bsyeongdo.go.kr](https://www.bsyeongdo.go.kr) · [Visit Busan](https://english.visitbusan.net)
+- **What:** Korea's **only** bascule (lifting) bridge, opened 1934. A 31.3 m section of the deck rises to about 75°, and the road is closed to traffic while it does.
+- **⚠️ CORRECTION — it lifts on SATURDAYS ONLY, not daily.** **14:00, for 15 minutes** (so 14:00–14:15). It was a daily 14:00 event for years, and a noon event before Sep 2015, but it has since been cut to **once a week** because of the traffic disruption. Plenty of guidance still says "daily" — that is out of date.
+- **✅ In your window that means Sat Nov 7, 14 and 21 at 14:00.** Free, outdoors, no booking.
+- **Where to stand:** **Yurari Square (유라리광장)** at the Nampo-dong end gives the head-on view. It's a 15-minute event — arrive by 13:45. Cancelled in heavy rain, high wind or storm warnings.
+- **💡 It sits between Jagalchi Market and Kkangtong Market**, so it slots into a Nampo-dong afternoon without a detour.
+- **Official sources (reviewed Aug 18):** [Busan City — bridge-lift schedule change notice](https://www.busan.go.kr/news/snsbusan04/view?dataNo=48703&gugun=Prev) · [KTV — Saturday 14:00 lifting, 2024 report](https://m.ktv.go.kr/content/view?content_id=705652) · [Visit Busan](https://english.visitbusan.net)
 
 ### 28) 🌲 **Taejongdae Resort Park** — 🔎 VERIFIED PLACE
-- **What:** Cliff-and-pine park on southern Yeongdo, with optional Danubi tram. Park grounds are free.
-- **Official source (reviewed Aug 17):** [bisco.or.kr](https://www.bisco.or.kr)
+- **What:** Cliff-and-pine park on southern Yeongdo. **Park grounds are free** and open from early morning; the loop road is a real walk, so most people take the **Danubi road train** (다누비열차) round the observatory / Yeongdo Lighthouse / Taejongsa circuit, about 20 minutes.
+- **⚠️ The Danubi train is CLOSED EVERY MONDAY** — and the park is large and hilly, so a Monday visit means walking the whole circuit. *(It runs Mondays only during the Sep 1 – Oct 31 peak, which ends before you arrive.)*
+- **Danubi hours (winter):** ticketing **09:00–17:30**, running **09:20–17:30**. Ticket sales can close **2–3 hours early** on quiet days.
+- **Danubi fare:** **₩4,000 adult round trip / ₩2,000 one way**; youth ₩2,000; child ₩1,500.
+- **Official source (reviewed Aug 18):** [BISCO — Taejongdae Danubi train hours and Monday closure](https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/)
 
 ### 29) 🚠 **Songdo Marine Cable Car, Skywalk, and Amnam Park** — 🔎 VERIFIED OPERATORS
 - **What:** Sea-crossing gondola, free Songdo Cloud Trails, and the Amnam / Yonggung suspension-bridge area. Weather can stop the cable car.
@@ -185,8 +244,11 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Official source (reviewed Aug 17):** [museum.busan.go.kr](https://museum.busan.go.kr)
 
 ### 39) 🦩 **Nakdong Estuary Eco Center, Eulsukdo, and Busan MoCA** — 🔎 VERIFIED NATURE / MUSEUM
-- **What:** Migratory-bird wetland (November is arrival season) plus the plant-walled contemporary-art museum on the same island. MoCA is a 2026 Biennale venue (entry #3).
-- **Official sources (reviewed Aug 17):** [wetland.busan.go.kr](https://wetland.busan.go.kr) · [moca.busan.go.kr](https://moca.busan.go.kr)
+- **What:** Migratory-bird wetland on Eulsukdo — **November is peak arrival season** for the estuary's winter migrants — plus **Busan MoCA**, the plant-walled contemporary-art museum on the same island.
+- **⚠️ Timing trap: MoCA is a Biennale venue (#3), and the Biennale ends Nov 1 — your Busan days are Nov 19–22.** The museum **shut for five and a half weeks (Jul 20 – Aug 28) purely to install** the Biennale, so a de-installation closure in November is a real possibility. No notice had been posted at review. **Check the MoCA notice board before making the trip out** — this is a long ride for a locked door.
+- **⚠️ Two standing closures**, both posted "until further notice" and neither lifted at review: the **rooftop observatory is closed** (since Jul 2025) and the **MoCA shuttle bus is suspended** (since Aug 2025). Plan on public transport and don't count on the roof view.
+- **✅ The wetland itself is unaffected** and needs no ticket — if the museum is shut, the birds are still the reason to come. ☎ MoCA 051-220-7355.
+- **Official sources (reviewed Aug 18):** [Busan MoCA — notice board (check for de-installation closures)](https://www.busan.go.kr/moca_en/newsEvent0101) · [Biennale install closure notice](https://www.busan.go.kr/moca_en/newsEvent0101/1736245) · [wetland.busan.go.kr](https://wetland.busan.go.kr)
 
 ### 40) 🌅 **Dadaepo Beach** — 🔎 VERIFIED PLACE
 - **What:** Wide estuary beach and sunset flats. The Dream Fountain is seasonal and is usually **off** in November — come for the sunset, not the fountain.
