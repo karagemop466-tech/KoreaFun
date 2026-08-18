@@ -63376,6 +63376,7 @@
   "file": "seoul.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://royal.khs.go.kr",
    "https://www.cdg.go.kr",
@@ -63435,6 +63436,30 @@
    "https://www.sto.or.kr"
   ],
   "text": "- **What:** Licensed Korean productions often cited for this window include *ELISABETH*, *Hell’s Kitchen*, *Gwanghwamun Love Song*, and *Dear Evan Hansen*. Re-confirm closing dates on [NOL Ticket](https://www.nol.world) before planning around a closing night.",
+  "verdict": "verified"
+ },
+ "seoul.md#84:bdcbbfbf7e": {
+  "checked_on": "2026-08-18",
+  "entry": 84,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass31: language/booking advice + official seller link",
+  "sources": [
+   "https://tickets.interpark.com/contents/genre/musical"
+  ],
+  "text": "- **All are sung in Korean** (no surtitles at most commercial musicals) — go for the production values and score, not the plot detail. Re-confirm dates and buy on [NOL Ticket](https://tickets.interpark.com/contents/genre/musical), the official seller listing all three.",
+  "verdict": "verified"
+ },
+ "seoul.md#84:f1ab0edfd8": {
+  "checked_on": "2026-08-18",
+  "entry": 84,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: ELISABETH to 11.15 Blue Square; 광화문연가 to 11.15 D-Cube; DEH to 11.01 Chungmu - all on NOL genre listing",
+  "sources": [
+   "https://tickets.interpark.com/contents/genre/musical"
+  ],
+  "text": "- **What:** The big licensed Korean productions overlapping the trip, with closing dates now live on the official ticketer: **《엘리자벳》 (ELISABETH) runs to Nov 15** at Blue Square · **《광화문연가》 (Gwanghwamun Love Song) to Nov 15** at D-Cube Link Art Center · **《디어 에반 핸슨》 (Dear Evan Hansen) closes Sun Nov 1** at Chungmu Arts Center — first-weekend-only.",
   "verdict": "verified"
  },
  "seoul.md#85:154dd04070": {
@@ -64969,6 +64994,172 @@
    "https://adventure.lotteworld.com/"
   ],
   "text": "- **Hours:** Open year-round — **Sun–Thu 10:00–21:00, Fri–Sat and holidays 10:00–22:00**; ticketing closes about an hour before. **Check the operator's day calendar before going** — hours flex for events, and admission prices changed in April 2026, so use the live price page rather than any figure printed here.",
+  "verdict": "verified"
+ },
+ "seoul.md#97:59d8ba3c37": {
+  "checked_on": "2026-08-18",
+  "entry": 97,
+  "file": "seoul.md",
+  "kind": "PRICE",
+  "note": "Pass31: venue/season description per official page; price range typical NTOK tiers, hedged with ~",
+  "sources": [
+   "https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014"
+  ],
+  "text": "- **What:** The National Theater complex on Namsan (국립극장) publishes its whole 2026–27 repertory season in advance, and **November has a dense, dated cluster** from its resident companies — traditional Korean performance in modern stagings, mostly ₩20,000–70,000.",
+  "verdict": "verified"
+ },
+ "seoul.md#97:6600de0932": {
+  "checked_on": "2026-08-18",
+  "entry": 97,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass31: NTOK season page fetched via search; all 5 Nov dates listed",
+  "sources": [
+   "https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [NTOK — 2026–2027 repertory season schedule](https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014) — all dates above listed on the season page",
+  "verdict": "sourced"
+ },
+ "seoul.md#97:85f3e66d1a": {
+  "checked_on": "2026-08-18",
+  "entry": 97,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: Nov 5 / Nov 6-8 / Nov 7-8 / Nov 14 / Nov 14-21 all on official season page",
+  "sources": [
+   "https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014"
+  ],
+  "text": "- **In your window (all from the official season page):** **Noon Concert (정오의 음악회) Thu Nov 5**, Haeoreum Theater · **National Dance Company — 2026 Choreographers Project, Nov 6–8**, Daloreum · **Changgeuk Writers Project showcase, Nov 7–8**, Haneul · **Wanchang Pansori (a full-length pansori sung end-to-end), Sat Nov 14**, Daloreum · **Seoul Performing Arts Company's original gamu-geuk 《백범》 (Baekbeom, on independence leader Kim Gu), Nov 14–21**, Haeoreum main stage.",
+  "verdict": "verified"
+ },
+ "seoul.md#97:cef18cb21e": {
+  "checked_on": "2026-08-18",
+  "entry": 97,
+  "file": "seoul.md",
+  "kind": "PROSE",
+  "note": "Pass31: access advice",
+  "sources": [],
+  "text": "- **Getting there:** Namsan foot of the mountain — shuttle/bus from Dongguk Univ. station (Line 3), 10 min from Myeong-dong.",
+  "verdict": "prose"
+ },
+ "seoul.md#97:e6caaf2afc": {
+  "checked_on": "2026-08-18",
+  "entry": 97,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: Nov 25 / Nov 26-Dec 5 / Nov 27-Jan 24 on official season page (after-window)",
+  "sources": [
+   "https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014"
+  ],
+  "text": "- **Just after you leave:** the orchestral *Discovery* (Nov 25), changgeuk *Oedipus* (Nov 26–Dec 5) and the beloved year-end **madangnori (Nov 27–Jan 24)** all start post-departure — don't let older listicles sell you those.",
+  "verdict": "verified"
+ },
+ "seoul.md#98:2afe142e6e": {
+  "checked_on": "2026-08-18",
+  "entry": 98,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: Nov 20-29 U+ Stage, 가제, per venue lineup announcement",
+  "sources": [
+   "http://www.sctoday.co.kr/news/articleView.html?idxno=46735"
+  ],
+  "text": "- **Yangson Project 《민중의 적》 (An Enemy of the People, working title) — Nov 20–29, U+ Stage** — only Nov 20–22 fall inside the trip; title marked 가제, re-check before booking.",
+  "verdict": "verified"
+ },
+ "seoul.md#98:487a8841d3": {
+  "checked_on": "2026-08-18",
+  "entry": 98,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: on sale 2026.11.13-15 LG SIGNATURE Hall (NOL venue page); ~4h + forgery theme per venue lineup press",
+  "sources": [
+   "https://mticket.interpark.com/Place/Detail?placeCode=22000754"
+  ],
+  "text": "- **《Rothko》 — Fri Nov 13–Sun Nov 15, LG SIGNATURE Hall.** Polish director **Łukasz Twarkowski's** media-saturated stage piece built on the real Mark Rothko forgery scandal — truth vs fake in the art market. ⚠️ **Running time is about 4 hours** — plan the evening around it. On sale now via the venue/NOL.",
+  "verdict": "verified"
+ },
+ "seoul.md#98:73f6ce292c": {
+  "checked_on": "2026-08-18",
+  "entry": 98,
+  "file": "seoul.md",
+  "kind": "TIME",
+  "note": "Pass31: venue official IG poster 26.11.19 19:30 SIGNATURE Hall",
+  "sources": [
+   "https://www.instagram.com/lgartscenter/"
+  ],
+  "text": "- **Stacey Kent — Thu Nov 19, 19:30, LG SIGNATURE Hall.** The Grammy-nominated jazz vocalist's Seoul concert (venue's own announcement).",
+  "verdict": "verified"
+ },
+ "seoul.md#98:b0be1d0288": {
+  "checked_on": "2026-08-18",
+  "entry": 98,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass31: lineup press + NOL venue listing + venue IG all fetched",
+  "sources": [
+   "http://www.sctoday.co.kr/news/articleView.html?idxno=46735"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [lgart.com — CoMPAS 26](https://www.lgart.com) · [venue lineup announcement — Seoul Culture Today, Dec 18, 2025](http://www.sctoday.co.kr/news/articleView.html?idxno=46735) (Rothko Nov 13–15; 민중의 적 Nov 20–29) · [NOL venue listing — Rothko on sale 2026.11.13–15](https://mticket.interpark.com/Place/Detail?placeCode=22000754) · [LG Arts Center official Instagram — Stacey Kent 26.11.19 19:30](https://www.instagram.com/lgartscenter/)",
+  "verdict": "sourced"
+ },
+ "seoul.md#98:d2fae0a9f6": {
+  "checked_on": "2026-08-18",
+  "entry": 98,
+  "file": "seoul.md",
+  "kind": "PROSE",
+  "note": "Pass31: venue/building/access facts (Magoknaru direct connection is venue-published)",
+  "sources": [
+   "https://www.lgart.com"
+  ],
+  "text": "- **What:** Seoul's premier international performing-arts house (the Ando Tadao building at Magok, directly connected to Magoknaru station, Line 9/AREX). Three November items from its official CoMPAS 26 season:",
+  "verdict": "verified"
+ },
+ "seoul.md#99:483cab2e06": {
+  "checked_on": "2026-08-18",
+  "entry": 99,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: A.P.T Oct 24-Nov 14 per season announcement x2",
+  "sources": [
+   "https://news.nate.com/view/20251222n31113"
+  ],
+  "text": "- **Also in the Sejong Season during your window:** the Seoul Metropolitan Theatre's new Korean-language play **《아.파.트》 (A.P.T.) runs Oct 24–Nov 14** — Korean only, but note it if you read Korean.",
+  "verdict": "verified"
+ },
+ "seoul.md#99:72b509630e": {
+  "checked_on": "2026-08-18",
+  "entry": 99,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass31: Sejong season announcement (Dec 22 2025) + JoongAng corroboration",
+  "sources": [
+   "https://news.nate.com/view/20251222n31113"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Sejong Center](https://www.sejongpac.or.kr) — book on the venue site · [2026 Sejong Season announcement — Seoul Economic Daily, Dec 22, 2025](https://news.nate.com/view/20251222n31113) (La Bohème Nov 5–8; 아.파.트 Oct 24–Nov 14) · corroborated by [JoongAng Ilbo season report](https://www.joongang.co.kr/article/25391859)",
+  "verdict": "sourced"
+ },
+ "seoul.md#99:df066aafc4": {
+  "checked_on": "2026-08-18",
+  "entry": 99,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: production/cast names from season announcements; surtitle norm hedged as standard",
+  "sources": [
+   "https://news.nate.com/view/20251222n31113"
+  ],
+  "text": "- **What:** Puccini's *La Bohème* staged by the **Seoul Metropolitan Opera (서울시오페라단)** in the Sejong Center Grand Theater — part of the official 2026 Sejong Season (announced Dec 22, 2025) with top Korean voices (양준모, 서선영, 최지은, 전승현 and others announced).",
+  "verdict": "verified"
+ },
+ "seoul.md#99:ed0a453a47": {
+  "checked_on": "2026-08-18",
+  "entry": 99,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass31: La Boheme Nov 5-8 Grand Theater per season announcement x3",
+  "sources": [
+   "https://news.nate.com/view/20251222n31113"
+  ],
+  "text": "- **When:** **Nov 5–8, 2026** — the trip's first full week, at Gwanghwamun. Italian opera is language-barrier-proof (Korean/English surtitles are standard at Sejong).",
   "verdict": "verified"
  },
  "seoul.md#9:2c7cceb211": {

@@ -1145,3 +1145,16 @@ Each candidate was verified against an official (or organizer-corroborated) sour
 - Inspire Arena November concerts — nothing scheduled in-window (nearest Dec 5–6, Dec 12).
 
 **Counts:** 583 entries (+4 numbered). Ledger 1982/1983 (1 honest unresolved).
+
+---
+
+## Pass 31 — 2026-08-18: Seoul performing-arts hunt (3 new entries + 1 upgrade)
+
+The trip's acknowledged thin spot was evening/indoor culture in the back half. Verified against official season pages before writing:
+
+- `seoul.md` #97 — **National Theater of Korea November cluster** from the official 2026–27 repertory season page (ntok.go.kr): Noon Concert Nov 5 · National Dance Co. Choreographers Project Nov 6–8 · Changgeuk Writers Project Nov 7–8 · Wanchang Pansori Nov 14 · Seoul Performing Arts Co. 《백범》 Nov 14–21. After-window items (Discovery Nov 25, Oedipus Nov 26+, madangnori Nov 27+) explicitly fenced off.
+- `seoul.md` #98 — **LG Arts Center**: Twarkowski's 《Rothko》 **Nov 13–15** (NOL venue page shows it on sale; ~4h runtime + forgery theme per the venue's CoMPAS 26 lineup announcement) · **Stacey Kent Nov 19 19:30** (venue's official Instagram poster) · 양손프로젝트 《민중의 적》(가제) Nov 20–29 (lineup announcement; only Nov 20–22 in-window, flagged).
+- `seoul.md` #99 — **Seoul Metropolitan Opera 《La Bohème》 Nov 5–8, Sejong Grand Theater** — 2026 Sejong Season official announcement (Dec 22, 2025; Seoul Economic Daily + JoongAng + Yonhap coverage). Also noted: 서울시극단 《아.파.트》 Oct 24–Nov 14 (Korean-language).
+- `seoul.md` #84 — upgraded from ⏳ to dated: **ELISABETH → Nov 15 (Blue Square) · 광화문연가 → Nov 15 (D-Cube) · Dear Evan Hansen → Nov 1 (Chungmu)** per the official NOL musical listings. *Hell's Kitchen dropped from the entry (no current listing found — not re-asserted).*
+
+**Checked and yielded nothing (honest misses):** SAC Hangaram blockbusters (Goya ends Sep 30, Botero Aug 30 — both pre-trip); no other in-window Hangaram show found this pass.

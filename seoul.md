@@ -449,8 +449,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **What:** Real tourist-friendly shows and halls: NANTA, JUMP, National Gugak Center Saturday series, National Theater of Korea, Jeongdong Theater, Seoul Arts Center, Sejong Center. Book only a dated performance. NANTA’s Myeong-dong house is also in [`myeongdong.md`](myeongdong.md).
 - **Official sources (reviewed Aug 17):** [nanta.co.kr](https://www.nanta.co.kr) · [gugak.go.kr](https://www.gugak.go.kr) · [ntok.go.kr](https://www.ntok.go.kr) · [sac.or.kr](https://www.sac.or.kr) · [sejongpac.or.kr](https://www.sejongpac.or.kr)
 
-### 84) 🎭 **Korean-language musicals in the window** — ⏳ CONFIRM ON NOL
-- **What:** Licensed Korean productions often cited for this window include *ELISABETH*, *Hell’s Kitchen*, *Gwanghwamun Love Song*, and *Dear Evan Hansen*. Re-confirm closing dates on [NOL Ticket](https://www.nol.world) before planning around a closing night.
+### 84) 🎭 **Korean-language musicals in the window** — ✅ CLOSING DATES NOW PUBLISHED · UPDATED Aug 18
+- **What:** The big licensed Korean productions overlapping the trip, with closing dates now live on the official ticketer: **《엘리자벳》 (ELISABETH) runs to Nov 15** at Blue Square · **《광화문연가》 (Gwanghwamun Love Song) to Nov 15** at D-Cube Link Art Center · **《디어 에반 핸슨》 (Dear Evan Hansen) closes Sun Nov 1** at Chungmu Arts Center — first-weekend-only.
+- **All are sung in Korean** (no surtitles at most commercial musicals) — go for the production values and score, not the plot detail. Re-confirm dates and buy on [NOL Ticket](https://tickets.interpark.com/contents/genre/musical), the official seller listing all three.
 
 ### 85) 🚢 **Han River cruises and Han River Bus** — 🔎 VERIFIED OPERATORS
 - **What:** Eland tourist cruises from Yeouido and the city’s river-bus ferries. Timetables are operator-specific.
@@ -511,6 +512,26 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Hours:** Open year-round — **Sun–Thu 10:00–21:00, Fri–Sat and holidays 10:00–22:00**; ticketing closes about an hour before. **Check the operator's day calendar before going** — hours flex for events, and admission prices changed in April 2026, so use the live price page rather than any figure printed here.
 - **💡 After-4 tickets** (from 16:00) are the budget move for an evening visit; the aquarium and Seoul Sky sit in the same complex if you're making a full Jamsil day. Getting there: Line 2/8 **Jamsil**, directly connected underground.
 - **Official source (reviewed Aug 18):** [Lotte World Adventure — official site (hours, day calendar, tickets)](https://adventure.lotteworld.com/)
+
+### 97) 🎭 **National Theater of Korea — November repertory week** — ✅ CONFIRMED — five dated programs Nov 5–21, 2026 · NEW
+- **What:** The National Theater complex on Namsan (국립극장) publishes its whole 2026–27 repertory season in advance, and **November has a dense, dated cluster** from its resident companies — traditional Korean performance in modern stagings, mostly ₩20,000–70,000.
+- **In your window (all from the official season page):** **Noon Concert (정오의 음악회) Thu Nov 5**, Haeoreum Theater · **National Dance Company — 2026 Choreographers Project, Nov 6–8**, Daloreum · **Changgeuk Writers Project showcase, Nov 7–8**, Haneul · **Wanchang Pansori (a full-length pansori sung end-to-end), Sat Nov 14**, Daloreum · **Seoul Performing Arts Company's original gamu-geuk 《백범》 (Baekbeom, on independence leader Kim Gu), Nov 14–21**, Haeoreum main stage.
+- **Just after you leave:** the orchestral *Discovery* (Nov 25), changgeuk *Oedipus* (Nov 26–Dec 5) and the beloved year-end **madangnori (Nov 27–Jan 24)** all start post-departure — don't let older listicles sell you those.
+- **Getting there:** Namsan foot of the mountain — shuttle/bus from Dongguk Univ. station (Line 3), 10 min from Myeong-dong.
+- **Official source (reviewed Aug 18):** [NTOK — 2026–2027 repertory season schedule](https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014) — all dates above listed on the season page
+
+### 98) 🖼️ **LG Arts Center Seoul (Magok) — 《Rothko》 Nov 13–15 and the November CoMPAS slate** — ✅ CONFIRMED · NEW
+- **What:** Seoul's premier international performing-arts house (the Ando Tadao building at Magok, directly connected to Magoknaru station, Line 9/AREX). Three November items from its official CoMPAS 26 season:
+- **《Rothko》 — Fri Nov 13–Sun Nov 15, LG SIGNATURE Hall.** Polish director **Łukasz Twarkowski's** media-saturated stage piece built on the real Mark Rothko forgery scandal — truth vs fake in the art market. ⚠️ **Running time is about 4 hours** — plan the evening around it. On sale now via the venue/NOL.
+- **Stacey Kent — Thu Nov 19, 19:30, LG SIGNATURE Hall.** The Grammy-nominated jazz vocalist's Seoul concert (venue's own announcement).
+- **Yangson Project 《민중의 적》 (An Enemy of the People, working title) — Nov 20–29, U+ Stage** — only Nov 20–22 fall inside the trip; title marked 가제, re-check before booking.
+- **Official sources (reviewed Aug 18):** [lgart.com — CoMPAS 26](https://www.lgart.com) · [venue lineup announcement — Seoul Culture Today, Dec 18, 2025](http://www.sctoday.co.kr/news/articleView.html?idxno=46735) (Rothko Nov 13–15; 민중의 적 Nov 20–29) · [NOL venue listing — Rothko on sale 2026.11.13–15](https://mticket.interpark.com/Place/Detail?placeCode=22000754) · [LG Arts Center official Instagram — Stacey Kent 26.11.19 19:30](https://www.instagram.com/lgartscenter/)
+
+### 99) 🎶 **Seoul Metropolitan Opera — 《La Bohème》** — ✅ CONFIRMED — Thu Nov 5–Sun Nov 8, 2026 · Sejong Grand Theater · NEW
+- **What:** Puccini's *La Bohème* staged by the **Seoul Metropolitan Opera (서울시오페라단)** in the Sejong Center Grand Theater — part of the official 2026 Sejong Season (announced Dec 22, 2025) with top Korean voices (양준모, 서선영, 최지은, 전승현 and others announced).
+- **When:** **Nov 5–8, 2026** — the trip's first full week, at Gwanghwamun. Italian opera is language-barrier-proof (Korean/English surtitles are standard at Sejong).
+- **Also in the Sejong Season during your window:** the Seoul Metropolitan Theatre's new Korean-language play **《아.파.트》 (A.P.T.) runs Oct 24–Nov 14** — Korean only, but note it if you read Korean.
+- **Official sources (reviewed Aug 18):** [Sejong Center](https://www.sejongpac.or.kr) — book on the venue site · [2026 Sejong Season announcement — Seoul Economic Daily, Dec 22, 2025](https://news.nate.com/view/20251222n31113) (La Bohème Nov 5–8; 아.파.트 Oct 24–Nov 14) · corroborated by [JoongAng Ilbo season report](https://www.joongang.co.kr/article/25391859)
 
 ---
 
