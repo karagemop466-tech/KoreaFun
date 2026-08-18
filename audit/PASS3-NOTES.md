@@ -1171,3 +1171,12 @@ The trip's acknowledged thin spot was evening/indoor culture in the back half. V
 **Checked, not added:** Daegu NOL regional listing shows an unidentifiable Nov 6–Jan 10 run (garbled title — not asserted); Gyeongju's "Maybe Happy Ending" run has no dates (labeled only in the foundation's preview, left out).
 
 **Counts:** 587 entries. Ledger 2004/2006 (2 honest unresolved: Daegu FC fixture, Jeonju Symphony November date).
+
+---
+
+## Pass 33 — 2026-08-18: Busan + Myeong-dong follow-up hunt
+
+- `busan.md` #51 — enriched: the **Busan Philharmonic's subscription series is staged at Busan Concert Hall** and booked through the hall's site (₩10,000–30,000) — BPO series page (bscc.or.kr) + Viva100 booking report. One more reason the new-venue entry earns its place.
+- `myeongdong.md` #38 (NEW) — **Seoul Namsan Gukakdang**: official program page shows current weekend gugak shows (Sat 15:00/18:30, Sun 15:00, ~70 min, ~₩30,000) and winter hours; November listings not yet posted — labeled ⏳ with the exact page to check. A prior-year Friday hanok-concert series (ended Nov 7) cited as pattern only.
+
+**Counts:** 588 entries. Ledger 2008/2010 (2 honest unresolved).

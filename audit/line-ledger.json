@@ -8304,12 +8304,25 @@
   "text": "- **Status:** No November 2026 programme was published at review — check the [official performance calendar](https://busan.gugak.go.kr) in October and book a dated show.",
   "verdict": "verified"
  },
+ "busan.md#51:117653c914": {
+  "checked_on": "2026-08-18",
+  "entry": 51,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass33: BPO series page + Viva100 booking/price citation added",
+  "sources": [
+   "https://www.viva100.com/article/20260120500845"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Classic Busan — Busan Concert Hall official site & schedule](https://classicbusan.busan.go.kr/Home/ko/Main) · [Busan Ilbo — 2026 season lineup announcement, Feb 10, 2026](https://www.busan.com/view/busan/view.php?code=2026021017543227142) · [Busan Philharmonic subscription series (Busan Cultural Center)](https://www.bscc.or.kr/04_art/?mcode=0404011800) · [BPO concert booked via Concert Hall site, ₩10,000–30,000 — Viva100, Jan 2026](https://www.viva100.com/article/20260120500845)",
+  "verdict": "sourced"
+ },
  "busan.md#51:21429192a3": {
   "checked_on": "2026-08-18",
   "entry": 51,
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "Pass27: official site fetched (Classic Busan, city agency); Busan Ilbo lineup article",
+  "retired": true,
   "sources": [
    "https://classicbusan.busan.go.kr/Home/ko/Main"
   ],
@@ -8326,6 +8339,18 @@
    "https://www.busan.com/view/busan/view.php?code=2026021017543227142"
   ],
   "text": "- **What:** Busan's **first dedicated classical concert hall**, opened **June 2025** on the edge of Busan Citizens Park (#46) — a 2,000-seat vineyard-style hall with a pipe organ, run by **Classic Busan**, a Busan Metropolitan City agency (which will also run the future Busan Opera House). Over 120,000 visitors in its first year; the 2026 season has brought the Vienna Philharmonic (Oct 26), Cho Seong-jin, Lim Yunchan and other headline classical acts.",
+  "verdict": "verified"
+ },
+ "busan.md#51:50c44ab369": {
+  "checked_on": "2026-08-18",
+  "entry": 51,
+  "file": "busan.md",
+  "kind": "PRICE",
+  "note": "Pass33: BPO subscription concerts at Concert Hall, W10-30k, booked via hall site (Viva100 Jan 2026 + bscc series page)",
+  "sources": [
+   "https://www.viva100.com/article/20260120500845"
+  ],
+  "text": "- **💡 The Busan Philharmonic plays here too:** the city orchestra's numbered subscription concerts (part of the municipal arts companies under the Busan Cultural Center) are staged at the Concert Hall and **booked through the hall's site, ₩10,000–30,000** — check the November subscription date on the schedule page.",
   "verdict": "verified"
  },
  "busan.md#51:b97f9d17b3": {
@@ -46125,6 +46150,42 @@
    "https://www.seoul284.org/main"
   ],
   "text": "- **Official sources (reviewed Aug 18):** [seoul284.org — official site and current programme](https://www.seoul284.org/main) · [KCDF — old Seoul Station operating plan (Sep–Nov flagship exhibition; Nov collaboration show)](https://kcdf.or.kr/cms/content/view/251)",
+  "verdict": "sourced"
+ },
+ "myeongdong.md#38:7e0eb07773": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "myeongdong.md",
+  "kind": "PRICE",
+  "note": "Pass33: current-show times/price/duration + winter hours 09-20 closed Mon on official page; Nov listings absent = stated; Friday hanok-concert end Nov 7 was a prior year, labeled as such",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/g/perf/category/982,983,984"
+  ],
+  "text": "- **Current form (venue's own program page):** weekend performances typically **Sat 15:00/18:30, Sun 15:00, ~70 min, around ₩30,000**, in-hall or in the courtyard. **November listings weren't posted at review** — the village switches to winter hours (09:00–20:00, closed Mondays) from Nov 1, and autumn series (like the Friday-night hanok concerts, which ended Nov 7 in a recent year) wind down early in the month, so check the official program page and book a dated show.",
+  "verdict": "verified"
+ },
+ "myeongdong.md#38:97aa7253a4": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "myeongdong.md",
+  "kind": "DATE",
+  "note": "Pass33: venue identity/location per official page (Crown Haetae Hall, Namsangol)",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/g/perf/category/982,983,984"
+  ],
+  "text": "- **What:** The city's dedicated **traditional Korean music hall**, sunk into the garden of Namsangol Hanok Village (#25) — the Crown Haetae Hall stages gugak concerts, young-artist series (《2026 젊은국악》) and hanok-courtyard shows, five minutes from Chungmuro station and a 15-minute walk from Myeong-dong.",
+  "verdict": "verified"
+ },
+ "myeongdong.md#38:c070faed8a": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "myeongdong.md",
+  "kind": "SOURCE",
+  "note": "Pass33: official program page fetched via search",
+  "sources": [
+   "https://www.hanokmaeul.or.kr/ko/g/perf/category/982,983,984"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Seoul Namsan Gukakdang — official performance/program page](https://www.hanokmaeul.or.kr/ko/g/perf/category/982,983,984) (current shows, times, prices, winter hours)",
   "verdict": "sourced"
  },
  "myeongdong.md#3:348e140ff0": {

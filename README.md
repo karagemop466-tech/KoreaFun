@@ -5,7 +5,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 > 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 587 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan), nearby-city additions, and the Aug 18 four-city re-verification pass (+5 newly sourced entries). Counts will change only when unsupported entries are removed or official-source entries are added.
+> **Current inventory:** 588 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan), nearby-city additions, and the Aug 18 four-city re-verification pass (+5 newly sourced entries). Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,7 +13,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**587 numbered sections** across 14 city files; protocol pass complete)
+## 📂 What's in this repo (**588 numbered sections** across 14 city files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -27,7 +27,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 | File | What's inside |
 |---|---|
-| [`myeongdong.md`](myeongdong.md) | **37 numbered activity sections** for **Myeong-dong** district — shopping, street food, cathedral, and nearby Jeong-dong / Namdaemun (Jung-gu) |
+| [`myeongdong.md`](myeongdong.md) | **38 numbered activity sections** for **Myeong-dong** district — shopping, street food, cathedral, and nearby Jeong-dong / Namdaemun (Jung-gu) |
 
 ### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities)
 

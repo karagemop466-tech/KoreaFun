@@ -250,6 +250,11 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 - **⏳ What's on in November:** KCDF's official 2026 operating plan schedules a **flagship curated exhibition for September–November** (title still provisional at review) followed by a **KCDF traditional-culture collaboration show in November** — but neither had a published title or dates on the venue site yet. Check seoul284.org before going; the summer show (railway-culture exhibition) ended Aug 17.
 - **Official sources (reviewed Aug 18):** [seoul284.org — official site and current programme](https://www.seoul284.org/main) · [KCDF — old Seoul Station operating plan (Sep–Nov flagship exhibition; Nov collaboration show)](https://kcdf.or.kr/cms/content/view/251)
 
+### 38) 🥁 **Seoul Namsan Gukakdang (서울남산국악당)** — ⏳ CHECK NOVEMBER PROGRAM · NEW
+- **What:** The city's dedicated **traditional Korean music hall**, sunk into the garden of Namsangol Hanok Village (#25) — the Crown Haetae Hall stages gugak concerts, young-artist series (《2026 젊은국악》) and hanok-courtyard shows, five minutes from Chungmuro station and a 15-minute walk from Myeong-dong.
+- **Current form (venue's own program page):** weekend performances typically **Sat 15:00/18:30, Sun 15:00, ~70 min, around ₩30,000**, in-hall or in the courtyard. **November listings weren't posted at review** — the village switches to winter hours (09:00–20:00, closed Mondays) from Nov 1, and autumn series (like the Friday-night hanok concerts, which ended Nov 7 in a recent year) wind down early in the month, so check the official program page and book a dated show.
+- **Official source (reviewed Aug 18):** [Seoul Namsan Gukakdang — official performance/program page](https://www.hanokmaeul.or.kr/ko/g/perf/category/982,983,984) (current shows, times, prices, winter hours)
+
 ---
 
 ## Removed during this verification pass
