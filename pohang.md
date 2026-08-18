@@ -194,7 +194,7 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 - **What:** A chamber-music-centred international classical festival directed by 박유신, staged across Pohang venues each autumn. Past programmes have drawn names like the Hagen Quartett and pianist 손민수, plus newly commissioned Korean work.
 - **Why it is only a WATCH:** the festival lands squarely in the trip window every year — **2024: Nov 1–8**, **2025: Nov 7–13** — but the foundation's page for it still shows the **2025** run (11월 7일~13일) and the festival's own site `mfph.kr` currently **404s**. No 2026 dates are published, so do not plan around it yet.
 - **Worth knowing:** in 2025 the main hall was under renovation, so concerts moved to 대잠홀 / 효자아트홀 and **all tickets were free — and sold out in eight minutes.** If 2026 repeats that, book the instant dates appear.
-- **Official sources (reviewed Aug 17):** [Pohang Cultural Foundation festival page](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_ETC_2025_001) · [festival list (all Pohang festivals)](https://phcf.or.kr/phcf/current_festivals/view.do) · contact 054-289-7999, mfpohang@gmail.com
+- **Official sources (reviewed Aug 18):** [Pohang Cultural Foundation festival page](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_ETC_2025_001) — still the **2025** record, status **종료**, period **11월 7일~13일**. No 2026 festivalId. · [festival list](https://phcf.or.kr/phcf/current_festivals/view.do) · contact 054-289-7999, mfpohang@gmail.com
 
 ---
 

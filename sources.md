@@ -76,6 +76,10 @@ This is a source directory, **not proof that every entry has been verified**. Ea
 | Visit Jeonju — 경기전 별빛누빔 | Jun–Nov Fridays; Sep–Nov 19:30/20:30; ₩10,000 TicketLink | https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001040 |
 | Visit Jeonju — 대사습청 토요상설 | 2026 Saturday list; only in-window date is Oct 31 16:00 ₩10,000 | https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0000882 |
 | Visit Jeonju — 조선셰프 한상궁 | Musical series Aug 28–Nov 13 at Daesaseupcheong | https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001066 |
+| Changwon City booking desk | 2026 Masan Gagopa occupancy: Happo outdoor stage closed to other bookings Oct 25–Nov 12 | https://www.changwon.go.kr/booking/10034/10152.web?amode=view&idx=486 |
+| Cheonan Arts Center performance list | Nov 5 Mezclarinet ₩10,000 (준비중); 동백당 Nov 20–21 ₩20,000. Annual calendar URL now 404 | https://www.cnac.or.kr/performance/list.html |
+| Sori Arts Center | November symphony date still unpublished; 277th was May 22 2026 | https://www.sori21.co.kr/site/1/menu/8/show/performance |
+| noodle-dj.com | Still the 2025 Noodle Daejeon Festival page | https://noodle-dj.com |
 | Jeonju Royal Portrait Museum | Gyeonggijeon winter hours 09:00–18:00 last entry 17:00; ₩3,000/2,000/1,000; museum included | https://jeonju.go.kr/eojinmuseum/index.9is?contentUid=9be517a78020a96201827be8a13d2860 |
 | 어진박물관 단청공사 공지 | Gyeonggijeon 정전 closed Mar 26–Dec 17 2026 (may extend); inner zone closed; precinct + museum open | https://www.jeonju.go.kr/eojinmuseum/planweb/board/view.9is?boardUid=9be517a78020a9620182a44463067f48&contentUid=9be517a78020a96201827bebe0d52920&dataUid=9be517a89a2f1137019d1d8c2019416f |
 | Jeonju National Museum | Seogosa nahan special Sep 16–Nov 29 2026 | https://jeonju.museum.go.kr/special.es?mid=a10201010000&seq=1711&act=view |

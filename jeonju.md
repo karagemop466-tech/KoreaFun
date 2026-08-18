@@ -239,9 +239,9 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 
 ### 37) 🎻 **Sori Arts Center of Jeollabuk-do (한국소리문화의전당)** — ⏳ CHECK NOVEMBER CALENDAR · NEW
 - **What:** The province's flagship arts complex in Deokjin-gu (opened 2001) — the Moak Hall main stage, Yeonji Hall concert hall and outdoor stages. It hosts the Jeonju World Sori Festival each summer and is the home stage of the **Jeonju Symphony Orchestra**, whose numbered subscription series runs through the year (the 276th subscription concert played Yeonji Hall in January 2026).
-- **November:** the orchestra's roughly monthly cycle makes a November subscription concert likely, but **no specific in-window date was published at review** — pull it from the venue calendar and book there.
+- **November:** the orchestra's roughly monthly cycle makes a November subscription concert likely, but **no specific in-window date was published at review**. The 277th subscription concert was **Fri May 22, 2026** at Yeonji Hall — before the trip. The venue calendar is client-rendered and still has no November row. Stay ⏳.
 - **Getting there:** next to Deokjin Park, ~15 min by taxi from the Hanok Village.
-- **Official sources (reviewed Aug 18):** [Sori Arts Center — schedule](https://www.sori21.co.kr/) · [Jeonju Symphony 276th subscription concert at Yeonji Hall — Jan 2026 press](https://www.thefairnews.co.kr/news/articleView.html?idxno=65939)
+- **Official sources (reviewed Aug 18):** [Sori Arts Center — performance list](https://www.sori21.co.kr/site/1/menu/8/show/performance) · [monthly calendar](https://www.sori21.co.kr/site/1/menu/9/show/performance/calendar) · [277th subscription, May 22 2026 — Jeonbuk Geumgang Ilbo](http://www.gkg.co.kr/184089)
 
 ### 38) 🎭 **Musical 《조선 셰프 한상궁》 — 전주비빔밥 그 맛의 완성** — ✅ CONFIRMED SERIES — through Nov 13, 2026 · NEW
 - **What:** 2026 전통예술지역브랜드 standing musical about Jeonju bibimbap, staged at the **전주대사습청 outdoor stage** (한지길 56). Hosted by Jeonbuk / Jeonju City; run by the provincial culture-tourism foundation and Run Five.

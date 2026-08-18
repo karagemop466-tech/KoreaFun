@@ -272,7 +272,8 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 ### 44) ✈️ **Incheon Airport Sky Festival** — ⏳ 2026 EDITION TBA — recent pattern: early-Nov weekend at Inspire Arena · NEW
 - **What:** Incheon International Airport Corporation's annual festival, running since 2004 — in recent form a **two-evening K-pop + classical/musical concert weekend at Inspire Arena** next to the airport, with daytime family events.
 - **⏳ Pattern, not a promise:** the **2025 edition ran Sat–Sun Nov 8–9 at Inspire Arena (17:00 shows, ages 12+, ticketed through NOL/Interpark)**. A 2026 edition had not been announced at review — if it repeats in early November, it lands on the trip's first full weekend, and Inspire is 15 min from ICN (handy if you're near the airport anyway).
-- **Official sources (reviewed Aug 18):** [Incheon Airport (IIAC)](https://www.airport.kr/) — festival host · [2025 edition official ticket notice — Nov 8–9, Inspire Arena](https://tickets.interpark.com/contents/notice/detail/11515) · [festival history since 2004](https://www.khan.co.kr/article/202309081108011)
+- **Re-checked Aug 18 (Pass 38):** IIAC's latest official Sky Festival press is the **2025 recap** (Nov 8–9 at Inspire). **No 2026 edition has been announced.** Stay ⏳.
+- **Official sources (reviewed Aug 18):** [Incheon Airport (IIAC)](https://www.airport.kr/) — festival host · [IIAC 2025 recap press](https://www.airport.kr/co_ko/664/subview.do) · [2025 ticket notice — Nov 8–9, Inspire Arena](https://tickets.interpark.com/contents/notice/detail/11515)
 
 ### 45) 🎻 **Art Center Incheon — November classical nights** — ✅ CONFIRMED — Nov 7 and Nov 15, 2026 · NEW
 - **What:** Two dated Songdo concerts on the venue’s own 2026 season pages. Art Center Incheon is in Songdo, not at the airport — pair it with Central Park / MoW (#17/#20), not with Paradise City.

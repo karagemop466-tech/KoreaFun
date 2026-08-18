@@ -37,7 +37,7 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 
 ### 4) 🍜 **Noodle Daejeon Festival** — ⏳ TBA
 - **What:** City noodle festival at Hanbit Tower Plaza. 2025 ran Nov 7–9; **do not copy that weekend into 2026**.
-- **Official sources (reviewed Aug 17):** [noodle-dj.com](https://noodle-dj.com) · [daejeon.go.kr](https://www.daejeon.go.kr)
+- **Official sources (reviewed Aug 18):** [noodle-dj.com](https://noodle-dj.com) — still the **2025** edition (Nov 7–9) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
 ### 5) 🌼 **Autumn chrysanthemum displays — O-World and the Yuseong Chrysanthemum Festival** — ⏳ 2026 DATES TBA · UPDATED Aug 18
 - **What (O-World):** Recurring late-autumn chrysanthemum program inside Daejeon O-World. Confirm 2026 dates and whether it needs a park ticket.
@@ -200,9 +200,10 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 
 ### 38) 🎭 **Cheonan Arts Center (천안예술의전당)** — ✅ NOVEMBER CALENDAR NOW PUBLISHED · UPDATED Aug 18
 - **What:** Cheonan's main performing-arts complex (대공연장/소공연장), on the east side of the city.
-- **Dated November items on the venue's own annual calendar:** **Cheonan Philharmonic subscription concert — Wed Nov 11, main hall** · play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 (Cimarosa's *Il matrimonio segreto*) — Mon Nov 16, small hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall**. (The 11 AM commentary concert falls Nov 25 — after departure.)
-- **Booking:** venue site or NOL; most small-hall programs are ₩10,000–30,000. Confirm times on the specific listing — the annual calendar shows dates only.
-- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — annual schedule](https://www.cnac.or.kr/play/year.html?p_team=pfm) (all November dates above) · [NOL listings for the venue](https://tickets.interpark.com/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)
+- **Dated November items still listed:** play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall, ₩20,000** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 — Mon Nov 16, small hall** · **Cheonan Philharmonic subscription — Wed Nov 11, main hall** (these last two were on the annual calendar; re-confirm on the live list). The 11 AM commentary concert is **Wed Nov 25** — after departure.
+- **Newly visible on the venue list (Pass 38):** **K-클래식 콘서트 7 〈메즈클라리넷〉 — Thu Nov 5, small hall, ₩10,000**, marked **준비중**. Treat as dated but not yet bookable until the listing leaves “preparing.”
+- **⚠️ The annual-calendar URL is now a 404** (`/play/year.html` — it was HTTP 502 in Pass 35). Use the [live performance list](https://www.cnac.or.kr/performance/list.html) or NOL. Automated fetches of the list page are firewall-blocked; the Nov 5 / Nov 20–21 rows above are from that official list as indexed Aug 18.
+- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — performance list](https://www.cnac.or.kr/performance/list.html) · [NOL venue search](https://tickets.interpark.com/contents/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)
 
 ### 39) 🏘️ **Oeam Folk Village (Asan)** — 🔎 VERIFIED PLACE · labeled Asan
 - **What:** Living Joseon village of thatched and tiled houses. November last entry is earlier.

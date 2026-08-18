@@ -139,6 +139,22 @@ CLAIMS = [
         ("jeonju.md", r"Nov 7, 14 and 21 are not on the list"),
         ("events.csv", r"Only trip-window date on the official 2026 list"),
     ]),
+    ("Masan chrysanthemum occupancy is Oct 25-Nov 12 not a visitor calendar", [
+        ("changwon-jinhae.md", r"2026\. 10\. 25 – 11\. 12"),
+        ("changwon-jinhae.md", r"do not treat Oct 25–Nov 12 as the visitor calendar"),
+        ("itinerary.md", r"2026\.10\.25–11\.12"),
+        ("events.csv", r"setup-to-teardown not the public run"),
+    ]),
+    ("Cheonan Arts Center year calendar is now 404", [
+        ("daejeon-cheonan.md", r"annual-calendar URL is now a 404"),
+        ("itinerary.md", r"Annual calendar URL is now \*\*404\*\*"),
+    ]),
+    ("Nearby-city mid-October re-check tables exist", [
+        ("itinerary.md", r"Mid-October re-check calendar — 10 nearby cities"),
+        ("itinerary.md", r"Sori Arts Center / Jeonju Symphony November"),
+        ("itinerary.md", r"Incheon Airport Sky Festival"),
+        ("itinerary.md", r"Pohang International Music Festival"),
+    ]),
 ]
 
 def check():

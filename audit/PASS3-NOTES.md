@@ -1359,3 +1359,25 @@ Full official-source line-by-line pass on the remaining six nearby-city files, s
 - Pohang / Yeosu — already have their dated anchors; no new official November headline.
 
 Counts: 593 → **594**.
+
+---
+
+## Pass 38 — 2026-08-18: nearby-city mid-October tables + remaining ⏳ hunt
+
+Two jobs in one pass: (1) add mid-October re-check tables for the ten nearby cities to `itinerary.md`, matching the Seoul/Busan/Daegu/Myeong-dong format; (2) re-fetch the leftover ⏳ headlines.
+
+### Hunt results
+- **Sori / Jeonju Symphony November** — still unpublished. Venue list is client-rendered. The 277th subscription concert was **Fri May 22, 2026** at Yeonji Hall (before the trip). jeonju #37 stays ⏳.
+- **Cheonan Arts Center** — `/play/year.html` is now a **404** (was 502 in Pass 35). Official [performance list](https://www.cnac.or.kr/performance/list.html) is firewall-blocked to bots; the indexed list adds **Thu Nov 5 K-클래식 콘서트 7 〈메즈클라리넷〉, small hall, ₩10,000, 준비중**, and **동백당 Nov 20–21 ₩20,000**. NOL still lists 《사랑해엄마》 Nov 7–8 and 동백당 Nov 20–21. Enriched #38; not a new numbered entry.
+- **Daegu FC Nov 22** — official `kleague.com/schedule.do` is a JS calendar with no static November row. Club site does not publish the date. Unofficial grids still print Sun Nov 22 14:00 home vs Gimhae. **Not upgraded.**
+- **Masan Gagopa Chrysanthemum Festival** — no public visitor calendar yet. Official Changwon booking notice closes Happo outdoor stage **2026.10.25–11.12** *because of the 2026 festival*. That is setup-to-teardown, not the visitor run. Documented as an occupancy window only.
+- **Pohang International Music Festival** — foundation page is still `FST_ETC_2025_001`, status **종료**, period Nov 7–13. No 2026 festivalId. mfph.kr still 404s. Stays WATCH.
+- **Incheon Airport Sky Festival** — IIAC latest official press is the **2025 recap** (Nov 8–9, Inspire). No 2026 announcement. Stays TBA.
+- **Noodle Daejeon** — noodle-dj.com is still the 2025 page.
+- **NJP Translocal** — still absent; 예정 전시 still empty.
+
+### Added
+- `itinerary.md` nearby-city mid-October tables (Daejeon/Cheonan, Suwon, Yongin, Incheon, Jeonju, Gyeongju, Ulsan, Pohang, Changwon, Yeosu).
+- events.csv rows for the occupancy window, Cheonan Nov 5/7–8/20–21, Sky Festival TBA, Sori TBA, Daegu FC watch.
+
+No new numbered city-file entries. Inventory stays **594**.

@@ -86,10 +86,11 @@ Do not add an entry solely to increase a count.
 | Daejeon/Cheonan + nine-city headline sweep (2026-08-18, Pass 35) | **Re-check pass** | Daejeon: Hanbit Tower **free** (not ₩2,500); Art Space 193 **still 미운영**; Cheonan Arts Center year calendar 502 — only NOL-listed Nov 7–8 / 20–21 kept as confirmed. Wine EXPO official visitor guide re-confirmed. Nearby headlines re-fetched: Yeosu Expo Sep 5–Nov 4; BeautySum Suwon Nov 5–7; Pohang KFES still Nov 20–22 vs foundation Nov 14–22. No padding added. |
 | Suwon → Yongin → Incheon line-by-line (2026-08-18, Pass 36) | **Re-check + additive pass** | All dated headlines re-fetched. Visit Suwon festival index **wrongly lists BeautySum Nov 6–8** (organizer is Nov 5–7). Haenggung combined ticket ₩4,000 added. KFV `/price/charge.asp` 404. Wolmi Sea Train ₩8,000 / Nov–Mar 10:00–18:00 from ICTR. Added: suwon #40 Gwanggyo 고문서 show; yongin #37 Gyeonggi Museum 30th-anniversary archive (Aug 27–Mar 1); incheon #45 ACI Kholodenko Nov 7 + Tallis Scholars Nov 15. |
 | Jeonju → Gyeongju → Ulsan, then Pohang / Changwon / Yeosu (2026-08-18, Pass 37) | **Re-check + additive pass** | Gyeonggijeon **정전 closed Mar 26–Dec 17** (operator notice). Starlight Walk official **₩10,000 TicketLink**. Daesaseupcheong Saturday list: **Oct 31 only** in the trip window. Added jeonju #38 《한상궁》 musical through Nov 13. Gyeongju / Ulsan / Pohang / Changwon / Yeosu headlines re-confirmed; no padding. |
+| Nearby-city mid-October tables + remaining ⏳ hunt (2026-08-18, Pass 38) | **Planning + hunt** | Added ten-city mid-October re-check tables to `itinerary.md`. Cheonan year calendar now **404**; venue list adds Nov 5 Mezclarinet (준비중). Masan occupancy **Oct 25–Nov 12** (not visitor dates). Sori / Sky Festival / Pohang music / Daegu FC Nov 22 / Noodle 2026 still unpublished. No padded counts. |
 
 ## Next pass order
 
-Re-check October 2026 calendars for every ⏳ item. Do not add entries solely to raise a count. Prefer dated organizer pages over city planning PDFs.
+Walking maps for the nearby cities, or a late-October sports-fixture sweep after K League 1 draws the final round (Oct 25). Do not add entries solely to raise a count. Prefer dated organizer pages over city planning PDFs.
 
 ### Checks added after Pass 21
 - **Is the frequency still current?** Daily → weekly is a real decay path (Yeongdo Bridge: daily 14:00 → Saturdays only). Treat "regular", "daily" and "every afternoon" as claims needing a date-stamped source, exactly like a price.

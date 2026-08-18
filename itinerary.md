@@ -70,7 +70,7 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | **Oct** | Korea Sale FESTA 2026 dates announced (recent years Nov 9–30) | ⚠️ domain lapsed — see sources.md |
 | **Oct** | MMCA Night November edition preregistration (500 spots, sells out) | mmca.go.kr |
 | **Sep–Oct** | Changgyeonggung **Mulbit Yeonhwa** — ✅ fall run already confirmed (Sep 8–Nov 8, from 16:40); nothing to wait for, but re-check the day before for rain rules | kh.or.kr · 1522-2295 |
-| **Sep–Oct** | **Masan Gagopa Chrysanthemum Festival 2026 dates** (changwon-jinhae #30) — 2025 ran Nov 1–9; if 2026 matches, it overlaps trip week 1 | [changwon.go.kr](https://www.changwon.go.kr) |
+| **Sep–Oct** | **Masan Gagopa Chrysanthemum Festival** (changwon-jinhae #30) — city booking desk has reserved Happo outdoor stage **2026.10.25–11.12** for the festival; public hours/program still unpublished | [Changwon booking notice](https://www.changwon.go.kr/booking/10034/10152.web?amode=view&idx=486) |
 | **Now / Oct** | **Jeonju Gyeonggijeon 정전 is closed Mar 26–Dec 17, 2026** for dancheong restoration (inner shrine only; precinct + Royal Portrait Museum stay open). Starlight Walk is **₩10,000 on TicketLink**, Fridays 19:30/20:30. Daesaseupcheong Saturday series has **Oct 31 only** in the trip window — Nov 7/14/21 are not posted. | [어진박물관 단청공사 공지](https://www.jeonju.go.kr/eojinmuseum/planweb/board/view.9is?boardUid=9be517a78020a9620182a44463067f48&contentUid=9be517a78020a96201827bebe0d52920&dataUid=9be517a89a2f1137019d1d8c2019416f) · [별빛누빔](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001040) |
 | **Late Oct** | **Pohang Fireworks** — foundation still **Nov 14–22** with international show **Nov 21 예정**; VisitKorea still **Nov 20–22**. Re-check both. Sori Arts Center November date still unpublished. | [phcf overview](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_LIGHT_2026_001&tab=overview) · [sori21.co.kr](https://www.sori21.co.kr/) |
 | **Early Nov** | **Everland Christmas Fantasy start date** (yongin #11) — 2025 began Nov 28 (missed), an earlier year Nov 16 (in-window); check the live calendar | [everland.com](https://www.everland.com/everland/home/main) |
@@ -119,7 +119,7 @@ Everything below is a real program whose **2026 November dates or details were u
 | D1 | 🎺 **Crossbones Trombones** (daegu #2) | Ticket on-sale and start time (Nov 12, Biseul Hall) | [daeguartscenter.or.kr](https://www.daeguartscenter.or.kr) |
 | D2 | 🎭 **SAC on Screen: Othello** (daegu #4) | Nov 7 screening's hall + start time once posted (only the date is on the annual calendar) | [Daegu Art Factory calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026) |
 | D3 | 🎨 **Daegu Art Festival Part 2** (daegu #35) | Confirm admission (free?) and the Sun Nov 22 16:00 early close | [dgfca.or.kr](https://dgfca.or.kr/event/search/list) |
-| D4 | ⚽⚾ **Daegu FC / Samsung Lions** (daegu #33/#34) | Daegu FC is in **K League 2**: confirm the apparent **home game Sun Nov 22 14:00 vs Gimhae** (and possibly Oct 31 vs Suwon Samsung) on the official match centre — club site was down Aug 18. KBO postseason separately | [daegufc.co.kr](https://www.daegufc.co.kr) · [kleague.com](https://www.kleague.com/schedule.do) · [koreabaseball.com](https://www.koreabaseball.com) |
+| D4 | ⚽⚾ **Daegu FC / Samsung Lions** (daegu #33/#34) | Pass 38: official K League schedule page is still a JS calendar with **no static November row**. Unofficial grids still print **Sun Nov 22 14:00 home vs Gimhae**. **Do not treat as confirmed** until kleague.com or the club site shows it. KBO postseason separately | [daegufc.co.kr](https://www.daegufc.co.kr) · [kleague.com](https://www.kleague.com/schedule.do) · [koreabaseball.com](https://www.koreabaseball.com) |
 | D5 | 🎢 **E-World / 83 Tower** (daegu #32) | November hours + any seasonal illumination program | [eworld.kr](https://eworld.kr) |
 | D6 | 🚡 **Palgongsan cable car** (daegu #27) | November last car (city listing 17:10) + weather/maintenance. ⚠️ palgongcablecar.com is hijacked — do not use | [daegutour.or.kr listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) · [tour.daegu.go.kr](https://tour.daegu.go.kr/) |
 | D7 | 🏺 **Daegu National Museum** (daegu #28) | Any November special exhibition | [daegu.museum.go.kr](https://daegu.museum.go.kr/eng/) |
@@ -138,6 +138,97 @@ Everything below is a real program whose **2026 November dates or details were u
 | M6 | 🏙️ **Seoul Gallery (City Hall basement)** (myeongdong #24) | Current exhibition + hours (Nov–Feb Mon–Sat 09:00–20:00) | [english.seoul.go.kr](https://english.seoul.go.kr/seoul-city-hall-underground-space-reborn-as-my-friend-seoul-seoul-gallery/) |
 | M7 | 🥁 **NANTA Myeongdong** (myeongdong #3) | Daily showtimes hold, but re-confirm before booking | [nanta.co.kr](https://www.nanta.co.kr:452/kr/show/detail.php?id=1) |
 | M8 | 🚂 **Culture Station Seoul 284 fall exhibition** (myeongdong #37) | Title + dates of the Sep–Nov flagship show (KCDF plan) — nothing posted at Aug 18 review | [seoul284.org](https://www.seoul284.org/main) |
+
+---
+
+## 📅 Mid-October re-check calendar — 10 nearby cities
+
+Same rule as the four-city table: these are **real programs** whose November 2026 dates or details were unpublished or only partly published at the Aug 18 review. One reminder in mid-October. Anything still silent by late October is probably not happening in your window. **K League 1 final-round fixtures drop right after Oct 25** — do not wait past then for Jeonbuk / Ulsan HD / Pohang / Daejeon Hana / FC Seoul.
+
+### Daejeon / Cheonan
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| DC1 | 🍜 **Noodle Daejeon Festival** (daejeon-cheonan #4) | 2026 dates. Organizer site is **still the 2025 edition** (Nov 7–9). Do not copy that weekend | [noodle-dj.com](https://noodle-dj.com) |
+| DC2 | 🌼 **Yuseong / O-World chrysanthemums** (daejeon-cheonan #5) | 2026 visitor dates. 2025 Yuseong ran Oct 18–Nov 2 — only the tail would overlap | [yuseong.go.kr](https://www.yuseong.go.kr/) · [oworld.kr](https://www.oworld.kr) |
+| DC3 | ⚽ **Daejeon Hana Citizen final-round homes** (daejeon-cheonan #6) | 2–3 homes in Oct 31–Dec 6, drawn after Oct 25 | [kleague.com](https://www.kleague.com/schedule.do) · [dhcfc.kr](https://www.dhcfc.kr) |
+| DC4 | ⚾ **Hanwha Eagles postseason** (daejeon-cheonan #7) | Only if still playing in early November | [koreabaseball.com](https://www.koreabaseball.com) |
+| DC5 | 🏀 **WKBL Asan Woori Bank** (daejeon-cheonan #8) | 2026–27 tip-off; last season opened mid-November | [wkbl.or.kr](https://www.wkbl.or.kr) |
+| DC6 | 🎨 **Daejeon Science & Art Biennale** (daejeon-cheonan #14) | 2026 dates unpublished; 2024 ran Oct 25–Feb 2 | [daejeon.go.kr/dma](https://www.daejeon.go.kr/dma) |
+| DC7 | 🎻 **Daejeon Arts Center / Philharmonic** (daejeon-cheonan #28) | Any dated November concert | [djac.or.kr](https://www.djac.or.kr) · [dpo.or.kr](https://www.dpo.or.kr) |
+| DC8 | 🎭 **Cheonan Arts Center** (daejeon-cheonan #38) | Annual calendar URL is now **404**. Confirm times and whether **Nov 5 〈메즈클라리넷〉** (₩10,000, 준비중) has gone on sale. NOL still lists 《사랑해엄마》 Nov 7–8 and 《동백당》 Nov 20–21 | [cnac list](https://www.cnac.or.kr/performance/list.html) · [NOL](https://tickets.interpark.com/contents/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) |
+| DC9 | 🏐 **Cheonan / Daejeon V-League homes** (daejeon-cheonan #3) | ✅ Season fixtures published Aug 18 — pull November Chungmu and Yu Gwan-sun dates | [kovo.co.kr](https://www.kovo.co.kr) |
+
+### Suwon
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| SW1 | ⚽ **Suwon FC / Bluewings November** (suwon + changwon #27) | Gyeongnam already listed **away at Suwon FC Nov 7 14:00** and **away at Bluewings Nov 21 14:00**. Confirm no time change | [gyeongnamfc.com](https://www.gyeongnamfc.com/match/match.php) · [kleague.com](https://www.kleague.com/schedule.do) |
+| SW2 | 🏀 **KT Sonicboom** (suwon #36) | 2026–27 KBL home dates at Sonicboom Arena | [kbl.or.kr](https://www.kbl.or.kr) |
+| SW3 | ⚾ **KT Wiz postseason** (suwon #37) | Only if still playing in November | [ktwiz.co.kr](https://www.ktwiz.co.kr) · [koreabaseball.com](https://www.koreabaseball.com) |
+| SW4 | 🎈 **Flying Suwon** (suwon #16) | Same-day wind check — not a date hunt | [swcf.or.kr/?p=74](https://www.swcf.or.kr/?p=74) |
+
+### Yongin
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| YG1 | 🌍 **Hyundai Translocal Series** (yongin #7) | Foundation plan says Nov 5 2026–Mar 28 2027. **Still absent from NJP's own page; 예정 전시 empty.** Do not build a day around it | [njp.ggcf.kr/exhibitions](https://njp.ggcf.kr/exhibitions) |
+| YG2 | 🎄 **Everland Christmas Fantasy start** (yongin #11) | 2025 began Nov 28 (missed); an earlier year Nov 16 (in-window). No 2026 start posted | [everland.com](https://www.everland.com/everland/home/main) |
+| YG3 | 💦 **Caribbean Bay November operation** (yongin #12) | Which indoor zones actually run in November | [Caribbean Bay](https://www.everland.com/caribbeanbay/home/main) |
+| YG4 | 🎭 **Poeun Art Hall** (yongin #36) | Any dated November show. Calendar URL erroring Aug 18 | [yicf.or.kr show list](https://www.yicf.or.kr/main/show/list.do) |
+
+### Incheon
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| IC1 | ✈️ **Incheon Airport Sky Festival** (incheon #44) | 2026 edition. Latest official IIAC press is the **2025 recap** (Nov 8–9, Inspire). No 2026 announcement | [airport.kr](https://www.airport.kr/) |
+| IC2 | 🖼️ **INAS last-entry / hours** (incheon ArtShow) | Already dated Nov 19–22; reconfirm Nov 22 **last entry 17:00** before a departure-day visit | [iartshow.imweb.me](https://iartshow.imweb.me/) |
+| IC3 | ⛴️ **Wolmido–Yeongjong ferry** (incheon #16) | November sailings | [Incheon Wolmi guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110) |
+
+### Jeonju
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| JJ1 | 🎻 **Sori Arts Center / Jeonju Symphony November** (jeonju #37) | Still unpublished. 277th subscription was **May 22, 2026** (before the trip). Venue calendar is client-rendered | [sori21.co.kr list](https://www.sori21.co.kr/site/1/menu/8/show/performance) · [monthly calendar](https://www.sori21.co.kr/site/1/menu/9/show/performance/calendar) |
+| JJ2 | ⚽ **Jeonbuk Hyundai final-round homes** (jeonju #36) | 2–3 homes in Oct 31–Dec 6, drawn after Oct 25 | [kleague.com](https://www.kleague.com/about/competition.do) · [hyundai-motorsfc.com](https://hyundai-motorsfc.com) |
+| JJ3 | 🎭 **《한상궁》 musical nights** (jeonju #38) | Visit Jeonju lists Aug 28–Nov 13; pull a specific date/time/price | [Visit Jeonju RE_0001066](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001066) |
+| JJ4 | ✨ **Starlight Walk tickets** (jeonju #2) | Already dated Fri Nov 6/13/20, 19:30/20:30, **₩10,000 TicketLink**. Book; inner 정전 is closed | [별빛누빔](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001040) |
+
+### Gyeongju
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| GJ1 | 🎭 **Gyeongju Arts Center November concert** (gyeongju #33) | Year-preview flagged a KHNP Premiere band concert in November (예정). Nothing bookable yet | [garts.kr performance calendar](https://garts.kr/index.do?menuId=00000121) |
+| GJ2 | 🚌 **Gyeongju City Tour winter routes** (gyeongju #36) | November timetable; weekend shuttle already ended Oct 18 | [cmtour.co.kr](https://www.cmtour.co.kr) |
+| GJ3 | 🪨 **National Museum Monday rest day** (gyeongju #12) | Confirm whether Nov rest Monday is **Nov 2 or Nov 9** | [gyeongju.museum.go.kr visitor](https://gyeongju.museum.go.kr/kor/html/sub01/0101.html) |
+
+### Ulsan
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| UL1 | ⚽ **Ulsan HD FC final-round homes** (ulsan #28) | 2–3 homes in Oct 31–Dec 6, drawn after Oct 25. East Coast Derby if the draw is kind | [uhdfc.com](https://www.uhdfc.com) · [kleague.com](https://www.kleague.com/about/competition.do) |
+| UL2 | 🏀 **Hyundai Mobis Phoebus** (ulsan #29) | 2026–27 KBL homes | [kbl.or.kr](https://www.kbl.or.kr) |
+| UL3 | 🎻 **Philharmonic Nov 13 tickets** (ulsan #31) | Already dated Fri Nov 13, Grand Theater, 19:30. Confirm remaining seats | [ulsanculture.kr](https://www.ulsanculture.kr/webuser/exhibit/) |
+| UL4 | 🚗 **Hyundai plant tour** (ulsan #24) | November English-language slots | [hyundai.com plant tour](https://www.hyundai.com/kr/ko/company-intro/plant-tour) |
+
+### Pohang
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| PH1 | 🎆 **Fireworks Festival core vs lead-in** (pohang #29) | Foundation still **Nov 14–22**, international show **Nov 21 예정**. VisitKorea still **Nov 20–22** with 2025 copy. Re-check both | [phcf overview](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_LIGHT_2026_001&tab=overview) · [VisitKorea KFES](https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8) |
+| PH2 | 🎻 **Pohang International Music Festival** (pohang #31) | Foundation page is still the **2025** record (**종료**, Nov 7–13). No 2026 festivalId. mfph.kr 404s | [phcf 2025 page](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_ETC_2025_001) |
+| PH3 | ⚽ **Steelers final-round homes** (pohang #25) | 2–3 homes in Oct 31–Dec 6, drawn after Oct 25 | [steelers.co.kr](https://www.steelers.co.kr/) · [kleague.com](https://www.kleague.com/about/competition.do) |
+| PH4 | 🎨 **Steel Art Festival venue** (pohang #30) | Dates Oct 24–Nov 15 posted; venue still 미정 | [phcf steel](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_STEEL_2026_001) |
+| PH5 | 🎬 **Indieplus / Culture Hall November** (pohang #23/#24) | Monthly film and concert bills | [Indieplus schedule](https://culturalspace.phcf.or.kr/joongangArtHall/indiplusMovieSchedule.do) |
+
+### Changwon · Jinhae
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| CW1 | 🌼 **Masan Gagopa Chrysanthemum Festival** (changwon-jinhae #30) | City booking desk reserved Happo outdoor stage **2026.10.25–11.12** for the festival. That is setup-to-teardown, **not** the visitor calendar. Pull public hours/program | [Changwon booking notice](https://www.changwon.go.kr/booking/10034/10152.web?amode=view&idx=486) |
+| CW2 | 🎬 **SAC on Screen November Wednesday** (changwon-jinhae #1) | Title is 《늙은 부부이야기》; exact Nov 4 / 11 / 18 posts late | [cwcf p_idx=8795](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=8795) |
+| CW3 | 🎷 **Maria Kim tickets** (changwon-jinhae #2) | Already dated Tue Nov 17 11:00, ₩20,000. Online sales close Mon Nov 16 17:00 | [cwcf p_idx=9003](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=9003) |
+| CW4 | 🏀 **LG Sakers** (changwon-jinhae #26) | 2026–27 KBL homes at Changwon Gymnasium | [kbl.or.kr](https://www.kbl.or.kr) |
+| CW5 | ⚾ **NC Dinos postseason** (changwon-jinhae #25) | Only if still playing in November | [ncdinos.com](https://www.ncdinos.com/) |
+
+### Yeosu
+| # | Item (file entry) | What to check in mid-October | Official source |
+|---|---|---|---|
+| YS1 | 🏝️ **World Island Exhibition last five days** (yeosu #1) | Already dated Sep 5–Nov 4. Reconfirm last-entry 20:00 and the Oct 31 fireworks / food-festival rows | [yeosu2026.or.kr](https://yeosu2026.or.kr) · [hours/fares](https://yeosu2026.or.kr/content/4_1) · [schedule](https://yeosu2026.or.kr/expo_schedule) |
+| YS2 | 💦 **Big-O fountain through Nov 8** (yeosu #12) | Already dated; Nov start 20:00, Wed–Sun only. Weather cancel | [Yeosu listing](https://www.yeosu.go.kr/tour/leisure/experience/observation_inst?mode=view&idx=94) |
+| YS3 | 🎸 **Night Sea busking November dates** (yeosu #30) | Attend only a listed trip-window night | [busking page](https://www.yeosu.go.kr/tour/culture_festa/busking) · [monthly calendar](https://www.yeosu.go.kr/tour/culture_festa/month_event) |
+| YS4 | 🕯️ **Yeosu–Suncheon Incident bus** (yeosu #32) | Whether a Wed/Sun trip-window departure is actually bookable | [dark-tour page](https://www.yeosu.go.kr/tour/leisure/city_tour/dark_tour) |
 
 ---
 

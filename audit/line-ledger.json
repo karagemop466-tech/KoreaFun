@@ -13389,9 +13389,20 @@
   "file": "changwon-jinhae.md",
   "kind": "SOURCE",
   "note": "Pass29: getting-there advice",
+  "retired": true,
   "sources": [],
   "text": "- **Official sources (reviewed Aug 18):** [Changwon City](https://www.changwon.go.kr/) — city-hosted festival; 2025 dates/programme via [Gyeongnam Domin Ilbo, Oct 30, 2025](https://www.idomin.com/news/articleView.html?idxno=949146) (Nov 1–9, both sites, drone show, 22:00 close) · [Yonhap — 2024 edition](https://www.yna.co.kr/view/AKR20240819063500052) (Oct 26–Nov 3, 125,000 blooms)",
   "verdict": "prose"
+ },
+ "changwon-jinhae.md#30:7416c2ae04": {
+  "checked_on": null,
+  "entry": 30,
+  "file": "changwon-jinhae.md",
+  "kind": "TIME",
+  "note": "",
+  "sources": [],
+  "text": "- **⏳ Public 2026 visitor dates are still unpublished.** What the city *has* posted is an occupancy window: the official booking desk closed Happo Waterfront Park's outdoor stage for **2026. 10. 25 – 11. 12** *because of the 2026 Masan Gagopa Chrysanthemum Festival*. That blackout is longer than a typical 9-day public run (setup/teardown), so **do not treat Oct 25–Nov 12 as the visitor calendar**. Recent public runs: **25th edition Nov 1–9, 2025** (09:00–22:00, free); **24th edition Oct 26–Nov 3, 2024**. Expect the visitor window to sit inside the first two trip weeks; pull hours and program from the city festival page in October.",
+  "verdict": "unchecked"
  },
  "changwon-jinhae.md#30:87b1a4fcbf": {
   "checked_on": "2026-08-18",
@@ -13411,6 +13422,7 @@
   "file": "changwon-jinhae.md",
   "kind": "TIME",
   "note": "Pass29: 125,000 blooms (Yonhap 2024), sites 3.15 Marine Nuri + Happo, night lighting/drone/fireworks (idomin 2025)",
+  "retired": true,
   "sources": [
    "https://www.idomin.com/news/articleView.html?idxno=949146"
   ],
@@ -13428,6 +13440,16 @@
   ],
   "text": "- **Getting there:** 3.15 Marine Nuri Park is on the Masan Happo waterfront — pairs with Masan fish market and the Robot Land coast (#28).",
   "verdict": "sourced"
+ },
+ "changwon-jinhae.md#30:d149dcb836": {
+  "checked_on": null,
+  "entry": 30,
+  "file": "changwon-jinhae.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Changwon City booking notice — 국화축제 기간 2026.10.25~11.12, Happo outdoor stage closed to other bookings](https://www.changwon.go.kr/booking/10034/10152.web?amode=view&idx=486) · [2026 flower-production tender naming the 26th festival](https://www.changwon.go.kr/cwportal/10310/10429/11015.web?amode=view&idx=876606&gcode=1009) · 2025 dates/programme via [Gyeongnam Domin Ilbo, Oct 30, 2025](https://www.idomin.com/news/articleView.html?idxno=949146) · [Yonhap — 2024 edition](https://www.yna.co.kr/view/AKR20240819063500052)",
+  "verdict": "unchecked"
  },
  "changwon-jinhae.md#3:5d59827eb6": {
   "checked_on": "2026-08-18",
@@ -19440,6 +19462,7 @@
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "Pass27: official match centre is the confirm path; club site noted as erroring",
+  "retired": true,
   "sources": [
    "https://www.kleague.com/schedule.do"
   ],
@@ -19496,6 +19519,16 @@
   ],
   "text": "- **Status:** Verify any trip-window fixture and ticket link in the K League match center.",
   "verdict": "verified"
+ },
+ "daegu.md#34:e4eb06cebc": {
+  "checked_on": null,
+  "entry": 34,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu FC](https://www.daegufc.co.kr/) · [K League match centre](https://www.kleague.com/schedule.do) — Pass 38: the official schedule page is a JS calendar that still does not expose a static November row. Unofficial grids still print **Sun Nov 22 14:00 home vs Gimhae**. **Do not treat that as confirmed** until it appears on kleague.com or the club site.",
+  "verdict": "unchecked"
  },
  "daegu.md#35:1fbfd9a9ea": {
   "checked_on": "2026-08-17",
@@ -26015,11 +26048,32 @@
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "Pass32: venue annual calendar fetched via search; NOL listings corroborate",
+  "retired": true,
   "sources": [
    "https://www.cnac.or.kr/play/year.html?p_team=pfm"
   ],
   "text": "- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — annual schedule](https://www.cnac.or.kr/play/year.html?p_team=pfm) (all November dates above) · [NOL listings for the venue](https://tickets.interpark.com/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)",
   "verdict": "sourced"
+ },
+ "daejeon-cheonan.md#38:6c345f12e7": {
+  "checked_on": null,
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "",
+  "sources": [],
+  "text": "- **Newly visible on the venue list (Pass 38):** **K-클래식 콘서트 7 〈메즈클라리넷〉 — Thu Nov 5, small hall, ₩10,000**, marked **준비중**. Treat as dated but not yet bookable until the listing leaves “preparing.”",
+  "verdict": "unchecked"
+ },
+ "daejeon-cheonan.md#38:847d6ab607": {
+  "checked_on": null,
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **⚠️ The annual-calendar URL is now a 404** (`/play/year.html` — it was HTTP 502 in Pass 35). Use the [live performance list](https://www.cnac.or.kr/performance/list.html) or NOL. Automated fetches of the list page are firewall-blocked; the Nov 5 / Nov 20–21 rows above are from that official list as indexed Aug 18.",
+  "verdict": "unchecked"
  },
  "daejeon-cheonan.md#38:8a9e906a6d": {
   "checked_on": "2026-08-18",
@@ -26106,11 +26160,22 @@
   "file": "daejeon-cheonan.md",
   "kind": "DATE",
   "note": "Pass32: Phil Nov 11 (main), Saranghae-eomma Nov 7-8, Bimilgyeolhon Nov 16, Dongbaekdang Nov 20-21 all on venue annual calendar; Nov 25 item excluded as post-departure",
+  "retired": true,
   "sources": [
    "https://www.cnac.or.kr/play/year.html?p_team=pfm"
   ],
   "text": "- **Dated November items on the venue's own annual calendar:** **Cheonan Philharmonic subscription concert — Wed Nov 11, main hall** · play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 (Cimarosa's *Il matrimonio segreto*) — Mon Nov 16, small hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall**. (The 11 AM commentary concert falls Nov 25 — after departure.)",
   "verdict": "verified"
+ },
+ "daejeon-cheonan.md#38:e6270b26ad": {
+  "checked_on": null,
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "",
+  "sources": [],
+  "text": "- **Dated November items still listed:** play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall, ₩20,000** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 — Mon Nov 16, small hall** · **Cheonan Philharmonic subscription — Wed Nov 11, main hall** (these last two were on the annual calendar; re-confirm on the live list). The 11 AM commentary concert is **Wed Nov 25** — after departure.",
+  "verdict": "unchecked"
  },
  "daejeon-cheonan.md#38:ed746bd5c0": {
   "checked_on": "2026-08-18",
@@ -26118,11 +26183,22 @@
   "file": "daejeon-cheonan.md",
   "kind": "PRICE",
   "note": "Pass32: calendar shows dates only (stated); price range hedged as typical, directs to listing",
+  "retired": true,
   "sources": [
    "https://www.cnac.or.kr/play/year.html?p_team=pfm"
   ],
   "text": "- **Booking:** venue site or NOL; most small-hall programs are ₩10,000–30,000. Confirm times on the specific listing — the annual calendar shows dates only.",
   "verdict": "verified"
+ },
+ "daejeon-cheonan.md#38:f59411e3d4": {
+  "checked_on": null,
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — performance list](https://www.cnac.or.kr/performance/list.html) · [NOL venue search](https://tickets.interpark.com/contents/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)",
+  "verdict": "unchecked"
  },
  "daejeon-cheonan.md#39:92151fc1c0": {
   "checked_on": "2026-08-18",
@@ -27158,6 +27234,7 @@
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -27217,6 +27294,16 @@
   ],
   "text": "- **Official sources (reviewed Aug 17):** [noodle-dj.com](https://noodle-dj.com) · [daejeon.go.kr](https://www.daejeon.go.kr)",
   "verdict": "verified"
+ },
+ "daejeon-cheonan.md#4:f98584a5f6": {
+  "checked_on": null,
+  "entry": 4,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [noodle-dj.com](https://noodle-dj.com) — still the **2025** edition (Nov 7–9) · [daejeon.go.kr](https://www.daejeon.go.kr)",
+  "verdict": "unchecked"
  },
  "daejeon-cheonan.md#5:462ca7c22d": {
   "checked_on": "2026-08-18",
@@ -31040,6 +31127,16 @@
   "text": "- **Hours/price:** Route-day and reservation-specific. Check the current timetable; tours do not replace local transit on every day.",
   "verdict": "verified"
  },
+ "gyeongju.md#3:4c80009095": {
+  "checked_on": null,
+  "entry": 3,
+  "file": "gyeongju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Gyeongju National Museum — special exhibitions](https://gyeongju.museum.go.kr/kor/html/sub02/0202.html) — 《83년 만에 만남, 경주 월성에서 찾은 비석 조각》 **2026-04-13 ~ 2026-12-31**. Hwangnyongsa **to Oct 11** and Guimet *Silla: l'Or et le Sacré* **to Aug 31** both close before the trip. Saturday night opening is **~20:00, March–October Saturdays only** — none in November.",
+  "verdict": "unchecked"
+ },
  "gyeongju.md#3:6aac583f78": {
   "checked_on": "2026-08-18",
   "entry": 3,
@@ -31266,6 +31363,7 @@
   "file": "gyeongju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -36648,11 +36746,22 @@
   "file": "incheon.md",
   "kind": "SOURCE",
   "note": "Pass30: ticket notice + history citations fetched",
+  "retired": true,
   "sources": [
    "https://tickets.interpark.com/contents/notice/detail/11515"
   ],
   "text": "- **Official sources (reviewed Aug 18):** [Incheon Airport (IIAC)](https://www.airport.kr/) — festival host · [2025 edition official ticket notice — Nov 8–9, Inspire Arena](https://tickets.interpark.com/contents/notice/detail/11515) · [festival history since 2004](https://www.khan.co.kr/article/202309081108011)",
   "verdict": "sourced"
+ },
+ "incheon.md#44:3a5e3aaed0": {
+  "checked_on": null,
+  "entry": 44,
+  "file": "incheon.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Incheon Airport (IIAC)](https://www.airport.kr/) — festival host · [IIAC 2025 recap press](https://www.airport.kr/co_ko/664/subview.do) · [2025 ticket notice — Nov 8–9, Inspire Arena](https://tickets.interpark.com/contents/notice/detail/11515)",
+  "verdict": "unchecked"
  },
  "incheon.md#44:54caddc0d1": {
   "checked_on": "2026-08-18",
@@ -36677,6 +36786,16 @@
   ],
   "text": "- **What:** Incheon International Airport Corporation's annual festival, running since 2004 — in recent form a **two-evening K-pop + classical/musical concert weekend at Inspire Arena** next to the airport, with daytime family events.",
   "verdict": "verified"
+ },
+ "incheon.md#44:8115837866": {
+  "checked_on": null,
+  "entry": 44,
+  "file": "incheon.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **Re-checked Aug 18 (Pass 38):** IIAC's latest official Sky Festival press is the **2025 recap** (Nov 8–9 at Inspire). **No 2026 edition has been announced.** Stay ⏳.",
+  "verdict": "unchecked"
  },
  "incheon.md#45:2b280397b1": {
   "checked_on": "2026-08-18",
@@ -40513,11 +40632,22 @@
   "file": "jeonju.md",
   "kind": "ACCESS",
   "note": "Pass32: honest state - monthly cycle makes Nov likely but no published date; entry says exactly that",
+  "retired": true,
   "sources": [
    "https://www.sori21.co.kr/"
   ],
   "text": "- **November:** the orchestra's roughly monthly cycle makes a November subscription concert likely, but **no specific in-window date was published at review** — pull it from the venue calendar and book there.",
   "verdict": "unresolved"
+ },
+ "jeonju.md#37:5a165b4a97": {
+  "checked_on": null,
+  "entry": 37,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **November:** the orchestra's roughly monthly cycle makes a November subscription concert likely, but **no specific in-window date was published at review**. The 277th subscription concert was **Fri May 22, 2026** at Yeonji Hall — before the trip. The venue calendar is client-rendered and still has no November row. Stay ⏳.",
+  "verdict": "unchecked"
  },
  "jeonju.md#37:85b7aa75f8": {
   "checked_on": "2026-08-18",
@@ -40535,6 +40665,7 @@
   "file": "jeonju.md",
   "kind": "SOURCE",
   "note": "Pass32: venue site + Jan 2026 press",
+  "retired": true,
   "sources": [
    "https://www.sori21.co.kr/"
   ],
@@ -40552,6 +40683,16 @@
   ],
   "text": "- **What:** The province's flagship arts complex in Deokjin-gu (opened 2001) — the Moak Hall main stage, Yeonji Hall concert hall and outdoor stages. It hosts the Jeonju World Sori Festival each summer and is the home stage of the **Jeonju Symphony Orchestra**, whose numbered subscription series runs through the year (the 276th subscription concert played Yeonji Hall in January 2026).",
   "verdict": "verified"
+ },
+ "jeonju.md#37:fcec74a065": {
+  "checked_on": null,
+  "entry": 37,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Sori Arts Center — performance list](https://www.sori21.co.kr/site/1/menu/8/show/performance) · [monthly calendar](https://www.sori21.co.kr/site/1/menu/9/show/performance/calendar) · [277th subscription, May 22 2026 — Jeonbuk Geumgang Ilbo](http://www.gkg.co.kr/184089)",
+  "verdict": "unchecked"
  },
  "jeonju.md#38:3ce2c10ad4": {
   "checked_on": null,
@@ -50850,6 +50991,16 @@
   "text": "- **Status caveat:** The page is flagged **미정** (venue \"to be decided\") and the 2026 theme and programme are not published yet. The dates are posted; the line-up is not. The 2025 edition was also *extended* past its printed end date (to Nov 20), so the run may stretch.",
   "verdict": "verified"
  },
+ "pohang.md#31:0d7866f288": {
+  "checked_on": null,
+  "entry": 31,
+  "file": "pohang.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Pohang Cultural Foundation festival page](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_ETC_2025_001) — still the **2025** record, status **종료**, period **11월 7일~13일**. No 2026 festivalId. · [festival list](https://phcf.or.kr/phcf/current_festivals/view.do) · contact 054-289-7999, mfpohang@gmail.com",
+  "verdict": "unchecked"
+ },
  "pohang.md#31:353930c0ca": {
   "checked_on": "2026-08-18",
   "entry": 31,
@@ -50944,6 +51095,7 @@
   "file": "pohang.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -87132,12 +87284,23 @@
   "text": "- **What:** Jointly planned exhibition by Nam June Paik Art Center and Pinacoteca de São Paulo exploring “translocal” ideas.",
   "verdict": "verified"
  },
+ "yongin.md#7:e45af88e90": {
+  "checked_on": null,
+  "entry": 7,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Gyeonggi Cultural Foundation 2026 program announcement](https://ggc.ggcf.kr/p/698c641f325a86b151c6f6ce) · [NJP exhibitions](https://njp.ggcf.kr/exhibitions) — Translocal still absent; **예정 전시 still empty**. Current in-window shows remain 장윤영 (to Nov 11) and 별 괘卦 (to Feb 2027).",
+  "verdict": "unchecked"
+ },
  "yongin.md#7:f197cadf98": {
   "checked_on": "2026-08-18",
   "entry": 7,
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
