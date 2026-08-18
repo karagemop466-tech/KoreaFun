@@ -30,7 +30,7 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 3) 📚 **Seoul Outdoor Library** — ✅ CONFIRMED — through Sun Nov 1, 2026
 - **What:** Open-air reading spaces at Seoul Plaza, Gwanghwamun Book Plaza, and a Cheonggyecheon stretch.
 - **When:** Official festival calendar: **Apr 23–Nov 1, 2026** (fall run Sep 4–Nov 1). Catch it on day one or two.
-- **⚠️ Only Fri–Sun.** Daytime sessions run **11:00–18:00** and night sessions **16:00–22:00**. Since it closes Nov 1, your single realistic shot is **Sun Nov 1** — the same day as the JTBC Marathon, which is convenient: both are central.
+- **⚠️ Only Fri–Sun.** Daytime sessions run **11:00–18:00** and night sessions **16:00–22:00**. Since it closes Nov 1, your single realistic shot is **Sun Nov 1** — the same day as the JTBC Marathon, which is convenient: both are central. The SMG annual calendar also lists a **Gwanghwamun closing ceremony in early November** — treat it as a bonus, not a plan.
 - **Price:** Free.
 - **Official source (reviewed Aug 17):** [Seoul Festival Calendar](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=394)
 
@@ -98,12 +98,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 14) 🍁 **Seoul Autumn Festa** — ✅ CONFIRMED UMBRELLA PROGRAM — Sep 21–Nov 29, 2026
 - **What:** City-run autumn performing-arts platform bundling many festivals and shows. It is **not** a single venue festival.
 - **When:** Official city page: **Sep 21–Nov 29, 2026**. Use the live calendar for what is actually on a given day.
-- **Official source (reviewed Aug 17):** [Seoul Metropolitan Government](https://english.seoul.go.kr/holidays-and-annual-events-for-2026-in-seoul/)
+- **Official sources (reviewed Aug 18):** [Seoul Metropolitan Government](https://english.seoul.go.kr/holidays-and-annual-events-for-2026-in-seoul/) (Sep 21–Nov 29) · [Seoul Foundation for Arts & Culture — Seoul Autumn Festa](https://www.sfac.or.kr/seoulautumnfesta/)
 
 ### 15) 🗿 **3rd Seoul Sculpture Festival exhibition** — ✅ CONFIRMED — through 30 Nov 2026
-- **What:** Third edition of the city sculpture festival. **Ttukseom Hangang Park is the main exhibition site**, showing the 15 Seoul Sculpture Award finalists (Open Songhyeon Green Plaza is the second site; other locations have earlier end dates). The festival *week* was Aug 29–Sep 4, but the exhibition itself stays up **Aug 29–Nov 30, 2026** — so it is open your whole trip, and **the award winners are announced in late November** while you're there.
+- **What:** Third edition of the city sculpture festival. **Ttukseom Hangang Park and Open Songhyeon Green Plaza are the main sites** for the Seoul Sculpture Award finalists (서울조각상 입선작). The festival *week* was Aug 29–Sep 4, but the official city festival calendar lists the overall festival as **Aug 29–Nov 30, 2026**, and the **"Seoul Sculpture Exhibition Plus" outdoor shows run at Seoul Children's Grand Park (to Nov 30) and Pungnap Fortress east wall (to Nov 30)** — so sculpture stays on view your whole trip. (Seoul Forest's Plus show ends Oct 27, before you arrive.) Public voting for the Seoul Sculpture Award runs **Aug 29–Oct 31**.
 - **Price:** Outdoor viewing is free.
-- **Official sources (reviewed Aug 18):** [artinseoul.kr — official Sculpture City Seoul site](https://artinseoul.kr/) (festival week Aug 29–Sep 4; Ttukseom/Songhyeon exhibition to Nov 30) · [Seoul Festival Calendar listing](https://festival.seoul.go.kr/festival/main/festivalMain.do)
+- **Official sources (reviewed Aug 18):** [Seoul Festival Calendar — 3rd Seoul Sculpture Festival (festacode 393)](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393) — festival period Aug 29–Nov 30 · [artinseoul.kr — official Sculpture City Seoul site](https://artinseoul.kr/) (festival week, Plus-site dates, voting window)
 
 ### 16) 🌗 **Leeum — Koo Jeong A: OUSSSMOS (구정아: 우스모스)** — ✅ CONFIRMED — Sep 5–Dec 27, 2026 · NEW
 - **What:** The largest solo exhibition ever held in Korea by **Koo Jeong A**, who represented Korea at the 60th Venice Biennale. It gathers the signature elements of a 30-year practice — **glow-in-the-dark works, a skate park, magnets, and scent** — and spills out of the M2 gallery to take over the **lobby and even the traditional-art permanent galleries**, turning the whole museum into one work. Third chapter of a series after LUMA Arles (2025) and Kunsthaus Bregenz (2026).
@@ -131,9 +131,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Price:** SeMA branch exhibitions are normally free.
 - **Official source (reviewed Aug 17):** [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY)
 
-### 20) 🦒 **Seoul Grand Park Autumn Festival — "Pinocchio's Forest, Coloured by Art"** — ✅ CONFIRMED — Oct 31–Nov 8, 2026 · UPDATED
+### 20) 🦒 **Seoul Grand Park Autumn Festival — "Pinocchio's Forest, Coloured by Art"** — ✅ ON OFFICIAL CALENDAR (listed 예정/planned) — Oct 31–Nov 8, 2026 · UPDATED
 - **What:** The park's autumn festival, themed 《예술로 물드는 피노키오의 숲》 ("Pinocchio's Forest, Coloured by Art"). Programme is built around the autumn foliage: a **forest open-air gallery** of installation works set among the maples, participatory large-scale installation art, hands-on activities, and acoustic concerts and dance performances.
-- **When/where:** **Sat Oct 31 – Sun Nov 8, 2026**, across Seoul Grand Park, Gwacheon. **Opens on your arrival day** and runs your whole first week.
+- **When/where:** **Sat Oct 31 – Sun Nov 8, 2026**, across Seoul Grand Park, Gwacheon. **Opens on your arrival day** and runs your whole first week. (The city festival calendar currently labels it 예정/planned — the dates are official but the park may adjust them closer to the event.)
 - **Getting there:** Line 4 to Seoul Grand Park station — a straightforward ride from central Seoul, which makes this one of the easier "real autumn foliage" options that doesn't need a day trip out of the city.
 - **Price:** Park admission applies; the festival programming is part of the park visit. Tel 02-500-7335.
 - **Official source (reviewed Aug 17):** [Seoul Festival Calendar — Grand Park Autumn Festival](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=465)
@@ -182,7 +182,7 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official source (reviewed Aug 17):** [kimjang-festa.com](https://kimjang-festa.com)
 
 ### 28) 🛍️ **Korea Sale FESTA** — ⏳ TBA
-- **What:** Nationwide government-backed shopping campaign (Ministry of Trade, Industry and Energy + an industry steering committee). Recent editions ran in **November** — the 2024 edition opened Nov 1 with ~2,600 companies — so it will very likely overlap your trip. **2026 dates were still unpublished at review.**
+- **What:** Nationwide government-backed shopping campaign (Ministry of Trade, Industry and Energy + an industry steering committee). Recent editions ran in **November** — the 2024 edition's discount period ran **Nov 9–30** with a Nov 8 opening ceremony and ~2,600 companies (auto/appliance deals started Nov 1) — so it will very likely overlap your trip. **2026 dates were still unpublished at review.**
 - **🚨 Broken official link (Aug 17):** both `koreasalefesta.co.kr` and `koreasalefesta.kr` **no longer belong to the festival.** Both now serve the login page of "MEDIOS", an unrelated contact-lens manufacturing system — the domains appear to have lapsed between editions. **Do not trust anything served from those addresses.** Until the 2026 site reappears, use the government newsroom below.
 - **What this means for you:** don't plan around it. Treat any November discounting you encounter as a bonus, and ignore third-party blogs claiming exact 2026 dates — the ones found in review contradicted each other (Nov 1–15 vs Nov 1–30) and even misstated the day of the week.
 - **Official source (reviewed Aug 17):** [korea.kr policy newsroom — Korea Sale FESTA coverage](https://www.korea.kr/news/policyNewsView.do?newsId=148936029)
@@ -273,8 +273,8 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official source (reviewed Aug 17):** [sema.seoul.go.kr](https://sema.seoul.go.kr)
 
 ### 47) 🎨 **MMCA Seoul** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** National modern-art museum next to Gyeongbokgung. Entry #13 is the confirmed 2026 Seoul Box work. **Do not assume** a 2026 Artist-of-the-Year show is still hanging — the last completed edition on the museum site was 2025 (through Feb 1, 2026).
-- **Official source (reviewed Aug 17):** [mmca.go.kr](https://www.mmca.go.kr)
+- **What:** National modern-art museum next to Gyeongbokgung. Two dated 2026 shows cover your trip — see **entry #92** (*Artist of the Year 2026*, Jul 24–Dec 6) and **entry #13** (Christine Sun Kim Seoul Box work, to Nov 29). MMCA Seoul is a no-closure museum (open every day of the week).
+- **Official source (reviewed Aug 18):** [mmca.go.kr](https://www.mmca.go.kr)
 
 ### 48) 🎨 **MMCA Deoksugung** — 🔎 VERIFIED BRANCH
 - **What:** Modern-art wing inside Deoksugung’s Seokjojeon West Hall.
@@ -481,13 +481,23 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Before you go:** confirm opening hours and the weekly closed day on the branch's visitor page; SeMA branches usually close Mondays and run late on some evenings.
 - **Official sources (reviewed Aug 17):** [SeMA exhibition listing](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whatChoice2=N&whatChoice3=N&whatChoice4=N&whatChoice5=N&whenType=PLAN_DAY) · [SeMA Seoseoul visitor info](https://sema.seoul.go.kr/kr/visit/seoseoul)
 
+### 92) 🏆 **MMCA Seoul — "Artist of the Year 2026" (올해의 작가상 2026)** — ✅ CONFIRMED — Fri Jul 24–Sun Dec 6, 2026 · NEW
+- **What:** MMCA's flagship annual award for Korean contemporary art — **four selected artists** each showing a new body of work. The 2026 edition runs in MMCA Seoul and covers your **entire trip** (Jul 24 – Dec 6).
+- **Why it was added (Aug 18):** an earlier pass had written this show off as not on the museum site; MMCA's homepage now lists it with dates. It is one of the strongest free museum shows in Seoul during your window (MMCA Seoul general admission covers it; the museum is open every day).
+- **Official source (reviewed Aug 18):** [MMCA — current exhibitions (Seoul)](https://www.mmca.go.kr/exhibitions/progressList.do) — 「올해의 작가상 2026」 2026-07-24~2026-12-06 · [mmca.go.kr](https://www.mmca.go.kr)
+
+### 93) 🎨 **MMCA Deoksugung — "Lee Daewon: There Is Nothing That Makes You Sad" (이대원: 당신을 슬프게 하는 것은 하나도 없다)** — ✅ CONFIRMED — Thu Aug 6–Sun Nov 8, 2026 · NEW
+- **What:** The **first retrospective** at the National Museum of Modern and Contemporary Art for **Lee Daewon (1921–2005)**, the landscape painter of Korea's postwar generations — his signature softly lit mountain-and-river scenes.
+- **When:** **Aug 6 – Nov 8, 2026** — covers the first nine days of the trip (Oct 31 – Nov 8). MMCA Deoksugung sits inside Deoksugung's Seokjojeon West Hall (see entry #48; separate ₩2,000 admission or free Wed/Sat 18:00–21:00 night opening).
+- **Official source (reviewed Aug 18):** [MMCA — current exhibitions (Deoksugung)](https://www.mmca.go.kr/exhibitions/progressList.do) — 2026-08-06~2026-11-08 · [mmca.go.kr](https://www.mmca.go.kr)
+
 ---
 
 ## Removed during this verification pass
 
 The former 363-entry file was not evidence that Seoul had been source-checked. This rebuild removed:
 
-- **Wrong or overstated 2026 dates:** Seoul Forest “20th-anniversary garden festa” (that event was **Nov 8–9, 2025**); Seoul Beauty Travel Week presented as Oct 29–Nov 4 (the 2026 Seoul Beauty Week that actually ran was **Aug 22–25** at DDP); Han River History Tour end date of Nov 30 (official calendar ends **Nov 15**); Baekje Museum “opens Nov 20” (the planning calendar shows a special exhibition already running **Sep 19–Nov 22**); MMCA “Artist of the Year 2026 Jul 24–Dec 6” (not on the live museum page); Hangang drone show locked to Nov 15; SPO Together Concert locked to Nov 13; Maehun festival locked to Nov 7–8 despite the city festival calendar listing a different scheduled window.
+- **Wrong or overstated 2026 dates:** Seoul Forest “20th-anniversary garden festa” (that event was **Nov 8–9, 2025**); Seoul Beauty Travel Week presented as Oct 29–Nov 4 (the 2026 Seoul Beauty Week that actually ran was **Aug 22–25** at DDP); Han River History Tour end date of Nov 30 (official calendar ends **Nov 15**); Baekje Museum “opens Nov 20” (the planning calendar shows a special exhibition already running **Sep 19–Nov 22**); Hangang drone show locked to Nov 15; SPO Together Concert locked to Nov 13; Maehun festival locked to Nov 7–8 despite the city festival calendar listing a different scheduled window. *(Note: “MMCA Artist of the Year 2026” was listed here as unverified in an earlier pass, but MMCA's live site now confirms it — see entry #92.)*
 - **Non-tourist padding:** Senior Jobs Expo, data-analysis competition finals, design-startup forums.
 - **Semantic duplicates:** Tongin, Gwangjang, Namdaemun, Ikseon-dong, Seochon, Hangang ramyeon, Starfield, HiKR, Namsan, palaces, city-wall gates, and temple entries split into two or three numbers.
 - **Generic unverifiable types:** “PC bang,” “photo booths,” “board-game cafés,” “convenience-store ramyeon,” unnamed jjimjilbang, underground malls as separate attractions.

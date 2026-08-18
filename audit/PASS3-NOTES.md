@@ -984,3 +984,32 @@ exception is Sep 1 – Oct 31 and expires before arrival.
    Wednesday" elsewhere on the same line, so the rule matched anyway.
    **Negative-test by simulating the REAL regression** (restore the old
    sentence), not by mangling one keyword.
+
+---
+
+## Pass 24 — 2026-08-18: four-city line-by-line verification (Seoul · Busan · Daegu · Myeong-dong)
+
+Fetched and checked the official sources for the key dated claims of all four core/neighborhood files. Findings:
+
+**Corrections (edits made):**
+- `busan.md` #16 — Busan X the Sky fare was stale: the operator's own page (fetched Aug 18) now shows **₩29,000 adult (13+) / ₩26,000 child & senior**, not ₩27,000/₩24,000. Hours 10:00–21:00 and 2-hr free parking confirmed.
+- `seoul.md` #28 — Korea Sale FESTA 2024 detail corrected: opening ceremony Nov 8, discount period **Nov 9–30** (auto/appliance from Nov 1), ~2,600 companies (korea.kr policy newsroom).
+- `seoul.md` #20 — Seoul Grand Park Autumn Festival is listed on the city calendar as **예정/planned**; dates Oct 31–Nov 8 kept, status softened.
+- `seoul.md` #15 — added the deep festival-calendar link (festacode 393: festival listed Aug 29–Nov 30) and the Sculpture Plus site dates (Children's Grand Park & Pungnap to Nov 30; Seoul Forest ends Oct 27; award voting Aug 29–Oct 31).
+- `daegu.md` #4 — SAC on Screen Othello: the annual calendar confirms only the **Nov 7 date**; removed the unverifiable "14:00 / Suchang Hall 3F" as facts → marked re-check (matches the Pass-23 rule: don't state what the source doesn't support).
+- `daegu.md` #35 — added dgfca.or.kr as the confirming source (Nov 17–22, rooms 6–13); Sunday-16:00 de-install rule now sourced to the Arts Center's own exhibition notice.
+- `busan.md` #2 — added JoongAng Daily nuance: press describes G-STAR as Nov 18–22 (possible pre-day) vs organizer's Nov 19–22; G-CON Nov 19–20 confirmed on the official conference page.
+- `busan.md` #3 — busanbiennale.org returned a service error at review; dates re-corroborated via Busan Ilbo (Feb 25, 2026) and the committee Instagram.
+- `busan.md` #21/#22/#28 — BISCO (bisco.or.kr) was down site-wide (HTTP 500) at review; added notes and independent corroboration (KTO listing for Jagalchi; Visit Busan for Yongdusan; trip.com/naver for Danubi fares).
+- `busan.md` #28 — removed the unverifiable "Sep 1–Oct 31 peak Monday operation" window; kept the off-season Monday closure (well-sourced).
+- `myeongdong.md` #1 — series note corrected: Part V (Antigone/Epilogue) runs Dec 2–26 at Myeongdong Theater, i.e. **after** the trip; Part IV is the only Anthropolis installment in the window (NTCK performance list).
+- `seoul.md` #47 — MMCA note updated: the "do not assume Artist of the Year" caveat is obsolete.
+
+**New entries (all from official pages fetched Aug 18):**
+- `seoul.md` #92 — MMCA Seoul **"Artist of the Year 2026"** (올해의 작가상 2026), Jul 24–Dec 6, four artists. (The Pass-23 note had wrongly written it off; MMCA's homepage lists it.)
+- `seoul.md` #93 — MMCA Deoksugung **Lee Daewon retrospective** (이대원: 당신을 슬프게 하는 것은 하나도 없다), Aug 6–Nov 8.
+- `busan.md` #50 — **National Gugak Center Busan** + Gugak Experience Hall (opened Oct 2023), verified via busan.gugak.go.kr + Visit Busan (uc_seq 2067); Mon–Sat 09:00–21:00, closed Sun.
+
+**Re-verified unchanged (key claims still exact on official pages):** Busan fireworks Nov 7 (busanfireworks.com countdown); G-CON Nov 19–20; BANKSY Jul 22–Nov 3 + hours (The Hyundai Seoul ALT.1); JTBC Marathon Nov 1 08:00 (prior pass); Outdoor Library Apr 23–Nov 1 Fri–Sun (festacode 394); Han River History Tour Apr 20–Nov 15, 16 courses, 5-day booking (festacode 396); Cafe Show Nov 11–14 hours (eng.cafeshow.com); Kings of Convenience Nov 18 Sejong (YES24); Jason Mraz Nov 14 19:00 KINTEX (NOL 13649); 5SOS Nov 19 19:30 KINTEX (NOL 13669); JJK Nov 7 18:30/Nov 8 14:00, ages 14+ (NOL 13737); Leeum shows 05.05–11.29 & 09.05–12.27; NMK Chusa Aug 11–Nov 22 & donated works Jul 27–Nov 15; SeMA Cho Sook-jin Jul 29–Nov 15, Lynn Hershman Oct 21–Feb 21, Kim Heecheon Aug 20–Nov 8; Mulbit Yeonhwa fall run Sep 8–Nov 8 16:40 (kh.or.kr/1526); Craft Museum exhibitions + site back up; MMCA OLED Jul 31–Nov 29; drone show winter Sat 19:00/21:00; Blueline fares; Spa Land hours/fares/4-hr rule; BMA renovation to ~Sep 16 + Space Lee Ufan free; MoCA closure/suspension notices; Oryukdo year-round 09:00–18:00 (bnfmc.or.kr); Yeongdo bridge Sat 14:00; Jagalchi 05:00–22:00 closed 1st/3rd Tue (KTO); Daegu Young Artists Nov 3–Dec 27 (city newsroom); Crossbones Nov 12 Biseul Hall (venue What's ON); DAF calendar items; Daegu Art Museum ₩1,000, winter hours, free Wednesdays; NTCK Anthropolis IV Oct 28–Nov 21.
+
+**Ledger:** 41 new rows (edits), 257 rows marked verified/prose for the checked entries; seoul.md now 56% covered, busan.md 64%, daegu.md 32%, myeongdong.md 35%. Entries not re-fetched this pass remain unchecked — they carry "reviewed Aug 17" status from the rebuild.

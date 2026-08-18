@@ -75,6 +75,7 @@ Do not add an entry solely to increase a count.
 | `busan.md` | **Reviewed 2026-08-17** | Rebuilt 190 → 49 entries. Removed duplicate fireworks/coast/market entries and day trips counted as Busan. Fireworks Nov 7 confirmed on busanfireworks.com; G-STAR Nov 19–22 kept from organizer announcement. |
 | `daejeon-cheonan.md` | **Reviewed 2026-08-17** | Rebuilt 210 → 44 entries. Removed Chungcheong-wide padding and duplicates. Wine EXPO Nov 6–8 confirmed on djwinefair.com; Asan / Gongju / Buyeo kept only as labeled day trips. |
 | Nearby-city expansion (same day) | **Additive pass** | `pohang.md` +1 (VisitKorea-dated Fire & Light Festival Nov 20–22); `incheon.md` +2 (Incheon ArtShow Nov 19–22; My Chemical Romance Nov 7); `daegu.md` +1 (Daegu Art Festival Part 2 Nov 17–22). |
+| Four-city line-by-line pass (2026-08-18) | **Re-check pass** | `seoul.md` +2 (MMCA Artist of the Year 2026 Jul 24–Dec 6; MMCA Deoksugung Lee Daewon Aug 6–Nov 8); `busan.md` +1 (National Gugak Center Busan). Corrected: Busan X the Sky fares (₩29,000/₩26,000, operator page), KOSEF 2024 dates, Grand Park festival status (예정), Daegu SAC-on-Screen time/venue unverified, G-STAR press-date nuance, BISCO-site-down notes, Anthropolis Part V after-trip. Details in `audit/PASS3-NOTES.md` Pass 24. |
 
 ## Next pass order
 

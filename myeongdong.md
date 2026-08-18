@@ -23,8 +23,8 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 - **When:** **Oct 28–Nov 21, 2026** — confirmed on the company's own performance page. That is nearly your entire trip; it closes the day before you fly home.
 - **⚠️ Korean-language production.** The company's page gives no English-surtitle information for this run — check before booking if that matters to you.
 - **Tickets:** via the National Theater Company (☎ 1644-2003, booking line weekdays 13:00–18:00, closed weekends/holidays). Note their **푸른티켓 "Green Ticket": anyone aged 24 or under pays ₩5,000 for any seat.**
-- **Series note:** parts III and V (*Oedipus*, *Antigone/Epilogue*) are staged in the same 2026 season — if the cycle appeals, check whether another part overlaps your dates.
-- **Official source (reviewed Aug 18):** [National Theater Company — 안트로폴리스Ⅳ 이오카스테](https://www.ntck.or.kr/ko/performance/info/257325)
+- **Series note:** the company's own performance list confirms **Part V (*Antigone/Epilogue*) opens Dec 2, 2026 at Myeongdong Theater — after you leave** — so Part IV is the only *Anthropolis* installment inside the trip window. (Part III played earlier in the season.)
+- **Official source (reviewed Aug 18):** [National Theater Company — 안트로폴리스Ⅳ 이오카스테](https://www.ntck.or.kr/ko/performance/info/257325) · [NTCK full performance list](https://www.ntck.or.kr/ko/performance/info) (Part IV Oct 28–Nov 21; Part V Dec 2–26)
 
 ### 2) 🖼️ **GanaArt Collection: Beneath Technology—Scenes at the Threshold** — ✅ CONFIRMED — through Nov 22, 2026 · NEW
 - **What:** Exhibition drawn from the GanaArt Collection, on the theme of technology and the scenes that sit at its edges. Korean title 《기술의 저변: 경계에 선 장면들》.

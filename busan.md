@@ -22,14 +22,14 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 
 ### 2) 🎮 **G-STAR 2026** — ✅ CONFIRMED — Thu Nov 19–Sun Nov 22, 2026
 - **What:** Korea’s main consumer and trade game exhibition at BEXCO.
-- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. G-CON conference pages list **Nov 19–20** inside BEXCO. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.
-- **Official sources (reviewed Aug 17):** [gstar.or.kr](https://www.gstar.or.kr) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) · [bexco.co.kr](https://www.bexco.co.kr)
+- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. G-CON conference pages list **Nov 19–20** inside BEXCO (the G-STAR organizing committee's own conference page, fetched Aug 18, confirms G-CON 2026 on Nov 19–20). ⚠️ **Date nuance:** some press coverage (Korea JoongAng Daily, Aug 13, 2026) describes the event as running Nov 18–22 — possibly counting a pre-opening day — so keep an eye on the official site as the date nears. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.
+- **Official sources (reviewed Aug 18):** [gstar.or.kr](https://www.gstar.or.kr) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20, Convention Hall, BEXCO) · [Korea JoongAng Daily — G-Star 2026](https://www.koreajoongangdaily.com/business/gstar-2026-puts-ai-storytelling-center-stage/12823574) · [bexco.co.kr](https://www.bexco.co.kr)
 
 ### 3) 🎨 **Busan Biennale 2026 “Dissident Chorus”** — ✅ CONFIRMED — through Sun Nov 1, 2026
 - **What:** Contemporary-art biennale across Busan MoCA, Space Wonji / Space One-Z on Yeongdo, and the former Busan Nam High School.
 - **When:** **Aug 29–Nov 1, 2026** (65 days). The trip catches only Oct 31–Nov 1.
 - **Scale:** 44 artists/teams from 23 countries; co-directed by Evelyn Simons and Amal Khalaf. Organised by Busan Metropolitan City + Busan Biennale Organizing Committee.
-- **Official sources (reviewed Aug 18):** [busanbiennale.org](https://busanbiennale.org) · dates independently corroborated by the committee's own [Instagram announcement](https://www.instagram.com/busanbiennale/) (2026. 8. 29. – 11. 1.)
+- **Official sources (reviewed Aug 18):** [busanbiennale.org](https://busanbiennale.org) *(site returned a service error at review on Aug 18 — likely temporary; dates below are corroborated elsewhere)* · [Busan Ilbo, Feb 25, 2026 — official schedule announcement](https://mobile.busan.com/view/busan/view.php?code=2026022419184185184) (Aug 29–Nov 1, 65 days, theme, co-directors) · committee's own [Instagram announcement](https://www.instagram.com/busanbiennale/) (2026. 8. 29. – 11. 1.)
 
 ### 4) 🕯️ **Turn Toward Busan** — ✅ ANNUAL CEREMONY — Wed Nov 11, 2026, 11:00
 - **What:** One-minute silence for UN Korean War dead at the UN Memorial Cemetery, observed worldwide at 11:00 KST every Nov 11. The cemetery itself is a verified place (entry #20).
@@ -110,13 +110,13 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **What:** Quieter surf beach north of Haeundae. November is a walk and, for the prepared, a wetsuit session — not a swim.
 - **Official source (reviewed Aug 17):** [Visit Busan](https://english.visitbusan.net)
 
-### 16) 🏙️ **Busan X the Sky** — 🔎 VERIFIED OPERATOR — ₩27,000 · UPDATED
+### 16) 🏙️ **Busan X the Sky** — 🔎 VERIFIED OPERATOR — ₩29,000 · UPDATED Aug 18
 - **What:** Observatory on the **100th floor of the LCT Landmark Tower**, Haeundae — the highest viewpoint in Busan, looking down the beach and across to Gwangan Bridge. There's a Starbucks on 98F and an observation café.
-- **⚠️ Price correction:** this entry previously said "recent official figure ₩29,000." Busan's own tourism board and the ticketing listings both give **₩27,000 adult / ₩24,000 child and senior (65+)**. Adult = 13+, child = 3–12; under 36 months free with proof.
+- **⚠️ Price correction (Aug 18):** the **operator's own current fare page gives ₩29,000 adult (13+) / ₩26,000 child (36 months–12) and senior (65+)** — under 36 months free with proof. *(An earlier version of this entry carried ₩27,000/₩24,000 from an older tourism-board listing; the operator page is the authoritative current figure.)* A 2-visit ticket is ₩34,000/₩31,000, and birthday-month visitors get 30% off (₩20,300/₩18,200).
 - **Hours:** **10:00–21:00 daily, year-round, last ticket 20:30.** On-site ticket office opens 10 minutes early and stops selling 30 min before close.
-- **Parking:** first 2 hours free in the LCT basement, then ₩1,000 per 15 min.
+- **Parking:** first 2 hours free in the LCT basement (register at the 1F desk).
 - **Note:** some aggregator listings still show the older 22:00/23:00 summer closing times — the operator's current hours are 21:00.
-- **Official sources (reviewed Aug 18):** [busanxthesky.com](https://www.busanxthesky.com/xthesky/xthesky.php) · [Visit Busan official listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000202002001000&uc_seq=996&lang_cd=ko) — states ₩27,000/₩24,000 and 10:00–21:00
+- **Official sources (reviewed Aug 18):** [busanxthesky.com — hours & fares](https://www.busanxthesky.com/xthesky/xthesky.php) (₩29,000/₩26,000; 10:00–21:00) · [Visit Busan official listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000202002001000&uc_seq=996&lang_cd=ko)
 
 ### 17) 🐠 **SEA LIFE Busan Aquarium** — 🔎 VERIFIED OPERATOR
 - **What:** Aquarium under Haeundae Beach. Hours and last entry are operator-controlled.
@@ -159,14 +159,16 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **💡 Free with the Visit Busan Pass**, if you're buying one for other attractions.
 - **Getting there:** Line 1 to **Jungang** exit 1 (6 min) or **Nampo** exit 7 (7 min). Use the **escalator** rather than the stairs — it's a genuine hill.
 - **💡 Pairs naturally with the Yeongdo Bridge lift (#27) and Jagalchi (#22)** — all three are within a 15-minute walk of each other in Nampo-dong.
-- **Official sources (reviewed Aug 18):** [BISCO — Yongdusan Park / Busan Tower (operator)](https://www.bisco.or.kr/yongdusanpark/) · [Visit Busan — hours, fares, access](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko)
+- **⚠️ Operator site note (Aug 18):** BISCO's site (bisco.or.kr) was returning HTTP 500 at review; hours/fares above were re-confirmed against Visit Busan and the KTO listing.
+- **Official sources (reviewed Aug 18):** [BISCO — Yongdusan Park / Busan Tower (operator)](https://www.bisco.or.kr/yongdusanpark/) *(intermittently down)* · [Visit Busan — hours, fares, access](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=368&lang_cd=ko)
 
 ### 22) 🐟 **Jagalchi Market** — 🔎 VERIFIED MARKET
 - **What:** Korea's largest seafood market — street-side stalls, a live-fish floor, upstairs restaurants that will cook what you buy downstairs, and a rooftop harbour deck.
 - **Hours:** **05:00–22:00.** **Closed the 1st and 3rd Tuesday of every month** — confirmed, not a rumour.
 - **✅ Good news for your plan: the November closures are Tue Nov 3 and Tue Nov 17, and your Busan days are Nov 19–22.** Jagalchi is open for the whole of your stay.
 - **💡 It's a 10-minute walk from the Yeongdo Bridge lift** (#27) and backs onto Gukje/Kkangtong markets — one Nampo-dong afternoon covers all three. ☎ 051-245-2594.
-- **Official sources (reviewed Aug 18):** [BISCO — Jagalchi Market (operator)](https://www.bisco.or.kr/jagalchimarket/) · [KTO listing — hours and closure days](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318)
+- **⚠️ Operator site note (Aug 18):** BISCO's site was returning HTTP 500 at review; the hours/closure days above are independently confirmed on the KTO listing (05:00–22:00; closed 1st & 3rd Tuesdays).
+- **Official sources (reviewed Aug 18):** [BISCO — Jagalchi Market (operator)](https://www.bisco.or.kr/jagalchimarket/) *(intermittently down)* · [KTO listing — hours and closure days](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318)
 
 ### 23) 🛍️ **Gukje Market and Bupyeong Kkangtong Night Market** — 🔎 VERIFIED MARKETS
 - **What:** Daytime international market plus the covered night-food market that sets up in the evening. Treat as one Nampo market district.
@@ -194,10 +196,11 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 
 ### 28) 🌲 **Taejongdae Resort Park** — 🔎 VERIFIED PLACE
 - **What:** Cliff-and-pine park on southern Yeongdo. **Park grounds are free** and open from early morning; the loop road is a real walk, so most people take the **Danubi road train** (다누비열차) round the observatory / Yeongdo Lighthouse / Taejongsa circuit, about 20 minutes.
-- **⚠️ The Danubi train is CLOSED EVERY MONDAY** — and the park is large and hilly, so a Monday visit means walking the whole circuit. *(It runs Mondays only during the Sep 1 – Oct 31 peak, which ends before you arrive.)*
+- **⚠️ The Danubi train is CLOSED EVERY MONDAY in the off-season** — and the park is large and hilly, so a Monday visit means walking the whole circuit. (Peak-season daily operation windows vary by year; the summer peak is over by your trip, so plan on the Monday closure. ☎ 051-404-0121.)
 - **Danubi hours (winter):** ticketing **09:00–17:30**, running **09:20–17:30**. Ticket sales can close **2–3 hours early** on quiet days.
 - **Danubi fare:** **₩4,000 adult round trip / ₩2,000 one way**; youth ₩2,000; child ₩1,500.
-- **Official source (reviewed Aug 18):** [BISCO — Taejongdae Danubi train hours and Monday closure](https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/)
+- **⚠️ Operator site note (Aug 18):** BISCO's site was returning HTTP 500 at review; hours/fares above match the operator's published figures and third-party 2025/2026 documentation, but re-confirm on [bisco.or.kr](https://www.bisco.or.kr) closer to the date.
+- **Official source (reviewed Aug 18):** [BISCO — Taejongdae Danubi train hours and Monday closure](https://www.bisco.or.kr/taejongdae/sub/sub02/sub02_4/) *(intermittently down)*
 
 ### 29) 🚠 **Songdo Marine Cable Car, Skywalk, and Amnam Park** — 🔎 VERIFIED OPERATORS
 - **What:** Sea-crossing gondola, free Songdo Cloud Trails, and the Amnam / Yonggung suspension-bridge area. Weather can stop the cable car.
@@ -289,6 +292,13 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 ### 49) 🚌 **Busan City Tour Bus** — 🔎 VERIFIED OPERATOR
 - **What:** Official hop-on routes covering Haeundae, Taejongdae, Gijang, and a night course.
 - **Official source (reviewed Aug 17):** [citytourbusan.com](https://www.citytourbusan.com)
+
+### 50) 🎵 **National Gugak Center Busan (국립부산국악원) and Gugak Experience Hall** — 🔎 VERIFIED VENUE · NEW
+- **What:** The national center for traditional Korean performing arts in Busan (opened 2008), next to Busan Citizens Park (#46) in Busanjin-gu. Regular **gugak performances** in its indoor hall plus a **free outdoor stage**, and the **Gugak Experience Hall (국악체험관)** — opened October 2023 — with hands-on exhibits on traditional music.
+- **Hours:** Experience Hall **Mon–Sat 09:00–21:00, closed Sundays** (per Visit Busan). Performance times vary by show.
+- **Getting there:** Metro Line 1 to **Yangjeong** Exit 5 → bus 179/63 to Busan Citizens Park stop, ~5 min walk (or a 15-min walk from Beomnaegol).
+- **Status:** No November 2026 programme was published at review — check the [official performance calendar](https://busan.gugak.go.kr) in October and book a dated show.
+- **Official sources (reviewed Aug 18):** [busan.gugak.go.kr](http://busan.gugak.go.kr) · [Visit Busan — Gugak Experience Hall listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=2067&lang_cd=ko) (hours, closure) · [KTO accessibility listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=45cd05e4-ec2e-496e-ab4b-5f89b8f6a2bf)
 
 ---
 

@@ -57,7 +57,13 @@ This is a source directory, **not proof that every entry has been verified**. Ea
 | Melon (Kakao Entertainment) | Melon Music Awards MMA 2026 (Nov 14–15, Gocheok) | https://www.melon.com |
 | CJ ENM | MAMA Awards 2026 organizer — Nov 20–21, Osaka (official announcement page) | https://cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/ |
 | Leeum Museum of Art | Leeum exhibitions (Inside Other Spaces — through Nov 29) | https://www.leeumhoam.org |
-| MMCA (National Museum of Modern & Contemporary Art) | Seoul exhibitions incl. OLED Series & MMCA Night | https://www.mmca.go.kr |
+| MMCA (National Museum of Modern & Contemporary Art) | Seoul exhibitions incl. OLED Series, Artist of the Year 2026 (Jul 24–Dec 6), Deoksugung Lee Daewon retrospective (Aug 6–Nov 8) | https://www.mmca.go.kr ; https://www.mmca.go.kr/exhibitions/progressList.do |
+| National Gugak Center Busan | Busan traditional performing-arts center + Gugak Experience Hall | http://busan.gugak.go.kr |
+| Seoul Foundation for Arts & Culture | Seoul Autumn Festa (Sep 21–Nov 29, 2026) | https://www.sfac.or.kr/seoulautumnfesta/ |
+| Daegu Foundation for Culture & Arts | Daegu event search (Daegu Art Festival Part 2: Nov 17–22, rooms 6–13) | https://dgfca.or.kr/event/search/list |
+| Daegu City newsroom | Daegu season-programme announcements (2026 Young Artists; Crossbones Nov 12) | https://news.daegu.go.kr |
+| Busan Ilbo | Local corroboration of official announcements (2026 Busan Biennale dates) | https://www.busan.com |
+| Korea JoongAng Daily | Corroboration for G-STAR 2026 (describes Nov 18–22 incl. possible pre-day) | https://www.koreajoongangdaily.com |
 | Busan Biennale Organizing Committee | Busan Biennale 2026 (Aug 29 – Nov 1) | https://busanbiennale.org |
 | KGMA Organizing Committee (Ilgan Sports) | Korea Grand Music Awards (Nov 7–8, Gocheok) | https://x.com/KGMA_en |
 | National Museum of Korea | Free national museum (Ichon) | https://www.museum.go.kr |
