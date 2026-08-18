@@ -268,6 +268,11 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 - ⚠️ **Hard clash:** this is the same night as the Busan Fireworks Festival *and* KGMA Day 1. Yeongjong is out by the airport, so this realistically consumes the whole evening.
 - **Official source (reviewed Aug 18):** [TicketLink product page 57330](https://m.ticketlink.co.kr/product/57330) — date, 19:00 start, venue address and the full price table.
 
+### 44) ✈️ **Incheon Airport Sky Festival** — ⏳ 2026 EDITION TBA — recent pattern: early-Nov weekend at Inspire Arena · NEW
+- **What:** Incheon International Airport Corporation's annual festival, running since 2004 — in recent form a **two-evening K-pop + classical/musical concert weekend at Inspire Arena** next to the airport, with daytime family events.
+- **⏳ Pattern, not a promise:** the **2025 edition ran Sat–Sun Nov 8–9 at Inspire Arena (17:00 shows, ages 12+, ticketed through NOL/Interpark)**. A 2026 edition had not been announced at review — if it repeats in early November, it lands on the trip's first full weekend, and Inspire is 15 min from ICN (handy if you're near the airport anyway).
+- **Official sources (reviewed Aug 18):** [Incheon Airport (IIAC)](https://www.airport.kr/) — festival host · [2025 edition official ticket notice — Nov 8–9, Inspire Arena](https://tickets.interpark.com/contents/notice/detail/11515) · [festival history since 2004](https://www.khan.co.kr/article/202309081108011)
+
 ---
 
 ## Removed during this verification pass

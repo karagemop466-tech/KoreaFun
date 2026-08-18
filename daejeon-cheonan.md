@@ -39,9 +39,12 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** City noodle festival at Hanbit Tower Plaza. 2025 ran Nov 7–9; **do not copy that weekend into 2026**.
 - **Official sources (reviewed Aug 17):** [noodle-dj.com](https://noodle-dj.com) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
-### 5) 🌼 **O-World chrysanthemum display** — ⏳ TBA
-- **What:** Recurring late-autumn chrysanthemum program inside Daejeon O-World. Confirm 2026 dates and whether it needs a park ticket.
-- **Official source (reviewed Aug 17):** [oworld.kr](https://www.oworld.kr)
+### 5) 🌼 **Autumn chrysanthemum displays — O-World and the Yuseong Chrysanthemum Festival** — ⏳ 2026 DATES TBA · UPDATED Aug 18
+- **What (O-World):** Recurring late-autumn chrysanthemum program inside Daejeon O-World. Confirm 2026 dates and whether it needs a park ticket.
+- **What (Yuseong):** Yuseong-gu's **free** autumn flower festival at **Yurim Park (유림공원)** and the Yuseongcheon stream paths — around **7 million chrysanthemums and autumn flowers** grown by the district's own nursery, built into large themed sculptures and tunnels, with night lighting on the Metasequoia path, a foot-bath "hot spring + chrysanthemum" zone (Yuseong is a spa district) and evening concerts.
+- **⏳ 2026 dates not announced at review.** Pattern: the **16th Yuseong festival ran Oct 18 – Nov 2, 2025** — if 2026 follows form, its final days overlap your first trip days (Oct 31–Nov 2). Check the Yuseong-gu site in October.
+- **Getting there:** Yurim Park is an 11-min walk from Wolpyeong station (Daejeon Line 1), on the Yuseong hot-spring side of the city.
+- **Official sources (reviewed Aug 18):** [oworld.kr](https://www.oworld.kr) · [Yuseong-gu](https://www.yuseong.go.kr/) — district-hosted festival; 2025 dates/programme via [Joongdo Ilbo, Oct 14, 2025](https://m.joongdo.co.kr/view.php?key=20251014010002949) (Oct 18–Nov 2, Yurim Park + Yuseongcheon, 7M blooms, free)
 
 ### 6) ⚽ **Daejeon Hana Citizen** — 👀 WATCH
 - **What:** K League 1 final-round home matches at **Daejeon World Cup Stadium**. The last five rounds run **Oct 31–Dec 6, 2026** and are drawn only after the regular phase ends **Oct 25**; each club receives **2–3 home games** in that window. A Daejeon home match during your stay is plausible but unschedulable until the league publishes in late October.

@@ -324,7 +324,7 @@ Re-check Visit Busan, busanfireworks.com, gstar.or.kr, kleague.com, and kovo.co.
 
 - BIFF — Oct 6–15, 2026 (Cinema Center is still worth visiting)
 - Busan International Rock Festival — early October
-- Haeundae Light Festival — typically late November into January; 2026 start TBA
+- Haeundae Light Festival — starts just after departure on recent form: the 12th edition ran **Nov 29, 2025 – Jan 18, 2026** (18:00–23:00, Gunam-ro + beach; [MCST festival registry](https://mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=12038)); 2026–27 start TBA
 - Gwangbok-ro Christmas Tree Festival — December
 
 ---

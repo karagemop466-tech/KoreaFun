@@ -506,6 +506,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Why it's worth the ride:** pairs with a Nowon/Uidong day or a quiet rainy afternoon; Bukseoul also runs two long-duration commissions (《보편타당한 당신 — 심이다은》 to Apr 11, 2027 and 《몸을 위한 간주곡 — 소목장세미》 to May 30, 2027) on the same free floor, all confirmed on SeMA's live listing.
 - **Official source (reviewed Aug 18):** [SeMA current-exhibition listing](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) — 《권병준: 내 마음속에 너는》 2026/06/11–2027/05/16, 서울시립 북서울미술관 · [Bukseoul visitor info](https://sema.seoul.go.kr/kr/visit/bukseoul)
 
+### 96) 🎠 **Lotte World Adventure (Jamsil)** — 🔎 VERIFIED OPERATOR — the big indoor rainy-day option · NEW
+- **What:** One of the world's largest **indoor** theme parks — the glass-domed Adventure hall plus the outdoor Magic Island on Seokchon Lake, ~45 attractions, in the same Jamsil complex as Lotte World Tower / Seoul Sky (entry #58). In November the indoor half is the point: it's the city's best big weather-proof attraction, and by late November the park is normally deep in Christmas dressing.
+- **Hours:** Open year-round — **Sun–Thu 10:00–21:00, Fri–Sat and holidays 10:00–22:00**; ticketing closes about an hour before. **Check the operator's day calendar before going** — hours flex for events, and admission prices changed in April 2026, so use the live price page rather than any figure printed here.
+- **💡 After-4 tickets** (from 16:00) are the budget move for an evening visit; the aquarium and Seoul Sky sit in the same complex if you're making a full Jamsil day. Getting there: Line 2/8 **Jamsil**, directly connected underground.
+- **Official source (reviewed Aug 18):** [Lotte World Adventure — official site (hours, day calendar, tickets)](https://adventure.lotteworld.com/)
+
 ---
 
 ## Removed during this verification pass
@@ -531,6 +537,7 @@ No prior-year pattern is labeled confirmed. Re-check Visit Seoul, the festival c
 - Changdeokgung Moonlight Tour fall dates — TBA; 2025 ran Sep–Oct
 - Seoul Lantern Festival / Seoul Light DDP Winter — December; **Seoul Light Gwanghwamun confirmed Dec 11, 2026 – Jan 3, 2027** on the [official festival calendar](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372)
 - AGF 2026 — Dec 4–6, KINTEX
+- National Museum of Korea winter blockbusters — *War, Art and Life* (Kunsthaus Zürich collection) opens **Nov 27**, five days after departure; *Marie Antoinette Style* opens Dec 18 ([museum 2026 plan](https://museum.go.kr/MUSEUM/contents/M0701040000.do?arcId=23385&catCustomType=post&catId=93&cp=1&schM=view&sv=))
 - MAMA Awards 2026 — Nov 20–21 in **Osaka** (stream, not a Seoul event)
 
 ---

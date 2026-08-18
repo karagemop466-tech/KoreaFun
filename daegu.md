@@ -223,6 +223,12 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **How to book:** use the Concert House's own schedule page or the Daegu Arts Center ticketing portal (which lists 대구콘서트하우스 그랜드홀 events); seats for city-orchestra concerts are cheap by Seoul standards.
 - **Official sources (reviewed Aug 18):** [Daegu Concert House — schedule](https://daeguconcerthouse.or.kr/) · [Daegu Ilbo — 2026 season announcement (Nov/Dec repertoire)](https://www.idaegu.com/news/articleView.html?idxno=655046) · [Daegu Arts Center ticketing listings for the Grand Hall](https://daeguartscenter.or.kr/)
 
+### 37) 📷 **DAC EP 2026 — 《우리가 빛의 속도로 갈 수 없다면》 (emerging photographers)** — ✅ CONFIRMED — Sep 11–Nov 1, 2026 · NEW
+- **What:** The Daegu Arts Center's **emerging-photographers special exhibition** — four selected artists (박가현, 조우성, 조현상, 튜나리) working across fermented prints, installation, photo-books and digital imagery, titled after Kim Cho-yeop's SF story ("If We Can't Go at the Speed of Light").
+- **When/where:** **Sep 11 – Nov 1, 2026, Daegu Culture & Arts Center gallery 11.** ⚠️ It **ends Nov 1** — only your first two trip days (Sat Oct 31/Sun Nov 1) overlap, and note galleries close Mondays anyway.
+- **⚠️ Don't confuse this with the Daegu Photo Biennale itself:** the venue announced (Aug 4, 2026) that the **11th Daegu Photo Biennale runs in October 2027**, not 2026 — there is **no main biennale during this trip**. This show is the venue's own lead-in strand.
+- **Official sources (reviewed Aug 18):** [Daegu Arts Center](https://daeguartscenter.or.kr/) · [Kyongbuk Ilbo — venue's artist selection + dates/gallery](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078331) · [11th biennale = Oct 2027 announcement](https://www.imaeil.com/page/view/2026080414071498841)
+
 ---
 
 ## Removed during this verification pass

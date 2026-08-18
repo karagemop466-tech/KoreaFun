@@ -1122,3 +1122,26 @@ Re-fetched the official source for every headline ✅ dated event in the ten nea
 **Hunted and rejected:** Inspire Arena November 2026 (nothing in-window; nearest Dec 5–6/12); Daejeon 2026 Warhol/Lee Jung-seop (before trip); BEXCO November trade fairs (after trip window or unverified).
 
 **README:** 578 → 579; changwon row updated. **Itinerary:** 3 new re-check rows (chrysanthemum festival, Everland winter start, Daejeon biennale).
+
+---
+
+## Pass 30 — 2026-08-18: targeted expansion, 10 candidates processed city by city
+
+Each candidate was verified against an official (or organizer-corroborated) source **before** being written; two were rejected as duplicates, one was rejected as a wrong-year hallucination risk.
+
+**Added (6 new entries / 2 enrichments):**
+1. `suwon.md` #39 — **Suwon FC vs Gyeongnam FC, Sat Nov 7, 14:00, Suwon Sports Complex** — confirmed on Gyeongnam FC's official fixture list (suwonfc.com 404 at review; noted in the entry). League table live-confirms Suwon FC 4th in K League 2.
+2. `daegu.md` #37 — **DAC EP 2026 《우리가 빛의 속도로 갈 수 없다면》, Sep 11–Nov 1, gallery 11** (4 named artists; overlaps only Oct 31–Nov 1). Entry explicitly warns the **11th Daegu Photo Biennale is Oct 2027**, not 2026 (official announcement Aug 4, 2026).
+3. `daejeon-cheonan.md` #5 — rebuilt as combined **chrysanthemum entry**: O-World display + **Yuseong Chrysanthemum Festival** (16th: Oct 18–Nov 2, 2025, Yurim Park, free, 7M blooms; 2026 TBA ⏳).
+4. `incheon.md` #44 — **Incheon Airport Sky Festival** ⏳ (2025: Nov 8–9, Inspire Arena, 17:00, 12+, NOL ticket notice; IIAC-hosted since 2004; 2026 TBA).
+5. `ulsan.md` #6 — autumn enrichment: 국화정원, ~150-tree ginkgo garden (peaks early Nov), Myeongchon silver grass; 2025 fall festival Oct 24–26 (before window) with plantings/lighting persisting.
+6. `seoul.md` #96 — **Lotte World Adventure** (operator: Sun–Thu 10–21, Fri–Sat/hol 10–22, year-round, ~45 attractions; After-4 tickets; the indoor rainy-day gap in the file).
+7. `busan.md` outside-window — Haeundae Light Festival dated precedent: 12th = **Nov 29, 2025–Jan 18, 2026** (MCST festival registry) → starts after departure.
+8. `seoul.md` outside-window — NMK winter blockbusters open **after** departure: Zurich collection *War, Art and Life* Nov 27; *Marie Antoinette Style* Dec 18 (museum's own 2026 plan). Same source re-confirms Chusa (to Nov 22) and Donated Works 2 (to Nov 15).
+
+**Rejected (verification prevented bad adds):**
+- 11th Daegu Photo Biennale as a 2026 event — **it is Oct 2027** (would have been a hallucination).
+- Hwangnidan-gil (already gyeongju #29) and Jeonju Nambu Night Market (already jeonju #32) — duplicates.
+- Inspire Arena November concerts — nothing scheduled in-window (nearest Dec 5–6, Dec 12).
+
+**Counts:** 583 entries (+4 numbered). Ledger 1982/1983 (1 honest unresolved).
