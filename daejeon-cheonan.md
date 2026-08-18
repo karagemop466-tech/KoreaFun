@@ -1,6 +1,6 @@
 # 🚉 Daejeon / Cheonan — verified events and activities (Oct 31 – Nov 22, 2026)
 
-Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minutes from Seoul). This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md). The former 210-entry version repeated the same bakeries, temples, and parks, then padded the count with half of Chungcheong Province.
+Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minutes from Seoul). This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) and **re-verified on August 18, 2026** (Pass 35). The former 210-entry version repeated the same bakeries, temples, and parks, then padded the count with half of Chungcheong Province.
 
 > **How to read this file**
 > - ✅ **Confirmed event** — organizer page has 2026 dates in the trip window.
@@ -70,9 +70,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** Former railway-worker housing east of Daejeon Station, now a hanok/café district. Public streets are free.
 - **Official source (reviewed Aug 17):** [daejeontour.co.kr](https://daejeontour.co.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
-### 11) 🗼 **Hanbit Tower and Expo Science Park** — 🔎 VERIFIED PLACE
-- **What:** 1993 Expo grounds, tower observatory, Expo Bridge, and the plaza used by the wine expo. Park grounds are free; tower hours and Monday closure should be checked.
-- **Official sources (reviewed Aug 17):** [djto.kr](https://www.djto.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)
+### 11) 🗼 **Hanbit Tower and Expo Science Park** — 🔎 VERIFIED PLACE · UPDATED Aug 18
+- **What:** 1993 Expo grounds, **Hanbit Tower observatory (한빛스퀘어)**, Expo Bridge, and the plaza next to DCC. Park grounds are free.
+- **✅ Tower admission is free** — Daejeon Marketing Corp. stopped charging in **June 2021**. Recent operator listings: **09:30–17:20, closed Mondays**. Do not pay a ₩2,500 figure from old guides.
+- **⚠️ The Wine EXPO (#1) is next door at DCC Hall II, not inside the tower.**
+- **Official sources (reviewed Aug 18):** [djto.kr](https://www.djto.kr) · [Daejeon Marketing Corp. free-opening announcement, Jun 2021](https://www.shinailbo.co.kr/news/articleView.html?idxno=1420970) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
 ### 12) 🔬 **National Science Museum** — 🔎 VERIFIED NATIONAL MUSEUM
 - **What:** Korea's national hands-on science museum, next to the Expo grounds.
@@ -138,9 +140,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** City-promoted dishes. Use the official tourism food list; do not invent named restaurants.
 - **Official source (reviewed Aug 17):** [daejeontour.co.kr](https://daejeontour.co.kr)
 
-### 26) 🔭 **Art Space 193 / Shinsegae Expo Tower** — 🔎 VERIFIED OPERATOR
-- **What:** High observatory and art floors in the Shinsegae Art & Science tower. Hours and fares are operator-controlled.
-- **Official source (reviewed Aug 17):** [shinsegae.com](https://www.shinsegae.com)
+### 26) 🔭 **Art Space 193 / Shinsegae Expo Tower** — ❌ NOT CURRENTLY OPERATING · UPDATED Aug 18
+- **What:** The high observatory / art floors in the Shinsegae Art & Science tower (Expo Park).
+- **⚠️ Do not plan a visit.** Shinsegae's own Daejeon store page still lists the observatory as **현재 미운영 (not currently operating)** — the same status recorded in Pass 10. Aggregators that still quote ₩15,000 and evening hours are stale.
+- **Use instead:** free **Hanbit Tower (#11)** across the Expo grounds, or the National Science Museum (#12).
+- **Official source (reviewed Aug 18):** [Shinsegae Daejeon Art & Science — store guide (observatory listed 미운영)](https://www.shinsegae.com/store/main.do?storeCd=SC00060) · [dept map parking table: 전망대(현재 미운영)](https://deptmapp.shinsegae.com/store/main.do?storeCd=SC00060)
 
 ### 27) 🐯 **Daejeon O-World** — 🔎 VERIFIED OPERATOR
 - **What:** Combined zoo, rides, and gardens. Entry #5 covers the chrysanthemum season.

@@ -21416,12 +21416,25 @@
   "text": "- **What:** Former railway-worker housing east of Daejeon Station, now a hanok/café district. Public streets are free.",
   "verdict": "verified"
  },
+ "daejeon-cheonan.md#11:0bd30fb67d": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "daejeon-cheonan.md",
+  "kind": "ACCESS",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **What:** 1993 Expo grounds, **Hanbit Tower observatory (한빛스퀘어)**, Expo Bridge, and the plaza next to DCC. Park grounds are free.",
+  "verdict": "verified"
+ },
  "daejeon-cheonan.md#11:45b8c9a186": {
   "checked_on": "2026-08-18",
   "entry": 11,
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -21482,12 +21495,49 @@
   "text": "- **Official sources (reviewed Aug 17):** [djto.kr](https://www.djto.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)",
   "verdict": "verified"
  },
+ "daejeon-cheonan.md#11:77c4be9608": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [djto.kr](https://www.djto.kr) · [Daejeon Marketing Corp. free-opening announcement, Jun 2021](https://www.shinailbo.co.kr/news/articleView.html?idxno=1420970) · [daejeon.go.kr](https://www.daejeon.go.kr)",
+  "verdict": "sourced"
+ },
+ "daejeon-cheonan.md#11:ac7d718a84": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **✅ Tower admission is free** — Daejeon Marketing Corp. stopped charging in **June 2021**. Recent operator listings: **09:30–17:20, closed Mondays**. Do not pay a ₩2,500 figure from old guides.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#11:d16ef4899f": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "daejeon-cheonan.md",
+  "kind": "PROSE",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **⚠️ The Wine EXPO (#1) is next door at DCC Hall II, not inside the tower.**",
+  "verdict": "prose"
+ },
  "daejeon-cheonan.md#11:e2a6e9e07a": {
   "checked_on": "2026-08-18",
   "entry": 11,
   "file": "daejeon-cheonan.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -24056,6 +24106,7 @@
   "file": "daejeon-cheonan.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -24116,12 +24167,49 @@
   "text": "- **What:** High observatory and art floors in the Shinsegae Art & Science tower. Hours and fares are operator-controlled.",
   "verdict": "prose"
  },
+ "daejeon-cheonan.md#26:6af3b00b28": {
+  "checked_on": "2026-08-18",
+  "entry": 26,
+  "file": "daejeon-cheonan.md",
+  "kind": "PROSE",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **What:** The high observatory / art floors in the Shinsegae Art & Science tower (Expo Park).",
+  "verdict": "prose"
+ },
+ "daejeon-cheonan.md#26:883f6c9860": {
+  "checked_on": "2026-08-18",
+  "entry": 26,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **⚠️ Do not plan a visit.** Shinsegae's own Daejeon store page still lists the observatory as **현재 미운영 (not currently operating)** — the same status recorded in Pass 10. Aggregators that still quote ₩15,000 and evening hours are stale.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#26:b41193a6b7": {
+  "checked_on": "2026-08-18",
+  "entry": 26,
+  "file": "daejeon-cheonan.md",
+  "kind": "ACCESS",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **Use instead:** free **Hanbit Tower (#11)** across the Expo grounds, or the National Science Museum (#12).",
+  "verdict": "verified"
+ },
  "daejeon-cheonan.md#26:b818613786": {
   "checked_on": "2026-08-18",
   "entry": 26,
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -24181,6 +24269,18 @@
   ],
   "text": "- **Official source (reviewed Aug 17):** [shinsegae.com](https://www.shinsegae.com)",
   "verdict": "verified"
+ },
+ "daejeon-cheonan.md#26:ea691ef8ae": {
+  "checked_on": "2026-08-18",
+  "entry": 26,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "Pass 35 Daejeon re-verify",
+  "sources": [
+   "https://www.shinsegae.com/store/main.do?storeCd=SC00060"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Shinsegae Daejeon Art & Science — store guide (observatory listed 미운영)](https://www.shinsegae.com/store/main.do?storeCd=SC00060) · [dept map parking table: 전망대(현재 미운영)](https://deptmapp.shinsegae.com/store/main.do?storeCd=SC00060)",
+  "verdict": "sourced"
  },
  "daejeon-cheonan.md#27:3285b44b01": {
   "checked_on": "2026-08-18",

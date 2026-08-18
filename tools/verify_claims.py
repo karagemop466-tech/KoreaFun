@@ -93,6 +93,13 @@ CLAIMS = [
         ("events.csv", r"BOTH clubs at Jangchung Arena"),
         ("events.csv", r"GS Caltex KIXX \(Jamsil Students", "absent"),
     ]),
+    ("Hanbit Tower is free, Art Space 193 is closed", [
+        ("daejeon-cheonan.md", r"Tower admission is free"),
+        ("daejeon-cheonan.md", r"NOT CURRENTLY OPERATING"),
+        ("events.csv", r"fee dropped Jun 2021"),
+        ("events.csv", r"CLOSED / not operating"),
+        ("daejeon-cheonan.md", r"Tower 2500", "absent"),
+    ]),
 ]
 
 def check():

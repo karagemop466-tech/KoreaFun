@@ -1234,3 +1234,28 @@ Re-fetched official pages for every ✅ dated claim in the four files, then work
 - palgongcablecar.com — hijacked; not cited.
 
 Counts: 588 → **590**. Ledger re-inited after the edits.
+
+---
+
+## Pass 35 — 2026-08-18: Daejeon/Cheonan + nine nearby-city headline sweep
+
+Started the next-city pass the user chose: Daejeon/Cheonan first, then a dated-headline re-fetch across Suwon, Yongin, Incheon, Jeonju, Gyeongju, Ulsan, Pohang, Changwon, Yeosu.
+
+### Daejeon / Cheonan — corrections
+- `#11 Hanbit Tower` — admission is **free** (Daejeon Marketing Corp., Jun 2021). Entry had only "check hours."
+- `#26 Art Space 193` — Shinsegae Daejeon store/dept map still says **전망대 현재 미운영**. Rewritten as do-not-plan. `walking-maps.md` already had this; `events.csv` did not.
+- `#38 Cheonan Arts Center` — venue year calendar **HTTP 502** this session. NOL still lists 《사랑해엄마》 Nov 7–8 and 《동백당》 Nov 20–21. Philharmonic Nov 11 and 《비밀결혼》 Nov 16 are **no longer asserted** until the calendar is back.
+- `#1 Wine EXPO` — official English visitor guide re-fetched: Nov 6–8, DCC II, 11:00–18:00 (Nov 6 to 19:00), last entry 18:00 Fri / 17:00 Sat–Sun, business-zone buyers-only Nov 6 all day + Nov 7 until 14:00, ₩16,000/₩23,000, 19+ with ID. Unchanged.
+- `#4 Noodle festival` — noodle-dj.com is still the **2025** edition. TBA stands.
+
+### Nearby-city headlines re-fetched (no file edits unless noted)
+- **Yeosu Expo** official homepage: **2026. 9. 5.–11. 4., 휴장일 10.6.(화)** — matches yeosu #1.
+- **BeautySum Suwon Nov 5–7** — Suwon city / Cosmorning April 2026 exhibitor-recruit press. Matches suwon #1.
+- **Pohang fireworks** — VisitKorea KFES still **Nov 20–22** (copy flagged 2025). Foundation Nov 14–22 discrepancy already in pohang #29.
+- **Yuseong chrysanthemum 2026** — still unpublished (VisitKorea shows 2025 Oct 18–Nov 2). daejeon #5 TBA stands.
+- **DPO Nov 6 at Daejeon Arts Center** — listed in a February magazine season preview only. **Not added** (no venue calendar page this session).
+- Cheonan City FC Nov 8 14:00 vs Busan already confirmed on Busan IPark (Pass 34).
+
+### Not added
+- Daejeon Philharmonic Nov 10 is at **Sejong Center in Seoul**, not Daejeon.
+- Yuseong Hot Springs Culture Festival is **May 8–10, 2026** (before the trip).
