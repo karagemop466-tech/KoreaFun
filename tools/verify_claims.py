@@ -83,6 +83,16 @@ CLAIMS = [
         ("itinerary.md", r"CSAT exam day"),
         ("README.md", r"CSAT exam day"),
     ]),
+    ("Busan X the Sky adult fare is W29,000 (operator page)", [
+        ("busan.md", r"29,000 adult"),
+        ("sources.md", r"₩29,000 adult"),
+        ("sources.md", r"₩27,000 is correct", "absent"),
+    ]),
+    ("GS Caltex plays at Jangchung, not Jamsil Students", [
+        ("seoul.md", r"BOTH Seoul clubs play at Jangchung Arena"),
+        ("events.csv", r"BOTH clubs at Jangchung Arena"),
+        ("events.csv", r"GS Caltex KIXX \(Jamsil Students", "absent"),
+    ]),
 ]
 
 def check():

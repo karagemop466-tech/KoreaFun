@@ -1,6 +1,6 @@
 # 🏙️ Seoul — verified events and activities (Oct 31 – Nov 22, 2026)
 
-Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md). The former 363-entry version mixed real landmarks and a few confirmed 2026 events with semantic duplicates, generic venue types, out-of-city padding, and several “confirmed” dates that do not match current official pages.
+Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) and **re-verified line-by-line on August 18, 2026** (Pass 34). The former 363-entry version mixed real landmarks and a few confirmed 2026 events with semantic duplicates, generic venue types, out-of-city padding, and several “confirmed” dates that do not match current official pages.
 
 > **How to read this file**
 > - ✅ **Confirmed event** — an organizer, venue, league, or official city/festival calendar has published 2026 dates that overlap the trip.
@@ -17,8 +17,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 1) 🎨 **BANKSY: Still Here** — ✅ CONFIRMED — through Tue Nov 3, 2026
 - **What:** Special exhibition of certified Banksy prints, mural photographs, and objects at The Hyundai Seoul ALT.1, 6F, Yeouido.
 - **When:** **Jul 22–Nov 3, 2026**. Only the first four trip days overlap.
-- **Hours:** Official venue page: Mon–Thu 10:30–20:00 (last entry 19:00); Fri–Sun 10:30–20:30 (last entry 19:30). Closed on store-closed days.
-- **Official sources (reviewed Aug 17):** [The Hyundai Seoul ALT.1](https://thehyundaiseoul.ehyundai.com/culture/alt1) · [Visit Seoul listing](https://english.visitseoul.net/exhibition/BANKSY-still-here/ENPx0x7wx)
+- **Hours:** Official venue page (re-fetched Aug 18): Mon–Thu 10:30–20:00 (last entry 19:00); Fri–Sun 10:30–20:30 (last entry 19:30). Closed on store-closed days.
+- **Price (Visit Seoul official listing, Aug 18):** **₩23,000 adult (19–64) / ₩18,000 youth & children (36 months–18)**. Group ₩16,000/₩12,500. Seniors 65+ and some disability/merit concessions **₩13,000**. Under 36 months free with a guardian and proof. Prebook — 30,000 tickets sold in the first two weeks of reservations.
+- **Official sources (reviewed Aug 18):** [The Hyundai Seoul ALT.1](https://thehyundaiseoul.ehyundai.com/culture/alt1) — 2026.07.22–11.03, hours as above · [Visit Seoul listing — dates, hours, fare table](https://english.visitseoul.net/exhibition/BANKSY-still-here/ENPx0x7wx)
 
 ### 2) 🏃 **JTBC Seoul Marathon** — ✅ CONFIRMED — Sun Nov 1, 2026
 - **What:** Full marathon and 10 km race. Spectating is free; road closures affect central Seoul that morning.
@@ -202,7 +203,7 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official sources (reviewed Aug 17):** [Changdeokgung](https://www.cdg.go.kr) · [UNESCO](https://whc.unesco.org)
 
 ### 31) 🌙 **Changgyeonggung** — 🔎 VERIFIED PALACE
-- **What:** Palace with Chunjangji pond and Korea’s first Western-style royal greenhouse (1909). Fall Mulbit Yeonhwa is entry #21, not a separate guaranteed show.
+- **What:** Palace with Chunjangji pond and Korea’s first Western-style royal greenhouse (1909). Fall Mulbit Yeonhwa is entry **#25**, not a separate guaranteed show.
 - **Official source (reviewed Aug 17):** [Royal Palaces and Tombs Center](https://royal.khs.go.kr)
 
 ### 32) 🏰 **Deoksugung and the stonewall walk** — 🔎 VERIFIED PALACE
@@ -280,9 +281,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **What:** Modern-art wing inside Deoksugung’s Seokjojeon West Hall.
 - **Official source (reviewed Aug 17):** [mmca.go.kr](https://www.mmca.go.kr)
 
-### 49) 🧵 **Seoul Museum of Craft Art (SeMoCA)** — 🔎 VERIFIED CITY MUSEUM
-- **What:** Public craft museum in Anguk / Bukchon. Permanent exhibitions are free; closed Monday.
-- **Official source (reviewed Aug 17):** [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr)
+### 49) 🧵 **Seoul Museum of Craft Art (SeMoCA)** — 🔎 VERIFIED CITY MUSEUM — see **#21**
+- **What:** Same museum as entry **#21** (Anguk / former Andong Palace site). Use #21 for the trip-window exhibitions, Friday late opening, Monday closure, and the no-car-park rule. This stub is kept only as a cross-reference so older itinerary links do not break.
+- **Official source (reviewed Aug 18):** [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr)
 
 ### 50) 🏺 **Seoul Baekje Museum** — 🔎 VERIFIED CITY MUSEUM
 - **What:** Museum of Seoul’s Baekje layer, at Olympic Park. The SMG calendar lists a Baekje-culture special exhibition **Sep 19–Nov 22, 2026** — confirm title and hours on the museum site. It does **not** “open Nov 20.”
@@ -532,6 +533,13 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **When:** **Nov 5–8, 2026** — the trip's first full week, at Gwanghwamun. Italian opera is language-barrier-proof (Korean/English surtitles are standard at Sejong).
 - **Also in the Sejong Season during your window:** the Seoul Metropolitan Theatre's new Korean-language play **《아.파.트》 (A.P.T.) runs Oct 24–Nov 14** — Korean only, but note it if you read Korean.
 - **Official sources (reviewed Aug 18):** [Sejong Center](https://www.sejongpac.or.kr) — book on the venue site · [2026 Sejong Season announcement — Seoul Economic Daily, Dec 22, 2025](https://news.nate.com/view/20251222n31113) (La Bohème Nov 5–8; 아.파.트 Oct 24–Nov 14) · corroborated by [JoongAng Ilbo season report](https://www.joongang.co.kr/article/25391859)
+
+### 100) 🏠 **Seongbuk Museum of Art — 《이정윤: 노래하는 집》 (Lee Jung yoon: Singing House)** — ✅ CONFIRMED — through Sat Nov 21, 2026 · NEW
+- **What:** 2026 Seongbuk Museum of Art special exhibition installing Lee Jung yoon's glass, fabric and air-filled works inside **김중업 건축문화의 집 (Kim Chung-up Architecture Culture House)** in Jangwi-dong — the architect's own house, with garden, greenhouse, fireplace and stained glass. Visit Seoul lists it on the official "Upcoming in Seoul" board.
+- **When:** **Apr 17 – Nov 21, 2026.** Covers the whole trip except departure day.
+- **Hours/price (museum's own press release):** **10:00–17:00, free, no reservation.** Closed **Sundays, Mondays, public holidays**, and it was closed in August (already over).
+- **Getting there:** Seongbuk-gu, **장위로21나길 11** — not in the tourist core; pair with a Dream Forest / northern-Seoul day rather than squeezing it between palaces.
+- **Official sources (reviewed Aug 18):** [Visit Seoul — upcoming exhibitions](https://english.visitseoul.net/) (2026.04.17–2026.11.21, Kim Chung-up Architecture Culture House) · [Newsis, Apr 14, 2026 — Seongbuk Museum announcement](https://www.newsis.com/view/NISX20260414_0003589914) (free, no booking, through Nov 21) · [Newswire — official museum release: hours 10:00–17:00, closed Sun/Mon/holidays](https://www.newswire.co.kr/newsRead.php?no=1032556) · venue listed on [Seongbuk-gu culture directory](https://seongbuk.go.kr/tour/contents.do?key=139)
 
 ---
 

@@ -4778,10 +4778,23 @@
   "file": "busan.md",
   "kind": "DATE",
   "note": "Pass27: Aug13 organizer briefing Nov19-22; sponsor Wrtn Aug14 (goodkyung 290294); gstar.or.kr countdown resolves to Nov19",
+  "retired": true,
   "sources": [
    "https://www.insightkorea.co.kr/news/articleView.html?idxno=252396"
   ],
   "text": "- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. Re-confirmed by fresh press around the organizers' Aug 13–14, 2026 briefing (Nov 19–22, BEXCO; the **main sponsor for 2026 is AI company Wrtn/뤼튼**, and the opening day collides with the global GTA 6 launch). G-CON conference pages list **Nov 19–20** inside BEXCO. ⚠️ **Date nuance:** some earlier press (Korea JoongAng Daily, Aug 13, 2026) described the event as running Nov 18–22 — possibly counting a pre-opening day — but the organizing committee's own Aug 13 press conference and its site countdown both point to **Nov 19**. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.",
+  "verdict": "verified"
+ },
+ "busan.md#2:1c3afe47b8": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Pass 34: official BTC Nov 19-22 / awards Nov 18",
+  "sources": [
+   "https://www.gstar.or.kr/eng/gstar/gstar_info.do"
+  ],
+  "text": "- **When:** **Public exhibition (BTC) is Thu Nov 19–Sun Nov 22** at BEXCO. The organizer's own English/Korean overview tables (re-fetched Aug 18) put **Korea Game Awards on Wed Nov 18** and **BTC / Indie Showcase / BTB / G-CON from Nov 19**. BTB trade days are **Nov 19–21**. G-CON is **Nov 19–20**, Convention Hall, BEXCO. ⚠️ JoongAng Daily (Aug 13) wrote “Nov 18–22” because it counted the Game Awards pre-day — that is **not** a public exhibition day. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact. Opening day is also CSAT day (see travel-basics).",
   "verdict": "verified"
  },
  "busan.md#2:4ece9c6203": {
@@ -4952,6 +4965,7 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "Pass27: fetched homepage countdown + G-CON page; press links verified",
+  "retired": true,
   "sources": [
    "https://www.gstar.or.kr"
   ],
@@ -4970,6 +4984,18 @@
   ],
   "text": "- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. G-CON conference pages list **Nov 19–20** inside BEXCO. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.",
   "verdict": "verified"
+ },
+ "busan.md#2:e3c7fc29bf": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: official BTC Nov 19-22 / awards Nov 18",
+  "sources": [
+   "https://www.gstar.or.kr/eng/gstar/gstar_info.do"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [G-STAR official overview — schedule table](https://www.gstar.or.kr/eng/gstar/gstar_info.do) (Nov 18 Game Awards; BTC Nov 19–22) · [exhibitor overview](https://www.gstar.or.kr/part/gstar_part_info.do) (BTC 11.19–11.22 / BTB 11.19–11.21) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20) · [Insight Korea — organizer press conference Aug 13, 2026](https://www.insightkorea.co.kr/news/articleView.html?idxno=252396) · [bexco.co.kr](https://www.bexco.co.kr)",
+  "verdict": "sourced"
  },
  "busan.md#30:2b9e5e1e1c": {
   "checked_on": "2026-08-18",
@@ -8059,6 +8085,18 @@
   "text": "- **What:** One-minute silence for UN Korean War dead at the UN Memorial Cemetery, observed worldwide at 11:00 KST every Nov 11. The cemetery itself is a verified place (entry #20).",
   "verdict": "verified"
  },
+ "busan.md#50:2e7b8d088f": {
+  "checked_on": "2026-08-18",
+  "entry": 50,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: Gugak Korea in Sound to Nov 14",
+  "sources": [
+   "http://busan.gugak.go.kr"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [busan.gugak.go.kr](http://busan.gugak.go.kr) — homepage lists 《Gugak: Korea in Sound》 2026-05-19–2026-11-14 · [Visit Busan — Gugak Experience Hall listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=2067&lang_cd=ko) (hours, closure) · [KTO accessibility listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=45cd05e4-ec2e-496e-ab4b-5f89b8f6a2bf)",
+  "verdict": "sourced"
+ },
  "busan.md#50:5371862ade": {
   "checked_on": "2026-08-18",
   "entry": 50,
@@ -8212,6 +8250,7 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -8261,6 +8300,7 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -8304,12 +8344,25 @@
   "text": "- **Status:** No November 2026 programme was published at review — check the [official performance calendar](https://busan.gugak.go.kr) in October and book a dated show.",
   "verdict": "verified"
  },
+ "busan.md#50:c12fc7566f": {
+  "checked_on": "2026-08-18",
+  "entry": 50,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Pass 34: Gugak Korea in Sound to Nov 14",
+  "sources": [
+   "http://busan.gugak.go.kr"
+  ],
+  "text": "- **✅ Dated series overlapping the trip (official homepage, Aug 18):** **《전통 레퍼토리 — 국악 (Gugak: Korea in Sound)》 runs May 19–Nov 14, 2026** — listed on the National Gugak Center Busan's own \"주요 공연 일정\". That covers your first two weeks; **it ends Sat Nov 14**, before the G-STAR weekend. Treat it as a real dated programme, then **book a specific date from the calendar** rather than assuming a show every day.",
+  "verdict": "verified"
+ },
  "busan.md#51:117653c914": {
   "checked_on": "2026-08-18",
   "entry": 51,
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "Pass33: BPO series page + Viva100 booking/price citation added",
+  "retired": true,
   "sources": [
    "https://www.viva100.com/article/20260120500845"
   ],
@@ -8340,6 +8393,18 @@
   ],
   "text": "- **What:** Busan's **first dedicated classical concert hall**, opened **June 2025** on the edge of Busan Citizens Park (#46) — a 2,000-seat vineyard-style hall with a pipe organ, run by **Classic Busan**, a Busan Metropolitan City agency (which will also run the future Busan Opera House). Over 120,000 visitors in its first year; the 2026 season has brought the Vienna Philharmonic (Oct 26), Cho Seong-jin, Lim Yunchan and other headline classical acts.",
   "verdict": "verified"
+ },
+ "busan.md#51:30028eddc9": {
+  "checked_on": "2026-08-18",
+  "entry": 51,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: Nov 8 15:00 Isang Yun winners",
+  "sources": [
+   "https://classicbusan.busan.go.kr/product/ko/performance/253085"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Classic Busan — official Nov 8 winners' concert page](https://classicbusan.busan.go.kr/product/ko/performance/253085) (2026.11.8. 15:00) · [hall homepage / November calendar](https://classicbusan.busan.go.kr/Home/ko/Main) · [Busan Ilbo — 2026 season lineup announcement, Feb 10, 2026](https://www.busan.com/view/busan/view.php?code=2026021017543227142) · [Busan Philharmonic subscription series (Busan Cultural Center)](https://www.bscc.or.kr/04_art/?mcode=0404011800)",
+  "verdict": "sourced"
  },
  "busan.md#51:50c44ab369": {
   "checked_on": "2026-08-18",
@@ -17755,12 +17820,37 @@
   "text": "- **What:** Stone Buddha reached by a steep stair-and-ridge approach on Palgongsan.",
   "verdict": "prose"
  },
+ "daegu.md#27:136436743a": {
+  "checked_on": "2026-08-18",
+  "entry": 27,
+  "file": "daegu.md",
+  "kind": "TIME",
+  "note": "Pass 34: replaced hijacked domain",
+  "sources": [
+   "https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75"
+  ],
+  "text": "- **Hours (Daegu city tourism listing):** **November is the short season — 09:30–17:10.** Other months run later (Mar/Sep/Oct to 18:00). Weather and maintenance stop it — call **053-982-8801** the morning you go.",
+  "verdict": "verified"
+ },
+ "daegu.md#27:141d78a08f": {
+  "checked_on": "2026-08-18",
+  "entry": 27,
+  "file": "daegu.md",
+  "kind": "PRICE",
+  "note": "Pass 34: replaced hijacked domain",
+  "sources": [
+   "https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75"
+  ],
+  "text": "- **Price (same city listing):** **Adult round-trip ₩14,000 / one-way ₩11,000** · child (48 months–elementary) ₩8,000 / ₩5,500 · senior / disability / national-merit ₩12,000 / ₩8,000. Confirm at the ticket window — monthly fares move.",
+  "verdict": "verified"
+ },
  "daegu.md#27:143dc65a95": {
   "checked_on": "2026-08-18",
   "entry": 27,
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -17805,12 +17895,25 @@
   "text": "- **Official source (reviewed Aug 17):** [Palgongsan Cable Car](http://www.palgongcablecar.com/)",
   "verdict": "verified"
  },
+ "daegu.md#27:20b8768f47": {
+  "checked_on": "2026-08-18",
+  "entry": 27,
+  "file": "daegu.md",
+  "kind": "PROSE",
+  "note": "Pass 34: replaced hijacked domain",
+  "sources": [
+   "https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75"
+  ],
+  "text": "- **What:** Six-seat cable car from Dong-gu up Palgongsan (about 1,200 m of line, ~7 min, summit station ~820 m). Separate from the Gatbawi trailhead (#26) and from Donghwasa (#25).",
+  "verdict": "prose"
+ },
  "daegu.md#27:7907c24797": {
   "checked_on": "2026-08-18",
   "entry": 27,
   "file": "daegu.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -17855,12 +17958,25 @@
   "text": "- **Hours/price:** Verify daily operation and maintenance directly.",
   "verdict": "prose"
  },
+ "daegu.md#27:b0ba15329d": {
+  "checked_on": "2026-08-18",
+  "entry": 27,
+  "file": "daegu.md",
+  "kind": "PROSE",
+  "note": "Pass 34: replaced hijacked domain",
+  "sources": [
+   "https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75"
+  ],
+  "text": "- **⚠️ Do not use palgongcablecar.com.** That domain was hijacked (see `sources.md`). Use the official tourism listings below.",
+  "verdict": "prose"
+ },
  "daegu.md#27:cded1489b4": {
   "checked_on": "2026-08-18",
   "entry": 27,
   "file": "daegu.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -17904,6 +18020,18 @@
   ],
   "text": "- **What:** Private cable-car route to a Palgongsan viewpoint.",
   "verdict": "prose"
+ },
+ "daegu.md#27:d94ef0f17d": {
+  "checked_on": "2026-08-18",
+  "entry": 27,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: replaced hijacked domain",
+  "sources": [
+   "https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Tourism Organization listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) (address 팔공산로185길 51; ☎ 053-982-8801) · [Daegu City tourism — Palgongsan Cable Car hours/fares](https://tour.daegu.go.kr/) (November 09:30–17:10; adult RT ₩14,000) · [KNPS Palgongsan](https://www.knps.or.kr)",
+  "verdict": "sourced"
  },
  "daegu.md#28:4995fc0af1": {
   "checked_on": "2026-08-18",
@@ -19702,16 +19830,65 @@
   "text": "- **⚠️ Sundays close early (confirmed on the venue's own exhibition notice).** The Arts Center de-installs shows on Sundays, so winter Sunday viewing ends at **16:00**, not 18:00. That affects **Sun Nov 22 — your departure day** — on top of the flight timing.",
   "verdict": "verified"
  },
+ "daegu.md#36:0cb2130b20": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "PROSE",
+  "note": "Pass 34: points to WOF #38",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **What:** **Daegu Concert House (대구콘서트하우스)** near Daegu Station is the city's dedicated classical hall and home of the **Daegu Symphony Orchestra (대구시립교향악단, founded 1964)**.",
+  "verdict": "prose"
+ },
+ "daegu.md#36:361239567e": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: points to WOF #38",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Concert House](https://daeguconcerthouse.or.kr/) · [WOF series page](https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004) · [Daegu Ilbo — earlier 2026 season note](https://www.idaegu.com/news/articleView.html?idxno=655046)",
+  "verdict": "sourced"
+ },
  "daegu.md#36:3c48e69393": {
   "checked_on": "2026-08-18",
   "entry": 36,
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "Pass27: venue schedule page live (60th-anniv concert page fetched in search)",
+  "retired": true,
   "sources": [
    "https://daeguconcerthouse.or.kr/"
   ],
   "text": "- **Official sources (reviewed Aug 18):** [Daegu Concert House — schedule](https://daeguconcerthouse.or.kr/) · [Daegu Ilbo — 2026 season announcement (Nov/Dec repertoire)](https://www.idaegu.com/news/articleView.html?idxno=655046) · [Daegu Arts Center ticketing listings for the Grand Hall](https://daeguartscenter.or.kr/)",
+  "verdict": "sourced"
+ },
+ "daegu.md#36:5f26790d06": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass 34: points to WOF #38",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **November 2026:** do **not** plan around a generic \"monthly subscription Friday.\" The hall's own **World Orchestra Festival** fills Sep 18–Nov 27 — that is the November programme (entry **#38**). The symphony's January season note still mentioned Falla/Ravel for a year-end concert; the July/August festival announcement is the live calendar.",
+  "verdict": "verified"
+ },
+ "daegu.md#36:723fd8fa7e": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: points to WOF #38",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **How to book:** [daeguconcerthouse.or.kr](https://daeguconcerthouse.or.kr/) or the Daegu Arts Center ticketing portal. ☎ 053-430-7700 (weekdays 09:00–18:00).",
   "verdict": "sourced"
  },
  "daegu.md#36:c88641cb26": {
@@ -19720,6 +19897,7 @@
   "file": "daegu.md",
   "kind": "DATE",
   "note": "Pass27: DSO founded 1964, monthly subscription concerts at Concert House Grand Hall (city encyclopedia + venue listings)",
+  "retired": true,
   "sources": [
    "https://www.grandculture.net/daegu/toc/GC40004834"
   ],
@@ -19732,6 +19910,7 @@
   "file": "daegu.md",
   "kind": "ACCESS",
   "note": "Pass27: booking advice",
+  "retired": true,
   "sources": [],
   "text": "- **How to book:** use the Concert House's own schedule page or the Daegu Arts Center ticketing portal (which lists 대구콘서트하우스 그랜드홀 events); seats for city-orchestra concerts are cheap by Seoul standards.",
   "verdict": "prose"
@@ -19742,6 +19921,7 @@
   "file": "daegu.md",
   "kind": "TIME",
   "note": "Pass27: season plan Nov=Falla/Ravel (Dec Mussorgsky); recent pattern #528 Sep11, #529 Oct16 on venue listings; exact Nov date TBA = entry is re-check",
+  "retired": true,
   "sources": [
    "https://www.idaegu.com/news/articleView.html?idxno=655046"
   ],
@@ -19795,6 +19975,66 @@
   ],
   "text": "- **What:** The Daegu Arts Center's **emerging-photographers special exhibition** — four selected artists (박가현, 조우성, 조현상, 튜나리) working across fermented prints, installation, photo-books and digital imagery, titled after Kim Cho-yeop's SF story (\"If We Can't Go at the Speed of Light\").",
   "verdict": "verified"
+ },
+ "daegu.md#38:375917fc83": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass 34: WOF Sep 18-Nov 27",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **When:** **Fri Sep 18 – Fri Nov 27, 2026** — covers the entire trip. Announced by the Concert House itself (early-bird on sale Aug 4; general sale from Aug 18).",
+  "verdict": "verified"
+ },
+ "daegu.md#38:4506b01560": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass 34: WOF Sep 18-Nov 27",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **What:** Daegu Concert House's own international orchestra festival — the hall has run this series since 2013 (as Asia Orchestra Festival, then World Orchestra Series, then Festival from 2023). The **2026 edition is 71 days, 16 ensembles**, hosted by Daegu Metropolitan City and staged in the Grand Hall.",
+  "verdict": "verified"
+ },
+ "daegu.md#38:6a4d56b53f": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass 34: WOF Sep 18-Nov 27",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **In-window concerts named in that venue announcement (confirm time/price on the hall calendar before booking):** **Wed Nov 4 — Gyeongbuk Provincial Symphony** · **Wed Nov 11 — Daegu Youth Orchestra** (conductor Baek Yoon-hak) · **Sat Nov 21 — Daegu International Broadcasting Symphony**. The big overseas names (Helsinki Philharmonic first Korea visit, Metz, Estonia) are earlier in the run; do not assume they are still playing in November.",
+  "verdict": "verified"
+ },
+ "daegu.md#38:79a5d436ea": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daegu.md",
+  "kind": "ACCESS",
+  "note": "Pass 34: WOF Sep 18-Nov 27",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **Book only from the Concert House page.** Seats for the regional November nights are the realistic walk-up options; the opening overseas nights were already in early-bird.",
+  "verdict": "verified"
+ },
+ "daegu.md#38:bbc6bf9c0a": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: WOF Sep 18-Nov 27",
+  "sources": [
+   "https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Concert House — official WOF series page](https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004) · [Kyongbuk Ilbo, Aug 4, 2026 — venue announcement, Sep 18–Nov 27, 16 ensembles, Nov 4/11/21 named](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080235) · [Daegu Concert House monthly calendar](https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000013)",
+  "verdict": "sourced"
  },
  "daegu.md#3:13eafbdb54": {
   "checked_on": "2026-08-18",
@@ -43409,12 +43649,49 @@
   "text": "- **What:** Municipal contemporary-art museum beside Deoksugung. See entry #2 for the confirmed trip-window exhibition.",
   "verdict": "verified"
  },
+ "myeongdong.md#23:6c59a404d9": {
+  "checked_on": "2026-08-18",
+  "entry": 23,
+  "file": "myeongdong.md",
+  "kind": "DATE",
+  "note": "Pass 34: Seosomun + 영원히 교차하는 춤",
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
+  "text": "- **Also on through the trip (SeMA live list, Aug 18):** the Seosomun public-space project **《영원히 교차하는 춤》** runs **Aug 13, 2025 – Dec 31, 2026** — free, in the building's common areas, no extra ticket. Pair it with GanaArt (#2) and Lynn Hershman Leeson (seoul #23, from Oct 21).",
+  "verdict": "verified"
+ },
+ "myeongdong.md#23:78bc398520": {
+  "checked_on": "2026-08-18",
+  "entry": 23,
+  "file": "myeongdong.md",
+  "kind": "TIME",
+  "note": "Pass 34: Seosomun + 영원히 교차하는 춤",
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
+  "text": "- **Hours/price:** Closed Monday; general admission is free except designated paid exhibitions. Winter weekend hours 10:00–18:00.",
+  "verdict": "verified"
+ },
+ "myeongdong.md#23:cab2519b13": {
+  "checked_on": "2026-08-18",
+  "entry": 23,
+  "file": "myeongdong.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: Seosomun + 영원히 교차하는 춤",
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [SeMA branch page](https://sema.seoul.go.kr/en/visit/seosomun) · [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY)",
+  "verdict": "sourced"
+ },
  "myeongdong.md#23:d705fc6ae8": {
   "checked_on": "2026-08-18",
   "entry": 23,
   "file": "myeongdong.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -43465,6 +43742,7 @@
   "file": "myeongdong.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -51176,6 +51454,66 @@
   "text": "- **Official source (reviewed Aug 17):** [Pohang Tourism](https://www.pohang.go.kr/phtour/)",
   "verdict": "verified"
  },
+ "seoul.md#100:0472ebb22a": {
+  "checked_on": "2026-08-18",
+  "entry": 100,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: Seongbuk Singing House",
+  "sources": [
+   "https://english.visitseoul.net/"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Visit Seoul — upcoming exhibitions](https://english.visitseoul.net/) (2026.04.17–2026.11.21, Kim Chung-up Architecture Culture House) · [Newsis, Apr 14, 2026 — Seongbuk Museum announcement](https://www.newsis.com/view/NISX20260414_0003589914) (free, no booking, through Nov 21) · [Newswire — official museum release: hours 10:00–17:00, closed Sun/Mon/holidays](https://www.newswire.co.kr/newsRead.php?no=1032556) · venue listed on [Seongbuk-gu culture directory](https://seongbuk.go.kr/tour/contents.do?key=139)",
+  "verdict": "sourced"
+ },
+ "seoul.md#100:42fcfd26b1": {
+  "checked_on": "2026-08-18",
+  "entry": 100,
+  "file": "seoul.md",
+  "kind": "PROSE",
+  "note": "Pass 34: Seongbuk Singing House",
+  "sources": [
+   "https://english.visitseoul.net/"
+  ],
+  "text": "- **Getting there:** Seongbuk-gu, **장위로21나길 11** — not in the tourist core; pair with a Dream Forest / northern-Seoul day rather than squeezing it between palaces.",
+  "verdict": "prose"
+ },
+ "seoul.md#100:46f6500cb2": {
+  "checked_on": "2026-08-18",
+  "entry": 100,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass 34: Seongbuk Singing House",
+  "sources": [
+   "https://english.visitseoul.net/"
+  ],
+  "text": "- **When:** **Apr 17 – Nov 21, 2026.** Covers the whole trip except departure day.",
+  "verdict": "verified"
+ },
+ "seoul.md#100:808e13f606": {
+  "checked_on": "2026-08-18",
+  "entry": 100,
+  "file": "seoul.md",
+  "kind": "TIME",
+  "note": "Pass 34: Seongbuk Singing House",
+  "sources": [
+   "https://english.visitseoul.net/"
+  ],
+  "text": "- **Hours/price (museum's own press release):** **10:00–17:00, free, no reservation.** Closed **Sundays, Mondays, public holidays**, and it was closed in August (already over).",
+  "verdict": "verified"
+ },
+ "seoul.md#100:ba774573e3": {
+  "checked_on": "2026-08-18",
+  "entry": 100,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass 34: Seongbuk Singing House",
+  "sources": [
+   "https://english.visitseoul.net/"
+  ],
+  "text": "- **What:** 2026 Seongbuk Museum of Art special exhibition installing Lee Jung yoon's glass, fabric and air-filled works inside **김중업 건축문화의 집 (Kim Chung-up Architecture Culture House)** in Jangwi-dong — the architect's own house, with garden, greenhouse, fireplace and stained glass. Visit Seoul lists it on the official \"Upcoming in Seoul\" board.",
+  "verdict": "verified"
+ },
  "seoul.md#10:160faef255": {
   "checked_on": "2026-08-18",
   "entry": 10,
@@ -53224,6 +53562,18 @@
   "text": "- **Official source (reviewed Aug 17):** [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY)",
   "verdict": "verified"
  },
+ "seoul.md#1:23cecbb567": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "seoul.md",
+  "kind": "TIME",
+  "note": "Pass 34: BANKSY venue+Visit Seoul fares",
+  "sources": [
+   "https://thehyundaiseoul.ehyundai.com/culture/alt1"
+  ],
+  "text": "- **Hours:** Official venue page (re-fetched Aug 18): Mon–Thu 10:30–20:00 (last entry 19:00); Fri–Sun 10:30–20:30 (last entry 19:30). Closed on store-closed days.",
+  "verdict": "verified"
+ },
  "seoul.md#1:41909fe625": {
   "checked_on": "2026-08-18",
   "entry": 1,
@@ -53279,6 +53629,7 @@
   "file": "seoul.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -53321,6 +53672,18 @@
   ],
   "text": "- **Hours:** Official venue page: Mon–Thu 10:30–20:00 (last entry 19:00); Fri–Sun 10:30–20:30 (last entry 19:30). Closed on store-closed days.",
   "verdict": "verified"
+ },
+ "seoul.md#1:ac43cb23d8": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: BANKSY venue+Visit Seoul fares",
+  "sources": [
+   "https://thehyundaiseoul.ehyundai.com/culture/alt1"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [The Hyundai Seoul ALT.1](https://thehyundaiseoul.ehyundai.com/culture/alt1) — 2026.07.22–11.03, hours as above · [Visit Seoul listing — dates, hours, fare table](https://english.visitseoul.net/exhibition/BANKSY-still-here/ENPx0x7wx)",
+  "verdict": "sourced"
  },
  "seoul.md#1:bc18ef9391": {
   "checked_on": "2026-08-18",
@@ -53371,12 +53734,25 @@
   "text": "- **What:** Special exhibition of certified Banksy prints, mural photographs, and objects at The Hyundai Seoul ALT.1, 6F, Yeouido.",
   "verdict": "verified"
  },
+ "seoul.md#1:c267f0f846": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "seoul.md",
+  "kind": "PRICE",
+  "note": "Pass 34: BANKSY venue+Visit Seoul fares",
+  "sources": [
+   "https://thehyundaiseoul.ehyundai.com/culture/alt1"
+  ],
+  "text": "- **Price (Visit Seoul official listing, Aug 18):** **₩23,000 adult (19–64) / ₩18,000 youth & children (36 months–18)**. Group ₩16,000/₩12,500. Seniors 65+ and some disability/merit concessions **₩13,000**. Under 36 months free with a guardian and proof. Prebook — 30,000 tickets sold in the first two weeks of reservations.",
+  "verdict": "verified"
+ },
  "seoul.md#1:cd471e619c": {
   "checked_on": "2026-08-18",
   "entry": 1,
   "file": "seoul.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -55629,6 +56005,18 @@
   "text": "- **Reservations:** Huwon tickets are released on a short window on [cdg.go.kr](https://www.cdg.go.kr); October–November slots sell out. Closed Monday.",
   "verdict": "verified"
  },
+ "seoul.md#31:115afdeec8": {
+  "checked_on": "2026-08-18",
+  "entry": 31,
+  "file": "seoul.md",
+  "kind": "PROSE",
+  "note": "Pass 34: cross-ref #25 correction",
+  "sources": [
+   "https://royal.khs.go.kr"
+  ],
+  "text": "- **What:** Palace with Chunjangji pond and Korea’s first Western-style royal greenhouse (1909). Fall Mulbit Yeonhwa is entry **#25**, not a separate guaranteed show.",
+  "verdict": "prose"
+ },
  "seoul.md#31:af3e6874cc": {
   "checked_on": "2026-08-18",
   "entry": 31,
@@ -55702,6 +56090,7 @@
   "file": "seoul.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://royal.khs.go.kr",
    "https://www.cdg.go.kr",
@@ -58407,12 +58796,25 @@
   "text": "- **Official source (reviewed Aug 17):** [mmca.go.kr](https://www.mmca.go.kr)",
   "verdict": "verified"
  },
+ "seoul.md#49:3201a00536": {
+  "checked_on": "2026-08-18",
+  "entry": 49,
+  "file": "seoul.md",
+  "kind": "PROSE",
+  "note": "Pass 34: pointer to #21",
+  "sources": [
+   "https://craftmuseum.seoul.go.kr"
+  ],
+  "text": "- **What:** Same museum as entry **#21** (Anguk / former Andong Palace site). Use #21 for the trip-window exhibitions, Friday late opening, Monday closure, and the no-car-park rule. This stub is kept only as a cross-reference so older itinerary links do not break.",
+  "verdict": "prose"
+ },
  "seoul.md#49:6677fdb170": {
   "checked_on": "2026-08-18",
   "entry": 49,
   "file": "seoul.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://royal.khs.go.kr",
    "https://www.cdg.go.kr",
@@ -58480,6 +58882,7 @@
   "file": "seoul.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://royal.khs.go.kr",
    "https://www.cdg.go.kr",
@@ -58540,6 +58943,18 @@
   ],
   "text": "- **What:** Public craft museum in Anguk / Bukchon. Permanent exhibitions are free; closed Monday.",
   "verdict": "verified"
+ },
+ "seoul.md#49:c778753a41": {
+  "checked_on": "2026-08-18",
+  "entry": 49,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass 34: pointer to #21",
+  "sources": [
+   "https://craftmuseum.seoul.go.kr"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr)",
+  "verdict": "sourced"
  },
  "seoul.md#4:3e309e4217": {
   "checked_on": "2026-08-18",

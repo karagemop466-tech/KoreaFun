@@ -5,7 +5,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 > 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 588 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan), nearby-city additions, and the Aug 18 four-city re-verification pass (+5 newly sourced entries). Counts will change only when unsupported entries are removed or official-source entries are added.
+> **Current inventory:** 590 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan), nearby-city additions, and the Aug 18 four-city re-verification passes (Pass 34: +2 newly sourced entries — Seongbuk 《노래하는 집》, Daegu World Orchestra Festival). Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,13 +13,13 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**588 numbered sections** across 14 city files; protocol pass complete)
+## 📂 What's in this repo (**590 numbered sections** across 14 city files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | **99 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources; +2 MMCA shows Aug 18; +BRSO/Rattle (Nov 12–13) and SeMA Bukseoul added in the Aug 18 re-verification pass |
+| [`seoul.md`](seoul.md) | **100 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources; Aug 18 re-verification added MMCA shows, BRSO/Rattle, SeMA Bukseoul, and Seongbuk 《이정윤: 노래하는 집》 (to Nov 21) |
 | [`busan.md`](busan.md) | **51 numbered activity sections** for Busan — rebuilt Aug 17, 2026 against official sources; +National Gugak Center and Busan Concert Hall added Aug 18 |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | **44 numbered activity sections** for Daejeon & Cheonan (plus labeled Asan / Gongju / Buyeo day trips) |
 

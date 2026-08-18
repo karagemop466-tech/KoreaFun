@@ -2,7 +2,7 @@
 
 Myeong-dong is a neighborhood in **Seoul’s Jung-gu**, not a separate city. This file covers Myeong-dong itself and useful places within roughly a 20-minute walk: Hoehyeon/Namdaemun, Namsan’s north side, City Hall/Jeong-dong, and the nearest part of Euljiro.
 
-This guide was rebuilt on **August 17, 2026** from official organizer, venue/operator, Seoul City, Jung-gu, heritage, and national-tourism sources. The former 296-entry version mixed real landmarks with invented shops and festivals, obsolete brand locations, generic advice, hotels presented as activities, duplicates, and attractions elsewhere in Seoul.
+This guide was rebuilt on **August 17, 2026** from official organizer, venue/operator, Seoul City, Jung-gu, heritage, and national-tourism sources, and **re-verified line-by-line on August 18, 2026** (Pass 34). The former 296-entry version mixed real landmarks with invented shops and festivals, obsolete brand locations, generic advice, hotels presented as activities, duplicates, and attractions elsewhere in Seoul.
 
 > **Status**
 > - ✅ **Confirmed event** — the organizer has published dates overlapping the trip.
@@ -154,8 +154,9 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 
 ### 23) 🎨 **Seoul Museum of Art — Seosomun Main Branch** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal contemporary-art museum beside Deoksugung. See entry #2 for the confirmed trip-window exhibition.
-- **Hours/price:** Closed Monday; general admission is free except designated paid exhibitions.
-- **Official source (reviewed Aug 17):** [SeMA branch page](https://sema.seoul.go.kr/en/visit/seosomun)
+- **Hours/price:** Closed Monday; general admission is free except designated paid exhibitions. Winter weekend hours 10:00–18:00.
+- **Also on through the trip (SeMA live list, Aug 18):** the Seosomun public-space project **《영원히 교차하는 춤》** runs **Aug 13, 2025 – Dec 31, 2026** — free, in the building's common areas, no extra ticket. Pair it with GanaArt (#2) and Lynn Hershman Leeson (seoul #23, from Oct 21).
+- **Official sources (reviewed Aug 18):** [SeMA branch page](https://sema.seoul.go.kr/en/visit/seosomun) · [SeMA current exhibitions](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY)
 
 ### 24) 🏙️ **Seoul Gallery beneath City Hall** — 🔎 VERIFIED PLACE · NEW
 - **What:** City exhibition and public space opened below Seoul City Hall in 2026.

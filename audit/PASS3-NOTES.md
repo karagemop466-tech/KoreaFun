@@ -1180,3 +1180,57 @@ The trip's acknowledged thin spot was evening/indoor culture in the back half. V
 - `myeongdong.md` #38 (NEW) — **Seoul Namsan Gukakdang**: official program page shows current weekend gugak shows (Sat 15:00/18:30, Sun 15:00, ~70 min, ~₩30,000) and winter hours; November listings not yet posted — labeled ⏳ with the exact page to check. A prior-year Friday hanok-concert series (ended Nov 7) cited as pattern only.
 
 **Counts:** 588 entries. Ledger 2008/2010 (2 honest unresolved).
+
+---
+
+## Pass 34 — 2026-08-18: four-city line-by-line re-verification (Seoul · Busan · Daegu · Myeong-dong)
+
+Re-fetched official pages for every ✅ dated claim in the four files, then worked remaining high-risk prices/hours and hunted expansion candidates city by city. No fabricated events found. Defects were stale prices, a flipped correction log, a hijacked domain still cited, a wrong cross-reference, a semantic duplicate, and one aggregator date that was not on the operator calendar.
+
+### Re-verified exact (official pages fetched this pass)
+- Busan Fireworks Sat Nov 7 — busanfireworks.com countdown **2026. 11. 07. (토)** at 광안리·이기대·동백섬.
+- G-STAR official overview table: **Korea Game Awards Wed Nov 18** / **BTC Thu Nov 19–Sun Nov 22** / BTB Nov 19–21 / G-CON Nov 19–20 (gstar.or.kr/eng/gstar/gstar_info.do + part_info.do).
+- Busan IPark official match centre: **Nov 8 14:00 away at Cheonan**; **Nov 21 14:00 home vs Chungbuk Cheongju at Gudeok**.
+- Biennale Aug 29–Nov 1, 47 artists / 44 teams / 23 countries — Yonhap May 27; busanbiennale.org still a service error.
+- Drone show: operator page — every Saturday, winter Oct–Feb **19:00 and 21:00**, 1,100 drones.
+- Blueline fare table exact match (₩10,000/₩14,000/₩16,000; Sky Capsule ₩50/55/60k; package ₩73/92/111k).
+- Busan X the Sky **operator page**: ₩29,000 / ₩26,000, 10:00–21:00, last ticket 20:30, 2-visit ₩34,000/₩31,000.
+- Spa Land operator page: 08:00–23:00 last 22:00, ₩26,000/₩21,000, 4-hour ticket, +₩5,000/hr, ₩10,000 spend → 6 hours.
+- BANKSY venue page Jul 22–Nov 3 + hours; Visit Seoul fare table ₩23,000/₩18,000.
+- Cafe Show official + COEX: Nov 11–14; Nov 11–12 business; Nov 13 public 10–18; Nov 14 public 10–16; ₩25,000/₩50,000.
+- KGMA official site Nov 7–8 Gocheok. MMA Jun 9 Kakao/Melon announcement Nov 14–15 first 2-day.
+- Leeum #93 May 5–Nov 29 Black Box/Ground Gallery; #94 Sep 5–Dec 27 M2.
+- MMCA progressList: Lee Daewon 08-06~11-08 · OLED 07-31~11-29 · Artist of the Year 07-24~12-06.
+- NMK current list: Chusa Aug 11–Nov 22; Donated Works 2 Jul 27–Nov 15; bamboo ceramics to Jan 31 2027.
+- SeMA current/upcoming: Cho Sook-jin Jul 29–Nov 15; GanaArt Apr 16–Nov 22; Kwon Byungjun to May 16 2027; Lynn Hershman Oct 21–Feb 21; Kim Heecheon Aug 20–Nov 8.
+- Outdoor Library festacode 394: Apr 23–Nov 1, Fri–Sun, 11–18 / 16–22.
+- NTCK list: Anthropolis IV Oct 28–Nov 21 Myeongdong Theater; Part V Dec 2–26 after the trip.
+- DAF 2026 annual calendar: RE:ART 2 Sep 8–Nov 8; residency results Oct 27–Nov 15; SAC on Screen 15 Othello Nov 7.
+- Seoul E-Land official table (Aug view): E-Land 2nd / Daegu 3rd / Busan 5th — standings match the files.
+
+### Corrections
+- `sources.md` Busan X the Sky row had been flipped back to ₩27,000/₩24,000 and called ₩29,000 the error. **Operator page is ₩29,000/₩26,000.** Logged both directions so it cannot flip again.
+- `seoul.md` #1 — added the official Visit Seoul fare table (entry had hours but no price).
+- `seoul.md` #31 — Mulbit cross-ref said entry #21; it is **#25**.
+- `seoul.md` #49 — semantic duplicate of #21; collapsed to a pointer.
+- `busan.md` #2 — official schedule table now cited (Game Awards ≠ public exhibition).
+- `busan.md` #51 — killed the unverified **Nov 6 Tchaikovsky** aggregator claim; replaced with the hall's own **Nov 8 15:00 Isang Yun winners' concert**.
+- `daegu.md` #27 — **palgongcablecar.com is hijacked**; replaced with daegutour.or.kr + tour.daegu.go.kr (November 09:30–17:10, adult RT ₩14,000).
+- `events.csv` — BANKSY ₩23,000; GS Caltex venue Jangchung not Jamsil Students; Kings of Convenience 16-year claim removed; Hell's Kitchen marked DROPPED; Seoul Sky ₩33,000; N Tower observatory ₩29,000; Spa Land hours/fares; Blueline May-2026 fares; Biennale 47/23; Han River tour end Nov 15 not Nov 30.
+- `itinerary.md` — Day 1 now names the Oct 31 Jangchung opener; S11 / B7 / B10 / D6 / D9 rewritten to match the city files.
+
+### Added (each written from an official page fetched this pass)
+- `seoul.md` #100 — Seongbuk Museum of Art 《이정윤: 노래하는 집》, Apr 17–Nov 21, Kim Chung-up Architecture Culture House, free, 10:00–17:00, closed Sun/Mon (Visit Seoul + museum Newswire/Newsis).
+- `daegu.md` #38 — 2026 World Orchestra Festival, Sep 18–Nov 27, Daegu Concert House (official series page + Kyongbuk Ilbo Aug 4 venue announcement naming Nov 4/11/21).
+- `busan.md` #50 — enriched with official 《Gugak: Korea in Sound》 May 19–Nov 14.
+- `myeongdong.md` #23 — SeMA Seosomun public-space project 《영원히 교차하는 춤》 through Dec 31, 2026.
+
+### Checked and not added
+- Classic Busan Nov 25 Opera Talk Talk — after departure.
+- DAF public-residency part 2 Nov 24–Dec 27 — starts after departure.
+- NMK *Our Table* / Thailand — close before arrival.
+- SeMA Yoo Youngkuk / Title Match / Martin Parr — end Oct 18–25, before arrival.
+- 11th Daegu Photo Biennale — Oct 2027 (already fenced in #37).
+- palgongcablecar.com — hijacked; not cited.
+
+Counts: 588 → **590**. Ledger re-inited after the edits.
