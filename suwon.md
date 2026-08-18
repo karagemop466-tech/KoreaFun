@@ -260,6 +260,12 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **Before you go:** the calendar entry gives the season, not per-day times. Open the specific listing for the weekend you want and confirm the day's performance — outdoor programmes are also weather-dependent.
 - **Official sources (reviewed Aug 17):** [Suwon Cultural Foundation event calendar](https://www.swcf.or.kr/?p=29) · [Madangnoriteo listing](https://www.swcf.or.kr/?p=29_view&idx=2932) · [Jeongjo K Stage listing](https://www.swcf.or.kr/?p=29_view&idx=3031)
 
+### 39) ⚽ **Suwon FC — home match vs Gyeongnam FC** — ✅ CONFIRMED — Sat Nov 7, 2026 · 14:00 · NEW
+- **What:** Suwon's *other* professional club — **Suwon FC (수원FC)**, also in K League 2 in 2026 and sitting 4th in mid-August, i.e. right in the promotion-playoff race alongside the Bluewings. Home ground is **Suwon Sports Complex (수원종합운동장)**, a different stadium from the Bluewings' World Cup Stadium.
+- **When:** **Sat Nov 7, 2026, 14:00 vs Gyeongnam FC** (round 32). ⚠️ Suwon FC's own site was erroring at review — this fixture is confirmed on **Gyeongnam FC's official fixture list** (2026.11.07 (토) 14:00, 수원, vs 경남), which also shows the Bluewings hosting Gyeongnam on Nov 21 (matching entry #35).
+- **Why it's interesting:** with the Bluewings home on **Nov 8 and Nov 21** (#35) and Suwon FC home on **Nov 7**, Suwon offers second-tier football on back-to-back days of the trip's first full weekend — and both clubs may be fighting for promotion.
+- **Official sources (reviewed Aug 18):** [Gyeongnam FC — official fixture list](https://www.gyeongnamfc.com/match/match.php) (Nov 7 14:00 at Suwon) · [suwonfc.com](https://www.suwonfc.com) *(erroring at review — re-check for tickets)* · [K League](https://www.kleague.com/schedule.do)
+
 ---
 
 ## Removed during this verification pass

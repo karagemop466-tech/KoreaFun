@@ -39,10 +39,11 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 
 ## River, parks, and city
 
-### 6) 🎋 **Taehwagang National Garden and Simnidaebat bamboo grove** — 🔎 VERIFIED PLACE
+### 6) 🎋 **Taehwagang National Garden and Simnidaebat bamboo grove** — 🔎 VERIFIED PLACE · autumn notes added Aug 18
 - **What:** National garden and long riverside bamboo forest in central Ulsan.
+- **🍂 Why early-to-mid November is a good time:** the garden's **seasonal-garden zone includes a dedicated chrysanthemum garden (국화정원)** that peaks late Oct–early Nov, the **ginkgo garden in the bird-ecology area (~150 mature trees)** turns gold in early November, and the **silver-grass (물억새) stands around Myeongchon Bridge** are at their best — all free, all on the same riverside walk as the bamboo grove. The city's fall festival itself ran **Oct 24–26 in 2025** (before the trip window), but the plantings and evening rope-lighting stay up well past it.
 - **Hours/price:** Outdoor garden access is free; individual facilities and programs have posted hours.
-- **Official source (reviewed Aug 17):** [Taehwagang National Garden](https://www.ulsan.go.kr/s/garden/)
+- **Official sources (reviewed Aug 18):** [Taehwagang National Garden](https://www.ulsan.go.kr/s/garden/) — garden zones incl. 국화정원/은행나무정원 · [2025 fall festival & autumn plantings — Munhwa Ilbo, Oct 24, 2025](https://www.munhwa.com/article/11541838)
 
 ### 7) 🐦 **Taehwagang migratory-bird roost** — 🔎 VERIFIED NATURE ACTIVITY
 - **What:** River habitat used seasonally by rooks and other wintering birds.

@@ -44,12 +44,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 5) 🏆 **Korea Grand Music Awards (KGMA 2026)** — ✅ CONFIRMED DATES — Sat–Sun Nov 7–8, 2026
 - **What:** Two-day K-pop awards show, first edition at Gocheok Sky Dome.
 - **When:** **Nov 7–8, 2026**. Lineup and public ticketing were not fully published at review; do not invent a set list.
-- **Official source (reviewed Aug 18):** [KGMA official site](https://kgma-is.com/locales/en/index.html) confirms **Nov 7–8, 2026 at Gocheok Sky Dome**; organizer announcement via Ilgan Sports (Mar 18, 2026). 3rd edition, moved from Inspire Arena to Gocheok for accessibility. Day-1 MCs announced Jun 10 (남지현 · 리센느 원이). Note the KGMA site still carries Inspire Arena shuttle text from the prior edition — **use Gocheok directions, not that shuttle info**.
+- **Official source (reviewed Aug 18):** [KGMA official site](https://kgma-is.com/locales/en/index.html) confirms **Nov 7–8, 2026 at Gocheok Sky Dome**; organizer announcement via Ilgan Sports (Mar 18, 2026). 3rd edition, moved from Inspire Arena to Gocheok for accessibility. MCs confirmed Jun 12: **Nam Ji-hyun, Woni (RESCENE), Kim Jae-won, Liz (IVE)**. Note the KGMA site still carries Inspire Arena shuttle text from the prior edition — **use Gocheok directions, not that shuttle info**.
 
 ### 6) 🏆 **Melon Music Awards (MMA 2026)** — ✅ CONFIRMED DATES — Sat–Sun Nov 14–15, 2026
 - **What:** First two-day MMA, hosted by Kakao Entertainment / Melon at Gocheok Sky Dome.
 - **When:** **Nov 14–15, 2026**. Lineup and ticket windows were still TBA at review.
-- **Official source (reviewed Aug 17):** Kakao Entertainment / Melon announcement, Jun 9, 2026 · [Melon](https://www.melon.com)
+- **Official source (reviewed Aug 18):** Kakao Entertainment / Melon announcement, Jun 9, 2026 (18th MMA, first two-day edition; slogan "K-POP CONNECT: The New Pulse"; some award categories linked to the new Global-K Chart) · [Melon](https://www.melon.com)
 
 ### 7) ☕ **25th Seoul International Cafe Show** — ✅ CONFIRMED — Wed Nov 11–Sat Nov 14, 2026
 - **What:** Asia’s large coffee and café-industry fair at COEX.
@@ -59,9 +59,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ### 8) 🎻 **Kings of Convenience — SJF at the Theater** — ✅ CONFIRMED — Wed Nov 18, 2026 · 20:00 · UPDATED
 - **What:** The Norwegian folk-pop duo (Eirik Glambek Bøe and Erlend Øye) — *Quiet Is the New Loud*, "Homesick", "Misread" — headlining the **first-ever show of "SJF at the Theater"**, a new indoor off-season spin-off of the Seoul Jazz Festival brand. Nicely full-circle: Sejong Center's Grand Theater hosted the first five editions of SJF from 2007–2011.
-- **When/where:** **Wed Nov 18, 2026, 20:00**, **Sejong Center Grand Theater (세종문화회관 대극장)** — Gwanghwamun, Line 5. Their first large-hall Seoul headline show in about **16 years** (last was Olympic Hall, 2010); promoter is Private Curve.
+- **When/where:** **Wed Nov 18, 2026, 20:00**, **Sejong Center Grand Theater (세종문화회관 대극장)** — Gwanghwamun, Line 5. Promoter is Private Curve. ✏️ **Correction (Aug 18):** an earlier version called this their first big Seoul headline show in ~16 years — in fact the promoter's own announcement notes they've played **four solo Seoul concerts before (2008, 2010, 2023, 2025)** plus three Seoul Jazz Festival appearances; what's new is the venue series, not the visit itself.
 - **Why it fits your trip:** a calm, seated, indoor evening in central Seoul on a Wednesday — the back half of the trip is thin on events, and this one is a 10-minute walk from Gwanghwamun and Deoksugung.
-- **Official sources (reviewed Aug 18):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136) *(intermittently 502s — retry or use the Korean site)* · [OhmyStar report on the promoter's announcement](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003247950) · [Maeil Business Newspaper](https://www.mk.co.kr/news/culture/12101426)
+- **Official sources (reviewed Aug 18):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136) *(intermittently 502s — retry or use the Korean site)* · [OhmyStar report on the promoter's announcement](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003247950) · [Joongang Economy — promoter announcement (Nov 18 20:00, Sejong Grand Theater; four prior solo visits)](https://www.joongangenews.com/news/articleView.html?idxno=530201)
 
 ### 9) 🎵 **Jason Mraz — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 14, 2026 · Goyang (KINTEX)
 - **What:** The **finale** of Mraz's first Asia tour in 7 years (Manila Oct 27 → Bangkok/KL/Taipei/HK/Tokyo/Osaka → Seoul). Full band with Raining Jane, retrospective set spanning 20 years.
@@ -408,10 +408,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ## Sports
 
-### 77) 🏐 **V-League — Seoul home teams** — ✅ SEASON CONFIRMED; FIXTURES LATER
-- **What:** Seoul Woori Card WooriWON (men, Jangchung Gymnasium) and GS Caltex Seoul KIXX (women, Jamsil Students’ Gymnasium). Both are playing through the whole trip window.
-- **When:** The KOVO board (Dec 10, 2025) set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027**, with the postseason Apr 5–22, 2027. So the league is live from literally your first day in Korea. Round-by-round fixtures post on the KOVO site — **do not invent tip-off times**.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
+### 77) 🏐 **V-League — Seoul home teams** — ✅ SEASON CONFIRMED · OPENING-DAY HOME GAME OCT 31 · UPDATED Aug 18
+- **What:** Seoul Woori Card WooriWON (men) and GS Caltex Seoul KIXX (women). ⚠️ **Venue correction (Aug 18): BOTH Seoul clubs play at Jangchung Arena (장충체육관)** — the "장충 남매" (Jangchung siblings). An earlier version of this entry put GS Caltex at Jamsil Students' Gymnasium; that is wrong (Jamsil Students' is where the KBL basketball teams moved — see entry #80).
+- **When:** The KOVO board (Dec 10, 2025) set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027**, and **KOVO published the full round-by-round fixture list on Aug 18, 2026**.
+- **✅ Confirmed opening-day fixture in Seoul:** **Sat Oct 31, 17:00 — GS Caltex (defending women's champion) vs Korea Expressway Corp at Jangchung Arena** — a championship-final rematch on your arrival day, 15 minutes from Myeong-dong (Line 3, Dongguk Univ. station). The men's opener (Korean Air vs Hyundai Capital, 14:00) is in Incheon.
+- **Now that fixtures exist, pull the November Jangchung home dates from the KOVO schedule page** and buy through the KOVO site — don't guess times.
+- **Official sources (reviewed Aug 18):** [kovo.co.kr — 2026–27 schedule](https://www.kovo.co.kr) · season dates via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007) · fixture release reported Aug 18 by [Edaily](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632) (opening-day matchups incl. GS Caltex vs KEC, Jangchung 17:00)
 
 ### 78) ⚽ **Seoul E-Land FC (K League 2)** — ✅ CONFIRMED — Sat Nov 7 & Sun Nov 22, 2026
 - **What:** Home games at **Mokdong Stadium** (목동 레울파크), an easy Line 5 trip. E-Land were 2nd in K League 2 in mid-August 2026, so November games are promotion-race matches.
@@ -447,8 +449,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **What:** Real tourist-friendly shows and halls: NANTA, JUMP, National Gugak Center Saturday series, National Theater of Korea, Jeongdong Theater, Seoul Arts Center, Sejong Center. Book only a dated performance. NANTA’s Myeong-dong house is also in [`myeongdong.md`](myeongdong.md).
 - **Official sources (reviewed Aug 17):** [nanta.co.kr](https://www.nanta.co.kr) · [gugak.go.kr](https://www.gugak.go.kr) · [ntok.go.kr](https://www.ntok.go.kr) · [sac.or.kr](https://www.sac.or.kr) · [sejongpac.or.kr](https://www.sejongpac.or.kr)
 
-### 84) 🎭 **Korean-language musicals in the window** — ⏳ CONFIRM ON NOL
-- **What:** Licensed Korean productions often cited for this window include *ELISABETH*, *Hell’s Kitchen*, *Gwanghwamun Love Song*, and *Dear Evan Hansen*. Re-confirm closing dates on [NOL Ticket](https://www.nol.world) before planning around a closing night.
+### 84) 🎭 **Korean-language musicals in the window** — ✅ CLOSING DATES NOW PUBLISHED · UPDATED Aug 18
+- **What:** The big licensed Korean productions overlapping the trip, with closing dates now live on the official ticketer: **《엘리자벳》 (ELISABETH) runs to Nov 15** at Blue Square · **《광화문연가》 (Gwanghwamun Love Song) to Nov 15** at D-Cube Link Art Center · **《디어 에반 핸슨》 (Dear Evan Hansen) closes Sun Nov 1** at Chungmu Arts Center — first-weekend-only.
+- **All are sung in Korean** (no surtitles at most commercial musicals) — go for the production values and score, not the plot detail. Re-confirm dates and buy on [NOL Ticket](https://tickets.interpark.com/contents/genre/musical), the official seller listing all three.
 
 ### 85) 🚢 **Han River cruises and Han River Bus** — 🔎 VERIFIED OPERATORS
 - **What:** Eland tourist cruises from Yeouido and the city’s river-bus ferries. Timetables are operator-specific.
@@ -491,6 +494,45 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **When:** **Aug 6 – Nov 8, 2026** — covers the first nine days of the trip (Oct 31 – Nov 8). MMCA Deoksugung sits inside Deoksugung's Seokjojeon West Hall (see entry #48; separate ₩2,000 admission or free Wed/Sat 18:00–21:00 night opening).
 - **Official source (reviewed Aug 18):** [MMCA — current exhibitions (Deoksugung)](https://www.mmca.go.kr/exhibitions/progressList.do) — 2026-08-06~2026-11-08 · [mmca.go.kr](https://www.mmca.go.kr)
 
+### 94) 🎻 **Sir Simon Rattle & Bavarian Radio Symphony (BRSO)** — ✅ CONFIRMED — Thu Nov 12 & Fri Nov 13, 2026 · 19:30 · NEW
+- **What:** One of the world's top orchestras, two years after its last visit, under chief conductor **Sir Simon Rattle**. Two completely different programmes: **Nov 12 — Schubert Symphony No. 9 "Great" + Stravinsky *The Rite of Spring***; **Nov 13 — Mahler Symphony No. 2 "Resurrection"** with soprano Lucy Crowe, mezzo Karen Cargill, the National Chorus of Korea and Seoul Motet Choir — a signature Rattle piece, first time he conducts it in Korea.
+- **Where/when:** **Seoul Arts Center Concert Hall, 19:30** both nights. The **Nov 13 concert is confirmed on SAC's own show page**; Nov 12 is sold by the same promoter (Vincero) — early-year press briefly listed its venue as TBD, so double-check the Nov 12 hall when booking.
+- **Price:** R ₩400,000 / S ₩320,000 / A ₩240,000 / B ₩170,000 / C ₩100,000. Ages: elementary-school and up. ~120 min.
+- **Why it fits:** a world-class indoor evening in the middle week, and it doesn't clash with anything else in this guide (MMA is the following weekend).
+- **Official sources (reviewed Aug 18):** [Seoul Arts Center — official show page (Nov 13, prices, casts, both programmes)](https://www.sac.or.kr/site/main/show/show_view?SN=77520) · [Hankyung — promoter announcement, both dates at SAC](https://www.hankyung.com/article/2026052724281) · promoter Vincero ☎ 02-599-5743
+
+### 95) 🔊 **SeMA Bukseoul — 《권병준: 내 마음속에 너는》 (Kwon Byungjun)** — ✅ CONFIRMED — through May 16, 2027 · NEW
+- **What:** A large sound-art / robotics installation exhibition by **Kwon Byungjun**, the former indie musician turned machine-performance artist, at the Seoul Museum of Art's **Bukseoul branch** in Nowon — the least touristed SeMA building, built into a neighborhood park.
+- **When:** **Jun 11, 2026 – May 16, 2027** — open your whole trip. Closed Mondays; SeMA branches are free.
+- **Why it's worth the ride:** pairs with a Nowon/Uidong day or a quiet rainy afternoon; Bukseoul also runs two long-duration commissions (《보편타당한 당신 — 심이다은》 to Apr 11, 2027 and 《몸을 위한 간주곡 — 소목장세미》 to May 30, 2027) on the same free floor, all confirmed on SeMA's live listing.
+- **Official source (reviewed Aug 18):** [SeMA current-exhibition listing](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) — 《권병준: 내 마음속에 너는》 2026/06/11–2027/05/16, 서울시립 북서울미술관 · [Bukseoul visitor info](https://sema.seoul.go.kr/kr/visit/bukseoul)
+
+### 96) 🎠 **Lotte World Adventure (Jamsil)** — 🔎 VERIFIED OPERATOR — the big indoor rainy-day option · NEW
+- **What:** One of the world's largest **indoor** theme parks — the glass-domed Adventure hall plus the outdoor Magic Island on Seokchon Lake, ~45 attractions, in the same Jamsil complex as Lotte World Tower / Seoul Sky (entry #58). In November the indoor half is the point: it's the city's best big weather-proof attraction, and by late November the park is normally deep in Christmas dressing.
+- **Hours:** Open year-round — **Sun–Thu 10:00–21:00, Fri–Sat and holidays 10:00–22:00**; ticketing closes about an hour before. **Check the operator's day calendar before going** — hours flex for events, and admission prices changed in April 2026, so use the live price page rather than any figure printed here.
+- **💡 After-4 tickets** (from 16:00) are the budget move for an evening visit; the aquarium and Seoul Sky sit in the same complex if you're making a full Jamsil day. Getting there: Line 2/8 **Jamsil**, directly connected underground.
+- **Official source (reviewed Aug 18):** [Lotte World Adventure — official site (hours, day calendar, tickets)](https://adventure.lotteworld.com/)
+
+### 97) 🎭 **National Theater of Korea — November repertory week** — ✅ CONFIRMED — five dated programs Nov 5–21, 2026 · NEW
+- **What:** The National Theater complex on Namsan (국립극장) publishes its whole 2026–27 repertory season in advance, and **November has a dense, dated cluster** from its resident companies — traditional Korean performance in modern stagings, mostly ₩20,000–70,000.
+- **In your window (all from the official season page):** **Noon Concert (정오의 음악회) Thu Nov 5**, Haeoreum Theater · **National Dance Company — 2026 Choreographers Project, Nov 6–8**, Daloreum · **Changgeuk Writers Project showcase, Nov 7–8**, Haneul · **Wanchang Pansori (a full-length pansori sung end-to-end), Sat Nov 14**, Daloreum · **Seoul Performing Arts Company's original gamu-geuk 《백범》 (Baekbeom, on independence leader Kim Gu), Nov 14–21**, Haeoreum main stage.
+- **Just after you leave:** the orchestral *Discovery* (Nov 25), changgeuk *Oedipus* (Nov 26–Dec 5) and the beloved year-end **madangnori (Nov 27–Jan 24)** all start post-departure — don't let older listicles sell you those.
+- **Getting there:** Namsan foot of the mountain — shuttle/bus from Dongguk Univ. station (Line 3), 10 min from Myeong-dong.
+- **Official source (reviewed Aug 18):** [NTOK — 2026–2027 repertory season schedule](https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014) — all dates above listed on the season page
+
+### 98) 🖼️ **LG Arts Center Seoul (Magok) — 《Rothko》 Nov 13–15 and the November CoMPAS slate** — ✅ CONFIRMED · NEW
+- **What:** Seoul's premier international performing-arts house (the Ando Tadao building at Magok, directly connected to Magoknaru station, Line 9/AREX). Three November items from its official CoMPAS 26 season:
+- **《Rothko》 — Fri Nov 13–Sun Nov 15, LG SIGNATURE Hall.** Polish director **Łukasz Twarkowski's** media-saturated stage piece built on the real Mark Rothko forgery scandal — truth vs fake in the art market. ⚠️ **Running time is about 4 hours** — plan the evening around it. On sale now via the venue/NOL.
+- **Stacey Kent — Thu Nov 19, 19:30, LG SIGNATURE Hall.** The Grammy-nominated jazz vocalist's Seoul concert (venue's own announcement).
+- **Yangson Project 《민중의 적》 (An Enemy of the People, working title) — Nov 20–29, U+ Stage** — only Nov 20–22 fall inside the trip; title marked 가제, re-check before booking.
+- **Official sources (reviewed Aug 18):** [lgart.com — CoMPAS 26](https://www.lgart.com) · [venue lineup announcement — Seoul Culture Today, Dec 18, 2025](http://www.sctoday.co.kr/news/articleView.html?idxno=46735) (Rothko Nov 13–15; 민중의 적 Nov 20–29) · [NOL venue listing — Rothko on sale 2026.11.13–15](https://mticket.interpark.com/Place/Detail?placeCode=22000754) · [LG Arts Center official Instagram — Stacey Kent 26.11.19 19:30](https://www.instagram.com/lgartscenter/)
+
+### 99) 🎶 **Seoul Metropolitan Opera — 《La Bohème》** — ✅ CONFIRMED — Thu Nov 5–Sun Nov 8, 2026 · Sejong Grand Theater · NEW
+- **What:** Puccini's *La Bohème* staged by the **Seoul Metropolitan Opera (서울시오페라단)** in the Sejong Center Grand Theater — part of the official 2026 Sejong Season (announced Dec 22, 2025) with top Korean voices (양준모, 서선영, 최지은, 전승현 and others announced).
+- **When:** **Nov 5–8, 2026** — the trip's first full week, at Gwanghwamun. Italian opera is language-barrier-proof (Korean/English surtitles are standard at Sejong).
+- **Also in the Sejong Season during your window:** the Seoul Metropolitan Theatre's new Korean-language play **《아.파.트》 (A.P.T.) runs Oct 24–Nov 14** — Korean only, but note it if you read Korean.
+- **Official sources (reviewed Aug 18):** [Sejong Center](https://www.sejongpac.or.kr) — book on the venue site · [2026 Sejong Season announcement — Seoul Economic Daily, Dec 22, 2025](https://news.nate.com/view/20251222n31113) (La Bohème Nov 5–8; 아.파.트 Oct 24–Nov 14) · corroborated by [JoongAng Ilbo season report](https://www.joongang.co.kr/article/25391859)
+
 ---
 
 ## Removed during this verification pass
@@ -514,8 +556,9 @@ No prior-year pattern is labeled confirmed. Re-check Visit Seoul, the festival c
 - Hangang Night View Tour (fall) — official listing ends **Oct 31**
 - Banpo Rainbow Fountain — April–October only
 - Changdeokgung Moonlight Tour fall dates — TBA; 2025 ran Sep–Oct
-- Seoul Lantern Festival / Seoul Light DDP Winter — December
+- Seoul Lantern Festival / Seoul Light DDP Winter — December; **Seoul Light Gwanghwamun confirmed Dec 11, 2026 – Jan 3, 2027** on the [official festival calendar](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372)
 - AGF 2026 — Dec 4–6, KINTEX
+- National Museum of Korea winter blockbusters — *War, Art and Life* (Kunsthaus Zürich collection) opens **Nov 27**, five days after departure; *Marie Antoinette Style* opens Dec 18 ([museum 2026 plan](https://museum.go.kr/MUSEUM/contents/M0701040000.do?arcId=23385&catCustomType=post&catId=93&cp=1&schM=view&sv=))
 - MAMA Awards 2026 — Nov 20–21 in **Osaka** (stream, not a Seoul event)
 
 ---

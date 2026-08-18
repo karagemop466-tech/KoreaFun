@@ -29,18 +29,22 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **When:** **Sun Nov 8, 14:00.** A daytime kickoff makes this an easy add-on to a Daejeon/Cheonan day.
 - **Official sources (reviewed Aug 17):** [busanipark.com match schedule](https://www.busanipark.com/match/match_schedule.php) · [kleague.com](https://www.kleague.com/schedule.do) · [cheonancityfc.kr](https://cheonancityfc.kr)
 
-### 3) 🏐 **V-League — Daejeon and Cheonan home teams** — ✅ SEASON CONFIRMED; FIXTURES LATER
+### 3) 🏐 **V-League — Daejeon and Cheonan home teams** — ✅ SEASON CONFIRMED · FIXTURES PUBLISHED AUG 18
 - **What:** Daejeon: Samsung Fire Bluefangs (men) and JeongKwanJang Red Sparks (women) at Chungmu Gymnasium. Cheonan: Hyundai Capital Skywalkers (men) at Yu Gwan-sun Gymnasium.
-- **When:** KOVO’s board set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22), so all three clubs are mid-season throughout your trip. This corridor is unusually dense for volleyball — three top-flight teams within an hour of each other. Get the round-by-round fixtures from KOVO.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
+- **When:** KOVO’s board set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22), so all three clubs are mid-season throughout your trip. This corridor is unusually dense for volleyball — three top-flight teams within an hour of each other.
+- **Update (Aug 18): KOVO published the full round-by-round fixture list on Aug 18, 2026** — Hyundai Capital (last season's runner-up) opens away at Korean Air on Oct 31. Pull the November home dates for all three clubs from the KOVO schedule page and book there.
+- **Official sources (reviewed Aug 18):** [kovo.co.kr](https://www.kovo.co.kr) — fixture release reported by [Edaily, Aug 18, 2026](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632) · season dates via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
 
 ### 4) 🍜 **Noodle Daejeon Festival** — ⏳ TBA
 - **What:** City noodle festival at Hanbit Tower Plaza. 2025 ran Nov 7–9; **do not copy that weekend into 2026**.
 - **Official sources (reviewed Aug 17):** [noodle-dj.com](https://noodle-dj.com) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
-### 5) 🌼 **O-World chrysanthemum display** — ⏳ TBA
-- **What:** Recurring late-autumn chrysanthemum program inside Daejeon O-World. Confirm 2026 dates and whether it needs a park ticket.
-- **Official source (reviewed Aug 17):** [oworld.kr](https://www.oworld.kr)
+### 5) 🌼 **Autumn chrysanthemum displays — O-World and the Yuseong Chrysanthemum Festival** — ⏳ 2026 DATES TBA · UPDATED Aug 18
+- **What (O-World):** Recurring late-autumn chrysanthemum program inside Daejeon O-World. Confirm 2026 dates and whether it needs a park ticket.
+- **What (Yuseong):** Yuseong-gu's **free** autumn flower festival at **Yurim Park (유림공원)** and the Yuseongcheon stream paths — around **7 million chrysanthemums and autumn flowers** grown by the district's own nursery, built into large themed sculptures and tunnels, with night lighting on the Metasequoia path, a foot-bath "hot spring + chrysanthemum" zone (Yuseong is a spa district) and evening concerts.
+- **⏳ 2026 dates not announced at review.** Pattern: the **16th Yuseong festival ran Oct 18 – Nov 2, 2025** — if 2026 follows form, its final days overlap your first trip days (Oct 31–Nov 2). Check the Yuseong-gu site in October.
+- **Getting there:** Yurim Park is an 11-min walk from Wolpyeong station (Daejeon Line 1), on the Yuseong hot-spring side of the city.
+- **Official sources (reviewed Aug 18):** [oworld.kr](https://www.oworld.kr) · [Yuseong-gu](https://www.yuseong.go.kr/) — district-hosted festival; 2025 dates/programme via [Joongdo Ilbo, Oct 14, 2025](https://m.joongdo.co.kr/view.php?key=20251014010002949) (Oct 18–Nov 2, Yurim Park + Yuseongcheon, 7M blooms, free)
 
 ### 6) ⚽ **Daejeon Hana Citizen** — 👀 WATCH
 - **What:** K League 1 final-round home matches at **Daejeon World Cup Stadium**. The last five rounds run **Oct 31–Dec 6, 2026** and are drawn only after the regular phase ends **Oct 25**; each club receives **2–3 home games** in that window. A Daejeon home match during your stay is plausible but unschedulable until the league publishes in late October.
@@ -82,8 +86,9 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official source (reviewed Aug 17):** [daejeon.go.kr/huw](https://www.daejeon.go.kr/huw)
 
 ### 14) 🎨 **Daejeon Museum of Art and Lee Ungno Museum** — 🔎 VERIFIED MUSEUMS
-- **What:** Municipal contemporary museum plus the dedicated Lee Ungno building in the arboretum. Closed Monday.
-- **Official sources (reviewed Aug 17):** [daejeon.go.kr/dma](https://www.daejeon.go.kr/dma) · [leeungnomuseum.daejeon.go.kr](https://leeungnomuseum.daejeon.go.kr)
+- **What:** Municipal contemporary museum plus the dedicated Lee Ungno building in the arboretum. Closed Monday. Winter (Nov–Feb) hours 10:00–18:00, last entry 17:30.
+- **⏳ Biennale watch:** the museum's **Daejeon Science & Art Biennale** has recent-year form for a run that would cover your trip — the 2024 edition ran **Oct 25 – Feb 2** across the museum and satellite spaces (₩5,000 adult). A **2026 edition is in preparation** (the museum ran public planning seminars for it), but **no 2026 dates had been published at review** — check the museum site in October. The 2026 headline shows (Andy Warhol, Lee Jung-seop touring exhibition) run earlier in the year, before your trip.
+- **Official sources (reviewed Aug 18):** [Daejeon Museum of Art](https://www.daejeon.go.kr/dma) · [leeungnomuseum.daejeon.go.kr](https://leeungnomuseum.daejeon.go.kr) · [2026 exhibition roadmap — Joongdo Ilbo, Jan 15, 2026](https://m.joongdo.co.kr/view.php?key=20260115010004526) · [2026 biennale preparation seminar — museum announcement coverage](https://www.newsro.kr/article243/1133088/)
 
 ### 15) 🏙️ **Skyroad LED canopy (Eunhaeng-dong)** — 🔎 VERIFIED PLACE
 - **What:** Media-art street canopy on the old downtown shopping street near Sungsimdang. Show hours are evening and not daily.
@@ -189,8 +194,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** Memorial at the independence activist’s birthplace near Aunae / Byeongcheon.
 - **Official source (reviewed Aug 17):** [cheonan.go.kr](https://www.cheonan.go.kr)
 
-### 38) 🎭 **Cheonan Arts Center** — ⏳ CHECK CALENDAR
-- **What:** Municipal halls and museum. Attend only a dated show on [cnac.or.kr](https://www.cnac.or.kr).
+### 38) 🎭 **Cheonan Arts Center (천안예술의전당)** — ✅ NOVEMBER CALENDAR NOW PUBLISHED · UPDATED Aug 18
+- **What:** Cheonan's main performing-arts complex (대공연장/소공연장), on the east side of the city.
+- **Dated November items on the venue's own annual calendar:** **Cheonan Philharmonic subscription concert — Wed Nov 11, main hall** · play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 (Cimarosa's *Il matrimonio segreto*) — Mon Nov 16, small hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall**. (The 11 AM commentary concert falls Nov 25 — after departure.)
+- **Booking:** venue site or NOL; most small-hall programs are ₩10,000–30,000. Confirm times on the specific listing — the annual calendar shows dates only.
+- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — annual schedule](https://www.cnac.or.kr/play/year.html?p_team=pfm) (all November dates above) · [NOL listings for the venue](https://tickets.interpark.com/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)
 
 ### 39) 🏘️ **Oeam Folk Village (Asan)** — 🔎 VERIFIED PLACE · labeled Asan
 - **What:** Living Joseon village of thatched and tiled houses. November last entry is earlier.

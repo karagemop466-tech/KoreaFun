@@ -22,14 +22,14 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 
 ### 2) 🎮 **G-STAR 2026** — ✅ CONFIRMED — Thu Nov 19–Sun Nov 22, 2026
 - **What:** Korea’s main consumer and trade game exhibition at BEXCO.
-- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. G-CON conference pages list **Nov 19–20** inside BEXCO (the G-STAR organizing committee's own conference page, fetched Aug 18, confirms G-CON 2026 on Nov 19–20). ⚠️ **Date nuance:** some press coverage (Korea JoongAng Daily, Aug 13, 2026) describes the event as running Nov 18–22 — possibly counting a pre-opening day — so keep an eye on the official site as the date nears. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.
-- **Official sources (reviewed Aug 18):** [gstar.or.kr](https://www.gstar.or.kr) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20, Convention Hall, BEXCO) · [Korea JoongAng Daily — G-Star 2026](https://www.koreajoongangdaily.com/business/gstar-2026-puts-ai-storytelling-center-stage/12823574) · [bexco.co.kr](https://www.bexco.co.kr)
+- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. Re-confirmed by fresh press around the organizers' Aug 13–14, 2026 briefing (Nov 19–22, BEXCO; the **main sponsor for 2026 is AI company Wrtn/뤼튼**, and the opening day collides with the global GTA 6 launch). G-CON conference pages list **Nov 19–20** inside BEXCO. ⚠️ **Date nuance:** some earlier press (Korea JoongAng Daily, Aug 13, 2026) described the event as running Nov 18–22 — possibly counting a pre-opening day — but the organizing committee's own Aug 13 press conference and its site countdown both point to **Nov 19**. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.
+- **Official sources (reviewed Aug 18):** [gstar.or.kr](https://www.gstar.or.kr) (countdown resolves to Nov 19) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20, Convention Hall, BEXCO) · [Insight Korea — organizer press conference Aug 13, 2026](https://www.insightkorea.co.kr/news/articleView.html?idxno=252396) (Nov 19–22) · [main-sponsor announcement, Aug 14, 2026](https://www.goodkyung.com/news/articleView.html?idxno=290294) · [bexco.co.kr](https://www.bexco.co.kr)
 
 ### 3) 🎨 **Busan Biennale 2026 “Dissident Chorus”** — ✅ CONFIRMED — through Sun Nov 1, 2026
 - **What:** Contemporary-art biennale across Busan MoCA, Space Wonji / Space One-Z on Yeongdo, and the former Busan Nam High School.
 - **When:** **Aug 29–Nov 1, 2026** (65 days). The trip catches only Oct 31–Nov 1.
-- **Scale:** 44 artists/teams from 23 countries; co-directed by Evelyn Simons and Amal Khalaf. Organised by Busan Metropolitan City + Busan Biennale Organizing Committee.
-- **Official sources (reviewed Aug 18):** [busanbiennale.org](https://busanbiennale.org) *(site returned a service error at review on Aug 18 — likely temporary; dates below are corroborated elsewhere)* · [Busan Ilbo, Feb 25, 2026 — official schedule announcement](https://mobile.busan.com/view/busan/view.php?code=2026022419184185184) (Aug 29–Nov 1, 65 days, theme, co-directors) · committee's own [Instagram announcement](https://www.instagram.com/busanbiennale/) (2026. 8. 29. – 11. 1.)
+- **Scale:** Final lineup (announced May 27, 2026): **47 artists / 44 teams from 23 countries**; co-directed by Evelyn Simons and Amal Khalaf. Organised by Busan Metropolitan City + Busan Biennale Organizing Committee.
+- **Official sources (reviewed Aug 18):** [busanbiennale.org](https://busanbiennale.org) *(site returned a service error at review on Aug 18 — likely temporary; dates below are corroborated elsewhere)* · [Yonhap, May 27, 2026 — final lineup and dates](https://www.yna.co.kr/view/AKR20260527107400051) (Aug 29–Nov 1, 65 days, 47 artists, 23 countries) · [Busan Ilbo, Feb 25, 2026 — official schedule announcement](https://mobile.busan.com/view/busan/view.php?code=2026022419184185184) · committee's own [Instagram announcement](https://www.instagram.com/busanbiennale/) (2026. 8. 29. – 11. 1.)
 
 ### 4) 🕯️ **Turn Toward Busan** — ✅ ANNUAL CEREMONY — Wed Nov 11, 2026, 11:00
 - **What:** One-minute silence for UN Korean War dead at the UN Memorial Cemetery, observed worldwide at 11:00 KST every Nov 11. The cemetery itself is a verified place (entry #20).
@@ -44,9 +44,9 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 ### 6) 🏐 **V-League — Busan OK Savings Bank** — ✅ SEASON CONFIRMED; FIXTURES LATER
 - **What:** Men’s professional volleyball — **OK Savings Bank Eutman (읏맨)**. ⚠️ **CORRECTION: they do NOT play at Sajik.** The club moved from Ansan to Busan for the 2025–26 season and its home court is the **Gangseo Sports Park Indoor Gymnasium (강서체육공원 실내체육관)** in Gangseo-gu — the far west of the city, not the Sajik sports complex.
 - **Getting there:** **Busan Metro Line 3 to Sports Park (체육공원) station**, connected at basement level. This is a long ride from Haeundae/Centum — budget 50–70 minutes from the BEXCO area.
-- **When:** KOVO confirmed the **2026–27 regular season as Oct 31, 2026 – Apr 2, 2027**, so the league is live for your entire trip. Round-by-round fixtures come from KOVO — don’t assume a start time.
+- **When:** KOVO confirmed the **2026–27 regular season as Oct 31, 2026 – Apr 2, 2027**, so the league is live for your entire trip. **Update (Aug 18): KOVO published the full round-by-round fixture list on Aug 18, 2026** — the November home dates at Gangseo now exist. Pull them from the KOVO schedule page; don't assume a start time (V-League games are typically 14:00/16:00 weekends, 19:00 weekdays).
 - **⚠️ Book ahead, this is not a walk-up.** The move to Busan was a hit: OK Savings Bank **sold out every weekend home game** of its first Busan season and was the only club in either V-League division averaging over 3,000 spectators. If a home date falls in your window, buy online rather than turning up at the box office.
-- **Official sources (reviewed Aug 18):** [kovo.co.kr](https://www.kovo.co.kr) · [club home-ground page](https://www.okfinancialsports.com/m/volley/club/home_ground.asp) · [Busan City — Gangseo Sports Park access](https://www.busan.go.kr/stadium/sfplacegs) · [Yonhap — sell-out first Busan season](https://www.yna.co.kr/view/AKR20260315018500007)
+- **Official sources (reviewed Aug 18):** [kovo.co.kr](https://www.kovo.co.kr) — full 2026–27 fixture list published Aug 18, 2026 (release reported by [Edaily](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632)) · [club home-ground page](https://www.okfinancialsports.com/m/volley/club/home_ground.asp) · [Busan City — Gangseo Sports Park access](https://www.busan.go.kr/stadium/sfplacegs) · [Yonhap — sell-out first Busan season](https://www.yna.co.kr/view/AKR20260315018500007)
 
 ### 7) 🏀 **KBL — Busan KCC Egis / WKBL — BNK Sum** — ✅ SEASON CONFIRMED — league running all trip
 - **What:** Men’s (KCC Egis) and women’s (BNK Sum) basketball at **Sajik Indoor Gymnasium**.
@@ -300,6 +300,13 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 - **Status:** No November 2026 programme was published at review — check the [official performance calendar](https://busan.gugak.go.kr) in October and book a dated show.
 - **Official sources (reviewed Aug 18):** [busan.gugak.go.kr](http://busan.gugak.go.kr) · [Visit Busan — Gugak Experience Hall listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=2067&lang_cd=ko) (hours, closure) · [KTO accessibility listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=45cd05e4-ec2e-496e-ab4b-5f89b8f6a2bf)
 
+### 51) 🎻 **Busan Concert Hall (부산콘서트홀)** — 🔎 VERIFIED VENUE · NEW
+- **What:** Busan's **first dedicated classical concert hall**, opened **June 2025** on the edge of Busan Citizens Park (#46) — a 2,000-seat vineyard-style hall with a pipe organ, run by **Classic Busan**, a Busan Metropolitan City agency (which will also run the future Busan Opera House). Over 120,000 visitors in its first year; the 2026 season has brought the Vienna Philharmonic (Oct 26), Cho Seong-jin, Lim Yunchan and other headline classical acts.
+- **November programme:** the hall runs concerts through your window — ticketing aggregators list a **Tchaikovsky programme on Fri Nov 6** and a matinee opera-talk series later in the month — but **book only from a dated listing on the official schedule page**, which is the authoritative calendar.
+- **💡 The Busan Philharmonic plays here too:** the city orchestra's numbered subscription concerts (part of the municipal arts companies under the Busan Cultural Center) are staged at the Concert Hall and **booked through the hall's site, ₩10,000–30,000** — check the November subscription date on the schedule page.
+- **Getting there:** Bujeon-dong side of Citizens Park (동평로 250, Busanjin-gu) — pairs with the park (#46) and the National Gugak Center (#50). ☎ 051-640-8888.
+- **Official sources (reviewed Aug 18):** [Classic Busan — Busan Concert Hall official site & schedule](https://classicbusan.busan.go.kr/Home/ko/Main) · [Busan Ilbo — 2026 season lineup announcement, Feb 10, 2026](https://www.busan.com/view/busan/view.php?code=2026021017543227142) · [Busan Philharmonic subscription series (Busan Cultural Center)](https://www.bscc.or.kr/04_art/?mcode=0404011800) · [BPO concert booked via Concert Hall site, ₩10,000–30,000 — Viva100, Jan 2026](https://www.viva100.com/article/20260120500845)
+
 ---
 
 ## Removed during this verification pass
@@ -318,7 +325,7 @@ Re-check Visit Busan, busanfireworks.com, gstar.or.kr, kleague.com, and kovo.co.
 
 - BIFF — Oct 6–15, 2026 (Cinema Center is still worth visiting)
 - Busan International Rock Festival — early October
-- Haeundae Light Festival — typically late November into January; 2026 start TBA
+- Haeundae Light Festival — starts just after departure on recent form: the 12th edition ran **Nov 29, 2025 – Jan 18, 2026** (18:00–23:00, Gunam-ro + beach; [MCST festival registry](https://mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=12038)); 2026–27 start TBA
 - Gwangbok-ro Christmas Tree Festival — December
 
 ---

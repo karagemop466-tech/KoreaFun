@@ -177,6 +177,12 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 - **Access/price:** Registration and app/payment requirements apply; not all paths are tourist-friendly.
 - **Official source (reviewed Aug 17):** [Nubija](https://www.nubija.com/)
 
+### 30) 🌼 **Masan Gagopa Chrysanthemum Festival (마산가고파국화축제)** — ⏳ 2026 DATES TBA — recent years land exactly in your window · NEW
+- **What:** **Korea's biggest autumn flower festival**, held on the Masan waterfront since 2000 — Changwon (old Masan) is where commercial chrysanthemum growing in Korea began. Around **125,000 chrysanthemums** built into towers, arches and the record-setting 다륜대작 "thousand-bloom" plants, across **3.15 Marine Nuri Park (main site)** and **Happo Waterfront Park**, with night lighting, a drone show, fireworks and food streets backing onto the Masan fish market.
+- **⏳ 2026 dates were not announced at review**, but the pattern is remarkably stable and sits in your window: **25th edition Nov 1–9, 2025** (09:00–22:00, free, 700-drone opening show); **24th edition Oct 26–Nov 3, 2024**. If 2026 follows form, the festival overlaps your first trip week — check the Changwon city festival page in September/October.
+- **Getting there:** 3.15 Marine Nuri Park is on the Masan Happo waterfront — pairs with Masan fish market and the Robot Land coast (#28).
+- **Official sources (reviewed Aug 18):** [Changwon City](https://www.changwon.go.kr/) — city-hosted festival; 2025 dates/programme via [Gyeongnam Domin Ilbo, Oct 30, 2025](https://www.idomin.com/news/articleView.html?idxno=949146) (Nov 1–9, both sites, drone show, 22:00 close) · [Yonhap — 2024 edition](https://www.yna.co.kr/view/AKR20240819063500052) (Oct 26–Nov 3, 125,000 blooms)
+
 ---
 
 ## Removed during this verification pass
