@@ -1312,3 +1312,50 @@ Full place/price/hours pass on the three files the user selected after Daejeon. 
 - XR버스 1795행 — free Wed–Sun at Yeonmudae; interesting but not added this pass (one expansion each).
 
 Counts: 590 → **593**.
+
+---
+
+## Pass 37 — 2026-08-18: Jeonju → Gyeongju → Ulsan, then Pohang / Changwon / Yeosu
+
+Full official-source line-by-line pass on the remaining six nearby-city files, same protocol as Pass 36. Dated headlines re-fetched against organizer/operator pages. One sourced Jeonju expansion. Honest zero-add for the other five.
+
+### Re-verified exact
+- Visit Jeonju 전통연희 퍼레이드 `facSid=RE_0001033`: **2026.04.18–10.31**, Saturdays **15:00 (60 min)**, Namcheongyo→Gyeonggijeon. Final show = trip day 1.
+- Visit Jeonju 별빛누빔 `facSid=RE_0001040`: Jun–Nov Fridays; Sep–Nov **19:30 / 20:30**; **₩10,000**; TicketLink; rain call by 12:00. Jul 10–Aug 28 heat-wave shutdown.
+- Visit Jeonju 대사습청 토요상설 `facSid=RE_0000882`: posted list includes **Oct 31 안명주 16:00 ₩10,000**. **Nov 7 / 14 / 21 are not listed.** Next date **Nov 28** (after departure).
+- 어진박물관 관람안내: winter **Nov–Feb 09:00–18:00**, last entry 1 hour before; **₩3,000/2,000/1,000**; museum included; closed only Jan 1. Page still prints stale last-Wednesday Culture Day.
+- 어진박물관 공지: **경기전 정전 단청공사 2026.3.26.~2026.12.17.** (end may extend). **내신문 안쪽 정전 구역 진입 불가.** Rest of precinct + museum open; no hoarding.
+- Jeonju NM Seogosa nahan: **2026.09.16~2026.11.29**, 기획전시실, 가제. Unchanged.
+- AI special 《엣헴, 임금님 나가신다》 May 27–**Oct 30, 2026** — ends the day before the trip. **Not added.**
+- Sori Arts Center November calendar still unpublished (JS shell). jeonju #37 stays ⏳.
+- Jeonju World Sori Festival 2026 is **Aug 12–16** (before trip).
+- Gyeongju NM specials page: Wolseong stele **2026-04-13 ~ 2026-12-31**; Hwangnyongsa **to Oct 11**; Guimet **to Aug 31**; Saturday night opening **Mar–Oct Saturdays only**.
+- garts.kr current exhibitions: 《THE 경주;경주연대기》 **2025-12-02 ~ 2026-12-31** Gallery Space I 4F; 공유 **2026-03-24 ~ 2026-12-13** Gallery Dal B1, 10:00–18:00 free. 한수원아트페스티벌 special **Jun 30–Oct 18** — already closed.
+- Ulsan Art Museum dataId=56197: 《국민화가 이중섭(가제)》 **2026.10.15.–2027.1.17.**, Gallery 2, ~100 works, ₩1,000/₩500. Julian Opie XR **Jul 2–Oct 5** — already closed. No second in-window exhibition.
+- Ulsan Philharmonic Nov 13: ucac ticket-open notice May 28 still listed. Kept; not re-extracted from a live calendar grid (client-rendered).
+- Pohang foundation overview tab: **2026. 11. 14(토) ~ 11. 22(일)**; **11.21(토) 국제불꽃쇼 예정**; 영일대해수욕장 일원, 해안로 173. VisitKorea KFES still **Nov 20–22** with 2025 copy flag.
+- Changwon CWCF p_idx=9003: Maria Kim **2026-11-17(화) 11:00**, 성산아트홀 소극장, 60 min, 7+, **전석 ₩20,000**, sales close Nov 16 17:00. 창극 살로메 is **Sep 12**; 오즈의 의류 수거함 is **Aug 27–28** — both before the trip.
+- Yeosu Expo homepage + `/content/4_1`: **2026. 9. 5.–11. 4., 휴장일 10.6.(화)**; main 10:00–21:00 / ticket office 09:30–20:00 / last entry 20:00; sub-venues 10:00–18:00; ₩15,000/9,000/6,000; group 12/8/5k; concession 8/5/3k; family ₩32,000.
+
+### Corrections
+- **Gyeonggijeon 정전 is closed Mar 26–Dec 17** — the previous #6 block had hours/fares but no construction warning. Starlight Walk no longer promises a walk through the Taejo portrait hall.
+- **Starlight Walk official 2026 fare is ₩10,000 on TicketLink.** Earlier draft used past-edition 50-person / half-onsite language and omitted the fare.
+- **Daesaseupcheong November in-window Saturdays are not scheduled.** The previous “November dates unposted / likely” wording overstated the series. Official list: Oct 31 yes, Nov 7/14/21 no, Nov 28 after departure.
+- Operator Culture Day line on the 어진박물관 visitor page is still “매월 마지막주 수요일”; national weekly rule wins, discrepancy documented.
+
+### Added
+| File | # | Entry | Dates | Source |
+|---|---|---|---|---|
+| jeonju.md | 38 | Musical 《조선 셰프 한상궁》 | Visit Jeonju index **Aug 28–Nov 13**; days/times/price unpublished on the detail page | tour.jeonju.go.kr `facSid=RE_0001066` |
+
+### Checked and not added
+- 어진박물관 AI show — ends Oct 30.
+- 왕과의 산책 — ends Oct 24.
+- 별향단젼이라 — ends Oct 17.
+- HIPːPAN / 시간의 골목 — official listings exist but no usable in-window dates on the detail pages.
+- Gyeongju KHNP special — ended Oct 18.
+- Ulsan Julian Opie — ended Oct 5. January 2026 “65년 한국산업을 이끈 울산” plan article has no live exhibition page.
+- Changwon 살로메 / 오즈 — September / late August.
+- Pohang / Yeosu — already have their dated anchors; no new official November headline.
+
+Counts: 593 → **594**.

@@ -185,7 +185,7 @@ This file was rebuilt on **August 17, 2026** from official city, venue/operator,
 - **When:** **Thu Oct 15, 2026 – Sun Jan 17, 2027** — open your entire trip. Gallery 2.
 - **Price:** **₩1,000 adults** (₩500 Ulsan residents); free for children, teens, and seniors. One of the best-value major exhibitions in the country.
 - **Note:** The museum lists the title as provisional (가제), so the final English wording may differ slightly. Dates and venue are firm.
-- **Official source (reviewed Aug 17):** [Ulsan Art Museum exhibition page](https://www.ulsan.go.kr/s/uam/bbs/view.ulsan?mId=001003001000000000&bbsId=BBS_0000000000000174&dataId=56197)
+- **Official source (reviewed Aug 18):** [Ulsan Art Museum exhibition page](https://www.ulsan.go.kr/s/uam/bbs/view.ulsan?mId=001003001000000000&bbsId=BBS_0000000000000174&dataId=56197) — 《국민화가 이중섭(가제)》 **2026.10.15.(목)–2027.1.17.(일)**, Gallery 2, ~100 works, ₩1,000 adult / ₩500 Ulsan residents / free child-teen-senior. Co-hosted with MMCA. The Julian Opie XR project ran **Jul 2–Oct 5** and is **already closed** — no second in-window exhibition was posted.
 
 ### 31) 🎻 **Ulsan Philharmonic 254th Subscription Concert — "Light of the Classical and the Romantic"** — ✅ CONFIRMED — Fri Nov 13, 2026 · NEW
 - **What:** The city orchestra's 254th regular subscription concert, programmed around classical and romantic repertoire. A cheap, low-friction evening if you're in Ulsan mid-trip — no Korean needed to enjoy it.

@@ -13240,12 +13240,23 @@
   "text": "- **What:** Jazz pianist **Maria Kim** and her Jazz Collective — the November edition of the foundation's *Morning Concert* series. A late-morning concert is an unusual and rather civilised way to start a day in Changwon.",
   "verdict": "verified"
  },
+ "changwon-jinhae.md#2:534fc052a0": {
+  "checked_on": null,
+  "entry": 2,
+  "file": "changwon-jinhae.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Changwon Cultural Foundation — 2026모닝콘서트 11월 마리아킴「재즈콜렉티브」](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=9003) — **2026-11-17(화) 11:00**, 성산아트홀 소극장, 60 min, ages 7+, **전석 ₩20,000**, online sales close **Mon Nov 16 17:00**",
+  "verdict": "unchecked"
+ },
  "changwon-jinhae.md#2:6396eacbb7": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "changwon-jinhae.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -28981,6 +28992,7 @@
   "file": "gyeongju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -29072,6 +29084,16 @@
   "retired": true,
   "sources": [],
   "text": "- **Hours/price:** **10:00–18:00, last entry 17:30. Free** — MUTATED confirmed on the foundation's current-exhibition listing.",
+  "verdict": "unchecked"
+ },
+ "gyeongju.md#1:9bf193d38a": {
+  "checked_on": null,
+  "entry": 1,
+  "file": "gyeongju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260) — 《THE 경주;경주연대기》 **2025-12-02 ~ 2026-12-31**, Gallery Space I 4F, 10:00–18:00 last entry 17:30, free",
   "verdict": "unchecked"
  },
  "gyeongju.md#1:e2d745a255": {
@@ -30068,6 +30090,7 @@
   "file": "gyeongju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -30193,6 +30216,16 @@
   ],
   "text": "- **When:** Foundation program runs **Mar 24–Dec 13, 2026**; check the listing for the specific artist installed during your visit. (As an example of the rhythm, the August slot was 양윤정 《낙원-정원》, Aug 11–23.)",
   "verdict": "verified"
+ },
+ "gyeongju.md#2:63c65ed968": {
+  "checked_on": null,
+  "entry": 2,
+  "file": "gyeongju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260) — 공유 **2026-03-24 ~ 2026-12-13**, Gallery Dal B1, 10:00–18:00, free. The ticketed 한수원아트페스티벌 special in Gallery Hae ran **Jun 30–Oct 18, 2026** and is **already closed**.",
+  "verdict": "unchecked"
  },
  "gyeongju.md#2:8ebe072dcb": {
   "checked_on": "2026-08-18",
@@ -38466,12 +38499,23 @@
   "text": "- **What:** Street-theater parade incorporating Jeonju Gijeopnori flag performance, traditional outdoor theater, and audience interaction.",
   "verdict": "prose"
  },
+ "jeonju.md#1:a2e9ec8ecd": {
+  "checked_on": null,
+  "entry": 1,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Visit Jeonju — 2026 한옥마을 전통연희 퍼레이드](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001033) (2026.04.18–10.31, Saturdays 15:00, 60 min, Namcheongyo→Gyeonggijeon)",
+  "verdict": "unchecked"
+ },
  "jeonju.md#1:dbce8a4043": {
   "checked_on": "2026-08-18",
   "entry": 1,
   "file": "jeonju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -39584,6 +39628,16 @@
   "text": "- **Official source (reviewed Aug 17):** [Visit Jeonju attractions](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000201005002000)",
   "verdict": "verified"
  },
+ "jeonju.md#2:06a2e7941c": {
+  "checked_on": null,
+  "entry": 2,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **⚠️ The inner 정전 is closed for restoration (see #6).** The 2026 official page describes a precinct walk/performance/experience course — it does **not** promise a walk through the Taejo portrait hall. Do not plan on entering the closed inner shrine.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#2:1408bf0f0f": {
   "checked_on": "2026-08-18",
   "entry": 2,
@@ -39628,12 +39682,33 @@
   "text": "- **Getting there:** No dedicated car park — use the Hanok Village public lot or Nambu Market, both a 5–10 min walk.",
   "verdict": "verified"
  },
+ "jeonju.md#2:3cf9dcafd1": {
+  "checked_on": null,
+  "entry": 2,
+  "file": "jeonju.md",
+  "kind": "PRICE",
+  "note": "",
+  "sources": [],
+  "text": "- **Price/booking:** **₩10,000 per person**, booked on **TicketLink**. Day-of cancellation after 17:00 is not allowed. Rain call is made by **12:00** on the day; postponed dates are refunded. Enquiry **063-255-5853** (weekdays 10:00–18:00).",
+  "verdict": "unchecked"
+ },
+ "jeonju.md#2:59c07296b2": {
+  "checked_on": null,
+  "entry": 2,
+  "file": "jeonju.md",
+  "kind": "TIME",
+  "note": "",
+  "sources": [],
+  "text": "- **When:** Official 2026 listing: **June–November, Friday nights only**. **September–November entry sessions are 19:30 and 20:30.** Trip-window Fridays: **Nov 6, 13 and 20**. (Jun–Jul ran 20:30/21:30; **Jul 10–Aug 28 was a heat-wave shutdown**.)",
+  "verdict": "unchecked"
+ },
  "jeonju.md#2:690b440ef6": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "jeonju.md",
   "kind": "ACCESS",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -39672,12 +39747,23 @@
   "text": "- **Price/booking:** Sessions are capped at roughly **50 people each**. In past editions **half the tickets sold via TicketLink in advance and half were sold on-site at the Gyeonggijeon main gate from about an hour before** — so a walk-up is possible but not safe. Content is a lit-up course through the shrine grounds (Taejo portrait hall, pine path, the Jeondong Cathedral wall view) ending with a fusion-gugak performance.",
   "verdict": "verified"
  },
+ "jeonju.md#2:8b6b8210d5": {
+  "checked_on": null,
+  "entry": 2,
+  "file": "jeonju.md",
+  "kind": "PROSE",
+  "note": "",
+  "sources": [],
+  "text": "- **What:** Friday-night cultural program inside Gyeonggijeon — a themed walk with performance and experience stops after daytime hours.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#2:cb2b0e3e10": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "jeonju.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -39722,6 +39808,7 @@
   "file": "jeonju.md",
   "kind": "PROSE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -39760,12 +39847,23 @@
   "text": "- **What:** Timed evening cultural program inside Gyeonggijeon, presenting the shrine after normal daytime hours.",
   "verdict": "prose"
  },
+ "jeonju.md#2:e66d317fed": {
+  "checked_on": null,
+  "entry": 2,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Visit Jeonju — 경기전 별빛누빔](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001040) (Jun–Nov Fridays; Sep–Nov 19:30 / 20:30; ₩10,000; TicketLink)",
+  "verdict": "unchecked"
+ },
  "jeonju.md#2:f471b2bb6d": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "jeonju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -40455,12 +40553,53 @@
   "text": "- **What:** The province's flagship arts complex in Deokjin-gu (opened 2001) — the Moak Hall main stage, Yeonji Hall concert hall and outdoor stages. It hosts the Jeonju World Sori Festival each summer and is the home stage of the **Jeonju Symphony Orchestra**, whose numbered subscription series runs through the year (the 276th subscription concert played Yeonji Hall in January 2026).",
   "verdict": "verified"
  },
+ "jeonju.md#38:3ce2c10ad4": {
+  "checked_on": null,
+  "entry": 38,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **What:** 2026 전통예술지역브랜드 standing musical about Jeonju bibimbap, staged at the **전주대사습청 outdoor stage** (한지길 56). Hosted by Jeonbuk / Jeonju City; run by the provincial culture-tourism foundation and Run Five.",
+  "verdict": "unchecked"
+ },
+ "jeonju.md#38:74f5e53449": {
+  "checked_on": null,
+  "entry": 38,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **When:** Visit Jeonju's official events index lists the run as **Fri Aug 28 – Fri Nov 13, 2026** — that covers the first two weeks of the trip. **The detail page does not yet publish days of week, start time, or ticket price.** Treat it as a named overlapping series, not a locked nightly show; pull the specific date from the Daesaseupcheong / Visit Jeonju listing before planning an evening around it.",
+  "verdict": "unchecked"
+ },
+ "jeonju.md#38:7651c825a8": {
+  "checked_on": null,
+  "entry": 38,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Visit Jeonju — 《조선셰프 한상궁》](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001066) · date range on the official events index: 2026-08-28 ~ 2026-11-13",
+  "verdict": "unchecked"
+ },
+ "jeonju.md#3:1879ebbb96": {
+  "checked_on": null,
+  "entry": 3,
+  "file": "jeonju.md",
+  "kind": "PRICE",
+  "note": "",
+  "sources": [],
+  "text": "- **When (official 2026 list):** Individual Saturday dates are posted. **The only trip-window date is Sat Oct 31 — 안명주, 16:00, ₩10,000.** November Saturdays **Nov 7, 14 and 21 are not on the list.** The next posted date is **Sat Nov 28 (연풍예술단)** — after you leave.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#3:2c97449eed": {
   "checked_on": "2026-08-18",
   "entry": 3,
   "file": "jeonju.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -40505,6 +40644,7 @@
   "file": "jeonju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -40543,12 +40683,33 @@
   "text": "- **Official sources (reviewed Aug 17):** [Hanok Village program calendar](https://hanok.jeonju.go.kr/) · [Visit Jeonju event calendar](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000202002000000)",
   "verdict": "verified"
  },
+ "jeonju.md#3:8bf4f380b9": {
+  "checked_on": null,
+  "entry": 3,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Visit Jeonju — 2026 전주대사습청 토요상설공연](https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0000882)",
+  "verdict": "unchecked"
+ },
+ "jeonju.md#3:8f442fd531": {
+  "checked_on": null,
+  "entry": 3,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Hours/price:** November-season start time is **16:00**. Tickets **₩10,000**. Book via [jjdssch.or.kr](https://jjdssch.or.kr/) or 063-288-0771.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#3:9a77d31af4": {
   "checked_on": "2026-08-18",
   "entry": 3,
   "file": "jeonju.md",
   "kind": "PROSE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -40593,6 +40754,7 @@
   "file": "jeonju.md",
   "kind": "ACCESS",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -40630,6 +40792,16 @@
   ],
   "text": "- **Price:** Program-specific. The comparable Gyeonggijeon Saturday performance is free, though Gyeonggijeon admission is charged separately.",
   "verdict": "verified"
+ },
+ "jeonju.md#3:c8eb381c24": {
+  "checked_on": null,
+  "entry": 3,
+  "file": "jeonju.md",
+  "kind": "ACCESS",
+  "note": "",
+  "sources": [],
+  "text": "- **What:** Recurring Saturday traditional-arts series (pansori, dance, gugak) at the **전주대사습청 outdoor stage**.",
+  "verdict": "unchecked"
  },
  "jeonju.md#4:0605ccb0a2": {
   "checked_on": "2026-08-18",
@@ -40674,6 +40846,16 @@
   ],
   "text": "- **Note:** The museum lists the title as provisional (가제), so the final English title may be worded differently.",
   "verdict": "verified"
+ },
+ "jeonju.md#4:0c9fffbb3f": {
+  "checked_on": null,
+  "entry": 4,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Jeonju National Museum exhibition page](https://jeonju.museum.go.kr/special.es?mid=a10201010000&seq=1711&act=view) (2026.09.16~2026.11.29, 기획전시실, 가제) · [NMK branch listing](https://www.museum.go.kr/MUSEUM/contents/M0207000000.do?museum=JEONJU)",
+  "verdict": "unchecked"
  },
  "jeonju.md#4:48d78eba9b": {
   "checked_on": "2026-08-18",
@@ -40725,6 +40907,7 @@
   "file": "jeonju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -40941,12 +41124,23 @@
   "text": "- **Official source (reviewed Aug 17):** [Jeonju Hanok Village](https://hanok.jeonju.go.kr/)",
   "verdict": "verified"
  },
+ "jeonju.md#6:146428f399": {
+  "checked_on": null,
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [어진박물관 관람안내 — hours, last-entry rule, fare table](https://jeonju.go.kr/eojinmuseum/index.9is?contentUid=9be517a78020a96201827be8a13d2860) · [정전 단청공사 관람 안내 (2026.3.26.~공사 종료 시까지)](https://www.jeonju.go.kr/eojinmuseum/planweb/board/view.9is?boardUid=9be517a78020a9620182a44463067f48&contentUid=9be517a78020a96201827bebe0d52920&dataUid=9be517a89a2f1137019d1d8c2019416f)",
+  "verdict": "unchecked"
+ },
  "jeonju.md#6:1fdc836033": {
   "checked_on": "2026-08-18",
   "entry": 6,
   "file": "jeonju.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -40985,12 +41179,23 @@
   "text": "- **Official sources (reviewed Aug 18):** [Jeonju Royal Portrait Museum — seasonal hours and Gyeonggijeon admission](https://jeonju.go.kr/eojinmuseum/index.9is) · [Jeonbuk Tourism — fare table](https://tour.jb.go.kr/travel/info/view.do?menuCd=DOM_000000103007003000&contentsSid=32&category_top_id=a&ctnt_id=20552)",
   "verdict": "verified"
  },
+ "jeonju.md#6:379dfefbfa": {
+  "checked_on": null,
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **⚠️ 정전 (main shrine hall) is closed for dancheong restoration through the whole trip.** Operator notice: **Thu Mar 26 – Thu Dec 17, 2026** (end date may be extended). **You cannot enter the inner 정전 zone past the Naesinmun gate.** The rest of the precinct and the Royal Portrait Museum stay open; there is **no hoarding**, so the restoration work on the national-heritage hall is visible. Do not plan on walking into the portrait hall itself.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#6:4e21f104ea": {
   "checked_on": "2026-08-18",
   "entry": 6,
   "file": "jeonju.md",
   "kind": "DATE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -41035,6 +41240,7 @@
   "file": "jeonju.md",
   "kind": "PRICE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -41131,6 +41337,16 @@
   "text": "- **Open year-round**, including Mondays — unlike most of the Hanok Village's museums.",
   "verdict": "verified"
  },
+ "jeonju.md#6:90ee906514": {
+  "checked_on": null,
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "PRICE",
+  "note": "",
+  "sources": [],
+  "text": "- **Price:** **₩3,000 adult / ₩2,000 youth and military / ₩1,000 child.** Groups of 20+: ₩2,500 / ₩1,500 / ₩500. **The ticket includes the Royal Portrait Museum (어진박물관)** — it is not a separate charge. Allow **1–1.5 hrs** for both.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#6:9df1909a7c": {
   "checked_on": "2026-08-18",
   "entry": 6,
@@ -41186,6 +41402,16 @@
   "text": "- **Official source (reviewed Aug 17):** [Visit Jeonju guide](https://tour.jeonju.go.kr/eng/board/view.jeonju?boardId=BBS_0000025&menuCd=DOM_000000209001000000&paging=ok&startPage=2&dataSid=12484)",
   "verdict": "unchecked"
  },
+ "jeonju.md#6:bbb988a809": {
+  "checked_on": null,
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "TIME",
+  "note": "",
+  "sources": [],
+  "text": "- **Hours:** **Winter (Nov–Feb) 09:00–18:00 — last entry 17:00, one hour before closing.** Shoulder season (Mar–May, Sep–Oct) 09:00–19:00; Jun–Aug 09:00–20:00. Closed only **Jan 1**.",
+  "verdict": "unchecked"
+ },
  "jeonju.md#6:c97fbb725a": {
   "checked_on": null,
   "entry": 6,
@@ -41203,6 +41429,7 @@
   "file": "jeonju.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -41247,6 +41474,7 @@
   "file": "jeonju.md",
   "kind": "PRICE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -41284,6 +41512,16 @@
   ],
   "text": "- **✅ The ticket includes the Royal Portrait Museum (어진박물관)** — it is not a separate charge, so the ₩3,000 covers both the shrine precinct and the museum holding the Taejo portrait. Allow **1–1.5 hrs** for both.",
   "verdict": "verified"
+ },
+ "jeonju.md#6:e2a7947104": {
+  "checked_on": null,
+  "entry": 6,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "",
+  "sources": [],
+  "text": "- **✅ Free on \"Culture Day\" — which since April 2026 is EVERY Wednesday, not just the last one.** That puts **Wed Nov 4, 11 and 18** in play. *(The operator visitor page still prints the stale “매월 마지막주 수요일” rule.)* Confirm at the gate before relying on it. Fourth Saturday of the month is Jeonju Hanbok Day (50% off if wearing hanbok).",
+  "verdict": "unchecked"
  },
  "jeonju.md#7:45235a4e29": {
   "checked_on": "2026-08-18",
@@ -50052,12 +50290,23 @@
   "text": "- **⚠️ Date discrepancy (re-checked Aug 18):** the foundation's own festival page still gives **Nov 14–22** with the international show **Sat Nov 21** (marked 예정), while VisitKorea's 2026 festival listing now carries **Nov 20–22** with a full programme (international fireworks teams from Korea, Canada and Italy; drone light show; 14:00–22:00; free). Read that as: **Nov 20–22 are the certain core days and Nov 21 is fireworks night**; the Nov 14–19 stretch may be lighter lead-in programming. Re-check both pages in late October.",
   "verdict": "corrected"
  },
+ "pohang.md#29:56ed203ed8": {
+  "checked_on": null,
+  "entry": 29,
+  "file": "pohang.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [2026 festival overview — Pohang Cultural Foundation](https://phcf.or.kr/phcf/festival_detail/view.do?festivalId=FST_LIGHT_2026_001&tab=overview) (**2026. 11. 14(토) ~ 11. 22(일)**; **11.21(토) 국제불꽃쇼 예정**; 영일대해수욕장 일원, 해안로 173) · [festival sub-site](https://phcf.or.kr/phcf/festival/submain.do?festival_id=FST_LIGHT_2026_001) · [VisitKorea festival page](https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8) (still **Nov 20–22**, copy flagged as 2025)",
+  "verdict": "unchecked"
+ },
  "pohang.md#29:5ea6afc90b": {
   "checked_on": "2026-08-18",
   "entry": 29,
   "file": "pohang.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -74305,6 +74554,7 @@
   "file": "ulsan.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -74518,6 +74768,16 @@
   ],
   "text": "- **Price:** **₩1,000 adults** (₩500 Ulsan residents); free for children, teens, and seniors. One of the best-value major exhibitions in the country.",
   "verdict": "verified"
+ },
+ "ulsan.md#30:f0d9efdb00": {
+  "checked_on": null,
+  "entry": 30,
+  "file": "ulsan.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official source (reviewed Aug 18):** [Ulsan Art Museum exhibition page](https://www.ulsan.go.kr/s/uam/bbs/view.ulsan?mId=001003001000000000&bbsId=BBS_0000000000000174&dataId=56197) — 《국민화가 이중섭(가제)》 **2026.10.15.(목)–2027.1.17.(일)**, Gallery 2, ~100 works, ₩1,000 adult / ₩500 Ulsan residents / free child-teen-senior. Co-hosted with MMCA. The Julian Opie XR project ran **Jul 2–Oct 5** and is **already closed** — no second in-window exhibition was posted.",
+  "verdict": "unchecked"
  },
  "ulsan.md#31:0050dd092b": {
   "checked_on": "2026-08-18",
@@ -77515,6 +77775,16 @@
   "text": "- **Official source (reviewed Aug 17):** [Yeosu Tourism — beaches directory](https://www.yeosu.go.kr/tour/travel/island_beach)",
   "verdict": "verified"
  },
+ "yeosu.md#1:081d2c2e59": {
+  "checked_on": null,
+  "entry": 1,
+  "file": "yeosu.md",
+  "kind": "TIME",
+  "note": "",
+  "sources": [],
+  "text": "- **Hours (official, Aug 18):** Main venue **10:00–21:00** daily; ticket office 09:30–20:00; **last entry 20:00**. Sub-venues (개도, 금오도, the 2012 Expo site) **10:00–18:00**. The one closed day was **Oct 6**, well before the trip.",
+  "verdict": "unchecked"
+ },
  "yeosu.md#1:0a7c3cd21a": {
   "checked_on": "2026-08-18",
   "entry": 1,
@@ -77565,6 +77835,7 @@
   "file": "yeosu.md",
   "kind": "PRICE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -77647,6 +77918,16 @@
   "text": "- **When:** **Sep 5–Nov 4, 2026**. The trip catches only Oct 31–Nov 4, so this is time-critical.",
   "verdict": "verified"
  },
+ "yeosu.md#1:687b612edc": {
+  "checked_on": null,
+  "entry": 1,
+  "file": "yeosu.md",
+  "kind": "PRICE",
+  "note": "",
+  "sources": [],
+  "text": "- **Price (official, Aug 18):** Standard **₩15,000 adult / ₩9,000 youth / ₩6,000 child**. Group ₩12,000 / ₩8,000 / ₩5,000. Concession ₩8,000 / ₩5,000 / ₩3,000. **Family ticket ₩32,000.**",
+  "verdict": "unchecked"
+ },
  "yeosu.md#1:7f39473433": {
   "checked_on": "2026-08-18",
   "entry": 1,
@@ -77697,6 +77978,7 @@
   "file": "yeosu.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -77734,6 +78016,16 @@
   ],
   "text": "- **Official sources (reviewed Aug 17):** [organizing committee](https://yeosu2026.or.kr) · [operating hours + full price table](https://yeosu2026.or.kr/content/4_1) · [tickets](https://yeosu2026.or.kr/content/4_2) · [day-by-day programme schedule](https://yeosu2026.or.kr/expo_schedule) · [Yeosu City 2026 island-program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)",
   "verdict": "verified"
+ },
+ "yeosu.md#1:c373b45df7": {
+  "checked_on": null,
+  "entry": 1,
+  "file": "yeosu.md",
+  "kind": "SOURCE",
+  "note": "",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [organizing committee](https://yeosu2026.or.kr) (**2026. 9. 5.–11. 4., 휴장일 10.6.(화)**) · [operating hours + full price table](https://yeosu2026.or.kr/content/4_1) · [tickets](https://yeosu2026.or.kr/content/4_2) · [day-by-day programme schedule](https://yeosu2026.or.kr/expo_schedule) · [Yeosu City 2026 island-program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)",
+  "verdict": "unchecked"
  },
  "yeosu.md#1:c9c7b79349": {
   "checked_on": "2026-08-18",
@@ -77785,6 +78077,7 @@
   "file": "yeosu.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",

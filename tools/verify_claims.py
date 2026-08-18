@@ -121,6 +121,24 @@ CLAIMS = [
         ("incheon.md", r"SHOW_IDX=14129"),
         ("incheon.md", r"SHOW_IDX=14130"),
     ]),
+    ("Gyeonggijeon 정전 closed for restoration through Dec 17", [
+        ("jeonju.md", r"Thu Mar 26 – Thu Dec 17, 2026"),
+        ("jeonju.md", r"cannot enter the inner 정전"),
+        ("itinerary.md", r"Gyeonggijeon 정전 is closed Mar 26–Dec 17"),
+        ("README.md", r"Gyeonggijeon 정전 closed for restoration through Dec 17"),
+        ("events.csv", r"inner 정전 closed for restoration Mar 26-Dec 17"),
+    ]),
+    ("Starlight Walk official 2026 fare is W10,000 on TicketLink", [
+        ("jeonju.md", r"₩10,000 per person"),
+        ("jeonju.md", r"facSid=RE_0001040"),
+        ("events.csv", r"Gyeonggijeon Starlight Walk.*10000"),
+        ("jeonju.md", r"half the tickets sold via TicketLink", "absent"),
+    ]),
+    ("Daesaseupcheong only in-window date is Oct 31", [
+        ("jeonju.md", r"only trip-window date is Sat Oct 31"),
+        ("jeonju.md", r"Nov 7, 14 and 21 are not on the list"),
+        ("events.csv", r"Only trip-window date on the official 2026 list"),
+    ]),
 ]
 
 def check():

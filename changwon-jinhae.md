@@ -20,7 +20,7 @@ Changwon municipality includes the urban centers of Changwon, Jinhae, and Masan.
 - **What:** Jazz pianist **Maria Kim** and her Jazz Collective — the November edition of the foundation's *Morning Concert* series. A late-morning concert is an unusual and rather civilised way to start a day in Changwon.
 - **Where/when:** **Seongsan Art Hall Small Theater**, **Tue Nov 17, 2026 at 11:00**. Runs 60 minutes, no intermission. Ages 7+.
 - **Price:** **₩20,000 all seats.** Booking via the foundation, YES24 Ticket, or Naver; phone 055-268-7900. Online sales close **Mon Nov 16 at 17:00**.
-- **Official source (reviewed Aug 17):** [Changwon Cultural Foundation — November Morning Concert](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=9003)
+- **Official source (reviewed Aug 18):** [Changwon Cultural Foundation — 2026모닝콘서트 11월 마리아킴「재즈콜렉티브」](https://www.cwcf.or.kr/art_info/art_info_view.asp?p_idx=9003) — **2026-11-17(화) 11:00**, 성산아트홀 소극장, 60 min, ages 7+, **전석 ₩20,000**, online sales close **Mon Nov 16 17:00**
 
 ---
 
