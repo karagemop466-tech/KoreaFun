@@ -15,8 +15,8 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **Where:** **Daegu Culture & Arts Center Museum, Space Hive galleries 1–5** (미술관 스페이스 하이브 1~5전시실).
 - **When:** **Nov 3–Dec 27, 2026** — confirmed on the venue's own What's ON listing. Opens midway through your trip and runs long after, so any date from Nov 3 works.
 - **Hours/price:** Museum galleries are normally 10:00–18:00, **closed Mondays**. Confirm admission on the venue page.
-- **Also on at the same venue:** 《앤디 워홀: 예술을 팔다》 (Andy Warhol) is running with special docent tours — worth checking dates if you're making the trip.
-- **Official sources (reviewed Aug 18):** [Daegu Arts Center What's ON](https://www.daeguartscenter.or.kr/) (Nov 3–Dec 27, Space Hive rooms 1–5) · [Daegu City newsroom — season lineup announcement](https://news.daegu.go.kr/newshome/mtnmain.php?aid=275488&bpage=135&mkey=todaylist&mkey2=2&mtnkey=articleview&stext=) (5 young artists; Sambo Art Prize selected during the run)
+- **Also on at the same venue:** the big international show 《앤디 워홀: 예술을 팔다》 (Andy Warhol: The Business of Art) ran **Jul 3–Oct 25, 2026** — it **closes before your trip**, so don't build a visit around it.
+- **Official sources (reviewed Aug 18):** [Daegu Arts Center What's ON](https://www.daeguartscenter.or.kr/) (Nov 3–Dec 27, Space Hive rooms 1–5) · [Daegu City newsroom — season lineup announcement](https://news.daegu.go.kr/newshome/mtnmain.php?aid=275488&bpage=135&mkey=todaylist&mkey2=2&mtnkey=articleview&stext=) (5 young artists; Sambo Art Prize selected during the run) · [selected-artists announcement — Daegu Ilbo](https://www.idaegu.com/news/articleView.html?idxno=656057) (권세진·방정호·서현규·이성경·이혜진) · [Warhol exhibition period Jul 3–Oct 25 — city press release](https://www.sisa-news.com/news/article.html?no=271400)
 
 ### 2) 🎺 **Crossbones Trombones Concert** — ✅ CONFIRMED — Nov 12, 2026 · NEW
 - **What:** **Crossbones Trombones (크로스본즈 트롬본즈)**, a trombone ensemble from **Ghent, Belgium**, playing Daegu's UNESCO Creative City of Music exchange series. Daegu has been a UNESCO City of Music since 2017 and the Arts Center runs these exchange concerts as its flagship international strand (the other 2026 guest was Hanover's jazz duo Duo Maliki in October).
@@ -180,7 +180,8 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **What:** Municipal modern and contemporary art museum.
 - **Hours/price:** **₩1,000 adult / ₩700 student; pre-schoolers free.** **Winter (Nov–Mar) 10:00–18:00** (summer to 19:00), **last entry one hour before closing. Closed Mondays.** Special exhibitions are priced separately when they run.
 - **💡 Free every Wednesday** — the museum waives the exhibition fee on Wednesdays, so **Wed Nov 4, 11 and 18** are free days. It's only ₩1,000 anyway, but the Wednesday rule is worth knowing if you're pairing it with something else in Suseong-gu.
-- **Official sources (reviewed Aug 18):** [Daegu Art Museum](https://daeguartmuseum.or.kr/) · [Daegu Tourism listing](https://tour.daegu.go.kr/index.do?menu_id=00002943)
+- **⏳ Likely new show opening mid-trip:** the museum hosts the **Yi In-seong Art Prize (이인성미술상)** winner's exhibition each year, and the award ceremony is held **every Nov 4** (the painter's memorial day) — the 25th winner's show ran **Nov 4, 2025 – Feb 22, 2026** in galleries 2–3. The 26th (2026) winner's show had not been posted at review; check the museum's exhibition page in October.
+- **Official sources (reviewed Aug 18):** [Daegu Art Museum](https://daeguartmuseum.or.kr/) · [current exhibitions (25th prize show precedent)](https://daeguartmuseum.or.kr/index.do?menu_id=00000729) · [Yi In-seong Art Prize — Nov 4 award date](http://www.leeinsung.com/page/art_prize.php?board_id=art_prize) · [Daegu Tourism listing](https://tour.daegu.go.kr/index.do?menu_id=00002943)
 
 ### 30) 🎬 **Daegu Art Factory and Suchang Youth Mansion** — 🔎 VERIFIED ART CENTERS
 - **What:** Exhibition, residency, performance, and education spaces in reused industrial/residential buildings; entries #3–5 cover confirmed programs.
@@ -192,20 +193,21 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **Status:** The 2026 festival productions concluded by Oct 31; no November opera is assumed.
 - **Official source (reviewed Aug 17):** [Daegu Opera House](https://www.daeguoperahouse.org/)
 
-### 32) 🎢 **E-World and 83 Tower** — 🔎 VERIFIED OPERATOR
+### 32) 🎢 **E-World and 83 Tower** — 🔎 VERIFIED OPERATOR — ⏳ illumination start unannounced
 - **What:** Theme park and observation tower complex.
-- **Hours/price:** Date-specific; seasonal illumination requires a current 2026 operator announcement.
-- **Official source (reviewed Aug 17):** [E-World](https://eworld.kr/)
+- **Hours/price:** Date-specific; check the operator's calendar for the day you go.
+- **⏳ Winter illumination pattern:** E-World's annual **Illumination / Starlight Festival** (ten million lights across the park and 83 Tower) has recent-year form: the **2025–26 edition ran Nov 15, 2025 – Feb 28, 2026** with the lighting ceremony and 83 Tower fireworks on opening night. **The 2026–27 switch-on date was not announced at review** — if the pattern holds, the lights would begin mid-trip, but treat any pre-announcement date as a guess and check the operator page in late October.
+- **Official sources (reviewed Aug 18):** [E-World](https://eworld.kr/) · [KTO listing — E-World Illumination, 2025-11-15 ~ 2026-02-28 precedent](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=65600)
 
 ### 33) ⚾ **Samsung Lions Park** — ⏳ POSTSEASON-DEPENDENT
 - **What:** Home of the KBO Samsung Lions. Regular season ends before the trip.
 - **Status:** Attend only if official postseason scheduling places a game in Daegu.
 - **Official sources (reviewed Aug 17):** [Samsung Lions](https://www.samsunglions.com/) · [KBO](https://www.koreabaseball.com/)
 
-### 34) ⚽ **Daegu FC** — ⏳ CHECK OFFICIAL FIXTURES
-- **What:** Professional football club playing at DGB Daegu Bank Park.
-- **Status:** Verify any trip-window fixture and ticket link in the K League match center.
-- **Official sources (reviewed Aug 17):** [Daegu FC](https://www.daegufc.co.kr/) · [K League](https://www.kleague.com/)
+### 34) ⚽ **Daegu FC** — ⏳ NOV 22 HOME FIXTURE LIKELY — CONFIRM ON OFFICIAL MATCH CENTRE · UPDATED Aug 18
+- **What:** Professional football club playing at **DGB Daegu Bank Park (대구iM뱅크PARK)** — a compact, football-specific ground that is one of K League's best atmospheres. ⚠️ **The club plays in K League 2 in 2026** (second tier), and sat 3rd in mid-August — deep in the promotion race, so late-season home games matter.
+- **Fixture watch:** K League 2's round 33 is scheduled for **Nov 21–22, 2026**, and the fixture grid circulating from the league's January release shows **Daegu FC at home vs Gimhae FC 2008 on Sun Nov 22, 14:00** (round 31, Oct 31, may also be a home date vs Suwon Samsung). **The club site was returning HTTP 500 at review and this has not been confirmed on an official page — verify on the K League match centre or club site before planning around it.**
+- **Official sources (reviewed Aug 18):** [Daegu FC](https://www.daegufc.co.kr/) *(site erroring at review)* · [K League match centre](https://www.kleague.com/schedule.do)
 
 ### 35) 🎨 **2026 Daegu Art Festival Part 2** — ✅ CONFIRMED — Nov 17–22, 2026 · UPDATED
 - **What:** Second part of the municipal art-festival exhibition block — a large group show filling **Daegu Culture & Arts Center exhibition rooms 6–13** (대구문화예술회관 6~13전시실). Re-checked Aug 17: the venue and room numbers are confirmed on the Daegu Foundation for Culture & Arts listing.
@@ -214,6 +216,12 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **⚠️ Sundays close early (confirmed on the venue's own exhibition notice).** The Arts Center de-installs shows on Sundays, so winter Sunday viewing ends at **16:00**, not 18:00. That affects **Sun Nov 22 — your departure day** — on top of the flight timing.
 - **Price:** The Culture & Arts Center's own exhibition halls are normally **free**; a municipal festival group show of this type does not usually charge. Not stated on the listing, so treat a small fee as possible.
 - **Official sources (reviewed Aug 18):** [Daegu Culture & Arts Center — gallery hours and closures](https://daeguartscenter.or.kr/index.do?menu_id=00001546) (winter 10:00–18:00; last entry 15 min before close) · [Daegu Foundation for Culture & Arts event search — 2026 대구아트페스티벌 2부, Nov 17–22, rooms 6–13](https://dgfca.or.kr/event/search/list) · [Daegu Arts Center exhibition notice — Sunday de-install rule](https://daeguartscenter.or.kr/index.do?menu_id=00000351)
+
+### 36) 🎼 **Daegu Concert House and the Daegu Symphony's November subscription concert** — ⏳ DATE ON OFFICIAL CALENDAR · NEW
+- **What:** **Daegu Concert House (대구콘서트하우스)** is the city's dedicated classical hall near Daegu Station, home stage of the **Daegu Symphony Orchestra (대구시립교향악단, founded 1964)**, which plays a **subscription concert roughly every month in the Grand Hall**. The orchestra celebrated its 60th anniversary in 2024.
+- **November:** the orchestra's published 2026 season plan places **Falla and Ravel** (with Mussorgsky in December) in the year-end concerts — but the exact November date and programme number were not posted at review. Its recent pattern is a mid-month Friday 19:30 concert (e.g. #528 Sep 11, #529 Oct 16).
+- **How to book:** use the Concert House's own schedule page or the Daegu Arts Center ticketing portal (which lists 대구콘서트하우스 그랜드홀 events); seats for city-orchestra concerts are cheap by Seoul standards.
+- **Official sources (reviewed Aug 18):** [Daegu Concert House — schedule](https://daeguconcerthouse.or.kr/) · [Daegu Ilbo — 2026 season announcement (Nov/Dec repertoire)](https://www.idaegu.com/news/articleView.html?idxno=655046) · [Daegu Arts Center ticketing listings for the Grand Hall](https://daeguartscenter.or.kr/)
 
 ---
 

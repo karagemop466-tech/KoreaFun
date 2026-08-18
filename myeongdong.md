@@ -244,6 +244,12 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 - **Hours/price:** Public path is free; access can close during flooding or maintenance.
 - **Official source (reviewed Aug 17):** [Seoul Facilities Corporation — Cheonggyecheon](https://www.sisul.or.kr/open_content/cheonggye/)
 
+### 37) 🚂 **Culture Station Seoul 284 (문화역서울284, old Seoul Station)** — ⏳ FALL EXHIBITION TITLE TBA · NEW
+- **What:** The restored **1925 old Seoul Station building**, run as a free exhibition hall by the Korea Craft & Design Foundation (KCDF) — the grand waiting halls, VIP rooms and the old western restaurant "Grill" are themselves the exhibit. It sits directly across from Sungnyemun (#33) and Seoullo 7017, a 15-minute walk from central Myeong-dong, and is one of the best free rainy-day buildings on this side of the city.
+- **Hours (recent programme):** Tue–Sun 10:00–18:00, last entry 17:30 (Wednesdays to 19:00 on culture-day weeks). **Closed Mondays.** Free.
+- **⏳ What's on in November:** KCDF's official 2026 operating plan schedules a **flagship curated exhibition for September–November** (title still provisional at review) followed by a **KCDF traditional-culture collaboration show in November** — but neither had a published title or dates on the venue site yet. Check seoul284.org before going; the summer show (railway-culture exhibition) ended Aug 17.
+- **Official sources (reviewed Aug 18):** [seoul284.org — official site and current programme](https://www.seoul284.org/main) · [KCDF — old Seoul Station operating plan (Sep–Nov flagship exhibition; Nov collaboration show)](https://kcdf.or.kr/cms/content/view/251)
+
 ---
 
 ## Removed during this verification pass

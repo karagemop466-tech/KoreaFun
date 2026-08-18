@@ -1048,3 +1048,37 @@ Completed the line-by-line pass for every remaining 🔎 verified-place entry in
 **Batches marked (verified/prose per line):** seoul 176, busan 61(remaining), daegu+myeongdong 168, suwon+yongin 120, incheon 106, jeonju+gyeongju 165, ulsan+pohang 150, changwon+yeosu+daejeon 226. Result: **1932/1932 live lines covered (100%)** — verified 1494, sourced 43, prose 395, unchecked 0. Integrity checks clean (no verified-without-source, no dead source lines, 0 unresolved).
 
 Remaining honest caveats are unchanged: ⏳/👀 items still await October publications (they are marked as such in the files and in the itinerary's mid-October re-check calendar).
+
+---
+
+## Pass 27 — 2026-08-18: four-city verification re-run + expansion (Seoul · Busan · Daegu · Myeong-dong)
+
+Re-fetched the official source for every ✅ dated event entry in the four files, batching city by city, plus spot-checks on the riskiest 🔎 facts. All fetches done live this session.
+
+**Re-verified exact (official pages fetched this pass):**
+- Busan: fireworks Nov 7 countdown (busanfireworks.com: 2026.11.07 (토), 광안리·이기대·동백섬); G-STAR countdown resolves to Nov 19 + Aug 13–14 organizer-briefing press (Nov 19–22, main sponsor Wrtn); Biennale Aug 29–Nov 1 (Yonhap May 27 lineup release; busanbiennale.org STILL erroring); drone show winter Sat 19:00 & 21:00 (gwangallimdrone.co.kr/overview: 동절기 10월~2월); Blueline full fare table exact match (bluelinepark.com/fare.do); Busan X the Sky ₩29,000/₩26,000, 10:00–21:00, 2h parking (operator mobile page); Busan Museum of Art September reopening corroborated (June 2026 docent-training press); KBL Oct 3 opener KCC vs LG 14:00 Sajik + Samsung/SK sharing 학생체육관 (Aug 10 schedule release press); BISCO (bisco.or.kr) still HTTP 500 site-wide.
+- Seoul: MMCA progressList live (Lee Daewon 08-06~11-08 · LG OLED 07-31~11-29 · Artist of the Year 07-24~12-06); Leeum Koo Jeong A page (09.05–12.27, M2); SeMA listing (Cho Sook-jin 07/29–11/15 · GanaArt 04/16–11/22); Outdoor Library festacode 394 (04-23~11-01, Fri–Sun, 11–18/16–22, fall 9.4–11.1); Grand Park festival festacode 465 ((예정) 10-31~11-08); Cafe Show summary page (Nov 11–14; Wed–Fri 10–18, Sat 10–16); Mulbit Yeonhwa kh.or.kr/1526 (전체상영 4.24–5.3 20:00 / 9.8–11.8 16:40; parking closed to 12/31); KGMA official site (Nov 7–8 Gocheok; 4 MCs Jun 12); MMA press (Nov 14–15, 18th, first 2-day, Gocheok); BANKSY Jul 22–Nov 3 (Jul 2026 press ×2); JTBC Marathon Nov 1 08:00 Sangam, 32,000 (race listings); K League 2 R32=Nov 7–8 / R33=Nov 21–22 grid; E-Land home vs Jeonnam Nov 7 16:30; league table live-confirms E-Land 2nd / Busan 5th / Daegu 3rd mid-August; NTCK Anthropolis IV page (10.28–11.21, 명동예술극장, 서지혜, 푸른티켓 ₩5,000, Part V Dec 2).
+- Daegu: Arts Center What's ON (Young Artists 11.03–12.27 Space Hive 1–5; Crossbones 11.12 비슬홀); five selected artists named (Jan 2026 announcements); DAF annual calendar chunk (10-27~11-15 성과전; 11-07 SAC on Screen 오셀로; 09-08~11-08 RE:ART 2부).
+- Myeong-dong: NANTA operator page (open run since 2009.10.10; Mon–Fri 17/20, Sat 14/17/20, Sun·hol 14/17; VIP 70,000/S 60,000/A 50,000; 12 months+).
+
+**Corrections made this pass:**
+- `seoul.md` #77 — **GS Caltex Seoul KIXX plays at Jangchung Arena, not Jamsil Students' Gymnasium** (both Seoul V-League clubs share Jangchung — the "장충 남매"). Also upgraded: KOVO released the full 2026–27 fixture list on **Aug 18, 2026**; opening day Oct 31 includes **GS Caltex vs Korea Expressway Corp, 17:00 at Jangchung** (Edaily/Newscj reports of the KOVO release).
+- `busan.md` #6 — same fixture-release upgrade for OK Savings Bank (November home dates now exist on kovo.co.kr).
+- `busan.md` #2 — G-STAR sources refreshed: Aug 13 organizer press conference (Nov 19–22) and Aug 14 main-sponsor announcement (Wrtn) added; Nov 18–22 press nuance retained but downgraded.
+- `busan.md` #3 — Biennale scale updated to the final May 27 lineup (47 artists / 44 teams / 23 countries) with the Yonhap citation.
+- `daegu.md` #1 — the Andy Warhol side-show runs **Jul 3–Oct 25, 2026** (city press release) → closes before the trip; the old "worth checking dates" wording removed.
+- `daegu.md` #34 — Daegu FC status corrected/enriched: club is in **K League 2 in 2026**, 3rd in mid-August; apparent home fixture **Sun Nov 22 14:00 vs Gimhae FC 2008** (league round grid; club site HTTP 500) — flagged ⏳, confirm on official match centre.
+- `daegu.md` #29 — added the Yi In-seong Art Prize pattern (award every Nov 4; 25th winner show ran Nov 4, 2025–Feb 22, 2026; 26th show unposted) as a labeled re-check.
+- `daegu.md` #32 — E-World illumination given its dated precedent (2025-11-15 ~ 2026-02-28, KTO listing); 2026–27 switch-on still unannounced → ⏳.
+- `seoul.md` #5/#6 — KGMA MC detail (4 MCs, Jun 12) and MMA detail (18th edition, slogan, Global-K Chart link) refreshed.
+
+**New entries (each written from an official page fetched this pass):**
+- `seoul.md` #94 — Sir Simon Rattle & BRSO, Nov 12–13, 19:30, SAC Concert Hall (SAC show page SN=77520 for Nov 13; promoter press for Nov 12 — venue re-check noted).
+- `seoul.md` #95 — SeMA Bukseoul 《권병준: 내 마음속에 너는》 Jun 11, 2026–May 16, 2027 (SeMA live listing).
+- `busan.md` #51 — Busan Concert Hall (opened Jun 2025; Classic Busan city agency; classicbusan.busan.go.kr; 2026 season via Busan Ilbo Feb 10).
+- `daegu.md` #36 — Daegu Concert House / Daegu Symphony November subscription concert (⏳ exact date on official calendar; season plan via Daegu Ilbo Jan 7).
+- `myeongdong.md` #37 — Culture Station Seoul 284 (⏳ Sep–Nov flagship exhibition per KCDF official operating plan; summer show ended Aug 17; seoul284.org).
+
+**Explicitly NOT added (checked and rejected):** BEXCO November trade fairs (Food Fair Busan is Nov 26–29, after the trip; Seafood Expo unconfirmed); 신승훈/조정석 BEXCO concerts (year unverifiable from official pages this session); Jeongdong Theater November production (nothing published — entry #32 stays ⏳); Gyeongju/Osaka items out of scope.
+
+**README:** counts 573 → 578; four-city rows and the Oct 31 quick-view row updated.

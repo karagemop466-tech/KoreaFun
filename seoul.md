@@ -44,12 +44,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 ### 5) 🏆 **Korea Grand Music Awards (KGMA 2026)** — ✅ CONFIRMED DATES — Sat–Sun Nov 7–8, 2026
 - **What:** Two-day K-pop awards show, first edition at Gocheok Sky Dome.
 - **When:** **Nov 7–8, 2026**. Lineup and public ticketing were not fully published at review; do not invent a set list.
-- **Official source (reviewed Aug 18):** [KGMA official site](https://kgma-is.com/locales/en/index.html) confirms **Nov 7–8, 2026 at Gocheok Sky Dome**; organizer announcement via Ilgan Sports (Mar 18, 2026). 3rd edition, moved from Inspire Arena to Gocheok for accessibility. Day-1 MCs announced Jun 10 (남지현 · 리센느 원이). Note the KGMA site still carries Inspire Arena shuttle text from the prior edition — **use Gocheok directions, not that shuttle info**.
+- **Official source (reviewed Aug 18):** [KGMA official site](https://kgma-is.com/locales/en/index.html) confirms **Nov 7–8, 2026 at Gocheok Sky Dome**; organizer announcement via Ilgan Sports (Mar 18, 2026). 3rd edition, moved from Inspire Arena to Gocheok for accessibility. MCs confirmed Jun 12: **Nam Ji-hyun, Woni (RESCENE), Kim Jae-won, Liz (IVE)**. Note the KGMA site still carries Inspire Arena shuttle text from the prior edition — **use Gocheok directions, not that shuttle info**.
 
 ### 6) 🏆 **Melon Music Awards (MMA 2026)** — ✅ CONFIRMED DATES — Sat–Sun Nov 14–15, 2026
 - **What:** First two-day MMA, hosted by Kakao Entertainment / Melon at Gocheok Sky Dome.
 - **When:** **Nov 14–15, 2026**. Lineup and ticket windows were still TBA at review.
-- **Official source (reviewed Aug 17):** Kakao Entertainment / Melon announcement, Jun 9, 2026 · [Melon](https://www.melon.com)
+- **Official source (reviewed Aug 18):** Kakao Entertainment / Melon announcement, Jun 9, 2026 (18th MMA, first two-day edition; slogan "K-POP CONNECT: The New Pulse"; some award categories linked to the new Global-K Chart) · [Melon](https://www.melon.com)
 
 ### 7) ☕ **25th Seoul International Cafe Show** — ✅ CONFIRMED — Wed Nov 11–Sat Nov 14, 2026
 - **What:** Asia’s large coffee and café-industry fair at COEX.
@@ -408,10 +408,12 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ## Sports
 
-### 77) 🏐 **V-League — Seoul home teams** — ✅ SEASON CONFIRMED; FIXTURES LATER
-- **What:** Seoul Woori Card WooriWON (men, Jangchung Gymnasium) and GS Caltex Seoul KIXX (women, Jamsil Students’ Gymnasium). Both are playing through the whole trip window.
-- **When:** The KOVO board (Dec 10, 2025) set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027**, with the postseason Apr 5–22, 2027. So the league is live from literally your first day in Korea. Round-by-round fixtures post on the KOVO site — **do not invent tip-off times**.
-- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)
+### 77) 🏐 **V-League — Seoul home teams** — ✅ SEASON CONFIRMED · OPENING-DAY HOME GAME OCT 31 · UPDATED Aug 18
+- **What:** Seoul Woori Card WooriWON (men) and GS Caltex Seoul KIXX (women). ⚠️ **Venue correction (Aug 18): BOTH Seoul clubs play at Jangchung Arena (장충체육관)** — the "장충 남매" (Jangchung siblings). An earlier version of this entry put GS Caltex at Jamsil Students' Gymnasium; that is wrong (Jamsil Students' is where the KBL basketball teams moved — see entry #80).
+- **When:** The KOVO board (Dec 10, 2025) set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027**, and **KOVO published the full round-by-round fixture list on Aug 18, 2026**.
+- **✅ Confirmed opening-day fixture in Seoul:** **Sat Oct 31, 17:00 — GS Caltex (defending women's champion) vs Korea Expressway Corp at Jangchung Arena** — a championship-final rematch on your arrival day, 15 minutes from Myeong-dong (Line 3, Dongguk Univ. station). The men's opener (Korean Air vs Hyundai Capital, 14:00) is in Incheon.
+- **Now that fixtures exist, pull the November Jangchung home dates from the KOVO schedule page** and buy through the KOVO site — don't guess times.
+- **Official sources (reviewed Aug 18):** [kovo.co.kr — 2026–27 schedule](https://www.kovo.co.kr) · season dates via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007) · fixture release reported Aug 18 by [Edaily](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632) (opening-day matchups incl. GS Caltex vs KEC, Jangchung 17:00)
 
 ### 78) ⚽ **Seoul E-Land FC (K League 2)** — ✅ CONFIRMED — Sat Nov 7 & Sun Nov 22, 2026
 - **What:** Home games at **Mokdong Stadium** (목동 레울파크), an easy Line 5 trip. E-Land were 2nd in K League 2 in mid-August 2026, so November games are promotion-race matches.
@@ -490,6 +492,19 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **What:** The **first retrospective** at the National Museum of Modern and Contemporary Art for **Lee Daewon (1921–2005)**, the landscape painter of Korea's postwar generations — his signature softly lit mountain-and-river scenes.
 - **When:** **Aug 6 – Nov 8, 2026** — covers the first nine days of the trip (Oct 31 – Nov 8). MMCA Deoksugung sits inside Deoksugung's Seokjojeon West Hall (see entry #48; separate ₩2,000 admission or free Wed/Sat 18:00–21:00 night opening).
 - **Official source (reviewed Aug 18):** [MMCA — current exhibitions (Deoksugung)](https://www.mmca.go.kr/exhibitions/progressList.do) — 2026-08-06~2026-11-08 · [mmca.go.kr](https://www.mmca.go.kr)
+
+### 94) 🎻 **Sir Simon Rattle & Bavarian Radio Symphony (BRSO)** — ✅ CONFIRMED — Thu Nov 12 & Fri Nov 13, 2026 · 19:30 · NEW
+- **What:** One of the world's top orchestras, two years after its last visit, under chief conductor **Sir Simon Rattle**. Two completely different programmes: **Nov 12 — Schubert Symphony No. 9 "Great" + Stravinsky *The Rite of Spring***; **Nov 13 — Mahler Symphony No. 2 "Resurrection"** with soprano Lucy Crowe, mezzo Karen Cargill, the National Chorus of Korea and Seoul Motet Choir — a signature Rattle piece, first time he conducts it in Korea.
+- **Where/when:** **Seoul Arts Center Concert Hall, 19:30** both nights. The **Nov 13 concert is confirmed on SAC's own show page**; Nov 12 is sold by the same promoter (Vincero) — early-year press briefly listed its venue as TBD, so double-check the Nov 12 hall when booking.
+- **Price:** R ₩400,000 / S ₩320,000 / A ₩240,000 / B ₩170,000 / C ₩100,000. Ages: elementary-school and up. ~120 min.
+- **Why it fits:** a world-class indoor evening in the middle week, and it doesn't clash with anything else in this guide (MMA is the following weekend).
+- **Official sources (reviewed Aug 18):** [Seoul Arts Center — official show page (Nov 13, prices, casts, both programmes)](https://www.sac.or.kr/site/main/show/show_view?SN=77520) · [Hankyung — promoter announcement, both dates at SAC](https://www.hankyung.com/article/2026052724281) · promoter Vincero ☎ 02-599-5743
+
+### 95) 🔊 **SeMA Bukseoul — 《권병준: 내 마음속에 너는》 (Kwon Byungjun)** — ✅ CONFIRMED — through May 16, 2027 · NEW
+- **What:** A large sound-art / robotics installation exhibition by **Kwon Byungjun**, the former indie musician turned machine-performance artist, at the Seoul Museum of Art's **Bukseoul branch** in Nowon — the least touristed SeMA building, built into a neighborhood park.
+- **When:** **Jun 11, 2026 – May 16, 2027** — open your whole trip. Closed Mondays; SeMA branches are free.
+- **Why it's worth the ride:** pairs with a Nowon/Uidong day or a quiet rainy afternoon; Bukseoul also runs two long-duration commissions (《보편타당한 당신 — 심이다은》 to Apr 11, 2027 and 《몸을 위한 간주곡 — 소목장세미》 to May 30, 2027) on the same free floor, all confirmed on SeMA's live listing.
+- **Official source (reviewed Aug 18):** [SeMA current-exhibition listing](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) — 《권병준: 내 마음속에 너는》 2026/06/11–2027/05/16, 서울시립 북서울미술관 · [Bukseoul visitor info](https://sema.seoul.go.kr/kr/visit/bukseoul)
 
 ---
 

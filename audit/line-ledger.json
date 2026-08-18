@@ -4772,12 +4772,25 @@
   "text": "- **Official sources (reviewed Aug 17):** [busanaircruise.co.kr](http://busanaircruise.co.kr) · [bsseo.go.kr](https://www.bsseo.go.kr)",
   "verdict": "verified"
  },
+ "busan.md#2:0f0955d052": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Pass27: Aug13 organizer briefing Nov19-22; sponsor Wrtn Aug14 (goodkyung 290294); gstar.or.kr countdown resolves to Nov19",
+  "sources": [
+   "https://www.insightkorea.co.kr/news/articleView.html?idxno=252396"
+  ],
+  "text": "- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. Re-confirmed by fresh press around the organizers' Aug 13–14, 2026 briefing (Nov 19–22, BEXCO; the **main sponsor for 2026 is AI company Wrtn/뤼튼**, and the opening day collides with the global GTA 6 launch). G-CON conference pages list **Nov 19–20** inside BEXCO. ⚠️ **Date nuance:** some earlier press (Korea JoongAng Daily, Aug 13, 2026) described the event as running Nov 18–22 — possibly counting a pre-opening day — but the organizing committee's own Aug 13 press conference and its site countdown both point to **Nov 19**. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.",
+  "verdict": "verified"
+ },
  "busan.md#2:4ece9c6203": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "busan.md",
   "kind": "DATE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -4889,6 +4902,7 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -4931,6 +4945,18 @@
   ],
   "text": "- **Official sources (reviewed Aug 18):** [gstar.or.kr](https://www.gstar.or.kr) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20, Convention Hall, BEXCO) · [Korea JoongAng Daily — G-Star 2026](https://www.koreajoongangdaily.com/business/gstar-2026-puts-ai-storytelling-center-stage/12823574) · [bexco.co.kr](https://www.bexco.co.kr)",
   "verdict": "verified"
+ },
+ "busan.md#2:ac41a22b43": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass27: fetched homepage countdown + G-CON page; press links verified",
+  "sources": [
+   "https://www.gstar.or.kr"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [gstar.or.kr](https://www.gstar.or.kr) (countdown resolves to Nov 19) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20, Convention Hall, BEXCO) · [Insight Korea — organizer press conference Aug 13, 2026](https://www.insightkorea.co.kr/news/articleView.html?idxno=252396) (Nov 19–22) · [main-sponsor announcement, Aug 14, 2026](https://www.goodkyung.com/news/articleView.html?idxno=290294) · [bexco.co.kr](https://www.bexco.co.kr)",
+  "verdict": "sourced"
  },
  "busan.md#2:ba82dc9b3b": {
   "checked_on": "2026-08-18",
@@ -6481,12 +6507,37 @@
   "text": "- **What:** Contemporary-art biennale across Busan MoCA, Space Wonji / Space One-Z on Yeongdo, and the former Busan Nam High School.",
   "verdict": "prose"
  },
+ "busan.md#3:6cd1488e60": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass27: busanbiennale.org still 500 on Aug18; Yonhap corroboration added",
+  "sources": [
+   "https://www.yna.co.kr/view/AKR20260527107400051"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [busanbiennale.org](https://busanbiennale.org) *(site returned a service error at review on Aug 18 — likely temporary; dates below are corroborated elsewhere)* · [Yonhap, May 27, 2026 — final lineup and dates](https://www.yna.co.kr/view/AKR20260527107400051) (Aug 29–Nov 1, 65 days, 47 artists, 23 countries) · [Busan Ilbo, Feb 25, 2026 — official schedule announcement](https://mobile.busan.com/view/busan/view.php?code=2026022419184185184) · committee's own [Instagram announcement](https://www.instagram.com/busanbiennale/) (2026. 8. 29. – 11. 1.)",
+  "verdict": "sourced"
+ },
+ "busan.md#3:9321b45f3f": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Pass27: Yonhap May27: 23 countries, 47 artists/44 teams, Aug29-Nov1, Simons+Khalaf",
+  "sources": [
+   "https://www.yna.co.kr/view/AKR20260527107400051"
+  ],
+  "text": "- **Scale:** Final lineup (announced May 27, 2026): **47 artists / 44 teams from 23 countries**; co-directed by Evelyn Simons and Amal Khalaf. Organised by Busan Metropolitan City + Busan Biennale Organizing Committee.",
+  "verdict": "verified"
+ },
  "busan.md#3:9ca8d289ff": {
   "checked_on": "2026-08-18",
   "entry": 3,
   "file": "busan.md",
   "kind": "PROSE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -6536,6 +6587,7 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -8252,6 +8304,54 @@
   "text": "- **Status:** No November 2026 programme was published at review — check the [official performance calendar](https://busan.gugak.go.kr) in October and book a dated show.",
   "verdict": "verified"
  },
+ "busan.md#51:21429192a3": {
+  "checked_on": "2026-08-18",
+  "entry": 51,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass27: official site fetched (Classic Busan, city agency); Busan Ilbo lineup article",
+  "sources": [
+   "https://classicbusan.busan.go.kr/Home/ko/Main"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Classic Busan — Busan Concert Hall official site & schedule](https://classicbusan.busan.go.kr/Home/ko/Main) · [Busan Ilbo — 2026 season lineup announcement, Feb 10, 2026](https://www.busan.com/view/busan/view.php?code=2026021017543227142)",
+  "verdict": "sourced"
+ },
+ "busan.md#51:265bf0fb49": {
+  "checked_on": "2026-08-18",
+  "entry": 51,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Pass27: opened Jun 2025, 120k visitors yr1, Classic Busan city agency, 2026 lineup incl. Vienna Phil Oct 26 (Busan Ilbo Feb 10)",
+  "sources": [
+   "https://www.busan.com/view/busan/view.php?code=2026021017543227142"
+  ],
+  "text": "- **What:** Busan's **first dedicated classical concert hall**, opened **June 2025** on the edge of Busan Citizens Park (#46) — a 2,000-seat vineyard-style hall with a pipe organ, run by **Classic Busan**, a Busan Metropolitan City agency (which will also run the future Busan Opera House). Over 120,000 visitors in its first year; the 2026 season has brought the Vienna Philharmonic (Oct 26), Cho Seong-jin, Lim Yunchan and other headline classical acts.",
+  "verdict": "verified"
+ },
+ "busan.md#51:b97f9d17b3": {
+  "checked_on": "2026-08-18",
+  "entry": 51,
+  "file": "busan.md",
+  "kind": "DATE",
+  "note": "Pass27: Nov 6 Tchaikovsky prog seen on aggregator; line directs booking to official schedule page only",
+  "sources": [
+   "https://classicbusan.busan.go.kr/Home/ko/Main"
+  ],
+  "text": "- **November programme:** the hall runs concerts through your window — ticketing aggregators list a **Tchaikovsky programme on Fri Nov 6** and a matinee opera-talk series later in the month — but **book only from a dated listing on the official schedule page**, which is the authoritative calendar.",
+  "verdict": "verified"
+ },
+ "busan.md#51:d8f1bd8654": {
+  "checked_on": "2026-08-18",
+  "entry": 51,
+  "file": "busan.md",
+  "kind": "PROSE",
+  "note": "Pass27: address Dongpyeong-ro 250 Busanjin-gu + tel 051-640-8888 from official site footer",
+  "sources": [
+   "https://classicbusan.busan.go.kr/Home/ko/Main"
+  ],
+  "text": "- **Getting there:** Bujeon-dong side of Citizens Park (동평로 250, Busanjin-gu) — pairs with the park (#46) and the National Gugak Center (#50). ☎ 051-640-8888.",
+  "verdict": "verified"
+ },
  "busan.md#5:3ae9d81234": {
   "checked_on": "2026-08-18",
   "entry": 5,
@@ -8302,6 +8402,30 @@
   "text": "- **⚠️ Book ahead, this is not a walk-up.** The move to Busan was a hit: OK Savings Bank **sold out every weekend home game** of its first Busan season and was the only club in either V-League division averaging over 3,000 spectators. If a home date falls in your window, buy online rather than turning up at the box office.",
   "verdict": "verified"
  },
+ "busan.md#6:111eadf289": {
+  "checked_on": "2026-08-18",
+  "entry": 6,
+  "file": "busan.md",
+  "kind": "SOURCE",
+  "note": "Pass27: source line updated with fixture-release citation",
+  "sources": [
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [kovo.co.kr](https://www.kovo.co.kr) — full 2026–27 fixture list published Aug 18, 2026 (release reported by [Edaily](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632)) · [club home-ground page](https://www.okfinancialsports.com/m/volley/club/home_ground.asp) · [Busan City — Gangseo Sports Park access](https://www.busan.go.kr/stadium/sfplacegs) · [Yonhap — sell-out first Busan season](https://www.yna.co.kr/view/AKR20260315018500007)",
+  "verdict": "sourced"
+ },
+ "busan.md#6:1238f33f3a": {
+  "checked_on": "2026-08-18",
+  "entry": 6,
+  "file": "busan.md",
+  "kind": "TIME",
+  "note": "Pass27: KOVO full fixture list published Aug 18, 2026",
+  "sources": [
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632"
+  ],
+  "text": "- **When:** KOVO confirmed the **2026–27 regular season as Oct 31, 2026 – Apr 2, 2027**, so the league is live for your entire trip. **Update (Aug 18): KOVO published the full round-by-round fixture list on Aug 18, 2026** — the November home dates at Gangseo now exist. Pull them from the KOVO schedule page; don't assume a start time (V-League games are typically 14:00/16:00 weekends, 19:00 weekdays).",
+  "verdict": "verified"
+ },
  "busan.md#6:71d8ee9e83": {
   "checked_on": null,
   "entry": 6,
@@ -8330,6 +8454,7 @@
   "file": "busan.md",
   "kind": "SOURCE",
   "note": "V-League OK Savings Bank: FACTUAL VENUE ERROR CORRECTED. Entry said Sajik Gymnasium. The club relocated Ansan->Busan for 2025-26 and plays at GANGSEO SPORTS PARK INDOOR GYMNASIUM in Gangseo-gu, far west of the city - confirmed by the club's own home-ground page and Busan City's facility page. Access: Metro Line 3 to Sports Park (체육공원) station, basement-level connection; 50-70 min from BEXCO/Centum. Yonhap Mar 2026: sold out EVERY weekend home game in the first Busan season, only V-League club (men's or women's) averaging 3,000+ - so book online, do not walk up. Season Oct 31 2026 - Apr 2 2027.",
+  "retired": true,
   "sources": [
    "https://www.okfinancialsports.com/m/volley/club/home_ground.asp",
    "https://www.busan.go.kr/stadium/sfplacegs",
@@ -8358,6 +8483,7 @@
   "file": "busan.md",
   "kind": "DATE",
   "note": "V-League OK Savings Bank: FACTUAL VENUE ERROR CORRECTED. Entry said Sajik Gymnasium. The club relocated Ansan->Busan for 2025-26 and plays at GANGSEO SPORTS PARK INDOOR GYMNASIUM in Gangseo-gu, far west of the city - confirmed by the club's own home-ground page and Busan City's facility page. Access: Metro Line 3 to Sports Park (체육공원) station, basement-level connection; 50-70 min from BEXCO/Centum. Yonhap Mar 2026: sold out EVERY weekend home game in the first Busan season, only V-League club (men's or women's) averaging 3,000+ - so book online, do not walk up. Season Oct 31 2026 - Apr 2 2027.",
+  "retired": true,
   "sources": [
    "https://www.okfinancialsports.com/m/volley/club/home_ground.asp",
    "https://www.busan.go.kr/stadium/sfplacegs",
@@ -16286,6 +16412,30 @@
   "text": "- **When:** **Nov 3–Dec 27, 2026** — confirmed on the venue's own What's ON listing. Opens midway through your trip and runs long after, so any date from Nov 3 works.",
   "verdict": "verified"
  },
+ "daegu.md#1:80a4796b48": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass27: Warhol Jul 3-Oct 25, 2026, rooms 1-5 per city press release",
+  "sources": [
+   "https://www.sisa-news.com/news/article.html?no=271400"
+  ],
+  "text": "- **Also on at the same venue:** the big international show 《앤디 워홀: 예술을 팔다》 (Andy Warhol: The Business of Art) ran **Jul 3–Oct 25, 2026** — it **closes before your trip**, so don't build a visit around it.",
+  "verdict": "verified"
+ },
+ "daegu.md#1:9036f595d7": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass27: 5 artists named; What's ON shows Nov3-Dec27; Warhol period source added",
+  "sources": [
+   "https://www.idaegu.com/news/articleView.html?idxno=656057"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Arts Center What's ON](https://www.daeguartscenter.or.kr/) (Nov 3–Dec 27, Space Hive rooms 1–5) · [Daegu City newsroom — season lineup announcement](https://news.daegu.go.kr/newshome/mtnmain.php?aid=275488&bpage=135&mkey=todaylist&mkey2=2&mtnkey=articleview&stext=) (5 young artists; Sambo Art Prize selected during the run) · [selected-artists announcement — Daegu Ilbo](https://www.idaegu.com/news/articleView.html?idxno=656057) (권세진·방정호·서현규·이성경·이혜진) · [Warhol exhibition period Jul 3–Oct 25 — city press release](https://www.sisa-news.com/news/article.html?no=271400)",
+  "verdict": "sourced"
+ },
  "daegu.md#1:a1cafc93c1": {
   "checked_on": "2026-08-18",
   "entry": 1,
@@ -16341,6 +16491,7 @@
   "file": "daegu.md",
   "kind": "PROSE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -16439,6 +16590,7 @@
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -17838,6 +17990,7 @@
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -18049,6 +18202,30 @@
   "sources": [],
   "text": "- **Official source (reviewed Aug 17):** [Daegu Art Museum](https://artmuseum.daegu.go.kr/)",
   "verdict": "unchecked"
+ },
+ "daegu.md#29:da09c76dc3": {
+  "checked_on": "2026-08-18",
+  "entry": 29,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass27: award every Nov 4 at DAM; 25th show Nov4 2025-Feb22 2026 on museum current-exh page; 2026 show unposted = re-check",
+  "sources": [
+   "http://www.leeinsung.com/page/art_prize.php?board_id=art_prize"
+  ],
+  "text": "- **⏳ Likely new show opening mid-trip:** the museum hosts the **Yi In-seong Art Prize (이인성미술상)** winner's exhibition each year, and the award ceremony is held **every Nov 4** (the painter's memorial day) — the 25th winner's show ran **Nov 4, 2025 – Feb 22, 2026** in galleries 2–3. The 26th (2026) winner's show had not been posted at review; check the museum's exhibition page in October.",
+  "verdict": "verified"
+ },
+ "daegu.md#29:ed1abdaa36": {
+  "checked_on": "2026-08-18",
+  "entry": 29,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass27: museum page + prize page fetched",
+  "sources": [
+   "https://daeguartmuseum.or.kr/index.do?menu_id=00000729"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Art Museum](https://daeguartmuseum.or.kr/) · [current exhibitions (25th prize show precedent)](https://daeguartmuseum.or.kr/index.do?menu_id=00000729) · [Yi In-seong Art Prize — Nov 4 award date](http://www.leeinsung.com/page/art_prize.php?board_id=art_prize) · [Daegu Tourism listing](https://tour.daegu.go.kr/index.do?menu_id=00002943)",
+  "verdict": "sourced"
  },
  "daegu.md#2:10c8cb3d37": {
   "checked_on": "2026-08-18",
@@ -18546,12 +18723,23 @@
   "text": "- **What:** Dedicated opera venue and organizer of the Daegu International Opera Festival.",
   "verdict": "prose"
  },
+ "daegu.md#32:0d0070b61a": {
+  "checked_on": "2026-08-18",
+  "entry": 32,
+  "file": "daegu.md",
+  "kind": "PROSE",
+  "note": "Pass27: generic check-calendar advice",
+  "sources": [],
+  "text": "- **Hours/price:** Date-specific; check the operator's calendar for the day you go.",
+  "verdict": "prose"
+ },
  "daegu.md#32:4b74a970a3": {
   "checked_on": "2026-08-18",
   "entry": 32,
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -18646,12 +18834,25 @@
   "text": "- **What:** Theme park and observation tower complex.",
   "verdict": "prose"
  },
+ "daegu.md#32:5770ebb219": {
+  "checked_on": "2026-08-18",
+  "entry": 32,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass27: KTO precedent listing fetched",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=65600"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [E-World](https://eworld.kr/) · [KTO listing — E-World Illumination, 2025-11-15 ~ 2026-02-28 precedent](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=65600)",
+  "verdict": "sourced"
+ },
  "daegu.md#32:c366fb1917": {
   "checked_on": "2026-08-18",
   "entry": 32,
   "file": "daegu.md",
   "kind": "DATE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -18694,6 +18895,18 @@
    "https://www.sisul.or.kr"
   ],
   "text": "- **Hours/price:** Date-specific; seasonal illumination requires a current 2026 operator announcement.",
+  "verdict": "verified"
+ },
+ "daegu.md#32:e69a26a935": {
+  "checked_on": "2026-08-18",
+  "entry": 32,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass27: KTO lists 2025-11-15~2026-02-28; 2026-27 unannounced, labeled pattern",
+  "sources": [
+   "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=65600"
+  ],
+  "text": "- **⏳ Winter illumination pattern:** E-World's annual **Illumination / Starlight Festival** (ten million lights across the park and 83 Tower) has recent-year form: the **2025–26 edition ran Nov 15, 2025 – Feb 28, 2026** with the lighting ceremony and 83 Tower fireworks on opening night. **The 2026–27 switch-on date was not announced at review** — if the pattern holds, the lights would begin mid-trip, but treat any pre-announcement date as a guess and check the operator page in late October.",
   "verdict": "verified"
  },
  "daegu.md#33:063c2c6f97": {
@@ -18846,12 +19059,37 @@
   "text": "- **Status:** Attend only if official postseason scheduling places a game in Daegu.",
   "verdict": "prose"
  },
+ "daegu.md#34:3b551bb4d1": {
+  "checked_on": "2026-08-18",
+  "entry": 34,
+  "file": "daegu.md",
+  "kind": "TIME",
+  "note": "Pass27: R33=Nov21-22 grid + Daegu home vs Gimhae Nov22 14:00 only in unofficial mirrors; club site HTTP 500 - flagged confirm-on-official in line",
+  "sources": [
+   "https://www.kleague.com/schedule.do"
+  ],
+  "text": "- **Fixture watch:** K League 2's round 33 is scheduled for **Nov 21–22, 2026**, and the fixture grid circulating from the league's January release shows **Daegu FC at home vs Gimhae FC 2008 on Sun Nov 22, 14:00** (round 31, Oct 31, may also be a home date vs Suwon Samsung). **The club site was returning HTTP 500 at review and this has not been confirmed on an official page — verify on the K League match centre or club site before planning around it.**",
+  "verdict": "unresolved"
+ },
+ "daegu.md#34:46e87f4cb2": {
+  "checked_on": "2026-08-18",
+  "entry": 34,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass27: K League 2 membership + 3rd place (38pts, 21 rounds) live on league table Aug 18",
+  "sources": [
+   "https://www.seoulelandfc.com/match/schedule"
+  ],
+  "text": "- **What:** Professional football club playing at **DGB Daegu Bank Park (대구iM뱅크PARK)** — a compact, football-specific ground that is one of K League's best atmospheres. ⚠️ **The club plays in K League 2 in 2026** (second tier), and sat 3rd in mid-August — deep in the promotion race, so late-season home games matter.",
+  "verdict": "verified"
+ },
  "daegu.md#34:507aadc624": {
   "checked_on": "2026-08-18",
   "entry": 34,
   "file": "daegu.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -18902,6 +19140,7 @@
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -18946,12 +19185,25 @@
   "text": "- **Official sources (reviewed Aug 17):** [Daegu FC](https://www.daegufc.co.kr/) · [K League](https://www.kleague.com/)",
   "verdict": "verified"
  },
+ "daegu.md#34:5d6a2a2fbf": {
+  "checked_on": "2026-08-18",
+  "entry": 34,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass27: official match centre is the confirm path; club site noted as erroring",
+  "sources": [
+   "https://www.kleague.com/schedule.do"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu FC](https://www.daegufc.co.kr/) *(site erroring at review)* · [K League match centre](https://www.kleague.com/schedule.do)",
+  "verdict": "sourced"
+ },
  "daegu.md#34:e07f29fce8": {
   "checked_on": "2026-08-18",
   "entry": 34,
   "file": "daegu.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -19338,6 +19590,52 @@
    "https://www.sfac.or.kr"
   ],
   "text": "- **⚠️ Sundays close early (confirmed on the venue's own exhibition notice).** The Arts Center de-installs shows on Sundays, so winter Sunday viewing ends at **16:00**, not 18:00. That affects **Sun Nov 22 — your departure day** — on top of the flight timing.",
+  "verdict": "verified"
+ },
+ "daegu.md#36:3c48e69393": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass27: venue schedule page live (60th-anniv concert page fetched in search)",
+  "sources": [
+   "https://daeguconcerthouse.or.kr/"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Concert House — schedule](https://daeguconcerthouse.or.kr/) · [Daegu Ilbo — 2026 season announcement (Nov/Dec repertoire)](https://www.idaegu.com/news/articleView.html?idxno=655046) · [Daegu Arts Center ticketing listings for the Grand Hall](https://daeguartscenter.or.kr/)",
+  "verdict": "sourced"
+ },
+ "daegu.md#36:c88641cb26": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass27: DSO founded 1964, monthly subscription concerts at Concert House Grand Hall (city encyclopedia + venue listings)",
+  "sources": [
+   "https://www.grandculture.net/daegu/toc/GC40004834"
+  ],
+  "text": "- **What:** **Daegu Concert House (대구콘서트하우스)** is the city's dedicated classical hall near Daegu Station, home stage of the **Daegu Symphony Orchestra (대구시립교향악단, founded 1964)**, which plays a **subscription concert roughly every month in the Grand Hall**. The orchestra celebrated its 60th anniversary in 2024.",
+  "verdict": "verified"
+ },
+ "daegu.md#36:c9221165cc": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "ACCESS",
+  "note": "Pass27: booking advice",
+  "sources": [],
+  "text": "- **How to book:** use the Concert House's own schedule page or the Daegu Arts Center ticketing portal (which lists 대구콘서트하우스 그랜드홀 events); seats for city-orchestra concerts are cheap by Seoul standards.",
+  "verdict": "prose"
+ },
+ "daegu.md#36:e3221dd347": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "daegu.md",
+  "kind": "TIME",
+  "note": "Pass27: season plan Nov=Falla/Ravel (Dec Mussorgsky); recent pattern #528 Sep11, #529 Oct16 on venue listings; exact Nov date TBA = entry is re-check",
+  "sources": [
+   "https://www.idaegu.com/news/articleView.html?idxno=655046"
+  ],
+  "text": "- **November:** the orchestra's published 2026 season plan places **Falla and Ravel** (with Mussorgsky in December) in the year-end concerts — but the exact November date and programme number were not posted at review. Its recent pattern is a mid-month Friday 19:30 concert (e.g. #528 Sep 11, #529 Oct 16).",
   "verdict": "verified"
  },
  "daegu.md#3:13eafbdb54": {
@@ -45330,6 +45628,54 @@
   "text": "- **Official source (reviewed Aug 17):** [Seoul Facilities Corporation — Cheonggyecheon](https://www.sisul.or.kr/open_content/cheonggye/)",
   "verdict": "verified"
  },
+ "myeongdong.md#37:20d29305ef": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "myeongdong.md",
+  "kind": "DATE",
+  "note": "Pass27: KCDF plan: Sep-Nov flagship exhibition (working title) + Nov KCDF collab show; nothing posted on venue site yet = re-check",
+  "sources": [
+   "https://kcdf.or.kr/cms/content/view/251"
+  ],
+  "text": "- **⏳ What's on in November:** KCDF's official 2026 operating plan schedules a **flagship curated exhibition for September–November** (title still provisional at review) followed by a **KCDF traditional-culture collaboration show in November** — but neither had a published title or dates on the venue site yet. Check seoul284.org before going; the summer show (railway-culture exhibition) ended Aug 17.",
+  "verdict": "verified"
+ },
+ "myeongdong.md#37:75e495eaa7": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "myeongdong.md",
+  "kind": "ACCESS",
+  "note": "Pass27: KCDF-run, free, old Seoul Station 1925; location vs Sungnyemun known-stable",
+  "sources": [
+   "https://www.seoul284.org/main"
+  ],
+  "text": "- **What:** The restored **1925 old Seoul Station building**, run as a free exhibition hall by the Korea Craft & Design Foundation (KCDF) — the grand waiting halls, VIP rooms and the old western restaurant \"Grill\" are themselves the exhibit. It sits directly across from Sungnyemun (#33) and Seoullo 7017, a 15-minute walk from central Myeong-dong, and is one of the best free rainy-day buildings on this side of the city.",
+  "verdict": "verified"
+ },
+ "myeongdong.md#37:8da2024247": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "myeongdong.md",
+  "kind": "TIME",
+  "note": "Pass27: hours 10-18 last entry 17:30, Wed to 19:00, closed Mon, free - from venue site (summer programme block)",
+  "sources": [
+   "https://www.seoul284.org/main"
+  ],
+  "text": "- **Hours (recent programme):** Tue–Sun 10:00–18:00, last entry 17:30 (Wednesdays to 19:00 on culture-day weeks). **Closed Mondays.** Free.",
+  "verdict": "verified"
+ },
+ "myeongdong.md#37:e8b03c8c4a": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "myeongdong.md",
+  "kind": "SOURCE",
+  "note": "Pass27: both official pages fetched",
+  "sources": [
+   "https://www.seoul284.org/main"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [seoul284.org — official site and current programme](https://www.seoul284.org/main) · [KCDF — old Seoul Station operating plan (Sep–Nov flagship exhibition; Nov collaboration show)](https://kcdf.or.kr/cms/content/view/251)",
+  "verdict": "sourced"
+ },
  "myeongdong.md#3:348e140ff0": {
   "checked_on": "2026-08-18",
   "entry": 3,
@@ -55568,6 +55914,7 @@
   "file": "seoul.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://royal.khs.go.kr",
    "https://www.cdg.go.kr",
@@ -55694,6 +56041,18 @@
    "https://www.sto.or.kr"
   ],
   "text": "- **Official source (reviewed Aug 17):** [cheongwadae.kr](https://www.cheongwadae.kr)",
+  "verdict": "verified"
+ },
+ "seoul.md#37:ce24e633f6": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "seoul.md",
+  "kind": "ACCESS",
+  "note": "Pass26/27: Tuesday closure per KHS announcement (unchanged line re-queued by hash churn)",
+  "sources": [
+   "https://www.cheongwadae.kr"
+  ],
+  "text": "- **What:** Former presidential complex, now a public historic site. Foreign visitors typically register with a passport; **closed every Tuesday** (same rule as Gyeongbokgung — an earlier draft of this guide said Monday, which the Korea Heritage Service announcement contradicts). On-site ticket windows for foreigners/seniors/disability at the main gate; otherwise reserve online via the official reservation site.",
   "verdict": "verified"
  },
  "seoul.md#38:611111b966": {
@@ -59186,6 +59545,7 @@
   "file": "seoul.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -59228,6 +59588,18 @@
   ],
   "text": "- **Official source (reviewed Aug 18):** [KGMA official site](https://kgma-is.com/locales/en/index.html) confirms **Nov 7–8, 2026 at Gocheok Sky Dome**; organizer announcement via Ilgan Sports (Mar 18, 2026). 3rd edition, moved from Inspire Arena to Gocheok for accessibility. Day-1 MCs announced Jun 10 (남지현 · 리센느 원이). Note the KGMA site still carries Inspire Arena shuttle text from the prior edition — **use Gocheok directions, not that shuttle info**.",
   "verdict": "verified"
+ },
+ "seoul.md#5:7b7448accb": {
+  "checked_on": "2026-08-18",
+  "entry": 5,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass27: KGMA site fetched: Nov7-8 Gocheok; MC news Jun 12 (4 MCs) linked on site",
+  "sources": [
+   "https://kgma-is.com/locales/en/index.html"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [KGMA official site](https://kgma-is.com/locales/en/index.html) confirms **Nov 7–8, 2026 at Gocheok Sky Dome**; organizer announcement via Ilgan Sports (Mar 18, 2026). 3rd edition, moved from Inspire Arena to Gocheok for accessibility. MCs confirmed Jun 12: **Nam Ji-hyun, Woni (RESCENE), Kim Jae-won, Liz (IVE)**. Note the KGMA site still carries Inspire Arena shuttle text from the prior edition — **use Gocheok directions, not that shuttle info**.",
+  "verdict": "sourced"
  },
  "seoul.md#5:98ecbcb499": {
   "checked_on": "2026-08-18",
@@ -60685,10 +61057,23 @@
   "file": "seoul.md",
   "kind": "SOURCE",
   "note": "Seeded from entry-level verification of seoul.md#6 on 2026-08-18. MMA Nov 14-15 2026 Gocheok, first two-day edition, Kakao Ent announcement Jun 9 2026. Lineup/tickets still TBA - correctly stated.",
+  "retired": true,
   "sources": [
    "https://www.melon.com"
   ],
   "text": "- **Official source (reviewed Aug 17):** Kakao Entertainment / Melon announcement, Jun 9, 2026 · [Melon](https://www.melon.com)",
+  "verdict": "sourced"
+ },
+ "seoul.md#6:572062d12f": {
+  "checked_on": "2026-08-18",
+  "entry": 6,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass27: Kakao/Melon announcement details (18th, 2-SHOW, Global-K Chart)",
+  "sources": [
+   "https://m.entertain.naver.com/now/article/108/0003442613"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** Kakao Entertainment / Melon announcement, Jun 9, 2026 (18th MMA, first two-day edition; slogan \"K-POP CONNECT: The New Pulse\"; some award categories linked to the new Global-K Chart) · [Melon](https://www.melon.com)",
   "verdict": "sourced"
  },
  "seoul.md#6:de466e816d": {
@@ -61647,11 +62032,34 @@
   "file": "seoul.md",
   "kind": "PROSE",
   "note": "Seeded from entry-level verification of seoul.md#77 on 2026-08-18. V-League 2026-27 season Oct 31 2026-Apr 2 2027 per KOVO board Dec 10 2025. Round fixtures not yet posted; entry correctly refuses to invent tip-off times.",
+  "retired": true,
   "sources": [
    "https://www.kovo.co.kr",
    "https://www.yna.co.kr/view/AKR20251210152800007"
   ],
   "text": "- **What:** Seoul Woori Card WooriWON (men, Jangchung Gymnasium) and GS Caltex Seoul KIXX (women, Jamsil Students’ Gymnasium). Both are playing through the whole trip window.",
+  "verdict": "prose"
+ },
+ "seoul.md#77:4cc53c6370": {
+  "checked_on": "2026-08-18",
+  "entry": 77,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass27: GS Caltex+Woori Card both home at Jangchung (Jangchung nammae); Jamsil Students = KBL. Corroborated by KOVO opener at Jangchung (Edaily 8/18)",
+  "sources": [
+   "https://namu.wiki/w/장충체육관"
+  ],
+  "text": "- **What:** Seoul Woori Card WooriWON (men) and GS Caltex Seoul KIXX (women). ⚠️ **Venue correction (Aug 18): BOTH Seoul clubs play at Jangchung Arena (장충체육관)** — the \"장충 남매\" (Jangchung siblings). An earlier version of this entry put GS Caltex at Jamsil Students' Gymnasium; that is wrong (Jamsil Students' is where the KBL basketball teams moved — see entry #80).",
+  "verdict": "corrected"
+ },
+ "seoul.md#77:5e32c04f1d": {
+  "checked_on": "2026-08-18",
+  "entry": 77,
+  "file": "seoul.md",
+  "kind": "ACCESS",
+  "note": "Pass27: booking advice",
+  "sources": [],
+  "text": "- **Now that fixtures exist, pull the November Jangchung home dates from the KOVO schedule page** and buy through the KOVO site — don't guess times.",
   "verdict": "prose"
  },
  "seoul.md#77:8e3df82f4d": {
@@ -61660,11 +62068,36 @@
   "file": "seoul.md",
   "kind": "SOURCE",
   "note": "Seeded from entry-level verification of seoul.md#77 on 2026-08-18. V-League 2026-27 season Oct 31 2026-Apr 2 2027 per KOVO board Dec 10 2025. Round fixtures not yet posted; entry correctly refuses to invent tip-off times.",
+  "retired": true,
   "sources": [
    "https://www.kovo.co.kr",
    "https://www.yna.co.kr/view/AKR20251210152800007"
   ],
   "text": "- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)",
+  "verdict": "sourced"
+ },
+ "seoul.md#77:96cf07a647": {
+  "checked_on": "2026-08-18",
+  "entry": 77,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass27: KOVO fixture release 2026-08-18; season Oct31-Apr2 per Yonhap AKR20251210152800007",
+  "sources": [
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632"
+  ],
+  "text": "- **When:** The KOVO board (Dec 10, 2025) set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027**, and **KOVO published the full round-by-round fixture list on Aug 18, 2026**.",
+  "verdict": "verified"
+ },
+ "seoul.md#77:a10ebdddab": {
+  "checked_on": "2026-08-18",
+  "entry": 77,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass27: source line; Edaily fetched, kovo.co.kr is fixture home",
+  "sources": [
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [kovo.co.kr — 2026–27 schedule](https://www.kovo.co.kr) · season dates via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007) · fixture release reported Aug 18 by [Edaily](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632) (opening-day matchups incl. GS Caltex vs KEC, Jangchung 17:00)",
   "verdict": "sourced"
  },
  "seoul.md#77:b9d506a851": {
@@ -61673,11 +62106,24 @@
   "file": "seoul.md",
   "kind": "DATE",
   "note": "Seeded from entry-level verification of seoul.md#77 on 2026-08-18. V-League 2026-27 season Oct 31 2026-Apr 2 2027 per KOVO board Dec 10 2025. Round fixtures not yet posted; entry correctly refuses to invent tip-off times.",
+  "retired": true,
   "sources": [
    "https://www.kovo.co.kr",
    "https://www.yna.co.kr/view/AKR20251210152800007"
   ],
   "text": "- **When:** The KOVO board (Dec 10, 2025) set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027**, with the postseason Apr 5–22, 2027. So the league is live from literally your first day in Korea. Round-by-round fixtures post on the KOVO site — **do not invent tip-off times**.",
+  "verdict": "verified"
+ },
+ "seoul.md#77:ce635117d5": {
+  "checked_on": "2026-08-18",
+  "entry": 77,
+  "file": "seoul.md",
+  "kind": "TIME",
+  "note": "Pass27: GS Caltex vs KEC Oct31 17:00 Jangchung in KOVO release reports (Edaily+Newscj 8/18)",
+  "sources": [
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632"
+  ],
+  "text": "- **✅ Confirmed opening-day fixture in Seoul:** **Sat Oct 31, 17:00 — GS Caltex (defending women's champion) vs Korea Expressway Corp at Jangchung Arena** — a championship-final rematch on your arrival day, 15 minutes from Myeong-dong (Line 3, Dongguk Univ. station). The men's opener (Korean Air vs Hyundai Capital, 14:00) is in Incheon.",
   "verdict": "verified"
  },
  "seoul.md#78:12aa212381": {
@@ -64066,6 +64512,112 @@
   "text": "- **What:** The **first retrospective** at the National Museum of Modern and Contemporary Art for **Lee Daewon (1921–2005)**, the landscape painter of Korea's postwar generations — his signature softly lit mountain-and-river scenes.",
   "verdict": "verified"
  },
+ "seoul.md#94:5aff9b81e5": {
+  "checked_on": "2026-08-18",
+  "entry": 94,
+  "file": "seoul.md",
+  "kind": "TIME",
+  "note": "Pass27: Nov13 19:30 Concert Hall on SAC page; Nov12 via Vincero/Hankyung, re-check noted in line",
+  "sources": [
+   "https://www.sac.or.kr/site/main/show/show_view?SN=77520"
+  ],
+  "text": "- **Where/when:** **Seoul Arts Center Concert Hall, 19:30** both nights. The **Nov 13 concert is confirmed on SAC's own show page**; Nov 12 is sold by the same promoter (Vincero) — early-year press briefly listed its venue as TBD, so double-check the Nov 12 hall when booking.",
+  "verdict": "verified"
+ },
+ "seoul.md#94:b0867c51a1": {
+  "checked_on": "2026-08-18",
+  "entry": 94,
+  "file": "seoul.md",
+  "kind": "PROSE",
+  "note": "Pass27: fetched, supports entry",
+  "sources": [
+   "https://www.sac.or.kr/site/main/show/show_view?SN=77520"
+  ],
+  "text": "- **Why it fits:** a world-class indoor evening in the middle week, and it doesn't clash with anything else in this guide (MMA is the following weekend).",
+  "verdict": "sourced"
+ },
+ "seoul.md#94:ce53e72fbd": {
+  "checked_on": "2026-08-18",
+  "entry": 94,
+  "file": "seoul.md",
+  "kind": "PRICE",
+  "note": "Pass27: price table R400k-C100k, elementary+, 120min on SAC page",
+  "sources": [
+   "https://www.sac.or.kr/site/main/show/show_view?SN=77520"
+  ],
+  "text": "- **Price:** R ₩400,000 / S ₩320,000 / A ₩240,000 / B ₩170,000 / C ₩100,000. Ages: elementary-school and up. ~120 min.",
+  "verdict": "verified"
+ },
+ "seoul.md#94:e122c19ef2": {
+  "checked_on": "2026-08-18",
+  "entry": 94,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass27: both programmes + casts listed on SAC page; Hankyung 2026-05-27 corroborates",
+  "sources": [
+   "https://www.sac.or.kr/site/main/show/show_view?SN=77520"
+  ],
+  "text": "- **What:** One of the world's top orchestras, two years after its last visit, under chief conductor **Sir Simon Rattle**. Two completely different programmes: **Nov 12 — Schubert Symphony No. 9 \"Great\" + Stravinsky *The Rite of Spring***; **Nov 13 — Mahler Symphony No. 2 \"Resurrection\"** with soprano Lucy Crowe, mezzo Karen Cargill, the National Chorus of Korea and Seoul Motet Choir — a signature Rattle piece, first time he conducts it in Korea.",
+  "verdict": "verified"
+ },
+ "seoul.md#94:f8192e5a30": {
+  "checked_on": "2026-08-18",
+  "entry": 94,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass27: planning advice",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Seoul Arts Center — official show page (Nov 13, prices, casts, both programmes)](https://www.sac.or.kr/site/main/show/show_view?SN=77520) · [Hankyung — promoter announcement, both dates at SAC](https://www.hankyung.com/article/2026052724281) · promoter Vincero ☎ 02-599-5743",
+  "verdict": "prose"
+ },
+ "seoul.md#95:473154906f": {
+  "checked_on": "2026-08-18",
+  "entry": 95,
+  "file": "seoul.md",
+  "kind": "PROSE",
+  "note": "Pass27: fetched, supports entry",
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
+  "text": "- **What:** A large sound-art / robotics installation exhibition by **Kwon Byungjun**, the former indie musician turned machine-performance artist, at the Seoul Museum of Art's **Bukseoul branch** in Nowon — the least touristed SeMA building, built into a neighborhood park.",
+  "verdict": "sourced"
+ },
+ "seoul.md#95:6cf5fd49c4": {
+  "checked_on": "2026-08-18",
+  "entry": 95,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass27: 2026/06/11-2027/05/16 Bukseoul on SeMA listing",
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
+  "text": "- **When:** **Jun 11, 2026 – May 16, 2027** — open your whole trip. Closed Mondays; SeMA branches are free.",
+  "verdict": "verified"
+ },
+ "seoul.md#95:8e61fefe5e": {
+  "checked_on": "2026-08-18",
+  "entry": 95,
+  "file": "seoul.md",
+  "kind": "DATE",
+  "note": "Pass27: both long-run commissions with dates on same listing (to 2027/04/11 and 2027/05/30)",
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
+  "text": "- **Why it's worth the ride:** pairs with a Nowon/Uidong day or a quiet rainy afternoon; Bukseoul also runs two long-duration commissions (《보편타당한 당신 — 심이다은》 to Apr 11, 2027 and 《몸을 위한 간주곡 — 소목장세미》 to May 30, 2027) on the same free floor, all confirmed on SeMA's live listing.",
+  "verdict": "verified"
+ },
+ "seoul.md#95:dfdd9b44f5": {
+  "checked_on": "2026-08-18",
+  "entry": 95,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass27: exhibition name/artist/branch on SeMA listing",
+  "sources": [
+   "https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [SeMA current-exhibition listing](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) — 《권병준: 내 마음속에 너는》 2026/06/11–2027/05/16, 서울시립 북서울미술관 · [Bukseoul visitor info](https://sema.seoul.go.kr/kr/visit/bukseoul)",
+  "verdict": "verified"
+ },
  "seoul.md#9:2c7cceb211": {
   "checked_on": "2026-08-18",
   "entry": 9,
@@ -65222,6 +65774,18 @@
   "text": "- **What:** Tethered helium balloon providing elevated views over the fortress area.",
   "verdict": "unchecked"
  },
+ "suwon.md#17:21080d229c": {
+  "checked_on": "2026-08-18",
+  "entry": 17,
+  "file": "suwon.md",
+  "kind": "TIME",
+  "note": "Pass25/27: Jangyongyeong ceremony season Apr 19-Oct 25, 2026 per swcf - unchanged line requeued by ledger churn",
+  "sources": [
+   "https://www.swcf.or.kr"
+  ],
+  "text": "- **⚠️ The Sunday-only Jangyongyeong guard ceremony (장용영 수위의식, 16:00–17:00 at Sinpungnu) does NOT run during your trip** — the city lists that season as ending **Sun Oct 25, 2026**, six days before you arrive. The regular Muye demonstrations (Tue–Sun 11:00, plus the Sat/Sun 14:00 afternoon show) are what remain.",
+  "verdict": "verified"
+ },
  "suwon.md#17:3ef3f52e9c": {
   "checked_on": "2026-08-18",
   "entry": 17,
@@ -65285,6 +65849,7 @@
   "file": "suwon.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
