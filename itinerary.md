@@ -86,25 +86,27 @@ Everything below is a real program whose **2026 November dates or details were u
 | S4 | 🎵 **"Culture Flowing Through Seoul Plaza"** (seoul #24) | November Wednesday concert dates/times | [festival.seoul.go.kr (festacode 378)](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=378) · cultureseoul.co.kr |
 | S5 | 🦒 **Seoul Grand Park Autumn Festival** (seoul #20) | Confirm the 예정 (planned) Oct 31–Nov 8 dates and program | [festival page](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=465) |
 | S6 | 🪑 **Craft Museum "Craft Landscapes"** (seoul #22) | Whether the provisional Oct 26–Nov 15 exhibition materialises and its real title | [craftmuseum.seoul.go.kr](https://craftmuseum.seoul.go.kr/main) |
-| S7 | 🏐🏀 **V-League & KBL Seoul home dates** (seoul #77/#80) | Round-by-round fixtures; SK Knights' BCL-Asia away window; both teams now share Jamsil Students' Gym | [kovo.co.kr](https://www.kovo.co.kr) · [kbl.or.kr](https://www.kbl.or.kr) |
+| S7 | 🏐🏀 **V-League & KBL Seoul home dates** (seoul #77/#80) | ✅ V-League fixtures **published Aug 18** — pull the November **Jangchung Arena** home dates now (GS Caltex opener Oct 31 17:00 already confirmed). KBL: check SK Knights' BCL-Asia away window; SK/Samsung share **Jamsil Students' Gym** | [kovo.co.kr](https://www.kovo.co.kr) · [kbl.or.kr](https://www.kbl.or.kr) |
 | S8 | ⚽ **FC Seoul final-round home games** (seoul #79) | Final A/B fixtures drop right after Oct 25; expect 2–3 home games at World Cup Stadium | [kleague.com](https://www.kleague.com/schedule.do) |
 | S9 | 🇰🇷 **Korea national-team friendlies** (seoul #82) | November FIFA window opponents/venue (Nov 9–17) | [kfa.or.kr](https://www.kfa.or.kr) |
 | S10 | 🎤 **KBS Music Bank** (seoul #88) | In-window tapings Nov 6/13/20 — foreigner lottery application | [english.kbs.co.kr](https://english.kbs.co.kr/about/faq.html) |
 | S11 | 🎭 **NANTA & November musicals** (seoul #83/#84) | Book only dated shows (ELISABETH, Hell's Kitchen, etc. — closing dates change) | [nanta.co.kr](https://www.nanta.co.kr) · [nol.world](https://www.nol.world) |
 | S12 | 🚶 **Seoul Walking Tours** (seoul #90) | November course calendar; book days ahead | [sto.or.kr](https://www.sto.or.kr) |
+| S13 | 🎻 **Rattle & BRSO Nov 12–13** (seoul #94) | Book early (top price tiers sell out); double-check the **Nov 12 hall** — early press listed it as TBD, promoter says SAC | [sac.or.kr show page](https://www.sac.or.kr/site/main/show/show_view?SN=77520) |
 
 ### Busan
 | # | Item (file entry) | What to check in mid-October | Official source |
 |---|---|---|---|
 | B1 | 🎆 **Busan Fireworks Festival** (busan #1) | Exact show start time + any paid-seat sale (recent years YES24) | [busanfireworks.com](https://busanfireworks.com) |
 | B2 | 🎮 **G-STAR 2026** (busan #2) | Public hall hours + ticket prices; keep an eye on the Nov 18 vs 19 start-date discrepancy | [gstar.or.kr](https://www.gstar.or.kr) |
-| B3 | 🏐🏀 **OK Savings Bank / KCC Egis / BNK Sum** (busan #6/#7) | V-League fixtures at Gangseo Sports Park; KBL November break risk (FIBA window Nov 23–Dec 1) | [kovo.co.kr](https://www.kovo.co.kr) · [kbl.or.kr](https://www.kbl.or.kr) |
+| B3 | 🏐🏀 **OK Savings Bank / KCC Egis / BNK Sum** (busan #6/#7) | ✅ V-League fixtures **published Aug 18** — pull the November **Gangseo Sports Park** home dates now and book online (sell-out club). KBL November break risk stands (FIBA window Nov 23–Dec 1) | [kovo.co.kr](https://www.kovo.co.kr) · [kbl.or.kr](https://www.kbl.or.kr) |
 | B4 | 🛩️ **Gwangalli drone show** (busan #9) | Whether Nov 7 runs a normal show on fireworks night; weather rule | [gwangallimdrone.co.kr](https://www.gwangallimdrone.co.kr/overview) |
 | B5 | 🎨 **Busan Museum of Art reopening** (busan #20) | Reopening special exhibition confirmed? Main building open? (renovation lifts ~mid-Sep) | [art.busan.go.kr](https://art.busan.go.kr/index.nm) |
 | B6 | 🦩 **Busan MoCA de-install closure** (busan #39) | Any November closure after the Biennale (ends Nov 1); rooftop/shuttle still suspended | [MoCA notice board](https://www.busan.go.kr/moca_en/newsEvent0101) |
 | B7 | 🎵 **National Gugak Center Busan** (busan #50) | November performance calendar; Experience Hall hours | [busan.gugak.go.kr](http://busan.gugak.go.kr) |
 | B8 | 💡 **Winter illuminations** (busan #8) | Gwangbok-ro tree festival 2026 start (Dec, likely missed); Seomyeon switch-on | [visitbusan.net](https://www.visitbusan.net) |
 | B9 | 🗼🐟🚠 **BISCO pages** (busan #21/#22/#28) | Yongdusan, Jagalchi, Taejongdae pages were down Aug 18 — re-verify hours/fares once back | [bisco.or.kr](https://www.bisco.or.kr) |
+| B10 | 🎻 **Busan Concert Hall** (busan #51) | November concert calendar (a Nov 6 Tchaikovsky programme was circulating on ticket sites — book only from the official schedule) | [classicbusan.busan.go.kr](https://classicbusan.busan.go.kr/Home/ko/Main) |
 
 ### Daegu
 | # | Item (file entry) | What to check in mid-October | Official source |
@@ -112,11 +114,13 @@ Everything below is a real program whose **2026 November dates or details were u
 | D1 | 🎺 **Crossbones Trombones** (daegu #2) | Ticket on-sale and start time (Nov 12, Biseul Hall) | [daeguartscenter.or.kr](https://www.daeguartscenter.or.kr) |
 | D2 | 🎭 **SAC on Screen: Othello** (daegu #4) | Nov 7 screening's hall + start time once posted (only the date is on the annual calendar) | [Daegu Art Factory calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026) |
 | D3 | 🎨 **Daegu Art Festival Part 2** (daegu #35) | Confirm admission (free?) and the Sun Nov 22 16:00 early close | [dgfca.or.kr](https://dgfca.or.kr/event/search/list) |
-| D4 | ⚽⚾ **Daegu FC / Samsung Lions** (daegu #33/#34) | Final-round home fixtures (late Oct); KBO postseason | [daegufc.co.kr](https://www.daegufc.co.kr) · [kleague.com](https://www.kleague.com) · [koreabaseball.com](https://www.koreabaseball.com) |
+| D4 | ⚽⚾ **Daegu FC / Samsung Lions** (daegu #33/#34) | Daegu FC is in **K League 2**: confirm the apparent **home game Sun Nov 22 14:00 vs Gimhae** (and possibly Oct 31 vs Suwon Samsung) on the official match centre — club site was down Aug 18. KBO postseason separately | [daegufc.co.kr](https://www.daegufc.co.kr) · [kleague.com](https://www.kleague.com/schedule.do) · [koreabaseball.com](https://www.koreabaseball.com) |
 | D5 | 🎢 **E-World / 83 Tower** (daegu #32) | November hours + any seasonal illumination program | [eworld.kr](https://eworld.kr) |
 | D6 | 🚡 **Palgongsan cable car** (daegu #27) | November maintenance/weather operation | [palgongcablecar.com](http://www.palgongcablecar.com/) |
 | D7 | 🏺 **Daegu National Museum** (daegu #28) | Any November special exhibition | [daegu.museum.go.kr](https://daegu.museum.go.kr/eng/) |
 | D8 | 🎭 **Daegu Opera House** (daegu #31) | Any November production (festival ended Oct 31) | [daeguoperahouse.org](https://www.daeguoperahouse.org/) |
+| D9 | 🎼 **Daegu Symphony November concert** (daegu #36) | Exact date/programme of the November subscription concert at Daegu Concert House (season plan: Falla/Ravel) | [daeguconcerthouse.or.kr](https://daeguconcerthouse.or.kr/) |
+| D10 | 🎨 **Yi In-seong Art Prize show** (daegu #29) | Whether the 26th winner's exhibition opens ~Nov 4 at Daegu Art Museum (annual pattern) | [daeguartmuseum.or.kr](https://daeguartmuseum.or.kr/index.do?menu_id=00000729) |
 
 ### Myeong-dong
 | # | Item (file entry) | What to check in mid-October | Official source |
@@ -128,6 +132,7 @@ Everything below is a real program whose **2026 November dates or details were u
 | M5 | 🎭 **National Jeongdong Theater** (myeongdong #32) | November production | [jeongdong.or.kr](https://www.jeongdong.or.kr/portal/bbs/B0000252/list.do?menuNo=200001) |
 | M6 | 🏙️ **Seoul Gallery (City Hall basement)** (myeongdong #24) | Current exhibition + hours (Nov–Feb Mon–Sat 09:00–20:00) | [english.seoul.go.kr](https://english.seoul.go.kr/seoul-city-hall-underground-space-reborn-as-my-friend-seoul-seoul-gallery/) |
 | M7 | 🥁 **NANTA Myeongdong** (myeongdong #3) | Daily showtimes hold, but re-confirm before booking | [nanta.co.kr](https://www.nanta.co.kr:452/kr/show/detail.php?id=1) |
+| M8 | 🚂 **Culture Station Seoul 284 fall exhibition** (myeongdong #37) | Title + dates of the Sep–Nov flagship show (KCDF plan) — nothing posted at Aug 18 review | [seoul284.org](https://www.seoul284.org/main) |
 
 ---
 

@@ -59,9 +59,9 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ### 8) 🎻 **Kings of Convenience — SJF at the Theater** — ✅ CONFIRMED — Wed Nov 18, 2026 · 20:00 · UPDATED
 - **What:** The Norwegian folk-pop duo (Eirik Glambek Bøe and Erlend Øye) — *Quiet Is the New Loud*, "Homesick", "Misread" — headlining the **first-ever show of "SJF at the Theater"**, a new indoor off-season spin-off of the Seoul Jazz Festival brand. Nicely full-circle: Sejong Center's Grand Theater hosted the first five editions of SJF from 2007–2011.
-- **When/where:** **Wed Nov 18, 2026, 20:00**, **Sejong Center Grand Theater (세종문화회관 대극장)** — Gwanghwamun, Line 5. Their first large-hall Seoul headline show in about **16 years** (last was Olympic Hall, 2010); promoter is Private Curve.
+- **When/where:** **Wed Nov 18, 2026, 20:00**, **Sejong Center Grand Theater (세종문화회관 대극장)** — Gwanghwamun, Line 5. Promoter is Private Curve. ✏️ **Correction (Aug 18):** an earlier version called this their first big Seoul headline show in ~16 years — in fact the promoter's own announcement notes they've played **four solo Seoul concerts before (2008, 2010, 2023, 2025)** plus three Seoul Jazz Festival appearances; what's new is the venue series, not the visit itself.
 - **Why it fits your trip:** a calm, seated, indoor evening in central Seoul on a Wednesday — the back half of the trip is thin on events, and this one is a 10-minute walk from Gwanghwamun and Deoksugung.
-- **Official sources (reviewed Aug 18):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136) *(intermittently 502s — retry or use the Korean site)* · [OhmyStar report on the promoter's announcement](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003247950) · [Maeil Business Newspaper](https://www.mk.co.kr/news/culture/12101426)
+- **Official sources (reviewed Aug 18):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136) *(intermittently 502s — retry or use the Korean site)* · [OhmyStar report on the promoter's announcement](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003247950) · [Joongang Economy — promoter announcement (Nov 18 20:00, Sejong Grand Theater; four prior solo visits)](https://www.joongangenews.com/news/articleView.html?idxno=530201)
 
 ### 9) 🎵 **Jason Mraz — Asia Tour 2026** — ✅ CONFIRMED — Sat Nov 14, 2026 · Goyang (KINTEX)
 - **What:** The **finale** of Mraz's first Asia tour in 7 years (Manila Oct 27 → Bangkok/KL/Taipei/HK/Tokyo/Osaka → Seoul). Full band with Raining Jane, retrospective set spanning 20 years.
@@ -529,7 +529,7 @@ No prior-year pattern is labeled confirmed. Re-check Visit Seoul, the festival c
 - Hangang Night View Tour (fall) — official listing ends **Oct 31**
 - Banpo Rainbow Fountain — April–October only
 - Changdeokgung Moonlight Tour fall dates — TBA; 2025 ran Sep–Oct
-- Seoul Lantern Festival / Seoul Light DDP Winter — December
+- Seoul Lantern Festival / Seoul Light DDP Winter — December; **Seoul Light Gwanghwamun confirmed Dec 11, 2026 – Jan 3, 2027** on the [official festival calendar](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372)
 - AGF 2026 — Dec 4–6, KINTEX
 - MAMA Awards 2026 — Nov 20–21 in **Osaka** (stream, not a Seoul event)
 

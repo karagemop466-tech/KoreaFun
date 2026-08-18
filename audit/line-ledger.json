@@ -63834,6 +63834,7 @@
   "file": "seoul.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -63883,6 +63884,7 @@
   "file": "seoul.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources",
+  "retired": true,
   "sources": [
    "https://www.mmca.go.kr",
    "https://festival.seoul.go.kr",
@@ -63925,6 +63927,18 @@
   ],
   "text": "- **Official sources (reviewed Aug 18):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136) *(intermittently 502s — retry or use the Korean site)* · [OhmyStar report on the promoter's announcement](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003247950) · [Maeil Business Newspaper](https://www.mk.co.kr/news/culture/12101426)",
   "verdict": "verified"
+ },
+ "seoul.md#8:b1e2e982ec": {
+  "checked_on": "2026-08-18",
+  "entry": 8,
+  "file": "seoul.md",
+  "kind": "SOURCE",
+  "note": "Pass28: Joongang Economy promoter announcement replaces stale MK link",
+  "sources": [
+   "https://www.joongangenews.com/news/articleView.html?idxno=530201"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [YES24 Ticket](https://ticket.yes24.com/English/Perf/59136) *(intermittently 502s — retry or use the Korean site)* · [OhmyStar report on the promoter's announcement](https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003247950) · [Joongang Economy — promoter announcement (Nov 18 20:00, Sejong Grand Theater; four prior solo visits)](https://www.joongangenews.com/news/articleView.html?idxno=530201)",
+  "verdict": "sourced"
  },
  "seoul.md#8:b79141fcc6": {
   "checked_on": "2026-08-18",
@@ -64023,6 +64037,18 @@
   ],
   "text": "- **What:** The Norwegian folk-pop duo (Eirik Glambek Bøe and Erlend Øye) — *Quiet Is the New Loud*, \"Homesick\", \"Misread\" — headlining the **first-ever show of \"SJF at the Theater\"**, a new indoor off-season spin-off of the Seoul Jazz Festival brand. Nicely full-circle: Sejong Center's Grand Theater hosted the first five editions of SJF from 2007–2011.",
   "verdict": "verified"
+ },
+ "seoul.md#8:b9c1667213": {
+  "checked_on": "2026-08-18",
+  "entry": 8,
+  "file": "seoul.md",
+  "kind": "TIME",
+  "note": "Pass28: Nov18 20:00 Sejong Grand confirmed; removed false 'first in 16 years' (4 prior solo visits 2008/2010/2023/2025 per promoter)",
+  "sources": [
+   "https://www.joongangenews.com/news/articleView.html?idxno=530201"
+  ],
+  "text": "- **When/where:** **Wed Nov 18, 2026, 20:00**, **Sejong Center Grand Theater (세종문화회관 대극장)** — Gwanghwamun, Line 5. Promoter is Private Curve. ✏️ **Correction (Aug 18):** an earlier version called this their first big Seoul headline show in ~16 years — in fact the promoter's own announcement notes they've played **four solo Seoul concerts before (2008, 2010, 2023, 2025)** plus three Seoul Jazz Festival appearances; what's new is the venue series, not the visit itself.",
+  "verdict": "corrected"
  },
  "seoul.md#90:181c7a7bdd": {
   "checked_on": "2026-08-18",

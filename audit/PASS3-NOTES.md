@@ -1082,3 +1082,12 @@ Re-fetched the official source for every ✅ dated event entry in the four files
 **Explicitly NOT added (checked and rejected):** BEXCO November trade fairs (Food Fair Busan is Nov 26–29, after the trip; Seafood Expo unconfirmed); 신승훈/조정석 BEXCO concerts (year unverifiable from official pages this session); Jeongdong Theater November production (nothing published — entry #32 stays ⏳); Gyeongju/Osaka items out of scope.
 
 **README:** counts 573 → 578; four-city rows and the Oct 31 quick-view row updated.
+
+---
+
+## Pass 28 — 2026-08-18: follow-through after Pass 27
+
+- **KOVO fixture detail:** kovo.co.kr is a JS app with no server-rendered fixture pages (guessed schedule/press URLs 404), and per-round November detail is not yet in press beyond opening day — busan #6 / seoul #77 correctly say "pull November dates from kovo.co.kr". Daegu FC's site still HTTP 500; daegu #34 stays `unresolved` pending the official match centre.
+- **⏳ sweep:** Seoul Kimjang Festival — no 2026 announcement (stays TBA). Korea Sale FESTA — only contradictory SEO blogs (Nov 1–15 vs Nov 1–30, one citing an impossible weekday); the entry's existing warning is validated, no change. New: **Seoul Light Gwanghwamun confirmed Dec 11, 2026 – Jan 3, 2027** on the official festival calendar (festacode 372) — added to seoul.md's "Just outside the window" list.
+- **Correction:** seoul #8 (Kings of Convenience) — the claim "first large-hall Seoul headline show in ~16 years" contradicted the promoter's own announcement (four prior solo Seoul concerts: 2008, 2010, 2023, 2025, plus three SJF appearances). Rewritten; Joongang Economy citation added. Nov 18 20:00 Sejong Grand Theater re-confirmed.
+- **Itinerary:** re-check calendar updated — S7/B3 now note the Aug 18 KOVO fixture publication (Jangchung/Gangseo home dates pullable now), S13 (BRSO Nov 12 hall re-check), B10 (Busan Concert Hall calendar), D4 rewritten (K League 2 + Nov 22 Gimhae confirm), D9 (Daegu Symphony November date), D10 (Yi In-seong prize show ~Nov 4), M8 (Culture Station 284 fall show title).
