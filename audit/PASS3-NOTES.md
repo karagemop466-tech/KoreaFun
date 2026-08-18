@@ -1091,3 +1091,34 @@ Re-fetched the official source for every ✅ dated event entry in the four files
 - **⏳ sweep:** Seoul Kimjang Festival — no 2026 announcement (stays TBA). Korea Sale FESTA — only contradictory SEO blogs (Nov 1–15 vs Nov 1–30, one citing an impossible weekday); the entry's existing warning is validated, no change. New: **Seoul Light Gwanghwamun confirmed Dec 11, 2026 – Jan 3, 2027** on the official festival calendar (festacode 372) — added to seoul.md's "Just outside the window" list.
 - **Correction:** seoul #8 (Kings of Convenience) — the claim "first large-hall Seoul headline show in ~16 years" contradicted the promoter's own announcement (four prior solo Seoul concerts: 2008, 2010, 2023, 2025, plus three SJF appearances). Rewritten; Joongang Economy citation added. Nov 18 20:00 Sejong Grand Theater re-confirmed.
 - **Itinerary:** re-check calendar updated — S7/B3 now note the Aug 18 KOVO fixture publication (Jangchung/Gangseo home dates pullable now), S13 (BRSO Nov 12 hall re-check), B10 (Busan Concert Hall calendar), D4 rewritten (K League 2 + Nov 22 Gimhae confirm), D9 (Daegu Symphony November date), D10 (Yi In-seong prize show ~Nov 4), M8 (Culture Station 284 fall show title).
+
+---
+
+## Pass 29 — 2026-08-18: ten-city verification re-run + expansion (Suwon · Yongin · Incheon · Jeonju · Gyeongju · Ulsan · Pohang · Changwon · Yeosu · Daejeon/Cheonan)
+
+Re-fetched the official source for every headline ✅ dated event in the ten nearby-city files, live this session.
+
+**Re-verified exact:**
+- Suwon: BeautySum Nov 5–7 Suwon Convention Center (city-sourced press ×4); Piccinini《킨쉽》 Jul 23–Nov 1 SUMA Haenggung, 56 works (city press + reviews); Haenggung night opening 달빛화담 May 1–Nov 1 Fri–Sun to 21:30 (city announcements); K League 2 R32/R33 dates re-confirmed for the Bluewings fixtures.
+- Yongin: KFV operator banners live-confirm Salgwiok / Hyeoransikgwi / Joseon Murder Investigation all **26.04.11–26.11.15**; Art Spectrum 2026 Sep 1–Dec 27, Hoam, 23 teams/10 countries, with Palais de Tokyo (d-art plan + Aug 2026 press).
+- Incheon: INAS 2026 Nov 19–22 Songdo Convensia + full hours table (organizer sites, 161 booths, 6th edition); MCR Nov 7 19:00 Paradise City Culture Park (promoter ualive official page — standing ₩175,000, 90 min, 12+; postponed from Apr 18, sold out).
+- Jeonju: Seogosa Nahan (가제) 2026-09-16~11-29, 기획전시실 (NMK branch-exhibitions page).
+- Gyeongju: Wolseong stele fragments — museum homepage lists **Apr 13–Dec 31, 2026** (April press said to Aug 17; official page's Dec 31 governs; entry already correct).
+- Ulsan: 《국민화가 이중섭》 (가제) 2026.10.15–2027.1.17, Gallery 2, with MMCA, ~150 works (museum page on ulsan.go.kr).
+- Pohang: foundation festival page re-fetched — **still Nov 14–22, 국제불꽃쇼 11.21(토) 예정, Yeongildae**; KTO 2026 listing now carries Nov 20–22 with full programme (Korea/Canada/Italy teams, drone show, 14:00–22:00, free). Entry's discrepancy note rewritten: Nov 20–22 = certain core. Music festival 2026 still 일자 미발표 → WATCH stands.
+- Changwon: Maria Kim Morning Concert Nov 17 11:00 Seongsan Art Hall small theater ₩20,000 — in the foundation's Aug 10, 2026 season announcement (series is nominally 2nd Tuesdays; November's is explicitly the 17th).
+- Yeosu: Expo homepage header — **2026. 9. 5.–11. 4., 휴장일 10.6.(화)**, Dolsan Jinmo + Gaedo + Geumodo + Expo site.
+- Daejeon: Wine EXPO homepage — DCC, **11.06(금)–11.08(일)**, Asia Wine Trophy Nov 1–8, D-80 countdown consistent.
+
+**Corrections/updates:**
+- `daejeon-cheonan.md` #3 — KOVO fixture-release upgrade (published Aug 18; Hyundai Capital opens away Oct 31); "FIXTURES LATER" removed.
+- `pohang.md` #29 — discrepancy note rewritten (foundation Nov 14–22 vs KTO Nov 20–22 with programme; core = Nov 20–22).
+- `daejeon-cheonan.md` #14 — DMA winter hours added; Science & Art Biennale pattern (2024: Oct 25–Feb 2; 2026 in prep, dates TBA); 2026 Warhol/Lee Jung-seop shows run before the trip.
+- `yongin.md` #11 — Everland Christmas Fantasy dated pattern added (2025: Nov 28–Dec 31; earlier year: from Nov 16; 2026 TBA).
+
+**New entry:**
+- `changwon-jinhae.md` #30 — **Masan Gagopa Chrysanthemum Festival** (⏳ 2026 TBA; 25th: Nov 1–9, 2025, 3.15 Marine Nuri + Happo, free, 09:00–22:00; 24th: Oct 26–Nov 3, 2024; Korea's biggest autumn flower festival, city-hosted).
+
+**Hunted and rejected:** Inspire Arena November 2026 (nothing in-window; nearest Dec 5–6/12); Daejeon 2026 Warhol/Lee Jung-seop (before trip); BEXCO November trade fairs (after trip window or unverified).
+
+**README:** 578 → 579; changwon row updated. **Itinerary:** 3 new re-check rows (chrysanthemum festival, Everland winter start, Daejeon biennale).

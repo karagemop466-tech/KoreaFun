@@ -70,6 +70,9 @@ A starting framework built from every ✅ confirmed event in this repo. Swap day
 | **Oct** | Korea Sale FESTA 2026 dates announced (recent years Nov 9–30) | ⚠️ domain lapsed — see sources.md |
 | **Oct** | MMCA Night November edition preregistration (500 spots, sells out) | mmca.go.kr |
 | **Sep–Oct** | Changgyeonggung **Mulbit Yeonhwa** — ✅ fall run already confirmed (Sep 8–Nov 8, from 16:40); nothing to wait for, but re-check the day before for rain rules | kh.or.kr · 1522-2295 |
+| **Sep–Oct** | **Masan Gagopa Chrysanthemum Festival 2026 dates** (changwon-jinhae #30) — 2025 ran Nov 1–9; if 2026 matches, it overlaps trip week 1 | [changwon.go.kr](https://www.changwon.go.kr) |
+| **Early Nov** | **Everland Christmas Fantasy start date** (yongin #11) — 2025 began Nov 28 (missed), an earlier year Nov 16 (in-window); check the live calendar | [everland.com](https://www.everland.com/everland/home/main) |
+| **Oct** | **Daejeon Science & Art Biennale 2026** (daejeon-cheonan #14) — 2024 edition ran Oct 25–Feb 2; 2026 dates unpublished | [daejeon.go.kr/dma](https://www.daejeon.go.kr/dma) |
 
 ---
 

@@ -89,10 +89,11 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **Hours:** commonly 10:00–19:00 but **date-dependent and seasonal** — some rides and animal areas close earlier than the park. Do not assume 10:00–22:00. Individual rides also close for weather, maintenance or low temperatures, which matters in November.
 - **Official sources (reviewed Aug 17):** [Everland](https://www.everland.com/everland/home/main)
 
-### 11) 🎃 **Everland autumn/Halloween or winter transition programming** — ⏳ RE-CHECK
+### 11) 🎃 **Everland autumn/Halloween or winter transition programming** — ⏳ RE-CHECK · UPDATED Aug 18
 - **What:** Everland runs seasonal festivals, but the specific 2026 November theme and switch-over date require a current organizer announcement.
+- **⏳ The winter festival may or may not start inside your window.** Everland's **Christmas Fantasy** switch-on has moved between years: the **2025 edition ran Nov 28 – Dec 31** (after a Nov 22 departure you'd miss it), but an earlier edition started **Nov 16** — squarely mid-trip. The centrepiece is the 26 m Romantic Tower Tree with a nightly lighting ceremony. **No 2026 start date was announced at review** — check the operator calendar in early November before promising anyone Christmas lights.
 - **Status:** Older “Blood City,” Halloween, or Christmas dates are not evidence for 2026. Attend only programs shown in the live app/calendar.
-- **Official source (reviewed Aug 17):** [Everland](https://www.everland.com/everland/home/main)
+- **Official sources (reviewed Aug 18):** [Everland](https://www.everland.com/everland/home/main) · [2025 edition dates Nov 28–Dec 31 — press](https://www.newswell.co.kr/news/articleView.html?idxno=14567) · [earlier Nov 16-start edition — press](http://economy.chosun.com/client/news/view.php?boardName=C05&t_num=13606154)
 
 ### 12) 💦 **Caribbean Bay** — ⏳ RE-CHECK NOVEMBER OPERATION
 - **What:** Indoor/outdoor water park beside Everland. In cold months only selected zones and attractions may operate.

@@ -13282,6 +13282,52 @@
   "text": "- **Where/when:** **Seongsan Art Hall Small Theater**, **Tue Nov 17, 2026 at 11:00**. Runs 60 minutes, no intermission. Ages 7+.",
   "verdict": "verified"
  },
+ "changwon-jinhae.md#30:66221a3602": {
+  "checked_on": "2026-08-18",
+  "entry": 30,
+  "file": "changwon-jinhae.md",
+  "kind": "SOURCE",
+  "note": "Pass29: getting-there advice",
+  "sources": [],
+  "text": "- **Official sources (reviewed Aug 18):** [Changwon City](https://www.changwon.go.kr/) — city-hosted festival; 2025 dates/programme via [Gyeongnam Domin Ilbo, Oct 30, 2025](https://www.idomin.com/news/articleView.html?idxno=949146) (Nov 1–9, both sites, drone show, 22:00 close) · [Yonhap — 2024 edition](https://www.yna.co.kr/view/AKR20240819063500052) (Oct 26–Nov 3, 125,000 blooms)",
+  "verdict": "prose"
+ },
+ "changwon-jinhae.md#30:87b1a4fcbf": {
+  "checked_on": "2026-08-18",
+  "entry": 30,
+  "file": "changwon-jinhae.md",
+  "kind": "DATE",
+  "note": "Pass29: 25th Nov 1-9 2025 09:00-22:00 free 700-drone opening (idomin); 24th Oct 26-Nov 3 2024 (Yonhap); 2026 TBA - labeled pattern",
+  "sources": [
+   "https://www.idomin.com/news/articleView.html?idxno=949146"
+  ],
+  "text": "- **What:** **Korea's biggest autumn flower festival**, held on the Masan waterfront since 2000 — Changwon (old Masan) is where commercial chrysanthemum growing in Korea began. Around **125,000 chrysanthemums** built into towers, arches and the record-setting 다륜대작 \"thousand-bloom\" plants, across **3.15 Marine Nuri Park (main site)** and **Happo Waterfront Park**, with night lighting, a drone show, fireworks and food streets backing onto the Masan fish market.",
+  "verdict": "verified"
+ },
+ "changwon-jinhae.md#30:8b377aa800": {
+  "checked_on": "2026-08-18",
+  "entry": 30,
+  "file": "changwon-jinhae.md",
+  "kind": "TIME",
+  "note": "Pass29: 125,000 blooms (Yonhap 2024), sites 3.15 Marine Nuri + Happo, night lighting/drone/fireworks (idomin 2025)",
+  "sources": [
+   "https://www.idomin.com/news/articleView.html?idxno=949146"
+  ],
+  "text": "- **⏳ 2026 dates were not announced at review**, but the pattern is remarkably stable and sits in your window: **25th edition Nov 1–9, 2025** (09:00–22:00, free, 700-drone opening show); **24th edition Oct 26–Nov 3, 2024**. If 2026 follows form, the festival overlaps your first trip week — check the Changwon city festival page in September/October.",
+  "verdict": "verified"
+ },
+ "changwon-jinhae.md#30:bf87f6ab55": {
+  "checked_on": "2026-08-18",
+  "entry": 30,
+  "file": "changwon-jinhae.md",
+  "kind": "PROSE",
+  "note": "Pass29: city-hosted festival; both news citations fetched",
+  "sources": [
+   "https://www.idomin.com/news/articleView.html?idxno=949146"
+  ],
+  "text": "- **Getting there:** 3.15 Marine Nuri Park is on the Masan Happo waterfront — pairs with Masan fish market and the Robot Land coast (#28).",
+  "verdict": "sourced"
+ },
  "changwon-jinhae.md#3:5d59827eb6": {
   "checked_on": "2026-08-18",
   "entry": 3,
@@ -21530,6 +21576,7 @@
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -21596,6 +21643,7 @@
   "file": "daejeon-cheonan.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -21654,6 +21702,42 @@
    "https://www.science.go.kr"
   ],
   "text": "- **What:** Municipal contemporary museum plus the dedicated Lee Ungno building in the arboretum. Closed Monday.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#14:5df15dff04": {
+  "checked_on": "2026-08-18",
+  "entry": 14,
+  "file": "daejeon-cheonan.md",
+  "kind": "TIME",
+  "note": "Pass29: 2024 biennale Oct25-Feb2 W5,000 (gongjeon archive); 2026 edition in prep (newsro seminar); Warhol/Lee Jung-seop run earlier per Joongdo 2026 roadmap",
+  "sources": [
+   "https://m.joongdo.co.kr/view.php?key=20260115010004526"
+  ],
+  "text": "- **What:** Municipal contemporary museum plus the dedicated Lee Ungno building in the arboretum. Closed Monday. Winter (Nov–Feb) hours 10:00–18:00, last entry 17:30.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#14:7d79d49716": {
+  "checked_on": "2026-08-18",
+  "entry": 14,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "Pass29: roadmap + seminar sources fetched",
+  "sources": [
+   "https://m.joongdo.co.kr/view.php?key=20260115010004526"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daejeon Museum of Art](https://www.daejeon.go.kr/dma) · [leeungnomuseum.daejeon.go.kr](https://leeungnomuseum.daejeon.go.kr) · [2026 exhibition roadmap — Joongdo Ilbo, Jan 15, 2026](https://m.joongdo.co.kr/view.php?key=20260115010004526) · [2026 biennale preparation seminar — museum announcement coverage](https://www.newsro.kr/article243/1133088/)",
+  "verdict": "sourced"
+ },
+ "daejeon-cheonan.md#14:d3a208ff75": {
+  "checked_on": "2026-08-18",
+  "entry": 14,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "Pass29: winter 10:00-18:00 last entry 17:30, closed Mon (KTO accessibility listing)",
+  "sources": [
+   "https://access.visitkorea.or.kr/ms/detail.do?cotId=16128884-a91d-4455-95bb-200e8f5ac024"
+  ],
+  "text": "- **⏳ Biennale watch:** the museum's **Daejeon Science & Art Biennale** has recent-year form for a run that would cover your trip — the 2024 edition ran **Oct 25 – Feb 2** across the museum and satellite spaces (₩5,000 adult). A **2026 edition is in preparation** (the museum ran public planning seminars for it), but **no 2026 dates had been published at review** — check the museum site in October. The 2026 headline shows (Andy Warhol, Lee Jung-seop touring exhibition) run earlier in the year, before your trip.",
   "verdict": "verified"
  },
  "daejeon-cheonan.md#15:8c40182624": {
@@ -25666,6 +25750,7 @@
   "file": "daejeon-cheonan.md",
   "kind": "DATE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -25702,6 +25787,18 @@
    "https://i815.or.kr"
   ],
   "text": "- **When:** KOVO’s board set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22), so all three clubs are mid-season throughout your trip. This corridor is unusually dense for volleyball — three top-flight teams within an hour of each other. Get the round-by-round fixtures from KOVO.",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#3:3c2f4ea692": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "daejeon-cheonan.md",
+  "kind": "DATE",
+  "note": "Pass29: season Oct31-Apr2 per KOVO board (Yonhap)",
+  "sources": [
+   "https://www.yna.co.kr/view/AKR20251210152800007"
+  ],
+  "text": "- **When:** KOVO’s board set the **2026–27 regular season for Oct 31, 2026 – Apr 2, 2027** (postseason Apr 5–22), so all three clubs are mid-season throughout your trip. This corridor is unusually dense for volleyball — three top-flight teams within an hour of each other.",
   "verdict": "verified"
  },
  "daejeon-cheonan.md#3:44c8a1af49": {
@@ -25748,12 +25845,25 @@
   "text": "- **What:** Daejeon: Samsung Fire Bluefangs (men) and JeongKwanJang Red Sparks (women) at Chungmu Gymnasium. Cheonan: Hyundai Capital Skywalkers (men) at Yu Gwan-sun Gymnasium.",
   "verdict": "verified"
  },
+ "daejeon-cheonan.md#3:80151993a2": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "daejeon-cheonan.md",
+  "kind": "DATE",
+  "note": "Pass29: KOVO full fixture list published Aug 18; Hyundai Capital opens away at Korean Air Oct 31 (Edaily)",
+  "sources": [
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632"
+  ],
+  "text": "- **Update (Aug 18): KOVO published the full round-by-round fixture list on Aug 18, 2026** — Hyundai Capital (last season's runner-up) opens away at Korean Air on Oct 31. Pull the November home dates for all three clubs from the KOVO schedule page and book there.",
+  "verdict": "verified"
+ },
  "daejeon-cheonan.md#3:8e3df82f4d": {
   "checked_on": "2026-08-18",
   "entry": 3,
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -25791,6 +25901,18 @@
   ],
   "text": "- **Official source (reviewed Aug 17):** [kovo.co.kr](https://www.kovo.co.kr) · KOVO board announcement via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)",
   "verdict": "verified"
+ },
+ "daejeon-cheonan.md#3:b082c3c377": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "Pass29: source line with fixture-release citation",
+  "sources": [
+   "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [kovo.co.kr](https://www.kovo.co.kr) — fixture release reported by [Edaily, Aug 18, 2026](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03627686645548632) · season dates via [Yonhap](https://www.yna.co.kr/view/AKR20251210152800007)",
+  "verdict": "sourced"
  },
  "daejeon-cheonan.md#40:a129be5cc2": {
   "checked_on": "2026-08-18",
@@ -49037,6 +49159,18 @@
   "text": "- **When:** The organizer's own festival page gives the 2026 run as **2026. 11. 14 (Sat) ~ 11. 22 (Sun)** and lists the headline **국제불꽃쇼 (international fireworks show) for Sat Nov 21** — marked 예정 (planned). **This covers the trip's final week.**",
   "verdict": "verified"
  },
+ "pohang.md#29:3cc2aac6c2": {
+  "checked_on": "2026-08-18",
+  "entry": 29,
+  "file": "pohang.md",
+  "kind": "TIME",
+  "note": "Pass29: foundation page re-fetched (still Nov 14-22, intl show Nov 21 예정); KTO 2026 listing now Nov 20-22 with full programme - line rewritten to name Nov 20-22 as certain core",
+  "sources": [
+   "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8"
+  ],
+  "text": "- **⚠️ Date discrepancy (re-checked Aug 18):** the foundation's own festival page still gives **Nov 14–22** with the international show **Sat Nov 21** (marked 예정), while VisitKorea's 2026 festival listing now carries **Nov 20–22** with a full programme (international fireworks teams from Korea, Canada and Italy; drone light show; 14:00–22:00; free). Read that as: **Nov 20–22 are the certain core days and Nov 21 is fireworks night**; the Nov 14–19 stretch may be lighter lead-in programming. Re-check both pages in late October.",
+  "verdict": "corrected"
+ },
  "pohang.md#29:5ea6afc90b": {
   "checked_on": "2026-08-18",
   "entry": 29,
@@ -49219,6 +49353,7 @@
   "file": "pohang.md",
   "kind": "DATE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -81073,6 +81208,7 @@
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -81096,6 +81232,30 @@
    "https://www.templestay.com"
   ],
   "text": "- **Official source (reviewed Aug 17):** [Everland](https://www.everland.com/everland/home/main)",
+  "verdict": "verified"
+ },
+ "yongin.md#11:29db18b185": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass29: both press citations fetched via search",
+  "sources": [
+   "https://www.newswell.co.kr/news/articleView.html?idxno=14567"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Everland](https://www.everland.com/everland/home/main) · [2025 edition dates Nov 28–Dec 31 — press](https://www.newswell.co.kr/news/articleView.html?idxno=14567) · [earlier Nov 16-start edition — press](http://economy.chosun.com/client/news/view.php?boardName=C05&t_num=13606154)",
+  "verdict": "sourced"
+ },
+ "yongin.md#11:eeb4e669ea": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "yongin.md",
+  "kind": "DATE",
+  "note": "Pass29: 2025 Christmas Fantasy Nov 28-Dec 31 (press x2); earlier edition Nov 16-Dec 31 (economy.chosun); 2026 unannounced - labeled pattern",
+  "sources": [
+   "https://www.newswell.co.kr/news/articleView.html?idxno=14567"
+  ],
+  "text": "- **⏳ The winter festival may or may not start inside your window.** Everland's **Christmas Fantasy** switch-on has moved between years: the **2025 edition ran Nov 28 – Dec 31** (after a Nov 22 departure you'd miss it), but an earlier edition started **Nov 16** — squarely mid-trip. The centrepiece is the 26 m Romantic Tower Tree with a nightly lighting ceremony. **No 2026 start date was announced at review** — check the operator calendar in early November before promising anyone Christmas lights.",
   "verdict": "verified"
  },
  "yongin.md#11:ef904e71a0": {
