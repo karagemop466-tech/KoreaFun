@@ -28,19 +28,19 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 
 ### 2) 👻 **Salgwiok (살귀옥 / A Haunted Prison)** — ✅ CONFIRMED — through Nov 15, 2026
 - **What:** Ticketed horror experience inside Korean Folk Village — billed by the operator as **Korea's longest outdoor horror walkthrough (~400 m)**, including an underground maze section. You play an exorcist unravelling the Sindanggol mystery.
-- **When:** Official event listing shows **Jun 13–Nov 15, 2026**; the city notice lists weekend/holiday sessions. Verify the selected date before purchase.
+- **When:** Operator's official 2026 season: **Apr 11 – Nov 15, 2026** (the horror-season banner on koreanfolk.co.kr); sessions run mainly on weekends/holidays. Verify the selected date before purchase.
 - ⚠️ **Age limit 13+.** The operator also restricts participation by elderly visitors and anyone with heart/anxiety conditions.
 - **Official sources (reviewed Aug 17):** [operator event page](https://m.koreanfolk.co.kr/home/promotion/event/2) · [Yongin City notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
 
 ### 3) 🩸 **Hyeoransikgwi (혈안식귀)** — ✅ CONFIRMED — through Nov 15, 2026
 - **What:** Separate **indoor** Korean Folk Village horror experience, themed on a Joseon-era curse surrounding Queen Yun and the shaman Ihwa; you play an investigator sent by the king.
-- **When:** The operator listing shows **Jun 12–Nov 15, 2026**; Yongin City describes operation mainly on weekends and holidays. Confirm session times and additional ticket requirements.
+- **When:** Operator's official 2026 season: **Apr 11 – Nov 15, 2026** (banner on koreanfolk.co.kr); Yongin City describes operation mainly on weekends and holidays. Confirm session times and additional ticket requirements.
 - ⚠️ **Age limit 13+**, same health restrictions as Salgwiok.
 - **Official source (reviewed Aug 17):** [Yongin City program notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
 
 ### 4) 🕵️ **Joseon Murder Investigation (조선살인수사)** — ✅ CONFIRMED — through Nov 15, 2026
 - **What:** Interactive mystery event at Korean Folk Village, distinct from the haunted-house attractions — **not a horror attraction**, so it's the option if scare experiences aren't your thing. You act as a royal inspector (암행어사), gathering clues, interrogating suspects at the magistrate's office and working the crime scene.
-- **When:** Operator page lists **Jun 12–Nov 15, 2026**.
+- **When:** Operator's official 2026 season: **Apr 11 – Nov 15, 2026** (banner on koreanfolk.co.kr).
 - **Price/hours:** Check the event page for sessions, reservation method, and age rules.
 - **Official source (reviewed Aug 17):** [Korean Folk Village event page](https://m.koreanfolk.co.kr/home/promotion/event/4)
 
@@ -59,7 +59,7 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 ### 7) 🌍 **Hyundai Translocal Series** — ⏳ ANNOUNCED BUT UNLISTED — Nov 5, 2026–Mar 28, 2027 · NEW
 - **What:** Jointly planned exhibition by Nam June Paik Art Center and Pinacoteca de São Paulo exploring “translocal” ideas.
 - **When:** **Nov 5, 2026–Mar 28, 2027**, opening during the trip.
-- **⚠️ Status note (re-checked Aug 17):** the dates come from the Gyeonggi Cultural Foundation's annual program announcement. **Checked NJP's own exhibition page a second time — this show is still absent, and NJP's "Upcoming exhibitions" (예정 전시) section is completely empty.** Its four listed shows are 장윤영 (to Nov 11), 별 괘卦 (to Feb 2027), 달들 (to Oct 4) and 백남준의 도시 (to Oct 31). **Downgraded from CONFIRMED.** Do not build a day around this one; treat NJP as worth visiting for 별 괘卦, which definitely runs through your window.
+- **⚠️ Status note (re-checked Aug 18):** the dates come from the Gyeonggi Cultural Foundation's annual program announcement. **Checked NJP's own exhibition page again on Aug 18 — this show is still absent, and NJP's "Upcoming exhibitions" (예정 전시) section is still completely empty.** Its four current shows are 장윤영 (to Nov 11), 별 괘卦 (to Feb 2027), 달들 (to Oct 4) and 백남준의 도시 (to Oct 31). **Downgraded from CONFIRMED.** Do not build a day around this one; treat NJP as worth visiting for 별 괘卦, which definitely runs through your window.
 - **Official sources (reviewed Aug 17):** [Gyeonggi Cultural Foundation 2026 program announcement](https://ggc.ggcf.kr/p/698c641f325a86b151c6f6ce) · [NJP exhibitions](https://njp.ggcf.kr/exhibitions)
 
 ### 8) 🎨 **Art Spectrum 2026** — ✅ CONFIRMED — Sep 1–Dec 27, 2026 · NEW

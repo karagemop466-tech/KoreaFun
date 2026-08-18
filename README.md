@@ -5,7 +5,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 > 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 570 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan) plus a few newly sourced nearby-city November 2026 items. Counts will change only when unsupported entries are removed or official-source entries are added.
+> **Current inventory:** 573 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan) plus a few newly sourced nearby-city November 2026 items. Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,14 +13,14 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**570 numbered sections** across 14 city files; protocol pass complete)
+## 📂 What's in this repo (**573 numbered sections** across 14 city files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | **90 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources |
-| [`busan.md`](busan.md) | **49 numbered activity sections** for Busan — rebuilt Aug 17, 2026 against official sources |
+| [`seoul.md`](seoul.md) | **93 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources; +2 confirmed MMCA shows Aug 18 |
+| [`busan.md`](busan.md) | **50 numbered activity sections** for Busan — rebuilt Aug 17, 2026 against official sources; +1 verified venue Aug 18 |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | **44 numbered activity sections** for Daejeon & Cheonan (plus labeled Asan / Gongju / Buyeo day trips) |
 
 ### 🛍️ Neighborhood deep-dives (focused on Seoul districts)

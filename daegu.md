@@ -16,7 +16,7 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **When:** **Nov 3–Dec 27, 2026** — confirmed on the venue's own What's ON listing. Opens midway through your trip and runs long after, so any date from Nov 3 works.
 - **Hours/price:** Museum galleries are normally 10:00–18:00, **closed Mondays**. Confirm admission on the venue page.
 - **Also on at the same venue:** 《앤디 워홀: 예술을 팔다》 (Andy Warhol) is running with special docent tours — worth checking dates if you're making the trip.
-- **Official source (reviewed Aug 17):** [Daegu Arts Center program](https://www.daeguartscenter.or.kr/content.html?md=0041&mode=list)
+- **Official sources (reviewed Aug 18):** [Daegu Arts Center What's ON](https://www.daeguartscenter.or.kr/) (Nov 3–Dec 27, Space Hive rooms 1–5) · [Daegu City newsroom — season lineup announcement](https://news.daegu.go.kr/newshome/mtnmain.php?aid=275488&bpage=135&mkey=todaylist&mkey2=2&mtnkey=articleview&stext=) (5 young artists; Sambo Art Prize selected during the run)
 
 ### 2) 🎺 **Crossbones Trombones Concert** — ✅ CONFIRMED — Nov 12, 2026 · NEW
 - **What:** **Crossbones Trombones (크로스본즈 트롬본즈)**, a trombone ensemble from **Ghent, Belgium**, playing Daegu's UNESCO Creative City of Music exchange series. Daegu has been a UNESCO City of Music since 2017 and the Arts Center runs these exchange concerts as its flagship international strand (the other 2026 guest was Hanover's jazz duo Duo Maliki in October).
@@ -30,12 +30,13 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **Hours/price:** Daegu Art Factory galleries are normally **free**; closed Mondays. Confirm hours on the venue page before a special trip.
 - **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
-### 4) 🎭 **SAC on Screen: Othello** — ✅ CONFIRMED — Sat Nov 7, 2026 · NEW
+### 4) 🎭 **SAC on Screen: Othello** — ✅ CONFIRMED DATE — Sat Nov 7, 2026 · UPDATED
 - **What:** Screening no. 15 — and the **final one of the 2026 season** — in the Seoul Arts Center's *SAC on Screen* series: a high-definition capture of the SAC's staged *Othello*. Korean-language staging; assume Korean-only subtitling.
-- **Where/when:** **Sat Nov 7, 2026 at 14:00**, in **Suchang Hall, 3F, Daegu Art Factory** (대구예술발전소 3층 수창홀). The 2026 season ran twice monthly on the 2nd and 4th Saturdays at 14:00, April 11 through this Nov 7 date — 16 films in all.
-- **Price:** **Free, all seats, no reservation.** It is **first-come, first-served** — the operator's instruction is simply to be in Suchang Hall by **10 minutes before the start**. (Doors close around 13:50.)
+- **When:** **Sat Nov 7, 2026** — confirmed on the venue's own 2026 annual calendar (「SAC ON SCREEN 15회차 상영 - 오셀로(연극)」 11-07). The 2026 season has run twice monthly on the 2nd and 4th Saturdays since April; screening 15 of 16.
+- **Where/start time:** **Re-check on the program page closer to the date** — the annual calendar lists the date only, and the venue has not published the November screening's hall and start time at review (earlier sessions ran in the Daegu Art Factory's Suchang Hall, but do not assume the same room for this one).
+- **Price:** Free, no reservation, first-come-first-served (past sessions).
 - **⚠️ Nov 7 is contested:** this is the same day as Busan Fireworks, KGMA Day 1, MCR and the E-Land match. It's free and unbooked, though, so it costs nothing to skip.
-- **Official source (reviewed Aug 17):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
+- **Official source (reviewed Aug 18):** [Daegu Art Factory 2026 annual calendar](https://w.daeguartfactory.kr/front/schedule/list.php?sc_ymd=2026)
 
 ### 5) 🧵 **RE:ART Project Part 2 — Daegu Intangible Heritage** — ✅ CONFIRMED — through Nov 8, 2026 · NEW
 - **What:** Part 2 of the RE:ART project at **Suchang Youth Mansion (수창청춘맨숀)**, themed on **Daegu's intangible cultural heritage** — following Part 1 《시감지우》 (May 12–Jul 12, 2026). The RE:ART strand pairs heritage practice with contemporary art and has run linked talks.
@@ -210,9 +211,9 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **What:** Second part of the municipal art-festival exhibition block — a large group show filling **Daegu Culture & Arts Center exhibition rooms 6–13** (대구문화예술회관 6~13전시실). Re-checked Aug 17: the venue and room numbers are confirmed on the Daegu Foundation for Culture & Arts listing.
 - **When:** **Nov 17–22, 2026** — a short six-day run landing in your final week.
 - **Hours (venue, Aug 18):** **your trip is the winter schedule — 10:00–18:00, and the exhibition halls stop admitting 15 minutes before closing. Closed Mondays.** Within the run, **Mon Nov 16 is not applicable (the show opens Tue Nov 17)**, so the six days are continuous.
-- **⚠️ Sundays close early.** The Arts Center de-installs on Sundays, so winter Sunday viewing ends at **16:00**, not 18:00. That affects **Sun Nov 22 — your departure day** — on top of the flight timing.
+- **⚠️ Sundays close early (confirmed on the venue's own exhibition notice).** The Arts Center de-installs shows on Sundays, so winter Sunday viewing ends at **16:00**, not 18:00. That affects **Sun Nov 22 — your departure day** — on top of the flight timing.
 - **Price:** The Culture & Arts Center's own exhibition halls are normally **free**; a municipal festival group show of this type does not usually charge. Not stated on the listing, so treat a small fee as possible.
-- **Official sources (reviewed Aug 18):** [Daegu Culture & Arts Center — gallery hours and closures](https://daeguartscenter.or.kr/index.do?menu_id=00001546) · [Daegu Foundation for Culture & Arts event search](https://dgfca.or.kr/event/search/list) *(client-rendered; the venue page is the reliable one)*
+- **Official sources (reviewed Aug 18):** [Daegu Culture & Arts Center — gallery hours and closures](https://daeguartscenter.or.kr/index.do?menu_id=00001546) (winter 10:00–18:00; last entry 15 min before close) · [Daegu Foundation for Culture & Arts event search — 2026 대구아트페스티벌 2부, Nov 17–22, rooms 6–13](https://dgfca.or.kr/event/search/list) · [Daegu Arts Center exhibition notice — Sunday de-install rule](https://daeguartscenter.or.kr/index.do?menu_id=00000351)
 
 ---
 

@@ -57,7 +57,25 @@ This is a source directory, **not proof that every entry has been verified**. Ea
 | Melon (Kakao Entertainment) | Melon Music Awards MMA 2026 (Nov 14–15, Gocheok) | https://www.melon.com |
 | CJ ENM | MAMA Awards 2026 organizer — Nov 20–21, Osaka (official announcement page) | https://cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/ |
 | Leeum Museum of Art | Leeum exhibitions (Inside Other Spaces — through Nov 29) | https://www.leeumhoam.org |
-| MMCA (National Museum of Modern & Contemporary Art) | Seoul exhibitions incl. OLED Series & MMCA Night | https://www.mmca.go.kr |
+| MMCA (National Museum of Modern & Contemporary Art) | Seoul exhibitions incl. OLED Series, Artist of the Year 2026 (Jul 24–Dec 6), Deoksugung Lee Daewon retrospective (Aug 6–Nov 8) | https://www.mmca.go.kr ; https://www.mmca.go.kr/exhibitions/progressList.do |
+| National Gugak Center Busan | Busan traditional performing-arts center + Gugak Experience Hall | http://busan.gugak.go.kr |
+| Seoul Foundation for Arts & Culture | Seoul Autumn Festa (Sep 21–Nov 29, 2026) | https://www.sfac.or.kr/seoulautumnfesta/ |
+| Daegu Foundation for Culture & Arts | Daegu event search (Daegu Art Festival Part 2: Nov 17–22, rooms 6–13) | https://dgfca.or.kr/event/search/list |
+| Daegu City newsroom | Daegu season-programme announcements (2026 Young Artists; Crossbones Nov 12) | https://news.daegu.go.kr |
+| Busan Ilbo | Local corroboration of official announcements (2026 Busan Biennale dates) | https://www.busan.com |
+| Korea JoongAng Daily | Corroboration for G-STAR 2026 (describes Nov 18–22 incl. possible pre-day) | https://www.koreajoongangdaily.com |
+| Suwon Cultural Foundation — Hwaseong experiences | Archery ₩3,000/10 arrows (winter 09:30–17:00), Hwaseong Eocha fares, Flying Suwon fares | https://www.swcf.or.kr/?p=74 |
+| Visit Suwon — fortress performances | Muye 24-gi (Tue–Sun 11:00 + Sat/Sun 14:00); Jangyongyeong season Apr 19–Oct 25, 2026 | https://www.visitsuwon.or.kr |
+| Korean Folk Village | 2026 horror/mystery seasons Apr 11–Nov 15 (Salgwiok, Hyeoransikgwi, Joseon Murder Investigation); hours & monthly discounts | https://www.koreanfolk.co.kr |
+| Incheon National Maritime Museum | Greece special exhibition Aug 11–Dec 6 + First Wave theme Aug 10–Dec 6, 2026; hours/fares | https://www.inmm.or.kr |
+| Incheon ArtShow (INAS) | 2026 schedule table (Nov 19–22, Songdo Convensia) | https://iartshow.imweb.me/ |
+| Gyeongju Cultural Foundation | Alcheon Museum current exhibitions (Gyeongju Chronicle to Dec 31; Gongyu series to Dec 13) | https://garts.kr/index.do?menuId=00000260 |
+| Gyeongju National Museum | Special exhibitions (Wolseong stele fragments Apr 13–Dec 31); visitor hours | https://gyeongju.museum.go.kr |
+| Ulsan Art Museum | Lee Jung-seop retrospective Oct 15 2026–Jan 17 2027 (₩1,000; ~100 works) | https://www.ulsan.go.kr/s/uam |
+| Pohang Cultural Foundation | Fireworks Festival Nov 14–22 (int'l show Nov 21); Steel Art Festival Oct 24–Nov 15 | https://phcf.or.kr |
+| Changwon Cultural Foundation | SAC on Screen 2026 lineup (Nov: An Old Couple's Story); Maria Kim Morning Concert Nov 17 | https://www.cwcf.or.kr |
+| 2026 World Island Exhibition Yeosu | Day-by-day program schedule (Oct 31 fireworks + island food festival; Nov 4 closing) | https://yeosu2026.or.kr/expo_schedule |
+| Daejeon International Wine EXPO visitor guide | Nov 6–8, DCC Hall II, hours, business-zone rule, ₩16,000/₩23,000 | https://djwinefair.com/eng/0501 |
 | Busan Biennale Organizing Committee | Busan Biennale 2026 (Aug 29 – Nov 1) | https://busanbiennale.org |
 | KGMA Organizing Committee (Ilgan Sports) | Korea Grand Music Awards (Nov 7–8, Gocheok) | https://x.com/KGMA_en |
 | National Museum of Korea | Free national museum (Ichon) | https://www.museum.go.kr |

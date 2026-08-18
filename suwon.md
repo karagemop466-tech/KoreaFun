@@ -106,21 +106,21 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 15) 🚂 **Hwaseong Eocha tourist trolley** — 🔎 VERIFIED OPERATOR
 - **What:** Paid tourist trolley linking major fortress stops; useful for visitors who cannot comfortably walk the full circuit.
-- **Hours/price:** Timetable, route, and operating status vary. The foundation lists adult tickets from ₩6,000.
-- **Official source (reviewed Aug 17):** [Suwon Cultural Foundation trolley information](https://www.swcf.or.kr/english/?p=38)
+- **Hours/price (official, Aug 18):** **09:40–17:00 from Yeonmudae**, ~20-min intervals with a lunch break 12:00–13:00. **Adult ₩6,000 · soldier/youth ₩3,500 · child (36 months+) ₩2,000.** 36 seats; **online booking opens a month ahead** (36 seats) with walk-up only for remaining seats — book ahead on weekends.
+- **Official source (reviewed Aug 18):** [Suwon Cultural Foundation — 상설체험 (Hwaseong Eocha)](https://www.swcf.or.kr/?p=74)
 
 ### 16) 🎈 **Flying Suwon tethered balloon** — ⏳ WEATHER-DEPENDENT
-- **What:** Tethered helium balloon providing elevated views over the fortress area.
-- **Hours/price:** Wind and weather can stop operation without notice. Confirm directly with the operator on the day.
-- **Official sources (reviewed Aug 17):** [Suwon Cultural Foundation description](https://swcf.or.kr/english/?idx=609&mode=view&p=13&rIdx=99998929) · [operator](https://flyingsuwon.com)
+- **What:** Tethered helium balloon providing elevated views over the fortress area, operating from the Changnyongmun parking-lot area.
+- **Hours/price (official, Aug 18):** **adult ₩24,000 · youth ₩22,000 · elementary ₩20,000 · 25 months–kindergarten ₩18,000** (disabled/national-merit 4th grade+, seniors 65+ ₩20,000). Year-round program; wind and weather can stop operation without notice — confirm directly with the operator on the day. ☎ (주)플라잉수원 031-247-1300.
+- **Official sources (reviewed Aug 18):** [Suwon Cultural Foundation — 상설체험 (Flying Suwon)](https://www.swcf.or.kr/?p=74) · [operator](https://flyingsuwon.com)
 
 ### 17) ⚔️ **Muye 24-gi martial-arts demonstration** — 🔎 VERIFIED PROGRAM
 - **What:** Heritage performance based on the martial-arts manual associated with Hwaseong, staged around Haenggung.
-- **When/price:** **Tue–Sun 11:00–11:30, year-round. Free.** Closed Mondays. At **화성행궁 (Hwaseong Haenggung)**, Jeongjo-ro 825.
+- **When/price:** **Tue–Sun 11:00–11:30, year-round. Free** (palace admission separate). **Plus a Sat/Sun-only afternoon show 14:00–14:20.** Closed Mondays. At **화성행궁 정문 신풍루 (Hwaseong Haenggung Sinpungnu gate)**, Jeongjo-ro 825.
 - **What it is:** the 24 martial arts of the *Muyedobotongji*, compiled in 1790 by Yi Deok-mu, Park Je-ga and the martial master Baek Dong-su under King Jeongjo's order — so this is a reconstruction from a real manual, not invented pageantry.
-- **⚠️ The Sunday-only Jangyongyeong guard ceremony (장용영 수위의식, 16:00–17:00 at Sinpungnu) does NOT run during your trip** — the city lists that season as ending **Sun Oct 25, 2026**, six days before you arrive. Only the daily 11:00 Muye demonstration is available.
+- **⚠️ The Sunday-only Jangyongyeong guard ceremony (장용영 수위의식, 16:00–17:00 at Sinpungnu) does NOT run during your trip** — the city lists that season as ending **Sun Oct 25, 2026**, six days before you arrive. The regular Muye demonstrations (Tue–Sun 11:00, plus the Sat/Sun 14:00 afternoon show) are what remain.
 - Outdoor, so it can be cancelled in bad weather. ☎ 031-5191-3034.
-- **Official source (reviewed Aug 17):** [Visit Suwon fortress performance page](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-03.jsp)
+- **Official sources (reviewed Aug 18):** [Visit Suwon fortress performance page](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-01/sw-visitsuwon-01-01-03.jsp) · [Visit Suwon — 무예24기 시범공연](https://www.visitsuwon.or.kr/base/board/read?boardManagementNo=10&boardNo=115&searchCategory=&page=1&searchType=&searchWord=&menuLevel=2&menuNo=60) (Tue–Sun 11:00 + Sat/Sun 14:00) · [Visit Suwon — 장용영 수위의식 (Apr 19–Oct 25, 2026)](https://www.visitsuwon.or.kr/base/board/read?boardManagementNo=10&boardNo=116&searchCategory=&page=&searchType=&searchWord=&menuLevel=2&menuNo=60)
 
 ### 18) 🌃 **Hwaseong night illumination walk** — 🔎 VERIFIED ACTIVITY
 - **What:** Evening walk around illuminated gates, wall sections, Hwahongmun, and Banghwasuryujeong. This is ordinary architectural lighting, not a guaranteed lantern festival or fireworks show.
