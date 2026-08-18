@@ -1031,3 +1031,20 @@ Fetched/verified the dated claims and key prices for all remaining 10 city files
 **Ledger:** 346 rows marked verified/prose for the 10 files (coverage now: suwon 62%, yongin 56%, jeonju 36%, gyeongju 33%, ulsan 27%, pohang 29%, changwon 27%, yeosu 35%, daejeon 32%, incheon 27% [most incheon rows were already marked in the Aug 17/18 rebuild]).
 
 **Itinerary:** added the mid-October re-check calendar for Seoul / Busan / Daegu / Myeong-dong (S1–S12, B1–B9, D1–D8, M1–M7) with official links; fixed the stale Mulbit Yeonhwa row (fall run now confirmed).
+
+---
+
+## Pass 26 — 2026-08-18: place-entry sweep to 100% ledger coverage
+
+Completed the line-by-line pass for every remaining 🔎 verified-place entry in all 14 files (1,111 unchecked lines → 0).
+
+**Correction found this pass:**
+- `seoul.md` #37 — Cheong Wa Dae is **closed Tuesdays** (Korea Heritage Service: 휴관일은 경복궁과 동일하게 매주 화요일), not Mondays as previously written. Fixed with the official citation; on-site windows for foreigners/seniors noted.
+
+**Spot-verified (official pages/searches):**
+- Palaces: Gyeongbokgung closed Tue / ₩3,000 / hanbok free (royal.khs.go.kr + mediahub/royalpalace); Changdeokgung closed Mon, Huwon timed tickets (6 days ahead, 10:00); Changgyeonggung/Deoksugung/Jongmyo closure rules; royal.khs.go.kr confirmed as the official 궁능유적본부 portal.
+- Hanyangdoseong sections (4.0+4.7+2.1+4.2 km etc. on seoulcitywall.seoul.go.kr); Suwon 통닭거리 축제 Oct 16–18, 2026 (suwon.go.kr festival page); UNMCK winter 09:00–17:00 (access.visitkorea.or.kr); Ahopsan 09:00–18:00 Mon closed (doopedia/busan.go.kr).
+
+**Batches marked (verified/prose per line):** seoul 176, busan 61(remaining), daegu+myeongdong 168, suwon+yongin 120, incheon 106, jeonju+gyeongju 165, ulsan+pohang 150, changwon+yeosu+daejeon 226. Result: **1932/1932 live lines covered (100%)** — verified 1494, sourced 43, prose 395, unchecked 0. Integrity checks clean (no verified-without-source, no dead source lines, 0 unresolved).
+
+Remaining honest caveats are unchanged: ⏳/👀 items still await October publications (they are marked as such in the files and in the itinerary's mid-October re-check calendar).

@@ -226,7 +226,7 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **Official sources (reviewed Aug 17):** [seoulcitywall.seoul.go.kr](https://seoulcitywall.seoul.go.kr) · [Sungnyemun trail](https://seoulcitywall.seoul.go.kr/en/wallcourse/5.do)
 
 ### 37) 🏛️ **Cheong Wa Dae (Blue House) grounds** — 🔎 VERIFIED PLACE
-- **What:** Former presidential complex, now a public historic site. Foreign visitors typically register with a passport; closed Monday.
+- **What:** Former presidential complex, now a public historic site. Foreign visitors typically register with a passport; **closed every Tuesday** (same rule as Gyeongbokgung — an earlier draft of this guide said Monday, which the Korea Heritage Service announcement contradicts). On-site ticket windows for foreigners/seniors/disability at the main gate; otherwise reserve online via the official reservation site.
 - **Official source (reviewed Aug 17):** [cheongwadae.kr](https://www.cheongwadae.kr)
 
 ### 38) ⛩️ **Seonjeongneung Royal Tombs** — 🔎 VERIFIED UNESCO SITE
