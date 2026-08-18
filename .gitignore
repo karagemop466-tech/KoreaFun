@@ -8,3 +8,11 @@ audit/link_status.json
 audit/link_check.log
 audit/classification.json
 audit/flags.json
+
+# python bytecode
+__pycache__/
+*.pyc
+
+# superseded audit working data (regenerate with tools/)
+audit/risk_triage.json
+audit/verification-ledger.json
