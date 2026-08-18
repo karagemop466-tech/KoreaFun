@@ -69,6 +69,22 @@ This is a source directory, **not proof that every entry has been verified**. Ea
 | Korean Folk Village | 2026 horror/mystery seasons Apr 11–Nov 15 (Salgwiok, Hyeoransikgwi, Joseon Murder Investigation); hours & monthly discounts | https://www.koreanfolk.co.kr |
 | Incheon National Maritime Museum | Greece special exhibition Aug 11–Dec 6 + First Wave theme Aug 10–Dec 6, 2026; hours/fares | https://www.inmm.or.kr |
 | Incheon ArtShow (INAS) | 2026 schedule table (Nov 19–22, Songdo Convensia) | https://iartshow.imweb.me/ |
+| Art Center Incheon | Vadym Kholodenko Nov 7 17:00; Tallis Scholars Nov 15 15:00 | https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14129 · https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14130 |
+| Incheon Transit Corporation | Wolmi Sea Train fares (₩8,000 adult) and Nov–Mar 10:00–18:00 hours | https://www.ictr.or.kr/foreign/eng/wst/guide.jsp |
+| Gyeonggi Province Museum | 30th-anniversary archive show Aug 27 2026–Mar 1 2027 | https://musenet.ggcf.kr/boards/ggmnews/articles/3609 |
+| Visit Jeonju — 전통연희 퍼레이드 | 2026 Hanok Village Yeonhui Parade Apr 18–Oct 31 Saturdays 15:00 | https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001033 |
+| Visit Jeonju — 경기전 별빛누빔 | Jun–Nov Fridays; Sep–Nov 19:30/20:30; ₩10,000 TicketLink | https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001040 |
+| Visit Jeonju — 대사습청 토요상설 | 2026 Saturday list; only in-window date is Oct 31 16:00 ₩10,000 | https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0000882 |
+| Visit Jeonju — 조선셰프 한상궁 | Musical series Aug 28–Nov 13 at Daesaseupcheong | https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000102002001000&facSid=RE_0001066 |
+| Changwon City booking desk | 2026 Masan Gagopa occupancy: Happo outdoor stage closed to other bookings Oct 25–Nov 12 | https://www.changwon.go.kr/booking/10034/10152.web?amode=view&idx=486 |
+| Cheonan Arts Center performance list | Nov 5 Mezclarinet ₩10,000 (준비중); 동백당 Nov 20–21 ₩20,000. Annual calendar URL now 404 | https://www.cnac.or.kr/performance/list.html |
+| Sori Arts Center | November symphony date still unpublished; 277th was May 22 2026 | https://www.sori21.co.kr/site/1/menu/8/show/performance |
+| noodle-dj.com | Still the 2025 Noodle Daejeon Festival page | https://noodle-dj.com |
+| Jeonju Royal Portrait Museum | Gyeonggijeon winter hours 09:00–18:00 last entry 17:00; ₩3,000/2,000/1,000; museum included | https://jeonju.go.kr/eojinmuseum/index.9is?contentUid=9be517a78020a96201827be8a13d2860 |
+| 어진박물관 단청공사 공지 | Gyeonggijeon 정전 closed Mar 26–Dec 17 2026 (may extend); inner zone closed; precinct + museum open | https://www.jeonju.go.kr/eojinmuseum/planweb/board/view.9is?boardUid=9be517a78020a9620182a44463067f48&contentUid=9be517a78020a96201827bebe0d52920&dataUid=9be517a89a2f1137019d1d8c2019416f |
+| Jeonju National Museum | Seogosa nahan special Sep 16–Nov 29 2026 | https://jeonju.museum.go.kr/special.es?mid=a10201010000&seq=1711&act=view |
+| BeautySum Korea Suwon | Official intro: Nov 5–7 2026, Suwon Convention Center | https://beautysumkorea.com/beautysum/intro/ |
+| Gyeongnam FC | K League 2 fixture list (Suwon FC Nov 7; Bluewings Nov 21) | https://www.gyeongnamfc.com/match/match.php |
 | Gyeongju Cultural Foundation | Alcheon Museum current exhibitions (Gyeongju Chronicle to Dec 31; Gongyu series to Dec 13) | https://garts.kr/index.do?menuId=00000260 |
 | Gyeongju National Museum | Special exhibitions (Wolseong stele fragments Apr 13–Dec 31); visitor hours | https://gyeongju.museum.go.kr |
 | Ulsan Art Museum | Lee Jung-seop retrospective Oct 15 2026–Jan 17 2027 (₩1,000; ~100 works) | https://www.ulsan.go.kr/s/uam |
@@ -552,12 +568,12 @@ Every source below was re-fetched. These entries had a **dead, hijacked, repurpo
 | Silla Millennium Park | smpark.co.kr (squatted) | **⛔ PERMANENTLY CLOSED** | Venue shut; only the Ragung hanok hotel remains |
 | Wooyang Museum of Contemporary Art | — | https://wooyangmuseum.org | Hours and prices were wrong (₩8,000 → **₩15,000 adult / ₩12,000 student / ₩10,000 child**) — direction confirmed Aug 18 2026 against VisitKorea's accessibility listing. |
 | Beomeosa Temple | beomeosa.co.kr (spam) | https://www.beomeo.kr | Domain hijacked; hours corrected |
-| Busan X the Sky | — | https://www.busanxthesky.com | **₩27,000 adult / ₩24,000 child-senior, 10:00–21:00 (last ticket 20:30)** — re-verified Aug 18 2026 against Visit Busan's official listing. An earlier pass logged this the wrong way round as "₩27,000 → ₩29,000"; ₩27,000 is correct and ₩29,000 was the error. |
+| Busan X the Sky | — | https://www.busanxthesky.com/xthesky/xthesky.php | **₩29,000 adult (13+) / ₩26,000 child (36 months–12) and senior 65+, 10:00–21:00 (last ticket 20:30)** — re-verified Aug 18 2026 against the **operator's own fare page**. Visit Busan still carried the older ₩27,000/₩24,000 listing; the operator page wins. An earlier pass had flipped this twice — do not "correct" it back to ₩27,000 without a new operator page. |
 | Palgongsan Cable Car / National Park | palgongsan.or.kr (dead), palgongcablecar.com (hijacked) | https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=122400&menuNo=8000739 · [daegutour listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) | Both domains gone; Gatbawi is a separate trailhead, not a cable-car stop |
 | N Seoul Tower observatory | seoultower.co.kr (plaza operator only) | https://www.nseoultower.co.kr/index.asp | Wrong operator; weekday/weekend hours split |
 | Hwadam Forest | — | https://www.hwadamsup.com/pc/ko/index | Closed Mondays, 100% advance reservation, monorail fares corrected |
 | Yeosu Maritime Cable Car | — | http://www.yeosucablecar.com · [yeosu.go.kr](https://www.yeosu.go.kr/tour/travel/culture_scenic_spot?mode=view&idx=879) | Seasonal hours and crystal-cabin fares added |
-| Korean Folk Village | — | https://www.koreanfolk.co.kr · [fares](https://www.koreanfolk.co.kr/price/charge.asp) · [monthly notices](https://www.koreanfolk.co.kr/operation/notice) | Not closed Mondays; ₩25,000 → **₩37,000 adult/teen, ₩30,000 child, ₩26,000 senior/disabled** — re-verified Aug 18 2026 on the operator's own fare page. Ticket includes the amusement-village rides. |
+| Korean Folk Village | — | https://www.koreanfolk.co.kr · [monthly discounts](https://www.koreanfolk.co.kr/discount) · [hours](https://www.koreanfolk.co.kr/operation) | **`/price/charge.asp` is a 404** (re-tested Aug 18 2026). Gate fare still quoted as **₩37,000 adult/teen, ₩30,000 child, ₩26,000 senior/disabled** from the last live fare page; monthly public-transport discount was ₩17,000 in Aug 2026. Horror/mystery banners: Apr 11–Nov 15 2026. Do not copy the 2025 November hours notice into 2026. |
 | Ulsan HD FC | uhfc.tv (squatted) | https://www.uhdfc.com | Club rebranded Ulsan Hyundai → Ulsan HD |
 | Ulsan Hyundai Mobis Phoebus | hyundai-mobisbasketball.com (dead) | https://phoebus.kbl.or.kr/ | Club page moved under KBL |
 | Templestay (English) | eng.templestay.com | https://www.templestay.com/en/main/view.do | Subdomain retired |

@@ -1,6 +1,6 @@
 # 🚉 Daejeon / Cheonan — verified events and activities (Oct 31 – Nov 22, 2026)
 
-Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minutes from Seoul). This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md). The former 210-entry version repeated the same bakeries, temples, and parks, then padded the count with half of Chungcheong Province.
+Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minutes from Seoul). This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) and **re-verified on August 18, 2026** (Pass 35). The former 210-entry version repeated the same bakeries, temples, and parks, then padded the count with half of Chungcheong Province.
 
 > **How to read this file**
 > - ✅ **Confirmed event** — organizer page has 2026 dates in the trip window.
@@ -37,7 +37,7 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 
 ### 4) 🍜 **Noodle Daejeon Festival** — ⏳ TBA
 - **What:** City noodle festival at Hanbit Tower Plaza. 2025 ran Nov 7–9; **do not copy that weekend into 2026**.
-- **Official sources (reviewed Aug 17):** [noodle-dj.com](https://noodle-dj.com) · [daejeon.go.kr](https://www.daejeon.go.kr)
+- **Official sources (reviewed Aug 18):** [noodle-dj.com](https://noodle-dj.com) — still the **2025** edition (Nov 7–9) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
 ### 5) 🌼 **Autumn chrysanthemum displays — O-World and the Yuseong Chrysanthemum Festival** — ⏳ 2026 DATES TBA · UPDATED Aug 18
 - **What (O-World):** Recurring late-autumn chrysanthemum program inside Daejeon O-World. Confirm 2026 dates and whether it needs a park ticket.
@@ -70,9 +70,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** Former railway-worker housing east of Daejeon Station, now a hanok/café district. Public streets are free.
 - **Official source (reviewed Aug 17):** [daejeontour.co.kr](https://daejeontour.co.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
-### 11) 🗼 **Hanbit Tower and Expo Science Park** — 🔎 VERIFIED PLACE
-- **What:** 1993 Expo grounds, tower observatory, Expo Bridge, and the plaza used by the wine expo. Park grounds are free; tower hours and Monday closure should be checked.
-- **Official sources (reviewed Aug 17):** [djto.kr](https://www.djto.kr) · [daejeon.go.kr](https://www.daejeon.go.kr)
+### 11) 🗼 **Hanbit Tower and Expo Science Park** — 🔎 VERIFIED PLACE · UPDATED Aug 18
+- **What:** 1993 Expo grounds, **Hanbit Tower observatory (한빛스퀘어)**, Expo Bridge, and the plaza next to DCC. Park grounds are free.
+- **✅ Tower admission is free** — Daejeon Marketing Corp. stopped charging in **June 2021**. Recent operator listings: **09:30–17:20, closed Mondays**. Do not pay a ₩2,500 figure from old guides.
+- **⚠️ The Wine EXPO (#1) is next door at DCC Hall II, not inside the tower.**
+- **Official sources (reviewed Aug 18):** [djto.kr](https://www.djto.kr) · [Daejeon Marketing Corp. free-opening announcement, Jun 2021](https://www.shinailbo.co.kr/news/articleView.html?idxno=1420970) · [daejeon.go.kr](https://www.daejeon.go.kr)
 
 ### 12) 🔬 **National Science Museum** — 🔎 VERIFIED NATIONAL MUSEUM
 - **What:** Korea's national hands-on science museum, next to the Expo grounds.
@@ -138,9 +140,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** City-promoted dishes. Use the official tourism food list; do not invent named restaurants.
 - **Official source (reviewed Aug 17):** [daejeontour.co.kr](https://daejeontour.co.kr)
 
-### 26) 🔭 **Art Space 193 / Shinsegae Expo Tower** — 🔎 VERIFIED OPERATOR
-- **What:** High observatory and art floors in the Shinsegae Art & Science tower. Hours and fares are operator-controlled.
-- **Official source (reviewed Aug 17):** [shinsegae.com](https://www.shinsegae.com)
+### 26) 🔭 **Art Space 193 / Shinsegae Expo Tower** — ❌ NOT CURRENTLY OPERATING · UPDATED Aug 18
+- **What:** The high observatory / art floors in the Shinsegae Art & Science tower (Expo Park).
+- **⚠️ Do not plan a visit.** Shinsegae's own Daejeon store page still lists the observatory as **현재 미운영 (not currently operating)** — the same status recorded in Pass 10. Aggregators that still quote ₩15,000 and evening hours are stale.
+- **Use instead:** free **Hanbit Tower (#11)** across the Expo grounds, or the National Science Museum (#12).
+- **Official source (reviewed Aug 18):** [Shinsegae Daejeon Art & Science — store guide (observatory listed 미운영)](https://www.shinsegae.com/store/main.do?storeCd=SC00060) · [dept map parking table: 전망대(현재 미운영)](https://deptmapp.shinsegae.com/store/main.do?storeCd=SC00060)
 
 ### 27) 🐯 **Daejeon O-World** — 🔎 VERIFIED OPERATOR
 - **What:** Combined zoo, rides, and gardens. Entry #5 covers the chrysanthemum season.
@@ -196,9 +200,10 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 
 ### 38) 🎭 **Cheonan Arts Center (천안예술의전당)** — ✅ NOVEMBER CALENDAR NOW PUBLISHED · UPDATED Aug 18
 - **What:** Cheonan's main performing-arts complex (대공연장/소공연장), on the east side of the city.
-- **Dated November items on the venue's own annual calendar:** **Cheonan Philharmonic subscription concert — Wed Nov 11, main hall** · play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 (Cimarosa's *Il matrimonio segreto*) — Mon Nov 16, small hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall**. (The 11 AM commentary concert falls Nov 25 — after departure.)
-- **Booking:** venue site or NOL; most small-hall programs are ₩10,000–30,000. Confirm times on the specific listing — the annual calendar shows dates only.
-- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — annual schedule](https://www.cnac.or.kr/play/year.html?p_team=pfm) (all November dates above) · [NOL listings for the venue](https://tickets.interpark.com/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)
+- **Dated November items still listed:** play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall, ₩20,000** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 — Mon Nov 16, small hall** · **Cheonan Philharmonic subscription — Wed Nov 11, main hall** (these last two were on the annual calendar; re-confirm on the live list). The 11 AM commentary concert is **Wed Nov 25** — after departure.
+- **Newly visible on the venue list (Pass 38):** **K-클래식 콘서트 7 〈메즈클라리넷〉 — Thu Nov 5, small hall, ₩10,000**, marked **준비중**. Treat as dated but not yet bookable until the listing leaves “preparing.”
+- **⚠️ The annual-calendar URL is now a 404** (`/play/year.html` — it was HTTP 502 in Pass 35). Use the [live performance list](https://www.cnac.or.kr/performance/list.html) or NOL. Automated fetches of the list page are firewall-blocked; the Nov 5 / Nov 20–21 rows above are from that official list as indexed Aug 18.
+- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — performance list](https://www.cnac.or.kr/performance/list.html) · [NOL venue search](https://tickets.interpark.com/contents/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)
 
 ### 39) 🏘️ **Oeam Folk Village (Asan)** — 🔎 VERIFIED PLACE · labeled Asan
 - **What:** Living Joseon village of thatched and tiled houses. November last entry is earlier.

@@ -75,9 +75,10 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 ## Wolmi and the port
 
 ### 11) 🚝 **Wolmi Sea Train** — 🔎 VERIFIED OPERATOR
-- **What:** Elevated tourist monorail circuit connecting Incheon Station, Wolmi Park, museums, and waterfront areas.
-- **Hours/price:** Timetable and service days change; check reservations and maintenance notices.
-- **Official sources (reviewed Aug 17):** [Wolmi Sea Train](https://www.wolmiseatrain.or.kr) · [Jung-gu route guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)
+- **What:** Elevated tourist monorail circuit connecting Incheon Station, Wolmi Park, museums, and waterfront areas. ~6.1 km, about 42 minutes, 7–18 m above the ground.
+- **Hours (Incheon Transit Corporation, still served Aug 18):** **November–March off-season 10:00–18:00.** Closed **Mondays**. Peak season (Apr–Oct) runs later on Fri–Sun (to 21:00).
+- **Price (same official table, labelled “from Jan 1, 2020” and still published):** **₩8,000 adult · ₩6,000 senior 65+ / youth 13–18 · ₩5,000 child 3+ · ₩4,000 disabled/national-merit.** Group fares ₩7,000/₩5,000/₩4,000. Same-day re-ride allowed. Book by the day before, or buy at Wolmi Sea Station.
+- **Official sources (reviewed Aug 18):** [ICTR English guide — fares and hours](https://www.ictr.or.kr/foreign/eng/wst/guide.jsp) · [Wolmi Sea Train booking](https://www.wolmiseatrain.or.kr)
 
 ### 12) 🌲 **Wolmi Park, Traditional Garden, and Observatory** — 🔎 VERIFIED PLACE
 - **What:** Forested hill park with walking paths, reconstructed traditional gardens, and port views.
@@ -271,7 +272,15 @@ This file was rebuilt on **August 17, 2026** from official operator, museum, cit
 ### 44) ✈️ **Incheon Airport Sky Festival** — ⏳ 2026 EDITION TBA — recent pattern: early-Nov weekend at Inspire Arena · NEW
 - **What:** Incheon International Airport Corporation's annual festival, running since 2004 — in recent form a **two-evening K-pop + classical/musical concert weekend at Inspire Arena** next to the airport, with daytime family events.
 - **⏳ Pattern, not a promise:** the **2025 edition ran Sat–Sun Nov 8–9 at Inspire Arena (17:00 shows, ages 12+, ticketed through NOL/Interpark)**. A 2026 edition had not been announced at review — if it repeats in early November, it lands on the trip's first full weekend, and Inspire is 15 min from ICN (handy if you're near the airport anyway).
-- **Official sources (reviewed Aug 18):** [Incheon Airport (IIAC)](https://www.airport.kr/) — festival host · [2025 edition official ticket notice — Nov 8–9, Inspire Arena](https://tickets.interpark.com/contents/notice/detail/11515) · [festival history since 2004](https://www.khan.co.kr/article/202309081108011)
+- **Re-checked Aug 18 (Pass 38):** IIAC's latest official Sky Festival press is the **2025 recap** (Nov 8–9 at Inspire). **No 2026 edition has been announced.** Stay ⏳.
+- **Official sources (reviewed Aug 18):** [Incheon Airport (IIAC)](https://www.airport.kr/) — festival host · [IIAC 2025 recap press](https://www.airport.kr/co_ko/664/subview.do) · [2025 ticket notice — Nov 8–9, Inspire Arena](https://tickets.interpark.com/contents/notice/detail/11515)
+
+### 45) 🎻 **Art Center Incheon — November classical nights** — ✅ CONFIRMED — Nov 7 and Nov 15, 2026 · NEW
+- **What:** Two dated Songdo concerts on the venue’s own 2026 season pages. Art Center Incheon is in Songdo, not at the airport — pair it with Central Park / MoW (#17/#20), not with Paradise City.
+- **Sat Nov 7, 17:00 — Vadym Kholodenko piano recital.** Concert Hall. **R ₩50,000 · S ₩30,000.** 100 min including a 15-min interval. Elementary-school and up. Hosted by ACI. ⚠️ **Same day as MCR (#43) at 19:00** — do not try both; Yeongjong is a separate trip.
+- **Sun Nov 15, 15:00 — The Tallis Scholars: *The Sistine Inspirations* (탈리스 스콜라스: 시스티나의 영감).** Concert Hall. **R ₩70,000 · S ₩50,000 · A ₩30,000.** 110 min including a 15-min interval. Elementary-school and up.
+- **Booking:** aci.or.kr (no booking fee) or NOL. Box office 032-453-7700 (weekdays 09:00–17:00, closed 12:00–13:00).
+- **Official sources (reviewed Aug 18):** [Kholodenko show page](https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14129) · [Tallis Scholars show page](https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14130)
 
 ---
 

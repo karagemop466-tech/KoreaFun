@@ -17,7 +17,7 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 - **What:** Renewed immersive media-art exhibition at Gyeongju Arts Center’s Alcheon Museum, Gallery Space I.
 - **When:** **Dec 2, 2025–Dec 31, 2026**, Gallery Space I (갤러리스페이스Ⅰ), 4F.
 - **Hours/price:** **10:00–18:00, last entry 17:30. Free** — confirmed on the foundation's current-exhibition listing.
-- **Official source (reviewed Aug 17):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260)
+- **Official source (reviewed Aug 18):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260) — 《THE 경주;경주연대기》 **2025-12-02 ~ 2026-12-31**, Gallery Space I 4F, 10:00–18:00 last entry 17:30, free
 
 ### 2) 🎨 **2026 Gongyu exhibition-space support project** — ✅ CONFIRMED SERIES — through Dec 13, 2026 · NEW
 - **What:** Rotating solo shows by regional artists, one after another, in Alcheon Museum's **Gallery Dal (갤러리달, B1)**. Each artist gets roughly a two-week slot, so what's hanging depends entirely on your date.
@@ -25,7 +25,7 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 - **Price/hours:** **Free, 10:00–18:00** — confirmed on the foundation's current-exhibition listing.
 - **Worth knowing before you go:** Alcheon Museum sits inside **Gyeongju Arts Center**, which runs several galleries at once. Anything in **Gallery Dal (B1)**, **Gallery Space I (4F)** and the outdoor areas is normally free, while headline shows in **Gallery Hae (4F)** are ticketed — the 2026 한수원 art festival special exhibition there charged **₩10,000 adult / ₩7,000 child-teen / ₩5,000 Gyeongju residents**. Check which gallery a show is in before assuming it's free.
 - **⚠️ The museum's weekend shuttle bus (순환버스) ran Aug 13–Oct 18, 2026 — it had finished before your trip**, so plan on your own transport.
-- **Official source (reviewed Aug 17):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260)
+- **Official source (reviewed Aug 18):** [Gyeongju Cultural Foundation current exhibitions](https://garts.kr/index.do?menuId=00000260) — 공유 **2026-03-24 ~ 2026-12-13**, Gallery Dal B1, 10:00–18:00, free. The ticketed 한수원아트페스티벌 special in Gallery Hae ran **Jun 30–Oct 18, 2026** and is **already closed**.
 
 ### 3) 🪨 **Reunited After 83 Years: Stele Fragments Found at Gyeongju Wolseong** — ✅ CONFIRMED — through Dec 31, 2026 · NEW
 - **What:** A genuinely lovely small show at **Gyeongju National Museum**: two fragments of a stone stele excavated from the western side of **Wolseong Palace** — separated for **83 years** and now displayed together again. Jointly presented by the museum and the Gyeongju National Research Institute of Cultural Heritage. It's a single-case display in the Silla Millennium Treasure House (신라천년보고) lobby, so it costs nothing and takes ten minutes, but it pairs perfectly with a Wolseong walk.
@@ -33,7 +33,7 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 - **Price:** **Free** (the museum's permanent galleries and most special exhibitions are free).
 - **⚠️ Closure to plan around:** the museum takes an irregular closed day on the **second Monday of November** — that is **Mon Nov 9, 2026**. Grounds and outdoor exhibits stay open. Regular hours 10:00–18:00.
 - **Note:** The big summer blockbusters (*Hwangnyongsa*, and *Silla: l'Or et le Sacré* with the Musée Guimet) both **close before you arrive** — Oct 11 and Aug 31 respectively. Don't plan around them.
-- **Official source (reviewed Aug 17):** [Gyeongju National Museum — special exhibitions](https://gyeongju.museum.go.kr/kor/html/sub02/0202.html)
+- **Official source (reviewed Aug 18):** [Gyeongju National Museum — special exhibitions](https://gyeongju.museum.go.kr/kor/html/sub02/0202.html) — 《83년 만에 만남, 경주 월성에서 찾은 비석 조각》 **2026-04-13 ~ 2026-12-31**. Hwangnyongsa **to Oct 11** and Guimet *Silla: l'Or et le Sacré* **to Aug 31** both close before the trip. Saturday night opening is **~20:00, March–October Saturdays only** — none in November.
 
 ---
 

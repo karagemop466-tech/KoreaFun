@@ -5,7 +5,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 > 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 588 numbered sections after the core-file rebuild (Seoul, Busan, Daejeon/Cheonan), nearby-city additions, and the Aug 18 four-city re-verification pass (+5 newly sourced entries). Counts will change only when unsupported entries are removed or official-source entries are added.
+> **Current inventory:** 594 numbered sections after the core-file rebuild, nearby-city additions, and the Aug 18 re-verification passes (Pass 37 added one official-source Jeonju musical). Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,13 +13,13 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**588 numbered sections** across 14 city files; protocol pass complete)
+## 📂 What's in this repo (**594 numbered sections** across 14 city files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
 | File | What's inside |
 |---|---|
-| [`seoul.md`](seoul.md) | **99 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources; +2 MMCA shows Aug 18; +BRSO/Rattle (Nov 12–13) and SeMA Bukseoul added in the Aug 18 re-verification pass |
+| [`seoul.md`](seoul.md) | **100 numbered activity sections** for Seoul — rebuilt Aug 17, 2026 against official sources; Aug 18 re-verification added MMCA shows, BRSO/Rattle, SeMA Bukseoul, and Seongbuk 《이정윤: 노래하는 집》 (to Nov 21) |
 | [`busan.md`](busan.md) | **51 numbered activity sections** for Busan — rebuilt Aug 17, 2026 against official sources; +National Gugak Center and Busan Concert Hall added Aug 18 |
 | [`daejeon-cheonan.md`](daejeon-cheonan.md) | **44 numbered activity sections** for Daejeon & Cheonan (plus labeled Asan / Gongju / Buyeo day trips) |
 
@@ -33,11 +33,11 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 | File | Sections | Transit from Seoul | Best for |
 |---|---|---|---|
-| [`suwon.md`](suwon.md) | 39 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs |
-| [`yongin.md`](yongin.md) | 36 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
-| [`incheon.md`](incheon.md) | 44 | AREX 60 min west | **Incheon Chinatown**, Songdo, ICN area, **Incheon ArtShow Nov 19–22** |
-| [`jeonju.md`](jeonju.md) | 37 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap capital of Korea |
-| [`daegu.md`](daegu.md) | 37 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
+| [`suwon.md`](suwon.md) | 40 | KTX 30 min south | UNESCO **Hwaseong Fortress** walls, Korean royal ribs, **BeautySum Nov 5–7** |
+| [`yongin.md`](yongin.md) | 37 | Subway + Everline 60 min south | **Everland** theme park, Korean Folk Village |
+| [`incheon.md`](incheon.md) | 45 | AREX 60 min west | **Incheon Chinatown**, Songdo, ICN area, **Incheon ArtShow Nov 19–22** |
+| [`jeonju.md`](jeonju.md) | 38 | KTX 2 hr (via Iksan) southwest | **Hanok Village** + bibimbap; **Gyeonggijeon 정전 closed for restoration through Dec 17** |
+| [`daegu.md`](daegu.md) | 38 | KTX 1h 50 min southeast | E-World 83 Tower, Seomun Market, Palgongsan temples |
 | [`gyeongju.md`](gyeongju.md) | 36 | KTX 2h 15 min southeast | Ancient **Silla capital** — UNESCO Bulguksa, Seokguram, royal tombs |
 | [`ulsan.md`](ulsan.md) | 31 | KTX 2h 30 min southeast | Daewangam coastal park, Taehwagang bamboo grove, **Lee Jung-seop retrospective** |
 | [`pohang.md`](pohang.md) | 31 | KTX 2h 25 min southeast | **Space Walk**, Homigot, **Fireworks Festival Nov 14–22**, **Steel Art Festival to Nov 15** |
@@ -81,7 +81,8 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
 | Sat Oct 24–Sun Nov 15 | **Pohang Steel Art Festival** — outdoor steel sculpture, workshops, city art tours (venue TBA) | Pohang | ✅ |
 | **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (DCC Hall II; ₩16,000 adv/₩23,000 door, 19+ w/ID; only the *business zone* is buyers-only Nov 6 + Sat before 14:00) | Daejeon | ✅ |
-| Sat Nov 7 | **Busan Fireworks Festival** · Seoul E-Land vs Jeonnam 16:30 · MCR / Jujutsu Kaisen concerts | Busan / Seoul / Incheon | ✅ |
+| Thu–Sat Nov 5–7 | **BeautySum Korea Suwon** (Convention Center 1F) — organizer date; ignore Visit Suwon’s Nov 6–8 listing | Suwon | ✅ |
+| Sat Nov 7 | **Busan Fireworks Festival** · Seoul E-Land vs Jeonnam 16:30 · MCR / Jujutsu Kaisen concerts · Suwon FC vs Gyeongnam 14:00 | Busan / Seoul / Incheon / Suwon | ✅ |
 | **Sat–Sun Nov 7–8** | **KGMA 2026** (Korea Grand Music Awards, first year at Gocheok) | Seoul (Gocheok Sky Dome) | ✅ |
 | Sun Nov 8 | Cheonan City FC vs Busan IPark, 14:00 (K-League 2) | Cheonan | ✅ |
 | ~Nov 9–17 | Korea national team friendlies (if announced) | Seoul / Suwon | 👀 |

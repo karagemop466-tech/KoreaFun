@@ -83,6 +83,78 @@ CLAIMS = [
         ("itinerary.md", r"CSAT exam day"),
         ("README.md", r"CSAT exam day"),
     ]),
+    ("Busan X the Sky adult fare is W29,000 (operator page)", [
+        ("busan.md", r"29,000 adult"),
+        ("sources.md", r"₩29,000 adult"),
+        ("sources.md", r"₩27,000 is correct", "absent"),
+    ]),
+    ("GS Caltex plays at Jangchung, not Jamsil Students", [
+        ("seoul.md", r"BOTH Seoul clubs play at Jangchung Arena"),
+        ("events.csv", r"BOTH clubs at Jangchung Arena"),
+        ("events.csv", r"GS Caltex KIXX \(Jamsil Students", "absent"),
+    ]),
+    ("Hanbit Tower is free, Art Space 193 is closed", [
+        ("daejeon-cheonan.md", r"Tower admission is free"),
+        ("daejeon-cheonan.md", r"NOT CURRENTLY OPERATING"),
+        ("events.csv", r"fee dropped Jun 2021"),
+        ("events.csv", r"CLOSED / not operating"),
+        ("daejeon-cheonan.md", r"Tower 2500", "absent"),
+    ]),
+    ("BeautySum Suwon is Nov 5-7 (organizer), not Visit Suwon Nov 6-8", [
+        ("suwon.md", r"Thu Nov 5–Sat Nov 7, 2026"),
+        ("suwon.md", r"Do not use the Visit Suwon festival index"),
+        ("events.csv", r"BeautySum Korea Suwon 2026.*2026-11-05,2026-11-07|2026-11-05,2026-11-07,BeautySum"),
+        ("suwon.md", r"Nov 6–8",),  # the warning must still mention the stale listing
+    ]),
+    ("Korean Folk Village 2026 horror season starts Apr 11 not June", [
+        ("yongin.md", r"Apr 11 – Nov 15, 2026"),
+        ("events.csv", r"Yongin,2026-04-11,2026-11-15,Salgwiok"),
+        ("events.csv", r"Yongin,2026-06-13,2026-11-15,Salgwiok", "absent"),
+    ]),
+    ("Wolmi Sea Train adult fare is W8,000 on the ICTR table", [
+        ("incheon.md", r"8,000 adult"),
+        ("events.csv", r"8000 adult"),
+    ]),
+    ("Art Center Incheon November concerts dated on venue pages", [
+        ("incheon.md", r"Vadym Kholodenko"),
+        ("incheon.md", r"Tallis Scholars"),
+        ("incheon.md", r"SHOW_IDX=14129"),
+        ("incheon.md", r"SHOW_IDX=14130"),
+    ]),
+    ("Gyeonggijeon 정전 closed for restoration through Dec 17", [
+        ("jeonju.md", r"Thu Mar 26 – Thu Dec 17, 2026"),
+        ("jeonju.md", r"cannot enter the inner 정전"),
+        ("itinerary.md", r"Gyeonggijeon 정전 is closed Mar 26–Dec 17"),
+        ("README.md", r"Gyeonggijeon 정전 closed for restoration through Dec 17"),
+        ("events.csv", r"inner 정전 closed for restoration Mar 26-Dec 17"),
+    ]),
+    ("Starlight Walk official 2026 fare is W10,000 on TicketLink", [
+        ("jeonju.md", r"₩10,000 per person"),
+        ("jeonju.md", r"facSid=RE_0001040"),
+        ("events.csv", r"Gyeonggijeon Starlight Walk.*10000"),
+        ("jeonju.md", r"half the tickets sold via TicketLink", "absent"),
+    ]),
+    ("Daesaseupcheong only in-window date is Oct 31", [
+        ("jeonju.md", r"only trip-window date is Sat Oct 31"),
+        ("jeonju.md", r"Nov 7, 14 and 21 are not on the list"),
+        ("events.csv", r"Only trip-window date on the official 2026 list"),
+    ]),
+    ("Masan chrysanthemum occupancy is Oct 25-Nov 12 not a visitor calendar", [
+        ("changwon-jinhae.md", r"2026\. 10\. 25 – 11\. 12"),
+        ("changwon-jinhae.md", r"do not treat Oct 25–Nov 12 as the visitor calendar"),
+        ("itinerary.md", r"2026\.10\.25–11\.12"),
+        ("events.csv", r"setup-to-teardown not the public run"),
+    ]),
+    ("Cheonan Arts Center year calendar is now 404", [
+        ("daejeon-cheonan.md", r"annual-calendar URL is now a 404"),
+        ("itinerary.md", r"Annual calendar URL is now \*\*404\*\*"),
+    ]),
+    ("Nearby-city mid-October re-check tables exist", [
+        ("itinerary.md", r"Mid-October re-check calendar — 10 nearby cities"),
+        ("itinerary.md", r"Sori Arts Center / Jeonju Symphony November"),
+        ("itinerary.md", r"Incheon Airport Sky Festival"),
+        ("itinerary.md", r"Pohang International Music Festival"),
+    ]),
 ]
 
 def check():

@@ -30,37 +30,37 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **What:** Ticketed horror experience inside Korean Folk Village — billed by the operator as **Korea's longest outdoor horror walkthrough (~400 m)**, including an underground maze section. You play an exorcist unravelling the Sindanggol mystery.
 - **When:** Operator's official 2026 season: **Apr 11 – Nov 15, 2026** (the horror-season banner on koreanfolk.co.kr); sessions run mainly on weekends/holidays. Verify the selected date before purchase.
 - ⚠️ **Age limit 13+.** The operator also restricts participation by elderly visitors and anyone with heart/anxiety conditions.
-- **Official sources (reviewed Aug 17):** [operator event page](https://m.koreanfolk.co.kr/home/promotion/event/2) · [Yongin City notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
+- **Official sources (reviewed Aug 18):** [operator banner / event page](https://www.koreanfolk.co.kr/home/promotion/event/8) · [Yongin City notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
 
 ### 3) 🩸 **Hyeoransikgwi (혈안식귀)** — ✅ CONFIRMED — through Nov 15, 2026
 - **What:** Separate **indoor** Korean Folk Village horror experience, themed on a Joseon-era curse surrounding Queen Yun and the shaman Ihwa; you play an investigator sent by the king.
 - **When:** Operator's official 2026 season: **Apr 11 – Nov 15, 2026** (banner on koreanfolk.co.kr); Yongin City describes operation mainly on weekends and holidays. Confirm session times and additional ticket requirements.
 - ⚠️ **Age limit 13+**, same health restrictions as Salgwiok.
-- **Official source (reviewed Aug 17):** [Yongin City program notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
+- **Official sources (reviewed Aug 18):** [operator banner / event page](https://www.koreanfolk.co.kr/home/promotion/event/9) · [Yongin City program notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)
 
 ### 4) 🕵️ **Joseon Murder Investigation (조선살인수사)** — ✅ CONFIRMED — through Nov 15, 2026
 - **What:** Interactive mystery event at Korean Folk Village, distinct from the haunted-house attractions — **not a horror attraction**, so it's the option if scare experiences aren't your thing. You act as a royal inspector (암행어사), gathering clues, interrogating suspects at the magistrate's office and working the crime scene.
 - **When:** Operator's official 2026 season: **Apr 11 – Nov 15, 2026** (banner on koreanfolk.co.kr).
 - **Price/hours:** Check the event page for sessions, reservation method, and age rules.
-- **Official source (reviewed Aug 17):** [Korean Folk Village event page](https://m.koreanfolk.co.kr/home/promotion/event/4)
+- **Official source (reviewed Aug 18):** [operator banner / event page](https://www.koreanfolk.co.kr/home/promotion/event/10)
 
 ### 5) 🖼️ **NJP Lounge 2: Jang Yun-young** — ✅ CONFIRMED — through Nov 11, 2026 · NEW
 - **What:** Dated exhibition in the Nam June Paik Art Center lounge.
 - **When:** **Jul 23–Nov 11, 2026**.
 - **Hours/price:** Tue–Sun **10:00–18:00, last entry 17:00. Free.** Closed Mondays. Full visitor detail in entry #15.
-- **Official source (reviewed Aug 17):** [Nam June Paik Art Center](https://njp.ggcf.kr/)
+- **Official source (reviewed Aug 18):** [Nam June Paik Art Center exhibitions](https://njp.ggcf.kr/exhibitions)
 
 ### 6) 🌌 **Stars, Trigrams (별, 괘卦)** — ✅ CONFIRMED — through Feb 14, 2027 · NEW
 - **What:** Nam June Paik Media Art Festival exhibition continuing throughout the trip.
 - **When:** **Jul 16, 2026–Feb 14, 2027**.
 - **Hours/price:** Check the museum page for gallery access and any program-specific reservation.
-- **Official source (reviewed Aug 17):** [Nam June Paik Art Center](https://njp.ggcf.kr/)
+- **Official source (reviewed Aug 18):** [Nam June Paik Art Center exhibitions](https://njp.ggcf.kr/exhibitions)
 
 ### 7) 🌍 **Hyundai Translocal Series** — ⏳ ANNOUNCED BUT UNLISTED — Nov 5, 2026–Mar 28, 2027 · NEW
 - **What:** Jointly planned exhibition by Nam June Paik Art Center and Pinacoteca de São Paulo exploring “translocal” ideas.
 - **When:** **Nov 5, 2026–Mar 28, 2027**, opening during the trip.
-- **⚠️ Status note (re-checked Aug 18):** the dates come from the Gyeonggi Cultural Foundation's annual program announcement. **Checked NJP's own exhibition page again on Aug 18 — this show is still absent, and NJP's "Upcoming exhibitions" (예정 전시) section is still completely empty.** Its four current shows are 장윤영 (to Nov 11), 별 괘卦 (to Feb 2027), 달들 (to Oct 4) and 백남준의 도시 (to Oct 31). **Downgraded from CONFIRMED.** Do not build a day around this one; treat NJP as worth visiting for 별 괘卦, which definitely runs through your window.
-- **Official sources (reviewed Aug 17):** [Gyeonggi Cultural Foundation 2026 program announcement](https://ggc.ggcf.kr/p/698c641f325a86b151c6f6ce) · [NJP exhibitions](https://njp.ggcf.kr/exhibitions)
+- **⚠️ Status note (re-checked Aug 18):** the dates come from the Gyeonggi Cultural Foundation's annual program announcement. **Checked NJP's own exhibition page again on Aug 18 — this show is still absent, and NJP's "Upcoming exhibitions" (예정 전시) section is still completely empty.** Its four listed current shows are 장윤영 (to Nov 11), 별 괘卦 (to Feb 2027), 달들 (to Oct 4 — already closed) and 백남준의 도시 (to Oct 31 — arrival day only). **Stay ⏳.** Do not build a day around this one; treat NJP as worth visiting for 별 괘卦, which definitely runs through your window.
+- **Official sources (reviewed Aug 18):** [Gyeonggi Cultural Foundation 2026 program announcement](https://ggc.ggcf.kr/p/698c641f325a86b151c6f6ce) · [NJP exhibitions](https://njp.ggcf.kr/exhibitions) — Translocal still absent; **예정 전시 still empty**. Current in-window shows remain 장윤영 (to Nov 11) and 별 괘卦 (to Feb 2027).
 
 ### 8) 🎨 **Art Spectrum 2026** — ✅ CONFIRMED — Sep 1–Dec 27, 2026 · NEW
 - **What:** Hoam Museum of Art’s edition of Art Spectrum, **co-organized with Palais de Tokyo (Paris)** — the first time the 2001-founded series has been staged at Hoam rather than Leeum. **10 countries, 23 artists/teams** working across visual art, architecture, film, design, and music, shown in the galleries **and outdoors**. Expect a moon-like pavilion, skateboarders in a subterranean city, a collapsing house.
@@ -106,6 +106,7 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **Price — full gate is about ₩37,000 adult / ₩30,000 child / ₩26,000 senior, but almost nobody pays it.** The operator runs a **monthly discount page** and rotates the offers every month, typically to **₩17,000–25,000**.
 - **💡 The one that applies to you: the public-transport discount.** Arriving by bus or subway instead of by car took the ticket to **₩17,000 in August 2026** — well under half price. Wearing hanbok and the "Open Tourism Site" promotion were also discounted. **These are re-issued monthly, so check the discount page for November before you buy** — but the transport discount has run every month, and you'll be arriving by public transport anyway.
 - **⚠️ Do not prepay full price online** without checking the discount page first.
+- **⚠️ Dead fare URL:** `koreanfolk.co.kr/price/charge.asp` is a **404** (re-tested Aug 18). Use the monthly discount page, not that old path. A 2025 November hours notice is still on the site — **do not copy those Nov 1 = Saturday hours into 2026.**
 - **Official sources (reviewed Aug 18):** [Korean Folk Village — date-by-date operating hours](https://www.koreanfolk.co.kr/operation) · [this month's discounts](https://www.koreanfolk.co.kr/discount) · [VISITKOREA overview](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222783)
 
 ### 14) 🥁 **Korean Folk Village daily performances and craft demonstrations** — 🔎 VERIFIED ACTIVITY
@@ -127,9 +128,9 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 - **Official sources (reviewed Aug 17):** [museum](https://njp.ggcf.kr/) · [Gyeonggi Cultural Foundation guide](https://ggc.ggcf.kr/p/5f313cd7e3d2f456a195fa83)
 
 ### 16) 🏺 **Gyeonggi Province Museum** — 🔎 VERIFIED MUSEUM
-- **What:** Provincial archaeology, history, and cultural-history museum beside the Nam June Paik Art Center.
-- **Hours/price:** Check current exhibitions, reservations, and closure notices on the museum site; normally closed Monday.
-- **Official source (reviewed Aug 17):** [Gyeonggi Province Museum](https://musenet.ggcf.kr/)
+- **What:** Provincial archaeology, history, and cultural-history museum beside the Nam June Paik Art Center. Entry #37 is the 30th-anniversary archive show running through the trip.
+- **Hours/price (homepage, Aug 18):** **10:00–18:00, last entry 17:20. Free.** Closed Mondays (same campus rule as NJP). Parking is shared with NJP (#15).
+- **Official source (reviewed Aug 18):** [Gyeonggi Province Museum](https://musenet.ggcf.kr/)
 
 ### 17) 🧒 **Gyeonggi Children’s Museum** — 🔎 VERIFIED MUSEUM
 - **What:** Hands-on children’s museum on the same campus. It is primarily designed for families with children, not a general art museum.
@@ -248,7 +249,13 @@ This file was rebuilt on **August 17, 2026** from official organizer, operator, 
 ### 36) 🎭 **Yongin Poeun Art Hall and city performance calendar** — ⏳ RE-CHECK
 - **What:** 1,525-seat municipal performing-arts venue by Jukjeon Station.
 - **Status:** No November production is treated as confirmed without a dated 2026 performance page.
-- **Official sources (reviewed Aug 17):** [venue information](https://www.yicf.or.kr/PageContent.do?tempParam1=&menuNo=030000&subMenuNo=030300&thirdMenuNo=030301) · [Yongin Cultural Foundation calendar](https://www.yicf.or.kr/main/show/list.do)
+- **Official sources (reviewed Aug 18):** [venue information](https://www.yicf.or.kr/PageContent.do?tempParam1=&menuNo=030000&subMenuNo=030300&thirdMenuNo=030301) · [Yongin Cultural Foundation calendar](https://www.yicf.or.kr/main/show/list.do) *(calendar URL returned an error page Aug 18 — re-check closer to travel)*
+
+### 37) 📚 **Gyeonggi Province Museum 30th-anniversary archive show** — ✅ CONFIRMED — Aug 27, 2026–Mar 1, 2027 · NEW
+- **What:** 《빛나는 순간들 : 경기도박물관 30년 이야기》 — five-part archive exhibition of the museum’s own 30 years (opened 1996): time, records, people, future, memory. B1 전시마루.
+- **When:** **Aug 27, 2026 – Mar 1, 2027** (the museum’s own article; a homepage teaser used the Aug 18 *posting* date — the body date governs).
+- **Hours/price:** Same as #16: **free, 10:00–18:00, last entry 17:20, closed Monday.** Same Giheung campus as NJP (#15).
+- **Official source (reviewed Aug 18):** [museum news article](https://musenet.ggcf.kr/boards/ggmnews/articles/3609)
 
 ---
 

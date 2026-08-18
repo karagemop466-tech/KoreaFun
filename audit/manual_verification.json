@@ -1,85 +1,85 @@
 {
   "yeosu.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against linked official city, operator, heritage, or organizing-committee sources; unsupported and duplicate entries removed.",
-    "reviewer_notes": "Recurring programs remain explicitly marked for schedule re-check. Ordinary operator hours and fares are not treated as immutable facts."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against linked official city, operator, heritage, or organizing-committee sources; unsupported and duplicate entries removed. Pass 37 re-fetched the Expo homepage and hours/fare table.",
+    "reviewer_notes": "Expo Sep 5–Nov 4, closed Oct 6; main 10:00–21:00 last entry 20:00; ₩15,000/9,000/6,000 and family ₩32,000 re-confirmed on yeosu2026.or.kr/content/4_1. Recurring programs remain schedule re-check."
   },
   "myeongdong.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against relevant organizer, venue/operator, Seoul City, Jung-gu, heritage, or national-tourism sources; unsupported, obsolete, duplicate, and out-of-neighborhood entries removed.",
     "reviewer_notes": "2026 event claims require dated organizer pages. Seasonal displays and recurring programs remain explicitly marked for re-check."
   },
   "yongin.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against dated organizer, operator, museum, Yongin City, Gyeonggi Cultural Foundation, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
     "reviewer_notes": "Confirmed 2026 Folk Village and museum exhibitions use dated sources. Everland seasonal programming, Caribbean Bay, templestays, and venue calendars remain explicitly marked for re-check."
   },
   "suwon.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against dated organizer, operator, Suwon City, Suwon Cultural Foundation, museum, league, UNESCO, or national-tourism sources; unsupported, duplicate, generic, and out-of-city entries removed.",
-    "reviewer_notes": "Confirmed 2026 exhibitions and performances use dated sources. Sports fixtures and weather-dependent operations remain explicitly marked for re-check."
+    "reviewer_notes": "Pass 36: BeautySum organizer Nov 5–7 (Visit Suwon index wrongly says Nov 6–8). Haenggung combined ticket ₩4,000. Added Gwanggyo 고문서 show. KT Sonicboom / KT Wiz remain re-check."
   },
   "jeonju.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against dated organizer, venue/operator, Jeonju City, museum, market, heritage, league, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
-    "reviewer_notes": "Confirmed 2026 parade, Gyeonggijeon night, and Daesaseupcheong series use official city calendars. Individual recurring sessions and sports fixtures remain marked for re-check."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against dated organizer, venue/operator, Jeonju City, museum, market, heritage, league, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed. Pass 37 re-fetched dated headlines and Gyeonggijeon operator notices.",
+    "reviewer_notes": "정전 closed Mar 26–Dec 17. Starlight Walk ₩10,000 TicketLink. Daesaseupcheong official list has Oct 31 only in the trip window. Added 《한상궁》 musical through Nov 13. Sori November and Jeonbuk final-round fixtures remain ⏳."
   },
   "incheon.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed. Second pass added two dated November 2026 items.",
-    "reviewer_notes": "Incheon ArtShow Nov 19–22 is on the organizer site. My Chemical Romance Nov 7 is a named Paradise City date. Administrative district changes effective July 2026 and closed/suspended transport claims were accounted for."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed. Pass 36 re-fetched dated headlines and Wolmi fares.",
+    "reviewer_notes": "INAS Nov 19–22 and MCR Nov 7 re-confirmed. Wolmi Sea Train ₩8,000 / Nov–Mar 10:00–18:00 from ICTR. Added Art Center Incheon Kholodenko Nov 7 and Tallis Scholars Nov 15. Sky Festival 2026 still TBA."
   },
   "gyeongju.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against dated venue, city tourism, operator, national park, museum, temple, UNESCO, or heritage sources; fabricated, closed, duplicate, generic, and out-of-city entries removed.",
-    "reviewer_notes": "Official November city calendar showed no major festival. Two 2026 Arts Center exhibition programs are dated; performance and operator schedules remain marked for re-check."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against dated venue, city tourism, operator, national park, museum, temple, UNESCO, or heritage sources; fabricated, closed, duplicate, generic, and out-of-city entries removed. Pass 37 re-fetched Arts Center and National Museum exhibition pages.",
+    "reviewer_notes": "Chronicle through Dec 31 and Gongyu through Dec 13 re-confirmed. Wolseong stele through Dec 31. KHNP special ended Oct 18. Saturday night opening is Mar–Oct only. No new November headline."
   },
   "daegu.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against dated venue, operator, city, museum, national park, temple, league, or tourism sources; fabricated, duplicate, generic, and out-of-city entries removed. Second pass added Daegu Art Festival Part 2 (Nov 17–22) from the municipal arts calendar.",
     "reviewer_notes": "Five dated 2026 arts programs plus one municipal festival block were confirmed. Seasonal illumination and sports remain explicitly schedule-dependent."
   },
   "ulsan.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against city, operator, museum, national park, temple, UNESCO, heritage, or league sources; fabricated, proposed/unbuilt, duplicate, generic, and out-of-city entries removed.",
-    "reviewer_notes": "No major trip-window festival was confirmed. Bangucheon World Heritage status was updated; cruises, factory tours, and sports remain schedule-dependent. Club URL corrected to uhdfc.com."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against city, operator, museum, national park, temple, UNESCO, heritage, or league sources; fabricated, proposed/unbuilt, duplicate, generic, and out-of-city entries removed. Pass 37 re-fetched the Lee Jung-seop exhibition page.",
+    "reviewer_notes": "Lee Jung-seop Oct 15 2026–Jan 17 2027 re-confirmed on the museum page. Julian Opie ended Oct 5. Philharmonic Nov 13 kept from the May 28 ticket-open notice. Ulsan HD final-round fixtures remain ⏳."
   },
   "pohang.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against city, venue/operator, museum, temple, club/league, university/research, or tourism sources; fabricated, duplicate, generic, unsafe-access, and out-of-city entries removed. Second pass added the Fire & Light Festival dates listed on VisitKorea’s 2026 calendar.",
-    "reviewer_notes": "VisitKorea lists Nov 20–22, 2026 but still says 2026 program copy is being updated. Steelworks and accelerator access require explicit official reservations; coastal operations remain weather-dependent."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against city, venue/operator, museum, temple, club/league, university/research, or tourism sources; fabricated, duplicate, generic, unsafe-access, and out-of-city entries removed. Pass 37 re-fetched the foundation fireworks overview tab.",
+    "reviewer_notes": "Foundation still Nov 14–22 with international show Nov 21 예정. VisitKorea still Nov 20–22 with 2025 copy flag. Steel Art Festival and music-festival WATCH unchanged. Steelers final-round fixtures remain ⏳."
   },
   "changwon-jinhae.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against dated venue, city, operator, museum, park, temple, club/league, or tourism sources; fabricated, duplicate, access-restricted, generic, and out-of-city entries removed.",
-    "reviewer_notes": "One dated November concert and one official monthly screening series were confirmed. Naval Academy/base access and sports remain schedule-dependent; cherry sites are explicitly off-season."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against dated venue, city, operator, museum, park, temple, club/league, or tourism sources; fabricated, duplicate, access-restricted, generic, and out-of-city entries removed. Pass 37 re-fetched the Maria Kim morning-concert page.",
+    "reviewer_notes": "Maria Kim Nov 17 11:00 / ₩20,000 re-confirmed on cwcf p_idx=9003. 살로메 is Sep 12; 오즈 is Aug 27–28. Chrysanthemum festival 2026 dates still TBA. Gyeongnam FC has no in-window home game."
   },
   "seoul.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against organizer, venue/operator, Seoul City/festival calendar, heritage, museum, league, or national-tourism sources. Semantic duplicates, generic venue types, out-of-city padding, and unsupported 2026 date locks were removed.",
     "reviewer_notes": "BANKSY, JTBC Marathon, Outdoor Library, Han River History Tour (to Nov 15), Cafe Show, MMA, KGMA, Leeum, MMCA OLED, several concerts, and Seoul Autumn Festa are sourced. Mulbit Yeonhwa fall dates, kimjang, Sale FESTA, and sports kickoffs remain re-check. Myeong-dong detail stays in myeongdong.md."
   },
   "busan.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against organizer, operator, Visit Busan, district, museum, temple, league, or national-tourism sources. Duplicate coast/market/park entries and out-of-city day trips were removed.",
-    "reviewer_notes": "Fireworks Nov 7 is on the official countdown page. G-STAR Nov 19–22 and Biennale through Nov 1 are organizer-dated. Light-festival switch-on and league kickoffs remain re-check."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against organizer, operator, Visit Busan, district, museum, temple, league, or national-tourism sources. Duplicate coast/market/park entries and out-of-city day trips were removed. Pass 34 re-fetched every dated claim.",
+    "reviewer_notes": "Fireworks Nov 7 on official countdown. G-STAR official table: Game Awards Nov 18 / BTC Nov 19–22. Biennale through Nov 1 via Yonhap (site still erroring). X the Sky operator fare is ₩29,000/₩26,000. Concert Hall Nov 8 15:00 Isang Yun winners is on the official product page. Gugak: Korea in Sound listed through Nov 14."
   },
   "daejeon-cheonan.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against organizer, city/tourism, museum, temple, park, league, or heritage sources. Duplicate local entries and far Chungcheong padding were removed. Asan, Gongju, and Buyeo are labeled day trips.",
     "reviewer_notes": "Wine EXPO Nov 6–8 is on the official English homepage. Noodle festival and O-World chrysanthemums stay TBA. Cheonan City FC Nov 8 is listed as check-the-match-center."
   }

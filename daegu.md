@@ -1,6 +1,6 @@
 # 🌆 Daegu — verified events and activities (Oct 31 – Nov 22, 2026)
 
-This file was rebuilt on **August 17, 2026** from dated venue calendars and official city, museum, operator, national-park, temple, heritage, and tourism sources. The former 132-entry version contained fabricated venues and foods, duplicates, generic businesses, out-of-city day trips, and unannounced seasonal events.
+This file was rebuilt on **August 17, 2026** from dated venue calendars and official city, museum, operator, national-park, temple, heritage, and tourism sources, and **re-verified line-by-line on August 18, 2026** (Pass 34). The former 132-entry version contained fabricated venues and foods, duplicates, generic businesses, out-of-city day trips, and unannounced seasonal events.
 
 > ✅ dated 2026 event · 🔎 verified place/activity · ⏳ re-check schedule. Prices and hours can change.
 
@@ -162,10 +162,12 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **Hours/price:** Free trail; allow daylight and check weather.
 - **Official source (reviewed Aug 17):** [Korea National Park Service](https://www.knps.or.kr)
 
-### 27) 🚡 **Palgongsan Cable Car** — ⏳ WEATHER-DEPENDENT
-- **What:** Private cable-car route to a Palgongsan viewpoint.
-- **Hours/price:** Verify daily operation and maintenance directly.
-- **Official source (reviewed Aug 17):** [Palgongsan Cable Car](http://www.palgongcablecar.com/)
+### 27) 🚡 **Palgongsan Cable Car** — ⏳ WEATHER-DEPENDENT · UPDATED Aug 18
+- **What:** Six-seat cable car from Dong-gu up Palgongsan (about 1,200 m of line, ~7 min, summit station ~820 m). Separate from the Gatbawi trailhead (#26) and from Donghwasa (#25).
+- **Hours (Daegu city tourism listing):** **November is the short season — 09:30–17:10.** Other months run later (Mar/Sep/Oct to 18:00). Weather and maintenance stop it — call **053-982-8801** the morning you go.
+- **Price (same city listing):** **Adult round-trip ₩14,000 / one-way ₩11,000** · child (48 months–elementary) ₩8,000 / ₩5,500 · senior / disability / national-merit ₩12,000 / ₩8,000. Confirm at the ticket window — monthly fares move.
+- **⚠️ Do not use palgongcablecar.com.** That domain was hijacked (see `sources.md`). Use the official tourism listings below.
+- **Official sources (reviewed Aug 18):** [Daegu Tourism Organization listing](https://www.daegutour.or.kr/bbs/board.php?bo_table=place&wr_id=75) (address 팔공산로185길 51; ☎ 053-982-8801) · [Daegu City tourism — Palgongsan Cable Car hours/fares](https://tour.daegu.go.kr/) (November 09:30–17:10; adult RT ₩14,000) · [KNPS Palgongsan](https://www.knps.or.kr)
 
 ---
 
@@ -207,7 +209,7 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 ### 34) ⚽ **Daegu FC** — ⏳ NOV 22 HOME FIXTURE LIKELY — CONFIRM ON OFFICIAL MATCH CENTRE · UPDATED Aug 18
 - **What:** Professional football club playing at **DGB Daegu Bank Park (대구iM뱅크PARK)** — a compact, football-specific ground that is one of K League's best atmospheres. ⚠️ **The club plays in K League 2 in 2026** (second tier), and sat 3rd in mid-August — deep in the promotion race, so late-season home games matter.
 - **Fixture watch:** K League 2's round 33 is scheduled for **Nov 21–22, 2026**, and the fixture grid circulating from the league's January release shows **Daegu FC at home vs Gimhae FC 2008 on Sun Nov 22, 14:00** (round 31, Oct 31, may also be a home date vs Suwon Samsung). **The club site was returning HTTP 500 at review and this has not been confirmed on an official page — verify on the K League match centre or club site before planning around it.**
-- **Official sources (reviewed Aug 18):** [Daegu FC](https://www.daegufc.co.kr/) *(site erroring at review)* · [K League match centre](https://www.kleague.com/schedule.do)
+- **Official sources (reviewed Aug 18):** [Daegu FC](https://www.daegufc.co.kr/) · [K League match centre](https://www.kleague.com/schedule.do) — Pass 38: the official schedule page is a JS calendar that still does not expose a static November row. Unofficial grids still print **Sun Nov 22 14:00 home vs Gimhae**. **Do not treat that as confirmed** until it appears on kleague.com or the club site.
 
 ### 35) 🎨 **2026 Daegu Art Festival Part 2** — ✅ CONFIRMED — Nov 17–22, 2026 · UPDATED
 - **What:** Second part of the municipal art-festival exhibition block — a large group show filling **Daegu Culture & Arts Center exhibition rooms 6–13** (대구문화예술회관 6~13전시실). Re-checked Aug 17: the venue and room numbers are confirmed on the Daegu Foundation for Culture & Arts listing.
@@ -217,17 +219,24 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **Price:** The Culture & Arts Center's own exhibition halls are normally **free**; a municipal festival group show of this type does not usually charge. Not stated on the listing, so treat a small fee as possible.
 - **Official sources (reviewed Aug 18):** [Daegu Culture & Arts Center — gallery hours and closures](https://daeguartscenter.or.kr/index.do?menu_id=00001546) (winter 10:00–18:00; last entry 15 min before close) · [Daegu Foundation for Culture & Arts event search — 2026 대구아트페스티벌 2부, Nov 17–22, rooms 6–13](https://dgfca.or.kr/event/search/list) · [Daegu Arts Center exhibition notice — Sunday de-install rule](https://daeguartscenter.or.kr/index.do?menu_id=00000351)
 
-### 36) 🎼 **Daegu Concert House and the Daegu Symphony's November subscription concert** — ⏳ DATE ON OFFICIAL CALENDAR · NEW
-- **What:** **Daegu Concert House (대구콘서트하우스)** is the city's dedicated classical hall near Daegu Station, home stage of the **Daegu Symphony Orchestra (대구시립교향악단, founded 1964)**, which plays a **subscription concert roughly every month in the Grand Hall**. The orchestra celebrated its 60th anniversary in 2024.
-- **November:** the orchestra's published 2026 season plan places **Falla and Ravel** (with Mussorgsky in December) in the year-end concerts — but the exact November date and programme number were not posted at review. Its recent pattern is a mid-month Friday 19:30 concert (e.g. #528 Sep 11, #529 Oct 16).
-- **How to book:** use the Concert House's own schedule page or the Daegu Arts Center ticketing portal (which lists 대구콘서트하우스 그랜드홀 events); seats for city-orchestra concerts are cheap by Seoul standards.
-- **Official sources (reviewed Aug 18):** [Daegu Concert House — schedule](https://daeguconcerthouse.or.kr/) · [Daegu Ilbo — 2026 season announcement (Nov/Dec repertoire)](https://www.idaegu.com/news/articleView.html?idxno=655046) · [Daegu Arts Center ticketing listings for the Grand Hall](https://daeguartscenter.or.kr/)
+### 36) 🎼 **Daegu Concert House / Daegu Symphony** — ⏳ SEE #38 FOR THE NOVEMBER FESTIVAL · UPDATED
+- **What:** **Daegu Concert House (대구콘서트하우스)** near Daegu Station is the city's dedicated classical hall and home of the **Daegu Symphony Orchestra (대구시립교향악단, founded 1964)**.
+- **November 2026:** do **not** plan around a generic "monthly subscription Friday." The hall's own **World Orchestra Festival** fills Sep 18–Nov 27 — that is the November programme (entry **#38**). The symphony's January season note still mentioned Falla/Ravel for a year-end concert; the July/August festival announcement is the live calendar.
+- **How to book:** [daeguconcerthouse.or.kr](https://daeguconcerthouse.or.kr/) or the Daegu Arts Center ticketing portal. ☎ 053-430-7700 (weekdays 09:00–18:00).
+- **Official sources (reviewed Aug 18):** [Daegu Concert House](https://daeguconcerthouse.or.kr/) · [WOF series page](https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004) · [Daegu Ilbo — earlier 2026 season note](https://www.idaegu.com/news/articleView.html?idxno=655046)
 
 ### 37) 📷 **DAC EP 2026 — 《우리가 빛의 속도로 갈 수 없다면》 (emerging photographers)** — ✅ CONFIRMED — Sep 11–Nov 1, 2026 · NEW
 - **What:** The Daegu Arts Center's **emerging-photographers special exhibition** — four selected artists (박가현, 조우성, 조현상, 튜나리) working across fermented prints, installation, photo-books and digital imagery, titled after Kim Cho-yeop's SF story ("If We Can't Go at the Speed of Light").
 - **When/where:** **Sep 11 – Nov 1, 2026, Daegu Culture & Arts Center gallery 11.** ⚠️ It **ends Nov 1** — only your first two trip days (Sat Oct 31/Sun Nov 1) overlap, and note galleries close Mondays anyway.
 - **⚠️ Don't confuse this with the Daegu Photo Biennale itself:** the venue announced (Aug 4, 2026) that the **11th Daegu Photo Biennale runs in October 2027**, not 2026 — there is **no main biennale during this trip**. This show is the venue's own lead-in strand.
 - **Official sources (reviewed Aug 18):** [Daegu Arts Center](https://daeguartscenter.or.kr/) · [Kyongbuk Ilbo — venue's artist selection + dates/gallery](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078331) · [11th biennale = Oct 2027 announcement](https://www.imaeil.com/page/view/2026080414071498841)
+
+### 38) 🎻 **2026 World Orchestra Festival (월드오케스트라페스티벌)** — ✅ CONFIRMED WINDOW — Sep 18–Nov 27, 2026 · NEW
+- **What:** Daegu Concert House's own international orchestra festival — the hall has run this series since 2013 (as Asia Orchestra Festival, then World Orchestra Series, then Festival from 2023). The **2026 edition is 71 days, 16 ensembles**, hosted by Daegu Metropolitan City and staged in the Grand Hall.
+- **When:** **Fri Sep 18 – Fri Nov 27, 2026** — covers the entire trip. Announced by the Concert House itself (early-bird on sale Aug 4; general sale from Aug 18).
+- **In-window concerts named in that venue announcement (confirm time/price on the hall calendar before booking):** **Wed Nov 4 — Gyeongbuk Provincial Symphony** · **Wed Nov 11 — Daegu Youth Orchestra** (conductor Baek Yoon-hak) · **Sat Nov 21 — Daegu International Broadcasting Symphony**. The big overseas names (Helsinki Philharmonic first Korea visit, Metz, Estonia) are earlier in the run; do not assume they are still playing in November.
+- **Book only from the Concert House page.** Seats for the regional November nights are the realistic walk-up options; the opening overseas nights were already in early-bird.
+- **Official sources (reviewed Aug 18):** [Daegu Concert House — official WOF series page](https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000004) · [Kyongbuk Ilbo, Aug 4, 2026 — venue announcement, Sep 18–Nov 27, 16 ensembles, Nov 4/11/21 named](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080235) · [Daegu Concert House monthly calendar](https://www.daeguconcerthouse.or.kr/index.do?menu_id=00000013)
 
 ---
 

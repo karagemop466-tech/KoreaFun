@@ -1180,3 +1180,204 @@ The trip's acknowledged thin spot was evening/indoor culture in the back half. V
 - `myeongdong.md` #38 (NEW) — **Seoul Namsan Gukakdang**: official program page shows current weekend gugak shows (Sat 15:00/18:30, Sun 15:00, ~70 min, ~₩30,000) and winter hours; November listings not yet posted — labeled ⏳ with the exact page to check. A prior-year Friday hanok-concert series (ended Nov 7) cited as pattern only.
 
 **Counts:** 588 entries. Ledger 2008/2010 (2 honest unresolved).
+
+---
+
+## Pass 34 — 2026-08-18: four-city line-by-line re-verification (Seoul · Busan · Daegu · Myeong-dong)
+
+Re-fetched official pages for every ✅ dated claim in the four files, then worked remaining high-risk prices/hours and hunted expansion candidates city by city. No fabricated events found. Defects were stale prices, a flipped correction log, a hijacked domain still cited, a wrong cross-reference, a semantic duplicate, and one aggregator date that was not on the operator calendar.
+
+### Re-verified exact (official pages fetched this pass)
+- Busan Fireworks Sat Nov 7 — busanfireworks.com countdown **2026. 11. 07. (토)** at 광안리·이기대·동백섬.
+- G-STAR official overview table: **Korea Game Awards Wed Nov 18** / **BTC Thu Nov 19–Sun Nov 22** / BTB Nov 19–21 / G-CON Nov 19–20 (gstar.or.kr/eng/gstar/gstar_info.do + part_info.do).
+- Busan IPark official match centre: **Nov 8 14:00 away at Cheonan**; **Nov 21 14:00 home vs Chungbuk Cheongju at Gudeok**.
+- Biennale Aug 29–Nov 1, 47 artists / 44 teams / 23 countries — Yonhap May 27; busanbiennale.org still a service error.
+- Drone show: operator page — every Saturday, winter Oct–Feb **19:00 and 21:00**, 1,100 drones.
+- Blueline fare table exact match (₩10,000/₩14,000/₩16,000; Sky Capsule ₩50/55/60k; package ₩73/92/111k).
+- Busan X the Sky **operator page**: ₩29,000 / ₩26,000, 10:00–21:00, last ticket 20:30, 2-visit ₩34,000/₩31,000.
+- Spa Land operator page: 08:00–23:00 last 22:00, ₩26,000/₩21,000, 4-hour ticket, +₩5,000/hr, ₩10,000 spend → 6 hours.
+- BANKSY venue page Jul 22–Nov 3 + hours; Visit Seoul fare table ₩23,000/₩18,000.
+- Cafe Show official + COEX: Nov 11–14; Nov 11–12 business; Nov 13 public 10–18; Nov 14 public 10–16; ₩25,000/₩50,000.
+- KGMA official site Nov 7–8 Gocheok. MMA Jun 9 Kakao/Melon announcement Nov 14–15 first 2-day.
+- Leeum #93 May 5–Nov 29 Black Box/Ground Gallery; #94 Sep 5–Dec 27 M2.
+- MMCA progressList: Lee Daewon 08-06~11-08 · OLED 07-31~11-29 · Artist of the Year 07-24~12-06.
+- NMK current list: Chusa Aug 11–Nov 22; Donated Works 2 Jul 27–Nov 15; bamboo ceramics to Jan 31 2027.
+- SeMA current/upcoming: Cho Sook-jin Jul 29–Nov 15; GanaArt Apr 16–Nov 22; Kwon Byungjun to May 16 2027; Lynn Hershman Oct 21–Feb 21; Kim Heecheon Aug 20–Nov 8.
+- Outdoor Library festacode 394: Apr 23–Nov 1, Fri–Sun, 11–18 / 16–22.
+- NTCK list: Anthropolis IV Oct 28–Nov 21 Myeongdong Theater; Part V Dec 2–26 after the trip.
+- DAF 2026 annual calendar: RE:ART 2 Sep 8–Nov 8; residency results Oct 27–Nov 15; SAC on Screen 15 Othello Nov 7.
+- Seoul E-Land official table (Aug view): E-Land 2nd / Daegu 3rd / Busan 5th — standings match the files.
+
+### Corrections
+- `sources.md` Busan X the Sky row had been flipped back to ₩27,000/₩24,000 and called ₩29,000 the error. **Operator page is ₩29,000/₩26,000.** Logged both directions so it cannot flip again.
+- `seoul.md` #1 — added the official Visit Seoul fare table (entry had hours but no price).
+- `seoul.md` #31 — Mulbit cross-ref said entry #21; it is **#25**.
+- `seoul.md` #49 — semantic duplicate of #21; collapsed to a pointer.
+- `busan.md` #2 — official schedule table now cited (Game Awards ≠ public exhibition).
+- `busan.md` #51 — killed the unverified **Nov 6 Tchaikovsky** aggregator claim; replaced with the hall's own **Nov 8 15:00 Isang Yun winners' concert**.
+- `daegu.md` #27 — **palgongcablecar.com is hijacked**; replaced with daegutour.or.kr + tour.daegu.go.kr (November 09:30–17:10, adult RT ₩14,000).
+- `events.csv` — BANKSY ₩23,000; GS Caltex venue Jangchung not Jamsil Students; Kings of Convenience 16-year claim removed; Hell's Kitchen marked DROPPED; Seoul Sky ₩33,000; N Tower observatory ₩29,000; Spa Land hours/fares; Blueline May-2026 fares; Biennale 47/23; Han River tour end Nov 15 not Nov 30.
+- `itinerary.md` — Day 1 now names the Oct 31 Jangchung opener; S11 / B7 / B10 / D6 / D9 rewritten to match the city files.
+
+### Added (each written from an official page fetched this pass)
+- `seoul.md` #100 — Seongbuk Museum of Art 《이정윤: 노래하는 집》, Apr 17–Nov 21, Kim Chung-up Architecture Culture House, free, 10:00–17:00, closed Sun/Mon (Visit Seoul + museum Newswire/Newsis).
+- `daegu.md` #38 — 2026 World Orchestra Festival, Sep 18–Nov 27, Daegu Concert House (official series page + Kyongbuk Ilbo Aug 4 venue announcement naming Nov 4/11/21).
+- `busan.md` #50 — enriched with official 《Gugak: Korea in Sound》 May 19–Nov 14.
+- `myeongdong.md` #23 — SeMA Seosomun public-space project 《영원히 교차하는 춤》 through Dec 31, 2026.
+
+### Checked and not added
+- Classic Busan Nov 25 Opera Talk Talk — after departure.
+- DAF public-residency part 2 Nov 24–Dec 27 — starts after departure.
+- NMK *Our Table* / Thailand — close before arrival.
+- SeMA Yoo Youngkuk / Title Match / Martin Parr — end Oct 18–25, before arrival.
+- 11th Daegu Photo Biennale — Oct 2027 (already fenced in #37).
+- palgongcablecar.com — hijacked; not cited.
+
+Counts: 588 → **590**. Ledger re-inited after the edits.
+
+---
+
+## Pass 35 — 2026-08-18: Daejeon/Cheonan + nine nearby-city headline sweep
+
+Started the next-city pass the user chose: Daejeon/Cheonan first, then a dated-headline re-fetch across Suwon, Yongin, Incheon, Jeonju, Gyeongju, Ulsan, Pohang, Changwon, Yeosu.
+
+### Daejeon / Cheonan — corrections
+- `#11 Hanbit Tower` — admission is **free** (Daejeon Marketing Corp., Jun 2021). Entry had only "check hours."
+- `#26 Art Space 193` — Shinsegae Daejeon store/dept map still says **전망대 현재 미운영**. Rewritten as do-not-plan. `walking-maps.md` already had this; `events.csv` did not.
+- `#38 Cheonan Arts Center` — venue year calendar **HTTP 502** this session. NOL still lists 《사랑해엄마》 Nov 7–8 and 《동백당》 Nov 20–21. Philharmonic Nov 11 and 《비밀결혼》 Nov 16 are **no longer asserted** until the calendar is back.
+- `#1 Wine EXPO` — official English visitor guide re-fetched: Nov 6–8, DCC II, 11:00–18:00 (Nov 6 to 19:00), last entry 18:00 Fri / 17:00 Sat–Sun, business-zone buyers-only Nov 6 all day + Nov 7 until 14:00, ₩16,000/₩23,000, 19+ with ID. Unchanged.
+- `#4 Noodle festival` — noodle-dj.com is still the **2025** edition. TBA stands.
+
+### Nearby-city headlines re-fetched (no file edits unless noted)
+- **Yeosu Expo** official homepage: **2026. 9. 5.–11. 4., 휴장일 10.6.(화)** — matches yeosu #1.
+- **BeautySum Suwon Nov 5–7** — Suwon city / Cosmorning April 2026 exhibitor-recruit press. Matches suwon #1.
+- **Pohang fireworks** — VisitKorea KFES still **Nov 20–22** (copy flagged 2025). Foundation Nov 14–22 discrepancy already in pohang #29.
+- **Yuseong chrysanthemum 2026** — still unpublished (VisitKorea shows 2025 Oct 18–Nov 2). daejeon #5 TBA stands.
+- **DPO Nov 6 at Daejeon Arts Center** — listed in a February magazine season preview only. **Not added** (no venue calendar page this session).
+- Cheonan City FC Nov 8 14:00 vs Busan already confirmed on Busan IPark (Pass 34).
+
+### Not added
+- Daejeon Philharmonic Nov 10 is at **Sejong Center in Seoul**, not Daejeon.
+- Yuseong Hot Springs Culture Festival is **May 8–10, 2026** (before the trip).
+
+
+---
+
+## Pass 36 — 2026-08-18: Suwon → Yongin → Incheon line-by-line official pass
+
+Full place/price/hours pass on the three files the user selected after Daejeon. Dated headlines re-fetched against organizer/operator pages. One sourced expansion each. No padding.
+
+### Re-verified exact
+- BeautySum Suwon **Nov 5–7**, Suwon Convention Center — beautysumkorea.com/beautysum/intro/ (`2026.11.05(목) – 11.07(토)`). Cosmorning Apr 16 2026: 1F exhibition hall, ~100 companies / ~300 booths.
+- Haenggung night opening May 1–Nov 1 Fri–Sun 18:00–21:30, last entry **21:00**, ₩2,000/1,500/1,000 (city event page + Visit Suwon visitor guide).
+- Piccinini *Kinship* Jul 23–Nov 1 still on SUMA current list. Exhibition page still says 관람안내 참조; press quotes ₩4,000/₩2,000/₩1,000, free Wed — recorded as corroboration only.
+- Blanc Black Panorama Feb 12 2026–Mar 1 2027; Thumbelina Apr 28–Nov 15 — city portal.
+- SWCF p=385 second-half table: Yeonhui Dokkaebi Nov 7 11:00/15:00 ages 36 months+; Treasure Castle Nov 21 16:00 ages 36 months+.
+- Muye 24-gi Tue–Sun 11:00–11:30 + Sat/Sun 14:00–14:20 (visitsuwon). Jangyongyeong ended Oct 25 2026.
+- Archery / Eocha / Flying Suwon fares unchanged on swcf p=74.
+- Hwaseong Museum / Suwon Museum / Gwanggyo Museum hours and ₩2,000 adult fares match city pages. **Combined ticket ₩4,000** covers Haenggung + Hwaseong Museum + Suwon Museum.
+- NAMUK 10:00–18:00 last 17:00, free, closed Mon. Collection show 《손끝에서 핀 나날의 꽃》 ended Oct 5 — before the trip.
+- Gyeongnam FC official November list: **Nov 7 14:00 away at Suwon FC**; **Nov 21 14:00 away at Suwon World Cup vs Bluewings**.
+- KFV banners: Salgwiok / Hyeoransikgwi / Joseon Murder Investigation all **26.04.11–26.11.15**. Translocal still absent from njp.ggcf.kr/exhibitions; 예정 전시 empty.
+- NJP visitor page: 10:00–18:00 last 17:00, free, closed Mon; docent times match the file.
+- Hoam visit page: ₩20,000/₩10,000, 100% advance booking 14 days / max 4, winter Everland shuttle suspended.
+- STM Mobility Museum visitor guide: hours and ₩10,000/₩8,000/₩6,000 unchanged.
+- Yongin football exhibition Mar 20–Dec 6 still the only item on the city event list; malformed phone 031-6193-4796 still on the city page.
+- INAS schedule table exact match. MCR TicketLink 57330: Nov 7 19:00, 90 min, 13+, ₩175/195/220k + ₩2,000.
+- INMM Greece shows Aug 11–Dec 6 and Aug 10–Dec 6 still on the English homepage.
+
+### Corrections
+- **Visit Suwon festival index lists BeautySum as Nov 6–8.** Organizer page is Nov 5–7. Operator wins; entry now warns against the tourism index.
+- Haenggung daytime hours/price were hedged; now **09:00–18:00 last 17:00, ₩2,000/1,500/1,000**, combined ticket, hanbok free. Visit Suwon still prints the old last-Wednesday Culture Day rule — file now states the Apr 2026 weekly rule and that night opening is excluded.
+- events.csv still had KFV horror start dates **Jun 12/13** after Pass 25 fixed the city file. Corrected to **Apr 11**. Dead `/price/charge.asp` noted (404).
+- Wolmi Sea Train hours/price were hedged; ICTR official English guide: **₩8,000/₩6,000/₩5,000**, Nov–Mar 10:00–18:00, closed Monday (table still labelled “from Jan 1, 2020”).
+- NAMUK visitor page filled hours; the 2026 flower collection show is **already closed**.
+- yicf.or.kr show calendar returned an error page — Poeun #36 stays ⏳.
+
+### Added (one sourced expansion each)
+| File | # | Entry | Dates | Source |
+|---|---|---|---|---|
+| suwon.md | 40 | Gwanggyo 《고문서로 만나는 조선의 일상》 | Jun 26 2026–May 30 2027 | suwon.go.kr culture portal + museum page |
+| yongin.md | 37 | Gyeonggi Museum 30th-anniversary archive 《빛나는 순간들》 | **Aug 27 2026–Mar 1 2027** (body date; homepage teaser used the Aug 18 post date) | musenet.ggcf.kr/boards/ggmnews/articles/3609 |
+| incheon.md | 45 | Art Center Incheon: Kholodenko Nov 7 17:00 + Tallis Scholars Nov 15 15:00 | venue show pages 14129 / 14130 | aci.or.kr |
+
+### Checked and not added
+- NAMUK flower show — closed Oct 5.
+- MoW 《글씨상점》 — ends Aug 23, before the trip.
+- Incheon Art Platform 차기율 《화해기》 — ends Oct 18, before the trip.
+- KFV 2025 November hours notice (posted Oct 30 2025; Nov 1 = Saturday) — not copied into 2026.
+- Sky Festival 2026 — still unpublished.
+- KT Sonicboom November homes — KBL site not server-rendered.
+- Husso / Ilwol village-name / Yeongheung pine-scent shows — real but thinner than the Gwanggyo add; left as city-portal background, not extra numbered padding.
+- XR버스 1795행 — free Wed–Sun at Yeonmudae; interesting but not added this pass (one expansion each).
+
+Counts: 590 → **593**.
+
+---
+
+## Pass 37 — 2026-08-18: Jeonju → Gyeongju → Ulsan, then Pohang / Changwon / Yeosu
+
+Full official-source line-by-line pass on the remaining six nearby-city files, same protocol as Pass 36. Dated headlines re-fetched against organizer/operator pages. One sourced Jeonju expansion. Honest zero-add for the other five.
+
+### Re-verified exact
+- Visit Jeonju 전통연희 퍼레이드 `facSid=RE_0001033`: **2026.04.18–10.31**, Saturdays **15:00 (60 min)**, Namcheongyo→Gyeonggijeon. Final show = trip day 1.
+- Visit Jeonju 별빛누빔 `facSid=RE_0001040`: Jun–Nov Fridays; Sep–Nov **19:30 / 20:30**; **₩10,000**; TicketLink; rain call by 12:00. Jul 10–Aug 28 heat-wave shutdown.
+- Visit Jeonju 대사습청 토요상설 `facSid=RE_0000882`: posted list includes **Oct 31 안명주 16:00 ₩10,000**. **Nov 7 / 14 / 21 are not listed.** Next date **Nov 28** (after departure).
+- 어진박물관 관람안내: winter **Nov–Feb 09:00–18:00**, last entry 1 hour before; **₩3,000/2,000/1,000**; museum included; closed only Jan 1. Page still prints stale last-Wednesday Culture Day.
+- 어진박물관 공지: **경기전 정전 단청공사 2026.3.26.~2026.12.17.** (end may extend). **내신문 안쪽 정전 구역 진입 불가.** Rest of precinct + museum open; no hoarding.
+- Jeonju NM Seogosa nahan: **2026.09.16~2026.11.29**, 기획전시실, 가제. Unchanged.
+- AI special 《엣헴, 임금님 나가신다》 May 27–**Oct 30, 2026** — ends the day before the trip. **Not added.**
+- Sori Arts Center November calendar still unpublished (JS shell). jeonju #37 stays ⏳.
+- Jeonju World Sori Festival 2026 is **Aug 12–16** (before trip).
+- Gyeongju NM specials page: Wolseong stele **2026-04-13 ~ 2026-12-31**; Hwangnyongsa **to Oct 11**; Guimet **to Aug 31**; Saturday night opening **Mar–Oct Saturdays only**.
+- garts.kr current exhibitions: 《THE 경주;경주연대기》 **2025-12-02 ~ 2026-12-31** Gallery Space I 4F; 공유 **2026-03-24 ~ 2026-12-13** Gallery Dal B1, 10:00–18:00 free. 한수원아트페스티벌 special **Jun 30–Oct 18** — already closed.
+- Ulsan Art Museum dataId=56197: 《국민화가 이중섭(가제)》 **2026.10.15.–2027.1.17.**, Gallery 2, ~100 works, ₩1,000/₩500. Julian Opie XR **Jul 2–Oct 5** — already closed. No second in-window exhibition.
+- Ulsan Philharmonic Nov 13: ucac ticket-open notice May 28 still listed. Kept; not re-extracted from a live calendar grid (client-rendered).
+- Pohang foundation overview tab: **2026. 11. 14(토) ~ 11. 22(일)**; **11.21(토) 국제불꽃쇼 예정**; 영일대해수욕장 일원, 해안로 173. VisitKorea KFES still **Nov 20–22** with 2025 copy flag.
+- Changwon CWCF p_idx=9003: Maria Kim **2026-11-17(화) 11:00**, 성산아트홀 소극장, 60 min, 7+, **전석 ₩20,000**, sales close Nov 16 17:00. 창극 살로메 is **Sep 12**; 오즈의 의류 수거함 is **Aug 27–28** — both before the trip.
+- Yeosu Expo homepage + `/content/4_1`: **2026. 9. 5.–11. 4., 휴장일 10.6.(화)**; main 10:00–21:00 / ticket office 09:30–20:00 / last entry 20:00; sub-venues 10:00–18:00; ₩15,000/9,000/6,000; group 12/8/5k; concession 8/5/3k; family ₩32,000.
+
+### Corrections
+- **Gyeonggijeon 정전 is closed Mar 26–Dec 17** — the previous #6 block had hours/fares but no construction warning. Starlight Walk no longer promises a walk through the Taejo portrait hall.
+- **Starlight Walk official 2026 fare is ₩10,000 on TicketLink.** Earlier draft used past-edition 50-person / half-onsite language and omitted the fare.
+- **Daesaseupcheong November in-window Saturdays are not scheduled.** The previous “November dates unposted / likely” wording overstated the series. Official list: Oct 31 yes, Nov 7/14/21 no, Nov 28 after departure.
+- Operator Culture Day line on the 어진박물관 visitor page is still “매월 마지막주 수요일”; national weekly rule wins, discrepancy documented.
+
+### Added
+| File | # | Entry | Dates | Source |
+|---|---|---|---|---|
+| jeonju.md | 38 | Musical 《조선 셰프 한상궁》 | Visit Jeonju index **Aug 28–Nov 13**; days/times/price unpublished on the detail page | tour.jeonju.go.kr `facSid=RE_0001066` |
+
+### Checked and not added
+- 어진박물관 AI show — ends Oct 30.
+- 왕과의 산책 — ends Oct 24.
+- 별향단젼이라 — ends Oct 17.
+- HIPːPAN / 시간의 골목 — official listings exist but no usable in-window dates on the detail pages.
+- Gyeongju KHNP special — ended Oct 18.
+- Ulsan Julian Opie — ended Oct 5. January 2026 “65년 한국산업을 이끈 울산” plan article has no live exhibition page.
+- Changwon 살로메 / 오즈 — September / late August.
+- Pohang / Yeosu — already have their dated anchors; no new official November headline.
+
+Counts: 593 → **594**.
+
+---
+
+## Pass 38 — 2026-08-18: nearby-city mid-October tables + remaining ⏳ hunt
+
+Two jobs in one pass: (1) add mid-October re-check tables for the ten nearby cities to `itinerary.md`, matching the Seoul/Busan/Daegu/Myeong-dong format; (2) re-fetch the leftover ⏳ headlines.
+
+### Hunt results
+- **Sori / Jeonju Symphony November** — still unpublished. Venue list is client-rendered. The 277th subscription concert was **Fri May 22, 2026** at Yeonji Hall (before the trip). jeonju #37 stays ⏳.
+- **Cheonan Arts Center** — `/play/year.html` is now a **404** (was 502 in Pass 35). Official [performance list](https://www.cnac.or.kr/performance/list.html) is firewall-blocked to bots; the indexed list adds **Thu Nov 5 K-클래식 콘서트 7 〈메즈클라리넷〉, small hall, ₩10,000, 준비중**, and **동백당 Nov 20–21 ₩20,000**. NOL still lists 《사랑해엄마》 Nov 7–8 and 동백당 Nov 20–21. Enriched #38; not a new numbered entry.
+- **Daegu FC Nov 22** — official `kleague.com/schedule.do` is a JS calendar with no static November row. Club site does not publish the date. Unofficial grids still print Sun Nov 22 14:00 home vs Gimhae. **Not upgraded.**
+- **Masan Gagopa Chrysanthemum Festival** — no public visitor calendar yet. Official Changwon booking notice closes Happo outdoor stage **2026.10.25–11.12** *because of the 2026 festival*. That is setup-to-teardown, not the visitor run. Documented as an occupancy window only.
+- **Pohang International Music Festival** — foundation page is still `FST_ETC_2025_001`, status **종료**, period Nov 7–13. No 2026 festivalId. mfph.kr still 404s. Stays WATCH.
+- **Incheon Airport Sky Festival** — IIAC latest official press is the **2025 recap** (Nov 8–9, Inspire). No 2026 announcement. Stays TBA.
+- **Noodle Daejeon** — noodle-dj.com is still the 2025 page.
+- **NJP Translocal** — still absent; 예정 전시 still empty.
+
+### Added
+- `itinerary.md` nearby-city mid-October tables (Daejeon/Cheonan, Suwon, Yongin, Incheon, Jeonju, Gyeongju, Ulsan, Pohang, Changwon, Yeosu).
+- events.csv rows for the occupancy window, Cheonan Nov 5/7–8/20–21, Sky Festival TBA, Sori TBA, Daegu FC watch.
+
+No new numbered city-file entries. Inventory stays **594**.

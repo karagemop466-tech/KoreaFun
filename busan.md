@@ -1,6 +1,6 @@
 # 🌊 Busan — verified events and activities (Oct 31 – Nov 22, 2026)
 
-This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md). The former 190-entry version repeated the same beaches, markets, and parks under new numbers, mixed in Geoje/Tongyeong/Fukuoka day trips, and listed the fireworks festival twice.
+This file was rebuilt on **August 17, 2026** under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) and **re-verified line-by-line on August 18, 2026** (Pass 34). The former 190-entry version repeated the same beaches, markets, and parks under new numbers, mixed in Geoje/Tongyeong/Fukuoka day trips, and listed the fireworks festival twice.
 
 > **How to read this file**
 > - ✅ **Confirmed event** — organizer or official calendar has published 2026 dates in the trip window.
@@ -22,8 +22,8 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 
 ### 2) 🎮 **G-STAR 2026** — ✅ CONFIRMED — Thu Nov 19–Sun Nov 22, 2026
 - **What:** Korea’s main consumer and trade game exhibition at BEXCO.
-- **When:** Organizer announcement (Mar 3, 2026): **Nov 19–22**. Re-confirmed by fresh press around the organizers' Aug 13–14, 2026 briefing (Nov 19–22, BEXCO; the **main sponsor for 2026 is AI company Wrtn/뤼튼**, and the opening day collides with the global GTA 6 launch). G-CON conference pages list **Nov 19–20** inside BEXCO. ⚠️ **Date nuance:** some earlier press (Korea JoongAng Daily, Aug 13, 2026) described the event as running Nov 18–22 — possibly counting a pre-opening day — but the organizing committee's own Aug 13 press conference and its site countdown both point to **Nov 19**. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact.
-- **Official sources (reviewed Aug 18):** [gstar.or.kr](https://www.gstar.or.kr) (countdown resolves to Nov 19) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20, Convention Hall, BEXCO) · [Insight Korea — organizer press conference Aug 13, 2026](https://www.insightkorea.co.kr/news/articleView.html?idxno=252396) (Nov 19–22) · [main-sponsor announcement, Aug 14, 2026](https://www.goodkyung.com/news/articleView.html?idxno=290294) · [bexco.co.kr](https://www.bexco.co.kr)
+- **When:** **Public exhibition (BTC) is Thu Nov 19–Sun Nov 22** at BEXCO. The organizer's own English/Korean overview tables (re-fetched Aug 18) put **Korea Game Awards on Wed Nov 18** and **BTC / Indie Showcase / BTB / G-CON from Nov 19**. BTB trade days are **Nov 19–21**. G-CON is **Nov 19–20**, Convention Hall, BEXCO. ⚠️ JoongAng Daily (Aug 13) wrote “Nov 18–22” because it counted the Game Awards pre-day — that is **not** a public exhibition day. Public hall hours and ticket prices are published later — do not copy 2024 fares as 2026 fact. Opening day is also CSAT day (see travel-basics).
+- **Official sources (reviewed Aug 18):** [G-STAR official overview — schedule table](https://www.gstar.or.kr/eng/gstar/gstar_info.do) (Nov 18 Game Awards; BTC Nov 19–22) · [exhibitor overview](https://www.gstar.or.kr/part/gstar_part_info.do) (BTC 11.19–11.22 / BTB 11.19–11.21) · [G-CON 2026](https://gstar.or.kr/conference/conf_info.do) (Nov 19–20) · [Insight Korea — organizer press conference Aug 13, 2026](https://www.insightkorea.co.kr/news/articleView.html?idxno=252396) · [bexco.co.kr](https://www.bexco.co.kr)
 
 ### 3) 🎨 **Busan Biennale 2026 “Dissident Chorus”** — ✅ CONFIRMED — through Sun Nov 1, 2026
 - **What:** Contemporary-art biennale across Busan MoCA, Space Wonji / Space One-Z on Yeongdo, and the former Busan Nam High School.
@@ -296,16 +296,16 @@ This file was rebuilt on **August 17, 2026** under the [manual verification prot
 ### 50) 🎵 **National Gugak Center Busan (국립부산국악원) and Gugak Experience Hall** — 🔎 VERIFIED VENUE · NEW
 - **What:** The national center for traditional Korean performing arts in Busan (opened 2008), next to Busan Citizens Park (#46) in Busanjin-gu. Regular **gugak performances** in its indoor hall plus a **free outdoor stage**, and the **Gugak Experience Hall (국악체험관)** — opened October 2023 — with hands-on exhibits on traditional music.
 - **Hours:** Experience Hall **Mon–Sat 09:00–21:00, closed Sundays** (per Visit Busan). Performance times vary by show.
+- **✅ Dated series overlapping the trip (official homepage, Aug 18):** **《전통 레퍼토리 — 국악 (Gugak: Korea in Sound)》 runs May 19–Nov 14, 2026** — listed on the National Gugak Center Busan's own "주요 공연 일정". That covers your first two weeks; **it ends Sat Nov 14**, before the G-STAR weekend. Treat it as a real dated programme, then **book a specific date from the calendar** rather than assuming a show every day.
 - **Getting there:** Metro Line 1 to **Yangjeong** Exit 5 → bus 179/63 to Busan Citizens Park stop, ~5 min walk (or a 15-min walk from Beomnaegol).
-- **Status:** No November 2026 programme was published at review — check the [official performance calendar](https://busan.gugak.go.kr) in October and book a dated show.
-- **Official sources (reviewed Aug 18):** [busan.gugak.go.kr](http://busan.gugak.go.kr) · [Visit Busan — Gugak Experience Hall listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=2067&lang_cd=ko) (hours, closure) · [KTO accessibility listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=45cd05e4-ec2e-496e-ab4b-5f89b8f6a2bf)
+- **Official sources (reviewed Aug 18):** [busan.gugak.go.kr](http://busan.gugak.go.kr) — homepage lists 《Gugak: Korea in Sound》 2026-05-19–2026-11-14 · [Visit Busan — Gugak Experience Hall listing](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=2067&lang_cd=ko) (hours, closure) · [KTO accessibility listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=45cd05e4-ec2e-496e-ab4b-5f89b8f6a2bf)
 
 ### 51) 🎻 **Busan Concert Hall (부산콘서트홀)** — 🔎 VERIFIED VENUE · NEW
 - **What:** Busan's **first dedicated classical concert hall**, opened **June 2025** on the edge of Busan Citizens Park (#46) — a 2,000-seat vineyard-style hall with a pipe organ, run by **Classic Busan**, a Busan Metropolitan City agency (which will also run the future Busan Opera House). Over 120,000 visitors in its first year; the 2026 season has brought the Vienna Philharmonic (Oct 26), Cho Seong-jin, Lim Yunchan and other headline classical acts.
 - **November programme:** the hall runs concerts through your window — ticketing aggregators list a **Tchaikovsky programme on Fri Nov 6** and a matinee opera-talk series later in the month — but **book only from a dated listing on the official schedule page**, which is the authoritative calendar.
 - **💡 The Busan Philharmonic plays here too:** the city orchestra's numbered subscription concerts (part of the municipal arts companies under the Busan Cultural Center) are staged at the Concert Hall and **booked through the hall's site, ₩10,000–30,000** — check the November subscription date on the schedule page.
 - **Getting there:** Bujeon-dong side of Citizens Park (동평로 250, Busanjin-gu) — pairs with the park (#46) and the National Gugak Center (#50). ☎ 051-640-8888.
-- **Official sources (reviewed Aug 18):** [Classic Busan — Busan Concert Hall official site & schedule](https://classicbusan.busan.go.kr/Home/ko/Main) · [Busan Ilbo — 2026 season lineup announcement, Feb 10, 2026](https://www.busan.com/view/busan/view.php?code=2026021017543227142) · [Busan Philharmonic subscription series (Busan Cultural Center)](https://www.bscc.or.kr/04_art/?mcode=0404011800) · [BPO concert booked via Concert Hall site, ₩10,000–30,000 — Viva100, Jan 2026](https://www.viva100.com/article/20260120500845)
+- **Official sources (reviewed Aug 18):** [Classic Busan — official Nov 8 winners' concert page](https://classicbusan.busan.go.kr/product/ko/performance/253085) (2026.11.8. 15:00) · [hall homepage / November calendar](https://classicbusan.busan.go.kr/Home/ko/Main) · [Busan Ilbo — 2026 season lineup announcement, Feb 10, 2026](https://www.busan.com/view/busan/view.php?code=2026021017543227142) · [Busan Philharmonic subscription series (Busan Cultural Center)](https://www.bscc.or.kr/04_art/?mcode=0404011800)
 
 ---
 
@@ -326,6 +326,12 @@ Re-check Visit Busan, busanfireworks.com, gstar.or.kr, kleague.com, and kovo.co.
 - BIFF — Oct 6–15, 2026 (Cinema Center is still worth visiting)
 - Busan International Rock Festival — early October
 - Haeundae Light Festival — starts just after departure on recent form: the 12th edition ran **Nov 29, 2025 – Jan 18, 2026** (18:00–23:00, Gunam-ro + beach; [MCST festival registry](https://mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=12038)); 2026–27 start TBA
+- Gwangbok-ro Christmas Tree Festival — December
+
+---
+
+**Back to:** [`README.md`](README.md) · [`itinerary.md`](itinerary.md) · [`walking-maps.md`](walking-maps.md)
+ecent form: the 12th edition ran **Nov 29, 2025 – Jan 18, 2026** (18:00–23:00, Gunam-ro + beach; [MCST festival registry](https://mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=12038)); 2026–27 start TBA
 - Gwangbok-ro Christmas Tree Festival — December
 
 ---

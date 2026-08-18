@@ -17,10 +17,10 @@ Yeosu is the south-coast terminus of direct KTX trains from Yongsan. This file w
 ### 1) 🏝️ **2026 World Island Exhibition Yeosu Korea** — ✅ CONFIRMED — Sep 5–Nov 4, 2026
 - **What:** Government-approved international island exhibition centered on the Jinmo district of Dolsan, with additional island and Expo 2012-site programming.
 - **When:** **Sep 5–Nov 4, 2026**. The trip catches only Oct 31–Nov 4, so this is time-critical.
-- **Hours (official, Aug 17):** Main venue **10:00–21:00** daily; ticket office 09:30–20:00; **last entry 20:00**. Sub-venues (개도, 금오도, the 2012 Expo site) **10:00–18:00**. The one closed day was **Oct 6**, well before the trip.
-- **Price (official, Aug 17):** Standard **₩15,000 adult / ₩9,000 youth / ₩6,000 child**. Group ₩12,000 / ₩8,000 / ₩5,000. Concession ₩8,000 / ₩5,000 / ₩3,000. **Family ticket ₩32,000.**
+- **Hours (official, Aug 18):** Main venue **10:00–21:00** daily; ticket office 09:30–20:00; **last entry 20:00**. Sub-venues (개도, 금오도, the 2012 Expo site) **10:00–18:00**. The one closed day was **Oct 6**, well before the trip.
+- **Price (official, Aug 18):** Standard **₩15,000 adult / ₩9,000 youth / ₩6,000 child**. Group ₩12,000 / ₩8,000 / ₩5,000. Concession ₩8,000 / ₩5,000 / ₩3,000. **Family ticket ₩32,000.**
 - **⚠️ Readiness warning:** Korean coverage through mid-2026 repeatedly flagged construction delays at the main Dolsan site and thin visitor facilities (toilets, shops) on the sub-venue islands. Treat on-site comfort as unproven and check recent visitor reports before committing a full day.
-- **Official sources (reviewed Aug 17):** [organizing committee](https://yeosu2026.or.kr) · [operating hours + full price table](https://yeosu2026.or.kr/content/4_1) · [tickets](https://yeosu2026.or.kr/content/4_2) · [day-by-day programme schedule](https://yeosu2026.or.kr/expo_schedule) · [Yeosu City 2026 island-program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)
+- **Official sources (reviewed Aug 18):** [organizing committee](https://yeosu2026.or.kr) (**2026. 9. 5.–11. 4., 휴장일 10.6.(화)**) · [operating hours + full price table](https://yeosu2026.or.kr/content/4_1) · [tickets](https://yeosu2026.or.kr/content/4_2) · [day-by-day programme schedule](https://yeosu2026.or.kr/expo_schedule) · [Yeosu City 2026 island-program guide (PDF)](https://www.yeosu.go.kr/tour/pdfjs_new/pdf/04_tour_gaedo.pdf)
 - **Planning note:** Visit Yeosu by Nov 4 or remove the Expo from the itinerary. Do not describe a specific performance as confirmed until it appears on the organizer’s dated schedule.
 
 ---
