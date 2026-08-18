@@ -188,10 +188,10 @@ This file was rebuilt on **August 17, 2026** from dated venue calendars and offi
 - **Hours/price:** Check each venue calendar; normally closed Monday.
 - **Official source (reviewed Aug 17):** [Daegu Art Factory](https://www.daeguartfactory.kr/)
 
-### 31) 🎭 **Daegu Opera House** — ⏳ CHECK PERFORMANCE CALENDAR
-- **What:** Dedicated opera venue and organizer of the Daegu International Opera Festival.
-- **Status:** The 2026 festival productions concluded by Oct 31; no November opera is assumed.
-- **Official source (reviewed Aug 17):** [Daegu Opera House](https://www.daeguoperahouse.org/)
+### 31) 🎭 **Daegu Opera House** — ⏳ CHECK PERFORMANCE CALENDAR · UPDATED Aug 18
+- **What:** Dedicated opera venue and organizer of the **23rd Daegu International Opera Festival** (Oct 2026).
+- **Status:** The festival's published programme ends with the creative opera **《미인》 on Oct 30–31, 2026** (venue's own listing) — Oct 31 is your arrival day at Incheon, so it isn't reachable. **No November production was listed at review**; check the venue calendar in October in case post-festival programming is added.
+- **Official sources (reviewed Aug 18):** [Daegu Opera House](https://www.daeguoperahouse.org/) · [venue programme listing — festival productions incl. 《미인》 Oct 30–31](https://www.daeguoperahouse.org/contents/03_academy/page.html?mid=043162&start=&category=&search_key=&keyword=&mode=view&no=17)
 
 ### 32) 🎢 **E-World and 83 Tower** — 🔎 VERIFIED OPERATOR — ⏳ illumination start unannounced
 - **What:** Theme park and observation tower complex.

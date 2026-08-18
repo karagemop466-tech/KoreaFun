@@ -208,10 +208,11 @@ This file was rebuilt on **August 17, 2026** from official city tourism, venue/o
 - **Hours/price:** Vendor-specific; confirm night-market operation rather than assuming it runs daily.
 - **Official source (reviewed Aug 17):** [Gyeongju Tourism shopping directory](https://www.gyeongju.go.kr/tour/)
 
-### 33) 🎭 **Gyeongju Arts Center** — ⏳ CHECK PERFORMANCE CALENDAR
-- **What:** City performance and exhibition venue containing the Alcheon Museum.
-- **Status:** Only the dated exhibitions above are confirmed; check for newly announced November performances.
-- **Official source (reviewed Aug 17):** [Gyeongju Cultural Foundation](https://garts.kr/)
+### 33) 🎭 **Gyeongju Arts Center (경주예술의전당) and Alcheon Art Museum** — ⏳ CHECK CALENDAR · UPDATED Aug 18
+- **What:** The city's main performance complex in Hwangseong-dong (Hwarang Hall + the basement **Alcheon Art Museum**), run by the Gyeongju Cultural Foundation.
+- **Currently promoted on the foundation's own site:** the immersive media-art experience **《THE 경주》** across the Arts Center / Alcheon Art Museum / Gallery Space I — check dates and ticketing on the foundation site before a trip. The **Gyeongju Artists Relay exhibitions** also run in the Alcheon galleries "spring to autumn" each year.
+- **November performances:** the foundation's year-preview flags a **KHNP Premiere series band concert in November** (title/date unannounced at review — 예정, may change). Use the foundation's live performance calendar; nothing is bookable for November yet.
+- **Official sources (reviewed Aug 18):** [Gyeongju Cultural Foundation — performance calendar](https://garts.kr/index.do?menuId=00000121) · [foundation site — THE 경주 banner](https://service.garts.kr/index.do) · [Gyeongju city — resident programs at the Arts Center](https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2716) · [2026 year-preview (KHNP Premiere series)](https://www.kbsm.net/news/view.php?idx=503413)
 
 ### 34) 🎨 **Wooyang Museum of Contemporary Art** — 🔎 VERIFIED MUSEUM
 - **What:** Private contemporary-art museum in the Bomun resort district.

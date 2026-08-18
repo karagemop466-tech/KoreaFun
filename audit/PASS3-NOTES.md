@@ -1158,3 +1158,16 @@ The trip's acknowledged thin spot was evening/indoor culture in the back half. V
 - `seoul.md` #84 — upgraded from ⏳ to dated: **ELISABETH → Nov 15 (Blue Square) · 광화문연가 → Nov 15 (D-Cube) · Dear Evan Hansen → Nov 1 (Chungmu)** per the official NOL musical listings. *Hell's Kitchen dropped from the entry (no current listing found — not re-asserted).*
 
 **Checked and yielded nothing (honest misses):** SAC Hangaram blockbusters (Goya ends Sep 30, Botero Aug 30 — both pre-trip); no other in-window Hangaram show found this pass.
+
+---
+
+## Pass 32 — 2026-08-18: regional venue-calendar hunt (1 new entry + 3 upgrades)
+
+- `daejeon-cheonan.md` #38 — **Cheonan Arts Center upgraded ⏳→dated**: the venue's own annual calendar publishes November — Cheonan Philharmonic subscription concert **Nov 11** (main hall), 《사랑해엄마》 **Nov 7–8**, Cheonan Opera Co. 《비밀결혼》 **Nov 16**, 《동백당: 빵집의 사람들》 **Nov 20–21**; the Nov 25 morning concert excluded as post-departure.
+- `daegu.md` #31 — Opera House: festival's final listed production 《미인》 **Oct 30–31** (venue page) → "no November opera" now carries its own citation; Oct 31 flagged unreachable (arrival day).
+- `jeonju.md` #37 (NEW) — **Sori Arts Center of Jeollabuk-do**: venue + Jeonju Symphony subscription series (276th at Yeonji Hall, Jan 2026, press); November date honestly `unresolved` — no published fixture, entry says exactly that.
+- `gyeongju.md` #33 — Arts Center enriched: 《THE 경주》 immersive media-art promoted on the foundation's own site (dates to confirm); artists-relay exhibitions spring–autumn (city page); year-preview's November KHNP-series band concert labeled 예정.
+
+**Checked, not added:** Daegu NOL regional listing shows an unidentifiable Nov 6–Jan 10 run (garbled title — not asserted); Gyeongju's "Maybe Happy Ending" run has no dates (labeled only in the foundation's preview, left out).
+
+**Counts:** 587 entries. Ledger 2004/2006 (2 honest unresolved: Daegu FC fixture, Jeonju Symphony November date).

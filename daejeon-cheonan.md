@@ -194,8 +194,11 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **What:** Memorial at the independence activist’s birthplace near Aunae / Byeongcheon.
 - **Official source (reviewed Aug 17):** [cheonan.go.kr](https://www.cheonan.go.kr)
 
-### 38) 🎭 **Cheonan Arts Center** — ⏳ CHECK CALENDAR
-- **What:** Municipal halls and museum. Attend only a dated show on [cnac.or.kr](https://www.cnac.or.kr).
+### 38) 🎭 **Cheonan Arts Center (천안예술의전당)** — ✅ NOVEMBER CALENDAR NOW PUBLISHED · UPDATED Aug 18
+- **What:** Cheonan's main performing-arts complex (대공연장/소공연장), on the east side of the city.
+- **Dated November items on the venue's own annual calendar:** **Cheonan Philharmonic subscription concert — Wed Nov 11, main hall** · play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 (Cimarosa's *Il matrimonio segreto*) — Mon Nov 16, small hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall**. (The 11 AM commentary concert falls Nov 25 — after departure.)
+- **Booking:** venue site or NOL; most small-hall programs are ₩10,000–30,000. Confirm times on the specific listing — the annual calendar shows dates only.
+- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — annual schedule](https://www.cnac.or.kr/play/year.html?p_team=pfm) (all November dates above) · [NOL listings for the venue](https://tickets.interpark.com/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)
 
 ### 39) 🏘️ **Oeam Folk Village (Asan)** — 🔎 VERIFIED PLACE · labeled Asan
 - **What:** Living Joseon village of thatched and tiled houses. November last entry is earlier.

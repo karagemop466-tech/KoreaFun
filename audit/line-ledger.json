@@ -18619,12 +18619,25 @@
   "text": "- **Official source (reviewed Aug 17):** [Daegu Art Factory](https://www.daeguartfactory.kr/)",
   "verdict": "verified"
  },
+ "daegu.md#31:732a30054c": {
+  "checked_on": "2026-08-18",
+  "entry": 31,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass32: Miin Oct 30-31 is final listed production; no November item on venue pages at review",
+  "sources": [
+   "https://www.daeguoperahouse.org/contents/03_academy/page.html?mid=043162&start=&category=&search_key=&keyword=&mode=view&no=17"
+  ],
+  "text": "- **Status:** The festival's published programme ends with the creative opera **《미인》 on Oct 30–31, 2026** (venue's own listing) — Oct 31 is your arrival day at Incheon, so it isn't reachable. **No November production was listed at review**; check the venue calendar in October in case post-festival programming is added.",
+  "verdict": "verified"
+ },
  "daegu.md#31:782759f1d6": {
   "checked_on": "2026-08-18",
   "entry": 31,
   "file": "daegu.md",
   "kind": "DATE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -18669,12 +18682,25 @@
   "text": "- **Status:** The 2026 festival productions concluded by Oct 31; no November opera is assumed.",
   "verdict": "verified"
  },
+ "daegu.md#31:9a77199611": {
+  "checked_on": "2026-08-18",
+  "entry": 31,
+  "file": "daegu.md",
+  "kind": "DATE",
+  "note": "Pass32: 23rd festival Oct 2026 per venue programme listings",
+  "sources": [
+   "https://www.daeguoperahouse.org/"
+  ],
+  "text": "- **What:** Dedicated opera venue and organizer of the **23rd Daegu International Opera Festival** (Oct 2026).",
+  "verdict": "verified"
+ },
  "daegu.md#31:a2cbdeddb2": {
   "checked_on": "2026-08-18",
   "entry": 31,
   "file": "daegu.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -18725,6 +18751,7 @@
   "file": "daegu.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://tour.daegu.go.kr",
    "https://www.gukchae.com",
@@ -18768,6 +18795,18 @@
   ],
   "text": "- **What:** Dedicated opera venue and organizer of the Daegu International Opera Festival.",
   "verdict": "prose"
+ },
+ "daegu.md#31:d71c499e77": {
+  "checked_on": "2026-08-18",
+  "entry": 31,
+  "file": "daegu.md",
+  "kind": "SOURCE",
+  "note": "Pass32: venue programme page shows festival items incl. Miin Oct 30-31",
+  "sources": [
+   "https://www.daeguoperahouse.org/contents/03_academy/page.html?mid=043162&start=&category=&search_key=&keyword=&mode=view&no=17"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Daegu Opera House](https://www.daeguoperahouse.org/) · [venue programme listing — festival productions incl. 《미인》 Oct 30–31](https://www.daeguoperahouse.org/contents/03_academy/page.html?mid=043162&start=&category=&search_key=&keyword=&mode=view&no=17)",
+  "verdict": "sourced"
  },
  "daegu.md#32:0d0070b61a": {
   "checked_on": "2026-08-18",
@@ -25594,12 +25633,37 @@
   "text": "- **What:** Memorial at the independence activist’s birthplace near Aunae / Byeongcheon.",
   "verdict": "prose"
  },
+ "daejeon-cheonan.md#38:538c20f688": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "SOURCE",
+  "note": "Pass32: venue annual calendar fetched via search; NOL listings corroborate",
+  "sources": [
+   "https://www.cnac.or.kr/play/year.html?p_team=pfm"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Cheonan Arts Center — annual schedule](https://www.cnac.or.kr/play/year.html?p_team=pfm) (all November dates above) · [NOL listings for the venue](https://tickets.interpark.com/search?keyword=%EC%B2%9C%EC%95%88%EA%B3%B5%EC%97%B0) (사랑해엄마 Nov 7–8; 동백당 Nov 20–21)",
+  "verdict": "sourced"
+ },
+ "daejeon-cheonan.md#38:8a9e906a6d": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "PROSE",
+  "note": "Pass32: venue description per official site",
+  "sources": [
+   "https://www.cnac.or.kr/"
+  ],
+  "text": "- **What:** Cheonan's main performing-arts complex (대공연장/소공연장), on the east side of the city.",
+  "verdict": "verified"
+ },
  "daejeon-cheonan.md#38:8e70de3f70": {
   "checked_on": "2026-08-18",
   "entry": 38,
   "file": "daejeon-cheonan.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://culture.changwon.go.kr",
    "https://www.changwon.go.kr",
@@ -25658,6 +25722,30 @@
    "https://www.science.go.kr"
   ],
   "text": "- **What:** Municipal halls and museum. Attend only a dated show on [cnac.or.kr](https://www.cnac.or.kr).",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#38:98a5a92ad1": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "DATE",
+  "note": "Pass32: Phil Nov 11 (main), Saranghae-eomma Nov 7-8, Bimilgyeolhon Nov 16, Dongbaekdang Nov 20-21 all on venue annual calendar; Nov 25 item excluded as post-departure",
+  "sources": [
+   "https://www.cnac.or.kr/play/year.html?p_team=pfm"
+  ],
+  "text": "- **Dated November items on the venue's own annual calendar:** **Cheonan Philharmonic subscription concert — Wed Nov 11, main hall** · play **《사랑해엄마》 Sat–Sun Nov 7–8, main hall** · **Cheonan Opera Company 20th-anniversary 《비밀결혼》 (Cimarosa's *Il matrimonio segreto*) — Mon Nov 16, small hall** · theatre series **《동백당: 빵집의 사람들》 Fri–Sat Nov 20–21, small hall**. (The 11 AM commentary concert falls Nov 25 — after departure.)",
+  "verdict": "verified"
+ },
+ "daejeon-cheonan.md#38:ed746bd5c0": {
+  "checked_on": "2026-08-18",
+  "entry": 38,
+  "file": "daejeon-cheonan.md",
+  "kind": "PRICE",
+  "note": "Pass32: calendar shows dates only (stated); price range hedged as typical, directs to listing",
+  "sources": [
+   "https://www.cnac.or.kr/play/year.html?p_team=pfm"
+  ],
+  "text": "- **Booking:** venue site or NOL; most small-hall programs are ₩10,000–30,000. Confirm times on the specific listing — the annual calendar shows dates only.",
   "verdict": "verified"
  },
  "daejeon-cheonan.md#39:92151fc1c0": {
@@ -30149,6 +30237,7 @@
   "file": "gyeongju.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://hanok.jeonju.go.kr",
    "https://tour.jeonju.go.kr",
@@ -30173,12 +30262,61 @@
   "text": "- **Status:** Only the dated exhibitions above are confirmed; check for newly announced November performances.",
   "verdict": "verified"
  },
+ "gyeongju.md#33:32d97b6b8e": {
+  "checked_on": "2026-08-18",
+  "entry": 33,
+  "file": "gyeongju.md",
+  "kind": "ACCESS",
+  "note": "Pass32: THE Gyeongju banner on foundation site (Arts Center/Alcheon/Gallery Space I); relay exhibitions spring-autumn per city page",
+  "sources": [
+   "https://service.garts.kr/index.do"
+  ],
+  "text": "- **Currently promoted on the foundation's own site:** the immersive media-art experience **《THE 경주》** across the Arts Center / Alcheon Art Museum / Gallery Space I — check dates and ticketing on the foundation site before a trip. The **Gyeongju Artists Relay exhibitions** also run in the Alcheon galleries \"spring to autumn\" each year.",
+  "verdict": "verified"
+ },
+ "gyeongju.md#33:484be70f37": {
+  "checked_on": "2026-08-18",
+  "entry": 33,
+  "file": "gyeongju.md",
+  "kind": "SOURCE",
+  "note": "Pass32: foundation calendar + banner + city page + year-preview",
+  "sources": [
+   "https://garts.kr/index.do?menuId=00000121"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Gyeongju Cultural Foundation — performance calendar](https://garts.kr/index.do?menuId=00000121) · [foundation site — THE 경주 banner](https://service.garts.kr/index.do) · [Gyeongju city — resident programs at the Arts Center](https://www.gyeongju.go.kr/tour/page.do?mnu_uid=2716) · [2026 year-preview (KHNP Premiere series)](https://www.kbsm.net/news/view.php?idx=503413)",
+  "verdict": "sourced"
+ },
+ "gyeongju.md#33:56b0115e1b": {
+  "checked_on": "2026-08-18",
+  "entry": 33,
+  "file": "gyeongju.md",
+  "kind": "ACCESS",
+  "note": "Pass32: year-preview lists November band concert in KHNP Premiere series - explicitly labeled 예정/unannounced in line",
+  "sources": [
+   "https://www.kbsm.net/news/view.php?idx=503413"
+  ],
+  "text": "- **November performances:** the foundation's year-preview flags a **KHNP Premiere series band concert in November** (title/date unannounced at review — 예정, may change). Use the foundation's live performance calendar; nothing is bookable for November yet.",
+  "verdict": "verified"
+ },
+ "gyeongju.md#33:9243c357a6": {
+  "checked_on": "2026-08-18",
+  "entry": 33,
+  "file": "gyeongju.md",
+  "kind": "PROSE",
+  "note": "Pass32: venue/foundation facts",
+  "sources": [
+   "https://garts.kr/index.do?menuId=00000121"
+  ],
+  "text": "- **What:** The city's main performance complex in Hwangseong-dong (Hwarang Hall + the basement **Alcheon Art Museum**), run by the Gyeongju Cultural Foundation.",
+  "verdict": "verified"
+ },
  "gyeongju.md#33:ce329373c7": {
   "checked_on": "2026-08-18",
   "entry": 33,
   "file": "gyeongju.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://hanok.jeonju.go.kr",
    "https://tour.jeonju.go.kr",
@@ -30209,6 +30347,7 @@
   "file": "gyeongju.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://hanok.jeonju.go.kr",
    "https://tour.jeonju.go.kr",
@@ -39790,6 +39929,52 @@
    "https://hyundai-motorsfc.com"
   ],
   "text": "- **What you can rely on:** the final-round window **spans your whole trip**, and each club gets **2–3 home games** in it, so a Jeonju home match during your stay is likely — just not yet schedulable. The league publishes the whole list in one announcement in late October; book through the club afterwards.",
+  "verdict": "verified"
+ },
+ "jeonju.md#37:1f277fbeca": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "jeonju.md",
+  "kind": "ACCESS",
+  "note": "Pass32: honest state - monthly cycle makes Nov likely but no published date; entry says exactly that",
+  "sources": [
+   "https://www.sori21.co.kr/"
+  ],
+  "text": "- **November:** the orchestra's roughly monthly cycle makes a November subscription concert likely, but **no specific in-window date was published at review** — pull it from the venue calendar and book there.",
+  "verdict": "unresolved"
+ },
+ "jeonju.md#37:85b7aa75f8": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "jeonju.md",
+  "kind": "ACCESS",
+  "note": "Pass32: access advice",
+  "sources": [],
+  "text": "- **Getting there:** next to Deokjin Park, ~15 min by taxi from the Hanok Village.",
+  "verdict": "prose"
+ },
+ "jeonju.md#37:892cac7939": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "jeonju.md",
+  "kind": "SOURCE",
+  "note": "Pass32: venue site + Jan 2026 press",
+  "sources": [
+   "https://www.sori21.co.kr/"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Sori Arts Center — schedule](https://www.sori21.co.kr/) · [Jeonju Symphony 276th subscription concert at Yeonji Hall — Jan 2026 press](https://www.thefairnews.co.kr/news/articleView.html?idxno=65939)",
+  "verdict": "sourced"
+ },
+ "jeonju.md#37:ba0a77a21d": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "jeonju.md",
+  "kind": "DATE",
+  "note": "Pass32: opened 2001, halls, Sori Festival home (wiki + festival press); JSO 276th at Yeonji Hall Jan 16 2026 (thefairnews)",
+  "sources": [
+   "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%86%8C%EB%A6%AC%EB%AC%B8%ED%99%94%EC%9D%98%EC%A0%84%EB%8B%B9"
+  ],
+  "text": "- **What:** The province's flagship arts complex in Deokjin-gu (opened 2001) — the Moak Hall main stage, Yeonji Hall concert hall and outdoor stages. It hosts the Jeonju World Sori Festival each summer and is the home stage of the **Jeonju Symphony Orchestra**, whose numbered subscription series runs through the year (the 276th subscription concert played Yeonji Hall in January 2026).",
   "verdict": "verified"
  },
  "jeonju.md#3:2c97449eed": {

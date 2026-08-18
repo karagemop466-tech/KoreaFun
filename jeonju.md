@@ -236,6 +236,12 @@ This file was rebuilt on **August 17, 2026** from official organizer, venue/oper
 - **⚠️ Stadium tours:** don't assume the ground is open to walk around on non-match days. There was no operator notice offering daily tours at review.
 - **Official sources (reviewed Aug 18):** [K League 1 2026 competition regulations](https://www.kleague.com/about/competition.do) — Oct 31–Dec 6 final round, 2–3 home games per club · [Jeonbuk Hyundai Motors](https://hyundai-motorsfc.com) · [K League](https://www.kleague.com)
 
+### 37) 🎻 **Sori Arts Center of Jeollabuk-do (한국소리문화의전당)** — ⏳ CHECK NOVEMBER CALENDAR · NEW
+- **What:** The province's flagship arts complex in Deokjin-gu (opened 2001) — the Moak Hall main stage, Yeonji Hall concert hall and outdoor stages. It hosts the Jeonju World Sori Festival each summer and is the home stage of the **Jeonju Symphony Orchestra**, whose numbered subscription series runs through the year (the 276th subscription concert played Yeonji Hall in January 2026).
+- **November:** the orchestra's roughly monthly cycle makes a November subscription concert likely, but **no specific in-window date was published at review** — pull it from the venue calendar and book there.
+- **Getting there:** next to Deokjin Park, ~15 min by taxi from the Hanok Village.
+- **Official sources (reviewed Aug 18):** [Sori Arts Center — schedule](https://www.sori21.co.kr/) · [Jeonju Symphony 276th subscription concert at Yeonji Hall — Jan 2026 press](https://www.thefairnews.co.kr/news/articleView.html?idxno=65939)
+
 ---
 
 ## Removed during this verification pass
