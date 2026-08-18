@@ -100,6 +100,27 @@ CLAIMS = [
         ("events.csv", r"CLOSED / not operating"),
         ("daejeon-cheonan.md", r"Tower 2500", "absent"),
     ]),
+    ("BeautySum Suwon is Nov 5-7 (organizer), not Visit Suwon Nov 6-8", [
+        ("suwon.md", r"Thu Nov 5–Sat Nov 7, 2026"),
+        ("suwon.md", r"Do not use the Visit Suwon festival index"),
+        ("events.csv", r"BeautySum Korea Suwon 2026.*2026-11-05,2026-11-07|2026-11-05,2026-11-07,BeautySum"),
+        ("suwon.md", r"Nov 6–8",),  # the warning must still mention the stale listing
+    ]),
+    ("Korean Folk Village 2026 horror season starts Apr 11 not June", [
+        ("yongin.md", r"Apr 11 – Nov 15, 2026"),
+        ("events.csv", r"Yongin,2026-04-11,2026-11-15,Salgwiok"),
+        ("events.csv", r"Yongin,2026-06-13,2026-11-15,Salgwiok", "absent"),
+    ]),
+    ("Wolmi Sea Train adult fare is W8,000 on the ICTR table", [
+        ("incheon.md", r"8,000 adult"),
+        ("events.csv", r"8000 adult"),
+    ]),
+    ("Art Center Incheon November concerts dated on venue pages", [
+        ("incheon.md", r"Vadym Kholodenko"),
+        ("incheon.md", r"Tallis Scholars"),
+        ("incheon.md", r"SHOW_IDX=14129"),
+        ("incheon.md", r"SHOW_IDX=14130"),
+    ]),
 ]
 
 def check():

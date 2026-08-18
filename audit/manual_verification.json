@@ -13,15 +13,15 @@
   },
   "yongin.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against dated organizer, operator, museum, Yongin City, Gyeonggi Cultural Foundation, or national-tourism sources; fabricated, duplicate, generic, and out-of-city entries removed.",
     "reviewer_notes": "Confirmed 2026 Folk Village and museum exhibitions use dated sources. Everland seasonal programming, Caribbean Bay, templestays, and venue calendars remain explicitly marked for re-check."
   },
   "suwon.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
+    "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against dated organizer, operator, Suwon City, Suwon Cultural Foundation, museum, league, UNESCO, or national-tourism sources; unsupported, duplicate, generic, and out-of-city entries removed.",
-    "reviewer_notes": "Confirmed 2026 exhibitions and performances use dated sources. Sports fixtures and weather-dependent operations remain explicitly marked for re-check."
+    "reviewer_notes": "Pass 36: BeautySum organizer Nov 5–7 (Visit Suwon index wrongly says Nov 6–8). Haenggung combined ticket ₩4,000. Added Gwanggyo 고문서 show. KT Sonicboom / KT Wiz remain re-check."
   },
   "jeonju.md": {
     "status": "reviewed",
@@ -31,9 +31,9 @@
   },
   "incheon.md": {
     "status": "reviewed",
-    "reviewed_on": "2026-08-17",
-    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed. Second pass added two dated November 2026 items.",
-    "reviewer_notes": "Incheon ArtShow Nov 19–22 is on the organizer site. My Chemical Romance Nov 7 is a named Paradise City date. Administrative district changes effective July 2026 and closed/suspended transport claims were accounted for."
+    "reviewed_on": "2026-08-18",
+    "scope": "All retained entries checked against operator, museum, Incheon City/current district, cultural-foundation, heritage, or tourism sources; fabricated, duplicate, generic, obsolete-transport, and out-of-city entries removed. Pass 36 re-fetched dated headlines and Wolmi fares.",
+    "reviewer_notes": "INAS Nov 19–22 and MCR Nov 7 re-confirmed. Wolmi Sea Train ₩8,000 / Nov–Mar 10:00–18:00 from ICTR. Added Art Center Incheon Kholodenko Nov 7 and Tallis Scholars Nov 15. Sky Festival 2026 still TBA."
   },
   "gyeongju.md": {
     "status": "reviewed",

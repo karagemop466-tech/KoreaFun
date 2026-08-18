@@ -19,29 +19,30 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 1) 💄 **BeautySum Korea Suwon 2026** — ✅ CONFIRMED — Nov 5–7, 2026 · NEW
 - **What:** Beauty-industry exhibition themed *"From Materials to Decisions"* — **~100 companies across ~300 booths**, spanning raw materials and R&D through finished cosmetics, beauty-tech devices, hair/nail, inner beauty, fragrance and packaging. Hosted by Suwon City with the Suwon Convention Center and Messe Esang.
-- **Where/when:** **Suwon Convention Center, Exhibition Hall, 1F** — **Thu Nov 5–Sat Nov 7, 2026**.
+- **Where/when:** **Suwon Convention Center, Exhibition Hall, 1F** — **Thu Nov 5–Sat Nov 7, 2026**. Organizer page (fetched Aug 18): *2026.11.05(목) – 11.07(토)*. City/Cosmorning April 2026 exhibitor-recruit press: **~100 companies, ~300 booths**.
+- ⚠️ **Do not use the Visit Suwon festival index for this date.** That page still prints **Nov 6–8** (last edited Jun 23, 2026). The organizer’s own intro page wins.
 - **Worth knowing for visitors:** alongside the trade side there's an **experience zone** (personal-colour diagnosis, perfume-making, skincare, makeup) and an **AI / Beauty-Tech hall**. So unlike a pure B2B fair, there is real walk-up content — but the R&D conference and export consultations are trade-only.
-- **Price/hours:** Check the organizer's visitor-registration page; trade and public programs have different access rules.
-- **Official source (reviewed Aug 17):** [BeautySum Korea Suwon](https://beautysumkorea.com/beautysum/intro/)
+- **Price/hours:** The organizer intro still does not publish a visitor fare or daily hours. Check the visitor-registration page before going; trade and public programs have different access rules.
+- **Official sources (reviewed Aug 18):** [BeautySum Korea Suwon](https://beautysumkorea.com/beautysum/intro/) · [Cosmorning, Apr 16 2026](https://www.cosmorning.com/news/article.html?no=52588)
 
 ### 2) 🌙 **Hwaseong Haenggung Night Opening: Moonlight Flower Talk** — ✅ CONFIRMED — through Nov 1, 2026
 - **What:** Seasonal evening opening of Hwaseong Haenggung palace — lantern-lit courtyards and heritage-linked night exhibits. Official title 《달빛화담, 花談》 ("Moonlight Flower Talk").
-- **When:** **May 1–Nov 1, 2026**, **Fridays, Saturdays and Sundays** (plus public holidays), **18:00–21:30**. Your trip starts Sat Oct 31, so **only Sat Oct 31 and Sun Nov 1 qualify — the very last two nights of the season.**
-- **Price:** **₩2,000 adults · ₩1,500 teens and military · ₩1,000 children.** Tel 031-290-3613.
-- **Official sources (reviewed Aug 17):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main) · [Suwon Cultural Foundation](https://www.swcf.or.kr/?p=260)
+- **When:** **May 1–Nov 1, 2026**, **Fridays, Saturdays and Sundays** (plus public holidays), **18:00–21:30, last entry 21:00**. Your trip starts Sat Oct 31, so **only Sat Oct 31 and Sun Nov 1 qualify — the very last two nights of the season.**
+- **Price:** **₩2,000 adults · ₩1,500 teens and military · ₩1,000 children.** Night opening is **not** free on Culture Day. Tel 031-290-3613.
+- **Official sources (reviewed Aug 18):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main) · [Visit Suwon visitor guide](https://www.visitsuwon.or.kr/base/contents/view?contentsNo=11&menuLevel=2&menuNo=15)
 
 ### 3) 🧬 **Patricia Piccinini: Kinship** — ✅ CONFIRMED — through Nov 1, 2026 · NEW
 - **What:** The museum's flagship **2026 international exhibition**, devoted to **Patricia Piccinini** (b. 1965, Sierra Leone; based in Melbourne) — the hyperreal sculptor who represented Australia at the **2003 Venice Biennale**, working in silicone, fibreglass and human hair to make unsettlingly lifelike creatures. *Kinship* asks who we count as family and what we recognise as life. Structured in four parts — 깨어나다 (Awakening) · 조우하다 (Encounter) · 유대하다 (Bonding) · 흔적들 (Traces, an archive and education space).
 - **Where/when:** **Suwon Museum of Art, Haenggung Main Branch** — **Jul 23–Nov 1, 2026**. Supported by the Australian Embassy in Korea.
 - **⚠️ Closes Nov 1** — with the Haenggung night opening (entry 2) also ending Nov 1, your **Oct 31–Nov 1 weekend is the only time both are available.** That makes a Suwon day trip on one of those two days unusually worthwhile.
-- **Price/hours:** The museum's listing defers to its general visitor info rather than stating a fee (enquiries 02-5191-3800) — **confirm admission and last entry before travelling.**
-- **Official source (reviewed Aug 17):** [Suwon Museum of Art exhibition page](https://suma.suwon.go.kr/exhi/schedule_view.do?lang=ko&ge_idx=1266)
+- **Price/hours:** The museum exhibition page still says only “관람료: 관람안내 참조” (enquiries 02-5191-3800). Art-press covering the opening quotes the museum listing as **₩4,000 adult / ₩2,000 teen / ₩1,000 child, free on Culture Day (every Wednesday)** and **10:00–19:00, closed Monday**. The museum’s own visitor-info URL 404’d this session — **confirm admission and last entry at the desk.**
+- **Official sources (reviewed Aug 18):** [museum current-exhibition list](https://suma.suwon.go.kr/exhi/current_list.do) (title live) · [exhibition page](https://suma.suwon.go.kr/exhi/schedule_view.do?lang=ko&ge_idx=1266) (Jul 23–Nov 1, Australian Embassy support) · [amnews opening notice](http://www.amnews.kr/bbs/board.php?bo_table=news&wr_id=1580) (fare table as corroboration only)
 
 ### 4) 👹 **Yeonhui Dokkaebi (연희도깨비)** — ✅ CONFIRMED — Nov 7, 2026 · NEW
 - **What:** Family-oriented traditional performance at Jeongjo Theme Performance Hall.
-- **When:** **Sat Nov 7, 2026**, performances listed at 11:00 and 15:00.
-- **Price/booking:** Confirm ticketing and age guidance on the venue calendar.
-- **Official source (reviewed Aug 17):** [Jeongjo Theme Performance Hall schedule](https://www.swcf.or.kr/?p=385)
+- **When:** **Sat Nov 7, 2026**, performances listed at **11:00 and 15:00**. Venue table: **ages 36 months and up**.
+- **Price/booking:** Confirm ticketing on the venue calendar. Enquiry 031-290-3573.
+- **Official source (reviewed Aug 18):** [Jeongjo Theme Performance Hall 2026 second-half table](https://www.swcf.or.kr/?p=385)
 
 ### 5) ⭐ **The Treasure Castle Made by a Little Star (꼬마별이 만든 보물성)** — ✅ CONFIRMED — Nov 21, 2026 · NEW
 - **What:** Children/family performance at Jeongjo Theme Performance Hall.
@@ -79,8 +80,11 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 
 ### 10) 👑 **Hwaseong Haenggung** — 🔎 VERIFIED HERITAGE PLACE
 - **What:** Restored temporary royal palace used by King Jeongjo during visits to Suwon.
-- **Hours/price:** Check the Cultural Foundation for current admission and last entry. Entry #2 covers the final two nights of the 2026 seasonal night opening.
-- **Official source (reviewed Aug 17):** [Suwon Cultural Foundation — Haenggung](https://www.swcf.or.kr/english/?p=37)
+- **Hours:** **09:00–18:00 year-round** (the city table prints the same hours for Mar–Oct and Nov–Feb). **Last entry 17:00.** Open every day.
+- **Price:** **₩2,000 adult · ₩1,500 teen/military · ₩1,000 child.** Hanbok (including modernized hanbok) is free. **Combined ticket ₩4,000 / ₩2,500 / ₩1,000** covers this palace + the Hwaseong Museum (#19) + Suwon Museum (#20) — it pays off if you do two of the three.
+- **Culture Day:** Visit Suwon still prints the old “last Wednesday of the month” rule. **Since Apr 1, 2026 every Wednesday is Culture Day** (Nov 4, 11, 18) — daytime palace entry should be free those days. **Night opening (#2) is excluded.**
+- Entry #2 covers the final two nights of the 2026 seasonal night opening.
+- **Official sources (reviewed Aug 18):** [Visit Suwon visitor guide — hours, fares, combined ticket](https://www.visitsuwon.or.kr/base/contents/view?contentsNo=11&menuLevel=2&menuNo=15) · [Suwon Cultural Foundation — Haenggung](https://www.swcf.or.kr/english/?p=37)
 
 ### 11) 🚪 **Janganmun, Paldalmun, Changnyongmun, and Hwaseomun gates** — 🔎 VERIFIED FORTRESS FEATURES
 - **What:** The four principal gates of Hwaseong. They are components of one fortress visit, not four separate padded activities.
@@ -147,9 +151,9 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **Official sources (reviewed Aug 18):** [Suwon City museum page — hours, fares](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-01.jsp) · [museum](https://smuseum.suwon.go.kr/sw/main/view)
 
 ### 21) 🗺️ **Suwon Gwanggyo Museum** — 🔎 VERIFIED MUSEUM
-- **What:** Local-history museum with collections connected to Gwanggyo and donated modern-history materials.
-- **Hours/price:** Check the museum page for current hours, admission, and closure dates.
-- **Official source (reviewed Aug 17):** [Visit Suwon — Gwanggyo Museum](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-03.jsp)
+- **What:** Local-history museum with collections connected to Gwanggyo and donated modern-history materials (광교 역사문화실, 소강실, 사운실). Entry #40 is the trip-window theme exhibition in 사운실.
+- **Hours/price (city page, Aug 18):** **09:00–18:00, last admission 17:00. Closed every Monday** (next day if that Monday is a holiday — none in the window). **₩2,000 adult · ₩1,000 teen/military · free for children and seniors.** ☎ 031-5191-4175. Address: 광교로 182, Yeongtong.
+- **Official source (reviewed Aug 18):** [Visit Suwon — Gwanggyo Museum](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-03.jsp)
 
 ### 22) 🎨 **Suwon Museum of Art — Haenggung Main Branch** — 🔎 VERIFIED MUSEUM
 - **What:** Municipal contemporary-art museum beside Haenggung. Confirmed trip-window exhibitions are entries #3 and #7.
@@ -265,6 +269,12 @@ This file was rebuilt on **August 17, 2026** using official organizer, venue/ope
 - **When:** **Sat Nov 7, 2026, 14:00 vs Gyeongnam FC** (round 32). ⚠️ Suwon FC's own site was erroring at review — this fixture is confirmed on **Gyeongnam FC's official fixture list** (2026.11.07 (토) 14:00, 수원, vs 경남), which also shows the Bluewings hosting Gyeongnam on Nov 21 (matching entry #35).
 - **Why it's interesting:** with the Bluewings home on **Nov 8 and Nov 21** (#35) and Suwon FC home on **Nov 7**, Suwon offers second-tier football on back-to-back days of the trip's first full weekend — and both clubs may be fighting for promotion.
 - **Official sources (reviewed Aug 18):** [Gyeongnam FC — official fixture list](https://www.gyeongnamfc.com/match/match.php) (Nov 7 14:00 at Suwon) · [suwonfc.com](https://www.suwonfc.com) *(erroring at review — re-check for tickets)* · [K League](https://www.kleague.com/schedule.do)
+
+### 40) 📜 **Gwanggyo Museum theme exhibition: Everyday Joseon in Old Documents** — ✅ CONFIRMED — through May 30, 2027 · NEW
+- **What:** 2026 theme show 《고문서로 만나는 조선의 일상》 in the museum’s 2F **사운실** — Joseon-era documents (시권 exam papers, 홍패 pass certificates, letters, a customs-survey report) set next to modern contracts and notices.
+- **When:** **Jun 26, 2026 – May 30, 2027** — listed on the city’s live event portal (fetched Aug 18). Covers the whole trip.
+- **Hours/price:** Same as the museum (#21): **09:00–18:00, last entry 17:00, closed Monday, ₩2,000 / ₩1,000 / free child-senior.** Culture Day (every Wednesday) and Suwon’s Friday youth day are free on the city listing.
+- **Official sources (reviewed Aug 18):** [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do) · [Visit Suwon — Gwanggyo Museum](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-03.jsp)
 
 ---
 

@@ -32045,6 +32045,7 @@
   "file": "incheon.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://www.incheon.go.kr",
    "https://inartplatform.kr",
@@ -32074,12 +32075,25 @@
   "text": "- **What:** Elevated tourist monorail circuit connecting Incheon Station, Wolmi Park, museums, and waterfront areas.",
   "verdict": "prose"
  },
+ "incheon.md#11:48b6ff05c1": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "incheon.md",
+  "kind": "TIME",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/"
+  ],
+  "text": "- **Hours (Incheon Transit Corporation, still served Aug 18):** **November–March off-season 10:00–18:00.** Closed **Mondays**. Peak season (Apr–Oct) runs later on Fri–Sun (to 21:00).",
+  "verdict": "verified"
+ },
  "incheon.md#11:62bf941c18": {
   "checked_on": "2026-08-18",
   "entry": 11,
   "file": "incheon.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://www.incheon.go.kr",
    "https://inartplatform.kr",
@@ -32109,12 +32123,26 @@
   "text": "- **Hours/price:** Timetable and service days change; check reservations and maintenance notices.",
   "verdict": "verified"
  },
+ "incheon.md#11:6822b52fa2": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "incheon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.ictr.or.kr/foreign/eng/wst/guide.jsp",
+   "https://www.wolmiseatrain.or.kr"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [ICTR English guide — fares and hours](https://www.ictr.or.kr/foreign/eng/wst/guide.jsp) · [Wolmi Sea Train booking](https://www.wolmiseatrain.or.kr)",
+  "verdict": "verified"
+ },
  "incheon.md#11:bcb370f04e": {
   "checked_on": "2026-08-18",
   "entry": 11,
   "file": "incheon.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://www.incheon.go.kr",
    "https://inartplatform.kr",
@@ -32142,6 +32170,30 @@
    "https://www.jcf.or.kr"
   ],
   "text": "- **Official sources (reviewed Aug 17):** [Wolmi Sea Train](https://www.wolmiseatrain.or.kr) · [Jung-gu route guide](https://www.incheon.go.kr/world/wd030800/view?curPage=18&contentid=1963110)",
+  "verdict": "verified"
+ },
+ "incheon.md#11:cc356a6c10": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/"
+  ],
+  "text": "- **Price (same official table, labelled “from Jan 1, 2020” and still published):** **₩8,000 adult · ₩6,000 senior 65+ / youth 13–18 · ₩5,000 child 3+ · ₩4,000 disabled/national-merit.** Group fares ₩7,000/₩5,000/₩4,000. Same-day re-ride allowed. Book by the day before, or buy at Wolmi Sea Station.",
+  "verdict": "verified"
+ },
+ "incheon.md#11:e684734201": {
+  "checked_on": "2026-08-18",
+  "entry": 11,
+  "file": "incheon.md",
+  "kind": "PROSE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/"
+  ],
+  "text": "- **What:** Elevated tourist monorail circuit connecting Incheon Station, Wolmi Park, museums, and waterfront areas. ~6.1 km, about 42 minutes, 7–18 m above the ground.",
   "verdict": "verified"
  },
  "incheon.md#12:3f174b2ff2": {
@@ -36591,6 +36643,67 @@
    "https://tickets.interpark.com/contents/notice/detail/11515"
   ],
   "text": "- **What:** Incheon International Airport Corporation's annual festival, running since 2004 — in recent form a **two-evening K-pop + classical/musical concert weekend at Inspire Arena** next to the airport, with daytime family events.",
+  "verdict": "verified"
+ },
+ "incheon.md#45:2b280397b1": {
+  "checked_on": "2026-08-18",
+  "entry": 45,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/"
+  ],
+  "text": "- **Sun Nov 15, 15:00 — The Tallis Scholars: *The Sistine Inspirations* (탈리스 스콜라스: 시스티나의 영감).** Concert Hall. **R ₩70,000 · S ₩50,000 · A ₩30,000.** 110 min including a 15-min interval. Elementary-school and up.",
+  "verdict": "verified"
+ },
+ "incheon.md#45:7a546767f9": {
+  "checked_on": "2026-08-18",
+  "entry": 45,
+  "file": "incheon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14129",
+   "https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14130"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Kholodenko show page](https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14129) · [Tallis Scholars show page](https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14130)",
+  "verdict": "verified"
+ },
+ "incheon.md#45:b07f18a5f1": {
+  "checked_on": "2026-08-18",
+  "entry": 45,
+  "file": "incheon.md",
+  "kind": "TIME",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/"
+  ],
+  "text": "- **Booking:** aci.or.kr (no booking fee) or NOL. Box office 032-453-7700 (weekdays 09:00–17:00, closed 12:00–13:00).",
+  "verdict": "verified"
+ },
+ "incheon.md#45:c722875e1d": {
+  "checked_on": "2026-08-18",
+  "entry": 45,
+  "file": "incheon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/"
+  ],
+  "text": "- **Sat Nov 7, 17:00 — Vadym Kholodenko piano recital.** Concert Hall. **R ₩50,000 · S ₩30,000.** 100 min including a 15-min interval. Elementary-school and up. Hosted by ACI. ⚠️ **Same day as MCR (#43) at 19:00** — do not try both; Yeongjong is a separate trip.",
+  "verdict": "verified"
+ },
+ "incheon.md#45:d2cb71e1d5": {
+  "checked_on": "2026-08-18",
+  "entry": 45,
+  "file": "incheon.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.aci.or.kr/"
+  ],
+  "text": "- **What:** Two dated Songdo concerts on the venue’s own 2026 season pages. Art Center Incheon is in Songdo, not at the airport — pair it with Central Park / MoW (#17/#20), not with Paradise City.",
   "verdict": "verified"
  },
  "incheon.md#4:1a297ed4a0": {
@@ -66199,12 +66312,62 @@
   "text": "- **What:** Restored temporary royal palace used by King Jeongjo during visits to Suwon.",
   "verdict": "prose"
  },
+ "suwon.md#10:3efb2f403d": {
+  "checked_on": "2026-08-18",
+  "entry": 10,
+  "file": "suwon.md",
+  "kind": "TIME",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Hours:** **09:00–18:00 year-round** (the city table prints the same hours for Mar–Oct and Nov–Feb). **Last entry 17:00.** Open every day.",
+  "verdict": "verified"
+ },
+ "suwon.md#10:4969e960f0": {
+  "checked_on": "2026-08-18",
+  "entry": 10,
+  "file": "suwon.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Culture Day:** Visit Suwon still prints the old “last Wednesday of the month” rule. **Since Apr 1, 2026 every Wednesday is Culture Day** (Nov 4, 11, 18) — daytime palace entry should be free those days. **Night opening (#2) is excluded.**",
+  "verdict": "verified"
+ },
+ "suwon.md#10:507b2cf57d": {
+  "checked_on": "2026-08-18",
+  "entry": 10,
+  "file": "suwon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Price:** **₩2,000 adult · ₩1,500 teen/military · ₩1,000 child.** Hanbok (including modernized hanbok) is free. **Combined ticket ₩4,000 / ₩2,500 / ₩1,000** covers this palace + the Hwaseong Museum (#19) + Suwon Museum (#20) — it pays off if you do two of the three.",
+  "verdict": "verified"
+ },
+ "suwon.md#10:ab5d7f188e": {
+  "checked_on": "2026-08-18",
+  "entry": 10,
+  "file": "suwon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.visitsuwon.or.kr/base/contents/view?contentsNo=11&menuLevel=2&menuNo=15",
+   "https://www.swcf.or.kr/english/?p=37"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Visit Suwon visitor guide — hours, fares, combined ticket](https://www.visitsuwon.or.kr/base/contents/view?contentsNo=11&menuLevel=2&menuNo=15) · [Suwon Cultural Foundation — Haenggung](https://www.swcf.or.kr/english/?p=37)",
+  "verdict": "verified"
+ },
  "suwon.md#10:b1b03cc46c": {
   "checked_on": "2026-08-18",
   "entry": 10,
   "file": "suwon.md",
   "kind": "DATE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -66230,12 +66393,25 @@
   "text": "- **Hours/price:** Check the Cultural Foundation for current admission and last entry. Entry #2 covers the final two nights of the 2026 seasonal night opening.",
   "verdict": "verified"
  },
+ "suwon.md#10:e3a05bdfb4": {
+  "checked_on": "2026-08-18",
+  "entry": 10,
+  "file": "suwon.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- Entry #2 covers the final two nights of the 2026 seasonal night opening.",
+  "verdict": "verified"
+ },
  "suwon.md#10:f9d5cc51d5": {
   "checked_on": "2026-08-18",
   "entry": 10,
   "file": "suwon.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -67553,6 +67729,7 @@
   "file": "suwon.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -67597,6 +67774,7 @@
   "file": "suwon.md",
   "kind": "DATE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -67633,6 +67811,43 @@
    "https://i815.or.kr"
   ],
   "text": "- **Where/when:** **Suwon Convention Center, Exhibition Hall, 1F** — **Thu Nov 5–Sat Nov 7, 2026**.",
+  "verdict": "verified"
+ },
+ "suwon.md#1:6090e83d6c": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "suwon.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- ⚠️ **Do not use the Visit Suwon festival index for this date.** That page still prints **Nov 6–8** (last edited Jun 23, 2026). The organizer’s own intro page wins.",
+  "verdict": "verified"
+ },
+ "suwon.md#1:62851f8da8": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "suwon.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Where/when:** **Suwon Convention Center, Exhibition Hall, 1F** — **Thu Nov 5–Sat Nov 7, 2026**. Organizer page (fetched Aug 18): *2026.11.05(목) – 11.07(토)*. City/Cosmorning April 2026 exhibitor-recruit press: **~100 companies, ~300 booths**.",
+  "verdict": "verified"
+ },
+ "suwon.md#1:67551ffd73": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "suwon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://beautysumkorea.com/beautysum/intro/",
+   "https://www.cosmorning.com/news/article.html?no=52588"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [BeautySum Korea Suwon](https://beautysumkorea.com/beautysum/intro/) · [Cosmorning, Apr 16 2026](https://www.cosmorning.com/news/article.html?no=52588)",
   "verdict": "verified"
  },
  "suwon.md#1:6a575a83d8": {
@@ -67723,12 +67938,25 @@
   "text": "- **What:** Beauty-industry exhibition themed *\"From Materials to Decisions\"* — **~100 companies across ~300 booths**, spanning raw materials and R&D through finished cosmetics, beauty-tech devices, hair/nail, inner beauty, fragrance and packaging. Hosted by Suwon City with the Suwon Convention Center and Messe Esang.",
   "verdict": "verified"
  },
+ "suwon.md#1:a5e01fb38b": {
+  "checked_on": "2026-08-18",
+  "entry": 1,
+  "file": "suwon.md",
+  "kind": "ACCESS",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Price/hours:** The organizer intro still does not publish a visitor fare or daily hours. Check the visitor-registration page before going; trade and public programs have different access rules.",
+  "verdict": "verified"
+ },
  "suwon.md#1:c9b005759f": {
   "checked_on": "2026-08-18",
   "entry": 1,
   "file": "suwon.md",
   "kind": "ACCESS",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -67833,6 +68061,7 @@
   "file": "suwon.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -67864,6 +68093,7 @@
   "file": "suwon.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -67895,6 +68125,7 @@
   "file": "suwon.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -67919,6 +68150,42 @@
   ],
   "text": "- **Hours/price:** Check the museum page for current hours, admission, and closure dates.",
   "verdict": "prose"
+ },
+ "suwon.md#21:85451b8d3b": {
+  "checked_on": "2026-08-18",
+  "entry": 21,
+  "file": "suwon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Hours/price (city page, Aug 18):** **09:00–18:00, last admission 17:00. Closed every Monday** (next day if that Monday is a holiday — none in the window). **₩2,000 adult · ₩1,000 teen/military · free for children and seniors.** ☎ 031-5191-4175. Address: 광교로 182, Yeongtong.",
+  "verdict": "verified"
+ },
+ "suwon.md#21:969b267e73": {
+  "checked_on": "2026-08-18",
+  "entry": 21,
+  "file": "suwon.md",
+  "kind": "PROSE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **What:** Local-history museum with collections connected to Gwanggyo and donated modern-history materials (광교 역사문화실, 소강실, 사운실). Entry #40 is the trip-window theme exhibition in 사운실.",
+  "verdict": "verified"
+ },
+ "suwon.md#21:a090bb5985": {
+  "checked_on": "2026-08-18",
+  "entry": 21,
+  "file": "suwon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-03.jsp"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Visit Suwon — Gwanggyo Museum](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-03.jsp)",
+  "verdict": "verified"
  },
  "suwon.md#22:3049830588": {
   "checked_on": "2026-08-18",
@@ -68657,12 +68924,25 @@
   "text": "- **What:** Seasonal evening opening of Hwaseong Haenggung palace — lantern-lit courtyards and heritage-linked night exhibits. Official title 《달빛화담, 花談》 (\"Moonlight Flower Talk\").",
   "verdict": "verified"
  },
+ "suwon.md#2:551a1f273e": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "suwon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Price:** **₩2,000 adults · ₩1,500 teens and military · ₩1,000 children.** Night opening is **not** free on Culture Day. Tel 031-290-3613.",
+  "verdict": "verified"
+ },
  "suwon.md#2:71c3a5e298": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "suwon.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -68701,12 +68981,26 @@
   "text": "- **When:** **May 1–Nov 1, 2026**, **Fridays, Saturdays and Sundays** (plus public holidays), **18:00–21:30**. Your trip starts Sat Oct 31, so **only Sat Oct 31 and Sun Nov 1 qualify — the very last two nights of the season.**",
   "verdict": "verified"
  },
+ "suwon.md#2:ab92d8443a": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "suwon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main",
+   "https://www.visitsuwon.or.kr/base/contents/view?contentsNo=11&menuLevel=2&menuNo=15"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Suwon City event page](https://www.suwon.go.kr/culture/ingCultureView.do?ctrSeqNo=2059&listType=main) · [Visit Suwon visitor guide](https://www.visitsuwon.or.kr/base/contents/view?contentsNo=11&menuLevel=2&menuNo=15)",
+  "verdict": "verified"
+ },
  "suwon.md#2:c5020acdc6": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "suwon.md",
   "kind": "PRICE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -68745,12 +69039,25 @@
   "text": "- **Price:** **₩2,000 adults · ₩1,500 teens and military · ₩1,000 children.** Tel 031-290-3613.",
   "verdict": "verified"
  },
+ "suwon.md#2:c968ce585d": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "suwon.md",
+  "kind": "TIME",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **When:** **May 1–Nov 1, 2026**, **Fridays, Saturdays and Sundays** (plus public holidays), **18:00–21:30, last entry 21:00**. Your trip starts Sat Oct 31, so **only Sat Oct 31 and Sun Nov 1 qualify — the very last two nights of the season.**",
+  "verdict": "verified"
+ },
  "suwon.md#2:f37a82effb": {
   "checked_on": "2026-08-18",
   "entry": 2,
   "file": "suwon.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -70014,6 +70321,18 @@
   "text": "- **When:** **Sat Nov 7, 2026, 14:00 vs Gyeongnam FC** (round 32). ⚠️ Suwon FC's own site was erroring at review — this fixture is confirmed on **Gyeongnam FC's official fixture list** (2026.11.07 (토) 14:00, 수원, vs 경남), which also shows the Bluewings hosting Gyeongnam on Nov 21 (matching entry #35).",
   "verdict": "verified"
  },
+ "suwon.md#3:08bdff5d3b": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "suwon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Price/hours:** The museum exhibition page still says only “관람료: 관람안내 참조” (enquiries 02-5191-3800). Art-press covering the opening quotes the museum listing as **₩4,000 adult / ₩2,000 teen / ₩1,000 child, free on Culture Day (every Wednesday)** and **10:00–19:00, closed Monday**. The museum’s own visitor-info URL 404’d this session — **confirm admission and last entry at the desk.**",
+  "verdict": "verified"
+ },
  "suwon.md#3:111dabc871": {
   "checked_on": "2026-08-18",
   "entry": 3,
@@ -70064,6 +70383,7 @@
   "file": "suwon.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -70152,6 +70472,7 @@
   "file": "suwon.md",
   "kind": "ACCESS",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -70188,6 +70509,20 @@
    "https://i815.or.kr"
   ],
   "text": "- **Price/hours:** The museum's listing defers to its general visitor info rather than stating a fee (enquiries 02-5191-3800) — **confirm admission and last entry before travelling.**",
+  "verdict": "verified"
+ },
+ "suwon.md#3:8ebef24f31": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "suwon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://suma.suwon.go.kr/exhi/current_list.do",
+   "https://suma.suwon.go.kr/exhi/schedule_view.do?lang=ko&ge_idx=1266",
+   "http://www.amnews.kr/bbs/board.php?bo_table=news&wr_id=1580"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [museum current-exhibition list](https://suma.suwon.go.kr/exhi/current_list.do) (title live) · [exhibition page](https://suma.suwon.go.kr/exhi/schedule_view.do?lang=ko&ge_idx=1266) (Jul 23–Nov 1, Australian Embassy support) · [amnews opening notice](http://www.amnews.kr/bbs/board.php?bo_table=news&wr_id=1580) (fare table as corroboration only)",
   "verdict": "verified"
  },
  "suwon.md#3:b1b989a419": {
@@ -70234,6 +70569,55 @@
   "text": "- **Where/when:** **Suwon Museum of Art, Haenggung Main Branch** — **Jul 23–Nov 1, 2026**. Supported by the Australian Embassy in Korea.",
   "verdict": "verified"
  },
+ "suwon.md#40:d3fb46312c": {
+  "checked_on": "2026-08-18",
+  "entry": 40,
+  "file": "suwon.md",
+  "kind": "PRICE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Hours/price:** Same as the museum (#21): **09:00–18:00, last entry 17:00, closed Monday, ₩2,000 / ₩1,000 / free child-senior.** Culture Day (every Wednesday) and Suwon’s Friday youth day are free on the city listing.",
+  "verdict": "verified"
+ },
+ "suwon.md#40:da0a288f58": {
+  "checked_on": "2026-08-18",
+  "entry": 40,
+  "file": "suwon.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **What:** 2026 theme show 《고문서로 만나는 조선의 일상》 in the museum’s 2F **사운실** — Joseon-era documents (시권 exam papers, 홍패 pass certificates, letters, a customs-survey report) set next to modern contracts and notices.",
+  "verdict": "verified"
+ },
+ "suwon.md#40:e100bb44e5": {
+  "checked_on": "2026-08-18",
+  "entry": 40,
+  "file": "suwon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do",
+   "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-03.jsp"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [Suwon City event portal](https://www.suwon.go.kr/culture/ingCultureList.do) · [Visit Suwon — Gwanggyo Museum](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-04/sw-visitsuwon-01-04-03.jsp)",
+  "verdict": "verified"
+ },
+ "suwon.md#40:e649365bf8": {
+  "checked_on": "2026-08-18",
+  "entry": 40,
+  "file": "suwon.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **When:** **Jun 26, 2026 – May 30, 2027** — listed on the city’s live event portal (fetched Aug 18). Covers the whole trip.",
+  "verdict": "verified"
+ },
  "suwon.md#4:3de29b9902": {
   "checked_on": "2026-08-18",
   "entry": 4,
@@ -70278,12 +70662,49 @@
   "text": "- **What:** Family-oriented traditional performance at Jeongjo Theme Performance Hall.",
   "verdict": "prose"
  },
+ "suwon.md#4:4f0b91a31f": {
+  "checked_on": "2026-08-18",
+  "entry": 4,
+  "file": "suwon.md",
+  "kind": "TIME",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **When:** **Sat Nov 7, 2026**, performances listed at **11:00 and 15:00**. Venue table: **ages 36 months and up**.",
+  "verdict": "verified"
+ },
+ "suwon.md#4:4fd9f52e26": {
+  "checked_on": "2026-08-18",
+  "entry": 4,
+  "file": "suwon.md",
+  "kind": "ACCESS",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.suwon.go.kr/culture/ingCultureList.do"
+  ],
+  "text": "- **Price/booking:** Confirm ticketing on the venue calendar. Enquiry 031-290-3573.",
+  "verdict": "verified"
+ },
+ "suwon.md#4:522cfa2897": {
+  "checked_on": "2026-08-18",
+  "entry": 4,
+  "file": "suwon.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.swcf.or.kr/?p=385"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Jeongjo Theme Performance Hall 2026 second-half table](https://www.swcf.or.kr/?p=385)",
+  "verdict": "verified"
+ },
  "suwon.md#4:a50e81eb47": {
   "checked_on": "2026-08-18",
   "entry": 4,
   "file": "suwon.md",
   "kind": "ACCESS",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -70328,6 +70749,7 @@
   "file": "suwon.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -70372,6 +70794,7 @@
   "file": "suwon.md",
   "kind": "TIME",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -82697,6 +83120,18 @@
   "text": "- **💡 The one that applies to you: the public-transport discount.** Arriving by bus or subway instead of by car took the ticket to **₩17,000 in August 2026** — well under half price. Wearing hanbok and the \"Open Tourism Site\" promotion were also discounted. **These are re-issued monthly, so check the discount page for November before you buy** — but the transport discount has run every month, and you'll be arriving by public transport anyway.",
   "verdict": "verified"
  },
+ "yongin.md#13:fd92004d7c": {
+  "checked_on": "2026-08-18",
+  "entry": 13,
+  "file": "yongin.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **⚠️ Dead fare URL:** `koreanfolk.co.kr/price/charge.asp` is a **404** (re-tested Aug 18). Use the monthly discount page, not that old path. A 2025 November hours notice is still on the site — **do not copy those Nov 1 = Saturday hours into 2026.**",
+  "verdict": "verified"
+ },
  "yongin.md#14:3ede83d946": {
   "checked_on": "2026-08-18",
   "entry": 14,
@@ -82881,12 +83316,37 @@
   "text": "- **Official sources (reviewed Aug 17):** [museum](https://njp.ggcf.kr/) · [Gyeonggi Cultural Foundation guide](https://ggc.ggcf.kr/p/5f313cd7e3d2f456a195fa83)",
   "verdict": "sourced"
  },
+ "yongin.md#16:211257d59c": {
+  "checked_on": "2026-08-18",
+  "entry": 16,
+  "file": "yongin.md",
+  "kind": "PROSE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **What:** Provincial archaeology, history, and cultural-history museum beside the Nam June Paik Art Center. Entry #37 is the 30th-anniversary archive show running through the trip.",
+  "verdict": "verified"
+ },
+ "yongin.md#16:2f9997bf9b": {
+  "checked_on": "2026-08-18",
+  "entry": 16,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Gyeonggi Province Museum](https://musenet.ggcf.kr/)",
+  "verdict": "verified"
+ },
  "yongin.md#16:31b90c658d": {
   "checked_on": "2026-08-18",
   "entry": 16,
   "file": "yongin.md",
   "kind": "PROSE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -82912,12 +83372,25 @@
   "text": "- **What:** Provincial archaeology, history, and cultural-history museum beside the Nam June Paik Art Center.",
   "verdict": "verified"
  },
+ "yongin.md#16:7ad3881891": {
+  "checked_on": "2026-08-18",
+  "entry": 16,
+  "file": "yongin.md",
+  "kind": "TIME",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **Hours/price (homepage, Aug 18):** **10:00–18:00, last entry 17:20. Free.** Closed Mondays (same campus rule as NJP). Parking is shared with NJP (#15).",
+  "verdict": "verified"
+ },
  "yongin.md#16:9837acaf41": {
   "checked_on": "2026-08-18",
   "entry": 16,
   "file": "yongin.md",
   "kind": "ACCESS",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -82949,6 +83422,7 @@
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -84567,6 +85041,19 @@
   "text": "- ⚠️ **Age limit 13+.** The operator also restricts participation by elderly visitors and anyone with heart/anxiety conditions.",
   "verdict": "verified"
  },
+ "yongin.md#2:5fdd5a4c86": {
+  "checked_on": "2026-08-18",
+  "entry": 2,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.koreanfolk.co.kr/home/promotion/event/8",
+   "https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [operator banner / event page](https://www.koreanfolk.co.kr/home/promotion/event/8) · [Yongin City notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)",
+  "verdict": "verified"
+ },
  "yongin.md#2:8010ed682f": {
   "checked_on": "2026-08-18",
   "entry": 2,
@@ -84617,6 +85104,7 @@
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -85288,12 +85776,26 @@
   "text": "- **What:** 1,525-seat municipal performing-arts venue by Jukjeon Station.",
   "verdict": "verified"
  },
+ "yongin.md#36:17eee48e27": {
+  "checked_on": "2026-08-18",
+  "entry": 36,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.yicf.or.kr/PageContent.do?tempParam1=&menuNo=030000&subMenuNo=030300&thirdMenuNo=030301",
+   "https://www.yicf.or.kr/main/show/list.do"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [venue information](https://www.yicf.or.kr/PageContent.do?tempParam1=&menuNo=030000&subMenuNo=030300&thirdMenuNo=030301) · [Yongin Cultural Foundation calendar](https://www.yicf.or.kr/main/show/list.do) *(calendar URL returned an error page Aug 18 — re-check closer to travel)*",
+  "verdict": "verified"
+ },
  "yongin.md#36:62fa347600": {
   "checked_on": "2026-08-18",
   "entry": 36,
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "place-entry pass 2026-08-18",
+  "retired": true,
   "sources": [
    "https://whc.unesco.org",
    "https://www.suwon.go.kr",
@@ -85350,6 +85852,54 @@
   "text": "- **Status:** No November production is treated as confirmed without a dated 2026 performance page.",
   "verdict": "verified"
  },
+ "yongin.md#37:1d0e4a320b": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [museum news article](https://musenet.ggcf.kr/boards/ggmnews/articles/3609)",
+  "verdict": "verified"
+ },
+ "yongin.md#37:4713a4f033": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "yongin.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **When:** **Aug 27, 2026 – Mar 1, 2027** (the museum’s own article; a homepage teaser used the Aug 18 *posting* date — the body date governs).",
+  "verdict": "verified"
+ },
+ "yongin.md#37:5a1f2f3bb8": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "yongin.md",
+  "kind": "TIME",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **Hours/price:** Same as #16: **free, 10:00–18:00, last entry 17:20, closed Monday.** Same Giheung campus as NJP (#15).",
+  "verdict": "verified"
+ },
+ "yongin.md#37:726bcd9df4": {
+  "checked_on": "2026-08-18",
+  "entry": 37,
+  "file": "yongin.md",
+  "kind": "PROSE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **What:** 《빛나는 순간들 : 경기도박물관 30년 이야기》 — five-part archive exhibition of the museum’s own 30 years (opened 1996): time, records, people, future, memory. B1 전시마루.",
+  "verdict": "verified"
+ },
  "yongin.md#3:1ccfdccc98": {
   "checked_on": "2026-08-18",
   "entry": 3,
@@ -85400,6 +85950,7 @@
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -85436,6 +85987,19 @@
    "https://i815.or.kr"
   ],
   "text": "- **Official source (reviewed Aug 17):** [Yongin City program notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)",
+  "verdict": "verified"
+ },
+ "yongin.md#3:6929d5a083": {
+  "checked_on": "2026-08-18",
+  "entry": 3,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.koreanfolk.co.kr/home/promotion/event/9",
+   "https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320"
+  ],
+  "text": "- **Official sources (reviewed Aug 18):** [operator banner / event page](https://www.koreanfolk.co.kr/home/promotion/event/9) · [Yongin City program notice](https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_clCode=1&q_bbscttSn=20260410155434320)",
   "verdict": "verified"
  },
  "yongin.md#3:812a935dc8": {
@@ -85646,6 +86210,7 @@
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -85726,6 +86291,18 @@
    "https://i815.or.kr"
   ],
   "text": "- **When:** Operator's official 2026 season: **Apr 11 – Nov 15, 2026** (banner on koreanfolk.co.kr).",
+  "verdict": "verified"
+ },
+ "yongin.md#4:e56ee12089": {
+  "checked_on": "2026-08-18",
+  "entry": 4,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://www.koreanfolk.co.kr/home/promotion/event/10"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [operator banner / event page](https://www.koreanfolk.co.kr/home/promotion/event/10)",
   "verdict": "verified"
  },
  "yongin.md#5:0cacf195cc": {
@@ -85860,12 +86437,25 @@
   "text": "- **When:** **Jul 23–Nov 11, 2026**.",
   "verdict": "verified"
  },
+ "yongin.md#5:b22cddcb6c": {
+  "checked_on": "2026-08-18",
+  "entry": 5,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://njp.ggcf.kr/exhibitions"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Nam June Paik Art Center exhibitions](https://njp.ggcf.kr/exhibitions)",
+  "verdict": "verified"
+ },
  "yongin.md#5:b9e87bf972": {
   "checked_on": "2026-08-18",
   "entry": 5,
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -86036,12 +86626,25 @@
   "text": "- **Hours/price:** Check the museum page for gallery access and any program-specific reservation.",
   "verdict": "verified"
  },
+ "yongin.md#6:b22cddcb6c": {
+  "checked_on": "2026-08-18",
+  "entry": 6,
+  "file": "yongin.md",
+  "kind": "SOURCE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://njp.ggcf.kr/exhibitions"
+  ],
+  "text": "- **Official source (reviewed Aug 18):** [Nam June Paik Art Center exhibitions](https://njp.ggcf.kr/exhibitions)",
+  "verdict": "verified"
+ },
  "yongin.md#6:b9e87bf972": {
   "checked_on": "2026-08-18",
   "entry": 6,
   "file": "yongin.md",
   "kind": "SOURCE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",
@@ -86090,6 +86693,18 @@
   "sources": [],
   "text": "- **⚠️ Status note (re-checked Aug 17):** the dates come from the Gyeonggi Cultural Foundation's annual program announcement. **Checked NJP's own exhibition page a second time — this show is still absent, and NJP's \"Upcoming exhibitions\" (예정 전시) section is completely empty.** Its four listed shows are 장윤영 (to Nov 11), 별 괘卦 (to Feb 2027), 달들 (to Oct 4) and 백남준의 도시 (to Oct 31). **Downgraded from CONFIRMED.** Do not build a day around this one; treat NJP as worth visiting for 별 괘卦, which definitely runs through your window.",
   "verdict": "unchecked"
+ },
+ "yongin.md#7:3503e9bb33": {
+  "checked_on": "2026-08-18",
+  "entry": 7,
+  "file": "yongin.md",
+  "kind": "DATE",
+  "note": "Pass36 official-source re-check",
+  "sources": [
+   "https://musenet.ggcf.kr/boards/ggmnews/articles/3609"
+  ],
+  "text": "- **⚠️ Status note (re-checked Aug 18):** the dates come from the Gyeonggi Cultural Foundation's annual program announcement. **Checked NJP's own exhibition page again on Aug 18 — this show is still absent, and NJP's \"Upcoming exhibitions\" (예정 전시) section is still completely empty.** Its four listed current shows are 장윤영 (to Nov 11), 별 괘卦 (to Feb 2027), 달들 (to Oct 4 — already closed) and 백남준의 도시 (to Oct 31 — arrival day only). **Stay ⏳.** Do not build a day around this one; treat NJP as worth visiting for 별 괘卦, which definitely runs through your window.",
+  "verdict": "verified"
  },
  "yongin.md#7:4d2542f17d": {
   "checked_on": "2026-08-18",
@@ -86141,6 +86756,7 @@
   "file": "yongin.md",
   "kind": "DATE",
   "note": "line-by-line pass 2026-08-18 vs official sources (10-city sweep)",
+  "retired": true,
   "sources": [
    "https://www.swcf.or.kr",
    "https://suma.suwon.go.kr",

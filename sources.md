@@ -69,6 +69,11 @@ This is a source directory, **not proof that every entry has been verified**. Ea
 | Korean Folk Village | 2026 horror/mystery seasons Apr 11–Nov 15 (Salgwiok, Hyeoransikgwi, Joseon Murder Investigation); hours & monthly discounts | https://www.koreanfolk.co.kr |
 | Incheon National Maritime Museum | Greece special exhibition Aug 11–Dec 6 + First Wave theme Aug 10–Dec 6, 2026; hours/fares | https://www.inmm.or.kr |
 | Incheon ArtShow (INAS) | 2026 schedule table (Nov 19–22, Songdo Convensia) | https://iartshow.imweb.me/ |
+| Art Center Incheon | Vadym Kholodenko Nov 7 17:00; Tallis Scholars Nov 15 15:00 | https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14129 · https://www.aci.or.kr/main/show/view.do?SHOW_IDX=14130 |
+| Incheon Transit Corporation | Wolmi Sea Train fares (₩8,000 adult) and Nov–Mar 10:00–18:00 hours | https://www.ictr.or.kr/foreign/eng/wst/guide.jsp |
+| Gyeonggi Province Museum | 30th-anniversary archive show Aug 27 2026–Mar 1 2027 | https://musenet.ggcf.kr/boards/ggmnews/articles/3609 |
+| BeautySum Korea Suwon | Official intro: Nov 5–7 2026, Suwon Convention Center | https://beautysumkorea.com/beautysum/intro/ |
+| Gyeongnam FC | K League 2 fixture list (Suwon FC Nov 7; Bluewings Nov 21) | https://www.gyeongnamfc.com/match/match.php |
 | Gyeongju Cultural Foundation | Alcheon Museum current exhibitions (Gyeongju Chronicle to Dec 31; Gongyu series to Dec 13) | https://garts.kr/index.do?menuId=00000260 |
 | Gyeongju National Museum | Special exhibitions (Wolseong stele fragments Apr 13–Dec 31); visitor hours | https://gyeongju.museum.go.kr |
 | Ulsan Art Museum | Lee Jung-seop retrospective Oct 15 2026–Jan 17 2027 (₩1,000; ~100 works) | https://www.ulsan.go.kr/s/uam |
@@ -557,7 +562,7 @@ Every source below was re-fetched. These entries had a **dead, hijacked, repurpo
 | N Seoul Tower observatory | seoultower.co.kr (plaza operator only) | https://www.nseoultower.co.kr/index.asp | Wrong operator; weekday/weekend hours split |
 | Hwadam Forest | — | https://www.hwadamsup.com/pc/ko/index | Closed Mondays, 100% advance reservation, monorail fares corrected |
 | Yeosu Maritime Cable Car | — | http://www.yeosucablecar.com · [yeosu.go.kr](https://www.yeosu.go.kr/tour/travel/culture_scenic_spot?mode=view&idx=879) | Seasonal hours and crystal-cabin fares added |
-| Korean Folk Village | — | https://www.koreanfolk.co.kr · [fares](https://www.koreanfolk.co.kr/price/charge.asp) · [monthly notices](https://www.koreanfolk.co.kr/operation/notice) | Not closed Mondays; ₩25,000 → **₩37,000 adult/teen, ₩30,000 child, ₩26,000 senior/disabled** — re-verified Aug 18 2026 on the operator's own fare page. Ticket includes the amusement-village rides. |
+| Korean Folk Village | — | https://www.koreanfolk.co.kr · [monthly discounts](https://www.koreanfolk.co.kr/discount) · [hours](https://www.koreanfolk.co.kr/operation) | **`/price/charge.asp` is a 404** (re-tested Aug 18 2026). Gate fare still quoted as **₩37,000 adult/teen, ₩30,000 child, ₩26,000 senior/disabled** from the last live fare page; monthly public-transport discount was ₩17,000 in Aug 2026. Horror/mystery banners: Apr 11–Nov 15 2026. Do not copy the 2025 November hours notice into 2026. |
 | Ulsan HD FC | uhfc.tv (squatted) | https://www.uhdfc.com | Club rebranded Ulsan Hyundai → Ulsan HD |
 | Ulsan Hyundai Mobis Phoebus | hyundai-mobisbasketball.com (dead) | https://phoebus.kbl.or.kr/ | Club page moved under KBL |
 | Templestay (English) | eng.templestay.com | https://www.templestay.com/en/main/view.do | Subdomain retired |

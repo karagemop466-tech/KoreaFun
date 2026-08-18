@@ -1259,3 +1259,56 @@ Started the next-city pass the user chose: Daejeon/Cheonan first, then a dated-h
 ### Not added
 - Daejeon Philharmonic Nov 10 is at **Sejong Center in Seoul**, not Daejeon.
 - Yuseong Hot Springs Culture Festival is **May 8–10, 2026** (before the trip).
+
+
+---
+
+## Pass 36 — 2026-08-18: Suwon → Yongin → Incheon line-by-line official pass
+
+Full place/price/hours pass on the three files the user selected after Daejeon. Dated headlines re-fetched against organizer/operator pages. One sourced expansion each. No padding.
+
+### Re-verified exact
+- BeautySum Suwon **Nov 5–7**, Suwon Convention Center — beautysumkorea.com/beautysum/intro/ (`2026.11.05(목) – 11.07(토)`). Cosmorning Apr 16 2026: 1F exhibition hall, ~100 companies / ~300 booths.
+- Haenggung night opening May 1–Nov 1 Fri–Sun 18:00–21:30, last entry **21:00**, ₩2,000/1,500/1,000 (city event page + Visit Suwon visitor guide).
+- Piccinini *Kinship* Jul 23–Nov 1 still on SUMA current list. Exhibition page still says 관람안내 참조; press quotes ₩4,000/₩2,000/₩1,000, free Wed — recorded as corroboration only.
+- Blanc Black Panorama Feb 12 2026–Mar 1 2027; Thumbelina Apr 28–Nov 15 — city portal.
+- SWCF p=385 second-half table: Yeonhui Dokkaebi Nov 7 11:00/15:00 ages 36 months+; Treasure Castle Nov 21 16:00 ages 36 months+.
+- Muye 24-gi Tue–Sun 11:00–11:30 + Sat/Sun 14:00–14:20 (visitsuwon). Jangyongyeong ended Oct 25 2026.
+- Archery / Eocha / Flying Suwon fares unchanged on swcf p=74.
+- Hwaseong Museum / Suwon Museum / Gwanggyo Museum hours and ₩2,000 adult fares match city pages. **Combined ticket ₩4,000** covers Haenggung + Hwaseong Museum + Suwon Museum.
+- NAMUK 10:00–18:00 last 17:00, free, closed Mon. Collection show 《손끝에서 핀 나날의 꽃》 ended Oct 5 — before the trip.
+- Gyeongnam FC official November list: **Nov 7 14:00 away at Suwon FC**; **Nov 21 14:00 away at Suwon World Cup vs Bluewings**.
+- KFV banners: Salgwiok / Hyeoransikgwi / Joseon Murder Investigation all **26.04.11–26.11.15**. Translocal still absent from njp.ggcf.kr/exhibitions; 예정 전시 empty.
+- NJP visitor page: 10:00–18:00 last 17:00, free, closed Mon; docent times match the file.
+- Hoam visit page: ₩20,000/₩10,000, 100% advance booking 14 days / max 4, winter Everland shuttle suspended.
+- STM Mobility Museum visitor guide: hours and ₩10,000/₩8,000/₩6,000 unchanged.
+- Yongin football exhibition Mar 20–Dec 6 still the only item on the city event list; malformed phone 031-6193-4796 still on the city page.
+- INAS schedule table exact match. MCR TicketLink 57330: Nov 7 19:00, 90 min, 13+, ₩175/195/220k + ₩2,000.
+- INMM Greece shows Aug 11–Dec 6 and Aug 10–Dec 6 still on the English homepage.
+
+### Corrections
+- **Visit Suwon festival index lists BeautySum as Nov 6–8.** Organizer page is Nov 5–7. Operator wins; entry now warns against the tourism index.
+- Haenggung daytime hours/price were hedged; now **09:00–18:00 last 17:00, ₩2,000/1,500/1,000**, combined ticket, hanbok free. Visit Suwon still prints the old last-Wednesday Culture Day rule — file now states the Apr 2026 weekly rule and that night opening is excluded.
+- events.csv still had KFV horror start dates **Jun 12/13** after Pass 25 fixed the city file. Corrected to **Apr 11**. Dead `/price/charge.asp` noted (404).
+- Wolmi Sea Train hours/price were hedged; ICTR official English guide: **₩8,000/₩6,000/₩5,000**, Nov–Mar 10:00–18:00, closed Monday (table still labelled “from Jan 1, 2020”).
+- NAMUK visitor page filled hours; the 2026 flower collection show is **already closed**.
+- yicf.or.kr show calendar returned an error page — Poeun #36 stays ⏳.
+
+### Added (one sourced expansion each)
+| File | # | Entry | Dates | Source |
+|---|---|---|---|---|
+| suwon.md | 40 | Gwanggyo 《고문서로 만나는 조선의 일상》 | Jun 26 2026–May 30 2027 | suwon.go.kr culture portal + museum page |
+| yongin.md | 37 | Gyeonggi Museum 30th-anniversary archive 《빛나는 순간들》 | **Aug 27 2026–Mar 1 2027** (body date; homepage teaser used the Aug 18 post date) | musenet.ggcf.kr/boards/ggmnews/articles/3609 |
+| incheon.md | 45 | Art Center Incheon: Kholodenko Nov 7 17:00 + Tallis Scholars Nov 15 15:00 | venue show pages 14129 / 14130 | aci.or.kr |
+
+### Checked and not added
+- NAMUK flower show — closed Oct 5.
+- MoW 《글씨상점》 — ends Aug 23, before the trip.
+- Incheon Art Platform 차기율 《화해기》 — ends Oct 18, before the trip.
+- KFV 2025 November hours notice (posted Oct 30 2025; Nov 1 = Saturday) — not copied into 2026.
+- Sky Festival 2026 — still unpublished.
+- KT Sonicboom November homes — KBL site not server-rendered.
+- Husso / Ilwol village-name / Yeongheung pine-scent shows — real but thinner than the Gwanggyo add; left as city-portal background, not extra numbered padding.
+- XR버스 1795행 — free Wed–Sun at Yeonmudae; interesting but not added this pass (one expansion each).
+
+Counts: 590 → **593**.
