@@ -655,6 +655,36 @@ Added with entries **47–66** of [`seoul-districts.md`](seoul-districts.md). Al
 
 ---
 
+### Newly verified official sources (district expansion round 4, Aug 19, 2026)
+
+Added with entries **67–86** of [`seoul-districts.md`](seoul-districts.md), plus the resolution of the entry-#3 hours gap. All fetched **Aug 19, 2026**.
+
+| Place / event | Official source | What it proves |
+|---|---|---|
+| Sohn Kee-chung Memorial Hall | https://www.much.go.kr/cooperation/net/son.do · https://www.junggu.seoul.kr/tour/content.do?cmsid=14979&sf_category1=CWS1331&mode=view&cid=981688384 | Nov–Feb 10:00–17:00, free permanent gallery, closed Mon |
+| Bosingak bell ceremony | https://culture.seoul.go.kr/culture/main/contents.do?menuNo=200147 · https://culture.seoul.go.kr/culture/main/contents.do?menuNo=200049 · https://mediahub.seoul.go.kr/archives/1088292 | Daily noon, free, Monday closure, **Tuesday foreign-visitor programme** |
+| Deoksugung guard ceremony | Seoul royal-guard programme (02-2133-1117) via https://www.i-rang.net/place/deoksugung-seoul | Free, 11:00/14:00 daily, Monday closure, weather cancellations |
+| Namsan beacon ceremony | https://www.gotothefestival.co.kr/detail/2809535 | Year-round, free, Seoul city organizer; **conflicting time blocks** |
+| SeMA Art Archive + 《오윤》 | https://sema.seoul.go.kr/kr/visit/art_archive · https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=PLAN_DAY | Hours by season, free; exhibition Aug 27 2026–Feb 14 2027 |
+| Sejong Center ballet triple bill | https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=36783&menuNo=200320 | Nov 19–22, 2026 (times/prices not published) |
+| Sindang-dong Tteokbokki Town | https://www.ktriptips.com/kor/tourspot/699249 · https://access.visitkorea.or.kr/food/detail_print.do?cotId=ae888fb6-e618-41ea-ab1a-d35fd47c0dc1 | Location, history, Seoul Future Heritage designation |
+| Dongdaemun Comprehensive Market | https://access.visitkorea.or.kr/ms/detail.do?cotId=4b330aa8-bcae-4dba-93b2-af78b8bc0f3e · https://mediahub.seoul.go.kr/archives/1305202 | Per-section hours; Sunday closure rules |
+| Bangsan Market | http://www.bbsj.kr/sijang/market.php?sij_idx=21 · https://opengov.seoul.go.kr/mediahub/22105744 | Weekday/Saturday hours; market identity confirmed by SMG |
+| Seoul Energy Dream Center | https://energyinfo.seoul.go.kr/board/content?menu-id=Z110100&boardType=0001&boardNo=378 | Tue–Sun 09:00–17:30, free, Monday closure |
+| Haneul Park cart + Eoksae Festival | https://news.seoul.go.kr/env/archives/564833 · https://mediahub.seoul.go.kr/archives/2012554 | Festival is October; cart fares ₩2,000/₩3,000 and 09:00–19:00 |
+| Yongsan Craft Museum | https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210502183654893823 | Yongsan-gu operator, free galleries, Tue–Sun hours, contact |
+| Yongsan Urban Memory Exhibition Hall | https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260619101855323925 | Tue–Sat 10:00–19:00, free, Sun/Mon closure, docent 11:00 & 15:00 |
+| Children's Museum + outdoor garden, National Museum | https://www.museum.go.kr/MUSEUM/contents/M0101000000.do | Timed sessions 09:30–17:20, reservation compulsory; **garden 07:00–22:00** |
+| War Memorial outdoor ground | https://www.warmemo.or.kr/Home/H40000/H40500/H40501/boardList | Outdoor exhibits sunrise–sunset, free |
+| Seoul Architecture Fair (SETEC) | https://khfair.com/setec/ | **Two contradictory date blocks on the organizer's own page** |
+| 85th Franchise Startup Expo (SETEC) | https://www.franchisesetec.co.kr/ | Nov 12–14 2026, 10:00–17:00, free with pre-registration |
+| Starfield Library open stage | https://starfield.co.kr/m/coexmall/starfieldLibrary/library.do | Wed & Fri 19:00 and weekend programme; 10:30–22:00 daily, free |
+| Dongdaemun History Museum hours (**resolves entry #3**) | https://museum.seoul.go.kr/www/intro/annexIntro/annex_18/annex_18_01.jsp | 10:00–18:00, **closed 12:00–13:00 daily**, free, closed Mon |
+
+**Rejected in round 4:** Korea Sale FESTA 2026 dates (only AI-generated SEO pages with contradictory claims — no ministry announcement), Seoul Kimjang Festival 2026 (nothing on the city calendar), Korea House Pil-dong (no operator page), aT Center November events, Gangnam Symphony November (the circulating concert is the 2025 edition), National Jeongdong Theater and Seoul Namsan Gukakdang November programmes (still nothing published).
+
+---
+
 ## Link-verification pass (Aug 17, 2026) — corrected & replaced sources
 
 Every source below was re-fetched. These entries had a **dead, hijacked, repurposed or simply wrong** official URL, and/or out-of-date prices and hours; all have been corrected in the city files.

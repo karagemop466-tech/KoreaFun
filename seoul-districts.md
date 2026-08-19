@@ -1,13 +1,14 @@
 # 🧭 Seoul district deep-dive — Dongdaemun · Hongdae/Mapo · Itaewon/Yongsan · Gangnam/Seocho
 
-**Trip window: Sat Oct 31 – Sun Nov 22, 2026** · **Built and line-verified on Aug 19, 2026 (Passes 38–67)**
+**Trip window: Sat Oct 31 – Sun Nov 22, 2026** · **Built and line-verified on Aug 19, 2026 (Passes 38–77)**
 
-This file is the district-level expansion requested for **Seoul, Myeong-dong, Dongdaemun, Hongdae, Itaewon and Gangnam**. It adds **66 numbered entries** that are *not* already in [`seoul.md`](seoul.md) (100 entries) or [`myeongdong.md`](myeongdong.md) (38 entries), plus a Myeong-dong cross-reference section.
+This file is the district-level expansion requested for **Seoul, Myeong-dong, Dongdaemun, Hongdae, Itaewon and Gangnam**. It adds **86 numbered entries** that are *not* already in [`seoul.md`](seoul.md) (100 entries) or [`myeongdong.md`](myeongdong.md) (38 entries), plus a Myeong-dong cross-reference section.
 
 > **Three rounds of research are recorded here.**
 > - Entries **1–25** — passes 38–47: DDP, Hongdae live halls, Blue Square, APMA, Gugak Center, COEX Aquarium, Bongeunsa, Seoul Arts Center.
 > - Entries **26–46** — passes 48–57: Seoul Museum of History branch network, Dongdaemun retail, Mapo city facilities, Yongsan national museums, COEX November trade fairs. This round also produced **three corrections to `seoul.md`**.
 > - Entries **47–66** — passes 58–67: free national/city archives and memorial halls (film archive, Kim Koo, Ahn Junggeun, Dosan), Dongdaemun's Hongneung cluster, two free city observatories, and the shopping streets — plus one **⛔ closed** and several **⏳ unresolved** items, all labelled.
+> - Entries **67–86** — passes 68–77: the free **daily ceremonies** (Bosingak bell, Deoksugung guard change, Namsan beacon), two SETEC trade fairs inside the window, Yongsan's smaller free museums, the wholesale markets, and the outdoor/after-dark spaces that stay open when museums shut. This round also **resolved the open hours question in entry #3**.
 
 Every line below was checked against a deep official page under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md). **Nothing here is guessed.** Where an official page does not publish a price or a November date, the entry says so instead of inventing one.
 
@@ -28,7 +29,7 @@ Every line below was checked against a deep official page under the [manual veri
 |---|---|---|---|---|---|---|
 | 1 | DDP **Dream in Light** nightly lighting | DDP front façade (222 m), Ruins Exhibition front, Mirae-ro · Euljiro 281 | Jan 9 – Dec 31, 2026 (all 23 nights) | **18:00–22:00, on the hour** (~25 min cycle) | **Free** | ✅ Open |
 | 2 | **DDP Architecture Tour 2026** (English 13:30) | Meet DDP Museum 1F tour desk | Year-round, Tue–Sun | 10:30 KR · **13:30 English** · 15:30 KR · 60 min | **Free** (reserve online; standby 10 min before) | ✅ Open · closed Mon |
-| 3 | **Dongdaemun History Museum + Stadium Memorial** | Dongdaemun History & Culture Park, inside the DDP grounds | Year-round | ⏳ hours not fetched — see official 관람정보 page | **Free** | 🔎 Open · closed Mon |
+| 3 | **Dongdaemun History Museum + Stadium Memorial** | Dongdaemun History & Culture Park, inside the DDP grounds | Year-round | **10:00–18:00 (last entry 17:30); closed 12:00–13:00 daily** | **Free** | 🔎 Open · closed Mon, Jan 1, Seollal & Chuseok *(hours resolved in round 4)* |
 | 4 | **Hanyangdoseong Museum** (한양도성박물관) | Yulgok-ro 283, at Heunginjimun (Dongdaemun Stn ex.1/10) | Year-round; special show *여민공수* running | **09:00–18:00, last entry 17:30** | **Free** | 🔎 Open · closed Mon & Jan 1 |
 | 5 | **Seoul Folk Flea Market** (서울풍물시장) | Cheonho-daero 4-gil 21, Sinseol-dong (Stn ex.9) | Year-round | Market **10:00–19:00** · food alley to 22:00 · 청춘1번가 10:00–18:00 · weekend street market Sat–Sun 10:00–18:00 | **Free** to enter | 🔎 Open · **closed Tuesdays** |
 | 6 | **Seoul Yangnyeongsi Herbal Medicine Museum** (Seoul K-Medi Center) | Yangnyeong-jungang-ro 26, Jegi-dong (Line 1 Jegi-dong ex.2) | Year-round | **Nov–Feb winter hours 10:00–17:00** (Mar–Oct 10:00–18:00) | ⏳ ₩1,000 in secondary sources — **not confirmed on an official page** | ⏳ Open · closed Mon |
@@ -89,8 +90,8 @@ Every line below was checked against a deep official page under the [manual veri
 ### 3) 🏟️ **Dongdaemun History Museum & Dongdaemun Stadium Memorial** — 🔎 VERIFIED MUSEUM — free
 - **What:** Two small free museums inside the DDP park, run by Seoul Museum of History. The History Museum displays what the 2008–09 excavation of the old Dongdaemun Stadium site produced — the buried **Hanyangdoseong wall, the chiseong bastion, the Igansumun water gate**, and Joseon military-camp (Hadogam / Hullyeonwon) remains, plus a children's gallery. The Stadium Memorial covers the demolished 1925 stadium itself.
 - **Price:** **Free.**
-- **⏳ Hours gap:** the museum group's index page publishes 09:00–18:00 for the Hanyangdoseong Museum but the Dongdaemun branch keeps a separate 관람정보 page that this pass did not retrieve — check it before you go, and assume **closed Mondays** like the rest of the network.
-- **Official sources (reviewed Aug 19, 2026):** [Dongdaemun History Museum — exhibition guide](https://museum.seoul.go.kr/scwm/exhibition/ddmHistory/ddmExhGuide.jsp) · [Dongdaemun Stadium Memorial](https://museum.seoul.go.kr/scwm/exhibition/ddmGround/ddmGExhGuide.jsp) · [network index](https://museum.seoul.go.kr/scwm/NR_index.do)
+- **Hours (resolved in round 4):** **10:00–18:00, last entry 17:30, with a daily closure from 12:00 to 13:00.** **Closed Mondays**, Jan 1, and Seollal/Chuseok day. Free.
+- **Official sources (reviewed Aug 19, 2026):** [Dongdaemun History Museum — exhibition guide](https://museum.seoul.go.kr/scwm/exhibition/ddmHistory/ddmExhGuide.jsp) · [Dongdaemun Stadium Memorial](https://museum.seoul.go.kr/scwm/exhibition/ddmGround/ddmGExhGuide.jsp) · [branch visitor page with hours and the lunchtime closure](https://museum.seoul.go.kr/www/intro/annexIntro/annex_18/annex_18_01.jsp) · [network index](https://museum.seoul.go.kr/scwm/NR_index.do)
 
 ### 4) 🧱 **Hanyangdoseong Museum (한양도성박물관)** — 🔎 VERIFIED CITY MUSEUM — free
 - **What:** The city-wall museum, at the foot of **Heunginjimun (Dongdaemun)** in the Seoul Design Support Center, floors 1–3. Pairs directly with the Naksan / Heunginjimun wall walk already in [`seoul.md`](seoul.md) #36.
@@ -458,6 +459,8 @@ Round 2 found three things in the main Seoul file that were incomplete or mislea
 | **#39 National Museum of Korea** | Only "open late to 21:00 on Wed and Sat" | Full post-**Mar 16, 2026** hours added: 09:30–17:30 daily / 09:30–21:00 Wed & Sat, last entry 30 min before close; 2026 Monday closures noted (none in the trip window) |
 | **#41 War Memorial of Korea** | "free; closed Monday", no hours | Hours added from the operator: **09:30–18:00, last admission 17:00**, closing begins 17:40; outdoor exhibits sunrise–sunset; free Children's Museum hourly from 10:00 |
 
+**Round 4 also resolved one gap inside this file:** entry **#3 (Dongdaemun History Museum & Stadium Memorial)** carried a ⏳ on its hours. The museum group's branch page gives **10:00–18:00 (last entry 17:30), closed 12:00–13:00 daily, free, closed Mondays, Jan 1 and the Seollal/Chuseok holidays** — [source](https://museum.seoul.go.kr/www/intro/annexIntro/annex_18/annex_18_01.jsp). The entry above has been updated.
+
 ---
 
 ## 📊 Round-3 master table — 20 further entries (47–66), by district
@@ -652,6 +655,201 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 
 ---
 
+## 📊 Round-4 master table — 20 further entries (67–86), by district
+
+### 🏯 Central Seoul — free daily ceremonies and small museums (Jung-gu · Jongno)
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 67 | **Sohn Kee-chung Memorial Hall** (1936 Olympic marathon champion) | Sonkeechung-ro 101, Malli-dong (Seoul Station side) | Year-round | **Nov–Feb 10:00–17:00** (Mar–Oct to 18:00), last entry 1 h before | **Free** (permanent gallery) | 🔎 Open · closed Mon, Jan 1, Seollal & Chuseok |
+| 68 | **Bosingak bell-striking ceremony (보신각 상설타종)** | Bosingak pavilion, Jongno 54 (Jonggak Stn exit 4) | Daily except Mon | **Every day at 12:00 noon** (12 strikes) | **Free** — you can strike the bell yourself, by prior online application | ✅ Running · **Tuesdays are the foreign-visitor slot** |
+| 69 | **Deoksugung Royal Guard Changing Ceremony** | In front of **Daehanmun**, Deoksugung, Sejong-daero 99 | Daily except Mon | **11:00 and 14:00** (a third 15:30 round appears in some listings) | **Free** — outside the ticket gate | ✅ Running · cancelled in rain/snow and extreme weather |
+| 70 | **Namsan Beacon Mound fire ceremony (남산봉수의식)** | Namsan Beacon Mound, above Namsan cable-car top station | Daily except Mon | ⏳ listings differ: 11:00–15:40 (KTO festival DB) vs beacon rite ~10:30–12:30 + traditional performance 15:00 | **Free** | ⏳ Running · **confirm the day's times on site** |
+| 71 | **SeMA Art Archive + 《오윤》 exhibition** | Pyeongchang-munhwa-ro 101, Jongno (north of Gyeongbokgung) | Exhibition **Aug 27, 2026 – Feb 14, 2027** | **Tue–Fri 10:00–20:00; Sat/Sun/holidays Nov–Feb 10:00–18:00**, last entry 1 h before | **Free** (special exhibitions may charge) | ✅ Open · closed Mon & Jan 1 |
+| 72 | **Sejong Center — Triple Bill "All for Hans van Manen"** | Sejong Center, Gwanghwamun | **Nov 19–22, 2026** | ⏳ times/prices not retrieved | ⏳ | ⏳ Dates on the venue's own performance page |
+
+### 🏬 Dongdaemun & Sindang
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 73 | **Sindang-dong Tteokbokki Town (신당동 떡볶이 골목)** | Dasan-ro 33-gil / Toegye-ro 76-gil, Sindang (Line 2/6 Sindang, one stop from DDP) | Year-round | Shops set their own hours; most run lunch → late evening | Pan-for-two typically ₩10,000–20,000; **prices are per shop, not official** | 🔎 Open · a **Seoul Future Heritage** street |
+| 74 | **Dongdaemun Comprehensive Market (동대문종합시장)** | Jongno 266, at Dongdaemun Stn exit 9 | Year-round | **Fabric & garment supplies 08:00–18:00 · accessories 09:30–19:00 · home/wedding goods 08:00–19:00** | Free entry (wholesale prices) | 🔎 Open · **closed Sundays** (2nd & 4th Sun fully closed; 1st/3rd/5th partial for home goods) |
+| 75 | **Bangsan Market (방산시장)** | Euljiro 33-gil, Jung-gu (Euljiro 4-ga Stn exit 4–6) | Year-round | **Mon–Fri 09:00–18:00 · Sat 09:00–15:00** | Free entry | ⏳ Open · closed Sundays & holidays — hours from market-association directories, not a city page |
+
+### 🎸 Hongdae & Mapo
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 76 | **Seoul Energy Dream Center** — Korea's first zero-energy public building | Jeungsan-ro 14, Peace Park, Sangam | Year-round | **Tue–Sun 09:00–17:30** (some city pages say 09:30) | **Free** (some hands-on programmes charge materials) | 🔎 Open · closed Mon, Jan 1, Seollal/Chuseok, Dec 12 |
+| 77 | **Haneul Park in November + Maengkkongi electric cart** | World Cup Park, Haneul-gongwon-ro 95 | Silver grass stays into **early November** | Cart **09:00–19:00** (varies weekends/holidays) | Park **free**; cart **₩2,000 one-way / ₩3,000 return** (child/senior ₩1,500 / ₩2,200) | 🔎 Open · **the Eoksae Festival itself is October** — see [`seoul.md`](seoul.md) #60 |
+
+### 🕌 Itaewon & Yongsan
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 78 | **Yongsan Craft Museum (용산공예관)** | Itaewon-ro 274 (Hangangjin Stn, 1 min) | Year-round | **Tue–Sun**, roughly 10:00–18:30/19:00 (floor-dependent) | **Free** to view; one-day craft classes charge | 🔎 Open · closed Mon |
+| 79 | **Yongsan Urban Memory Exhibition Hall (용산도시기억전시관)** | Yongsan-gu | Year-round | **Tue–Sat 10:00–19:00** (last entry 18:30) | **Free**; free docent 11:00 and 15:00 (book on yeyak.seoul.go.kr) | 🔎 Open · **closed Sundays, Mondays and public holidays** |
+| 80 | **Children's Museum, National Museum of Korea** | National Museum, Seobinggo-ro 137 | Year-round | **09:30–17:20, five timed sessions**, ~80 min each | **Free — online reservation compulsory**, no walk-up tickets | 🔎 Open · reservations from 30 days ahead |
+| 81 | **National Museum of Korea — outdoor garden & pagoda park** | Same site, outside the galleries | Year-round | **07:00–22:00** — hours before and after the museum itself | **Free** | 🔎 Open daily |
+| 82 | **War Memorial of Korea — outdoor exhibition ground** | Itaewon-ro 29, Samgakji | Year-round | **Sunrise to sunset** (indoor galleries 09:30–18:00) | **Free** | 🔎 Open · 190+ aircraft, tanks and ships outdoors |
+
+### 🏙️ Gangnam & Seocho
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 83 | **Seoul Architecture Fair (서울건축박람회)** | **SETEC**, Nambusunhwan-ro 3104 (Line 3 Hagyeoul) | **Nov 5–8, 2026** per the organizer's date block | Fair hours per organizer | Free with registration (organizer's standard) | ⏳ **Date conflict on the organizer's own page** — see the entry |
+| 84 | **85th Franchise Startup Expo (프랜차이즈 창업박람회)** | SETEC | **Thu Nov 12 – Sat Nov 14, 2026** | **10:00–17:00** | **Free** with one-time online pre-registration (also on-site) | ✅ Confirmed |
+| 85 | **Starfield Library free open-stage programme** | Starfield COEX Mall B1–1F, Yeongdong-daero 513 | Year-round | Library **10:30–22:00 daily**; **talks/performances Wed & Fri 19:00 and weekend afternoons** | **Free** | ✅ Running |
+| 86 | **Korea Sale FESTA 2026** | Nationwide, incl. all districts in this file | ⏳ **not officially announced** | — | — | ⏳ **Do not trust the dates circulating online** — see the entry |
+
+---
+
+## 🏯 Central Seoul — round-4 details
+
+### 67) 🏅 **Sohn Kee-chung Memorial Hall (손기정기념관)** — 🔎 VERIFIED MUSEUM — free
+- **What:** The museum to **Sohn Kee-chung**, who won the 1936 Berlin Olympic marathon under a Japanese flag and covered the emblem with a laurel sapling on the podium. It occupies his old school, **Yangjeong Uisuk**, and opened in 2012 for his birth centenary; the sapling he was given is now the huge "Sohn Kee-chung monument tree" in the park outside.
+- **Hours/price:** **Nov–Feb 10:00–17:00** (Mar–Oct 10:00–18:00), last admission one hour before closing. **Permanent exhibition free**; special exhibitions may charge. **Closed Mondays** (next day if Monday is a holiday), Jan 1, Seollal and Chuseok.
+- **Foreign-language help:** free smartphone loan with **English, Japanese, Chinese and German** audio guides — leave a passport or ID at the desk.
+- **Where:** Sonkeechung-ro 101, Jung-gu — 15 min walk from Chungjeongno or Seoul Station; combine with Seosomun Shrine Museum (#48).
+- **Official sources (reviewed Aug 19, 2026):** [National Museum of Korean Contemporary History partner-museum record (seasonal hours, closures)](https://www.much.go.kr/cooperation/net/son.do) · [Jung-gu official tourism page](https://www.junggu.seoul.kr/tour/content.do?cmsid=14979&sf_category1=CWS1331&mode=view&cid=981688384)
+
+### 68) 🔔 **Bosingak bell-striking ceremony (보신각 상설타종행사)** — ✅ RUNNING DAILY — free
+- **What:** The city's daily noon bell ceremony at the **Bosingak** pavilion in Jongno — the bell that once opened and closed the city gates. It has run as a **permanent public ceremony since Nov 21, 2006**, and members of the public do the striking: **12 strikes at 12:00**, in period costume if you want, with a **certificate issued in the Seoul mayor's name**.
+- **When:** **every day at 12:00 except Mondays**, plus closures for March 1, Liberation Day and New Year's Eve ceremonies, and in extreme heat/cold.
+- **⭐ Tuesdays are the foreigner slot:** run with the Korea Tourism Organization for **foreign visitors on the spot** — **traditional-costume experience at 11:00** and **bell-striking at 11:40**, joined by signing the visitors' book. No online application needed. (Korean-resident online applications open on the 1st of each month for the following month, max 3 teams a day.)
+- **Price:** **Free.**
+- **Where:** Jongno 54 — **Jonggak Station exit 4**, 10 minutes' walk from Myeong-dong.
+- **Official sources (reviewed Aug 19, 2026):** [Seoul Culture Portal — Bosingak ceremony page](https://culture.seoul.go.kr/culture/main/contents.do?menuNo=200147) (daily noon, Monday closure, Tuesday foreigner programme) · [application page](https://culture.seoul.go.kr/culture/main/contents.do?menuNo=200049) · [Seoul Mediahub explainer](https://mediahub.seoul.go.kr/archives/1088292)
+
+### 69) 💂 **Deoksugung Royal Guard Changing Ceremony** — ✅ RUNNING DAILY — free
+- **What:** The reconstructed Joseon palace-gate guard change in front of **Daehanmun**, running since 1996 — Korea's answer to the Changing of the Guard, in full costume with drums and a *sunra* patrol procession after the morning round. Deoksugung is [`myeongdong.md`](myeongdong.md) #31; this happens **outside the ticket gate, so it costs nothing**.
+- **When:** **11:00 and 14:00 daily except Mondays**, about 15–20 minutes each. Some official-adjacent listings add a **15:30** round — check the board at the gate. **Cancelled in rain, snow and extreme heat/cold.**
+- **⭐ Free participation:** one visitor per session can **serve as the guard commander** in costume (apply in advance; arrive one hour early for fitting and briefing), and a **free hanbok/uniform try-on** runs on site with no booking.
+- **Price:** **Free** to watch. Enquiries 02-2133-1117 / 120.
+- **⚠️ Don't confuse it with Gyeongbokgung's**, which is a different ceremony at 10:00 and 14:00 and is **closed Tuesdays** (Deoksugung closes Mondays) — between the two you can catch a guard ceremony on any day of the week.
+- **Sources (reviewed Aug 19, 2026):** Seoul Metropolitan Government royal-guard programme (02-2133-1117) via [Deoksugung visitor listings](https://www.i-rang.net/place/deoksugung-seoul) · [ceremony timetable comparison (Gyeongbokgung vs Deoksugung, closure days)](https://namu.wiki/w/수문장%20교대의식) — *treated as corroboration only; times to confirm on the day*
+
+### 70) 🔥 **Namsan Beacon Mound fire ceremony (남산봉수의식)** — ⏳ RUNNING, TIMES TO CONFIRM
+- **What:** A daily re-enactment at the **Namsan beacon mounds** — the terminus of the Joseon signal-fire network, where a single lit beacon meant "all quiet". Soldiers in costume patrol, guard and light the beacon; the programme also includes a **traditional martial-arts and folk performance** and a "beacon soldier for a day" experience. It sits right beside N Seoul Tower ([`seoul.md`](seoul.md) #57), so it is a free add-on to a Namsan trip.
+- **When:** **daily except Mondays**, year-round. **⏳ Times differ between listings:** the national festival database gives an **11:00–15:40** operating block, while other descriptions give the beacon rite around **10:30–12:30** and the performance at **15:00**. Confirm at the beacon mound or with the operator (02-319-1220 / 02-737-6444).
+- **Price:** **Free**, including the costume experience.
+- **Sources (reviewed Aug 19, 2026):** [Korea Tourism Organization festival database entry — "남산봉수의식 등 전통문화행사", organized by Seoul Metropolitan Government, free, year-round](https://www.gotothefestival.co.kr/detail/2809535) · same record mirrored [here](https://www.dkvips.com/festival/2809535)
+
+### 71) 🗄️ **SeMA Art Archive + 《오윤》** — ✅ CONFIRMED — Aug 27, 2026 – Feb 14, 2027 · free
+- **What:** The Seoul Museum of Art's **archive branch** in Pyeongchang-dong — a striking hillside complex of three buildings holding artists' papers, notebooks and working materials, with a reading lounge and café. The current show is devoted to **Oh Yoon (오윤, 1946–1986)**, the woodcut printmaker at the centre of Korea's *Minjung* art movement.
+- **Hours/price:** **Tue–Fri 10:00–20:00; Saturdays, Sundays and public holidays Nov–Feb 10:00–18:00** (Mar–Oct to 19:00). Last entry one hour before closing. **Free** (special exhibitions can be ticketed). **Closed Mondays and Jan 1.**
+- **⚠️ It is a trek:** Pyeongchang-dong is up in the hills north of Gyeongbokgung, bus-only. Go for the Oh Yoon show or the architecture, not on a whim.
+- **Official sources (reviewed Aug 19, 2026):** [SeMA — Art Archive visitor page (hours, free, closures)](https://sema.seoul.go.kr/kr/visit/art_archive) · [SeMA upcoming-exhibitions feed listing 《오윤》 2026/08/27–2027/02/14](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=PLAN_DAY)
+
+### 72) 🩰 **Sejong Center — Triple Bill "All for Hans van Manen"** — ⏳ DATES ON THE VENUE PAGE
+- **What:** A three-work ballet programme built around the Dutch choreographer **Hans van Manen**, listed on the Sejong Center's own performance system for **Nov 19–22, 2026** — the same week as the Seoul Philharmonic chamber concert (#52), in the same Gwanghwamun cultural block as the opera in [`seoul.md`](seoul.md) #99.
+- **⏳ What is not verified:** the performance page returned only the date block at review; **times, hall and prices were not retrieved**, so none are stated here.
+- **Official source (reviewed Aug 19, 2026):** [Sejong Center performance-ticket page (2026.11.19–11.22)](https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=36783&menuNo=200320)
+
+---
+
+## 🏬 Dongdaemun & Sindang — round-4 details
+
+### 73) 🌶️ **Sindang-dong Tteokbokki Town (신당동 떡볶이 골목)** — 🔎 VERIFIED FOOD STREET
+- **What:** The birthplace of *jeukseok* (cook-at-your-table) tteokbokki — a lane of specialist shops where a pan of rice cake, fish cake, ramyeon, dumplings and egg is cooked in front of you in sweet-spicy sauce. **Ma Bok-rim's** shop, which claims to have started selling in 1953, is at the head of the alley; the 1980s DJ booths are part of the local legend. The street is designated **Seoul Future Heritage**.
+- **Where/when:** Dasan-ro 33-gil 10-18 and around Toegye-ro 76-gil, Jung-gu — **Sindang Station (Lines 2/6) exits 7–8**, one stop from Dongdaemun History & Culture Park. Shops keep their own hours, generally lunchtime to late evening.
+- **⚠️ Price honesty:** a two-person pan usually lands around **₩10,000–20,000** depending on add-ins, but **no official price list exists** — these are independent restaurants. Order by pointing at the pan photo.
+- **Official sources (reviewed Aug 19, 2026):** [Korea Tourism Organization — Sindang-dong Tteokbokki Street listing (address, history, Seoul Future Heritage designation)](https://www.ktriptips.com/kor/tourspot/699249) · [KTO food database entry for a 1972-founded shop on the street](https://access.visitkorea.or.kr/food/detail_print.do?cotId=ae888fb6-e618-41ea-ab1a-d35fd47c0dc1) · [KBS World cultural feature](https://world.kbs.co.kr/service/contents_view.htm?lang=k&board_seq=246866)
+
+### 74) 🧵 **Dongdaemun Comprehensive Market (동대문종합시장)** — 🔎 VERIFIED MARKET
+- **What:** The vast wholesale market for **fabric, trims, buttons, beads, ribbon, wedding goods and interior textiles** — five floors and thousands of stalls, and the supply engine behind the Dongdaemun fashion district. Even if you buy nothing it is one of the most extraordinary buildings in the area.
+- **Hours (per section, official listing):** **fabric and garment supplies 08:00–18:00 · accessory materials 09:30–19:00 · wedding goods and home interior 08:00–19:00.** Saturday closes earlier in practice (many stalls shut by mid-afternoon).
+- **⚠️ Sunday rule:** **closed Sundays.** The 2nd and 4th Sundays are a total closure; on the 1st, 3rd and 5th Sundays only the wedding-goods/home-interior section partially opens.
+- **Where:** Jongno 266 — **Dongdaemun Station exit 9**, next to Gwangjang Market ([`seoul.md`](seoul.md) #70) and Cheonggyecheon.
+- **Official sources (reviewed Aug 19, 2026):** [Korea Tourism Organization listing with per-section hours and the Sunday rules](https://access.visitkorea.or.kr/ms/detail.do?cotId=4b330aa8-bcae-4dba-93b2-af78b8bc0f3e) · [Seoul Mediahub — Seoul Future Heritage feature](https://mediahub.seoul.go.kr/archives/1305202) · market site ddm-mall.com
+
+### 75) 🎀 **Bangsan Market (방산시장)** — ⏳ REAL MARKET, HOURS FROM DIRECTORIES
+- **What:** The **packaging, wallpaper, baking-supply and craft-materials** wholesale market behind Euljiro — candle and soap ingredients, gift boxes, ribbon, printing. A favourite of Seoul's craft-makers and increasingly of visitors doing a self-guided Euljiro walk.
+- **Hours:** **Mon–Fri 09:00–18:00; Saturday 09:00–15:00; closed Sundays and public holidays.**
+- **⏳ Sourcing note:** these hours come from the market association directory and national market databases rather than a city page, so treat them as indicative; the Seoul city market feature confirms the market and its location but not the timetable.
+- **Where:** Euljiro 33-gil 18-1 / Dongho-ro 37-gil 20, Jung-gu — **Euljiro 4-ga Station exits 4–6**.
+- **Sources (reviewed Aug 19, 2026):** [national traditional-market directory entry (hours, closures)](http://www.bbsj.kr/sijang/market.php?sij_idx=21) · [tourism database record](https://www.tripinfo.co.kr/info.html?content_type_id=38&content_id=2946519) · [Seoul Metropolitan Government market feature naming Bangsan](https://opengov.seoul.go.kr/mediahub/22105744)
+
+---
+
+## 🎸 Hongdae & Mapo — round-4 details
+
+### 76) ⚡ **Seoul Energy Dream Center** — 🔎 VERIFIED CITY FACILITY — free
+- **What:** **Korea's first zero-energy public building**, in Peace Park at Sangam — a striking white spiral by Berlin architects, with hands-on exhibits on energy, climate and the city's renewables. It is the third pole of the World Cup Park cluster with Culture Tank (#10) and Haneul Park (#77), and completely free.
+- **Hours/price:** **Tuesday–Sunday 09:00–17:30** (some city pages give 09:30 as the opening time — arrive after 09:30 to be safe). **Free**; some hands-on programmes charge for materials. **Closed Mondays**, Jan 1, Seollal/Chuseok holidays and **Dec 12** (its founding anniversary).
+- **Docent tours** run four times a day and can be booked to two days ahead on seouledc.or.kr. Allow about 40 minutes for the exhibition.
+- **Where:** Jeungsan-ro 14 — World Cup Stadium Station (Line 6) exit 1, ~15 min walk.
+- **Official sources (reviewed Aug 19, 2026):** [Seoul Metropolitan Government energy portal — visitor information (Tue–Sun 09:00–17:30, free, Monday closure)](https://energyinfo.seoul.go.kr/board/content?menu-id=Z110100&boardType=0001&boardNo=378) · [SMG blog listing with the Dec 12 closure](https://m.blog.naver.com/PostView.nhn?blogId=haechiseoul&logNo=221322341429) · seouledc.or.kr
+
+### 77) 🌾 **Haneul Park in November + the Maengkkongi electric cart** — 🔎 VERIFIED ACCESS INFO
+- **What:** Practical detail for the silver-grass plateau already listed as [`seoul.md`](seoul.md) #60. Two things worth knowing for a November visit:
+- **The festival is October, the grass is not.** The **Seoul Eoksae (Silver Grass) Festival** runs in mid-to-late October (2025: Oct 18–24, 10:00–21:00). In 2024 the city noted the silver grass stayed on display **into the first days of November** after the festival closed — so early November gives you the plateau **without the crowds, lights or food stalls**.
+- **Getting up:** it is **425 steps** or a **"Maengkkongi" electric cart** from the Nanjicheon Park ticket booth: **₩2,000 one way / ₩3,000 return** (children, seniors, visitors with disabilities ₩1,500 / ₩2,200), running **09:00–19:00** with holiday variations. **There is no ticket booth at the top — buy the downhill leg before you go up.**
+- **Price:** the park itself is **free**.
+- **Official sources (reviewed Aug 19, 2026):** [Seoul Metropolitan Government — 24th Seoul Eoksae Festival notice (2025 dates and hours)](https://news.seoul.go.kr/env/archives/564833) · [Seoul Mediahub — post-festival silver grass and cart guidance](https://mediahub.seoul.go.kr/archives/2012554)
+
+---
+
+## 🕌 Itaewon & Yongsan — round-4 details
+
+### 78) 🪡 **Yongsan Craft Museum (용산공예관)** — 🔎 VERIFIED DISTRICT FACILITY — free
+- **What:** A four-floor craft centre run by **Yongsan-gu** at Hangangjin, opened 2018: a shop of work by traditional master craftspeople on 1F, a craft workshop floor for one-day classes, and a **free 4F exhibition gallery** that rotates shows by holders and successors of national intangible heritage skills. One minute from Hangangjin Station, so it slots between Leeum and Blue Square.
+- **Hours/price:** **Tuesday–Sunday**, roughly **10:00–18:30/19:00** depending on floor; **free admission** to the galleries and shop. **Closed Mondays.** One-day craft classes are paid and book out — enquire at 02-2199-6180.
+- **Where:** Itaewon-ro 274 (Hannam-dong), next to the Hangangjin transfer car park.
+- **Sources (reviewed Aug 19, 2026):** [Seoul public-service reservation record for a Yongsan Craft Museum exhibition (operator Yongsan-gu, free, Tue–Sun 10:00–18:30, contact)](https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210502183654893823) · Yongsan Cultural Foundation programme listings for the same building
+
+### 79) 🏚️ **Yongsan Urban Memory Exhibition Hall (용산도시기억전시관)** — 🔎 VERIFIED CITY FACILITY — free
+- **What:** A small, serious city-run exhibition hall about **how Yongsan was made and unmade** — the railway town, the garrison, redevelopment and the 2009 Yongsan disaster. It is the counterweight to the shiny Yongsan you see from Iparkmall (#61).
+- **Hours/price:** **Tuesday–Saturday 10:00–19:00** (last entry 18:30). **Free.** **Closed Sundays, Mondays and public holidays** — an unusual pattern, so check the day.
+- **Free guided talks:** twice daily, **11:00–11:40 and 15:00–15:40**, booked on Seoul's public-service reservation site (up to 5 people per booking); walk-in viewing needs no reservation.
+- **Official source (reviewed Aug 19, 2026):** [Seoul public-service reservation — Yongsan Urban Memory Exhibition Hall docent programme (hours, free admission, closure days, contact 02-3785-2590)](https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260619101855323925)
+
+### 80) 🧒 **Children's Museum, National Museum of Korea** — 🔎 VERIFIED — free, booking compulsory
+- **What:** The hands-on children's wing inside the National Museum — history and heritage through play. Worth listing even for adult travellers because of one rule that catches people out:
+- **⚠️ Reservation is compulsory and there is no on-the-door ticket.** Entry is by **timed session (five a day, ~80 minutes each)**, capacity-limited, bookable online from 30 days ahead; a booking auto-cancels if you are more than 30 minutes late.
+- **Hours/price:** **09:30–17:20** in the current schedule (the museum publishes the session grid separately from the main galleries). **Free.**
+- **Official source (reviewed Aug 19, 2026):** [National Museum of Korea — visitor information page with the Children's Museum session times and reservation rule](https://www.museum.go.kr/MUSEUM/contents/M0101000000.do)
+
+### 81) 🌳 **National Museum of Korea — outdoor garden and pagoda park** — 🔎 VERIFIED — free
+- **What:** The museum's grounds are a park in their own right: the **Mirror Pond**, a wooded walk, and an outdoor stone-art garden with pagodas, stone lanterns, steles and monk stupas — **including several National Treasures** — arranged around the building.
+- **⭐ Why it earns its own entry:** the garden opens **07:00–22:00**, i.e. **before the galleries open and long after they shut**. With the museum's Wed/Sat night opening (#38), you can walk the lit grounds after 21:00; on a normal day it is the best free early-morning walk in Yongsan.
+- **Price:** **free**, no ticket.
+- **Official source (reviewed Aug 19, 2026):** National Museum of Korea visitor-information hours block, "옥외 전시장(정원) 07:00–22:00", published on [museum.go.kr](https://www.museum.go.kr/MUSEUM/contents/M0101000000.do) and mirrored in the museum's [hours notice](https://m.blog.naver.com/100museum/224215257883)
+
+### 82) ✈️ **War Memorial of Korea — outdoor exhibition ground** — 🔎 VERIFIED — free
+- **What:** The **outdoor** half of the War Memorial ([`seoul.md`](seoul.md) #41): **190+ large exhibits** — aircraft, tanks, artillery, a B-52, patrol boats you can board — plus the memorial colonnades. Genuinely impressive, and free of the indoor closing time.
+- **Hours/price:** **sunrise to sunset** for the outdoor ground (indoor galleries 09:30–18:00, last entry 17:00). **Free.** The plaza is also a favourite Seoul skateboarding and photography spot in the evening.
+- **Official source (reviewed Aug 19, 2026):** [War Memorial of Korea FAQ — "야외전시장은 일출부터 일몰시간 중에 관람하실 수 있습니다"](https://www.warmemo.or.kr/Home/H40000/H40500/H40501/boardList) · [visitor information](https://www.warmemo.or.kr:8443/Home/H10000/H10100/html)
+
+---
+
+## 🏙️ Gangnam & Seocho — round-4 details
+
+### 83) 🏗️ **Seoul Architecture Fair at SETEC** — ⏳ ORGANIZER'S OWN PAGE CONTRADICTS ITSELF
+- **What:** A consumer building-and-interiors fair (materials, prefab housing, interior products) at **SETEC**, the Gangnam exhibition centre at Hagyeoul Station — the district's second venue after COEX.
+- **⚠️ The date problem, stated plainly:** the organizer's page carries **two different dates**: a headline block reading **"2026. 11. 5 목 – 11. 8 일"** and body text reading **"11월 6일(목)부터 9일(일)까지"**. Only the first is internally consistent — **in 2026, Nov 5 is a Thursday and Nov 8 a Sunday**, while Nov 6 is a Friday. The Nov 5–8 block is therefore the likelier truth, but this file will not present either as confirmed. Registration is free through the organizer in the usual pattern; a single registration covers all fair days.
+- **Official source (reviewed Aug 19, 2026):** [Seoul Architecture Fair — SETEC edition page](https://khfair.com/setec/) (both date statements are on this page) · venue [SETEC](https://www.setec.or.kr/front/introduce/history.do)
+
+### 84) 🍔 **85th Franchise Startup Expo (프랜차이즈 창업박람회) at SETEC** — ✅ CONFIRMED — Nov 12–14, 2026
+- **What:** Korea's longest-running franchise expo, in its 85th edition: several hundred food, café, pub and service brands with tasting counters and consultation booths. Not a tourist event as such, but it is **free**, indoors, in Gangnam, on three trip days — and it is a genuinely revealing look at how Korean food business works.
+- **When/where:** **Thu Nov 12 – Sat Nov 14, 2026, 10:00–17:00**, **SETEC**, Nambusunhwan-ro 3104 (Line 3 **Hagyeoul** Station).
+- **Price:** **free** — one online pre-registration gives lifetime free entry to the organizer's fairs; on-site registration also available.
+- **Official source (reviewed Aug 19, 2026):** [85th Franchise Startup Expo SETEC 2026 official site](https://www.franchisesetec.co.kr/) (dates, hours, venue, free-entry rule, structured event data)
+
+### 85) 📚 **Starfield Library — free open-stage programme** — ✅ RUNNING — free
+- **What:** The 13-metre bookshelf atrium in Starfield COEX Mall is already [`seoul.md`](seoul.md) #54 as a place. What is *not* in the repo is that it runs a **free public programme on its open stage**: **talks and performances every Wednesday and Friday at 19:00, plus weekend afternoons**, open to anyone standing there — no ticket, no booking.
+- **Hours/price:** library **10:30–22:00, every day of the year, free**. About 70,000 books and 400+ magazines, all free to read on site.
+- **In your window:** Wednesdays **Nov 4, 11, 18** and Fridays **Oct 31 (arrival day), Nov 6, 13, 20**, plus weekend afternoons.
+- **Official sources (reviewed Aug 19, 2026):** [Starfield COEX Mall — Starfield Library official page (Wed/Fri 19:00 and weekend programme, 10:30–22:00)](https://starfield.co.kr/m/coexmall/starfieldLibrary/library.do) · [Korea Tourism Organization listing (open year-round, hours)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60729) · [Visit Gangnam](https://visitgangnam.net/index.php/places/starfield-library)
+
+### 86) 🛍️ **Korea Sale FESTA 2026** — ⏳ STILL UNANNOUNCED — and a warning
+- **What:** The government-backed nationwide shopping-discount period, listed as ⏳ in [`seoul.md`](seoul.md) #28. It matters for this file because it is the one thing that would change prices in **Myeong-dong, Dongdaemun and Gangnam** during the trip.
+- **⚠️ Verification result — read this before believing a date:** searching for the 2026 dates returns a cluster of **AI-generated SEO pages** confidently quoting mutually exclusive schedules — "Nov 1–15", "Nov 1–30", "2,500 companies", "2,600 companies" — several of them claiming the writer *phoned the ministry* to confirm. **No official announcement from the Ministry of Trade, Industry and Energy or the Korea Sale FESTA committee was retrievable on Aug 19, 2026.** Recent editions have run for roughly the first three weeks of November, which is why this stays a ⏳ planning note and not a date.
+- **What to do:** check **koreasalefesta.kr** in mid-October. If it lands in your window, department stores in all three districts run extra discounts and tax-refund events.
+- **Sources (reviewed Aug 19, 2026):** no official source found — the only hits were unverifiable aggregator posts, which is itself the finding.
+
+---
+
 ## 🛍️ Myeong-dong — what's already covered, and what's new to know
 
 Myeong-dong's 38 entries live in [`myeongdong.md`](myeongdong.md) and were re-verified on Aug 18, 2026 — shopping streets, street-food stalls, Myeongdong Cathedral and the 1898 complex, NANTA, Myeongdong Theater, Namdaemun Market, Namsangol Hanok Village, Bank of Korea Money Museum, Deoksugung and the Jeong-dong walk. This pass did not find duplicate-free *new* Myeong-dong attractions worth adding, but it did confirm three timing facts that change how you use that file:
@@ -687,6 +885,12 @@ Honest negatives matter more than a bigger number:
 | **Seoul Citizens Hall (시민청) programme** *(round 3)* | Sources disagree on the closing day (Monday vs Sunday) and the concert schedule pages are years old. |
 | **Baejae Hakdang Museum** *(round 3)* | Only third-party hours (Google Arts listing) — no operator page retrieved. |
 | **Yeonghwiwon opening hours** *(round 3)* | The Royal Tombs visitor-information page 500'd; the fee is official, the hours are explicitly left unresolved in #55. |
+| **Korea Sale FESTA 2026 dates** *(round 4)* | Only AI-generated SEO pages with contradictory dates; no ministry announcement. Kept as ⏳ #86 with the warning. |
+| **Seoul Kimjang Culture Festival 2026** *(round 4)* | Still nothing on the city festival calendar — [`seoul.md`](seoul.md) #26 stays ⏳. |
+| **Gangnam Symphony / KOUS November** *(round 4 re-check)* | Re-checked; still nothing published. |
+| **Korea House (한국의집), Pil-dong** *(round 4)* | Dinner-and-performance prices circulate widely (₩50,000 performance, package resellers) but no operator page was retrievable, so it is not listed. |
+| **aT Center (Seocho) November events** *(round 4)* | No November 2026 listing found on organizer sites. |
+| **National Jeongdong Theater / Seoul Namsan Gukakdang November** *(round 4 re-check)* | Their public listings still show nothing in the trip window — [`myeongdong.md`](myeongdong.md) #32 and #38 stay ⏳. |
 
 ## 📆 Just outside the window (verified, for context)
 
@@ -706,6 +910,9 @@ Honest negatives matter more than a bigger number:
 - **Seoul Independent Film Festival (서울독립영화제) 2026, 52nd edition — Nov 26 – Dec 4, 2026**, CGV Apgujeong / Cheongdam (Gangnam). Korea's biggest independent-film festival opens **four days after you fly home**; the organizer confirmed the dates with the June 22, 2026 call for entries.
 - **Yeonghwiwon/Sunginwon free Culture Day** — last Wednesday of the month = **Nov 25**, three days after departure.
 - **Seoul Philharmonic at Lotte Concert Hall** — Nov 19–20 (Lintu / Prokofiev) and Nov 26–27 (van Zweden / Mahler 4) are in **Songpa**, outside this file's districts.
+- **Seoul Eoksae (Silver Grass) Festival, Haneul Park** — an **October** festival (2025: Oct 18–24, 10:00–21:00). The grass itself lingers into early November — see entry #77.
+- **Seoul Design Festival** — COEX, Nov 25–29, 2026.
+- **Gangnam Symphony 112th subscription concert "Endgame"** — the widely-shared "Nov 29, Seoul Arts Center" listing is the **2025** edition, not 2026.
 
 ---
 
@@ -731,6 +938,11 @@ Honest negatives matter more than a bigger number:
 | #65 Gangnam free walking tour | 02-3445-0111 | Whether the course still runs and when |
 | #66 KOUS | kh.or.kr / kous.or.kr | November 2026 performance calendar |
 | #53 Hongneung Forest weekdays | know.nifos.go.kr | Confirm the weekday opening hours after the March 2026 change |
+| #70 Namsan beacon times | on site / 02-319-1220 | Which timetable is actually running |
+| #72 Sejong Center ballet | sejongpac.or.kr | Times, hall and prices for Nov 19–22 |
+| #83 Seoul Architecture Fair | khfair.com | Which of the two conflicting date blocks is right |
+| #86 Korea Sale FESTA | koreasalefesta.kr | The official 2026 announcement |
+| #69 Deoksugung ceremony | on site at Daehanmun | Whether the 15:30 round runs in November |
 
 ---
 
