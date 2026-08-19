@@ -685,6 +685,36 @@ Added with entries **67–86** of [`seoul-districts.md`](seoul-districts.md), pl
 
 ---
 
+### Newly verified official sources (district expansion round 5, Aug 19, 2026)
+
+Added with entries **87–106** of [`seoul-districts.md`](seoul-districts.md). All fetched **Aug 19, 2026**.
+
+| Place / event | Official source | What it proves |
+|---|---|---|
+| Sejong Story & Chungmugong Story | https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=146300&menuNo=200009 · https://mediahub.seoul.go.kr/archives/2005429 | 10:00–18:30, Friday to 21:00, free, Monday closure |
+| Woori Bank Museum | https://spot.wooribank.com/pot/Dream?withyou=HMMUM0006 · http://gomuseum.seoul.go.kr/web/museum/artView.do?menuCd=MN00000014&museumId=154 | 10:00–18:00, free, Sunday/holiday closure; **Saturday discrepancy between the two** |
+| Korea Financial History Museum | https://access.visitkorea.or.kr/ms/detail.do?cotId=5ae998ca-9b98-4874-abc5-182618101a00 · https://www.digitaltoday.co.kr/news/articleView.html?idxno=614661 | 10:00–18:00 free; special exhibition to Dec 31 2026 |
+| Bank of Korea Money Museum docents | https://www.bok.or.kr/museum/main/contents.do?menuNo=700112 | Tue–Sun 10:00–17:00; **English tour 14:00**; online booking only |
+| Ssamziegil | https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=44678 · https://mediahub.seoul.go.kr/archives/1270460 | 10:30–20:30 daily, open year-round |
+| Insa-dong car-free street | https://mediahub.seoul.go.kr/archives/1270460 | Pedestrian-only 10:00–22:00 |
+| Seoul Metropolitan Library | https://lib.seoul.go.kr/rwww/html/ko/map.jsp | Tue–Fri 09:00–21:00, weekends to 18:00, free, Monday closure |
+| Seoul Plaza / Gwanghwamun fountains (**closure evidence**) | https://plaza.seoul.go.kr/archives/18079 · https://scpm.seoul.go.kr/seoul-policy/evt0290 | Fountain seasons end Sep 30 and Aug 9 2026 → **off in November** |
+| Hwangudan naming | https://www.hankyung.com/article/202507049022i | Korea Heritage Service confirms "Hwangudan" as the official name (Jul 2025) |
+| Hongdae Walking Street busking zones | https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=c92fa510-548b-4da9-b6f4-7491c603bba6 · https://www.seouland.com/arti/society/society_general/2623.html | 500 m strip, numbered zones, 12:00–22:00 slots, Mapo-gu registration |
+| Seoul Art Space Seogyo | https://www.sfac.or.kr/site/SFAC_KOR/02/10209030000002018102303.jsp | SFAC operator, space hours 11:00–20:00/22:00 |
+| Yongsan History Museum | https://museum.yongsan.go.kr/visit/guide | 10:00–18:00, free, Monday closure, 1928 railway-hospital building |
+| National Museum Digital Immersive Galleries | https://www.museum.go.kr/site/main/content/digital_realistic_1 · https://m.blog.naver.com/nmf_korea/223455696837 | Free, self-guided, three halls, VR booking rule, maintenance breaks |
+| Yongsan Park Officers' Quarters 5 | https://parkyongsan.kr/front/lodging/lodging02.do · https://www.park.go.kr/front/lodging/useGuide.do | Tue–Sun 09:00–18:00, last entry 17:00, free, 500-person cap |
+| Ichon Hangang Park | https://www.wegive.co.kr/contents/wetownDetail/970636 | Always open, free, Hangang HQ management and contact |
+| Heoninneung | https://mediahub.seoul.go.kr/archives/2002136 · https://royaltombs.cha.go.kr/multiBbz/selectMultiBbzView.do?bbzId=tombs&id=58&mn=RT_01_07_04&no=58 | Nov–Jan 09:00–17:30, ₩1,000, hanbok free, Monday closure |
+| Gugak Museum | http://gomuseum.seoul.go.kr/web/museum/museumView.do?menuCd=MN00000014&museumId=1121 · https://mediahub.seoul.go.kr/archives/2006768 | 10:00–18:00, free, Monday closure |
+| Seonjeongneung November hours + docents | https://royaltombs.cha.go.kr/multiBbz/selectMultiBbzView.do?id=61&no=61&bbzId=tombs&mn=RT_01_08_03 | **Nov–Jan 06:00–17:30** (vs 21:00 in summer); free docent timetable |
+| Seoripul / Montmartre Park | https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505 | District walking route, free guided walks, 4 km loop |
+
+**Rejected in round 5:** Seoul Dance Festival and Seoul International Music Festival 2026 (no retrievable November programme), Korea House (third attempt — still no operator page), Jogyesa opening hours, Noeul Park cart fares (blogs and a 2010 press release only), Seoul Museum of Craft Art November exhibition.
+
+---
+
 ## Link-verification pass (Aug 17, 2026) — corrected & replaced sources
 
 Every source below was re-fetched. These entries had a **dead, hijacked, repurposed or simply wrong** official URL, and/or out-of-date prices and hours; all have been corrected in the city files.
