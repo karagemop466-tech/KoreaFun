@@ -12,7 +12,7 @@ import sys
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 CITY_FILES = [
-    "seoul.md", "myeongdong.md", "busan.md", "daejeon-cheonan.md",
+    "seoul.md", "seoul-districts.md", "myeongdong.md", "busan.md", "daejeon-cheonan.md",
     "suwon.md", "yongin.md", "incheon.md", "jeonju.md", "daegu.md",
     "gyeongju.md", "ulsan.md", "pohang.md", "changwon-jinhae.md", "yeosu.md",
 ]
