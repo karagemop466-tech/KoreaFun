@@ -626,6 +626,35 @@ Added with entries **26–46** of [`seoul-districts.md`](seoul-districts.md), pl
 
 ---
 
+### Newly verified official sources (district expansion round 3, Aug 19, 2026)
+
+Added with entries **47–66** of [`seoul-districts.md`](seoul-districts.md). All fetched **Aug 19, 2026**.
+
+| Place / event | Official source | What it proves |
+|---|---|---|
+| Ahn Junggeun Memorial Hall | https://mediahub.seoul.go.kr/archives/2013777 · https://opengov.seoul.go.kr/mediahub/19963165 | Nov–Feb 10:00–17:00, free, closed Mon |
+| Seosomun Shrine History Museum | https://opengov.seoul.go.kr/mediahub/22219278 · https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ee830b0f-4447-4e32-b2a7-cabc5f9bb889 | Tue–Sun 09:30–17:30, free; Wednesday 20:30 late opening |
+| Jeongdong Observatory | https://www.seoul.go.kr/storyw/jeongdong/listm.do · https://www.yna.co.kr/view/AKR20240329135600004 | Weekdays 13:30–17:30, weekends 09:00–17:30, free |
+| Seoul City Hall Sky Observatory + Seoul Gallery Lunch Stage | https://mediahub.seoul.go.kr/archives/2018752 | Observatory Mon–Fri 07:30–18:00 free; Lunch Stage Apr 18–Dec 5 2026, Wed 12:30 / Sat 14:00, free |
+| Seoul Philharmonic — Chamber Classics VI | https://www.seoulphil.or.kr/perf/pkg/list?langCd=ko&menuFlag=MFLG0001 | Nov 21 2026, Sejong Center Chamber Hall (price not published) |
+| Hongneung Forest | http://know.nifos.go.kr/mobile/intro/guide.do · https://mediahub.seoul.go.kr/archives/2017611 | Free; closed Mon + all public holidays; weekend Nov–Feb 09:00–17:00; weekday opening from Mar 28 2026; guide times |
+| Sejong the Great Memorial Museum | https://access.visitkorea.or.kr/ms/detail.do?cotId=652c5ef2-2f68-485c-b39a-11d3878f6428 | Nov–Feb 09:00–17:30; ₩3,000 / ₩1,500 |
+| Yeonghwiwon & Sunginwon | https://royaltombs.cha.go.kr/tombs/selectTombInfoList.do?tombseq=135&mn=RT_01_07_02 · https://royaltombs.cha.go.kr/multiBbz/selectMultiBbzView.do?bbzId=tombs&id=58&mn=RT_01_07_04&no=58 | ₩1,000 adult / ₩800 group; free last Wednesday; **hours page 500'd** |
+| Cinematheque KOFA + Korean Film Museum + Film Library | https://www.koreafilm.or.kr/pages/PC_00000004 · https://www.koreafilm.or.kr/cinematheque/schedule | All screenings free; Tue–Sat, closed Sun/Mon; booking rules; museum/library hours |
+| Seoul Battleship Park | https://hangang.seoul.go.kr/www/contents/803.do?mid=527 · https://mediahub.seoul.go.kr/archives/2017520 | Winter Tue–Sun 10:00–18:00, closed Mon; ₩3,000/2,000/1,000; docent 13:00 & 15:00 |
+| Baekbeom Kim Koo Memorial Hall | https://mediahub.seoul.go.kr/archives/2010436 | Nov–Feb 10:00–17:00, last entry 16:00, free, closed Mon |
+| Itaewon Antique Furniture Street | https://korean.visitseoul.net/hallyu/지하철-5678-도보여행---6호선-이태원역_/16457 · https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=62ba6c16-3fe7-4e50-8299-abcf55c862c2 | Location between Itaewon exits 3–4; ~100 antique shops |
+| Iparkmall Yongsan | https://access.visitkorea.or.kr/ms/detail.do?cotId=f10e3c38-2b26-49ca-9ea3-7ec1e8b559b6 | Sun–Thu 10:30–20:30, Fri–Sat to 21:00, 1F–3F/4F to 22:00 |
+| Dosan Ahn Chang-ho Memorial Hall | https://opengov.seoul.go.kr/mediahub/22468947 · https://access.visitkorea.or.kr/ms/detail.do?cotId=d56d222c-200c-4fbb-8138-0830519084fb | Weekday 10:00–18:00 / weekend 11:00–18:00, free |
+| Garosu-gil | https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87385 | Location, free, ginkgo/autumn note |
+| Apgujeong Rodeo / K-Star Road link | https://www.gangnam.go.kr/etc/k_star_road/files/basic-html/page6.html | District route and zones |
+| Seoul Independent Film Festival 2026 (out of window) | https://view.mk.co.kr/entertainment/article/243386/ · https://www.womennews.co.kr/news/articleView.html?idxno=279035 | 52nd edition **Nov 26 – Dec 4, 2026** — starts after departure |
+| National Hangeul Museum programming relocation | https://www.asiae.co.kr/en/article/2025090914504699999 | Where its exhibitions/classes are hosted during closure |
+
+**Rejected in round 3:** Seoul Central Masjid hours (still no official page), Gangnam Symphony "Nov 29" concert (that press release is the **2025** edition), KOUS November calendar (kh.or.kr error), Seoul Citizens Hall programme (contradictory closing days), Baejae Hakdang Museum (third-party hours only), Yeonghwiwon hours (royaltombs page 500).
+
+---
+
 ## Link-verification pass (Aug 17, 2026) — corrected & replaced sources
 
 Every source below was re-fetched. These entries had a **dead, hijacked, repurposed or simply wrong** official URL, and/or out-of-date prices and hours; all have been corrected in the city files.

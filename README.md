@@ -5,7 +5,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 > 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
 >
-> **Current inventory:** 640 numbered sections (594 + 46 district entries in [`seoul-districts.md`](seoul-districts.md), added and line-verified over two research rounds on Aug 19, 2026). ⛔ **Status correction:** the **National Hangeul Museum is closed until Oct 2028** after a 2025 fire — `seoul.md` #40 now says so. after the core-file rebuild, nearby-city additions, and the Aug 18 re-verification passes (Pass 37 added one official-source Jeonju musical). Counts will change only when unsupported entries are removed or official-source entries are added.
+> **Current inventory:** 660 numbered sections (594 + 66 district entries in [`seoul-districts.md`](seoul-districts.md), added and line-verified over three research rounds on Aug 19, 2026). ⛔ **Status correction:** the **National Hangeul Museum is closed until Oct 2028** after a 2025 fire — `seoul.md` #40 now says so. after the core-file rebuild, nearby-city additions, and the Aug 18 re-verification passes (Pass 37 added one official-source Jeonju musical). Counts will change only when unsupported entries are removed or official-source entries are added.
 >
 > ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
 >
@@ -13,7 +13,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 
 ---
 
-## 📂 What's in this repo (**640 numbered sections** across 15 city/district files; protocol pass complete)
+## 📂 What's in this repo (**660 numbered sections** across 15 city/district files; protocol pass complete)
 
 ### 🏙️ Core cities (the foundation — your main stops)
 
@@ -28,7 +28,7 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | File | What's inside |
 |---|---|
 | [`myeongdong.md`](myeongdong.md) | **38 numbered activity sections** for **Myeong-dong** district — shopping, street food, cathedral, and nearby Jeong-dong / Namdaemun (Jung-gu) |
-| [`seoul-districts.md`](seoul-districts.md) | **46 numbered activity sections** across **Dongdaemun · Hongdae/Mapo · Itaewon/Yongsan · Gangnam/Seocho** plus central Jung-gu/Jongno — per-district tables (location · dates · hours · official price · open/closed status). Two verification rounds, Aug 19, 2026 |
+| [`seoul-districts.md`](seoul-districts.md) | **66 numbered activity sections** across **Dongdaemun · Hongdae/Mapo · Itaewon/Yongsan · Gangnam/Seocho** plus central Jung-gu/Jongno — per-district tables (location · dates · hours · official price · open/closed status). Three verification rounds, Aug 19, 2026 |
 
 ### 🗺️ Nearby cities along & adjacent to your Seoul ↔ Busan route (10 cities)
 
