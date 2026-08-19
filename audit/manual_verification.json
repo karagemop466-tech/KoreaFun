@@ -82,5 +82,11 @@
     "reviewed_on": "2026-08-18",
     "scope": "All retained entries checked against organizer, city/tourism, museum, temple, park, league, or heritage sources. Duplicate local entries and far Chungcheong padding were removed. Asan, Gongju, and Buyeo are labeled day trips.",
     "reviewer_notes": "Wine EXPO Nov 6–8 is on the official English homepage. Noodle festival and O-World chrysanthemums stay TBA. Cheonan City FC Nov 8 is listed as check-the-match-center."
+  },
+  "seoul-districts.md": {
+    "status": "reviewed",
+    "reviewed_on": "2026-08-19",
+    "scope": "New district expansion file (Dongdaemun, Hongdae/Mapo, Itaewon/Yongsan, Gangnam/Seocho). All 25 entries were built from a deep official page fetched during passes 38-47: DDP/Seoul Design Foundation, Seoul Culture Portal, Seoul Museum of History (scwm), pungmul.or.kr, much.go.kr, parks.seoul.go.kr, mfac.or.kr, CBCK, YES24 official listing, NOL Ticket official notice, Amorepacific press plan, korea.kr/MOLIT, gugak.go.kr, visitsealife.com/coexaqua.com, temple.bongeunsa.org, sac.or.kr, ntck.or.kr.",
+    "reviewer_notes": "No entry was added without an official page. Unresolved fields are labelled: Yangnyeongsi admission fee, Dongdaemun History Museum hours, APMA Jonas Wood price, Mapo 투신 (season lineup only), Nodeul November program, SAC Re:Bound detail page, SAC monthly-series November pages, Gyeongui Line Book Street operator page. Trick Eye Museum, Seoul Central Masjid, KWANGYA@SEOUL and Gangnam TIC were checked and rejected for lack of an official source. DDP exhibition list returned HTTP 500 repeatedly."
   }
 }

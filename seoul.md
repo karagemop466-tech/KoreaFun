@@ -571,4 +571,4 @@ No prior-year pattern is labeled confirmed. Re-check Visit Seoul, the festival c
 
 ---
 
-**Back to:** [`README.md`](README.md) · [`myeongdong.md`](myeongdong.md) · [`itinerary.md`](itinerary.md) · [`walking-maps.md`](walking-maps.md)
+**Back to:** [`README.md`](README.md) · [`myeongdong.md`](myeongdong.md) · [`seoul-districts.md`](seoul-districts.md) *(Dongdaemun · Hongdae · Itaewon · Gangnam deep-dive, 25 entries)* · [`itinerary.md`](itinerary.md) · [`walking-maps.md`](walking-maps.md)

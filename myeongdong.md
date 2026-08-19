@@ -274,4 +274,4 @@ No event inferred from a prior year is labeled confirmed. Re-check the [Seoul cu
 
 ---
 
-**Back to:** [`README.md`](README.md) · [`seoul.md`](seoul.md) · [`itinerary.md`](itinerary.md) · [`walking-maps.md`](walking-maps.md)
+**Back to:** [`README.md`](README.md) · [`seoul.md`](seoul.md) · [`seoul-districts.md`](seoul-districts.md) *(Dongdaemun · Hongdae · Itaewon · Gangnam deep-dive, 25 entries)* · [`itinerary.md`](itinerary.md) · [`walking-maps.md`](walking-maps.md)

@@ -556,6 +556,42 @@ Official sources for the day-trip entries reaching beyond Daejeon and Cheonan in
 
 ---
 
+### Newly verified official sources (district expansion, Aug 19, 2026)
+
+Added with [`seoul-districts.md`](seoul-districts.md) — Dongdaemun, Hongdae/Mapo, Itaewon/Yongsan, Gangnam/Seocho. Every URL below was fetched on **Aug 19, 2026** and supports a specific claim in that file.
+
+| Place / event | Official source | What it proves |
+|---|---|---|
+| DDP "Dream in Light" | https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013 | Jan 9–Dec 31 2026, 18:00–22:00 hourly, free, content list |
+| DDP (site hours) | https://www.ddp.or.kr/?menuno=228 | 10:00–20:00; closed Jan 1 / Seollal / Chuseok |
+| DDP Architecture Tour 2026 | http://www.ddp.or.kr/?menuno=782 | Tue–Sun 10:30 KR / 13:30 EN / 15:30 KR, 60 min, **free**, ages 13+ |
+| Hanyangdoseong Museum | https://museum.seoul.go.kr/scwm/NR_index.do | 09:00–18:00 (last entry 17:30), free, closed Mon & Jan 1 |
+| Dongdaemun History Museum / Stadium Memorial | https://museum.seoul.go.kr/scwm/exhibition/ddmHistory/ddmExhGuide.jsp | Museum exists, contents, free, Seoul Museum of History branch |
+| Seoul Folk Flea Market | https://pungmul.or.kr/kwa-1117814-427 | 10:00–19:00, food alley to 22:00, weekend market 10:00–18:00, **closed Tuesdays** |
+| Seoul Yangnyeongsi Herbal Medicine Museum | https://www.much.go.kr/cooperation/net/swy.do | Address, Nov–Feb 10:00–17:00 winter hours |
+| Regallily, Hongdae, Nov 7 | https://ticket.yes24.com/Perf/59001 | Date, KT&G Sangsangmadang Hongdae Live Hall, 90 min, ₩88,000 |
+| Mapo Arts Center calendar (Mapo Music Gallery; negative evidence for 〈투신〉) | https://www.mfac.or.kr/performance/whole_list.jsp | Gallery Apr 10–Dec 31 10:00–18:00 free; **no November listing yet** |
+| Culture Tank / Oil Tank Culture Park | https://parks.seoul.go.kr/template/sub/culturetank.do | 24 h outdoor, free; tanks licensed-use since Apr 2025; tour Tue/Thu/Fri/Sat 10:00 & 15:00 |
+| Jeoldusan Martyrs' Shrine | https://cbck.or.kr/koreanmartyrs/Shrines/73 | 09:30–17:00, closed Mon, voluntary offering |
+| Musical 《Elisabeth》, Blue Square | https://tickets.interpark.com/contents/notice/detail/14348 · https://www.bluesquare.kr/ | Aug 16–Nov 15 2026, per-day times, VIP/R/S/A prices, 170 min, ages 8+ |
+| APMA — Jonas Wood | https://www.apgroup.com/int/ko/news/2025-12-22-2.html · https://apma.amorepacific.com/visit/guide.do | Sep 1 2026–Feb 28 2027; Tue–Sun 10:00–18:00, closed Mon |
+| Yongsan Children's Garden | https://www.korea.kr/news/policyNewsView.do?newsId=148957330 | Free, no reservation from Dec 30 2025, Tue–Sun 09:00–18:00 / Sat to 21:00, closed Mon |
+| Nodeul Island programme | https://nodeul.org/program/ | Negative evidence: no November 2026 listings at review |
+| National Gugak Center — 토요명품 | https://www.gugak.go.kr/site/program/performance/month_list?menuid=001001001&year=2026&month=11 | Nov 7 / 14 / 21, 15:00, Umyeondang, A ₩30,000 / B ₩20,000 |
+| Gugak Museum English Tours | https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37733 | Every Saturday 14:00, free, signup form |
+| SEA LIFE COEX Aquarium | https://www.visitsealife.com/coex-seoul/tickets-passes/ · https://www.coexaqua.com/plan-your-visit/before-you-visit/opening-hours/ | Full official price table; 10:00–20:00, last entry 19:00, 365 days |
+| Bongeunsa Temple Life (English) | http://temple.bongeunsa.org/public_html/explain/temple_life.asp | Thursdays 14:00–16:00, ₩30,000, English, programme breakdown |
+| SAC 《유리동물원》 | https://www.sac.or.kr/site/main/show/show_view?SN=83392 | Oct 17–Nov 22, times per weekday, R/S/A/OP prices, 120 min |
+| SAC 장애예술기획전 | https://www.sac.or.kr/site/main/show/show_view?SN=76434 | Oct 30–Nov 15, 10:00–19:00, closed Mon, free |
+| SAC 송현정 오보에 리사이틀 | https://www.sac.or.kr/site/main/show/show_view?SN=75581 | Nov 5, 19:30, Recital Hall, R ₩40,000 / S ₩20,000 |
+| SAC 2026 programme plan | https://www.sac.or.kr/site/main/content/2026_SACpresents | Re:Bound Oct 13–Nov 22; monthly-series weekday rules |
+| National Theater Company (Myeongdong Art Theater) | https://www.ntck.or.kr/ko/performance/info | Anthropolis IV Oct 28–Nov 21; Anthropolis V from Dec 2 |
+| Gyeongui Line Book Street (tourism-level only) | https://mediahub.seoul.go.kr/archives/1290354 · https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eb3c87c6-8662-4f21-9e28-1a6da338d367 | Address, Tue–Sun 11:00–20:00, closed Mon — operator page unreachable |
+
+**Rejected this pass (no official source found):** trickeye.com ticket/hours pages (404), Seoul Central Masjid visiting hours, KWANGYA@SEOUL hours, Gangnam Tourist Information Center hours. **Temporarily unavailable:** ddp.or.kr exhibition list (HTTP 500), sema.seoul.go.kr exhibition list (HTTP 500), apma.amorepacific.com/exhibition/current.do (error page), gbookst.or.kr, bluesquare.kr sub-pages (HTTP 500 to automated fetchers; the homepage works).
+
+---
+
 ## Link-verification pass (Aug 17, 2026) — corrected & replaced sources
 
 Every source below was re-fetched. These entries had a **dead, hijacked, repurposed or simply wrong** official URL, and/or out-of-date prices and hours; all have been corrected in the city files.
