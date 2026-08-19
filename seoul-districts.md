@@ -1,8 +1,10 @@
 # 🧭 Seoul district deep-dive — Dongdaemun · Hongdae/Mapo · Itaewon/Yongsan · Gangnam/Seocho
 
-**Trip window: Sat Oct 31 – Sun Nov 22, 2026** · **Built and line-verified on Aug 19, 2026 (Passes 38–47)**
+**Trip window: Sat Oct 31 – Sun Nov 22, 2026** · **Built and line-verified on Aug 19, 2026 (Passes 38–57)**
 
-This file is the district-level expansion requested for **Seoul, Myeong-dong, Dongdaemun, Hongdae, Itaewon and Gangnam**. It adds **25 new numbered entries** that are *not* already in [`seoul.md`](seoul.md) (100 entries) or [`myeongdong.md`](myeongdong.md) (38 entries), plus a Myeong-dong cross-reference section.
+This file is the district-level expansion requested for **Seoul, Myeong-dong, Dongdaemun, Hongdae, Itaewon and Gangnam**. It adds **46 numbered entries** that are *not* already in [`seoul.md`](seoul.md) (100 entries) or [`myeongdong.md`](myeongdong.md) (38 entries), plus a Myeong-dong cross-reference section.
+
+> **Two rounds of research are recorded here.** Entries **1–25** came from passes 38–47 (Aug 19). Entries **26–46** came from a second sweep, passes 48–57 (same day), over sources the first round had not exhausted: the Seoul Museum of History branch network, SeMA's live exhibition feed, COEX's November trade calendar, Yongsan national museums, Mapo city facilities, and Gangnam/Seocho district pages. Round 2 also produced **three corrections to `seoul.md`** — listed at the bottom of this file.
 
 Every line below was checked against a deep official page under the [manual verification protocol](audit/VERIFICATION-PROTOCOL.md). **Nothing here is guessed.** Where an official page does not publish a price or a November date, the entry says so instead of inventing one.
 
@@ -242,6 +244,219 @@ Every line below was checked against a deep official page under the [manual veri
 
 ---
 
+## 📊 Round-2 master table — 21 further entries (26–46), by district
+
+### 🏯 Central Seoul, walkable from Myeong-dong (Jung-gu · Jongno · Seodaemun)
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 26 | **Seoul Museum of History — 《서울도시계획 대관람》 (Seoul Urban Planning: The Grand View)** | Sinmunno 2-ga 55, beside Gyeonghuigung | **Aug 14 – Nov 8, 2026** | **09:00–18:00 (last entry 17:30); Fridays extended to 21:00** | **Free** | ✅ Open · closed Mon & Jan 1 |
+| 27 | **Gongpyeong Urban Archaeology Exhibition Hall** + 《태화관: 시간을 잇는 공간》 | Centropolis B1, Ujeongguk-ro 26 (Jonggak Stn) | Hall year-round; exhibition **Jun 26, 2026 – Mar 7, 2027** | **Tue–Sun 09:00–18:00** (last entry 17:30) | **Free** | 🔎 Open · closed Mon & Jan 1 |
+| 28 | **Seoul Museum of Korean Folk Music (서울우리소리박물관)** + 《다시, 아리랑》 | Yulgok-ro 96, opposite Changdeokgung | Exhibition **Jun 18, 2026 – May 30, 2027** | **Tue–Fri & Sun 09:00–18:00 (last 17:30); Sat 09:00–19:00 (last 18:30)** | **Free** | 🔎 Open · closed Mon & Jan 1 |
+| 29 | **Gyeongkyojang (경교장)** — Kim Ku's residence & assassination site | Gangbuk Samsung Hospital grounds, Saemunan-ro 29 | Year-round | **Tue–Sun 09:00–18:00** (last entry 17:30) | **Free**, no booking needed | 🔎 Open · closed Mon & Jan 1 |
+| 30 | **Baek Inje House (백인제가옥)** — 1913 Bukchon hanok | Bukchon-ro 7-gil 16 | Year-round | **Tue–Sun 09:00–18:00** (last entry 17:30) | **Free** | 🔎 Open · closed Mon (open if Mon is a holiday) |
+| 31 | **Dilkusha (딜쿠샤)** — 1923 red-brick house of Albert Taylor | Sajik-ro 2-gil 17, below Inwangsan | Year-round | **Tue–Sun 09:00–18:00** (last entry 17:30) | **Free**, free-flow visiting | 🔎 Open · closed Mon & Jan 1 |
+| 32 | **Seodaemun Prison History Hall — 《붉은 벽돌집》 special exhibition** | Tongil-ro 251, Ward 10 (10옥사), 1F | **Aug 15, 2026 – Dec 31, 2028** | **Winter (Nov–Feb) 09:30–17:00**, last entry 30 min before close | Site admission applies (see hall) | ✅ Open · closed Mon |
+
+### 🏬 Dongdaemun & east
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 33 | **Hyundai City Outlets Dongdaemun** | Jangchungdan-ro 13-gil 20 (DDHP Stn ex.14) | Year-round | **Mon–Thu 10:30–21:00 · Fri–Sun 10:30–21:30 · restaurant floor 10:30–21:30** | Free entry | 🔎 Open · closed Seollal & Chuseok day |
+| 34 | **Gyeongdong Market (경동시장)** + Starbucks Gyeongdong 1960 + LG Geumseong Radio Shop | Gosanja-ro 36-gil 3, Jegi-dong (Line 1 Jegi-dong ex.2) | Year-round | **Market 08:30–18:00** · Starbucks (old theatre, 3–4F) **09:00–23:00** · Radio repair-café 09:00–20:00 (workshops 11:00–19:00) | Market free; café normal prices | 🔎 Open |
+| 35 | **Cheonggyecheon Museum (청계천박물관)** | Cheonggyecheon-ro 530, Majang (east end of the stream) | Year-round | **Tue–Sun 09:00–18:00** (last entry 17:30); Korean docent 10:00 & 15:00 | **Free** | 🔎 Open · closed Mon & Jan 1 |
+
+### 🎸 Hongdae & Mapo
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 36 | **Seoul World Cup Stadium Tour** | World Cup-ro 240, Mapo (West Gate, 1F) | Year-round, non-match days | **10:00–15:00, four tours; lunch break 11:00–13:00** | **Adults ₩1,000 / children ₩500** (30% group discount), pay on site | 🔎 Running · book via yeyak.seoul.go.kr |
+| 37 | **Mangwon Market (망원시장)** | Poeun-ro 8-gil 14 / Poeun-ro 6-gil 27 (Line 6 Mangwon ex.2) | Year-round | **10:00–20:00**, no regular closing day (individual stalls vary) | Free entry | 🔎 Open |
+
+### 🕌 Itaewon & Yongsan
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 38 | **National Museum of Korea — Wednesday & Saturday night opening** | Seobinggo-ro 137 (Ichon Stn) | Every Wed & Sat of the trip | **Wed & Sat 09:30–21:00 (last entry 20:30)**; other days 09:30–17:30 (last 17:00) — **hours changed Mar 16, 2026** | **Free** (permanent galleries) | ✅ Running · Curator's Talk Wed 18:00 & 19:00 |
+| 39 | **National Hangeul Museum — ⛔ CLOSED** | Yongsan, next to the National Museum | **Closed for the whole trip** | — | — | ⛔ **Closed until Oct 2028** (Feb 2025 fire + extension works) |
+| 40 | **Itaewon Special Tourist Zone (이태원 관광특구)** | Itaewon-ro from Noksapyeong to Hannam-dong; **now includes Hangangjin** | Year-round | Street-level; shops typically 11:00–late | Free to walk | 🔎 Open · **expanded Dec 26, 2025 to 390,000 m²** |
+| 41 | **Theater YONG (극장 용), National Museum of Korea** | Museum 4F | — | — | — | ⏳ **No November 2026 programme published** at review |
+
+### 🏙️ Gangnam & Seocho
+
+| # | Entry | Exact location | Dates in window | Hours | Price (official) | Status |
+|---|---|---|---|---|---|---|
+| 42 | **Food Week Korea 2026** (21st Seoul Int'l Food Industry Exhibition) | COEX Halls A/B/C + The Platz | **Wed Nov 4 – Sat Nov 7, 2026** | Exhibition hours per organizer | **₩10,000** on-site admission; free for visitors with a disability card and elementary-age children (born 2014+); early-bird tiers cheaper; week pass 50% off | ✅ Confirmed |
+| 43 | **AIoT Korea Exhibition 2026** | COEX Hall D (3F) | **Tue Nov 3 – Thu Nov 5, 2026** | **10:00–17:00** | **Free with online pre-registration** (closes Nov 2, 18:00); **₩10,000 on-site** | ✅ Confirmed · **B2B: under-19s barred; students only Nov 5** |
+| 44 | **Some Sevit (세빛섬)** — floating islands at Banpo | Olympic-daero 2085-14, Seocho (south end of Banpo Bridge) | Year-round | **Daily 11:00–22:00** (individual venues differ) | **Outdoor viewing decks free**; restaurants/venues paid | 🔎 Open |
+| 45 | **Maeheon Yun Bong-gil Memorial Hall + Yangjae (Maeheon) Citizens' Forest** | Maeheon-ro 99, Seocho (Sinbundang Line Yangjae Citizens' Forest / Maeheon Stn ex.5) | Year-round; forest is a **November foliage** spot | **Nov–Feb 10:00–17:00** (Mar–Oct to 18:00), last entry 30 min before close | **Free** (park free; parking ₩300/10 min) | 🔎 Open · closed Mon, Jan 1, Seollal & Chuseok |
+| 46 | **K-Star Road (케이스타로드)** | Apgujeong Rodeo Stn → Cheongdam intersection, ~1 km, Gangnam-gu | Year-round | **Always open** (outdoor street) | **Free** | 🔎 Open |
+
+---
+
+## 🏯 Central Seoul (Myeong-dong side) — details
+
+### 26) 🗺️ **Seoul Museum of History — 《서울도시계획 대관람》 (Seoul Urban Planning: The Grand View)** — ✅ CONFIRMED — Aug 14 – Nov 8, 2026 · free
+- **What:** A special exhibition in **Gallery A** on the **1966 Seoul Basic Urban Plan** and how modern Seoul was drawn — the origin story of the city you are walking around. The museum's other special show, 《여민공수 與民共守》, moves to the Hanyangdoseong Museum (entry #4) and runs there to **Mar 7, 2027**.
+- **When:** **Aug 14 – Nov 8, 2026** — catches the first nine days of the trip.
+- **Hours/price:** **09:00–18:00, last entry 17:30. Free. Closed Mondays and Jan 1** (open if a Monday is a public holiday). ⭐ **Fridays are extended to 21:00** — a rare late-night free museum in central Seoul.
+- **Where:** Sinmunno 2-ga, beside Gyeonghuigung ([`seoul.md`](seoul.md) #33) and a 12-minute walk from Gwanghwamun.
+- **Official source (reviewed Aug 19, 2026):** [Seoul Museum of History](https://museum.seoul.go.kr/www/NR_index.do) — exhibition dates, gallery, hours block with the Friday extension · [exhibition schedule listing](https://museum.seoul.go.kr/www/exhibitPlan/NR_exhibitPlanList.do)
+
+### 27) 🏺 **Gongpyeong Urban Archaeology Exhibition Hall (공평도시유적전시관)** — 🔎 VERIFIED CITY MUSEUM — free
+- **What:** An entire excavated Joseon-era block — 108 building footprints, alleys and 1,000+ everyday objects — preserved *in situ* under the Centropolis office tower and opened as a museum in 2018. It is the single most surprising free thing between Insa-dong and Myeong-dong.
+- **Now showing:** 《태화관: 시간을 잇는 공간》 (Taehwagwan — the building where the 1919 Declaration of Independence was read), **Jun 26, 2026 – Mar 7, 2027**, so it covers the whole trip.
+- **Hours/price:** **Tue–Sun 09:00–18:00, last entry 17:30. Free. Closed Mondays and Jan 1.** Docent talks at 11:00, 14:00 and 16:00 (book on yeyak.seoul.go.kr; walk-in viewing always allowed).
+- **Official sources (reviewed Aug 19, 2026):** [Seoul Museum of History — Gongpyeong branch page](https://museum.seoul.go.kr/m/annex/gongpyeong.jsp) (address, Tue–Sun 09:00–18:00, free) · [visitor guide](https://museum.seoul.go.kr/www/intro/annexIntro/annex_gongpyeong/annex_gongpyeong_01.jsp) · [exhibition dates](https://museum.seoul.go.kr/www/NR_index.do)
+
+### 28) 🎵 **Seoul Museum of Korean Folk Music (서울우리소리박물관)** — 🔎 VERIFIED CITY MUSEUM — free
+- **What:** A hanok-style museum devoted to Korean folk song, with 20,000+ archival recordings you can sit and listen to. Directly opposite **Changdeokgung**, so it slots into the palace day already in [`seoul.md`](seoul.md) #30.
+- **Now showing:** 2026 special exhibition **《다시, 아리랑》 (Arirang, Again)**, marking the centenary of the film *Arirang* — **Jun 18, 2026 – May 30, 2027**.
+- **Hours/price:** **Tue–Fri and Sun 09:00–18:00 (last entry 17:30); Saturday 09:00–19:00 (last entry 18:30). Free. Closed Mondays and Jan 1.**
+- **Official sources (reviewed Aug 19, 2026):** [Seoul Museum of Korean Folk Music](http://gomuseum.seoul.go.kr/sekm/front/main.do?locale=KO) (hours incl. the Saturday extension, free) · [branch visitor page](https://museum.seoul.go.kr/www/intro/annexIntro/sekm/sekm1.jsp) · [exhibition dates](https://museum.seoul.go.kr/www/NR_index.do)
+
+### 29) 🇰🇷 **Gyeongkyojang (경교장)** — 🔎 VERIFIED HISTORIC HOUSE — free
+- **What:** The Seoul residence and de-facto seat of the Provisional Government's **Kim Ku** after 1945 — and the room where he was assassinated in 1949, preserved with the bullet hole in the window. Restored and run as a Seoul Museum of History branch inside the Gangbuk Samsung Hospital grounds, five minutes from Gwanghwamun.
+- **Hours/price:** **Tue–Sun 09:00–18:00, last entry 17:30. Free. No reservation — free-flow viewing. Closed Mondays** (except public holidays) **and Jan 1.**
+- **Guided talks (free):** Korean **weekdays 11:00 and 15:00, weekends 11:00**; **Japanese Wednesdays 15:00; Chinese Thursdays 15:00.** No English slot is listed.
+- **Official sources (reviewed Aug 19, 2026):** [Gyeongkyojang operating guide](https://museum.seoul.go.kr/www/intro/annexIntro/annex_21/annex_21_01.jsp) · [branch reservation page with the docent timetable](https://museum.seoul.go.kr/www/guide/reserveInfo.jsp)
+
+### 30) 🏡 **Baek Inje House (백인제가옥)** — 🔎 VERIFIED HANOK — free
+- **What:** The grandest surviving 1913 hanok in **Bukchon** — 2,460 m² of grounds, built with Amur-pine timber, later home to the founder of Paik Hospital. Bukchon itself is in [`seoul.md`](seoul.md) #74; this is the one house you can actually go inside.
+- **Hours/price:** **Tue–Sun 09:00–18:00, last entry 17:30. Free. Closed Mondays** (open when a Monday is a public holiday) **and Jan 1.**
+- **⚠️ Access rule that trips people up:** the grounds and exteriors are free-flow, but **the interiors of the anchae and sarangchae can only be entered on a booked docent tour** (Tue–Fri 10:00, 11:00, 12:00, 13:00; weekends and holidays 11:00, 14:00, 15:00, 16:00), reserved **only** through Seoul's public-service reservation site.
+- **Official sources (reviewed Aug 19, 2026):** [Baek Inje House visitor guide](https://museum.seoul.go.kr/www/intro/annexIntro/annex_22/annex_22_01.jsp) (free, hours, interior-access rule) · [docent timetable](https://museum.seoul.go.kr/www/guide/reserveInfo.jsp)
+
+### 31) 🧱 **Dilkusha (딜쿠샤)** — 🔎 VERIFIED HISTORIC HOUSE — free
+- **What:** The 1923 red-brick house of **Albert W. Taylor**, the UPI correspondent who smuggled news of the 1919 March First Movement out of Korea, and his wife Mary. Rediscovered, restored and opened as a museum in **March 2021**. It sits under Inwangsan next to the 520-year-old Haengchon ginkgo — pair it with the Inwangsan / city-wall walk in [`seoul.md`](seoul.md) #67.
+- **Hours/price:** **Tue–Sun 09:00–18:00, last entry 17:30. Free, free-flow viewing. Closed Mondays** (open if a public holiday) **and Jan 1.**
+- **Free guided talks:** weekdays 10:00, 13:30, 15:00, 16:30; weekends 10:00 and 15:00 (book via yeyak.seoul.go.kr).
+- **Official sources (reviewed Aug 19, 2026):** [Dilkusha visitor guide](https://museum.seoul.go.kr/www/intro/annexIntro/annex_dilkusha/annex_dilkusha_01.jsp) · [docent timetable](https://museum.seoul.go.kr/www/guide/reserveInfo.jsp)
+
+### 32) 🧱 **Seodaemun Prison History Hall — 《붉은 벽돌집》** — ✅ CONFIRMED LONG RUN — from Aug 15, 2026
+- **What:** A new long-run special exhibition, **《붉은 벽돌집》 ("The Red Brick House")**, installed on the 1st floor of **Ward 10 (10옥사)** at the colonial-era prison museum. Runs **Aug 15, 2026 – Dec 31, 2028**, so it is guaranteed to be on during your trip.
+- **⚠️ Winter hours apply to your whole trip:** **Nov–Feb 09:30–17:00** (Mar–Oct 09:30–18:00), **last admission 30 minutes before closing. Closed Mondays** (next day if the Monday is a holiday), Jan 1, Seollal and Chuseok.
+- **Price:** the site charges a modest admission (the special exhibition is inside the normal route) — check the operator's 관람료 page before you go; this pass verified the exhibition, hours and closures but not a current fee figure.
+- **Official source (reviewed Aug 19, 2026):** [Seodaemun Prison History Hall — official site (Seodaemun-gu Facilities Corp.)](https://sphh.sscmc.or.kr/) — current exhibition block, seasonal hours, closing days
+
+---
+
+## 🏬 Dongdaemun & east — details
+
+### 33) 🛍️ **Hyundai City Outlets Dongdaemun** — 🔎 VERIFIED OPERATOR
+- **What:** The department-store group's outlet mall right at Dongdaemun History & Culture Park — the calm, air-conditioned counterweight to the wholesale market chaos, and the easiest place near DDP to eat at a normal hour.
+- **Hours (official store page):** **Mon–Thu 10:30–21:00 · Fri–Sun 10:30–21:30 · restaurant floor 10:30–21:30.** Closed only on Seollal and Chuseok day (the group also posts occasional single closing days on the branch page).
+- **Where:** Jangchungdan-ro 13-gil 20 — DDHP Station exit 14, ~280 m; a 4-minute walk from DDP's *Dream in Light* (entry #1).
+- **Official source (reviewed Aug 19, 2026):** [Hyundai Outlet Dongdaemun branch page](https://www.ehyundai.com/newPortal/outlet/DP/DP000000_V.do?branchCd=B00173000) (weekday/weekend hours, restaurant floor, address)
+
+### 34) 🌿 **Gyeongdong Market + Starbucks Gyeongdong 1960** — 🔎 VERIFIED MARKET
+- **What:** A 1960-founded market that is now the country's biggest medicinal-herb and produce bazaar — and the site of Korea's most famous adaptive reuse: **Starbucks Gyeongdong 1960**, built inside the derelict Gyeongdong Theater, where you sit in raked cinema seating facing the old stage. In the same building, **LG's Geumseong Radio Shop** repair-and-craft space runs free/low-cost workshops.
+- **Hours (Seoul city listing):** **market 08:30–18:00** daily (stalls vary — go before 17:00); **Starbucks 09:00–23:00**; radio shop 09:00–20:00 with hands-on sessions 11:00–19:00.
+- **Where:** Gosanja-ro 36-gil 3, Dongdaemun-gu — **Line 1 Jegi-dong exit 2**, and only a few hundred metres from the Yangnyeongsi herbal-medicine museum (entry #6). Do both in one loop.
+- **Official source (reviewed Aug 19, 2026):** [Seoul Metropolitan Government — "내 손안에 서울" market feature with the hours block](https://opengov.seoul.go.kr/mediahub/27995898) · market association kyungdongmart.com
+
+### 35) 🌊 **Cheonggyecheon Museum (청계천박물관)** — 🔎 VERIFIED CITY MUSEUM — free
+- **What:** The museum of the stream itself: how Cheonggyecheon was covered by an elevated motorway, how the shanty communities along it lived, and how it was uncovered again in 2005. Best done *after* walking the stream ([`seoul.md`](seoul.md) #64) — it is at the far eastern end, past Dongdaemun.
+- **Hours/price:** **Tue–Sun 09:00–18:00, last entry 17:30. Free. Closed Mondays and Jan 1.** Korean guided tours of the permanent gallery at **10:00 and 15:00** (~40 min), meeting at the 4F entrance.
+- **Note:** the temporary show 《청계천의 별이 된 노무라 모토유키》 closes **Oct 11, 2026**, before you arrive; the permanent galleries are the reason to go.
+- **Official sources (reviewed Aug 19, 2026):** [Cheonggyecheon Museum](https://museum.seoul.go.kr/cgcm/index.do) (hours, docent times, free) · [Seoul museums directory](http://gomuseum.seoul.go.kr/web/museum/museumView.do?menuCd=MN00000014&museumId=222)
+
+---
+
+## 🎸 Hongdae & Mapo — details
+
+### 36) ⚽ **Seoul World Cup Stadium Tour** — 🔎 VERIFIED CITY OPERATOR — ₩1,000
+- **What:** A guided walk through the 2002 World Cup stadium in Mapo: main bowl, **FC Seoul's dressing room**, the 2002 dressing room, video room, history exhibit and shop. For ₩1,000 it is arguably the best-value hour in Seoul, and it is 15 minutes from Hongdae on Line 6.
+- **Hours/price (Visit Seoul official listing):** **10:00–15:00, four tours a day, with an 11:00–13:00 lunch break. Adults ₩1,000, children ₩500, 30% group discount (10+). Paid on site by cash or card**, at the **West Gate stadium-tour lobby**, World Cup-ro 240.
+- **⚠️ Two things to confirm before going:** the Seoul city magazine describes the tour as running **Wednesdays and Saturdays** and **not on K League match days**, with **advance booking through Seoul's public-service reservation site (yeyak.seoul.go.kr) — no same-day booking**. Treat Wed/Sat + pre-booking as the working assumption and call **02-2128-2090**.
+- **Official sources (reviewed Aug 19, 2026):** [Visit Seoul — Seoul World Cup Stadium tour (hours, fee, course)](https://english.visitseoul.net/entertainment/Seoul-World-Cup-Stadium/ENP002101) · [Seoul Mediahub — city article on operating days and booking](https://mediahub.seoul.go.kr/archives/2007882) · venue operator [Seoul Facilities Corporation](https://www.sisul.or.kr/open_content/worldcup/guidance/subst.jsp)
+
+### 37) 🥟 **Mangwon Market (망원시장)** — 🔎 VERIFIED MARKET
+- **What:** The neighbourhood market that locals actually shop in, one stop past Hongdae — croquettes, fried chicken, tteokbokki, cheap produce, and none of the tour-group pressure of Gwangjang. Ten minutes' walk from the Gyeongui Line Forest Park in [`seoul.md`](seoul.md) #75, and a natural pairing with Jeoldusan (entry #11) on the same Mapo afternoon.
+- **Hours/price:** **10:00–20:00, open year-round with no regular closing day** — individual stalls set their own hours, so late evening thins out. Free to enter; food is cash-friendly, ₩2,000–6,000 a snack.
+- **Where:** Poeun-ro 8-gil 14 / Poeun-ro 6-gil 27, Mapo-gu — **Line 6 Mangwon exit 2**, ~5 min. Enquiries 02-335-3591.
+- **Official source (reviewed Aug 19, 2026):** [Seoul Mediahub — Mangwon Market listing (address, hours, no closing day)](https://mediahub.seoul.go.kr/archives/2010536)
+
+---
+
+## 🕌 Itaewon & Yongsan — details
+
+### 38) 🌙 **National Museum of Korea — Wednesday & Saturday night opening** — ✅ RUNNING — free
+- **What:** The single best free evening in Yongsan. The National Museum stays open to **21:00 on Wednesdays and Saturdays**, and on Wednesday nights runs **"Curator's Talk" sessions at 18:00–18:30 and 19:00–19:30**. The Ten-Story Pagoda hall and the outdoor garden lit at night are worth the trip on their own.
+- **⚠️ Hours changed on Mar 16, 2026** — the museum now opens **09:30–17:30 (last entry 17:00)** on Mon, Tue, Thu, Fri and Sun, and **09:30–21:00 (last entry 20:30)** on Wed and Sat. Guides published before March 2026 still say 10:00–18:00. In 2026 the galleries also close on **Jun 1, Sep 7 and Dec 7** — none of which fall in your trip, so **the museum is open every day you are here**.
+- **Nights in your window:** Wed **Nov 4, 11, 18** and Sat **Oct 31, Nov 7, 14, 21**.
+- **Price:** **free** for the permanent galleries (ticketed special exhibitions are separate; see [`seoul.md`](seoul.md) #17 and #18 for the two free themed shows running during the trip).
+- **Official sources (reviewed Aug 19, 2026):** [National Museum of Korea official blog — Mar 13, 2026 notice of the new hours (KR/EN) and the 2026 closure dates](https://m.blog.naver.com/100museum/224215257883) · [museum.go.kr](https://www.museum.go.kr) · curator-talk schedule on the museum's visitor pages
+
+### 39) ⛔ **National Hangeul Museum — CLOSED until October 2028** — ⚠️ STATUS CORRECTION
+- **What:** The Korean-alphabet museum next door to the National Museum, listed in most guidebooks (and in [`seoul.md`](seoul.md) #40) as a normal stop. **You cannot visit it on this trip.**
+- **Why:** it closed in **October 2024** for an extension, then a **fire on Feb 1, 2025** during welding work destroyed the third-floor children's gallery and ceiling. After a detailed structural inspection the museum announced design work from Oct 2025, **construction starting July 2026**, and **reopening in October 2028**. Total cost ~₩17.5 bn. No artefacts were lost — about 90,000 items are held at the National Museum, National Folk Museum and the National Museum of World Writing Systems.
+- **What still runs:** exhibitions and classes continue in borrowed spaces — online classes from Culture Station Seoul 284's studio, foreigner and elementary classes at the National Folk Museum, and the 2026 anniversary special exhibitions (580 years of Hunminjeongeum, the Hangeul Day centenary) hosted at the **National Folk Museum, the National Museum of Korean Contemporary History and the National Museum of World Writing Systems**.
+- **Official sources (reviewed Aug 19, 2026):** [Korea Herald report of the museum's own Sep 9, 2025 briefing](https://www.koreaherald.com/article/10571860) · [Asiae English report of the same briefing](https://www.asiae.co.kr/en/article/2025090914504699999) · [Edaily — director Kang Jeong-won's reopening timetable](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04316486642298480)
+
+### 40) 🌏 **Itaewon Special Tourist Zone — expanded** — 🔎 VERIFIED DESIGNATION
+- **What:** Itaewon has been a designated **Special Tourist Zone since September 1997** (Itaewon-dong and Hannam-dong, ~1.4 km from the top of Itaewon-ro to Hannam-dong community centre). The practical effect for you: shops in the zone may open longer hours, foreign currency is widely accepted, and the district staffs a tourist information centre (02-3785-0942).
+- **What changed:** on a **Seoul city notice dated Dec 26, 2025**, the zone was **enlarged to 390,000 m²** (from 380,000) to take in the **Hangangjin Station area — which now puts Leeum ([`seoul.md`](seoul.md) #12/#16) and Blue Square (entry #13) inside the zone**. Yongsan-gu announced the change on Jan 8, 2026.
+- **Price/hours:** free, always open; individual venues vary.
+- **Sources (reviewed Aug 19, 2026):** [Yonhap — Yongsan-gu announcement, Jan 8, 2026](https://www.yna.co.kr/view/AKR20260108020400004) · [Yonhap press-release wire version](https://www.yna.co.kr/view/RPR20260108001600353) · [Shinailbo report of the same district briefing](https://www.shinailbo.co.kr/news/articleView.html?idxno=2174687)
+
+### 41) 🎭 **Theater YONG (극장 용)** — ⏳ NOVEMBER PROGRAM NOT POSTED
+- **What:** The 800-seat theatre on the 4th floor of the National Museum of Korea, programmed by the National Museum Foundation — family musicals, film-score concerts and "Museum Moment" lecture-concerts (2026 examples: *Taekwon, Fly High* ₩44,000–77,000; Museum Moment ₩30,000 all seats).
+- **Verification status (Aug 19, 2026):** the museum's performance pages list nothing after **Aug 30, 2026**. There is **no published November programme**, so no dated claim is made here.
+- **What to do:** check in October; a show here is the natural evening pairing with the Wednesday/Saturday night opening (entry #38).
+- **Official source (reviewed Aug 19, 2026):** [National Museum of Korea — performances](https://www.museum.go.kr/MUSEUM/contents/M0402030000.do?cp=)
+
+---
+
+## 🏙️ Gangnam & Seocho — details
+
+### 42) 🍜 **Food Week Korea 2026** — ✅ CONFIRMED — Wed Nov 4 – Sat Nov 7, 2026
+- **What:** The 21st Seoul International Food Industry Exhibition and the country's largest general food fair — about **1,000 exhibitors from 30 countries**, themed "Taste the Innovation" (AI food automation, next-generation K-food, premium food culture). Unlike the Cafe Show ([`seoul.md`](seoul.md) #7) it is **open to the general public on all four days**.
+- **When/where:** **Nov 4–7, 2026**, COEX **Halls A, B, C and The Platz**, Samseong-dong — the same complex as Starfield Library and the aquarium (entry #19).
+- **Price:** **₩10,000 admission**; a **week pass** (unlimited re-entry) is sold at 50% off; tiered early-bird pricing ran to Nov 3. **Free entry for visitors with a disability card and for elementary-school children (born 2014 or later).** Coex's own listing quotes ₩10,000 general / ₩8,000 for students and groups of 30+.
+- **⚠️ Nov 4 also has**: nothing else in this guide — a good "spare day" filler. **Nov 7 is the trip's most congested day**, so go Wed–Fri.
+- **Official sources (reviewed Aug 19, 2026):** [Food Week Korea — official visitor page with the ₩10,000 ticket table](http://www.foodweek.co.kr/visitor/visiting-the-show/) · [Coex exhibition page (fee: general ₩10,000 / student & 30+ group ₩8,000)](https://www.coex.co.kr/exhibitions/푸드위크-코리아/) · organizer announcement of Nov 4–7 and the discount tiers via [VentureSquare, Aug 6, 2026](https://www.venturesquare.net/1104165)
+
+### 43) 🤖 **AIoT Korea Exhibition 2026** — ✅ CONFIRMED — Tue Nov 3 – Thu Nov 5, 2026
+- **What:** Korea's AI-and-IoT industry exhibition and conference, run by the Korea AIoT Association at COEX. Included because it is **free with pre-registration** and lands on two otherwise empty trip days.
+- **When/where:** **Nov 3–5, 2026, 10:00–17:00**, **COEX Hall D (3F)**.
+- **Price:** **free with online pre-registration** (registration closes **Mon Nov 2 at 18:00**); **₩10,000 at the door**.
+- **⚠️ It is a strict B2B show:** **high-school age and under are refused entry**, and **university/graduate students are admitted only on the final day, Nov 5**. Bring business cards.
+- **Official source (reviewed Aug 19, 2026):** [AIoT Korea 2026 — official visitor information](https://www.aiotkorea.or.kr/2026/kor/about/information.asp) (dates, hall, hours, free-with-pre-registration rule, on-site fee, age restriction)
+
+### 44) 🌉 **Some Sevit (세빛섬)** — 🔎 VERIFIED CITY FACILITY
+- **What:** Three linked artificial islands moored in the Han River at the south end of Banpo Bridge — Gavit, Chavit and Solvit, plus the media-art island Yevit. Restaurants and event halls inside; the reason to go is the **free outdoor deck** and the night view back at the bridge and the Gangnam skyline.
+- **Hours/price:** **daily 11:00–22:00** as a site (each tenant sets its own hours and closing days — Solvit is listed as closed Mondays). **The outdoor viewing areas are free.**
+- **⚠️ Seasonal note:** the Banpo Bridge **Rainbow Fountain runs April–October only** and will be off during your trip — see the "just outside the window" list in [`seoul.md`](seoul.md).
+- **Where:** Olympic-daero 2085-14, Seocho-gu; 15 min walk from **Express Bus Terminal Station exit 8-1**. Enquiries 1566-3433.
+- **Official sources (reviewed Aug 19, 2026):** [Seoul Metropolitan Government Hangang office — Some Sevit facility page (hours, free outdoor viewing)](https://hangang.seoul.go.kr/www/contents/804.do?mid=622) · [Hangang water-facility listing (per-island operation)](https://hangang.seoul.go.kr/www/contents/804.do?mid=528) · operator somesevit.co.kr
+
+### 45) 🍁 **Maeheon Yun Bong-gil Memorial Hall + Yangjae (Maeheon) Citizens' Forest** — 🔎 VERIFIED MEMORIAL — free
+- **What:** A free memorial museum to **Yun Bong-gil**, the independence activist who bombed the Japanese victory ceremony in Shanghai's Hongkou Park in 1932, standing inside **Yangjae Citizens' Forest** — one of Seoul's best-known **autumn-foliage parks**, with ginkgo and metasequoia avenues that peak in **early-to-mid November**, i.e. exactly your window.
+- **Hours/price:** **Nov–Feb 10:00–17:00** (Mar–Oct 10:00–18:00), **last entry 30 minutes before closing. Free. Closed Mondays** (open if the Monday is a holiday, closed the next day), Jan 1, and the Seollal/Chuseok holidays. Parking ₩300 per 10 min, ₩10,000/day.
+- **Getting there:** **Sinbundang Line, Yangjae Citizens' Forest (Maeheon) Station exit 5**, ~50–180 m. Enquiries 02-578-3388.
+- **Official source (reviewed Aug 19, 2026):** [Seoul Metropolitan Government 120 service — memorial hall information (seasonal hours, closures, free admission, directions)](https://opengov.seoul.go.kr/civilappeal/2898608)
+
+### 46) 🌟 **K-Star Road (케이스타로드)** — 🔎 VERIFIED DISTRICT PROJECT — free
+- **What:** Gangnam-gu's Hallyu street: roughly **1 km from Apgujeong Rodeo Station to the Cheongdam intersection**, lined with **"GangnamDol"** bear-style art toys representing K-pop groups, plus signposts to agencies, star-frequented shops and kiosk info points. The starting point is the **GangnamDol House** at Apgujeong-ro 343 (10:00–19:00, lunch 13:00–14:00), which stocks the free guidebook and miniature figures.
+- **Hours/price:** **always open, free** — it is a public street.
+- **⚠️ Expectation management:** this is a **signposted walk, not an attraction**; the figures are individual sculptures along a busy road, some have been moved during construction over the years, and the surrounding draw is really Apgujeong/Cheongdam shopping. Verify the current figure line-up in the district's own guide before making a special trip.
+- **Official sources (reviewed Aug 19, 2026):** [Gangnam-gu official K-Star Road guide](https://www.gangnam.go.kr/etc/k_star_road/files/basic-html/page6.html) · [Visit Gangnam (district tourism portal)](https://visitgangnam.net/) · [Korea Tourism Organization listing](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192985)
+
+---
+
+## 🛠️ Corrections this round made to `seoul.md`
+
+Round 2 found three things in the main Seoul file that were incomplete or misleading. All three are now fixed in [`seoul.md`](seoul.md):
+
+| Entry | Was | Now |
+|---|---|---|
+| **#40 National Hangeul Museum** | Listed as a normal "verified museum" to visit | **Marked ⛔ CLOSED until October 2028** (Feb 2025 fire + extension); pointer to where its exhibitions are being hosted |
+| **#39 National Museum of Korea** | Only "open late to 21:00 on Wed and Sat" | Full post-**Mar 16, 2026** hours added: 09:30–17:30 daily / 09:30–21:00 Wed & Sat, last entry 30 min before close; 2026 Monday closures noted (none in the trip window) |
+| **#41 War Memorial of Korea** | "free; closed Monday", no hours | Hours added from the operator: **09:30–18:00, last admission 17:00**, closing begins 17:40; outdoor exhibits sunrise–sunset; free Children's Museum hourly from 10:00 |
+
+---
+
 ## 🛍️ Myeong-dong — what's already covered, and what's new to know
 
 Myeong-dong's 38 entries live in [`myeongdong.md`](myeongdong.md) and were re-verified on Aug 18, 2026 — shopping streets, street-food stalls, Myeongdong Cathedral and the 1898 complex, NANTA, Myeongdong Theater, Namdaemun Market, Namsangol Hanok Village, Bank of Korea Money Museum, Deoksugung and the Jeong-dong walk. This pass did not find duplicate-free *new* Myeong-dong attractions worth adding, but it did confirm three timing facts that change how you use that file:
@@ -265,6 +480,12 @@ Honest negatives matter more than a bigger number:
 | **DDP paid exhibitions for November** | ddp.or.kr's exhibition list returned HTTP 500 repeatedly on Aug 19. The confirmed DDP items here (#1, #2) are the free ones with live official pages. Re-check the DDP programme page in October. |
 | **COEX November trade shows** | The Coex events calendar only renders August–September at present; no November listing exists to cite. The Seoul International Cafe Show (Nov 11–14) is already `seoul.md` #7. |
 | **A single "adult" COEX Aquarium price** | Not printed on the operator's page — see the note in #19 rather than an invented ₩35,000. |
+| **Doota Mall (Dongdaemun)** *(round 2)* | doota-mall.com returned an empty page. A fact-check site quotes an official 10:30–24:00, but no operator page could be opened — so no hours claim is made. |
+| **Rolling Hall / Sangsangmadang November line-ups beyond entry #7** *(round 2)* | Ticketing platforms show no November 2026 dates for these Hongdae venues yet. The 31st-anniversary Rolling Hall shows have no published dates. |
+| **Metacomedy Club Hongdae** *(round 2)* | Only wiki-level sourcing; Korean-language stand-up anyway. |
+| **FC Seoul November home match (Mapo)** *(round 2)* | K League 1 final-round fixtures for rounds 35 (Nov 7–8) and 36 (Nov 21–22) exist, but **home/away pairings are only set after round 33** — nothing to book yet. Stays 👀 in [`seoul.md`](seoul.md) #79. |
+| **Blue Square NEMO exhibition** *(round 2)* | The last NEMO show closed Sep 6, 2026 and the space is being offered for rental — no November programme. |
+| **National Library of Korea (Seocho)** *(round 2)* | Access rules and hours differ per reading room and change often; nothing clean enough to publish. |
 
 ## 📆 Just outside the window (verified, for context)
 
@@ -276,6 +497,11 @@ Honest negatives matter more than a bigger number:
 - **Seoullight DDP Winter** — official festival calendar shows the winter edition from **Dec 17, 2026**, with a New Year countdown on Dec 31.
 - **Mapo Arts Center MAC Morning Concert #9 — Nov 25, 2026, 11:00, ₩20,000** — three days after departure.
 - **《Anthropolis V》 at Myeongdong Art Theater — from Dec 2, 2026.**
+- **Seoul Design Festival 2026** — COEX, **Nov 25–29, 2026**, three days after departure.
+- **Cheonggyecheon Museum's 《노무라 모토유키》 special exhibition** — ends **Oct 11, 2026**.
+- **SeMA main-branch 《유영국: 산은 내 안에 있다》** (to **Oct 25**) and **《마틴 파: We Are Martin Parr》** at the Seoul Museum of Photography (to **Oct 18**) — both close before you land.
+- **2026 Title Match 《오인환 vs. 장서영》** at SeMA Buk-Seoul — ends **Oct 25, 2026**.
+- **Mapo Arts Center MAC Morning Concert #9** — Nov 25; **《공놀이클럽의 사계절 체홉: 갈매기》** — Nov 29, ₩20,000.
 
 ---
 
@@ -291,6 +517,11 @@ Honest negatives matter more than a bigger number:
 | #25 SAC monthly series | sac.or.kr | November 11 o'Clock / Saturday Concert pages |
 | DDP paid exhibitions | ddp.or.kr programme | Whatever replaces the summer shows |
 | #12 Book Street hours | gbookst.or.kr | Confirm 11:00–20:00 |
+| #9 / #41 November programmes | mfac.or.kr · museum.go.kr | Mapo 〈투신〉 and Theater YONG November listings |
+| #32 Seodaemun Prison fee | sphh.sscmc.or.kr | Current admission price |
+| #36 Stadium tour days | yeyak.seoul.go.kr | Confirm Wed/Sat operation and book ahead |
+| #42 Food Week ticket tier | foodweek.co.kr | Final on-site price and hall hours |
+| #46 K-Star Road figures | visitgangnam.net | Which GangnamDol are actually installed |
 
 ---
 

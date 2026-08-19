@@ -242,16 +242,20 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **What:** Korea's flagship national collection at Ichon (Line 4 / Gyeongui-Jungang). **Permanent galleries are free.** Two themed shows inside them run during your trip — see entries **17** (Chusa calligraphy, to Nov 22) and **18** (newly donated works, to Nov 15).
 - **⚠️ Major gallery closures during your trip — plan around this.** The museum is renovating its Buddhist painting and sculpture halls, so on **level 2** the Calligraphy/Painting rooms 202-3·4, **Buddhist Painting room (203)** and **Wood & Lacquer Crafts room (204)**, and on **level 3** the **Buddhist Sculpture room (301)**, **Metal Crafts room (302)** and 공간_사이 are **closed from Jul 6, 2026 until Jan 28, 2027** — i.e. the entire trip. The rooms reopen **Jan 29, 2027**. If you came for the gilt-bronze Pensive Bodhisattvas, check the museum's notice before travelling.
 - **Still open and worth it:** the Prehistoric/Ancient and Medieval galleries, the celadon and 분청사기·백자 rooms (which have their own themed show 《사계절 푸른 대나무》 to Jan 31, 2027), and the Ten-Story Pagoda in the Great Hall.
-- **Hours:** open late to **21:00 on Wednesdays and Saturdays** — the easiest way to fit it around a busy day.
-- **Official sources (reviewed Aug 18):** [museum.go.kr](https://www.museum.go.kr) · [Current exhibitions list](https://www.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current) · closure announced on the museum's own channels Aug 6, 2026
+- **Hours (changed Mar 16, 2026 — older guides are wrong):** **Mon, Tue, Thu, Fri, Sun 09:30–17:30 (last entry 17:00); Wed & Sat 09:30–21:00 (last entry 20:30)**. Outdoor garden 07:00–22:00. Wednesday night also has **Curator's Talk at 18:00 and 19:00**. The 2026 gallery closure days are Jun 1, Sep 7 and Dec 7 — **none in your window, so it is open every day of the trip**.
+- **Official sources (reviewed Aug 19, 2026):** [museum.go.kr](https://www.museum.go.kr) · [Current exhibitions list](https://www.museum.go.kr/MUSEUM/contents/M0202010000.do?menuId=current) · [museum's official blog, Mar 13, 2026 — new opening hours and 2026 closure dates](https://m.blog.naver.com/100museum/224215257883) · gallery-renovation closure announced on the museum's own channels Aug 6, 2026
 
-### 40) 🔤 **National Hangeul Museum** — 🔎 VERIFIED NATIONAL MUSEUM
-- **What:** Museum of the Korean alphabet, next to the National Museum.
-- **Official source (reviewed Aug 17):** [hangeul.go.kr](https://www.hangeul.go.kr)
+### 40) ⛔ **National Hangeul Museum** — **CLOSED FOR YOUR ENTIRE TRIP** — reopening Oct 2028 · CORRECTED Aug 19
+- **What:** Museum of the Korean alphabet, next to the National Museum. **Do not plan a visit — the building is shut.**
+- **Why:** closed since **October 2024** for an extension, then a **fire on Feb 1, 2025** during construction wrecked the 3rd-floor children's gallery and ceiling. After a structural inspection the museum announced construction starting **July 2026** and **reopening in October 2028** (~₩17.5 bn). No artefacts were lost; ~90,000 items are held at the National Museum, National Folk Museum and the National Museum of World Writing Systems.
+- **Where its programming went:** online classes from Culture Station Seoul 284's studio; foreigner/elementary classes at the National Folk Museum; the 2026 anniversary special exhibitions at the National Folk Museum, the National Museum of Korean Contemporary History and the National Museum of World Writing Systems.
+- **Official sources (reviewed Aug 19, 2026):** [Korea Herald on the museum's Sep 9, 2025 briefing](https://www.koreaherald.com/article/10571860) · [Asiae English](https://www.asiae.co.kr/en/article/2025090914504699999) · [Edaily — director's timetable](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04316486642298480) · [hangeul.go.kr](https://www.hangeul.go.kr)
 
-### 41) ⚔️ **War Memorial of Korea** — 🔎 VERIFIED MUSEUM
-- **What:** Military-history museum at Samgakji. Permanent exhibitions are free; closed Monday.
-- **Official source (reviewed Aug 17):** [warmemo.or.kr](https://www.warmemo.or.kr)
+### 41) ⚔️ **War Memorial of Korea** — 🔎 VERIFIED MUSEUM — free · HOURS ADDED Aug 19
+- **What:** Military-history museum at Samgakji (Itaewon-ro 29). Permanent exhibitions are free.
+- **Hours (operator):** **09:30–18:00; last admission 17:00; closing begins 17:40.** Outdoor exhibition ground open sunrise–sunset. **Closed Mondays**, Jan 1, Seollal and Chuseok day (when a holiday run includes a Monday it opens and closes the following day instead).
+- **Also free:** the **Children's Museum** (ages 3–9) runs hourly sessions from 10:00, booked online or on the day; wheelchairs and strollers lend free at the desk. Allow 2–3 hours for the indoor galleries.
+- **Official source (reviewed Aug 19, 2026):** [warmemo.or.kr — visitor information](https://www.warmemo.or.kr:8443/Home/H10000/H10100/html) · [FAQ with closure rules and Children's Museum details](https://www.warmemo.or.kr/Home/H40000/H40500/H40501/boardList)
 
 ### 42) 👑 **National Palace Museum of Korea** — 🔎 VERIFIED NATIONAL MUSEUM
 - **What:** Joseon royal objects beside Gyeongbokgung.

@@ -592,6 +592,40 @@ Added with [`seoul-districts.md`](seoul-districts.md) — Dongdaemun, Hongdae/Ma
 
 ---
 
+### Newly verified official sources (district expansion round 2, Aug 19, 2026)
+
+Added with entries **26–46** of [`seoul-districts.md`](seoul-districts.md), plus the three `seoul.md` corrections. All fetched **Aug 19, 2026**.
+
+| Place / event | Official source | What it proves |
+|---|---|---|
+| Seoul Museum of History + 《서울도시계획 대관람》 | https://museum.seoul.go.kr/www/NR_index.do · https://museum.seoul.go.kr/www/exhibitPlan/NR_exhibitPlanList.do | Aug 14–Nov 8 2026, Gallery A; 09:00–18:00, **Fri to 21:00**, closed Mon |
+| Gongpyeong Urban Archaeology Exhibition Hall | https://museum.seoul.go.kr/m/annex/gongpyeong.jsp | Tue–Sun 09:00–18:00, free; 태화관 exhibition to Mar 7 2027 |
+| Seoul Museum of Korean Folk Music | http://gomuseum.seoul.go.kr/sekm/front/main.do?locale=KO | Tue–Fri/Sun 09:00–18:00, Sat to 19:00, free; 다시, 아리랑 to May 30 2027 |
+| Gyeongkyojang | https://museum.seoul.go.kr/www/intro/annexIntro/annex_21/annex_21_01.jsp · https://museum.seoul.go.kr/www/guide/reserveInfo.jsp | Tue–Sun 09:00–18:00, free, no booking; KR/JP/CN docent times |
+| Baek Inje House | https://museum.seoul.go.kr/www/intro/annexIntro/annex_22/annex_22_01.jsp | Free; interiors only on a booked docent tour; hours |
+| Dilkusha | https://museum.seoul.go.kr/www/intro/annexIntro/annex_dilkusha/annex_dilkusha_01.jsp | Opened Mar 2021 as an SMH branch; Tue–Sun 09:00–18:00, free |
+| Seodaemun Prison — 《붉은 벽돌집》 | https://sphh.sscmc.or.kr/ | Aug 15 2026–Dec 31 2028, Ward 10 1F; winter hours 09:30–17:00, closed Mon |
+| Hyundai City Outlets Dongdaemun | https://www.ehyundai.com/newPortal/outlet/DP/DP000000_V.do?branchCd=B00173000 | Mon–Thu 10:30–21:00, Fri–Sun 10:30–21:30 |
+| Gyeongdong Market / Starbucks 1960 | https://opengov.seoul.go.kr/mediahub/27995898 | Market 08:30–18:00; Starbucks 09:00–23:00; radio shop 09:00–20:00 |
+| Cheonggyecheon Museum | https://museum.seoul.go.kr/cgcm/index.do | Tue–Sun 09:00–18:00, free, docent 10:00/15:00 |
+| Seoul World Cup Stadium Tour | https://english.visitseoul.net/entertainment/Seoul-World-Cup-Stadium/ENP002101 · https://mediahub.seoul.go.kr/archives/2007882 | ₩1,000 / ₩500, 10:00–15:00 four tours; Wed–Sat pattern + yeyak booking |
+| Mangwon Market | https://mediahub.seoul.go.kr/archives/2010536 | 10:00–20:00, no regular closing day |
+| National Museum of Korea — 2026 hours | https://m.blog.naver.com/100museum/224215257883 | **New hours from Mar 16 2026**: 09:30–17:30; Wed & Sat to 21:00; 2026 closure dates |
+| National Hangeul Museum closure | https://www.koreaherald.com/article/10571860 · https://www.asiae.co.kr/en/article/2025090914504699999 · https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04316486642298480 | Closed since Oct 2024; Feb 2025 fire; **reopening Oct 2028** |
+| War Memorial of Korea — hours | https://www.warmemo.or.kr:8443/Home/H10000/H10100/html · https://www.warmemo.or.kr/Home/H40000/H40500/H40501/boardList | 09:30–18:00, last entry 17:00, free; closure rules; Children's Museum |
+| Itaewon Special Tourist Zone | https://www.yna.co.kr/view/AKR20260108020400004 · https://www.shinailbo.co.kr/news/articleView.html?idxno=2174687 | 1997 designation; expanded to 390,000 m² by Seoul notice of Dec 26 2025 |
+| Food Week Korea 2026 | http://www.foodweek.co.kr/visitor/visiting-the-show/ · https://www.coex.co.kr/exhibitions/푸드위크-코리아/ | Nov 4–7; ₩10,000 ticket table; Coex fee listing |
+| AIoT Korea 2026 | https://www.aiotkorea.or.kr/2026/kor/about/information.asp | Nov 3–5, Hall D, 10:00–17:00, free with pre-registration, age rule |
+| Some Sevit | https://hangang.seoul.go.kr/www/contents/804.do?mid=622 | Daily 11:00–22:00; outdoor viewing free |
+| Maeheon Yun Bong-gil Memorial Hall | https://opengov.seoul.go.kr/civilappeal/2898608 | Nov–Feb 10:00–17:00, free, closed Mon |
+| K-Star Road | https://www.gangnam.go.kr/etc/k_star_road/files/basic-html/page6.html · https://visitgangnam.net/ | District project, route, GangnamDol House |
+| SeMA live exhibition feed (used to rule items out) | https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY | Martin Parr to Oct 18; 유영국 to Oct 25; Title Match to Oct 25 |
+| Theater YONG (negative evidence) | https://www.museum.go.kr/MUSEUM/contents/M0402030000.do?cp= | No November 2026 programme |
+
+**Rejected in round 2:** doota-mall.com (empty response), Rolling Hall / Sangsangmadang November line-ups (none published), Metacomedy Club Hongdae (wiki-only), Blue Square NEMO (no November show), National Library of Korea (rules vary per room). **FC Seoul's November home fixture cannot exist yet** — K League 1 sets final-round pairings only after round 33.
+
+---
+
 ## Link-verification pass (Aug 17, 2026) — corrected & replaced sources
 
 Every source below was re-fetched. These entries had a **dead, hijacked, repurposed or simply wrong** official URL, and/or out-of-date prices and hours; all have been corrected in the city files.
