@@ -1,5 +1,7 @@
 # 🇰🇷 KoreaFun — Seoul · Busan · Daejeon/Cheonan + 10 nearby cities (13 cities)
 
+**Live site (GitHub Pages):** [https://karagemop466-tech.github.io/KoreaFun/](https://karagemop466-tech.github.io/KoreaFun/)
+
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
 A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
