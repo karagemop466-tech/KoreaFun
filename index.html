@@ -1,249 +1,117 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KoreaFun 2026 — Official Guide</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
-    <style>
-        body {
-            background-color: #f8f9fa;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        }
-        .navbar-brand {
-            font-weight: 700;
-            color: #d81b60 !important;
-        }
-        .card {
-            border: none;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-        }
-        .status-badge {
-            font-size: 0.8rem;
-            padding: 0.35em 0.65em;
-            border-radius: 50rem;
-        }
-        .city-nav {
-            overflow-x: auto;
-            white-space: nowrap;
-            padding-bottom: 1rem;
-            margin-bottom: 2rem;
-            border-bottom: 1px solid #dee2e6;
-        }
-        .city-nav .btn {
-            margin-right: 0.5rem;
-            border-radius: 20px;
-        }
-        .table thead th {
-            background-color: #f1f3f5;
-            font-weight: 600;
-            text-transform: uppercase;
-            font-size: 0.75rem;
-            letter-spacing: 0.05em;
-        }
-        .source-link {
-            text-decoration: none;
-            color: #0d6efd;
-            font-size: 0.9rem;
-        }
-        .source-link:hover {
-            text-decoration: underline;
-        }
-        .search-container {
-            max-width: 600px;
-            margin: 0 auto 2rem auto;
-        }
-        .entry-row:hover {
-            background-color: #f1f3f5;
-        }
-        .event-name {
-            font-weight: 600;
-            color: #212529;
-        }
-        .event-what {
-            font-size: 0.9rem;
-            color: #6c757d;
-        }
-        #entries-table {
-            background-color: white;
-        }
-        .loading-spinner {
-            display: flex;
-            justify-content: center;
-            padding: 3rem;
-        }
-    </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A city-grouped, source-first index of places and events for a 2026 South Korea trip.">
+  <meta name="theme-color" content="#123b3a">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'">
+  <title>KoreaFun — source-first city guide</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
 </head>
 <body>
+  <a class="skip-link" href="#results">Skip to results</a>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm mb-4">
-    <div class="container">
-        <a class="navbar-brand" href="#"><i class="bi bi-geo-alt-fill me-2"></i>KoreaFun 2026</a>
-        <span class="navbar-text d-none d-md-block">
-            Trip window: Oct 31 – Nov 22, 2026
-        </span>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="./" aria-label="KoreaFun home">
+        <span class="brand-mark" aria-hidden="true">KF</span>
+        <span>KoreaFun</span>
+      </a>
+      <p class="eyebrow">Oct 31–Nov 22, 2026 planning window</p>
+      <h1>Find ideas by city.<br>Check the source before you go.</h1>
+      <p class="intro">A compact index of places and events across South Korea. Every published row includes at least one authority, operator, organizer, venue, or authorized ticket link.</p>
+      <div class="stats" aria-label="Guide statistics">
+        <div class="stat"><strong id="entry-stat">—</strong><span>entries</span></div>
+        <div class="stat"><strong id="city-stat">—</strong><span>city groups</span></div>
+        <div class="stat"><strong id="source-stat">—</strong><span>primary links</span></div>
+      </div>
     </div>
-</nav>
+  </header>
 
-<div class="container">
-    <div class="search-container">
-        <div class="input-group mb-3">
-            <span class="input-group-text bg-white border-end-0"><i class="bi bi-search"></i></span>
-            <input type="text" id="search-input" class="form-control border-start-0" placeholder="Search events, venues, categories...">
+  <main>
+    <section class="notice shell" aria-labelledby="notice-title">
+      <div class="notice-icon" aria-hidden="true">i</div>
+      <div>
+        <h2 id="notice-title">Source-first, not promise-first</h2>
+        <p>Schedules, prices, and access can change. “Confirmed” means the item was listed in the source review—not that it is guaranteed today. Re-check the linked page before booking. Detailed research claims without complete line-ledger coverage are intentionally not republished here.</p>
+      </div>
+    </section>
+
+    <section class="explorer shell" aria-labelledby="explorer-title">
+      <div class="section-heading">
+        <div>
+          <p class="kicker">Explore the guide</p>
+          <h2 id="explorer-title">Browse by city</h2>
         </div>
+        <button class="text-button" id="clear-button" type="button" hidden>Clear filters</button>
+      </div>
+
+      <form class="filters" id="filters" role="search">
+        <label class="field search-field" for="search-input">
+          <span>Search places and events</span>
+          <span class="input-wrap">
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path d="m21 21-4.35-4.35m2.35-5.4A7.75 7.75 0 1 1 3.5 11.25a7.75 7.75 0 0 1 15.5 0Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            <input id="search-input" name="q" type="search" autocomplete="off" placeholder="Try museum, market, concert…">
+          </span>
+        </label>
+
+        <label class="field city-field" for="city-select">
+          <span>City</span>
+          <select id="city-select" name="city">
+            <option value="all">All cities</option>
+          </select>
+        </label>
+      </form>
+
+      <div class="status-filter" aria-labelledby="status-filter-label">
+        <span id="status-filter-label">Planning state</span>
+        <div class="status-buttons" id="status-buttons"></div>
+      </div>
+
+      <nav class="city-index" id="city-index" aria-label="Quick city selection"></nav>
+
+      <div class="results-bar" aria-live="polite">
+        <p id="result-count">Loading the guide…</p>
+        <p class="updated" id="updated"></p>
+      </div>
+
+      <div id="loading" class="state-panel" role="status">
+        <span class="loader" aria-hidden="true"></span>
+        <p>Loading source-checked entries…</p>
+      </div>
+
+      <div id="error" class="state-panel error-panel" role="alert" hidden>
+        <p><strong>The guide could not be loaded.</strong></p>
+        <p>Check your connection and try again.</p>
+        <button id="retry-button" class="primary-button" type="button">Try again</button>
+      </div>
+
+      <div id="empty" class="state-panel" hidden>
+        <p><strong>No matching entries.</strong></p>
+        <p>Try a broader search or clear the filters.</p>
+      </div>
+
+      <div id="results" class="results" tabindex="-1"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <div>
+        <a class="brand footer-brand" href="./"><span class="brand-mark" aria-hidden="true">KF</span><span>KoreaFun</span></a>
+        <p>A conservative planning index built from explicit first-party and authority links.</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/karagemop466-tech/KoreaFun/blob/main/audit/SITE-DATA-VERIFICATION.md">Verification method</a>
+        <a href="https://github.com/karagemop466-tech/KoreaFun">View repository</a>
+      </div>
     </div>
+  </footer>
 
-    <div class="city-nav" id="city-selector">
-        <button class="btn btn-primary active" data-city="all">All Cities</button>
-        <!-- City buttons will be injected here -->
-    </div>
-
-    <div class="card p-0 overflow-hidden">
-        <div class="table-responsive">
-            <table class="table table-hover mb-0" id="entries-table">
-                <thead>
-                    <tr>
-                        <th style="width: 5%">#</th>
-                        <th style="width: 25%">Event / Place</th>
-                        <th style="width: 15%">Status</th>
-                        <th style="width: 20%">Date / Time</th>
-                        <th style="width: 20%">Sources</th>
-                        <th style="width: 15%">Notes</th>
-                    </tr>
-                </thead>
-                <tbody id="entries-body">
-                    <!-- Data will be injected here -->
-                </tbody>
-            </table>
-        </div>
-        <div id="loading" class="loading-spinner">
-            <div class="spinner-border text-primary" role="status">
-                <span class="visually-hidden">Loading...</span>
-            </div>
-        </div>
-        <div id="no-results" class="p-5 text-center d-none">
-            <i class="bi bi-info-circle fs-1 text-muted d-block mb-3"></i>
-            <h5>No entries found</h5>
-            <p class="text-muted">Try adjusting your search or city filters.</p>
-        </div>
-    </div>
-
-    <footer class="mt-5 py-4 text-center text-muted">
-        <p>&copy; 2026 KoreaFun Guide. Data verified line-by-line against official sources.</p>
-    </footer>
-</div>
-
-<script>
-    let allEntries = [];
-    let currentCity = 'all';
-
-    async function init() {
-        try {
-            const response = await fetch('data.json');
-            allEntries = await response.json();
-            
-            setupCitySelector();
-            renderEntries();
-            
-            document.getElementById('loading').classList.add('d-none');
-            
-            document.getElementById('search-input').addEventListener('input', renderEntries);
-        } catch (error) {
-            console.error('Error loading data:', error);
-        }
-    }
-
-    function setupCitySelector() {
-        const selector = document.getElementById('city-selector');
-        const cities = [...new Set(allEntries.map(e => e.city))].sort();
-        
-        cities.forEach(city => {
-            const btn = document.createElement('button');
-            btn.className = 'btn btn-outline-secondary';
-            btn.textContent = city;
-            btn.dataset.city = city;
-            btn.onclick = () => {
-                document.querySelectorAll('.city-nav .btn').forEach(b => b.classList.remove('btn-primary', 'active'));
-                document.querySelectorAll('.city-nav .btn').forEach(b => b.classList.add('btn-outline-secondary'));
-                btn.classList.remove('btn-outline-secondary');
-                btn.classList.add('btn-primary', 'active');
-                currentCity = city;
-                renderEntries();
-            };
-            selector.appendChild(btn);
-        });
-        
-        // Reset "All" button
-        selector.querySelector('[data-city="all"]').onclick = () => {
-            document.querySelectorAll('.city-nav .btn').forEach(b => b.classList.remove('btn-primary', 'active'));
-            document.querySelectorAll('.city-nav .btn').forEach(b => b.classList.add('btn-outline-secondary'));
-            selector.querySelector('[data-city="all"]').classList.remove('btn-outline-secondary');
-            selector.querySelector('[data-city="all"]').classList.add('btn-primary', 'active');
-            currentCity = 'all';
-            renderEntries();
-        };
-    }
-
-    function renderEntries() {
-        const body = document.getElementById('entries-body');
-        const searchTerm = document.getElementById('search-input').value.toLowerCase();
-        body.innerHTML = '';
-        
-        const filtered = allEntries.filter(e => {
-            const matchesCity = currentCity === 'all' || e.city === currentCity;
-            const matchesSearch = e.name.toLowerCase().includes(searchTerm) || 
-                                 e.what.toLowerCase().includes(searchTerm) ||
-                                 e.notes.toLowerCase().includes(searchTerm) ||
-                                 e.city.toLowerCase().includes(searchTerm);
-            return matchesCity && matchesSearch;
-        });
-
-        if (filtered.length === 0) {
-            document.getElementById('no-results').classList.remove('d-none');
-        } else {
-            document.getElementById('no-results').classList.add('d-none');
-        }
-
-        filtered.forEach((e, index) => {
-            const row = document.createElement('tr');
-            row.className = 'entry-row';
-            
-            let statusClass = 'bg-secondary';
-            if (e.status.includes('Confirmed')) statusClass = 'bg-success';
-            if (e.status.includes('Verified')) statusClass = 'bg-info text-dark';
-            if (e.status.includes('Re-check')) statusClass = 'bg-warning text-dark';
-            if (e.status.includes('Watch')) statusClass = 'bg-primary';
-
-            const sourcesHtml = e.sources.map(s => `
-                <a href="${s.url}" target="_blank" class="source-link d-block mb-1">
-                    <i class="bi bi-link-45deg"></i> ${s.text}
-                </a>
-            `).join('');
-
-            row.innerHTML = `
-                <td><small class="text-muted">${index + 1}</small></td>
-                <td>
-                    <div class="event-name">${e.name}</div>
-                    <div class="event-what">${e.what}</div>
-                    <div class="mt-1"><small class="badge bg-light text-dark border">${e.city}</small></div>
-                </td>
-                <td><span class="badge ${statusClass} status-badge">${e.status}</span></td>
-                <td>
-                    <div class="small fw-bold">${e.when}</div>
-                    <div class="small text-muted mt-1">${e.hours}</div>
-                    <div class="small text-primary mt-1">${e.price}</div>
-                </td>
-                <td>${sourcesHtml}</td>
-                <td><small class="text-muted">${e.notes}</small></td>
-            `;
-            body.appendChild(row);
-        });
-    }
-
-    init();
-</script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <noscript>
+    <div class="noscript">JavaScript is required to filter and display this guide. The source data is available in <a href="data.json">data.json</a>.</div>
+  </noscript>
 </body>
 </html>

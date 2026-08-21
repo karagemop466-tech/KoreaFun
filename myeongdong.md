@@ -99,7 +99,8 @@ This guide was rebuilt on **August 17, 2026** from official organizer, venue/ope
 ### 14) 🎄 **Shinsegae and Lotte seasonal façades** — ⏳ RE-CHECK 2026 START DATE
 - **What:** Real annual holiday-media displays, often visible from the Myeong-dong/Post Tower area.
 - **Status:** Past displays do **not** prove they will be operating by Oct 31 or on any particular 2026 date. Check each department store’s official notice in late October.
-- **Official contextual source (reviewed Aug 17):** [Visit Seoul winter feature](https://english.visitseoul.net/editorspicks/ChristmasinSeoul/ENNx25b0s) · operator pages in entries #13–14
+- **Official sources (reviewed Aug 21):** [Shinsegae Main Store](https://www.shinsegae.com/store/main.do?storeCd=SC00001) · [Lotte Department Store Main Store](https://www.lotteshopping.com/store/main?cstrCd=0001)
+- **Context only:** [Visit Seoul winter feature](https://english.visitseoul.net/editorspicks/ChristmasinSeoul/ENNx25b0s) documents a past edition; it does not confirm 2026 dates.
 
 ### 15) 🛍️ **NOON Square** — 🔎 VERIFIED STORE
 - **What:** Shopping complex at 14 Myeongdong-gil with fashion and dining tenants.
