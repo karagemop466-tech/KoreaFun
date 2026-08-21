@@ -133,7 +133,8 @@ Every line below was checked against a deep official page under the [manual veri
 - **What:** A new work co-produced by Mapo Foundation for Arts & Culture and **극공작소 마방진**, directed by **Go Sun-woong**, announced in the foundation's 2026 season lineup for **Nov 13–21 at Art Hall MAC**. Korean language.
 - **⚠️ Verification status:** as of **Aug 19, 2026** the venue's own live calendar jumps from Oct 28 straight to Nov 25 — **〈투신〉 has no ticket page yet**. Times and prices are unknown. Also announced for November: **인디스커버리 페스타**, an indie-music festival at the same venue, month only, no date.
 - **What to do:** re-check the official calendar in **early October**; if it appears, it is the strongest Mapo theatre option inside the window.
-- **Sources (reviewed Aug 19, 2026):** [Mapo Arts Center official calendar](https://www.mfac.or.kr/performance/whole_list.jsp) (no November listing yet — this is the negative evidence) · [The Preview — 2026 Mapo Foundation lineup announcement](http://www.thepreview.co.kr/news/articleView.html?idxno=12022) (투신 11.13–21, Art Hall MAC)
+- **Official source (reviewed Aug 19, 2026):** [Mapo Arts Center official calendar](https://www.mfac.or.kr/performance/whole_list.jsp) (no November listing yet — this is the negative evidence)
+- **Corroboration only:** [The Preview — 2026 Mapo Foundation lineup announcement](http://www.thepreview.co.kr/news/articleView.html?idxno=12022) (투신 11.13–21, Art Hall MAC)
 
 ### 10) 🛢️ **Culture Tank / Oil Tank Culture Park (문화비축기지)** — 🔎 VERIFIED CITY PARK — free
 - **What:** Five decommissioned 1970s oil tanks behind World Cup Stadium, converted into a park. Pairs naturally with the Haneul Park silver grass already in [`seoul.md`](seoul.md) #60 — both are a short walk apart and mid-November is peak season for that walk.
@@ -152,7 +153,7 @@ Every line below was checked against a deep official page under the [manual veri
 - **What:** A 250 m book-themed promenade on the buried Gyeongui rail line directly outside **Hongik Univ. Station exit 6**, run by Mapo-gu with the Association of Writers: themed bookshop pavilions, outdoor seating, author events.
 - **Hours/price:** **Tue–Sun 11:00–20:00, closed Mondays**, free. A shortened 11:00–18:00 timetable was used in an earlier period, so confirm on the day.
 - **⚠️ Verification note:** gbookst.or.kr did not respond to this pass; hours above come from Seoul city media and the national tourism organisation, not from the operator's live page. Everything else (location, operator, free access) is consistent across those official sources.
-- **Sources (reviewed Aug 19, 2026):** [Seoul Mediahub — city article with address/hours](https://mediahub.seoul.go.kr/archives/1290354) · [Korea Tourism Organization listing](https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eb3c87c6-8662-4f21-9e28-1a6da338d367) · [Korean Culture and Information Service](https://www.korean-culture.org/koreanet/view.do?seq=7175)
+- **Official sources (reviewed Aug 19, 2026):** [Seoul Mediahub — city article with address/hours](https://mediahub.seoul.go.kr/archives/1290354) · [Korea Tourism Organization listing](https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=eb3c87c6-8662-4f21-9e28-1a6da338d367) · [Korean Culture and Information Service](https://www.korean-culture.org/koreanet/view.do?seq=7175)
 
 ---
 
@@ -397,13 +398,15 @@ Every line below was checked against a deep official page under the [manual veri
 - **What:** The Korean-alphabet museum next door to the National Museum, listed in most guidebooks (and in [`seoul.md`](seoul.md) #40) as a normal stop. **You cannot visit it on this trip.**
 - **Why:** it closed in **October 2024** for an extension, then a **fire on Feb 1, 2025** during welding work destroyed the third-floor children's gallery and ceiling. After a detailed structural inspection the museum announced design work from Oct 2025, **construction starting July 2026**, and **reopening in October 2028**. Total cost ~₩17.5 bn. No artefacts were lost — about 90,000 items are held at the National Museum, National Folk Museum and the National Museum of World Writing Systems.
 - **What still runs:** exhibitions and classes continue in borrowed spaces — online classes from Culture Station Seoul 284's studio, foreigner and elementary classes at the National Folk Museum, and the 2026 anniversary special exhibitions (580 years of Hunminjeongeum, the Hangeul Day centenary) hosted at the **National Folk Museum, the National Museum of Korean Contemporary History and the National Museum of World Writing Systems**.
-- **Official sources (reviewed Aug 19, 2026):** [Korea Herald report of the museum's own Sep 9, 2025 briefing](https://www.koreaherald.com/article/10571860) · [Asiae English report of the same briefing](https://www.asiae.co.kr/en/article/2025090914504699999) · [Edaily — director Kang Jeong-won's reopening timetable](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04316486642298480)
+- **Official source (reviewed Aug 21, 2026):** [National Hangeul Museum — temporary closure notice](https://www.hangeul.go.kr/en/news/newsDetail.do?pageIndex=1&bbs_id=70001&bbs_no=8&curr_menu_cd=0106010100&search_type=&search_text=)
+- **Corroboration only:** [Korea Herald report of the museum's own Sep 9, 2025 briefing](https://www.koreaherald.com/article/10571860) · [Asiae English report of the same briefing](https://www.asiae.co.kr/en/article/2025090914504699999) · [Edaily — director Kang Jeong-won's reopening timetable](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04316486642298480)
 
 ### 40) 🌏 **Itaewon Special Tourist Zone — expanded** — 🔎 VERIFIED DESIGNATION
 - **What:** Itaewon has been a designated **Special Tourist Zone since September 1997** (Itaewon-dong and Hannam-dong, ~1.4 km from the top of Itaewon-ro to Hannam-dong community centre). The practical effect for you: shops in the zone may open longer hours, foreign currency is widely accepted, and the district staffs a tourist information centre (02-3785-0942).
 - **What changed:** on a **Seoul city notice dated Dec 26, 2025**, the zone was **enlarged to 390,000 m²** (from 380,000) to take in the **Hangangjin Station area — which now puts Leeum ([`seoul.md`](seoul.md) #12/#16) and Blue Square (entry #13) inside the zone**. Yongsan-gu announced the change on Jan 8, 2026.
 - **Price/hours:** free, always open; individual venues vary.
-- **Sources (reviewed Aug 19, 2026):** [Yonhap — Yongsan-gu announcement, Jan 8, 2026](https://www.yna.co.kr/view/AKR20260108020400004) · [Yonhap press-release wire version](https://www.yna.co.kr/view/RPR20260108001600353) · [Shinailbo report of the same district briefing](https://www.shinailbo.co.kr/news/articleView.html?idxno=2174687)
+- **Official source (reviewed Aug 21, 2026):** [Yongsan-gu — Itaewon Special Tourist Zone](http://www.yongsan.go.kr/portal/main/contents.do?menuNo=200276)
+- **Corroboration only:** [Yonhap — Yongsan-gu announcement, Jan 8, 2026](https://www.yna.co.kr/view/AKR20260108020400004) · [Yonhap press-release wire version](https://www.yna.co.kr/view/RPR20260108001600353) · [Shinailbo report of the same district briefing](https://www.shinailbo.co.kr/news/articleView.html?idxno=2174687)
 
 ### 41) 🎭 **Theater YONG (극장 용)** — ⏳ NOVEMBER PROGRAM NOT POSTED
 - **What:** The 800-seat theatre on the 4th floor of the National Museum of Korea, programmed by the National Museum Foundation — family musicals, film-score concerts and "Museum Moment" lecture-concerts (2026 examples: *Taekwon, Fly High* ₩44,000–77,000; Museum Moment ₩30,000 all seats).
@@ -646,13 +649,13 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 ### 65) 🚶 **Free Gangnam walking tours for foreign visitors** — ⏳ PROGRAMME LISTED, OPERATION TO CONFIRM
 - **What:** Gangnam-gu publishes a **free guided walking programme for foreign visitors** starting at the **Gangnam Tourist Information Center** (Apgujeong-ro 161). The published Hallyu course runs: information centre → JYP → JS → FNC → SM Entertainment → K-Star Road → GangnamDol House → G+ Star Zone at Apgujeong Rodeo Station.
 - **⏳ Why this is not a ✅:** the course is described in the district's tourism material, but no current 2026 timetable or booking page was retrievable at review, and the district's own information-centre page still carries an old suspension notice. **Email or call 02-3445-0111 before counting on it.**
-- **Sources (reviewed Aug 19, 2026):** Gangnam-gu tourism directory listing the free walking courses · [Gangnam-gu K-Star Road guide](https://www.gangnam.go.kr/etc/k_star_road/files/basic-html/page6.html) · [Visit Gangnam](https://visitgangnam.net/)
+- **Official sources (reviewed Aug 19, 2026):** Gangnam-gu tourism directory listing the free walking courses · [Gangnam-gu K-Star Road guide](https://www.gangnam.go.kr/etc/k_star_road/files/basic-html/page6.html) · [Visit Gangnam](https://visitgangnam.net/)
 
 ### 66) 🥁 **Korean Cultural House (KOUS, 한국문화의집)** — ⏳ VENUE VERIFIED, NOVEMBER PROGRAM NOT
 - **What:** A **238-seat traditional-arts theatre** (hanok-style thrust stage) run by the **Korea Heritage Service Agency** in Samseong-dong, five minutes from COEX — one of the few places in Gangnam that programmes gugak, pansori and traditional dance on a regular basis. Historic programming includes the *Byeolgok* fusion series and *Wednesday Dance* nights; past tickets ran **₩10,000–30,000**, with a 50% Culture Day discount on the last Wednesday of the month.
 - **⏳ Verification status:** the agency's performance calendar (kh.or.kr) **returned a server error on Aug 19, 2026**, so **no November 2026 programme is claimed here**. The venue, address and operator are confirmed.
 - **Where:** Bongeunsa-ro 406 / Teheran-ro 92-gil 12-9, Gangnam-gu — **Line 2 Samseong Station exit 4**, ~300 m. Enquiries 02-3011-1720.
-- **Sources (reviewed Aug 19, 2026):** [Korea Heritage Service Agency (kh.or.kr) — operator site](https://www.kh.or.kr/kha) · [KOCCA notice of the agency's 2026 KOUS rental calendar](https://www.kocca.kr/kocca/bbs/view/B0158919/1964984.do?menuNo=204805&categorys=1&subcate=53&cateCode=0) · kous.or.kr
+- **Official sources (reviewed Aug 19, 2026):** [Korea Heritage Service Agency (kh.or.kr) — operator site](https://www.kh.or.kr/kha) · [KOCCA notice of the agency's 2026 KOUS rental calendar](https://www.kocca.kr/kocca/bbs/view/B0158919/1964984.do?menuNo=204805&categorys=1&subcate=53&cateCode=0) · kous.or.kr
 
 ---
 
@@ -728,13 +731,15 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 - **⭐ Free participation:** one visitor per session can **serve as the guard commander** in costume (apply in advance; arrive one hour early for fitting and briefing), and a **free hanbok/uniform try-on** runs on site with no booking.
 - **Price:** **Free** to watch. Enquiries 02-2133-1117 / 120.
 - **⚠️ Don't confuse it with Gyeongbokgung's**, which is a different ceremony at 10:00 and 14:00 and is **closed Tuesdays** (Deoksugung closes Mondays) — between the two you can catch a guard ceremony on any day of the week.
-- **Sources (reviewed Aug 19, 2026):** Seoul Metropolitan Government royal-guard programme (02-2133-1117) via [Deoksugung visitor listings](https://www.i-rang.net/place/deoksugung-seoul) · [ceremony timetable comparison (Gyeongbokgung vs Deoksugung, closure days)](https://namu.wiki/w/수문장%20교대의식) — *treated as corroboration only; times to confirm on the day*
+- **Official sources (reviewed Aug 21, 2026):** [Seoul Royal Guard — programme and timetable](https://www.royalguard.kr/content/royalguard) · [participation details](https://royalguard.kr/royalguard_event)
+- **Corroboration only:** [Deoksugung visitor listing](https://www.i-rang.net/place/deoksugung-seoul) · [ceremony timetable comparison](https://namu.wiki/w/수문장%20교대의식)
 
 ### 70) 🔥 **Namsan Beacon Mound fire ceremony (남산봉수의식)** — ⏳ RUNNING, TIMES TO CONFIRM
 - **What:** A daily re-enactment at the **Namsan beacon mounds** — the terminus of the Joseon signal-fire network, where a single lit beacon meant "all quiet". Soldiers in costume patrol, guard and light the beacon; the programme also includes a **traditional martial-arts and folk performance** and a "beacon soldier for a day" experience. It sits right beside N Seoul Tower ([`seoul.md`](seoul.md) #57), so it is a free add-on to a Namsan trip.
 - **When:** **daily except Mondays**, year-round. **⏳ Times differ between listings:** the national festival database gives an **11:00–15:40** operating block, while other descriptions give the beacon rite around **10:30–12:30** and the performance at **15:00**. Confirm at the beacon mound or with the operator (02-319-1220 / 02-737-6444).
 - **Price:** **Free**, including the costume experience.
-- **Sources (reviewed Aug 19, 2026):** [Korea Tourism Organization festival database entry — "남산봉수의식 등 전통문화행사", organized by Seoul Metropolitan Government, free, year-round](https://www.gotothefestival.co.kr/detail/2809535) · same record mirrored [here](https://www.dkvips.com/festival/2809535)
+- **Official sources (reviewed Aug 21, 2026):** [Seoul Culture Portal — verify the current event listing](https://culture.seoul.go.kr/culture/culture/cultureEvent/list.do?searchCate=FESTIVAL&menuNo=200010) · [Korea Heritage Service — Mokmyeoksan Beacon Mound Site](https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=2331100140000&pageNo=1_1_2_0)
+- **Context only:** [archived festival-database record](https://www.gotothefestival.co.kr/detail/2809535). The official portal did not expose a stable event-detail URL at review, so confirm operation and times before visiting.
 
 ### 71) 🗄️ **SeMA Art Archive + 《오윤》** — ✅ CONFIRMED — Aug 27, 2026 – Feb 14, 2027 · free
 - **What:** The Seoul Museum of Art's **archive branch** in Pyeongchang-dong — a striking hillside complex of three buildings holding artists' papers, notebooks and working materials, with a reading lounge and café. The current show is devoted to **Oh Yoon (오윤, 1946–1986)**, the woodcut printmaker at the centre of Korea's *Minjung* art movement.
@@ -769,7 +774,7 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 - **Hours:** **Mon–Fri 09:00–18:00; Saturday 09:00–15:00; closed Sundays and public holidays.**
 - **⏳ Sourcing note:** these hours come from the market association directory and national market databases rather than a city page, so treat them as indicative; the Seoul city market feature confirms the market and its location but not the timetable.
 - **Where:** Euljiro 33-gil 18-1 / Dongho-ro 37-gil 20, Jung-gu — **Euljiro 4-ga Station exits 4–6**.
-- **Sources (reviewed Aug 19, 2026):** [national traditional-market directory entry (hours, closures)](http://www.bbsj.kr/sijang/market.php?sij_idx=21) · [tourism database record](https://www.tripinfo.co.kr/info.html?content_type_id=38&content_id=2946519) · [Seoul Metropolitan Government market feature naming Bangsan](https://opengov.seoul.go.kr/mediahub/22105744)
+- **Official sources (reviewed Aug 19, 2026):** [national traditional-market directory entry (hours, closures)](http://www.bbsj.kr/sijang/market.php?sij_idx=21) · [tourism database record](https://www.tripinfo.co.kr/info.html?content_type_id=38&content_id=2946519) · [Seoul Metropolitan Government market feature naming Bangsan](https://opengov.seoul.go.kr/mediahub/22105744)
 
 ---
 
@@ -797,7 +802,7 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 - **What:** A four-floor craft centre run by **Yongsan-gu** at Hangangjin, opened 2018: a shop of work by traditional master craftspeople on 1F, a craft workshop floor for one-day classes, and a **free 4F exhibition gallery** that rotates shows by holders and successors of national intangible heritage skills. One minute from Hangangjin Station, so it slots between Leeum and Blue Square.
 - **Hours/price:** **Tuesday–Sunday**, roughly **10:00–18:30/19:00** depending on floor; **free admission** to the galleries and shop. **Closed Mondays.** One-day craft classes are paid and book out — enquire at 02-2199-6180.
 - **Where:** Itaewon-ro 274 (Hannam-dong), next to the Hangangjin transfer car park.
-- **Sources (reviewed Aug 19, 2026):** [Seoul public-service reservation record for a Yongsan Craft Museum exhibition (operator Yongsan-gu, free, Tue–Sun 10:00–18:30, contact)](https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210502183654893823) · Yongsan Cultural Foundation programme listings for the same building
+- **Official sources (reviewed Aug 19, 2026):** [Seoul public-service reservation record for a Yongsan Craft Museum exhibition (operator Yongsan-gu, free, Tue–Sun 10:00–18:30, contact)](https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210502183654893823) · Yongsan Cultural Foundation programme listings for the same building
 
 ### 79) 🏚️ **Yongsan Urban Memory Exhibition Hall (용산도시기억전시관)** — 🔎 VERIFIED CITY FACILITY — free
 - **What:** A small, serious city-run exhibition hall about **how Yongsan was made and unmade** — the railway town, the garrison, redevelopment and the 2009 Yongsan disaster. It is the counterweight to the shiny Yongsan you see from Iparkmall (#61).
@@ -847,7 +852,7 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 - **What:** The government-backed nationwide shopping-discount period, listed as ⏳ in [`seoul.md`](seoul.md) #28. It matters for this file because it is the one thing that would change prices in **Myeong-dong, Dongdaemun and Gangnam** during the trip.
 - **⚠️ Verification result — read this before believing a date:** searching for the 2026 dates returns a cluster of **AI-generated SEO pages** confidently quoting mutually exclusive schedules — "Nov 1–15", "Nov 1–30", "2,500 companies", "2,600 companies" — several of them claiming the writer *phoned the ministry* to confirm. **No official announcement from the Ministry of Trade, Industry and Energy or the Korea Sale FESTA committee was retrievable on Aug 19, 2026.** Recent editions have run for roughly the first three weeks of November, which is why this stays a ⏳ planning note and not a date.
 - **What to do:** check **koreasalefesta.kr** in mid-October. If it lands in your window, department stores in all three districts run extra discounts and tax-refund events.
-- **Sources (reviewed Aug 19, 2026):** no official source found — the only hits were unverifiable aggregator posts, which is itself the finding.
+- **Official source (reviewed Aug 21, 2026):** [Korea Sale FESTA official site](https://www.koreasalefesta.kr/en) — the visible English material is for an older edition and **does not confirm a 2026 event or dates**.
 
 ---
 
@@ -942,7 +947,8 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 - **What:** The surviving octagonal shrine pavilion (**Hwanggungu**) and stone drums of the **Altar of Heaven** where **Gojong proclaimed himself emperor of the Korean Empire in 1897** — now wedged behind the Westin Josun hotel, two minutes from City Hall. Historic Site No. 157. The national heritage service confirmed in July 2025 that **"Hwangudan" is the correct official name** (not "Wongudan").
 - **Hours/price:** **free**, with the grounds reported as accessible **07:00–21:00** and closed overnight.
 - **⏳ Sourcing note:** the opening window comes from visitor documentation and reference pages, **not** from an operator page — treat it as indicative and expect the gate to be shut at night.
-- **Sources (reviewed Aug 19, 2026):** [Hankyung report of the Korea Heritage Service's official naming statement, Jul 4, 2025](https://www.hankyung.com/article/202507049022i) · visitor documentation of the 07:00–21:00 access window
+- **Official source (reviewed Aug 21, 2026):** [Korea Heritage Service — Hwangudan Altar, Historic Site No. 157](https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=1331101570000&pageNo=1_1_1_1)
+- **Corroboration only:** [Hankyung report of the Korea Heritage Service's naming statement](https://www.hankyung.com/article/202507049022i). The official heritage record does not publish visitor hours, so confirm access at the site.
 
 ### 94) 🚶 **Insa-dong car-free street** — 🔎 VERIFIED CITY ARRANGEMENT — free
 - **What:** Insadong-gil is closed to traffic and given over to pedestrians **from 10:00 to 22:00**, which is what makes the antique shops, tea houses, brush-and-paper stores and street snacks workable as a walk. Ssamziegil (#91) sits halfway along it.
@@ -965,7 +971,7 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 - **Hours/price:** shrine grounds **free**, reported open **06:00–18:00**; market stalls run roughly 10:00 to sunset and thin out in the cold.
 - **⏳ Sourcing note:** the shrine's hours come from visitor documentation rather than a heritage-service page; the market has no operator page at all. Everything else — location, date, Treasure status — is solid.
 - **Where:** Nangye-ro 27-gil 84 — **Dongmyo-ap Station (Lines 1/6) exit 3**, 150 m; two stops from Dongdaemun, so it slots onto the DDP/Gwangjang day.
-- **Sources (reviewed Aug 19, 2026):** heritage documentation of Dongmyo (Treasure-designated 1601 shrine) and visitor records of the 06:00–18:00 access window; no operator page exists
+- **Official sources (reviewed Aug 21, 2026):** [Korea Heritage Service — Donggwanwangmyo record](https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=1121101420000&pageNo=1_1_1_1) · [Seoul Metropolitan Government — Dongmyo Flea Market](https://english.seoul.go.kr/dongmyo-flea-market-2/). Neither page publishes current operating hours, so confirm access locally.
 
 ---
 
@@ -1012,7 +1018,7 @@ Three of the round-3 entries sit within 400 m of each other at **Hongneung**, no
 - **What:** The river park directly below the National Museum — a **10.2 km, 922,000 m² riverside strip** with walking and cycle paths, the Ichon "nadeulmok" underpass from the museum side, and clear views across to Dongjak Bridge and the 63 Building. In November it is the quiet counterpart to Yeouido and Banpo.
 - **Hours/price:** **open 24 hours, year-round, free.** Parking ₩1,000 for the first 30 minutes, ₩200 per 10 minutes after. Managed by the Seoul Future Hangang Headquarters (02-3780-0501~4).
 - **How to reach it:** Line 4 / Gyeongui-Jungang **Ichon Station exit 4** and through the underpass, or straight down from the museum's east side — this is what turns the National Museum (#38, #81, #100) into a half-day rather than a two-hour stop.
-- **Sources (reviewed Aug 19, 2026):** Seoul Future Hangang Headquarters park record (address, always open, free, contact) · [Korea Tourism Organization park listing](https://www.wegive.co.kr/contents/wetownDetail/970636)
+- **Official sources (reviewed Aug 21, 2026):** [Seoul Future Hangang Headquarters — Ichon Hangang Park](https://hangang.seoul.go.kr/www/park/list.do?mid=426) · [official parking information](https://hangang.seoul.go.kr/www/contents/749.do?mid=460)
 
 ---
 

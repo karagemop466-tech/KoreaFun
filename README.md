@@ -1,19 +1,36 @@
-# 🇰🇷 KoreaFun — Seoul · Busan · Daejeon/Cheonan + 10 nearby cities (13 cities)
+# 🇰🇷 KoreaFun — source-first South Korea city guide
 
 **Trip window: Saturday, Oct 31, 2026 → Sunday, Nov 22, 2026**
-A beginner-friendly guide to **live events, sports, festivals, attractions, and local culture** during your trip — written for two US travelers visiting Korea for the first time.
 
-> 🚧 **Evidence audit (updated Aug 17, 2026).** Earlier revisions used heuristic tooling to call all entries “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) checks every retained claim against a relevant official source, one city file at a time. **All 14 city files have now had a protocol pass.** Counts are not a quality claim. Run `python3 tools/verification_status.py` for the ledger.
+A city-grouped guide to live events, attractions, sports, and local culture for two first-time visitors to South Korea.
+
+> **Public site audit (updated Aug 21, 2026).** The GitHub Pages interface is a conservative projection of the research corpus: **700 rows across 20 city groups, with at least one explicit official/primary link on every row**. It intentionally omits detailed prose, prices, and hours that can age independently. The strict production validator checks every emitted row against its source record; see [`audit/SITE-DATA-VERIFICATION.md`](audit/SITE-DATA-VERIFICATION.md).
 >
-> **Current inventory:** 700 numbered sections (594 + 106 district entries in [`seoul-districts.md`](seoul-districts.md), added and line-verified over five research rounds on Aug 19, 2026). ⛔ **Status correction:** the **National Hangeul Museum is closed until Oct 2028** after a 2025 fire — `seoul.md` #40 now says so. after the core-file rebuild, nearby-city additions, and the Aug 18 re-verification passes (Pass 37 added one official-source Jeonju musical). Counts will change only when unsupported entries are removed or official-source entries are added.
+> Earlier revisions used heuristic tooling to call all detailed claims “verified”; that was too strong. The [manual verification protocol](audit/VERIFICATION-PROTOCOL.md) records a source-review pass for all 15 city/district files, while the detailed line ledger remains a separate and more demanding measure. Counts alone are never treated as proof.
 >
-> ⚠️ Prices and opening hours change, especially in November. Re-check ticketed and weather-dependent activities with the linked operator shortly before travel.
->
-> 🏝️ **Time-critical:** the verified **2026 World Island Exhibition closes Nov 4** — day 5 of the trip.
+> ⚠️ Schedules, prices, and access can change. Re-check the linked authority, operator, organizer, venue, or authorized ticket page before booking or travel.
 
 ---
 
-## 📂 What's in this repo (**700 numbered sections** across 15 city/district files; protocol pass complete)
+## 📂 What's in this repo (**700 numbered sections** across 15 city/district files)
+
+### 🌐 GitHub Pages application
+
+| File | Purpose |
+|---|---|
+| [`index.html`](index.html) | Accessible, responsive city-grouped table interface |
+| [`app.js`](app.js) | Safe DOM rendering plus search, city, and planning-state filters |
+| [`styles.css`](styles.css) | Dependency-free responsive design; tables become labeled cards on small screens |
+| [`data.json`](data.json) | Generated public data: conservative fields and explicit official/primary links only |
+| [`generate_data.py`](generate_data.py) | Strict source-first generator; never edit `data.json` manually |
+| [`tools/validate_site_data.py`](tools/validate_site_data.py) | Row-by-row schema, mapping, URL, sanitization, source, and regeneration checks |
+
+Rebuild and validate with:
+
+```bash
+python3 generate_data.py
+python3 tools/validate_site_data.py
+```
 
 ### 🏙️ Core cities (the foundation — your main stops)
 

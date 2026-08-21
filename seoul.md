@@ -456,7 +456,8 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 
 ### 84) 🎭 **Korean-language musicals in the window** — ✅ CLOSING DATES NOW PUBLISHED · UPDATED Aug 18
 - **What:** The big licensed Korean productions overlapping the trip, with closing dates now live on the official ticketer: **《엘리자벳》 (ELISABETH) runs to Nov 15** at Blue Square · **《광화문연가》 (Gwanghwamun Love Song) to Nov 15** at D-Cube Link Art Center · **《디어 에반 핸슨》 (Dear Evan Hansen) closes Sun Nov 1** at Chungmu Arts Center — first-weekend-only.
-- **All are sung in Korean** (no surtitles at most commercial musicals) — go for the production values and score, not the plot detail. Re-confirm dates and buy on [NOL Ticket](https://tickets.interpark.com/contents/genre/musical), the official seller listing all three.
+- **All are sung in Korean** (no surtitles at most commercial musicals) — go for the production values and score, not the plot detail. Re-confirm dates and buy on NOL Ticket, the authorized seller listing all three.
+- **Official primary source (reviewed Aug 18):** [NOL Ticket — musical listings](https://tickets.interpark.com/contents/genre/musical)
 
 ### 85) 🚢 **Han River cruises and Han River Bus** — 🔎 VERIFIED OPERATORS
 - **What:** Eland tourist cruises from Yeouido and the city’s river-bus ferries. Timetables are operator-specific.
@@ -530,7 +531,8 @@ Seoul is the trip’s main base. This file was rebuilt on **August 17, 2026** un
 - **《Rothko》 — Fri Nov 13–Sun Nov 15, LG SIGNATURE Hall.** Polish director **Łukasz Twarkowski's** media-saturated stage piece built on the real Mark Rothko forgery scandal — truth vs fake in the art market. ⚠️ **Running time is about 4 hours** — plan the evening around it. On sale now via the venue/NOL.
 - **Stacey Kent — Thu Nov 19, 19:30, LG SIGNATURE Hall.** The Grammy-nominated jazz vocalist's Seoul concert (venue's own announcement).
 - **Yangson Project 《민중의 적》 (An Enemy of the People, working title) — Nov 20–29, U+ Stage** — only Nov 20–22 fall inside the trip; title marked 가제, re-check before booking.
-- **Official sources (reviewed Aug 18):** [lgart.com — CoMPAS 26](https://www.lgart.com) · [venue lineup announcement — Seoul Culture Today, Dec 18, 2025](http://www.sctoday.co.kr/news/articleView.html?idxno=46735) (Rothko Nov 13–15; 민중의 적 Nov 20–29) · [NOL venue listing — Rothko on sale 2026.11.13–15](https://mticket.interpark.com/Place/Detail?placeCode=22000754) · [LG Arts Center official Instagram — Stacey Kent 26.11.19 19:30](https://www.instagram.com/lgartscenter/)
+- **Official sources (reviewed Aug 18):** [LG Arts Center — CoMPAS 26](https://www.lgart.com) · [NOL venue listing — Rothko on sale 2026.11.13–15](https://mticket.interpark.com/Place/Detail?placeCode=22000754) · [LG Arts Center official Instagram — Stacey Kent 26.11.19 19:30](https://www.instagram.com/lgartscenter/)
+- **Corroboration only:** [Seoul Culture Today, Dec 18, 2025](http://www.sctoday.co.kr/news/articleView.html?idxno=46735) (Rothko Nov 13–15; 민중의 적 Nov 20–29)
 
 ### 99) 🎶 **Seoul Metropolitan Opera — 《La Bohème》** — ✅ CONFIRMED — Thu Nov 5–Sun Nov 8, 2026 · Sejong Grand Theater · NEW
 - **What:** Puccini's *La Bohème* staged by the **Seoul Metropolitan Opera (서울시오페라단)** in the Sejong Center Grand Theater — part of the official 2026 Sejong Season (announced Dec 22, 2025) with top Korean voices (양준모, 서선영, 최지은, 전승현 and others announced).

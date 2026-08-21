@@ -151,7 +151,8 @@ Daejeon and Cheonan sit on the Seoul–Busan KTX line (about 50 and 35–45 minu
 - **Official source (reviewed Aug 17):** [oworld.kr](https://www.oworld.kr)
 
 ### 28) 🎭 **Daejeon Arts Center / Daejeon Philharmonic** — ⏳ CHECK NOVEMBER CALENDAR
-- **What:** Main performing-arts complex. Attend only a dated concert on [djac.or.kr](https://www.djac.or.kr) / [dpo.or.kr](https://www.dpo.or.kr).
+- **What:** Main performing-arts complex. Attend only a dated concert shown by the venue or orchestra.
+- **Official sources (reviewed Aug 17):** [Daejeon Arts Center](https://www.djac.or.kr) · [Daejeon Philharmonic](https://www.dpo.or.kr)
 
 ### 29) 🚲 **Tashu public bikes and Gapcheon path** — 🔎 VERIFIED ACTIVITY
 - **What:** City bike-share plus the flat riverside path past Expo Park.
