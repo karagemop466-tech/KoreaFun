@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KoreaFun — Korea trip guide · Oct 31–Nov 22, 2026</title>
+  <meta name="description" content="Beginner-friendly guide to live events, festivals, sports, and 13 Korean cities. Trip window: Saturday Oct 31 → Sunday Nov 22, 2026.">
+  <meta name="theme-color" content="#1A1612">
+  <meta property="og:title" content="KoreaFun — Korea trip guide, Oct 31–Nov 22 2026">
+  <meta property="og:description" content="700 verified activities across 13 cities for a first-time Korea trip.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/og.jpg">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect fill='%231A1612' width='32' height='32' rx='7'/%3E%3Cpath fill='%23E3B23C' d='M5 17.5 L16 7 l11 10.5v1.5H5z'/%3E%3Crect fill='%23C4452D' x='11' y='18.5' width='10' height='7'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Noto+Sans+KR:wght@400;500;700&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #1A1612;
+      --ink-soft: #2A241E;
+      --hanji: #F4EBDD;
+      --paper: #FBF6EE;
+      --cinnabar: #B33A28;
+      --cinnabar-deep: #8E2C1E;
+      --gold: #C4963A;
+      --gold-soft: #E8D3A0;
+      --pine: #243F34;
+      --muted: #6B5E50;
+      --line: rgba(26, 22, 18, 0.12);
+      --shadow: 0 18px 50px rgba(26, 22, 18, 0.18);
+      --sidebar: 280px;
+      --display: "Cormorant Garamond", "Times New Roman", serif;
+      --sans: "Source Sans 3", "Noto Sans KR", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--sans);
+      background: var(--hanji);
+      color: var(--ink);
+      min-height: 100vh;
+    }
+    a { color: var(--cinnabar); }
+    a:hover { color: var(--cinnabar-deep); }
+    .skip {
+      position: absolute; left: -999px; top: 8px;
+      background: var(--gold); color: var(--ink); padding: 8px 12px; z-index: 20;
+    }
+    .skip:focus { left: 8px; }
+    .shell { display: flex; min-height: 100vh; }
+    aside {
+      width: var(--sidebar);
+      flex-shrink: 0;
+      background: var(--ink);
+      color: var(--hanji);
+      display: flex;
+      flex-direction: column;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow: hidden;
+    }
+    .brand {
+      padding: 28px 22px 18px;
+      border-bottom: 1px solid rgba(244, 235, 221, 0.1);
+    }
+    .brand-kicker {
+      font-size: 11px;
+      letter-spacing: 0.28em;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 600;
+    }
+    .brand h1 {
+      font-family: var(--display);
+      font-size: 34px;
+      margin: 6px 0 4px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      color: #FBF6EE;
+    }
+    .brand p {
+      margin: 0;
+      color: rgba(244, 235, 221, 0.72);
+      font-size: 13.5px;
+      line-height: 1.45;
+    }
+    .nav-search {
+      margin: 14px 16px 8px;
+    }
+    .nav-search input {
+      width: 100%;
+      background: var(--ink-soft);
+      border: 1px solid rgba(244, 235, 221, 0.14);
+      color: var(--hanji);
+      border-radius: 999px;
+      padding: 9px 14px;
+      font: inherit;
+      font-size: 13px;
+    }
+    .nav-search input::placeholder { color: rgba(244, 235, 221, 0.45); }
+    .nav-search input:focus {
+      outline: 2px solid var(--gold);
+      outline-offset: 1px;
+    }
+    nav {
+      overflow-y: auto;
+      padding: 8px 10px 28px;
+      flex: 1;
+    }
+    .group {
+      margin: 16px 8px 6px;
+      font-size: 10px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 700;
+    }
+    nav a {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+      color: rgba(244, 235, 221, 0.86);
+      text-decoration: none;
+      padding: 8px 12px;
+      border-radius: 10px;
+      font-size: 14.5px;
+      font-weight: 500;
+    }
+    nav a:hover { background: rgba(244, 235, 221, 0.07); color: #fff; }
+    nav a.active {
+      background: linear-gradient(90deg, #C4452D, #9E2F20);
+      color: #fff;
+    }
+    nav a .meta {
+      font-size: 11px;
+      color: rgba(244, 235, 221, 0.45);
+      font-weight: 600;
+    }
+    nav a.active .meta { color: rgba(255,255,255,0.75); }
+    .aside-foot {
+      padding: 12px 20px 18px;
+      border-top: 1px solid rgba(244, 235, 221, 0.1);
+      font-size: 12px;
+      color: rgba(244, 235, 221, 0.5);
+    }
+    .aside-foot a { color: var(--gold-soft); text-decoration: none; }
+    main {
+      flex: 1;
+      min-width: 0;
+      background:
+        radial-gradient(1200px 400px at 20% -10%, rgba(227, 178, 60, 0.14), transparent 55%),
+        var(--hanji);
+    }
+    .topbar {
+      display: none;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 16px;
+      background: var(--ink);
+      color: var(--hanji);
+      position: sticky;
+      top: 0;
+      z-index: 8;
+    }
+    .topbar strong {
+      font-family: var(--display);
+      font-size: 22px;
+    }
+    .menu-btn {
+      background: transparent;
+      color: var(--hanji);
+      border: 1px solid rgba(244,235,221,0.25);
+      border-radius: 8px;
+      width: 40px; height: 40px;
+      font-size: 20px;
+      cursor: pointer;
+    }
+    .hero {
+      margin: 28px 28px 0;
+      border-radius: 22px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      position: relative;
+      display: none;
+    }
+    .hero.show { display: block; }
+    .hero img {
+      width: 100%;
+      height: min(42vw, 420px);
+      object-fit: cover;
+      display: block;
+    }
+    .hero figcaption {
+      position: absolute;
+      left: 0; right: 0; bottom: 0;
+      padding: 48px 28px 20px;
+      background: linear-gradient(transparent, rgba(26,22,18,0.82));
+      color: #FBF6EE;
+    }
+    .hero figcaption span {
+      display: block;
+      font-size: 12px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold-soft);
+      margin-bottom: 6px;
+    }
+    .hero figcaption strong {
+      font-family: var(--display);
+      font-size: clamp(28px, 4vw, 46px);
+      font-weight: 700;
+    }
+    .article-wrap {
+      padding: 28px 8vw 80px;
+      max-width: 980px;
+    }
+    .crumb {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+    .status {
+      display: none;
+      padding: 40px 8px;
+      color: var(--muted);
+    }
+    .status.show { display: block; }
+    .md {
+      font-size: 17.5px;
+      line-height: 1.7;
+    }
+    .md > *:first-child { margin-top: 0; }
+    .md h1, .md h2, .md h3, .md h4 {
+      font-family: var(--display);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      color: var(--ink);
+    }
+    .md h1 { font-size: clamp(32px, 5vw, 48px); margin: 0 0 18px; }
+    .md h2 {
+      font-size: 30px;
+      margin: 42px 0 14px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--line);
+    }
+    .md h3 { font-size: 23px; margin: 28px 0 10px; }
+    .md h4 { font-size: 19px; margin: 22px 0 8px; }
+    .md p, .md ul, .md ol { margin: 0 0 14px; }
+    .md li { margin: 0 0 6px; }
+    .md blockquote {
+      margin: 18px 0;
+      padding: 12px 16px 12px 18px;
+      border-left: 3px solid var(--gold);
+      background: rgba(196, 150, 58, 0.1);
+      color: #3A3128;
+    }
+    .md blockquote p:last-child { margin-bottom: 0; }
+    .md hr {
+      border: 0;
+      border-top: 1px solid var(--line);
+      margin: 28px 0;
+    }
+    .md code {
+      font-size: 0.88em;
+      background: rgba(26,22,18,0.06);
+      padding: 1px 5px;
+      border-radius: 4px;
+    }
+    .md pre {
+      overflow: auto;
+      background: var(--ink);
+      color: var(--hanji);
+      padding: 14px 16px;
+      border-radius: 12px;
+    }
+    .md pre code { background: none; color: inherit; }
+    .table-scroll { overflow-x: auto; margin: 0 0 18px; }
+    .md table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 14.5px;
+      background: var(--paper);
+    }
+    .md th, .md td {
+      border: 1px solid var(--line);
+      padding: 8px 10px;
+      text-align: left;
+      vertical-align: top;
+    }
+    .md th {
+      background: #EFE2CD;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .md tr:nth-child(even) td { background: rgba(255,255,255,0.45); }
+    .md img { max-width: 100%; height: auto; border-radius: 12px; }
+    .csv-tools {
+      display: flex; gap: 10px; flex-wrap: wrap; margin: 0 0 14px;
+    }
+    .csv-tools input, .csv-tools select {
+      font: inherit;
+      padding: 8px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      background: var(--paper);
+    }
+    .backdrop {
+      display: none;
+      position: fixed; inset: 0;
+      background: rgba(26,22,18,0.45);
+      z-index: 9;
+    }
+    .to-top {
+      position: fixed;
+      right: 18px; bottom: 18px;
+      width: 42px; height: 42px;
+      border-radius: 50%;
+      border: 0;
+      background: var(--ink);
+      color: var(--hanji);
+      cursor: pointer;
+      box-shadow: var(--shadow);
+      display: none;
+    }
+    .to-top.show { display: block; }
+    @media (max-width: 860px) {
+      aside {
+        position: fixed;
+        z-index: 10;
+        transform: translateX(-105%);
+        transition: transform 0.22s ease;
+      }
+      aside.open { transform: none; }
+      .topbar { display: flex; }
+      .hero { margin: 16px 16px 0; border-radius: 16px; }
+      .hero img { height: 200px; }
+      .article-wrap { padding: 20px 18px 64px; }
+      .backdrop.show { display: block; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to guide</a>
+  <div class="shell">
+    <aside id="sidebar">
+      <div class="brand">
+        <div class="brand-kicker">Fall 2026 field guide</div>
+        <h1>KoreaFun</h1>
+        <p>Oct 31 → Nov 22 · Seoul, Busan, and 11 more cities.</p>
+      </div>
+      <div class="nav-search">
+        <input id="filter" type="search" placeholder="Filter pages…" aria-label="Filter pages">
+      </div>
+      <nav id="nav" aria-label="Guide"></nav>
+      <div class="aside-foot">
+        Source on <a href="https://github.com/karagemop466-tech/KoreaFun">GitHub</a>
+      </div>
+    </aside>
+    <main>
+      <div class="topbar">
+        <button class="menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
+        <strong>KoreaFun</strong>
+      </div>
+      <figure class="hero" id="hero">
+        <img src="assets/hero.jpg" alt="Illustrated Korea trip: palace courtyards in autumn, a KTX train, and fireworks over a coastal bridge">
+        <figcaption>
+          <span>A first-time visitor’s handbook</span>
+          <strong>Thirteen cities. Twenty-three days.</strong>
+        </figcaption>
+      </figure>
+      <div class="article-wrap">
+        <div class="crumb" id="crumb"></div>
+        <div class="status" id="status">Loading the guide…</div>
+        <article class="md" id="content"></article>
+      </div>
+    </main>
+  </div>
+  <div class="backdrop" id="backdrop"></div>
+  <button class="to-top" id="toTop" aria-label="Back to top">↑</button>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@15.0.7/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
+  <script>
+    const BRANCH = "arena/01a023f0-koreafun";
+    const RAW = "https://raw.githubusercontent.com/karagemop466-tech/KoreaFun/" + BRANCH + "/";
+    const PAGES = [
+      { id: "home", file: "README.md", title: "Overview", group: "Plan" },
+      { id: "itinerary", file: "itinerary.md", title: "Day-by-day", group: "Plan" },
+      { id: "travel-basics", file: "travel-basics.md", title: "Travel basics", group: "Plan" },
+      { id: "walking-maps", file: "walking-maps.md", title: "Walking maps", group: "Plan" },
+      { id: "seoul", file: "seoul.md", title: "Seoul", group: "Core cities", meta: "100" },
+      { id: "myeongdong", file: "myeongdong.md", title: "Myeong-dong", group: "Core cities", meta: "38" },
+      { id: "seoul-districts", file: "seoul-districts.md", title: "Seoul districts", group: "Core cities", meta: "106" },
+      { id: "busan", file: "busan.md", title: "Busan", group: "Core cities", meta: "51" },
+      { id: "daejeon-cheonan", file: "daejeon-cheonan.md", title: "Daejeon / Cheonan", group: "Core cities", meta: "44" },
+      { id: "suwon", file: "suwon.md", title: "Suwon", group: "Nearby cities", meta: "40" },
+      { id: "yongin", file: "yongin.md", title: "Yongin", group: "Nearby cities", meta: "37" },
+      { id: "incheon", file: "incheon.md", title: "Incheon", group: "Nearby cities", meta: "45" },
+      { id: "jeonju", file: "jeonju.md", title: "Jeonju", group: "Nearby cities", meta: "38" },
+      { id: "daegu", file: "daegu.md", title: "Daegu", group: "Nearby cities", meta: "38" },
+      { id: "gyeongju", file: "gyeongju.md", title: "Gyeongju", group: "Nearby cities", meta: "36" },
+      { id: "ulsan", file: "ulsan.md", title: "Ulsan", group: "Nearby cities", meta: "31" },
+      { id: "pohang", file: "pohang.md", title: "Pohang", group: "Nearby cities", meta: "31" },
+      { id: "changwon-jinhae", file: "changwon-jinhae.md", title: "Changwon / Jinhae", group: "Nearby cities", meta: "30" },
+      { id: "yeosu", file: "yeosu.md", title: "Yeosu", group: "Nearby cities", meta: "35" },
+      { id: "sources", file: "sources.md", title: "Sources", group: "Reference" },
+      { id: "events", file: "events.csv", title: "Events table", group: "Reference", kind: "csv" }
+    ];
+    const BY_ID = Object.fromEntries(PAGES.map(p => [p.id, p]));
+    const BY_FILE = Object.fromEntries(PAGES.map(p => [p.file.toLowerCase(), p]));
+
+    const navEl = document.getElementById("nav");
+    const contentEl = document.getElementById("content");
+    const statusEl = document.getElementById("status");
+    const crumbEl = document.getElementById("crumb");
+    const heroEl = document.getElementById("hero");
+    const sidebar = document.getElementById("sidebar");
+    const backdrop = document.getElementById("backdrop");
+
+    function renderNav(filter = "") {
+      const q = filter.trim().toLowerCase();
+      const activeId = parseHash().id;
+      const groups = [];
+      for (const page of PAGES) {
+        if (q && !page.title.toLowerCase().includes(q) && !page.id.includes(q)) continue;
+        const last = groups[groups.length - 1];
+        if (!last || last.name !== page.group) groups.push({ name: page.group, pages: [page] });
+        else last.pages.push(page);
+      }
+      navEl.innerHTML = groups.map(g =>
+        `<div class="group">${g.name}</div>` +
+        g.pages.map(p =>
+          `<a href="#${p.id}" data-id="${p.id}" class="${p.id === activeId ? "active" : ""}"${p.id === activeId ? ' aria-current="page"' : ""}>${p.title}${p.meta ? `<span class="meta">${p.meta}</span>` : ""}</a>`
+        ).join("")
+      ).join("") || `<div class="group">No matching pages</div>`;
+    }
+
+    function parseHash() {
+      const raw = (location.hash || "#home").replace(/^#/, "");
+      const [idPart, anchor] = raw.split(":");
+      const id = BY_ID[idPart] ? idPart : "home";
+      return { id, anchor: anchor || "" };
+    }
+
+    function slugify(text) {
+      return String(text)
+        .replace(/<[^>]+>/g, "")
+        .toLowerCase()
+        .trim()
+        .replace(/[^\w\uac00-\ud7af\s-]/g, "")
+        .replace(/\s+/g, "-");
+    }
+
+    function parseCSV(text) {
+      const rows = [];
+      let row = [], cell = "", quoted = false;
+      for (let i = 0; i < text.length; i++) {
+        const c = text[i];
+        if (quoted) {
+          if (c === '"') {
+            if (text[i + 1] === '"') { cell += '"'; i++; }
+            else quoted = false;
+          } else cell += c;
+        } else if (c === '"') quoted = true;
+        else if (c === ",") { row.push(cell); cell = ""; }
+        else if (c === "\n") { row.push(cell); rows.push(row); row = []; cell = ""; }
+        else if (c !== "\r") cell += c;
+      }
+      if (cell.length || row.length) { row.push(cell); rows.push(row); }
+      return rows.filter(r => r.some(x => x && x.trim()));
+    }
+
+    function csvToHTML(text) {
+      const rows = parseCSV(text);
+      if (!rows.length) return "<p>No events in the table.</p>";
+      const [header, ...body] = rows;
+      const cities = [...new Set(body.map(r => r[0]).filter(Boolean))].sort();
+      const cityOpts = cities.map(c => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join("");
+      const thead = "<tr>" + header.map(h => `<th>${escapeHtml(h)}</th>`).join("") + "</tr>";
+      const tbody = body.map(r => "<tr>" + header.map((_, i) => {
+        const val = r[i] || "";
+        const cell = /https?:\/\//.test(val)
+          ? val.split(/;\s*/).map(u => `<a href="${escapeHtml(u)}" target="_blank" rel="noopener">${escapeHtml(u)}</a>`).join("<br>")
+          : escapeHtml(val);
+        return `<td>${cell}</td>`;
+      }).join("") + "</tr>").join("");
+      return `<div class="csv-tools">
+          <input id="csvQ" type="search" placeholder="Search events…">
+          <select id="csvCity"><option value="">All cities</option>${cityOpts}</select>
+        </div>
+        <div class="table-scroll"><table id="csvTable"><thead>${thead}</thead><tbody>${tbody}</tbody></table></div>`;
+    }
+
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, ch => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[ch]));
+    }
+
+    function rewriteLinks(root, pageId) {
+      root.querySelectorAll("a[href]").forEach(a => {
+        const href = a.getAttribute("href") || "";
+        if (/^(https?:|mailto:|tel:)/i.test(href)) {
+          a.setAttribute("target", "_blank");
+          a.setAttribute("rel", "noopener");
+          return;
+        }
+        if (href.startsWith("#") && !href.startsWith("#" + pageId)) {
+          a.setAttribute("href", "#" + pageId + ":" + href.slice(1));
+          return;
+        }
+        const [path, frag] = href.split("#");
+        const file = (path || "").split("/").pop().toLowerCase();
+        const dest = BY_FILE[file];
+        if (dest) a.setAttribute("href", "#" + dest.id + (frag ? ":" + frag : ""));
+      });
+      root.querySelectorAll("table").forEach(table => {
+        if (table.parentElement.classList.contains("table-scroll")) return;
+        const wrap = document.createElement("div");
+        wrap.className = "table-scroll";
+        table.parentNode.insertBefore(wrap, table);
+        wrap.appendChild(table);
+      });
+    }
+
+    async function fetchText(file) {
+      const urls = [file, RAW + file];
+      let lastErr;
+      for (const url of urls) {
+        try {
+          const res = await fetch(url);
+          if (res.ok) return await res.text();
+          lastErr = new Error(res.status + " " + url);
+        } catch (err) { lastErr = err; }
+      }
+      throw lastErr || new Error("Could not load " + file);
+    }
+
+    let currentId = "";
+    async function load() {
+      const { id, anchor } = parseHash();
+      document.querySelectorAll("nav a").forEach(a => {
+        a.classList.toggle("active", a.dataset.id === id);
+        if (a.dataset.id === id) a.setAttribute("aria-current", "page");
+        else a.removeAttribute("aria-current");
+      });
+      heroEl.classList.toggle("show", id === "home");
+      const page = BY_ID[id];
+      crumbEl.textContent = page.group + " · " + page.title;
+      document.title = page.title + " · KoreaFun";
+      closeMenu();
+
+      if (id !== currentId) {
+        currentId = id;
+        contentEl.innerHTML = "";
+        statusEl.textContent = "Loading " + page.title + "…";
+        statusEl.classList.add("show");
+        try {
+          const text = await fetchText(page.file);
+          if (page.kind === "csv") {
+            contentEl.innerHTML = "<h1>Events table</h1><p>Machine-readable trip database from <code>events.csv</code>.</p>" + csvToHTML(text);
+            const q = document.getElementById("csvQ");
+            const city = document.getElementById("csvCity");
+            const filterRows = () => {
+              const needle = (q.value || "").toLowerCase();
+              const cityVal = city.value;
+              document.querySelectorAll("#csvTable tbody tr").forEach(tr => {
+                const matchCity = !cityVal || tr.children[0].textContent === cityVal;
+                const matchText = !needle || tr.textContent.toLowerCase().includes(needle);
+                tr.style.display = matchCity && matchText ? "" : "none";
+              });
+            };
+            q.addEventListener("input", filterRows);
+            city.addEventListener("change", filterRows);
+          } else {
+            const html = marked.parse(text, { gfm: true, breaks: false });
+            contentEl.innerHTML = window.DOMPurify ? DOMPurify.sanitize(html) : html;
+            contentEl.querySelectorAll("h1,h2,h3,h4,h5").forEach(h => {
+              if (!h.id) h.id = slugify(h.textContent);
+            });
+            rewriteLinks(contentEl, id);
+          }
+          statusEl.classList.remove("show");
+        } catch (err) {
+          statusEl.textContent = "Could not load this page. " + err.message;
+        }
+      }
+      if (anchor) {
+        const target = document.getElementById(decodeURIComponent(anchor)) ||
+          document.querySelector(`[name="${CSS.escape(decodeURIComponent(anchor))}"]`);
+        if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+      } else if (!heroEl.classList.contains("show")) {
+        contentEl.scrollIntoView({ behavior: "auto", block: "start" });
+      } else {
+        window.scrollTo({ top: 0, behavior: "auto" });
+      }
+    }
+
+    function closeMenu() {
+      sidebar.classList.remove("open");
+      backdrop.classList.remove("show");
+    }
+    function openMenu() {
+      sidebar.classList.add("open");
+      backdrop.classList.add("show");
+    }
+
+    renderNav();
+    document.getElementById("filter").addEventListener("input", e => renderNav(e.target.value));
+    document.getElementById("menuBtn").addEventListener("click", openMenu);
+    backdrop.addEventListener("click", closeMenu);
+    window.addEventListener("hashchange", load);
+    window.addEventListener("scroll", () => {
+      document.getElementById("toTop").classList.toggle("show", window.scrollY > 700);
+    });
+    document.getElementById("toTop").addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+    if (!location.hash) location.hash = "#home";
+    else load();
+  </script>
+</body>
+</html>
